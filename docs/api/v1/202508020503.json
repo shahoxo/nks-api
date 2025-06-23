@@ -1,0 +1,152 @@
+{
+  "race_id": "202508020503",
+  "race_name": "3歳未勝利",
+  "race_time": "",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105688",
+      "horse_name": "ドバイミッション",
+      "score": 0.20857954173522908,
+      "horse_number": 12,
+      "odds": 6.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104117",
+      "horse_name": "レインオンミー",
+      "score": 0.13115871340951377,
+      "horse_number": 9,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105090",
+      "horse_name": "アラモアナ",
+      "score": 0.11663689090802293,
+      "horse_number": 8,
+      "odds": 7.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103689",
+      "horse_name": "サマンサバローズ",
+      "score": 0.048677203169357225,
+      "horse_number": 14,
+      "odds": 4.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103729",
+      "horse_name": "セクシーマージュ",
+      "score": -0.0054675516829381515,
+      "horse_number": 6,
+      "odds": 7.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102564",
+      "horse_name": "キーブリーゼ",
+      "score": -0.009309144727922929,
+      "horse_number": 3,
+      "odds": 12.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105313",
+      "horse_name": "セレスチャルホープ",
+      "score": -0.24811071965989306,
+      "horse_number": 2,
+      "odds": 22.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102445",
+      "horse_name": "トウカイフルーレ",
+      "score": -0.29598363220097196,
+      "horse_number": 16,
+      "odds": 12.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106576",
+      "horse_name": "ケイアイテア",
+      "score": -0.3192763691544455,
+      "horse_number": 10,
+      "odds": 61.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100962",
+      "horse_name": "クイーンズデイ",
+      "score": -0.353793724950686,
+      "horse_number": 15,
+      "odds": 34.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105046",
+      "horse_name": "ルージュカリーナ",
+      "score": -0.3747209464441859,
+      "horse_number": 11,
+      "odds": 21.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104408",
+      "horse_name": "トップレディー",
+      "score": -0.4978560760769005,
+      "horse_number": 17,
+      "odds": 25.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103742",
+      "horse_name": "テイエムファルクス",
+      "score": -0.5025507983862761,
+      "horse_number": 13,
+      "odds": 125.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104019",
+      "horse_name": "クロスレート",
+      "score": -0.5780690536988875,
+      "horse_number": 7,
+      "odds": 37.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105770",
+      "horse_name": "グラースオショコラ",
+      "score": -0.5939314951797675,
+      "horse_number": 4,
+      "odds": 37.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022105208",
+      "horse_name": "デルマケプラー",
+      "score": -0.6543632925823613,
+      "horse_number": 18,
+      "odds": 152.3
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022100852",
+      "horse_name": "ライフク",
+      "score": -0.6553546206254016,
+      "horse_number": 1,
+      "odds": 76.4
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022105886",
+      "horse_name": "エールヴェガ",
+      "score": -0.7080136536659949,
+      "horse_number": 5,
+      "odds": 52.5
+    }
+  ]
+}
