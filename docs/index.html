@@ -1,7 +1,7 @@
 ---
 layout: default
 title: NKS API
-description: API documentation for nks-api.shahoxo.com
+description: API documentation for nks-api
 theme: jekyll-theme-hacker
 ---
 
@@ -63,7 +63,7 @@ document.getElementById('race-form').addEventListener('submit', function(event) 
   }
 
   // Fetch the race data
-  fetch(`https://nks-api.shahoxo.com/api/v1/${raceId}.json`)
+  fetch(`https://shahoxo.github.io/nks-api/api/v1/${raceId}.json`)
     .then(response => {
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
