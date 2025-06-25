@@ -36,7 +36,7 @@ Example: `/api/v1/202508020503.json`
 
   <div id="result-container" style="display: none;">
     <h3>Result:</h3>
-    <pre id="json-result" style="background-color: #f5f5f5; padding: 10px; overflow: auto; max-height: 500px;"></pre>
+    <pre id="json-result" style="background-color: rgba(0,0,0,0.9); padding: 10px; overflow: auto; max-height: 500px;"></pre>
   </div>
 
   <div id="error-container" style="display: none; color: red;"></div>
