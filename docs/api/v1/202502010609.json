@@ -1,0 +1,88 @@
+{
+  "race_id": "202502010609",
+  "race_name": "臥牛山特別",
+  "race_time": "2025-06-29 14:15",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022107282",
+      "horse_name": "レクスノヴァス",
+      "score": 0.29740555719135436,
+      "horse_number": 1,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106828",
+      "horse_name": "マイネルゼウス",
+      "score": 0.1597005771181843,
+      "horse_number": 7,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104684",
+      "horse_name": "ウィンスタンリー",
+      "score": 0.12192644192815838,
+      "horse_number": 2,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105611",
+      "horse_name": "ボルケーノ",
+      "score": -0.006636983214312596,
+      "horse_number": 6,
+      "odds": 9.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103772",
+      "horse_name": "エイトスターズ",
+      "score": -0.010274711753328104,
+      "horse_number": 10,
+      "odds": 12.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104887",
+      "horse_name": "シュバルツマサムネ",
+      "score": -0.09047485281123496,
+      "horse_number": 9,
+      "odds": 5.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102574",
+      "horse_name": "トゥルブレンツ",
+      "score": -0.22736851540162925,
+      "horse_number": 4,
+      "odds": 35.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102864",
+      "horse_name": "サングラデーション",
+      "score": -0.3686275336496194,
+      "horse_number": 5,
+      "odds": 29.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103150",
+      "horse_name": "タルタロス",
+      "score": -0.3719557355866788,
+      "horse_number": 3,
+      "odds": 27.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100621",
+      "horse_name": "マイバラード",
+      "score": -0.3966907551330507,
+      "horse_number": 8,
+      "odds": 14.5
+    }
+  ]
+}

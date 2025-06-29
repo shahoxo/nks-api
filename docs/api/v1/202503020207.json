@@ -8,25 +8,25 @@
       "rank": 1,
       "horse_id": "2022103779",
       "horse_name": "ゴールドハンマー",
-      "score": 0.2317674118670462,
+      "score": 0.289764293042732,
       "horse_number": 4,
       "odds": 1.6
     },
     {
       "rank": 2,
-      "horse_id": "2022106686",
-      "horse_name": "スターランウェイ",
-      "score": 0.19174702052393142,
-      "horse_number": 11,
-      "odds": 5.9
+      "horse_id": "2022107163",
+      "horse_name": "アシャカトベ",
+      "score": 0.18059047537886488,
+      "horse_number": 8,
+      "odds": 18.1
     },
     {
       "rank": 3,
-      "horse_id": "2022107163",
-      "horse_name": "アシャカトベ",
-      "score": 0.18746331968433666,
-      "horse_number": 8,
-      "odds": 18.1
+      "horse_id": "2022106686",
+      "horse_name": "スターランウェイ",
+      "score": 0.14289311566529925,
+      "horse_number": 11,
+      "odds": 5.9
     },
     {
       "rank": 4,
@@ -40,57 +40,57 @@
       "rank": 5,
       "horse_id": "2020103937",
       "horse_name": "ラヴァグロウ",
-      "score": 0.07530283537827918,
+      "score": 0.026448930519647036,
       "horse_number": 5,
       "odds": 44.6
     },
     {
       "rank": 6,
-      "horse_id": "2022101409",
-      "horse_name": "レーヴレジェンド",
-      "score": 0.03786802784983785,
-      "horse_number": 10,
-      "odds": 58.8
-    },
-    {
-      "rank": 7,
-      "horse_id": "2022101398",
-      "horse_name": "リクエイ",
-      "score": 0.029652979454731304,
-      "horse_number": 6,
-      "odds": 36.6
-    },
-    {
-      "rank": 8,
       "horse_id": "2022101908",
       "horse_name": "イズルード",
-      "score": -0.04441983660220858,
+      "score": -0.016334769606286995,
       "horse_number": 16,
       "odds": 9.9
     },
     {
+      "rank": 7,
+      "horse_id": "2022101409",
+      "horse_name": "レーヴレジェンド",
+      "score": -0.050877025704271106,
+      "horse_number": 10,
+      "odds": 58.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101398",
+      "horse_name": "リクエイ",
+      "score": -0.07768218548363805,
+      "horse_number": 6,
+      "odds": 36.6
+    },
+    {
       "rank": 9,
+      "horse_id": "2021101800",
+      "horse_name": "マサノヒーロー",
+      "score": -0.09985587959449649,
+      "horse_number": 7,
+      "odds": 22.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105609",
+      "horse_name": "ライヴドライバー",
+      "score": -0.10281699766837804,
+      "horse_number": 9,
+      "odds": 29.3
+    },
+    {
+      "rank": 11,
       "horse_id": "2022102264",
       "horse_name": "エベリンテソーロ",
       "score": -0.11445515996123619,
       "horse_number": 3,
       "odds": 41.9
-    },
-    {
-      "rank": 10,
-      "horse_id": "2021101800",
-      "horse_name": "マサノヒーロー",
-      "score": -0.12794094659041805,
-      "horse_number": 7,
-      "odds": 22.9
-    },
-    {
-      "rank": 11,
-      "horse_id": "2022105609",
-      "horse_name": "ライヴドライバー",
-      "score": -0.13901428482338252,
-      "horse_number": 9,
-      "odds": 29.3
     },
     {
       "rank": 12,
@@ -104,7 +104,7 @@
       "rank": 13,
       "horse_id": "2022103443",
       "horse_name": "ポップグルーヴ",
-      "score": -0.2545253592207448,
+      "score": -0.28023912877276436,
       "horse_number": 15,
       "odds": 139.4
     },

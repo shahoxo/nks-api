@@ -1,0 +1,80 @@
+{
+  "race_id": "202503020208",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-06-29 14:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105389",
+      "horse_name": "トライデントスピア",
+      "score": 0.269156055387764,
+      "horse_number": 1,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101639",
+      "horse_name": "ソルトブリーズ",
+      "score": 0.22134978508447517,
+      "horse_number": 3,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103410",
+      "horse_name": "ディバイングレース",
+      "score": -0.0732883922352108,
+      "horse_number": 5,
+      "odds": 9.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101425",
+      "horse_name": "エナジーショット",
+      "score": -0.34038255834934694,
+      "horse_number": 8,
+      "odds": 5.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106803",
+      "horse_name": "ミラーダカリエンテ",
+      "score": -0.4616480850445277,
+      "horse_number": 2,
+      "odds": 4.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018103120",
+      "horse_name": "フロスティクォーツ",
+      "score": -0.5535478197214566,
+      "horse_number": 6,
+      "odds": 61.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101184",
+      "horse_name": "シャイニースイフト",
+      "score": -0.5555810340274161,
+      "horse_number": 4,
+      "odds": 24.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106370",
+      "horse_name": "チェイスザウィンド",
+      "score": -0.5808237938692197,
+      "horse_number": 9,
+      "odds": 26.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106772",
+      "horse_name": "バセリーナ",
+      "score": -0.588214498764502,
+      "horse_number": 7,
+      "odds": 14.2
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202510020208",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-06-29 13:55",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101675",
+      "horse_name": "スノーサイレンス",
+      "score": 0.27318749605100123,
+      "horse_number": 12,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106604",
+      "horse_name": "ヤマニンシュラ",
+      "score": 0.24362373766616663,
+      "horse_number": 2,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100226",
+      "horse_name": "ディーエスショウマ",
+      "score": 0.1496968435182496,
+      "horse_number": 13,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104674",
+      "horse_name": "フィドルファドル",
+      "score": 0.04614716212598314,
+      "horse_number": 1,
+      "odds": 4.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104600",
+      "horse_name": "イマージョン",
+      "score": 0.03426477338056339,
+      "horse_number": 14,
+      "odds": 10.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100660",
+      "horse_name": "ロードヴァルカン",
+      "score": 0.005708828408457414,
+      "horse_number": 8,
+      "odds": 32.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104404",
+      "horse_name": "シュークリーム",
+      "score": -0.14803225249287663,
+      "horse_number": 3,
+      "odds": 9.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101128",
+      "horse_name": "フェールブリエ",
+      "score": -0.20722614090641606,
+      "horse_number": 9,
+      "odds": 101.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2017103155",
+      "horse_name": "トモジャアルマンド",
+      "score": -0.21875152198471537,
+      "horse_number": 6,
+      "odds": 89.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100271",
+      "horse_name": "フォティック",
+      "score": -0.24008668167188907,
+      "horse_number": 7,
+      "odds": 18.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102640",
+      "horse_name": "サイモンオリーブ",
+      "score": -0.2818015471553483,
+      "horse_number": 10,
+      "odds": 51.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100065",
+      "horse_name": "トゥインクルアップ",
+      "score": -0.4305949310973094,
+      "horse_number": 5,
+      "odds": 8.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018106865",
+      "horse_name": "シンゼンシャイン",
+      "score": -0.6318373387288261,
+      "horse_number": 11,
+      "odds": 87.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101730",
+      "horse_name": "ピコサン",
+      "score": -0.6970415147616792,
+      "horse_number": 4,
+      "odds": 83.5
+    }
+  ]
+}
