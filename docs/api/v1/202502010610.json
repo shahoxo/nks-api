@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2021104413",
       "horse_name": "ウェイトゥゴー",
-      "score": 0.08697186261811114,
+      "score": 0.10945979755674831,
       "horse_number": 11,
       "odds": 2.8
     },
@@ -16,7 +16,7 @@
       "rank": 2,
       "horse_id": "2020100387",
       "horse_name": "オールマキシマム",
-      "score": 0.004631783776842654,
+      "score": -0.040678375799880935,
       "horse_number": 9,
       "odds": 5.0
     },
@@ -30,14 +30,6 @@
     },
     {
       "rank": 4,
-      "horse_id": "2021107080",
-      "horse_name": "セイウンマカロン",
-      "score": -0.15138279175613895,
-      "horse_number": 10,
-      "odds": 14.0
-    },
-    {
-      "rank": 5,
       "horse_id": "2020103403",
       "horse_name": "ミッキーマカロン",
       "score": -0.1874984998241463,
@@ -45,20 +37,28 @@
       "odds": 6.5
     },
     {
+      "rank": 5,
+      "horse_id": "2021107080",
+      "horse_name": "セイウンマカロン",
+      "score": -0.21790085207073157,
+      "horse_number": 10,
+      "odds": 14.0
+    },
+    {
       "rank": 6,
-      "horse_id": "2019100620",
-      "horse_name": "アンブロジアーナ",
-      "score": -0.24631203651640138,
-      "horse_number": 3,
-      "odds": 14.2
+      "horse_id": "2021104777",
+      "horse_name": "クォーツァイト",
+      "score": -0.26783364428319284,
+      "horse_number": 5,
+      "odds": 11.6
     },
     {
       "rank": 7,
-      "horse_id": "2021104777",
-      "horse_name": "クォーツァイト",
-      "score": -0.29591871127911445,
-      "horse_number": 5,
-      "odds": 11.6
+      "horse_id": "2019100620",
+      "horse_name": "アンブロジアーナ",
+      "score": -0.27137088137079773,
+      "horse_number": 3,
+      "odds": 14.2
     },
     {
       "rank": 8,

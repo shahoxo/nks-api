@@ -22,25 +22,25 @@
     },
     {
       "rank": 3,
-      "horse_id": "2021101677",
-      "horse_name": "ソルレース",
-      "score": 0.16980813089853253,
-      "horse_number": 8,
-      "odds": 4.8
+      "horse_id": "2021101399",
+      "horse_name": "ヴァンヴィーヴ",
+      "score": 0.23381849423035247,
+      "horse_number": 3,
+      "odds": 7.8
     },
     {
       "rank": 4,
-      "horse_id": "2021101399",
-      "horse_name": "ヴァンヴィーヴ",
-      "score": 0.14701282755895423,
-      "horse_number": 3,
-      "odds": 7.8
+      "horse_id": "2021101677",
+      "horse_name": "ソルレース",
+      "score": 0.18576258287421074,
+      "horse_number": 8,
+      "odds": 4.8
     },
     {
       "rank": 5,
       "horse_id": "2020105492",
       "horse_name": "ニシノピウモッソ",
-      "score": 0.05046112430216589,
+      "score": 0.09761675941982388,
       "horse_number": 5,
       "odds": 11.6
     },
@@ -56,7 +56,7 @@
       "rank": 7,
       "horse_id": "2020105409",
       "horse_name": "ディアドコス",
-      "score": -0.05635052847872562,
+      "score": -0.1016606880554492,
       "horse_number": 2,
       "odds": 13.0
     },
@@ -64,7 +64,7 @@
       "rank": 8,
       "horse_id": "2021105150",
       "horse_name": "ナファロア",
-      "score": -0.14813599093567542,
+      "score": -0.18143112811335496,
       "horse_number": 10,
       "odds": 51.4
     },
@@ -72,7 +72,7 @@
       "rank": 9,
       "horse_id": "2018103485",
       "horse_name": "ジャガード",
-      "score": -0.3332819889042907,
+      "score": -0.339662975954938,
       "horse_number": 9,
       "odds": 64.2
     },
@@ -80,7 +80,7 @@
       "rank": 10,
       "horse_id": "2020102784",
       "horse_name": "タリエシン",
-      "score": -0.3658847622559409,
+      "score": -0.3942808874117124,
       "horse_number": 7,
       "odds": 70.5
     },

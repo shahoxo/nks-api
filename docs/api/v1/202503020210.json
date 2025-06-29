@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020210",
+  "race_name": "鶴ヶ城S",
+  "race_time": "2025-06-29 15:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105642",
+      "horse_name": "ブレスワード",
+      "score": 0.3413421371895683,
+      "horse_number": 15,
+      "odds": 6.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110133",
+      "horse_name": "ジャスパーロブスト",
+      "score": 0.14636827571565753,
+      "horse_number": 13,
+      "odds": 2.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021110061",
+      "horse_name": "ソレルビュレット",
+      "score": 0.13533673624187986,
+      "horse_number": 10,
+      "odds": 8.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019104805",
+      "horse_name": "デコラシオン",
+      "score": 0.11992721464309389,
+      "horse_number": 8,
+      "odds": 8.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105639",
+      "horse_name": "ハギノサステナブル",
+      "score": -0.050819847801518665,
+      "horse_number": 4,
+      "odds": 5.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104949",
+      "horse_name": "クーアフュルスト",
+      "score": -0.08447182958906195,
+      "horse_number": 6,
+      "odds": 25.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105552",
+      "horse_name": "タガノアレハンドラ",
+      "score": -0.08456570362849218,
+      "horse_number": 2,
+      "odds": 18.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103033",
+      "horse_name": "グレノークス",
+      "score": -0.08563285047190171,
+      "horse_number": 12,
+      "odds": 28.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018104646",
+      "horse_name": "オンザライン",
+      "score": -0.14746776377308962,
+      "horse_number": 7,
+      "odds": 42.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105188",
+      "horse_name": "クロースコンバット",
+      "score": -0.18146509523227042,
+      "horse_number": 14,
+      "odds": 10.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102648",
+      "horse_name": "エスティメート",
+      "score": -0.4406483375901915,
+      "horse_number": 1,
+      "odds": 78.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106552",
+      "horse_name": "ルーンファクター",
+      "score": -0.4844313156682676,
+      "horse_number": 3,
+      "odds": 112.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019104861",
+      "horse_name": "スズノテレサ",
+      "score": -0.4982768532291485,
+      "horse_number": 5,
+      "odds": 52.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018103133",
+      "horse_name": "ティアップリオン",
+      "score": -0.5046170222410953,
+      "horse_number": 9,
+      "odds": 68.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2017104238",
+      "horse_name": "フームスムート",
+      "score": -0.572245894990934,
+      "horse_number": 11,
+      "odds": 49.4
+    }
+  ]
+}
