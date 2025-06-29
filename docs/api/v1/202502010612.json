@@ -1,0 +1,120 @@
+{
+  "race_id": "202502010612",
+  "race_name": "湯の川温泉",
+  "race_time": "2025-06-29 16:05",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100365",
+      "horse_name": "トウカイエルデ",
+      "score": 0.01777108936520663,
+      "horse_number": 6,
+      "odds": 8.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103171",
+      "horse_name": "タイキヴァンクール",
+      "score": 0.0030048429893075176,
+      "horse_number": 4,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019104675",
+      "horse_name": "アップストローク",
+      "score": -0.008263697465801051,
+      "horse_number": 9,
+      "odds": 15.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101031",
+      "horse_name": "アスクエピソード",
+      "score": -0.020508531691193682,
+      "horse_number": 2,
+      "odds": 9.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106603",
+      "horse_name": "モジャーリオ",
+      "score": -0.06591114766936894,
+      "horse_number": 10,
+      "odds": 5.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019100683",
+      "horse_name": "パレフォーコン",
+      "score": -0.09719337550643081,
+      "horse_number": 5,
+      "odds": 32.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103632",
+      "horse_name": "スイミーユニバンス",
+      "score": -0.1111652497217299,
+      "horse_number": 11,
+      "odds": 16.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104983",
+      "horse_name": "マルプリ",
+      "score": -0.11294762696835632,
+      "horse_number": 3,
+      "odds": 18.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103220",
+      "horse_name": "ニタモノドウシ",
+      "score": -0.1756161618928982,
+      "horse_number": 14,
+      "odds": 4.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019103996",
+      "horse_name": "タイキエクセロン",
+      "score": -0.18347774303543074,
+      "horse_number": 13,
+      "odds": 33.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102321",
+      "horse_name": "キングクー",
+      "score": -0.28215408623924493,
+      "horse_number": 8,
+      "odds": 21.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100956",
+      "horse_name": "スーパーマン",
+      "score": -0.32099792035351415,
+      "horse_number": 7,
+      "odds": 33.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103692",
+      "horse_name": "トウカイファクター",
+      "score": -0.4019313102003809,
+      "horse_number": 12,
+      "odds": 30.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103887",
+      "horse_name": "シックザイン",
+      "score": -0.6090816530463632,
+      "horse_number": 1,
+      "odds": 33.7
+    }
+  ]
+}

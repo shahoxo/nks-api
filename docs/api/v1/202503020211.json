@@ -1,0 +1,120 @@
+{
+  "race_id": "202503020211",
+  "race_name": "ラジオNIK",
+  "race_time": "2025-06-29 15:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104973",
+      "horse_name": "バズアップビート",
+      "score": 0.2913466541128077,
+      "horse_number": 12,
+      "odds": 7.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104953",
+      "horse_name": "モティスフォント",
+      "score": 0.19650913027071212,
+      "horse_number": 9,
+      "odds": 8.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102174",
+      "horse_name": "トレサフィール",
+      "score": 0.1806017684908078,
+      "horse_number": 11,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104614",
+      "horse_name": "エキサイトバイオ",
+      "score": 0.1148544597193949,
+      "horse_number": 1,
+      "odds": 14.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105388",
+      "horse_name": "ビーオンザカバー",
+      "score": 0.07141409176466694,
+      "horse_number": 6,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101648",
+      "horse_name": "センツブラッド",
+      "score": 0.024907422973857583,
+      "horse_number": 5,
+      "odds": 6.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102738",
+      "horse_name": "エーオーキング",
+      "score": 0.01576569096767745,
+      "horse_number": 8,
+      "odds": 29.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101230",
+      "horse_name": "インパクトシー",
+      "score": -0.08571772772382025,
+      "horse_number": 7,
+      "odds": 12.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102370",
+      "horse_name": "ショウナンマクベス",
+      "score": -0.1047065327921257,
+      "horse_number": 14,
+      "odds": 20.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101329",
+      "horse_name": "フクノブルーレイク",
+      "score": -0.14206128908721696,
+      "horse_number": 2,
+      "odds": 6.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104171",
+      "horse_name": "スナークピカソ",
+      "score": -0.1915397643632492,
+      "horse_number": 3,
+      "odds": 13.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105141",
+      "horse_name": "レーヴブリリアント",
+      "score": -0.2220460748146783,
+      "horse_number": 4,
+      "odds": 22.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104097",
+      "horse_name": "アタラシイカドデニ",
+      "score": -0.4429870147190109,
+      "horse_number": 10,
+      "odds": 64.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104533",
+      "horse_name": "チョングク",
+      "score": -0.5645449839303281,
+      "horse_number": 13,
+      "odds": 87.8
+    }
+  ]
+}
