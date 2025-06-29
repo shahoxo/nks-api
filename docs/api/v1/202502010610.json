@@ -1,0 +1,96 @@
+{
+  "race_id": "202502010610",
+  "race_name": "渡島特別",
+  "race_time": "2025-06-29 14:50",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104413",
+      "horse_name": "ウェイトゥゴー",
+      "score": 0.08697186261811114,
+      "horse_number": 11,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100387",
+      "horse_name": "オールマキシマム",
+      "score": 0.004631783776842654,
+      "horse_number": 9,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105640",
+      "horse_name": "ルージュシュエット",
+      "score": -0.06586237941009579,
+      "horse_number": 6,
+      "odds": 10.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021107080",
+      "horse_name": "セイウンマカロン",
+      "score": -0.15138279175613895,
+      "horse_number": 10,
+      "odds": 14.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103403",
+      "horse_name": "ミッキーマカロン",
+      "score": -0.1874984998241463,
+      "horse_number": 4,
+      "odds": 6.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019100620",
+      "horse_name": "アンブロジアーナ",
+      "score": -0.24631203651640138,
+      "horse_number": 3,
+      "odds": 14.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104777",
+      "horse_name": "クォーツァイト",
+      "score": -0.29591871127911445,
+      "horse_number": 5,
+      "odds": 11.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103480",
+      "horse_name": "ミレニアムヒロイン",
+      "score": -0.31314862982389546,
+      "horse_number": 8,
+      "odds": 25.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104111",
+      "horse_name": "チェイスザウェイ",
+      "score": -0.5088637868849478,
+      "horse_number": 7,
+      "odds": 19.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103967",
+      "horse_name": "グレイスオブゴッド",
+      "score": -0.5912166556589096,
+      "horse_number": 2,
+      "odds": 21.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102794",
+      "horse_name": "スカンジナビア",
+      "score": -0.7080136536659949,
+      "horse_number": 1,
+      "odds": 11.0
+    }
+  ]
+}

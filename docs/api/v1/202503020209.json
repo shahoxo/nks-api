@@ -1,0 +1,96 @@
+{
+  "race_id": "202503020209",
+  "race_name": "郡山特別",
+  "race_time": "2025-06-29 14:35",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110014",
+      "horse_name": "マックアルイーン",
+      "score": 0.40876392499333924,
+      "horse_number": 1,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020101992",
+      "horse_name": "ライクアフラワー",
+      "score": 0.3248287444726132,
+      "horse_number": 6,
+      "odds": 15.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101677",
+      "horse_name": "ソルレース",
+      "score": 0.16980813089853253,
+      "horse_number": 8,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101399",
+      "horse_name": "ヴァンヴィーヴ",
+      "score": 0.14701282755895423,
+      "horse_number": 3,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105492",
+      "horse_name": "ニシノピウモッソ",
+      "score": 0.05046112430216589,
+      "horse_number": 5,
+      "odds": 11.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104490",
+      "horse_name": "エクセルゴールド",
+      "score": -0.043317871775919614,
+      "horse_number": 4,
+      "odds": 24.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105409",
+      "horse_name": "ディアドコス",
+      "score": -0.05635052847872562,
+      "horse_number": 2,
+      "odds": 13.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105150",
+      "horse_name": "ナファロア",
+      "score": -0.14813599093567542,
+      "horse_number": 10,
+      "odds": 51.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018103485",
+      "horse_name": "ジャガード",
+      "score": -0.3332819889042907,
+      "horse_number": 9,
+      "odds": 64.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102784",
+      "horse_name": "タリエシン",
+      "score": -0.3658847622559409,
+      "horse_number": 7,
+      "odds": 70.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102298",
+      "horse_name": "トレブランシュ",
+      "score": -0.5555810340274161,
+      "horse_number": 11,
+      "odds": 40.2
+    }
+  ]
+}
