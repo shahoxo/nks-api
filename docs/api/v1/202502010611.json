@@ -1,0 +1,120 @@
+{
+  "race_id": "202502010611",
+  "race_name": "函館記念",
+  "race_time": "2025-06-29 15:25",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021109070",
+      "horse_name": "ハヤテノフクノスケ",
+      "score": 0.22502518781721553,
+      "horse_number": 3,
+      "odds": 7.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104324",
+      "horse_name": "ディマイザキッド",
+      "score": 0.22369337810208456,
+      "horse_number": 7,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019105302",
+      "horse_name": "グランディア",
+      "score": 0.20531079918500325,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106678",
+      "horse_name": "マコトヴェリーキー",
+      "score": 0.18204182535838426,
+      "horse_number": 13,
+      "odds": 6.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104427",
+      "horse_name": "ランスオブクイーン",
+      "score": 0.0836342060210873,
+      "horse_number": 11,
+      "odds": 17.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102873",
+      "horse_name": "キミノナハマリア",
+      "score": -0.04719732967608922,
+      "horse_number": 4,
+      "odds": 16.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106402",
+      "horse_name": "トップナイフ",
+      "score": -0.056432736014543655,
+      "horse_number": 14,
+      "odds": 9.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105399",
+      "horse_name": "ヴェローチェエラ",
+      "score": -0.0841161288969691,
+      "horse_number": 8,
+      "odds": 11.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105749",
+      "horse_name": "マイネルモーント",
+      "score": -0.1328259311681965,
+      "horse_number": 1,
+      "odds": 9.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105252",
+      "horse_name": "アルナシーム",
+      "score": -0.14488705952725392,
+      "horse_number": 9,
+      "odds": 12.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104658",
+      "horse_name": "ボーンディスウェイ",
+      "score": -0.19916672547053552,
+      "horse_number": 5,
+      "odds": 9.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019101422",
+      "horse_name": "サンストックトン",
+      "score": -0.279302193992454,
+      "horse_number": 6,
+      "odds": 51.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105750",
+      "horse_name": "マイネルメモリー",
+      "score": -0.29498646392670963,
+      "horse_number": 12,
+      "odds": 66.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018101010",
+      "horse_name": "アウスヴァール",
+      "score": -0.5544763347990807,
+      "horse_number": 2,
+      "odds": 19.0
+    }
+  ]
+}

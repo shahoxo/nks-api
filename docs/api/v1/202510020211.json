@@ -1,0 +1,112 @@
+{
+  "race_id": "202510020211",
+  "race_name": "佐世保S",
+  "race_time": "2025-06-29 15:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105880",
+      "horse_name": "レッドエヴァンス",
+      "score": 0.16472882687785795,
+      "horse_number": 5,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103284",
+      "horse_name": "トールキン",
+      "score": 0.15552424394706588,
+      "horse_number": 11,
+      "odds": 11.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019100604",
+      "horse_name": "ヤマニンアンフィル",
+      "score": 0.09650364872439175,
+      "horse_number": 3,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105771",
+      "horse_name": "ミルテンベルク",
+      "score": -0.007764127047068362,
+      "horse_number": 4,
+      "odds": 6.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104616",
+      "horse_name": "パクスロマーナ",
+      "score": -0.0120371359912692,
+      "horse_number": 9,
+      "odds": 14.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020110068",
+      "horse_name": "エイムインライフ",
+      "score": -0.015888537054953158,
+      "horse_number": 1,
+      "odds": 8.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104112",
+      "horse_name": "メイショウウネビ",
+      "score": -0.17516143405461762,
+      "horse_number": 8,
+      "odds": 16.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018103406",
+      "horse_name": "トーホウディアス",
+      "score": -0.1853525301889795,
+      "horse_number": 2,
+      "odds": 25.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102229",
+      "horse_name": "リシャールケリー",
+      "score": -0.39821230652944817,
+      "horse_number": 12,
+      "odds": 12.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101968",
+      "horse_name": "ベンダバリラビア",
+      "score": -0.3983469583146978,
+      "horse_number": 13,
+      "odds": 63.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104697",
+      "horse_name": "ショウナンマッハ",
+      "score": -0.44667383005376343,
+      "horse_number": 10,
+      "odds": 71.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018102091",
+      "horse_name": "ウルトラソニック",
+      "score": -0.48227391669954167,
+      "horse_number": 6,
+      "odds": 31.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019102786",
+      "horse_name": "ウォータールグラン",
+      "score": -0.5005300852853469,
+      "horse_number": 7,
+      "odds": 17.4
+    }
+  ]
+}
