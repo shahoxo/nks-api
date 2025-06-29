@@ -1,0 +1,136 @@
+{
+  "race_id": "202502010606",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-06-29 12:45",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104092",
+      "horse_name": "サクラアドリア",
+      "score": 0.3701317094190252,
+      "horse_number": 8,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106781",
+      "horse_name": "コスモマガラニカ",
+      "score": 0.20231485498904545,
+      "horse_number": 12,
+      "odds": 12.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105688",
+      "horse_name": "ドバイミッション",
+      "score": 0.1939703189125619,
+      "horse_number": 7,
+      "odds": 20.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104387",
+      "horse_name": "キントラダンサー",
+      "score": 0.18820001455383678,
+      "horse_number": 5,
+      "odds": 7.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105048",
+      "horse_name": "ファンタズマ",
+      "score": 0.1482356555549585,
+      "horse_number": 4,
+      "odds": 7.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105581",
+      "horse_name": "レディオンステージ",
+      "score": 0.12145933668901042,
+      "horse_number": 15,
+      "odds": 19.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105336",
+      "horse_name": "セレニティ",
+      "score": 0.06552544909170456,
+      "horse_number": 2,
+      "odds": 41.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103493",
+      "horse_name": "ベールドインパクト",
+      "score": -0.032849015422094965,
+      "horse_number": 3,
+      "odds": 19.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104949",
+      "horse_name": "ヴァルチャースター",
+      "score": -0.053357329586715435,
+      "horse_number": 14,
+      "odds": 20.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105489",
+      "horse_name": "ココモナカ",
+      "score": -0.16352342144366924,
+      "horse_number": 1,
+      "odds": 52.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101922",
+      "horse_name": "レーヌドフルール",
+      "score": -0.3311581138349491,
+      "horse_number": 13,
+      "odds": 34.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106550",
+      "horse_name": "キタノアンシェル",
+      "score": -0.3420719712787761,
+      "horse_number": 11,
+      "odds": 116.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104559",
+      "horse_name": "ヤマノインパクト",
+      "score": -0.34389132376321363,
+      "horse_number": 9,
+      "odds": 22.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105304",
+      "horse_name": "エルモッソペンドロ",
+      "score": -0.3986052420150228,
+      "horse_number": 16,
+      "odds": 87.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102416",
+      "horse_name": "インヘリット",
+      "score": -0.5248943190552023,
+      "horse_number": 6,
+      "odds": 100.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104488",
+      "horse_name": "ウェカピポ",
+      "score": -0.5380000416175845,
+      "horse_number": 10,
+      "odds": 39.7
+    }
+  ]
+}
