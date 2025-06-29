@@ -1,0 +1,104 @@
+{
+  "race_id": "202502010602",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-06-29 10:25",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102841",
+      "horse_name": "メイショウハボマイ",
+      "score": 0.12394519815367033,
+      "horse_number": 1,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103924",
+      "horse_name": "ショウナンラリー",
+      "score": 0.0995886960524393,
+      "horse_number": 12,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107411",
+      "horse_name": "コッコラーレ",
+      "score": 0.04401617806061506,
+      "horse_number": 7,
+      "odds": 4.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100407",
+      "horse_name": "ウォーターカルミア",
+      "score": -0.09115864201580072,
+      "horse_number": 3,
+      "odds": 22.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103261",
+      "horse_name": "サッポロキタコ",
+      "score": -0.21293182753888443,
+      "horse_number": 2,
+      "odds": 4.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101536",
+      "horse_name": "ストラテージュ",
+      "score": -0.26920248205629127,
+      "horse_number": 6,
+      "odds": 6.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100004",
+      "horse_name": "バスキュラリティ",
+      "score": -0.280971518105669,
+      "horse_number": 11,
+      "odds": 13.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022109084",
+      "horse_name": "ママアリガトー",
+      "score": -0.4625428812432566,
+      "horse_number": 8,
+      "odds": 61.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106472",
+      "horse_name": "ブラックエトワール",
+      "score": -0.5295073277394964,
+      "horse_number": 9,
+      "odds": 35.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101080",
+      "horse_name": "ダブルシルバー",
+      "score": -0.5799762263205366,
+      "horse_number": 4,
+      "odds": 14.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100213",
+      "horse_name": "ドラマツルギー",
+      "score": -0.630370253879574,
+      "horse_number": 10,
+      "odds": 53.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100423",
+      "horse_name": "オンサイト",
+      "score": -0.7385016702365806,
+      "horse_number": 5,
+      "odds": 43.4
+    }
+  ]
+}

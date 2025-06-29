@@ -1,0 +1,136 @@
+{
+  "race_id": "202503020202",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-06-29 10:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105072",
+      "horse_name": "ナヴァラトゥナ",
+      "score": 0.470013032966317,
+      "horse_number": 1,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105614",
+      "horse_name": "ポッポノフェスタ",
+      "score": 0.00897767984127256,
+      "horse_number": 15,
+      "odds": 15.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105289",
+      "horse_name": "キロノヴァ",
+      "score": -0.13786349566102207,
+      "horse_number": 16,
+      "odds": 84.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100195",
+      "horse_name": "タナハシ",
+      "score": -0.22062579024539214,
+      "horse_number": 4,
+      "odds": 17.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106230",
+      "horse_name": "ウインオアシス",
+      "score": -0.23059509121842903,
+      "horse_number": 9,
+      "odds": 7.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104759",
+      "horse_name": "レジーナシルバルム",
+      "score": -0.24359817782330445,
+      "horse_number": 12,
+      "odds": 27.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106773",
+      "horse_name": "マイネルラファール",
+      "score": -0.258300707869753,
+      "horse_number": 6,
+      "odds": 40.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103406",
+      "horse_name": "ラーシャローム",
+      "score": -0.37339086454777515,
+      "horse_number": 2,
+      "odds": 46.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102856",
+      "horse_name": "ロンギングジェニー",
+      "score": -0.38012184397528614,
+      "horse_number": 5,
+      "odds": 27.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103181",
+      "horse_name": "モンツァフレイバー",
+      "score": -0.42286599625509536,
+      "horse_number": 7,
+      "odds": 182.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102773",
+      "horse_name": "リアライズハロック",
+      "score": -0.4313371425974405,
+      "horse_number": 13,
+      "odds": 14.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106822",
+      "horse_name": "マイネルフィスキオ",
+      "score": -0.4382435278909547,
+      "horse_number": 3,
+      "odds": 10.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105657",
+      "horse_name": "トーセンカタルシス",
+      "score": -0.4981553841534626,
+      "horse_number": 10,
+      "odds": 191.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106331",
+      "horse_name": "ボスポラス",
+      "score": -0.4997189559247044,
+      "horse_number": 8,
+      "odds": 153.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105029",
+      "horse_name": "デンジエンド",
+      "score": -0.5051370838937908,
+      "horse_number": 11,
+      "odds": 45.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022107091",
+      "horse_name": "ルディシャ",
+      "score": -0.6997242947219148,
+      "horse_number": 14,
+      "odds": 157.4
+    }
+  ]
+}

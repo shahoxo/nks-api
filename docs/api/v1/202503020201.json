@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020201",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-06-29 10:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105015",
+      "horse_name": "リックメイン",
+      "score": 0.282627052454412,
+      "horse_number": 12,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104881",
+      "horse_name": "エウテルペ",
+      "score": 0.14939028614391006,
+      "horse_number": 8,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101012",
+      "horse_name": "イザベルソレイユ",
+      "score": -0.03291340529966084,
+      "horse_number": 4,
+      "odds": 4.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101076",
+      "horse_name": "サンマルレーヴ",
+      "score": -0.06500974109299054,
+      "horse_number": 7,
+      "odds": 37.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105337",
+      "horse_name": "カサビセンス",
+      "score": -0.28250677581976047,
+      "horse_number": 5,
+      "odds": 12.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100682",
+      "horse_name": "ドリームパンジャ",
+      "score": -0.3881713565060937,
+      "horse_number": 1,
+      "odds": 17.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105599",
+      "horse_name": "ブラックモノリス",
+      "score": -0.5366778652971519,
+      "horse_number": 2,
+      "odds": 37.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100191",
+      "horse_name": "ノースカトレア",
+      "score": -0.5665683617599173,
+      "horse_number": 11,
+      "odds": 9.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106346",
+      "horse_name": "ウィズマイマミー",
+      "score": -0.6277410453752261,
+      "horse_number": 9,
+      "odds": 150.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022107000",
+      "horse_name": "スアーウィス",
+      "score": -0.6650915093414816,
+      "horse_number": 13,
+      "odds": 90.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104008",
+      "horse_name": "ミルキーハニー",
+      "score": -0.6800865812962514,
+      "horse_number": 10,
+      "odds": 50.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101071",
+      "horse_name": "インマイハート",
+      "score": -0.700999851469308,
+      "horse_number": 6,
+      "odds": 128.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102205",
+      "horse_name": "タニセンダイヤ",
+      "score": -0.7344997899121097,
+      "horse_number": 15,
+      "odds": 75.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101816",
+      "horse_name": "シャンドネージュ",
+      "score": -0.7560238565797833,
+      "horse_number": 14,
+      "odds": 164.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105566",
+      "horse_name": "プレイアブルゲーム",
+      "score": -0.7560238565797833,
+      "horse_number": 3,
+      "odds": 145.3
+    }
+  ]
+}

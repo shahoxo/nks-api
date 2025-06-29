@@ -1,0 +1,144 @@
+{
+  "race_id": "202510020202",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-06-29 10:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103291",
+      "horse_name": "ラインピクシー",
+      "score": 0.2740239606619153,
+      "horse_number": 17,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103101",
+      "horse_name": "メイショウマサツラ",
+      "score": 0.14728468428654007,
+      "horse_number": 13,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103208",
+      "horse_name": "サトノスピカ",
+      "score": 0.021415267000638262,
+      "horse_number": 3,
+      "odds": 14.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101725",
+      "horse_name": "ドゥラルーナ",
+      "score": -0.22108420087876998,
+      "horse_number": 4,
+      "odds": 6.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100123",
+      "horse_name": "ナイトエラント",
+      "score": -0.32895089609772765,
+      "horse_number": 6,
+      "odds": 13.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102033",
+      "horse_name": "スマートロベール",
+      "score": -0.33433323285529754,
+      "horse_number": 1,
+      "odds": 13.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105533",
+      "horse_name": "ニーナバイリッカ",
+      "score": -0.36979213919129195,
+      "horse_number": 11,
+      "odds": 40.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100850",
+      "horse_name": "トウカイリュタン",
+      "score": -0.3881713565060937,
+      "horse_number": 14,
+      "odds": 16.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101721",
+      "horse_name": "アルピノ",
+      "score": -0.42852500479382694,
+      "horse_number": 10,
+      "odds": 16.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101390",
+      "horse_name": "ソニックサンライズ",
+      "score": -0.4763290176791388,
+      "horse_number": 16,
+      "odds": 25.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104514",
+      "horse_name": "ウィンビュー",
+      "score": -0.6181274288639754,
+      "horse_number": 9,
+      "odds": 83.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104212",
+      "horse_name": "ニホンピロリーチ",
+      "score": -0.6556003361416146,
+      "horse_number": 7,
+      "odds": 53.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105146",
+      "horse_name": "デリツィオーサ",
+      "score": -0.6970415147616792,
+      "horse_number": 2,
+      "odds": 26.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103782",
+      "horse_name": "テイエムパンサー",
+      "score": -0.697862361158867,
+      "horse_number": 5,
+      "odds": 25.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100016",
+      "horse_name": "ワンダーエルピス",
+      "score": -0.7295377203336686,
+      "horse_number": 8,
+      "odds": 53.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102925",
+      "horse_name": "ハクサンサクヤヒメ",
+      "score": -0.7385016702365806,
+      "horse_number": 15,
+      "odds": 72.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022103761",
+      "horse_name": "テイエムトップバン",
+      "score": -0.7560238565797833,
+      "horse_number": 12,
+      "odds": 185.1
+    }
+  ]
+}
