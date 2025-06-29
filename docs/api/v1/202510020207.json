@@ -1,0 +1,152 @@
+{
+  "race_id": "202510020207",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-06-29 13:25",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104130",
+      "horse_name": "ランフォースマイル",
+      "score": 0.33334590207426373,
+      "horse_number": 4,
+      "odds": 8.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104679",
+      "horse_name": "ジュヌフィーユ",
+      "score": 0.19694958561246068,
+      "horse_number": 9,
+      "odds": 7.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102931",
+      "horse_name": "アイスモント",
+      "score": 0.17918107527020943,
+      "horse_number": 6,
+      "odds": 5.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102292",
+      "horse_name": "ハローエンジェル",
+      "score": 0.1438741028140894,
+      "horse_number": 18,
+      "odds": 8.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104809",
+      "horse_name": "チルウィズミー",
+      "score": 0.07288478144813702,
+      "horse_number": 14,
+      "odds": 19.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103685",
+      "horse_name": "マリアブーケ",
+      "score": -0.08404177053852532,
+      "horse_number": 5,
+      "odds": 25.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102613",
+      "horse_name": "ジョリーピクシー",
+      "score": -0.11724255427183802,
+      "horse_number": 8,
+      "odds": 21.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104137",
+      "horse_name": "コンプリート",
+      "score": -0.16220209480051737,
+      "horse_number": 13,
+      "odds": 19.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105200",
+      "horse_name": "エリセイラ",
+      "score": -0.23536317048220323,
+      "horse_number": 1,
+      "odds": 4.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100971",
+      "horse_name": "ブラックダイヤ",
+      "score": -0.24024414245558628,
+      "horse_number": 12,
+      "odds": 18.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105351",
+      "horse_name": "シャドウフェイス",
+      "score": -0.2540142293313089,
+      "horse_number": 17,
+      "odds": 36.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105780",
+      "horse_name": "ウィッティクオウト",
+      "score": -0.284243362551377,
+      "horse_number": 11,
+      "odds": 150.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106652",
+      "horse_name": "ハギノデュエット",
+      "score": -0.3514066237552296,
+      "horse_number": 3,
+      "odds": 39.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100844",
+      "horse_name": "ポジターノ",
+      "score": -0.373028923657408,
+      "horse_number": 15,
+      "odds": 37.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105570",
+      "horse_name": "ルージュパラディ",
+      "score": -0.578842892122408,
+      "horse_number": 7,
+      "odds": 52.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106859",
+      "horse_name": "アイルフィレール",
+      "score": -0.6309107035569237,
+      "horse_number": 2,
+      "odds": 64.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022104848",
+      "horse_name": "ラストプリンセス",
+      "score": -0.658926373774279,
+      "horse_number": 10,
+      "odds": 130.4
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022106740",
+      "horse_name": "ラヴアンドホープ",
+      "score": -0.6970415147616792,
+      "horse_number": 16,
+      "odds": 10.4
+    }
+  ]
+}
