@@ -10,7 +10,7 @@
       "horse_name": "ライノ",
       "score": 0.27808848203439024,
       "horse_number": 2,
-      "odds": 4.1
+      "odds": 3.2
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "タケルハーロック",
       "score": 0.13837407427933052,
       "horse_number": 13,
-      "odds": 4.9
+      "odds": 5.7
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "ブリオメンテ",
       "score": 0.13222743664916486,
       "horse_number": 14,
-      "odds": 6.5
+      "odds": 4.4
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "ブラックタロー",
       "score": 0.10592308134585982,
       "horse_number": 6,
-      "odds": 18.2
+      "odds": 15.7
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "オンザムーブ",
       "score": 0.07549674774402279,
       "horse_number": 5,
-      "odds": 8.0
+      "odds": 5.5
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "ニューオーリンズ",
       "score": 0.04494004873284586,
       "horse_number": 9,
-      "odds": 22.6
+      "odds": 22.4
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "サンディエゴ",
       "score": -0.12091907325720495,
       "horse_number": 7,
-      "odds": 20.7
+      "odds": 29.1
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "オリエンタルキング",
       "score": -0.2222132577370313,
       "horse_number": 3,
-      "odds": 7.2
+      "odds": 11.7
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "テルアスワッド",
       "score": -0.2342969344300477,
       "horse_number": 16,
-      "odds": 12.0
+      "odds": 25.3
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "タイセイレグノ",
       "score": -0.3605146529839268,
       "horse_number": 10,
-      "odds": 28.1
+      "odds": 46.1
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "レガッタ",
       "score": -0.39124118741299774,
       "horse_number": 8,
-      "odds": 46.4
+      "odds": 78.6
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "ヴェーヌドール",
       "score": -0.41417695948410643,
       "horse_number": 12,
-      "odds": 60.8
+      "odds": 96.2
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "サマーナイト",
       "score": -0.4885660313594037,
       "horse_number": 15,
-      "odds": 29.2
+      "odds": 43.6
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "テンカオーライ",
       "score": -0.5222134840354252,
       "horse_number": 11,
-      "odds": 36.4
+      "odds": 91.8
     },
     {
       "rank": 15,
@@ -122,7 +122,7 @@
       "horse_name": "ユウェンタース",
       "score": -0.6426503856676087,
       "horse_number": 4,
-      "odds": 84.0
+      "odds": 166.3
     },
     {
       "rank": 16,
@@ -130,7 +130,7 @@
       "horse_name": "ヴォルオヴァン",
       "score": -0.6839461605893937,
       "horse_number": 1,
-      "odds": 78.3
+      "odds": 107.5
     }
   ]
 }

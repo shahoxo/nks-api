@@ -8,31 +8,31 @@
       "rank": 1,
       "horse_id": "2022106648",
       "horse_name": "アルデショワ",
-      "score": 0.18301021968691555,
+      "score": 0.16835779489224645,
       "horse_number": 6,
       "odds": 6.1
     },
     {
       "rank": 2,
-      "horse_id": "2022101663",
-      "horse_name": "ザカート",
-      "score": 0.17287815905562023,
-      "horse_number": 11,
-      "odds": 10.3
+      "horse_id": "2021110117",
+      "horse_name": "イェルマーク",
+      "score": 0.16514613942770812,
+      "horse_number": 12,
+      "odds": 4.9
     },
     {
       "rank": 3,
-      "horse_id": "2021110117",
-      "horse_name": "イェルマーク",
-      "score": 0.13706107243178653,
-      "horse_number": 12,
-      "odds": 4.9
+      "horse_id": "2022101663",
+      "horse_name": "ザカート",
+      "score": 0.12268984486659289,
+      "horse_number": 11,
+      "odds": 10.3
     },
     {
       "rank": 4,
       "horse_id": "2020101434",
       "horse_name": "シャトーボビー",
-      "score": 0.0695997093587262,
+      "score": 0.11881349258416853,
       "horse_number": 9,
       "odds": 27.0
     },
@@ -40,7 +40,7 @@
       "rank": 5,
       "horse_id": "2022107138",
       "horse_name": "アタリダイキチ",
-      "score": 0.031078630010333792,
+      "score": 0.05235268805962143,
       "horse_number": 4,
       "odds": 6.4
     },
@@ -48,7 +48,7 @@
       "rank": 6,
       "horse_id": "2021101521",
       "horse_name": "グッドヴァイブス",
-      "score": -0.0024099506363550243,
+      "score": 0.014146020319992965,
       "horse_number": 3,
       "odds": 6.6
     },
@@ -56,7 +56,7 @@
       "rank": 7,
       "horse_id": "2020102767",
       "horse_name": "テンプーシャオン",
-      "score": -0.02549700629670655,
+      "score": -0.15860721968068187,
       "horse_number": 1,
       "odds": 6.3
     },
@@ -64,7 +64,7 @@
       "rank": 8,
       "horse_id": "2021103505",
       "horse_name": "ウエストチェリー",
-      "score": -0.12113535866234319,
+      "score": -0.22000580082670265,
       "horse_number": 7,
       "odds": 35.0
     },
@@ -78,19 +78,19 @@
     },
     {
       "rank": 10,
-      "horse_id": "2021103119",
-      "horse_name": "ニシノアヤカゼ",
-      "score": -0.4108410662290619,
-      "horse_number": 8,
-      "odds": 8.1
-    },
-    {
-      "rank": 11,
       "horse_id": "2020101265",
       "horse_name": "オコジュ",
       "score": -0.42973070122347323,
       "horse_number": 2,
       "odds": 15.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103119",
+      "horse_name": "ニシノアヤカゼ",
+      "score": -0.4596949710876941,
+      "horse_number": 8,
+      "odds": 8.1
     },
     {
       "rank": 12,
