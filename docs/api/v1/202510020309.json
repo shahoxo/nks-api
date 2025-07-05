@@ -14,19 +14,19 @@
     },
     {
       "rank": 2,
-      "horse_id": "2019100915",
-      "horse_name": "ゼンノインヴォーク",
-      "score": 0.17062158556495244,
-      "horse_number": 5,
-      "odds": 8.4
-    },
-    {
-      "rank": 3,
       "horse_id": "2022103207",
       "horse_name": "ミュージシャン",
       "score": 0.12955900149130106,
       "horse_number": 2,
       "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019100915",
+      "horse_name": "ゼンノインヴォーク",
+      "score": 0.10681392209768885,
+      "horse_number": 5,
+      "odds": 8.4
     },
     {
       "rank": 4,

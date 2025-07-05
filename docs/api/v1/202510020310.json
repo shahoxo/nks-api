@@ -1,0 +1,96 @@
+{
+  "race_id": "202510020310",
+  "race_name": "TAインディ",
+  "race_time": "2025-07-05 15:01",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100154",
+      "horse_name": "メイショウズイウン",
+      "score": 0.3362245577583833,
+      "horse_number": 10,
+      "odds": 1.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105931",
+      "horse_name": "ギマール",
+      "score": 0.09656578209152034,
+      "horse_number": 6,
+      "odds": 14.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106521",
+      "horse_name": "キングツェッペリン",
+      "score": -0.04118829175911286,
+      "horse_number": 9,
+      "odds": 33.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104215",
+      "horse_name": "ケイアイメキラ",
+      "score": -0.20639505632404703,
+      "horse_number": 11,
+      "odds": 28.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100752",
+      "horse_name": "アレナパラシオ",
+      "score": -0.2158699409102329,
+      "horse_number": 5,
+      "odds": 13.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2017103184",
+      "horse_name": "トゥルブレンシア",
+      "score": -0.23820355940688318,
+      "horse_number": 4,
+      "odds": 39.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101913",
+      "horse_name": "タカサンフェイス",
+      "score": -0.23898883942508906,
+      "horse_number": 8,
+      "odds": 13.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103161",
+      "horse_name": "トーレ",
+      "score": -0.2884846888635261,
+      "horse_number": 3,
+      "odds": 11.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019109106",
+      "horse_name": "バイファーザベスト",
+      "score": -0.371435802800709,
+      "horse_number": 7,
+      "odds": 42.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101426",
+      "horse_name": "コーラルハート",
+      "score": -0.4352595589518939,
+      "horse_number": 2,
+      "odds": 96.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105678",
+      "horse_name": "ブラックサウザー",
+      "score": -0.5734219913453331,
+      "horse_number": 1,
+      "odds": 49.4
+    }
+  ]
+}
