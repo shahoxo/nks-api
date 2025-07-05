@@ -1,0 +1,72 @@
+{
+  "race_id": "202510020309",
+  "race_name": "ロイヤルBS",
+  "race_time": "2025-07-05 14:25",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103227",
+      "horse_name": "レッドイステル",
+      "score": 0.28927544984968745,
+      "horse_number": 3,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019100915",
+      "horse_name": "ゼンノインヴォーク",
+      "score": 0.17062158556495244,
+      "horse_number": 5,
+      "odds": 8.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103207",
+      "horse_name": "ミュージシャン",
+      "score": 0.12955900149130106,
+      "horse_number": 2,
+      "odds": 3.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104793",
+      "horse_name": "サラコスティ",
+      "score": 0.035447454601158015,
+      "horse_number": 1,
+      "odds": 4.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105851",
+      "horse_name": "ホースワン",
+      "score": -0.10798495920140387,
+      "horse_number": 4,
+      "odds": 58.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104948",
+      "horse_name": "キーパフォーマー",
+      "score": -0.15796683009620377,
+      "horse_number": 6,
+      "odds": 10.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105588",
+      "horse_name": "サンライズグラシア",
+      "score": -0.22747973414238737,
+      "horse_number": 7,
+      "odds": 24.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101608",
+      "horse_name": "オーシンエス",
+      "score": -0.2995099412545494,
+      "horse_number": 8,
+      "odds": 11.7
+    }
+  ]
+}

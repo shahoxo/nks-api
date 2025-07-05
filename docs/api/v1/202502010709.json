@@ -1,0 +1,72 @@
+{
+  "race_id": "202502010709",
+  "race_name": "恵山特別",
+  "race_time": "2025-07-05 14:15",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103345",
+      "horse_name": "ウォータークラーク",
+      "score": 0.13203112196314776,
+      "horse_number": 3,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105144",
+      "horse_name": "トレミニョン",
+      "score": 0.08415034642029912,
+      "horse_number": 8,
+      "odds": 8.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105972",
+      "horse_name": "シホリーン",
+      "score": 0.021955044958365002,
+      "horse_number": 6,
+      "odds": 4.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106231",
+      "horse_name": "ウインベラーノ",
+      "score": 0.010497490227232634,
+      "horse_number": 2,
+      "odds": 4.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106393",
+      "horse_name": "ブラックジェダイト",
+      "score": -0.07930095428142682,
+      "horse_number": 7,
+      "odds": 4.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101889",
+      "horse_name": "ゼットエイト",
+      "score": -0.22360976224412724,
+      "horse_number": 1,
+      "odds": 21.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104722",
+      "horse_name": "ネイサン",
+      "score": -0.4245551108879496,
+      "horse_number": 4,
+      "odds": 48.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105345",
+      "horse_name": "シンゼンカガ",
+      "score": -0.42518400422857283,
+      "horse_number": 5,
+      "odds": 23.4
+    }
+  ]
+}
