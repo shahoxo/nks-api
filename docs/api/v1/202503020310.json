@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020310",
+  "race_name": "横手特別",
+  "race_time": "2025-07-05 15:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105028",
+      "horse_name": "プロミストジーン",
+      "score": 0.28268986832755044,
+      "horse_number": 1,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105516",
+      "horse_name": "イゾラフェリーチェ",
+      "score": 0.09869849030115031,
+      "horse_number": 6,
+      "odds": 15.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100098",
+      "horse_name": "ベルギューン",
+      "score": 0.06069331482271062,
+      "horse_number": 13,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019103570",
+      "horse_name": "ニシノスピカ",
+      "score": 0.05814460349624391,
+      "horse_number": 3,
+      "odds": 25.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105571",
+      "horse_name": "フォルクスリート",
+      "score": -0.06636207548491208,
+      "horse_number": 14,
+      "odds": 39.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102868",
+      "horse_name": "ピクシレーション",
+      "score": -0.1714704250125368,
+      "horse_number": 4,
+      "odds": 31.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105286",
+      "horse_name": "エリカコレクト",
+      "score": -0.2306061505289594,
+      "horse_number": 5,
+      "odds": 143.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102949",
+      "horse_name": "ツインビスケッツ",
+      "score": -0.2610091688598969,
+      "horse_number": 11,
+      "odds": 106.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102187",
+      "horse_name": "スマートケープ",
+      "score": -0.29451083547300105,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019102552",
+      "horse_name": "ジューンポンポン",
+      "score": -0.33709063058874383,
+      "horse_number": 9,
+      "odds": 32.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100469",
+      "horse_name": "カフェアローロ",
+      "score": -0.413845764575242,
+      "horse_number": 8,
+      "odds": 115.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104207",
+      "horse_name": "ビターゼノビア",
+      "score": -0.48125010725297523,
+      "horse_number": 12,
+      "odds": 194.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019106678",
+      "horse_name": "サクラジェンヌ",
+      "score": -0.5571591147593161,
+      "horse_number": 15,
+      "odds": 137.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103355",
+      "horse_name": "エイシンナデシコ",
+      "score": -0.6084451952255553,
+      "horse_number": 7,
+      "odds": 11.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019100072",
+      "horse_name": "ネイリッカ",
+      "score": -0.6796295940447649,
+      "horse_number": 2,
+      "odds": 42.4
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202502010711",
+  "race_name": "TVh杯",
+  "race_time": "2025-07-05 15:25",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102013",
+      "horse_name": "ソルトクィーン",
+      "score": 0.19440592691711728,
+      "horse_number": 9,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106666",
+      "horse_name": "ドゥアムール",
+      "score": 0.12944601169804276,
+      "horse_number": 5,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101576",
+      "horse_name": "レオテミス",
+      "score": 0.11905186388152272,
+      "horse_number": 12,
+      "odds": 8.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105039",
+      "horse_name": "ゴールドサーベル",
+      "score": 0.05693263202153686,
+      "horse_number": 11,
+      "odds": 7.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103280",
+      "horse_name": "エマヌエーレ",
+      "score": -0.018258825434069842,
+      "horse_number": 4,
+      "odds": 29.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020104194",
+      "horse_name": "ルーフ",
+      "score": -0.025840397809078902,
+      "horse_number": 10,
+      "odds": 38.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105202",
+      "horse_name": "ポエットリー",
+      "score": -0.05846877646170897,
+      "horse_number": 3,
+      "odds": 7.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102887",
+      "horse_name": "ナムラクララ",
+      "score": -0.07479950688505542,
+      "horse_number": 8,
+      "odds": 5.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101517",
+      "horse_name": "ソノママソノママ",
+      "score": -0.10379181431625091,
+      "horse_number": 14,
+      "odds": 14.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105347",
+      "horse_name": "アバンチュリエ",
+      "score": -0.12916499868156836,
+      "horse_number": 13,
+      "odds": 78.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105760",
+      "horse_name": "シュヴェルトライテ",
+      "score": -0.14490238991657212,
+      "horse_number": 2,
+      "odds": 14.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019103897",
+      "horse_name": "ハピネスアゲン",
+      "score": -0.15828825849458433,
+      "horse_number": 7,
+      "odds": 58.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019104386",
+      "horse_name": "トーセンサンダー",
+      "score": -0.3583046417365345,
+      "horse_number": 1,
+      "odds": 69.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104203",
+      "horse_name": "スピードオブライト",
+      "score": -0.4361868299893332,
+      "horse_number": 6,
+      "odds": 27.3
+    }
+  ]
+}

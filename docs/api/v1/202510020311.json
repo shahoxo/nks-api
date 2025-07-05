@@ -1,0 +1,96 @@
+{
+  "race_id": "202510020311",
+  "race_name": "マレーシアC",
+  "race_time": "2025-07-05 15:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102728",
+      "horse_name": "バッデレイト",
+      "score": 0.37624249821720795,
+      "horse_number": 6,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105704",
+      "horse_name": "コルレオニス",
+      "score": 0.2327211607979404,
+      "horse_number": 4,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100143",
+      "horse_name": "メルトユアハート",
+      "score": 0.12333708605572838,
+      "horse_number": 10,
+      "odds": 8.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103129",
+      "horse_name": "ワンダイレクト",
+      "score": 0.00012202751242939344,
+      "horse_number": 8,
+      "odds": 11.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103354",
+      "horse_name": "アイスグリーン",
+      "score": -0.018815731322498745,
+      "horse_number": 5,
+      "odds": 8.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105305",
+      "horse_name": "アウフヘーベン",
+      "score": -0.1014638530255504,
+      "horse_number": 3,
+      "odds": 7.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101486",
+      "horse_name": "ドットクルー",
+      "score": -0.2915399104738244,
+      "horse_number": 1,
+      "odds": 27.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103557",
+      "horse_name": "グランアルティスタ",
+      "score": -0.3314924649961448,
+      "horse_number": 9,
+      "odds": 50.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102888",
+      "horse_name": "バールデュヴァン",
+      "score": -0.3673393806990698,
+      "horse_number": 11,
+      "odds": 29.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018101621",
+      "horse_name": "ウインリブルマン",
+      "score": -0.5093183854687542,
+      "horse_number": 7,
+      "odds": 18.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018104591",
+      "horse_name": "サウンドウォリアー",
+      "score": -0.5571203828274278,
+      "horse_number": 2,
+      "odds": 26.7
+    }
+  ]
+}
