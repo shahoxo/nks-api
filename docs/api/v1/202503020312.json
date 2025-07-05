@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2022105435",
       "horse_name": "ボンヌソワレ",
-      "score": 0.2227460442503429,
+      "score": 0.18728462570243948,
       "horse_number": 15,
       "odds": 3.7
     },
@@ -16,41 +16,41 @@
       "rank": 2,
       "horse_id": "2022105376",
       "horse_name": "ティピティーナ",
-      "score": 0.2013978230009209,
+      "score": 0.15478160597814966,
       "horse_number": 14,
       "odds": 7.4
     },
     {
       "rank": 3,
-      "horse_id": "2022102088",
-      "horse_name": "ユーティジャーニー",
-      "score": 0.17755795714847608,
-      "horse_number": 4,
-      "odds": 5.0
-    },
-    {
-      "rank": 4,
       "horse_id": "2020101586",
       "horse_name": "エルフレスアリー",
-      "score": 0.1768043002484719,
+      "score": 0.14756942582131014,
       "horse_number": 5,
       "odds": 8.6
     },
     {
-      "rank": 5,
+      "rank": 4,
       "horse_id": "2020102741",
       "horse_name": "アサクサヴィーナス",
-      "score": 0.14565989091663512,
+      "score": 0.08656309108581615,
       "horse_number": 1,
       "odds": 7.3
     },
     {
-      "rank": 6,
+      "rank": 5,
       "horse_id": "2021100248",
       "horse_name": "セイウンデセオ",
-      "score": -0.07689390378022043,
+      "score": -0.012023384128010722,
       "horse_number": 11,
       "odds": 9.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102088",
+      "horse_name": "ユーティジャーニー",
+      "score": -0.01515876777843731,
+      "horse_number": 4,
+      "odds": 5.0
     },
     {
       "rank": 7,
