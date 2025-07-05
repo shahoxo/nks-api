@@ -1,0 +1,136 @@
+{
+  "race_id": "202510020307",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-05 13:25",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106618",
+      "horse_name": "ジェルブロア",
+      "score": 0.1699092981525812,
+      "horse_number": 4,
+      "odds": 7.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104775",
+      "horse_name": "エルオンセ",
+      "score": 0.13154126246297324,
+      "horse_number": 10,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105334",
+      "horse_name": "ダノンブランニュー",
+      "score": 0.10045733501422185,
+      "horse_number": 6,
+      "odds": 8.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104936",
+      "horse_name": "エンスエーニョ",
+      "score": 0.09223772958874359,
+      "horse_number": 11,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103068",
+      "horse_name": "スピードイエロー",
+      "score": 0.037742003579511046,
+      "horse_number": 5,
+      "odds": 16.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101644",
+      "horse_name": "ウチナータイム",
+      "score": -0.022441982560374777,
+      "horse_number": 1,
+      "odds": 10.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100963",
+      "horse_name": "キャスパインパクト",
+      "score": -0.19227499455533517,
+      "horse_number": 8,
+      "odds": 12.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103927",
+      "horse_name": "ショウナンアイバ",
+      "score": -0.25113891396436594,
+      "horse_number": 14,
+      "odds": 40.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104319",
+      "horse_name": "フェブルアーリア",
+      "score": -0.31231263661387454,
+      "horse_number": 16,
+      "odds": 28.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103956",
+      "horse_name": "ウィズプライド",
+      "score": -0.36762367458001943,
+      "horse_number": 15,
+      "odds": 86.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102875",
+      "horse_name": "モズグランプリ",
+      "score": -0.4073181939951395,
+      "horse_number": 2,
+      "odds": 16.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107339",
+      "horse_name": "パドメ",
+      "score": -0.5186231171164214,
+      "horse_number": 13,
+      "odds": 17.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101435",
+      "horse_name": "ヒットザノート",
+      "score": -0.5520113275800018,
+      "horse_number": 9,
+      "odds": 54.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104390",
+      "horse_name": "シャインチャプチャ",
+      "score": -0.5625679285386943,
+      "horse_number": 12,
+      "odds": 107.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105013",
+      "horse_name": "カーボナード",
+      "score": -0.5927493292638134,
+      "horse_number": 7,
+      "odds": 56.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104492",
+      "horse_name": "アーベントゾンネ",
+      "score": -0.723527651007794,
+      "horse_number": 3,
+      "odds": 29.6
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202502010707",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-05 13:15",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104725",
+      "horse_name": "カーミングライツ",
+      "score": 0.20377255215850568,
+      "horse_number": 1,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106624",
+      "horse_name": "リギーロ",
+      "score": 0.041660797153746,
+      "horse_number": 12,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104413",
+      "horse_name": "マハートマーベル",
+      "score": -0.03559100106243872,
+      "horse_number": 2,
+      "odds": 12.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103031",
+      "horse_name": "モカラルビー",
+      "score": -0.04416020855971905,
+      "horse_number": 7,
+      "odds": 16.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103288",
+      "horse_name": "ヤコブセン",
+      "score": -0.050713693331880916,
+      "horse_number": 5,
+      "odds": 4.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102760",
+      "horse_name": "ビッグベルーガ",
+      "score": -0.07999935761319242,
+      "horse_number": 8,
+      "odds": 14.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103514",
+      "horse_name": "ピジョンポイント",
+      "score": -0.23539390369006427,
+      "horse_number": 10,
+      "odds": 24.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105395",
+      "horse_name": "オロスコピオ",
+      "score": -0.25690938250067663,
+      "horse_number": 11,
+      "odds": 18.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105796",
+      "horse_name": "ペリプルス",
+      "score": -0.370154952128249,
+      "horse_number": 6,
+      "odds": 13.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105479",
+      "horse_name": "オールウェズキズナ",
+      "score": -0.4225328834962422,
+      "horse_number": 9,
+      "odds": 36.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101250",
+      "horse_name": "シェアホルダーズ",
+      "score": -0.4807010657334736,
+      "horse_number": 4,
+      "odds": 35.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104843",
+      "horse_name": "コーラスライン",
+      "score": -0.5907216745266844,
+      "horse_number": 3,
+      "odds": 52.1
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202503020306",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-05 13:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104859",
+      "horse_name": "プレシャスデイ",
+      "score": 0.31447222341887665,
+      "horse_number": 4,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102276",
+      "horse_name": "マクミランテソーロ",
+      "score": 0.13865862162071024,
+      "horse_number": 1,
+      "odds": 12.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101716",
+      "horse_name": "ピコシー",
+      "score": 0.13762418969407939,
+      "horse_number": 7,
+      "odds": 5.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022107226",
+      "horse_name": "カゼノタカトシ",
+      "score": 0.13370661001367362,
+      "horse_number": 12,
+      "odds": 23.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100306",
+      "horse_name": "フジレイメイ",
+      "score": 0.09556053001539691,
+      "horse_number": 6,
+      "odds": 11.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101081",
+      "horse_name": "ラッキーヤース",
+      "score": 0.09286288465427352,
+      "horse_number": 11,
+      "odds": 19.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100162",
+      "horse_name": "ゴットランド",
+      "score": 0.04840586377717503,
+      "horse_number": 2,
+      "odds": 15.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100887",
+      "horse_name": "ゲンパチルーナ",
+      "score": 0.021898787497242576,
+      "horse_number": 9,
+      "odds": 5.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105917",
+      "horse_name": "アルナイル",
+      "score": -0.060165885059827104,
+      "horse_number": 5,
+      "odds": 38.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106724",
+      "horse_name": "チェルシー",
+      "score": -0.07015514626934592,
+      "horse_number": 14,
+      "odds": 18.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102380",
+      "horse_name": "シュレン",
+      "score": -0.12708053124914967,
+      "horse_number": 13,
+      "odds": 28.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107167",
+      "horse_name": "リュキア",
+      "score": -0.6794757848016343,
+      "horse_number": 10,
+      "odds": 32.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102772",
+      "horse_name": "ヴェラグエリエロ",
+      "score": -0.6823123740050003,
+      "horse_number": 3,
+      "odds": 122.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102798",
+      "horse_name": "サイモンプレジール",
+      "score": -0.6997242947219148,
+      "horse_number": 8,
+      "odds": 159.9
+    }
+  ]
+}
