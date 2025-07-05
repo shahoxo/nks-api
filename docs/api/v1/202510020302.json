@@ -1,0 +1,136 @@
+{
+  "race_id": "202510020302",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-05 10:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105061",
+      "horse_name": "エスタンシア",
+      "score": 0.24030811803862617,
+      "horse_number": 11,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104653",
+      "horse_name": "アイドルアイズ",
+      "score": 0.16240559349495998,
+      "horse_number": 8,
+      "odds": 7.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101328",
+      "horse_name": "フクノフィアーノン",
+      "score": 0.10680856981406771,
+      "horse_number": 3,
+      "odds": 16.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101404",
+      "horse_name": "クラリティー",
+      "score": 0.06952663933775285,
+      "horse_number": 4,
+      "odds": 18.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105711",
+      "horse_name": "ヴァリオーサ",
+      "score": 0.05543064718577385,
+      "horse_number": 1,
+      "odds": 7.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104391",
+      "horse_name": "ヴィヴァシャス",
+      "score": -0.04923480133396961,
+      "horse_number": 16,
+      "odds": 12.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105299",
+      "horse_name": "ウールワース",
+      "score": -0.05205311115020468,
+      "horse_number": 5,
+      "odds": 59.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105410",
+      "horse_name": "エンブレイスメント",
+      "score": -0.0900455655353123,
+      "horse_number": 12,
+      "odds": 12.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101135",
+      "horse_name": "2022101135",
+      "score": -0.16503367692886572,
+      "horse_number": 14,
+      "odds": 49.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105150",
+      "horse_name": "ラミントン",
+      "score": -0.33182761001646666,
+      "horse_number": 13,
+      "odds": 10.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106650",
+      "horse_name": "ガールクラッシュ",
+      "score": -0.38236056368379,
+      "horse_number": 10,
+      "odds": 95.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103123",
+      "horse_name": "オリビアサンライズ",
+      "score": -0.4177384851062662,
+      "horse_number": 9,
+      "odds": 27.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103935",
+      "horse_name": "スマートエレーヌ",
+      "score": -0.43240640028483845,
+      "horse_number": 2,
+      "odds": 26.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106628",
+      "horse_name": "ヴォルクメア",
+      "score": -0.45187691416095366,
+      "horse_number": 15,
+      "odds": 16.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106531",
+      "horse_name": "ソルトチャンス",
+      "score": -0.5111067145399603,
+      "horse_number": 7,
+      "odds": 62.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102198",
+      "horse_name": "ヨリナスウィート",
+      "score": -0.5393606452573874,
+      "horse_number": 6,
+      "odds": 7.1
+    }
+  ]
+}

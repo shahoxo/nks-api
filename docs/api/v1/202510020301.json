@@ -1,0 +1,48 @@
+{
+  "race_id": "202510020301",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-07-05 10:01",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106400",
+      "horse_name": "アスクエジンバラ",
+      "score": 0.48602968280716363,
+      "horse_number": 3,
+      "odds": 1.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107295",
+      "horse_name": "リヒトミューレ",
+      "score": -0.28456390651529667,
+      "horse_number": 1,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023109125",
+      "horse_name": "テーオールーラー",
+      "score": -0.4442110275186454,
+      "horse_number": 2,
+      "odds": 28.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023109090",
+      "horse_name": "2023109090",
+      "score": -0.47293600501096866,
+      "horse_number": 4,
+      "odds": 12.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023109091",
+      "horse_name": "シーキングザバース",
+      "score": -0.7295377203336686,
+      "horse_number": 5,
+      "odds": 24.7
+    }
+  ]
+}
