@@ -1,0 +1,120 @@
+{
+  "race_id": "202510020304",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-05 11:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100126",
+      "horse_name": "イフウドウドウ",
+      "score": 0.042089992107292286,
+      "horse_number": 6,
+      "odds": 7.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107279",
+      "horse_name": "ミトノキャット",
+      "score": -0.01135880615459869,
+      "horse_number": 8,
+      "odds": 10.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103634",
+      "horse_name": "メイショウサトノヒ",
+      "score": -0.01639265125775643,
+      "horse_number": 13,
+      "odds": 11.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103346",
+      "horse_name": "メイショウヨンク",
+      "score": -0.05845292939736581,
+      "horse_number": 2,
+      "odds": 21.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110087",
+      "horse_name": "ララアヴリル",
+      "score": -0.09160840654444304,
+      "horse_number": 9,
+      "odds": 3.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103482",
+      "horse_name": "ステラノヴァ",
+      "score": -0.17517604302648115,
+      "horse_number": 14,
+      "odds": 3.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102462",
+      "horse_name": "2022102462",
+      "score": -0.32970244882851285,
+      "horse_number": 3,
+      "odds": 44.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106582",
+      "horse_name": "2022106582",
+      "score": -0.3480214702565969,
+      "horse_number": 10,
+      "odds": 6.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101482",
+      "horse_name": "ノヴァエスペランサ",
+      "score": -0.35570874552748566,
+      "horse_number": 4,
+      "odds": 51.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101033",
+      "horse_name": "デュアルタスク",
+      "score": -0.40232309569233715,
+      "horse_number": 11,
+      "odds": 10.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022110119",
+      "horse_name": "スカイアクセル",
+      "score": -0.4141245540235799,
+      "horse_number": 12,
+      "odds": 80.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100967",
+      "horse_name": "エメラルドシティー",
+      "score": -0.44775668567065063,
+      "horse_number": 5,
+      "odds": 158.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103449",
+      "horse_name": "ロビン",
+      "score": -0.4532209489368323,
+      "horse_number": 7,
+      "odds": 103.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103275",
+      "horse_name": "ゴッドペイズリー",
+      "score": -0.4953145084077313,
+      "horse_number": 1,
+      "odds": 53.9
+    }
+  ]
+}
