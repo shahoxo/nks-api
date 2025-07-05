@@ -1,0 +1,136 @@
+{
+  "race_id": "202503020311",
+  "race_name": "TUF杯",
+  "race_time": "2025-07-05 15:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019100553",
+      "horse_name": "ドンレパルス",
+      "score": 0.21047949362853324,
+      "horse_number": 5,
+      "odds": 8.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110008",
+      "horse_name": "ルディック",
+      "score": 0.17668548338670687,
+      "horse_number": 12,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020104597",
+      "horse_name": "ショウナンアビアス",
+      "score": 0.16628992264430065,
+      "horse_number": 16,
+      "odds": 13.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110107",
+      "horse_name": "エコロアゼル",
+      "score": 0.13272474726870132,
+      "horse_number": 11,
+      "odds": 3.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103204",
+      "horse_name": "アイアムユウシュン",
+      "score": 0.06895477652498724,
+      "horse_number": 10,
+      "odds": 10.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019104660",
+      "horse_name": "フラップシグナス",
+      "score": 0.06023317995406099,
+      "horse_number": 6,
+      "odds": 36.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103095",
+      "horse_name": "オーブルクール",
+      "score": 0.020658618775116343,
+      "horse_number": 15,
+      "odds": 6.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100114",
+      "horse_name": "ブレーザー",
+      "score": -0.006730200162698847,
+      "horse_number": 13,
+      "odds": 15.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105058",
+      "horse_name": "ミユキアイラブユー",
+      "score": -0.10627974104311674,
+      "horse_number": 2,
+      "odds": 17.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101639",
+      "horse_name": "ハッピーロンドン",
+      "score": -0.13037290474403349,
+      "horse_number": 4,
+      "odds": 19.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103556",
+      "horse_name": "レアグリフォン",
+      "score": -0.14498030757078062,
+      "horse_number": 14,
+      "odds": 82.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106406",
+      "horse_name": "クリダーム",
+      "score": -0.1451207565927589,
+      "horse_number": 9,
+      "odds": 22.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102299",
+      "horse_name": "アシャカタカ",
+      "score": -0.307144987824588,
+      "horse_number": 7,
+      "odds": 29.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020106611",
+      "horse_name": "アロットドリーム",
+      "score": -0.4364553303714622,
+      "horse_number": 3,
+      "odds": 36.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018104392",
+      "horse_name": "グリュースゴット",
+      "score": -0.5945546677764488,
+      "horse_number": 1,
+      "odds": 114.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021105334",
+      "horse_name": "トーアアイギス",
+      "score": -0.6028440267205291,
+      "horse_number": 8,
+      "odds": 70.6
+    }
+  ]
+}

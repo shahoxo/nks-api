@@ -1,0 +1,112 @@
+{
+  "race_id": "202502010712",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-05 16:05",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105798",
+      "horse_name": "オンザスクエア",
+      "score": 0.3550529704659796,
+      "horse_number": 9,
+      "odds": 6.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104174",
+      "horse_name": "マジカルフェアリー",
+      "score": 0.052469619171760004,
+      "horse_number": 2,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101250",
+      "horse_name": "ランスノーブル",
+      "score": 0.02895046321071714,
+      "horse_number": 11,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105896",
+      "horse_name": "ケープウィッカム",
+      "score": 0.009590304937559448,
+      "horse_number": 4,
+      "odds": 4.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105976",
+      "horse_name": "ローマンレイク",
+      "score": -0.05033196022532502,
+      "horse_number": 8,
+      "odds": 12.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105895",
+      "horse_name": "レーヴドレフォン",
+      "score": -0.09712655484522212,
+      "horse_number": 6,
+      "odds": 6.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105343",
+      "horse_name": "デルマサクラサク",
+      "score": -0.15835813923329103,
+      "horse_number": 12,
+      "odds": 10.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103217",
+      "horse_name": "ジョセフィーナ",
+      "score": -0.20480804824988574,
+      "horse_number": 1,
+      "odds": 8.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101572",
+      "horse_name": "スペシャリスト",
+      "score": -0.4143354254420716,
+      "horse_number": 7,
+      "odds": 53.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103991",
+      "horse_name": "タマモネモフィラ",
+      "score": -0.4665830877803091,
+      "horse_number": 3,
+      "odds": 20.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106698",
+      "horse_name": "オカメノコイ",
+      "score": -0.49181324890504685,
+      "horse_number": 5,
+      "odds": 30.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104511",
+      "horse_name": "コルヴィル",
+      "score": -0.5192925029406446,
+      "horse_number": 13,
+      "odds": 24.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102135",
+      "horse_name": "ペイシャアンジェロ",
+      "score": -0.6318373387288261,
+      "horse_number": 10,
+      "odds": 78.8
+    }
+  ]
+}
