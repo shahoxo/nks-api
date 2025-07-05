@@ -1,0 +1,80 @@
+{
+  "race_id": "202502010708",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-05 13:45",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106351",
+      "horse_name": "ベビーズブレス",
+      "score": 0.15744003283575733,
+      "horse_number": 4,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101100",
+      "horse_name": "ルクスアドラー",
+      "score": 0.04083665653496476,
+      "horse_number": 7,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102717",
+      "horse_name": "ジャグアール",
+      "score": -0.13631911818772272,
+      "horse_number": 8,
+      "odds": 10.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100443",
+      "horse_name": "エイシンオニキス",
+      "score": -0.27564559930259236,
+      "horse_number": 6,
+      "odds": 7.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105491",
+      "horse_name": "テリオスルル",
+      "score": -0.44240000800574064,
+      "horse_number": 5,
+      "odds": 8.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100091",
+      "horse_name": "キャリーグレイス",
+      "score": -0.44672561976337377,
+      "horse_number": 1,
+      "odds": 22.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100460",
+      "horse_name": "スマッシュアウト",
+      "score": -0.4744819383638048,
+      "horse_number": 9,
+      "odds": 19.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103535",
+      "horse_name": "シャインズオンユー",
+      "score": -0.5286406415741448,
+      "horse_number": 2,
+      "odds": 16.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104589",
+      "horse_name": "ジーティースピカ",
+      "score": -0.5877500638065366,
+      "horse_number": 3,
+      "odds": 94.6
+    }
+  ]
+}
