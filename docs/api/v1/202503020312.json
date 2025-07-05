@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020312",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-05 16:30",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105435",
+      "horse_name": "ボンヌソワレ",
+      "score": 0.2227460442503429,
+      "horse_number": 15,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105376",
+      "horse_name": "ティピティーナ",
+      "score": 0.2013978230009209,
+      "horse_number": 14,
+      "odds": 7.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102088",
+      "horse_name": "ユーティジャーニー",
+      "score": 0.17755795714847608,
+      "horse_number": 4,
+      "odds": 5.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101586",
+      "horse_name": "エルフレスアリー",
+      "score": 0.1768043002484719,
+      "horse_number": 5,
+      "odds": 8.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020102741",
+      "horse_name": "アサクサヴィーナス",
+      "score": 0.14565989091663512,
+      "horse_number": 1,
+      "odds": 7.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100248",
+      "horse_name": "セイウンデセオ",
+      "score": -0.07689390378022043,
+      "horse_number": 11,
+      "odds": 9.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104481",
+      "horse_name": "ビアフォーナウ",
+      "score": -0.23539390369006427,
+      "horse_number": 6,
+      "odds": 39.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101394",
+      "horse_name": "モンレーヴ",
+      "score": -0.2619894213828573,
+      "horse_number": 13,
+      "odds": 32.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105373",
+      "horse_name": "パレスドフィーヌ",
+      "score": -0.29081629854797847,
+      "horse_number": 10,
+      "odds": 22.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105747",
+      "horse_name": "プリュノワール",
+      "score": -0.34038255834934694,
+      "horse_number": 2,
+      "odds": 17.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104190",
+      "horse_name": "ラトルシェ",
+      "score": -0.4446659091973679,
+      "horse_number": 3,
+      "odds": 15.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104271",
+      "horse_name": "スマイルディシー",
+      "score": -0.46255155929336234,
+      "horse_number": 8,
+      "odds": 50.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100084",
+      "horse_name": "レッドカメリア",
+      "score": -0.5784031341091816,
+      "horse_number": 9,
+      "odds": 82.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105131",
+      "horse_name": "ザハーフェル",
+      "score": -0.6318373387288261,
+      "horse_number": 12,
+      "odds": 56.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106837",
+      "horse_name": "ウィンウッドテール",
+      "score": -0.7344997899121097,
+      "horse_number": 7,
+      "odds": 50.5
+    }
+  ]
+}
