@@ -1,0 +1,120 @@
+{
+  "race_id": "202510020408",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-06 13:55",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100687",
+      "horse_name": "トッピゴー",
+      "score": 0.205249582832157,
+      "horse_number": 1,
+      "odds": 18.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104644",
+      "horse_name": "ペンテリコン",
+      "score": 0.09413787795637817,
+      "horse_number": 12,
+      "odds": 19.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107147",
+      "horse_name": "キョラムン",
+      "score": 0.0542999380667826,
+      "horse_number": 7,
+      "odds": 10.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104674",
+      "horse_name": "フィドルファドル",
+      "score": 0.05093004767310311,
+      "horse_number": 4,
+      "odds": 4.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103610",
+      "horse_name": "オースミライト",
+      "score": 0.012448849303704573,
+      "horse_number": 10,
+      "odds": 18.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110142",
+      "horse_name": "ファムエレガンテ",
+      "score": -0.020444995554586412,
+      "horse_number": 11,
+      "odds": 2.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100906",
+      "horse_name": "ペレグリン",
+      "score": -0.059696370457190576,
+      "horse_number": 14,
+      "odds": 21.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100696",
+      "horse_name": "ドナポンド",
+      "score": -0.12747140747299424,
+      "horse_number": 8,
+      "odds": 28.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019103285",
+      "horse_name": "クリノミニスター",
+      "score": -0.19910471296868698,
+      "horse_number": 13,
+      "odds": 30.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022110113",
+      "horse_name": "ジャスパーノベル",
+      "score": -0.3186739212388604,
+      "horse_number": 3,
+      "odds": 30.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104216",
+      "horse_name": "ペイシャヴァルツー",
+      "score": -0.3934079960446014,
+      "horse_number": 5,
+      "odds": 5.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105077",
+      "horse_name": "ワイルドブッター",
+      "score": -0.4888304315990606,
+      "horse_number": 2,
+      "odds": 61.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106648",
+      "horse_name": "ベネメレンティ",
+      "score": -0.5786317696138015,
+      "horse_number": 6,
+      "odds": 72.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104661",
+      "horse_name": "ユウトザイースト",
+      "score": -0.6623780875704004,
+      "horse_number": 9,
+      "odds": 163.6
+    }
+  ]
+}

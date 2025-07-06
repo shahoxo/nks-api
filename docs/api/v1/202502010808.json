@@ -8,25 +8,25 @@
       "rank": 1,
       "horse_id": "2022101634",
       "horse_name": "ロングウェイホーム",
-      "score": 0.30782601796529085,
+      "score": 0.3253063891365275,
       "horse_number": 13,
       "odds": 4.0
     },
     {
       "rank": 2,
-      "horse_id": "2020103389",
-      "horse_name": "ブリスキー",
-      "score": 0.09472529086372135,
-      "horse_number": 3,
-      "odds": 11.7
+      "horse_id": "2021104276",
+      "horse_name": "ガラスノブルース",
+      "score": 0.013779948742519612,
+      "horse_number": 10,
+      "odds": 12.2
     },
     {
       "rank": 3,
-      "horse_id": "2021104276",
-      "horse_name": "ガラスノブルース",
-      "score": 0.04465189783809902,
-      "horse_number": 10,
-      "odds": 12.2
+      "horse_id": "2020103389",
+      "horse_name": "ブリスキー",
+      "score": 4.2921657353962514e-05,
+      "horse_number": 3,
+      "odds": 11.7
     },
     {
       "rank": 4,
@@ -38,25 +38,25 @@
     },
     {
       "rank": 5,
-      "horse_id": "2022102709",
-      "horse_name": "ニシノルアノーヴァ",
-      "score": -0.017352612785567427,
-      "horse_number": 4,
-      "odds": 19.3
+      "horse_id": "2020104750",
+      "horse_name": "リーゼノアール",
+      "score": -0.0679899090075753,
+      "horse_number": 6,
+      "odds": 17.5
     },
     {
       "rank": 6,
-      "horse_id": "2020104750",
-      "horse_name": "リーゼノアール",
-      "score": -0.028772845819620342,
-      "horse_number": 6,
-      "odds": 17.5
+      "horse_id": "2022102709",
+      "horse_name": "ニシノルアノーヴァ",
+      "score": -0.12308773628811503,
+      "horse_number": 4,
+      "odds": 19.3
     },
     {
       "rank": 7,
       "horse_id": "2021102200",
       "horse_name": "レッドライトニング",
-      "score": -0.047304352080647566,
+      "score": -0.12863640634908313,
       "horse_number": 9,
       "odds": 3.4
     },
@@ -72,7 +72,7 @@
       "rank": 9,
       "horse_id": "2022105018",
       "horse_name": "バルティカ",
-      "score": -0.18234639782119488,
+      "score": -0.2455863740945155,
       "horse_number": 12,
       "odds": 21.3
     },
@@ -80,7 +80,7 @@
       "rank": 10,
       "horse_id": "2022102966",
       "horse_name": "サンダーロード",
-      "score": -0.24720109313226094,
+      "score": -0.33594614668636985,
       "horse_number": 8,
       "odds": 20.3
     },
