@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020411",
+  "race_name": "ジュライS",
+  "race_time": "2025-07-06 15:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019102044",
+      "horse_name": "エルゲルージ",
+      "score": 0.2824505550112283,
+      "horse_number": 1,
+      "odds": 6.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102078",
+      "horse_name": "ジョージテソーロ",
+      "score": 0.13859650892089098,
+      "horse_number": 4,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104914",
+      "horse_name": "アピーリングルック",
+      "score": 0.058915477181467155,
+      "horse_number": 9,
+      "odds": 5.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104861",
+      "horse_name": "タマモロック",
+      "score": -0.07194356631925805,
+      "horse_number": 5,
+      "odds": 34.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104675",
+      "horse_name": "ヘニータイフーン",
+      "score": -0.07298975654447698,
+      "horse_number": 2,
+      "odds": 30.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110060",
+      "horse_name": "ソニックスター",
+      "score": -0.08039787317048103,
+      "horse_number": 12,
+      "odds": 17.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105483",
+      "horse_name": "リューベック",
+      "score": -0.13511760188834251,
+      "horse_number": 6,
+      "odds": 37.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102869",
+      "horse_name": "カズプレスト",
+      "score": -0.1362775047812779,
+      "horse_number": 10,
+      "odds": 11.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101694",
+      "horse_name": "シゲルショウグン",
+      "score": -0.16466621868103637,
+      "horse_number": 13,
+      "odds": 4.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2016103730",
+      "horse_name": "ザイツィンガー",
+      "score": -0.2149964398344068,
+      "horse_number": 14,
+      "odds": 25.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102345",
+      "horse_name": "ヒューゴ",
+      "score": -0.22135092928809252,
+      "horse_number": 8,
+      "odds": 66.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018104462",
+      "horse_name": "キタノリューオー",
+      "score": -0.2640637398724196,
+      "horse_number": 7,
+      "odds": 36.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101444",
+      "horse_name": "サトノフェニックス",
+      "score": -0.2778808684833894,
+      "horse_number": 11,
+      "odds": 7.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017103641",
+      "horse_name": "ケンシンコウ",
+      "score": -0.39075139618199717,
+      "horse_number": 3,
+      "odds": 14.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019101889",
+      "horse_name": "コンバスチョン",
+      "score": -0.6887521558175991,
+      "horse_number": 15,
+      "odds": 43.6
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "race_id": "202502010812",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-06 16:05",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101241",
+      "horse_name": "アジュマン",
+      "score": 0.15824816617040477,
+      "horse_number": 9,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100958",
+      "horse_name": "ビッグフラワー",
+      "score": 0.08294920154196934,
+      "horse_number": 3,
+      "odds": 8.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104217",
+      "horse_name": "ムチャスグラシアス",
+      "score": 0.04613850189646873,
+      "horse_number": 4,
+      "odds": 11.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104074",
+      "horse_name": "ラブディーヴァ",
+      "score": 0.036810887731049374,
+      "horse_number": 8,
+      "odds": 3.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106690",
+      "horse_name": "ペルフェツィオーネ",
+      "score": -0.026462327192659348,
+      "horse_number": 7,
+      "odds": 9.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020100138",
+      "horse_name": "デアデルマーレ",
+      "score": -0.13639764833280907,
+      "horse_number": 10,
+      "odds": 18.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019101794",
+      "horse_name": "ヒメカミノイタダキ",
+      "score": -0.14451695789012134,
+      "horse_number": 5,
+      "odds": 21.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102458",
+      "horse_name": "ホーリーブライト",
+      "score": -0.44524607831690177,
+      "horse_number": 1,
+      "odds": 14.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2017104266",
+      "horse_name": "カップッチョ",
+      "score": -0.5077361470676942,
+      "horse_number": 6,
+      "odds": 27.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100387",
+      "horse_name": "マーベリックシチー",
+      "score": -0.5529378849583312,
+      "horse_number": 2,
+      "odds": 21.4
+    }
+  ]
+}
