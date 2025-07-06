@@ -1,0 +1,104 @@
+{
+  "race_id": "202502010806",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-06 12:45",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104385",
+      "horse_name": "ラマヌジャン",
+      "score": 0.20791911645908978,
+      "horse_number": 2,
+      "odds": 9.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106120",
+      "horse_name": "ミクニインスパイア",
+      "score": 0.1965253328191141,
+      "horse_number": 4,
+      "odds": 1.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105839",
+      "horse_name": "アスクデッドヒート",
+      "score": 0.07395155474717974,
+      "horse_number": 5,
+      "odds": 8.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022107084",
+      "horse_name": "ウインヘリオドール",
+      "score": -0.028622138560444956,
+      "horse_number": 12,
+      "odds": 11.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102961",
+      "horse_name": "シックスパック",
+      "score": -0.03627144033898247,
+      "horse_number": 10,
+      "odds": 10.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100325",
+      "horse_name": "ハクサンミラクル",
+      "score": -0.12948920905542588,
+      "horse_number": 6,
+      "odds": 12.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104427",
+      "horse_name": "ターミネーター",
+      "score": -0.13428567215341447,
+      "horse_number": 8,
+      "odds": 22.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104308",
+      "horse_name": "シカレ",
+      "score": -0.3057720861910889,
+      "horse_number": 1,
+      "odds": 16.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100715",
+      "horse_name": "フィエールガール",
+      "score": -0.45336385555383407,
+      "horse_number": 7,
+      "odds": 42.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103524",
+      "horse_name": "ディアイライザ",
+      "score": -0.48189865546588695,
+      "horse_number": 11,
+      "odds": 49.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104563",
+      "horse_name": "タイムレス",
+      "score": -0.6030663166608698,
+      "horse_number": 9,
+      "odds": 64.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102984",
+      "horse_name": "ビスケットマリー",
+      "score": -0.6210334822115894,
+      "horse_number": 3,
+      "odds": 77.6
+    }
+  ]
+}
