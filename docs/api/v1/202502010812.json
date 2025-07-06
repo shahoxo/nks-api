@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2022101241",
       "horse_name": "アジュマン",
-      "score": 0.15824816617040477,
+      "score": 0.18305847013911655,
       "horse_number": 9,
       "odds": 2.7
     },
@@ -16,36 +16,44 @@
       "rank": 2,
       "horse_id": "2021100958",
       "horse_name": "ビッグフラワー",
-      "score": 0.08294920154196934,
+      "score": 0.1054371364806065,
       "horse_number": 3,
       "odds": 8.3
     },
     {
       "rank": 3,
-      "horse_id": "2021104217",
-      "horse_name": "ムチャスグラシアス",
-      "score": 0.04613850189646873,
-      "horse_number": 4,
-      "odds": 11.1
+      "horse_id": "2019101794",
+      "horse_name": "ヒメカミノイタダキ",
+      "score": 0.0228258004405461,
+      "horse_number": 5,
+      "odds": 21.5
     },
     {
       "rank": 4,
       "horse_id": "2021104074",
       "horse_name": "ラブディーヴァ",
-      "score": 0.036810887731049374,
+      "score": -0.013769603698049897,
       "horse_number": 8,
       "odds": 3.1
     },
     {
       "rank": 5,
+      "horse_id": "2021104217",
+      "horse_name": "ムチャスグラシアス",
+      "score": -0.060272520152375886,
+      "horse_number": 4,
+      "odds": 11.1
+    },
+    {
+      "rank": 6,
       "horse_id": "2021106690",
       "horse_name": "ペルフェツィオーネ",
-      "score": -0.026462327192659348,
+      "score": -0.13610240586213926,
       "horse_number": 7,
       "odds": 9.7
     },
     {
-      "rank": 6,
+      "rank": 7,
       "horse_id": "2020100138",
       "horse_name": "デアデルマーレ",
       "score": -0.13639764833280907,
@@ -53,18 +61,10 @@
       "odds": 18.0
     },
     {
-      "rank": 7,
-      "horse_id": "2019101794",
-      "horse_name": "ヒメカミノイタダキ",
-      "score": -0.14451695789012134,
-      "horse_number": 5,
-      "odds": 21.5
-    },
-    {
       "rank": 8,
       "horse_id": "2021102458",
       "horse_name": "ホーリーブライト",
-      "score": -0.44524607831690177,
+      "score": -0.46809687250560006,
       "horse_number": 1,
       "odds": 14.2
     },

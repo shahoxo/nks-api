@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020412",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-06 16:30",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102315",
+      "horse_name": "シュヴァルボヌール",
+      "score": 0.3492272329400323,
+      "horse_number": 5,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110132",
+      "horse_name": "ピコテンダー",
+      "score": 0.054353592133443526,
+      "horse_number": 1,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106119",
+      "horse_name": "タイセイピューマ",
+      "score": 0.025562457788045383,
+      "horse_number": 11,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103846",
+      "horse_name": "ショーモッシュ",
+      "score": -0.016884830801851793,
+      "horse_number": 10,
+      "odds": 9.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110126",
+      "horse_name": "エコロカディス",
+      "score": -0.03817742307822398,
+      "horse_number": 8,
+      "odds": 6.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101363",
+      "horse_name": "アイランドピーク",
+      "score": -0.34497424146233857,
+      "horse_number": 9,
+      "odds": 16.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2017100426",
+      "horse_name": "グレアミラージュ",
+      "score": -0.4269619368121531,
+      "horse_number": 6,
+      "odds": 46.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104306",
+      "horse_name": "アドバンテスロード",
+      "score": -0.487063285326768,
+      "horse_number": 2,
+      "odds": 24.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101265",
+      "horse_name": "オコジュ",
+      "score": -0.508610957661266,
+      "horse_number": 3,
+      "odds": 17.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105609",
+      "horse_name": "ライヴドライバー",
+      "score": -0.5176523099208751,
+      "horse_number": 14,
+      "odds": 6.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106677",
+      "horse_name": "カガバベル",
+      "score": -0.5529708776279626,
+      "horse_number": 12,
+      "odds": 35.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100833",
+      "horse_name": "エンピリカルルール",
+      "score": -0.5970618435386312,
+      "horse_number": 15,
+      "odds": 89.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101601",
+      "horse_name": "モダンフリンジ",
+      "score": -0.5970618435386312,
+      "horse_number": 4,
+      "odds": 41.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103558",
+      "horse_name": "プライムブルー",
+      "score": -0.6841057623530721,
+      "horse_number": 13,
+      "odds": 27.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019104141",
+      "horse_name": "ハジメテノチュウ",
+      "score": -0.7080136536659949,
+      "horse_number": 7,
+      "odds": 46.1
+    }
+  ]
+}
