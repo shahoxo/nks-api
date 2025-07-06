@@ -8,39 +8,39 @@
       "rank": 1,
       "horse_id": "2022102315",
       "horse_name": "シュヴァルボヌール",
-      "score": 0.3492272329400323,
+      "score": 0.3218897129397033,
       "horse_number": 5,
       "odds": 4.4
     },
     {
       "rank": 2,
+      "horse_id": "2022103846",
+      "horse_name": "ショーモッシュ",
+      "score": 0.03597678713065537,
+      "horse_number": 10,
+      "odds": 9.5
+    },
+    {
+      "rank": 3,
       "horse_id": "2022110132",
       "horse_name": "ピコテンダー",
-      "score": 0.054353592133443526,
+      "score": -0.0362239041402061,
       "horse_number": 1,
       "odds": 5.5
     },
     {
-      "rank": 3,
+      "rank": 4,
       "horse_id": "2021106119",
       "horse_name": "タイセイピューマ",
-      "score": 0.025562457788045383,
+      "score": -0.058632571843711345,
       "horse_number": 11,
       "odds": 8.0
-    },
-    {
-      "rank": 4,
-      "horse_id": "2022103846",
-      "horse_name": "ショーモッシュ",
-      "score": -0.016884830801851793,
-      "horse_number": 10,
-      "odds": 9.5
     },
     {
       "rank": 5,
       "horse_id": "2022110126",
       "horse_name": "エコロカディス",
-      "score": -0.03817742307822398,
+      "score": -0.13825768964853669,
       "horse_number": 8,
       "odds": 6.4
     },
@@ -54,19 +54,19 @@
     },
     {
       "rank": 7,
-      "horse_id": "2017100426",
-      "horse_name": "グレアミラージュ",
-      "score": -0.4269619368121531,
-      "horse_number": 6,
-      "odds": 46.8
+      "horse_id": "2022104306",
+      "horse_name": "アドバンテスロード",
+      "score": -0.4715737362943958,
+      "horse_number": 2,
+      "odds": 24.7
     },
     {
       "rank": 8,
-      "horse_id": "2022104306",
-      "horse_name": "アドバンテスロード",
-      "score": -0.487063285326768,
-      "horse_number": 2,
-      "odds": 24.7
+      "horse_id": "2017100426",
+      "horse_name": "グレアミラージュ",
+      "score": -0.483629863346308,
+      "horse_number": 6,
+      "odds": 46.8
     },
     {
       "rank": 9,

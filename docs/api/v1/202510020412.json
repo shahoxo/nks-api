@@ -10,7 +10,7 @@
       "horse_name": "ダノンヴェステル",
       "score": 0.3359618020327048,
       "horse_number": 11,
-      "odds": 6.5
+      "odds": 3.5
     },
     {
       "rank": 2,
@@ -26,7 +26,7 @@
       "horse_name": "ゼンエスポワール",
       "score": 0.13891981714585758,
       "horse_number": 12,
-      "odds": 16.1
+      "odds": 16.4
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "コズミックダンサー",
       "score": 0.033854868171364974,
       "horse_number": 16,
-      "odds": 12.6
+      "odds": 19.1
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "アメリカンチーフ",
       "score": -0.04676115093816478,
       "horse_number": 5,
-      "odds": 14.2
+      "odds": 11.2
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "テーオーミリカン",
       "score": -0.12863640634908313,
       "horse_number": 2,
-      "odds": 8.8
+      "odds": 10.8
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "ピストンボーイ",
       "score": -0.143098237687818,
       "horse_number": 1,
-      "odds": 27.2
+      "odds": 36.8
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "ジューンエオス",
       "score": -0.14621380253275462,
       "horse_number": 8,
-      "odds": 10.6
+      "odds": 11.3
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "スマートカイロス",
       "score": -0.2864112754409095,
       "horse_number": 3,
-      "odds": 17.8
+      "odds": 22.5
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "タガノエクレール",
       "score": -0.3458107495993703,
       "horse_number": 14,
-      "odds": 46.4
+      "odds": 84.2
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "メードス",
       "score": -0.45851321483424934,
       "horse_number": 15,
-      "odds": 19.7
+      "odds": 40.2
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "サンライズタイソン",
       "score": -0.46148035847917246,
       "horse_number": 10,
-      "odds": 44.9
+      "odds": 102.6
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "メリッササンライズ",
       "score": -0.5488310238833476,
       "horse_number": 6,
-      "odds": 56.4
+      "odds": 78.1
     },
     {
       "rank": 14,
@@ -114,15 +114,7 @@
       "horse_name": "ヒフミバンダム",
       "score": -0.616965813015554,
       "horse_number": 13,
-      "odds": 65.7
-    },
-    {
-      "rank": 15,
-      "horse_id": "2021101391",
-      "horse_name": "ブラックドレス",
-      "score": -0.6293301629666437,
-      "horse_number": 7,
-      "odds": 29.5
+      "odds": 83.2
     },
     {
       "rank": 15,
@@ -130,7 +122,15 @@
       "horse_name": "ディーエスソフィア",
       "score": -0.6293301629666437,
       "horse_number": 4,
-      "odds": 65.8
+      "odds": 122.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101391",
+      "horse_name": "ブラックドレス",
+      "score": -0.6293301629666437,
+      "horse_number": 7,
+      "odds": 38.7
     }
   ]
 }
