@@ -1,0 +1,48 @@
+{
+  "race_id": "202510020406",
+  "race_name": "2歳新馬",
+  "race_time": "2025-07-06 12:55",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105093",
+      "horse_name": "2023105093",
+      "score": 0.17209420578061066,
+      "horse_number": 2,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104750",
+      "horse_name": "2023104750",
+      "score": 0.04991430525139576,
+      "horse_number": 5,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105806",
+      "horse_name": "2023105806",
+      "score": -0.1719765596896808,
+      "horse_number": 4,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102877",
+      "horse_name": "2023102877",
+      "score": -0.43106125392428984,
+      "horse_number": 1,
+      "odds": 13.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101078",
+      "horse_name": "2023101078",
+      "score": -0.6248535094673815,
+      "horse_number": 3,
+      "odds": 16.1
+    }
+  ]
+}

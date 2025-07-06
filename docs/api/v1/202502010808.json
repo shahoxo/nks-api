@@ -1,0 +1,112 @@
+{
+  "race_id": "202502010808",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-06 13:45",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101634",
+      "horse_name": "ロングウェイホーム",
+      "score": 0.30782601796529085,
+      "horse_number": 13,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103389",
+      "horse_name": "ブリスキー",
+      "score": 0.09472529086372135,
+      "horse_number": 3,
+      "odds": 11.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104276",
+      "horse_name": "ガラスノブルース",
+      "score": 0.04465189783809902,
+      "horse_number": 10,
+      "odds": 12.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104419",
+      "horse_name": "ローズマイスター",
+      "score": -0.007650242768651907,
+      "horse_number": 11,
+      "odds": 4.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102709",
+      "horse_name": "ニシノルアノーヴァ",
+      "score": -0.017352612785567427,
+      "horse_number": 4,
+      "odds": 19.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020104750",
+      "horse_name": "リーゼノアール",
+      "score": -0.028772845819620342,
+      "horse_number": 6,
+      "odds": 17.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102200",
+      "horse_name": "レッドライトニング",
+      "score": -0.047304352080647566,
+      "horse_number": 9,
+      "odds": 3.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104295",
+      "horse_name": "トモジャザーン",
+      "score": -0.15960832997508115,
+      "horse_number": 7,
+      "odds": 17.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105018",
+      "horse_name": "バルティカ",
+      "score": -0.18234639782119488,
+      "horse_number": 12,
+      "odds": 21.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102966",
+      "horse_name": "サンダーロード",
+      "score": -0.24720109313226094,
+      "horse_number": 8,
+      "odds": 20.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104951",
+      "horse_name": "ブルーゴールド",
+      "score": -0.3578817753484509,
+      "horse_number": 5,
+      "odds": 54.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100078",
+      "horse_name": "フリッパー",
+      "score": -0.37917892942125286,
+      "horse_number": 1,
+      "odds": 70.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104135",
+      "horse_name": "トルズイーガー",
+      "score": -0.49915824818940857,
+      "horse_number": 2,
+      "odds": 70.0
+    }
+  ]
+}

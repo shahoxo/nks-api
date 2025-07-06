@@ -1,0 +1,80 @@
+{
+  "race_id": "202510020407",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-06 13:25",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105032",
+      "horse_name": "エバーグルーヴ",
+      "score": 0.437245301019625,
+      "horse_number": 6,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100128",
+      "horse_name": "サラダ",
+      "score": 0.11933005277572718,
+      "horse_number": 4,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105087",
+      "horse_name": "ダノンフェアレディ",
+      "score": 0.11154436293967235,
+      "horse_number": 5,
+      "odds": 2.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105245",
+      "horse_name": "マルモア",
+      "score": 0.04923648460554192,
+      "horse_number": 2,
+      "odds": 21.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101569",
+      "horse_name": "マテンロウアルテ",
+      "score": 0.041567689947558224,
+      "horse_number": 9,
+      "odds": 8.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022107012",
+      "horse_name": "ニシノイツキムスメ",
+      "score": -0.17213406577208276,
+      "horse_number": 7,
+      "odds": 12.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104148",
+      "horse_name": "オーサムピクチャ",
+      "score": -0.18747187978406268,
+      "horse_number": 1,
+      "odds": 27.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105431",
+      "horse_name": "ネーブルオレンジ",
+      "score": -0.41139582293743404,
+      "horse_number": 3,
+      "odds": 17.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105536",
+      "horse_name": "ルージュサリナス",
+      "score": -0.44545158786705286,
+      "horse_number": 8,
+      "odds": 29.2
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202503020406",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-06 13:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103752",
+      "horse_name": "ピーターライズ",
+      "score": 0.1609592449921225,
+      "horse_number": 16,
+      "odds": 5.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105966",
+      "horse_name": "アイドル",
+      "score": 0.07172466764569696,
+      "horse_number": 13,
+      "odds": 6.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106471",
+      "horse_name": "キタノライブリー",
+      "score": 0.055643204613649744,
+      "horse_number": 1,
+      "odds": 3.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103895",
+      "horse_name": "ミートザターゲット",
+      "score": -0.11397948921432456,
+      "horse_number": 5,
+      "odds": 12.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101184",
+      "horse_name": "リネンプリンセス",
+      "score": -0.19636619457724958,
+      "horse_number": 11,
+      "odds": 12.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101760",
+      "horse_name": "ビレッジルミエール",
+      "score": -0.257710676309957,
+      "horse_number": 7,
+      "odds": 29.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100304",
+      "horse_name": "エスシーレベッカ",
+      "score": -0.2951929255606591,
+      "horse_number": 6,
+      "odds": 9.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103636",
+      "horse_name": "キチロクキャップ",
+      "score": -0.3584710516875097,
+      "horse_number": 8,
+      "odds": 13.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101075",
+      "horse_name": "ラヴィーズドリーム",
+      "score": -0.3874960198577009,
+      "horse_number": 4,
+      "odds": 21.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101280",
+      "horse_name": "2022101280",
+      "score": -0.5605472818472005,
+      "horse_number": 14,
+      "odds": 32.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102222",
+      "horse_name": "2022102222",
+      "score": -0.5605472818472005,
+      "horse_number": 10,
+      "odds": 66.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103572",
+      "horse_name": "エウクレイア",
+      "score": -0.5906374213475926,
+      "horse_number": 3,
+      "odds": 54.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102259",
+      "horse_name": "ヘレンテソーロ",
+      "score": -0.6059113273309071,
+      "horse_number": 2,
+      "odds": 53.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022107086",
+      "horse_name": "ニシノプライム",
+      "score": -0.6644299118277472,
+      "horse_number": 15,
+      "odds": 60.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106681",
+      "horse_name": "ドリームアンコール",
+      "score": -0.6731356157896875,
+      "horse_number": 9,
+      "odds": 14.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103883",
+      "horse_name": "ナギサノバルコニー",
+      "score": -0.7149081923776417,
+      "horse_number": 12,
+      "odds": 74.7
+    }
+  ]
+}

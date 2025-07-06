@@ -1,0 +1,104 @@
+{
+  "race_id": "202502010807",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-06 13:15",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102780",
+      "horse_name": "グランカメリア",
+      "score": 0.15500450403252058,
+      "horse_number": 3,
+      "odds": 5.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102399",
+      "horse_name": "モンシェリ",
+      "score": 0.13111777596167512,
+      "horse_number": 1,
+      "odds": 5.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102550",
+      "horse_name": "メイショウハッブル",
+      "score": 0.09571038243637559,
+      "horse_number": 5,
+      "odds": 28.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103237",
+      "horse_name": "メイショウホダワラ",
+      "score": 0.0916972968969381,
+      "horse_number": 12,
+      "odds": 14.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102057",
+      "horse_name": "サウンドモリアーナ",
+      "score": 0.02659423041536278,
+      "horse_number": 7,
+      "odds": 2.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110111",
+      "horse_name": "ジャスパーソレイユ",
+      "score": -0.1615625021984922,
+      "horse_number": 4,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106221",
+      "horse_name": "スイッチオン",
+      "score": -0.17780814236047798,
+      "horse_number": 9,
+      "odds": 27.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019106520",
+      "horse_name": "スノーホルンロード",
+      "score": -0.21532034009755835,
+      "horse_number": 6,
+      "odds": 14.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022110110",
+      "horse_name": "エコロレオナ",
+      "score": -0.255391990465742,
+      "horse_number": 8,
+      "odds": 8.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101891",
+      "horse_name": "スパークルジョイ",
+      "score": -0.26100313194186686,
+      "horse_number": 2,
+      "odds": 23.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101936",
+      "horse_name": "テイオームサシ",
+      "score": -0.5274496670254356,
+      "horse_number": 10,
+      "odds": 22.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106336",
+      "horse_name": "ゴレイジョウ",
+      "score": -0.6318373387288261,
+      "horse_number": 11,
+      "odds": 139.5
+    }
+  ]
+}
