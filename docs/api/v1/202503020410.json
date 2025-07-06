@@ -1,0 +1,136 @@
+{
+  "race_id": "202503020410",
+  "race_name": "白河特別",
+  "race_time": "2025-07-06 15:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105859",
+      "horse_name": "フォルラニーニ",
+      "score": 0.4535416076567977,
+      "horse_number": 14,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100244",
+      "horse_name": "ニシノティアモ",
+      "score": 0.244536961224617,
+      "horse_number": 2,
+      "odds": 3.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2017101772",
+      "horse_name": "ヤマニンガラッシア",
+      "score": 0.10550821374725626,
+      "horse_number": 10,
+      "odds": 14.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019100606",
+      "horse_name": "ヤマニンループ",
+      "score": -0.03559395430561389,
+      "horse_number": 7,
+      "odds": 9.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105600",
+      "horse_name": "グランカンタンテ",
+      "score": -0.10703268652033236,
+      "horse_number": 3,
+      "odds": 14.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105793",
+      "horse_name": "アイキャンドウイッ",
+      "score": -0.20671467860284828,
+      "horse_number": 6,
+      "odds": 11.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018103560",
+      "horse_name": "ワザモノ",
+      "score": -0.20743969280219338,
+      "horse_number": 9,
+      "odds": 9.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106415",
+      "horse_name": "ロゼル",
+      "score": -0.27360744056560193,
+      "horse_number": 4,
+      "odds": 14.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104928",
+      "horse_name": "ヴィブラツィオーネ",
+      "score": -0.34832704996044184,
+      "horse_number": 1,
+      "odds": 45.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100660",
+      "horse_name": "ダイシンアポロン",
+      "score": -0.3710948033828636,
+      "horse_number": 13,
+      "odds": 29.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106413",
+      "horse_name": "レッドバレンティア",
+      "score": -0.4947988372791279,
+      "horse_number": 15,
+      "odds": 19.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105908",
+      "horse_name": "グランドゴールド",
+      "score": -0.5198245045176371,
+      "horse_number": 16,
+      "odds": 32.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105361",
+      "horse_name": "エリンアキレウス",
+      "score": -0.5523412463158096,
+      "horse_number": 11,
+      "odds": 47.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2016102229",
+      "horse_name": "フィデリオグリーン",
+      "score": -0.5907216745266844,
+      "horse_number": 8,
+      "odds": 87.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105737",
+      "horse_name": "ワイズゴールド",
+      "score": -0.6185859102063048,
+      "horse_number": 12,
+      "odds": 111.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2016102904",
+      "horse_name": "ボンベール",
+      "score": -0.6318373387288261,
+      "horse_number": 5,
+      "odds": 72.6
+    }
+  ]
+}

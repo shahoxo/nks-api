@@ -1,0 +1,88 @@
+{
+  "race_id": "202502010811",
+  "race_name": "大沼S",
+  "race_time": "2025-07-06 15:25",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103282",
+      "horse_name": "ジャスティンアース",
+      "score": 0.3418702420193447,
+      "horse_number": 5,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020104661",
+      "horse_name": "ダンテバローズ",
+      "score": 0.24116811171309904,
+      "horse_number": 2,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019101324",
+      "horse_name": "テーオードレフォン",
+      "score": 0.20754876049393828,
+      "horse_number": 4,
+      "odds": 5.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101874",
+      "horse_name": "ペリエール",
+      "score": 0.1724679572772882,
+      "horse_number": 6,
+      "odds": 6.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019103419",
+      "horse_name": "サンライズアリオン",
+      "score": 0.12459783729659701,
+      "horse_number": 9,
+      "odds": 6.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103148",
+      "horse_name": "ショウナンライシン",
+      "score": 0.10879874480760666,
+      "horse_number": 7,
+      "odds": 12.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102737",
+      "horse_name": "マリアナトレンチ",
+      "score": 0.08130262665606651,
+      "horse_number": 8,
+      "odds": 16.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019100684",
+      "horse_name": "ボルザコフスキー",
+      "score": 0.07165536072710603,
+      "horse_number": 1,
+      "odds": 23.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018110126",
+      "horse_name": "ジャスパーゴールド",
+      "score": -0.03147882207802494,
+      "horse_number": 10,
+      "odds": 21.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102095",
+      "horse_name": "ペプチドソレイユ",
+      "score": -0.41802805440713786,
+      "horse_number": 3,
+      "odds": 39.5
+    }
+  ]
+}
