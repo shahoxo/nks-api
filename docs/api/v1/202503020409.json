@@ -8,65 +8,65 @@
       "rank": 1,
       "horse_id": "2022100245",
       "horse_name": "ヤマメキング",
-      "score": 0.10940448287198568,
+      "score": 0.12987940377044216,
       "horse_number": 4,
       "odds": 7.3
     },
     {
       "rank": 2,
-      "horse_id": "2022102995",
-      "horse_name": "フレッシュラン",
-      "score": 0.03966965282131892,
-      "horse_number": 3,
-      "odds": 4.4
-    },
-    {
-      "rank": 3,
       "horse_id": "2020104676",
       "horse_name": "マイレーヌ",
-      "score": 0.03749596605919536,
+      "score": 0.07445183395563598,
       "horse_number": 7,
       "odds": 16.5
     },
     {
+      "rank": 3,
+      "horse_id": "2022102995",
+      "horse_name": "フレッシュラン",
+      "score": 0.040478984708306354,
+      "horse_number": 3,
+      "odds": 4.4
+    },
+    {
       "rank": 4,
-      "horse_id": "2021102154",
-      "horse_name": "アスクアイルビゼア",
-      "score": 0.02348140508859984,
-      "horse_number": 6,
-      "odds": 5.9
-    },
-    {
-      "rank": 5,
-      "horse_id": "2021102700",
-      "horse_name": "ビバップ",
-      "score": -0.029862347529627284,
-      "horse_number": 2,
-      "odds": 7.6
-    },
-    {
-      "rank": 6,
       "horse_id": "2021110104",
       "horse_name": "エコロエイト",
-      "score": -0.0317994530483744,
+      "score": 0.01987941551569261,
       "horse_number": 1,
       "odds": 26.2
     },
     {
+      "rank": 5,
+      "horse_id": "2021102154",
+      "horse_name": "アスクアイルビゼア",
+      "score": 0.017638589534621572,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102700",
+      "horse_name": "ビバップ",
+      "score": -0.020071096943082473,
+      "horse_number": 2,
+      "odds": 7.6
+    },
+    {
       "rank": 7,
-      "horse_id": "2020106353",
-      "horse_name": "リリージェーン",
-      "score": -0.03785408573528472,
-      "horse_number": 12,
-      "odds": 28.4
+      "horse_id": "2020104751",
+      "horse_name": "ゼットカレン",
+      "score": -0.04537991567909999,
+      "horse_number": 15,
+      "odds": 14.7
     },
     {
       "rank": 8,
-      "horse_id": "2020104751",
-      "horse_name": "ゼットカレン",
-      "score": -0.0551711662656448,
-      "horse_number": 15,
-      "odds": 14.7
+      "horse_id": "2020106353",
+      "horse_name": "リリージェーン",
+      "score": -0.10486293596477139,
+      "horse_number": 12,
+      "odds": 28.4
     },
     {
       "rank": 9,

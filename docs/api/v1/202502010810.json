@@ -1,0 +1,88 @@
+{
+  "race_id": "202502010810",
+  "race_name": "横津岳特別",
+  "race_time": "2025-07-06 14:50",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2018105086",
+      "horse_name": "シテフローラル",
+      "score": -0.08127751901349575,
+      "horse_number": 9,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103033",
+      "horse_name": "ハイラント",
+      "score": -0.11785888730850547,
+      "horse_number": 2,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105733",
+      "horse_name": "キャリーハピネス",
+      "score": -0.14128814891317712,
+      "horse_number": 7,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103556",
+      "horse_name": "ブルーペクトライト",
+      "score": -0.19427713215409592,
+      "horse_number": 4,
+      "odds": 15.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102577",
+      "horse_name": "バレンタインガール",
+      "score": -0.30527255000378245,
+      "horse_number": 10,
+      "odds": 3.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020104553",
+      "horse_name": "パープルクラウド",
+      "score": -0.40578639133807115,
+      "horse_number": 8,
+      "odds": 24.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105205",
+      "horse_name": "ウインネモフィラ",
+      "score": -0.42123602202136773,
+      "horse_number": 1,
+      "odds": 5.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019106573",
+      "horse_name": "ヒルノデプラーツ",
+      "score": -0.44884385803098503,
+      "horse_number": 3,
+      "odds": 46.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101893",
+      "horse_name": "チュウワモーニング",
+      "score": -0.5350751750838972,
+      "horse_number": 6,
+      "odds": 7.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103154",
+      "horse_name": "コルデアニル",
+      "score": -0.7344997899121097,
+      "horse_number": 5,
+      "odds": 26.9
+    }
+  ]
+}
