@@ -1,0 +1,72 @@
+{
+  "race_id": "202510020409",
+  "race_name": "小郡特別",
+  "race_time": "2025-07-06 14:25",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106389",
+      "horse_name": "ベルビースタローン",
+      "score": 0.2742080516870802,
+      "horse_number": 2,
+      "odds": 6.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110026",
+      "horse_name": "コウセキ",
+      "score": 0.2419277868578304,
+      "horse_number": 5,
+      "odds": 6.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105921",
+      "horse_name": "アーリントンロウ",
+      "score": 0.10749589466698277,
+      "horse_number": 4,
+      "odds": 1.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106661",
+      "horse_name": "ヒーローインチーフ",
+      "score": 0.032759073585029816,
+      "horse_number": 7,
+      "odds": 7.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021110081",
+      "horse_name": "リーサムギニー",
+      "score": -0.04906189520496933,
+      "horse_number": 1,
+      "odds": 24.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103256",
+      "horse_name": "カフジキアッキエレ",
+      "score": -0.21406499763903752,
+      "horse_number": 6,
+      "odds": 13.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106206",
+      "horse_name": "ウインラウダ",
+      "score": -0.33816758677915604,
+      "horse_number": 3,
+      "odds": 25.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105407",
+      "horse_name": "サニーサルサ",
+      "score": -0.5006140918914418,
+      "horse_number": 8,
+      "odds": 15.8
+    }
+  ]
+}

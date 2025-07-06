@@ -1,0 +1,136 @@
+{
+  "race_id": "202503020409",
+  "race_name": "さくらんぼ特",
+  "race_time": "2025-07-06 14:35",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100245",
+      "horse_name": "ヤマメキング",
+      "score": 0.10940448287198568,
+      "horse_number": 4,
+      "odds": 7.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102995",
+      "horse_name": "フレッシュラン",
+      "score": 0.03966965282131892,
+      "horse_number": 3,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020104676",
+      "horse_name": "マイレーヌ",
+      "score": 0.03749596605919536,
+      "horse_number": 7,
+      "odds": 16.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102154",
+      "horse_name": "アスクアイルビゼア",
+      "score": 0.02348140508859984,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102700",
+      "horse_name": "ビバップ",
+      "score": -0.029862347529627284,
+      "horse_number": 2,
+      "odds": 7.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110104",
+      "horse_name": "エコロエイト",
+      "score": -0.0317994530483744,
+      "horse_number": 1,
+      "odds": 26.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106353",
+      "horse_name": "リリージェーン",
+      "score": -0.03785408573528472,
+      "horse_number": 12,
+      "odds": 28.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104751",
+      "horse_name": "ゼットカレン",
+      "score": -0.0551711662656448,
+      "horse_number": 15,
+      "odds": 14.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103088",
+      "horse_name": "ピックアップライン",
+      "score": -0.13892145056959507,
+      "horse_number": 8,
+      "odds": 6.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101216",
+      "horse_name": "テイエムヒショウ",
+      "score": -0.37027821891345625,
+      "horse_number": 13,
+      "odds": 50.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019100800",
+      "horse_name": "コスモルーテウス",
+      "score": -0.37490449855159014,
+      "horse_number": 9,
+      "odds": 78.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107047",
+      "horse_name": "コパノヴィンセント",
+      "score": -0.436142965075327,
+      "horse_number": 10,
+      "odds": 10.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100187",
+      "horse_name": "ニシノクラウン",
+      "score": -0.502199889540865,
+      "horse_number": 11,
+      "odds": 21.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018102394",
+      "horse_name": "ロイヤルダンス",
+      "score": -0.5227081143287172,
+      "horse_number": 16,
+      "odds": 55.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106983",
+      "horse_name": "ネバレチュゴー",
+      "score": -0.5488310238833476,
+      "horse_number": 5,
+      "odds": 57.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019100132",
+      "horse_name": "ペイシャカレン",
+      "score": -0.6318373387288261,
+      "horse_number": 14,
+      "odds": 44.9
+    }
+  ]
+}

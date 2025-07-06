@@ -1,0 +1,120 @@
+{
+  "race_id": "202503020408",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-06 14:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101388",
+      "horse_name": "ベストシーン",
+      "score": 0.21442466368895352,
+      "horse_number": 9,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104947",
+      "horse_name": "ジーゲル",
+      "score": 0.017844553197642454,
+      "horse_number": 12,
+      "odds": 15.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106793",
+      "horse_name": "コスモアンソロジー",
+      "score": -0.02808575713082042,
+      "horse_number": 14,
+      "odds": 5.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103537",
+      "horse_name": "トゥルーサクセサー",
+      "score": -0.07993247324704877,
+      "horse_number": 5,
+      "odds": 9.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100417",
+      "horse_name": "ガーネットウインク",
+      "score": -0.1583191851625155,
+      "horse_number": 3,
+      "odds": 7.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021107138",
+      "horse_name": "スノーブリザード",
+      "score": -0.23947293137753226,
+      "horse_number": 6,
+      "odds": 9.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020110020",
+      "horse_name": "コレクテイニア",
+      "score": -0.24174073726124098,
+      "horse_number": 7,
+      "odds": 20.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104503",
+      "horse_name": "ハイタイド",
+      "score": -0.3155695668334975,
+      "horse_number": 11,
+      "odds": 10.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106051",
+      "horse_name": "セザンワールド",
+      "score": -0.4530116413356269,
+      "horse_number": 4,
+      "odds": 48.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106832",
+      "horse_name": "コスモキャバリエ",
+      "score": -0.4728164274539005,
+      "horse_number": 1,
+      "odds": 22.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102918",
+      "horse_name": "オルソビアンコ",
+      "score": -0.5215499604352739,
+      "horse_number": 13,
+      "odds": 49.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103266",
+      "horse_name": "スノークローバー",
+      "score": -0.6435674426738079,
+      "horse_number": 8,
+      "odds": 51.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104933",
+      "horse_name": "カントゥータ",
+      "score": -0.7344997899121097,
+      "horse_number": 10,
+      "odds": 80.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106218",
+      "horse_name": "ウィズホープ",
+      "score": -0.7560238565797833,
+      "horse_number": 2,
+      "odds": 37.4
+    }
+  ]
+}
