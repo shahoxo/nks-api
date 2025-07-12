@@ -1,0 +1,104 @@
+{
+  "race_id": "202502010912",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-12 16:05",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103704",
+      "horse_name": "アスゴッド",
+      "score": 0.23355112407173428,
+      "horse_number": 4,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103513",
+      "horse_name": "ナンヨークリスタル",
+      "score": 0.17139520501297684,
+      "horse_number": 11,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105600",
+      "horse_name": "ボルセーナ",
+      "score": 0.054159708318612956,
+      "horse_number": 9,
+      "odds": 1.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100074",
+      "horse_name": "サンピアノソナタ",
+      "score": 0.0005158917298055468,
+      "horse_number": 3,
+      "odds": 44.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102458",
+      "horse_name": "ホーリーブライト",
+      "score": -0.0867733294078703,
+      "horse_number": 12,
+      "odds": 13.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101624",
+      "horse_name": "キャンドルマス",
+      "score": -0.08779868464381377,
+      "horse_number": 5,
+      "odds": 27.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102550",
+      "horse_name": "メイショウハッブル",
+      "score": -0.1321040091331451,
+      "horse_number": 6,
+      "odds": 30.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105269",
+      "horse_name": "ナリノエンブレム",
+      "score": -0.23007225137128814,
+      "horse_number": 10,
+      "odds": 26.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105909",
+      "horse_name": "アースミューズ",
+      "score": -0.30446344496040195,
+      "horse_number": 2,
+      "odds": 23.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103755",
+      "horse_name": "ジーティーエンジン",
+      "score": -0.4453293313062736,
+      "horse_number": 7,
+      "odds": 19.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100650",
+      "horse_name": "タミゼ",
+      "score": -0.5945546677764488,
+      "horse_number": 1,
+      "odds": 92.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106347",
+      "horse_name": "ピクラリーダ",
+      "score": -0.7344997899121097,
+      "horse_number": 8,
+      "odds": 100.4
+    }
+  ]
+}
