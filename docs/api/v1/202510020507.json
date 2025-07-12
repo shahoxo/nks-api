@@ -1,0 +1,152 @@
+{
+  "race_id": "202510020507",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-12 13:25",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102900",
+      "horse_name": "リビングストン",
+      "score": 0.2474082012756565,
+      "horse_number": 3,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103050",
+      "horse_name": "キングベル",
+      "score": 0.08127198542373783,
+      "horse_number": 17,
+      "odds": 11.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100626",
+      "horse_name": "2022100626",
+      "score": -0.046034475194564356,
+      "horse_number": 15,
+      "odds": 28.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104728",
+      "horse_name": "2022104728",
+      "score": -0.10108155978061562,
+      "horse_number": 4,
+      "odds": 11.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022107231",
+      "horse_name": "ロックエンジェル",
+      "score": -0.2515643643254405,
+      "horse_number": 6,
+      "odds": 19.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105356",
+      "horse_name": "セルマン",
+      "score": -0.2819229754819562,
+      "horse_number": 13,
+      "odds": 54.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104670",
+      "horse_name": "ヴェルドロ",
+      "score": -0.3063992595622003,
+      "horse_number": 18,
+      "odds": 13.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106930",
+      "horse_name": "アルファベガ",
+      "score": -0.32427366793379275,
+      "horse_number": 9,
+      "odds": 84.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101357",
+      "horse_name": "ケイコウギュウゴ",
+      "score": -0.3247140476136038,
+      "horse_number": 10,
+      "odds": 19.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102349",
+      "horse_name": "ノアチュロス",
+      "score": -0.3808073318558573,
+      "horse_number": 12,
+      "odds": 40.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100124",
+      "horse_name": "ダイヤノエース",
+      "score": -0.4201432581022244,
+      "horse_number": 16,
+      "odds": 20.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103990",
+      "horse_name": "コスモナッシュビル",
+      "score": -0.4420873219813992,
+      "horse_number": 7,
+      "odds": 17.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103815",
+      "horse_name": "ヒルノガリシア",
+      "score": -0.46404574028600887,
+      "horse_number": 8,
+      "odds": 80.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106354",
+      "horse_name": "オーバースタンド",
+      "score": -0.48743868977201965,
+      "horse_number": 14,
+      "odds": 35.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102687",
+      "horse_name": "ヒルノカーディフ",
+      "score": -0.4887957490884798,
+      "horse_number": 5,
+      "odds": 105.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102219",
+      "horse_name": "ノーランサンライズ",
+      "score": -0.5393606452573874,
+      "horse_number": 11,
+      "odds": 23.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022100525",
+      "horse_name": "オゴオゴ",
+      "score": -0.567539982023708,
+      "horse_number": 1,
+      "odds": 37.5
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022103869",
+      "horse_name": "ワキノアリエス",
+      "score": -0.745636725054484,
+      "horse_number": 2,
+      "odds": 53.6
+    }
+  ]
+}

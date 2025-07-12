@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020507",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-12 13:35",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105911",
+      "horse_name": "アンドローゼス",
+      "score": 0.11661680466271189,
+      "horse_number": 8,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105584",
+      "horse_name": "ツーネサーン",
+      "score": 0.07214839678581624,
+      "horse_number": 9,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101425",
+      "horse_name": "エナジーショット",
+      "score": 0.05978276341102881,
+      "horse_number": 4,
+      "odds": 3.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105462",
+      "horse_name": "リアンベーレ",
+      "score": 0.0590004768239464,
+      "horse_number": 15,
+      "odds": 4.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102788",
+      "horse_name": "ベラトール",
+      "score": -0.2647356946135964,
+      "horse_number": 11,
+      "odds": 18.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101963",
+      "horse_name": "サツキスマイル",
+      "score": -0.34206426630343467,
+      "horse_number": 3,
+      "odds": 51.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104981",
+      "horse_name": "ユーディキウム",
+      "score": -0.45148711863448177,
+      "horse_number": 12,
+      "odds": 15.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106768",
+      "horse_name": "コスモアミマネラ",
+      "score": -0.4707310163683447,
+      "horse_number": 5,
+      "odds": 11.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105137",
+      "horse_name": "ヴァンナチュール",
+      "score": -0.4753236032160829,
+      "horse_number": 6,
+      "odds": 60.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103717",
+      "horse_name": "パートオブワールド",
+      "score": -0.5078987691375658,
+      "horse_number": 14,
+      "odds": 19.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106361",
+      "horse_name": "ボナーテソーロ",
+      "score": -0.5313711604708035,
+      "horse_number": 10,
+      "odds": 96.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103337",
+      "horse_name": "マイホームヒロイン",
+      "score": -0.5945546677764488,
+      "horse_number": 7,
+      "odds": 78.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102229",
+      "horse_name": "グラスビジョン",
+      "score": -0.6471922950384126,
+      "horse_number": 13,
+      "odds": 81.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102337",
+      "horse_name": "パナランギン",
+      "score": -0.7142512799918292,
+      "horse_number": 2,
+      "odds": 56.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101749",
+      "horse_name": "ブルバンビーナ",
+      "score": -0.7344997899121097,
+      "horse_number": 1,
+      "odds": 17.5
+    }
+  ]
+}
