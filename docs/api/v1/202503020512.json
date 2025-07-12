@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020512",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-12 16:30",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105734",
+      "horse_name": "ヘインズポイント",
+      "score": 0.22721798551357902,
+      "horse_number": 3,
+      "odds": 7.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105160",
+      "horse_name": "レッドエウロス",
+      "score": 0.1342254190352246,
+      "horse_number": 6,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105569",
+      "horse_name": "ルージュマローネ",
+      "score": 0.09303557458812935,
+      "horse_number": 15,
+      "odds": 15.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102965",
+      "horse_name": "ブレトワルダ",
+      "score": 0.08729702860445517,
+      "horse_number": 13,
+      "odds": 3.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105990",
+      "horse_name": "クニノハッピー",
+      "score": 0.030690010363187185,
+      "horse_number": 10,
+      "odds": 14.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103129",
+      "horse_name": "マリンバンカー",
+      "score": -0.04966162368547574,
+      "horse_number": 9,
+      "odds": 8.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104005",
+      "horse_name": "ブレットフライ",
+      "score": -0.1372972373628898,
+      "horse_number": 4,
+      "odds": 36.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106063",
+      "horse_name": "ネオシルバー",
+      "score": -0.14220140524081723,
+      "horse_number": 12,
+      "odds": 13.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104763",
+      "horse_name": "ダノンストラーダ",
+      "score": -0.16147492565273108,
+      "horse_number": 1,
+      "odds": 29.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101572",
+      "horse_name": "プライベートアイズ",
+      "score": -0.3166213443390976,
+      "horse_number": 11,
+      "odds": 24.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103221",
+      "horse_name": "シルバーニース",
+      "score": -0.3394510089418561,
+      "horse_number": 7,
+      "odds": 60.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104062",
+      "horse_name": "カージオイド",
+      "score": -0.39533026658637493,
+      "horse_number": 8,
+      "odds": 27.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103119",
+      "horse_name": "ディズレーリ",
+      "score": -0.4372924536303713,
+      "horse_number": 2,
+      "odds": 30.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018101497",
+      "horse_name": "デリシュレーヌ",
+      "score": -0.6115888288085456,
+      "horse_number": 5,
+      "odds": 39.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021106411",
+      "horse_name": "パッセアジル",
+      "score": -0.6180928536442241,
+      "horse_number": 14,
+      "odds": 41.0
+    }
+  ]
+}

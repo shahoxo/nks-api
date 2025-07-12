@@ -1,0 +1,144 @@
+{
+  "race_id": "202510020512",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-12 16:15",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101675",
+      "horse_name": "スノーサイレンス",
+      "score": 0.4247805748341858,
+      "horse_number": 6,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105098",
+      "horse_name": "ディーエストッキー",
+      "score": 0.16948195738688285,
+      "horse_number": 7,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101229",
+      "horse_name": "レディメローラ",
+      "score": -0.0863671088217478,
+      "horse_number": 15,
+      "odds": 21.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106438",
+      "horse_name": "タマモブラウンタイ",
+      "score": -0.0905364743300686,
+      "horse_number": 14,
+      "odds": 12.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100158",
+      "horse_name": "ダノンモンテローザ",
+      "score": -0.2715036220684499,
+      "horse_number": 17,
+      "odds": 5.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103073",
+      "horse_name": "サウンドレイラ",
+      "score": -0.298135116948314,
+      "horse_number": 4,
+      "odds": 24.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2017103155",
+      "horse_name": "トモジャアルマンド",
+      "score": -0.30367398717972566,
+      "horse_number": 5,
+      "odds": 46.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100683",
+      "horse_name": "ビーグラッド",
+      "score": -0.3253739770669473,
+      "horse_number": 13,
+      "odds": 20.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100271",
+      "horse_name": "フォティック",
+      "score": -0.33928398051615916,
+      "horse_number": 12,
+      "odds": 48.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103039",
+      "horse_name": "スネーフリンガ",
+      "score": -0.3544038479539843,
+      "horse_number": 10,
+      "odds": 6.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100654",
+      "horse_name": "セルヴァンス",
+      "score": -0.4019313102003809,
+      "horse_number": 11,
+      "odds": 18.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105873",
+      "horse_name": "シュブロンレーヴル",
+      "score": -0.4225119303011745,
+      "horse_number": 2,
+      "odds": 10.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106648",
+      "horse_name": "ベネメレンティ",
+      "score": -0.5488449115467254,
+      "horse_number": 8,
+      "odds": 51.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103932",
+      "horse_name": "ジェニファー",
+      "score": -0.5520430906815742,
+      "horse_number": 9,
+      "odds": 50.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021106216",
+      "horse_name": "ウインラグラス",
+      "score": -0.5604919038970706,
+      "horse_number": 16,
+      "odds": 54.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103701",
+      "horse_name": "イエデゴロゴロ",
+      "score": -0.6143151523856235,
+      "horse_number": 3,
+      "odds": 41.1
+    },
+    {
+      "rank": 17,
+      "horse_id": "2021107019",
+      "horse_name": "イロハニホ",
+      "score": -0.6277900402662383,
+      "horse_number": 1,
+      "odds": 71.4
+    }
+  ]
+}
