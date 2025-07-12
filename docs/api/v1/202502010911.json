@@ -1,0 +1,120 @@
+{
+  "race_id": "202502010911",
+  "race_name": "五稜郭S",
+  "race_time": "2025-07-12 15:25",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103672",
+      "horse_name": "ラファドゥラ",
+      "score": 0.4082431341716996,
+      "horse_number": 9,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106752",
+      "horse_name": "パレハ",
+      "score": 0.2176376523848882,
+      "horse_number": 10,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105011",
+      "horse_name": "ラーンザロープス",
+      "score": 0.11055765752943712,
+      "horse_number": 14,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105384",
+      "horse_name": "チルカーノ",
+      "score": 0.09226363553911232,
+      "horse_number": 11,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105442",
+      "horse_name": "エラトー",
+      "score": 0.07881374014372593,
+      "horse_number": 6,
+      "odds": 4.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102246",
+      "horse_name": "テーオーダグラス",
+      "score": 0.0353757558284345,
+      "horse_number": 12,
+      "odds": 9.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104762",
+      "horse_name": "ポッドボレット",
+      "score": -0.06512331792035445,
+      "horse_number": 3,
+      "odds": 55.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104843",
+      "horse_name": "インスタキング",
+      "score": -0.07537216522245915,
+      "horse_number": 4,
+      "odds": 15.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106604",
+      "horse_name": "スミ",
+      "score": -0.0991154313667606,
+      "horse_number": 13,
+      "odds": 18.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018106314",
+      "horse_name": "エープラス",
+      "score": -0.1220964298386056,
+      "horse_number": 5,
+      "odds": 28.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103794",
+      "horse_name": "エゾダイモン",
+      "score": -0.1393735103198575,
+      "horse_number": 2,
+      "odds": 39.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103279",
+      "horse_name": "ショーモン",
+      "score": -0.3588619904707808,
+      "horse_number": 1,
+      "odds": 57.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019106739",
+      "horse_name": "ダークエクリプス",
+      "score": -0.47374010253620624,
+      "horse_number": 7,
+      "odds": 80.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103850",
+      "horse_name": "パトリックハンサム",
+      "score": -0.47996710647261176,
+      "horse_number": 8,
+      "odds": 84.2
+    }
+  ]
+}

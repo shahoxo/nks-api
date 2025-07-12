@@ -1,0 +1,88 @@
+{
+  "race_id": "202510020511",
+  "race_name": "釜山S",
+  "race_time": "2025-07-12 15:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103061",
+      "horse_name": "ムーム",
+      "score": 0.08096550814058265,
+      "horse_number": 5,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110136",
+      "horse_name": "アメリカンマーチ",
+      "score": -0.020494279898740846,
+      "horse_number": 9,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102633",
+      "horse_name": "フーコサンライズ",
+      "score": -0.06304537302147381,
+      "horse_number": 7,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020109094",
+      "horse_name": "ナスノカンゲツ",
+      "score": -0.10180968960420647,
+      "horse_number": 8,
+      "odds": 14.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100792",
+      "horse_name": "スコーピオン",
+      "score": -0.10606438394295187,
+      "horse_number": 4,
+      "odds": 6.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020106877",
+      "horse_name": "スマートアイ",
+      "score": -0.13156041183709466,
+      "horse_number": 3,
+      "odds": 12.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103214",
+      "horse_name": "ネグレスコ",
+      "score": -0.21468126836692583,
+      "horse_number": 2,
+      "odds": 8.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103367",
+      "horse_name": "ハンベルジャイト",
+      "score": -0.35219756431079335,
+      "horse_number": 1,
+      "odds": 13.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105860",
+      "horse_name": "オースミメッシーナ",
+      "score": -0.44407060220779904,
+      "horse_number": 10,
+      "odds": 38.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018103551",
+      "horse_name": "ユスティニアン",
+      "score": -0.6970415147616792,
+      "horse_number": 6,
+      "odds": 28.4
+    }
+  ]
+}
