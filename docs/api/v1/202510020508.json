@@ -1,0 +1,136 @@
+{
+  "race_id": "202510020508",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-12 13:55",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102202",
+      "horse_name": "ヨリノレジェンド",
+      "score": 0.4038657801676907,
+      "horse_number": 5,
+      "odds": 7.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103267",
+      "horse_name": "ギュルヴィ",
+      "score": 0.29160519129400747,
+      "horse_number": 4,
+      "odds": 9.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104314",
+      "horse_name": "ユキノクラウン",
+      "score": 0.19206405830421913,
+      "horse_number": 9,
+      "odds": 4.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104267",
+      "horse_name": "レヴァンテシチー",
+      "score": 0.12453327991253094,
+      "horse_number": 12,
+      "odds": 20.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104944",
+      "horse_name": "シュネーグロッケン",
+      "score": 0.08032863015342134,
+      "horse_number": 6,
+      "odds": 8.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103064",
+      "horse_name": "メイショウコナン",
+      "score": 0.05755329932603766,
+      "horse_number": 2,
+      "odds": 20.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105848",
+      "horse_name": "ステイクオール",
+      "score": 0.05742317310411481,
+      "horse_number": 14,
+      "odds": 4.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022110063",
+      "horse_name": "サディーク",
+      "score": 0.04424259582519621,
+      "horse_number": 10,
+      "odds": 15.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102637",
+      "horse_name": "ヴィヴィッシモ",
+      "score": -0.17869964195097413,
+      "horse_number": 16,
+      "odds": 50.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022107306",
+      "horse_name": "ストップヤーニング",
+      "score": -0.21526114692513393,
+      "horse_number": 3,
+      "odds": 7.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102516",
+      "horse_name": "バッケンレコード",
+      "score": -0.21701510459197262,
+      "horse_number": 7,
+      "odds": 35.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103238",
+      "horse_name": "ビバジョー",
+      "score": -0.23051643297406182,
+      "horse_number": 11,
+      "odds": 74.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104555",
+      "horse_name": "ゴッドヴァレー",
+      "score": -0.2659309068346333,
+      "horse_number": 15,
+      "odds": 33.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021107052",
+      "horse_name": "マテンロウノカゼ",
+      "score": -0.35149013862002887,
+      "horse_number": 1,
+      "odds": 60.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103538",
+      "horse_name": "ゴールドダイアー",
+      "score": -0.4723004374213877,
+      "horse_number": 13,
+      "odds": 35.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021100711",
+      "horse_name": "ケイアイアルタイル",
+      "score": -0.5488310238833476,
+      "horse_number": 8,
+      "odds": 99.9
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "race_id": "202502010909",
+  "race_name": "北斗特別",
+  "race_time": "2025-07-12 14:15",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102199",
+      "horse_name": "アルマデオロ",
+      "score": 0.35046637173903755,
+      "horse_number": 8,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100330",
+      "horse_name": "アオイタケル",
+      "score": 0.23342105623553305,
+      "horse_number": 5,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106194",
+      "horse_name": "ウインデイジー",
+      "score": 0.20343802666316047,
+      "horse_number": 4,
+      "odds": 11.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101304",
+      "horse_name": "サンウリエル",
+      "score": 0.15755468345906193,
+      "horse_number": 2,
+      "odds": 16.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106828",
+      "horse_name": "マイネルゼウス",
+      "score": 0.13020436587582662,
+      "horse_number": 1,
+      "odds": 5.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106613",
+      "horse_name": "ストラニエーロ",
+      "score": 0.12797772113009565,
+      "horse_number": 9,
+      "odds": 18.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105399",
+      "horse_name": "ダノンジャイアン",
+      "score": 0.019629293983175315,
+      "horse_number": 3,
+      "odds": 10.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105018",
+      "horse_name": "バルティカ",
+      "score": -0.06452352783387925,
+      "horse_number": 10,
+      "odds": 34.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100621",
+      "horse_name": "マイバラード",
+      "score": -0.37018574083042327,
+      "horse_number": 6,
+      "odds": 32.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103150",
+      "horse_name": "タルタロス",
+      "score": -0.39916377125745417,
+      "horse_number": 7,
+      "odds": 47.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104722",
+      "horse_name": "ネイサン",
+      "score": -0.5645449839303281,
+      "horse_number": 11,
+      "odds": 149.9
+    }
+  ]
+}
