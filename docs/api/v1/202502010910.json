@@ -1,0 +1,96 @@
+{
+  "race_id": "202502010910",
+  "race_name": "HTB杯",
+  "race_time": "2025-07-12 14:50",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104960",
+      "horse_name": "カルプスペルシュ",
+      "score": 0.20147066232884026,
+      "horse_number": 5,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100476",
+      "horse_name": "ファイツオン",
+      "score": 0.15230464036380412,
+      "horse_number": 2,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105689",
+      "horse_name": "エヴァンスウィート",
+      "score": 0.07624809668463796,
+      "horse_number": 3,
+      "odds": 8.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105863",
+      "horse_name": "ルージュスエルテ",
+      "score": 0.0317417778579495,
+      "horse_number": 4,
+      "odds": 4.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103898",
+      "horse_name": "イグニション",
+      "score": 0.008578096796617186,
+      "horse_number": 10,
+      "odds": 11.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103220",
+      "horse_name": "ニタモノドウシ",
+      "score": 0.005824335399574955,
+      "horse_number": 9,
+      "odds": 5.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103171",
+      "horse_name": "タイキヴァンクール",
+      "score": -0.026961777330934904,
+      "horse_number": 6,
+      "odds": 18.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106603",
+      "horse_name": "モジャーリオ",
+      "score": -0.0657741878303539,
+      "horse_number": 11,
+      "odds": 14.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101217",
+      "horse_name": "アスクドリームモア",
+      "score": -0.282340953068021,
+      "horse_number": 1,
+      "odds": 46.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100956",
+      "horse_name": "スーパーマン",
+      "score": -0.311273554133113,
+      "horse_number": 7,
+      "odds": 18.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019103887",
+      "horse_name": "シックザイン",
+      "score": -0.6293301629666437,
+      "horse_number": 8,
+      "odds": 154.0
+    }
+  ]
+}

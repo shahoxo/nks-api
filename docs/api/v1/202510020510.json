@@ -1,0 +1,112 @@
+{
+  "race_id": "202510020510",
+  "race_name": "八女特別",
+  "race_time": "2025-07-12 15:01",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104905",
+      "horse_name": "ザブライド",
+      "score": 0.2301306035887537,
+      "horse_number": 5,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105502",
+      "horse_name": "ルフトクス",
+      "score": 0.11741335589220332,
+      "horse_number": 9,
+      "odds": 2.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106177",
+      "horse_name": "タマモナポリ",
+      "score": -0.02675514709660709,
+      "horse_number": 7,
+      "odds": 10.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104791",
+      "horse_name": "プウスカンドゥール",
+      "score": -0.13607477529978554,
+      "horse_number": 6,
+      "odds": 25.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103300",
+      "horse_name": "モイラ",
+      "score": -0.15533667675399662,
+      "horse_number": 12,
+      "odds": 32.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102380",
+      "horse_name": "オーケーカルメン",
+      "score": -0.20437542060770894,
+      "horse_number": 10,
+      "odds": 10.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104857",
+      "horse_name": "フローラルセント",
+      "score": -0.2842779023737362,
+      "horse_number": 13,
+      "odds": 26.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104911",
+      "horse_name": "ルミッキ",
+      "score": -0.29591871127911445,
+      "horse_number": 2,
+      "odds": 28.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103939",
+      "horse_name": "スマートプレシャス",
+      "score": -0.3169274422680003,
+      "horse_number": 3,
+      "odds": 14.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105973",
+      "horse_name": "ワイノナオミ",
+      "score": -0.44147188975302754,
+      "horse_number": 4,
+      "odds": 20.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020107081",
+      "horse_name": "クリノクリスタル",
+      "score": -0.4826784698906029,
+      "horse_number": 11,
+      "odds": 12.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100703",
+      "horse_name": "ブループリマドンナ",
+      "score": -0.5174147856221826,
+      "horse_number": 1,
+      "odds": 7.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106209",
+      "horse_name": "メイショウコボケ",
+      "score": -0.5456601730905545,
+      "horse_number": 8,
+      "odds": 20.5
+    }
+  ]
+}
