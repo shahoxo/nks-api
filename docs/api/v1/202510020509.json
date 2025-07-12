@@ -1,0 +1,96 @@
+{
+  "race_id": "202510020509",
+  "race_name": "英彦山特別",
+  "race_time": "2025-07-12 14:25",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102379",
+      "horse_name": "テイクザクラウン",
+      "score": 0.41988243000853726,
+      "horse_number": 9,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103787",
+      "horse_name": "ジョイボーイ",
+      "score": 0.25831947700317676,
+      "horse_number": 1,
+      "odds": 2.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106180",
+      "horse_name": "シャインバオバブ",
+      "score": 0.1716361996335485,
+      "horse_number": 4,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105389",
+      "horse_name": "サンライズロジャー",
+      "score": 0.11881349258416853,
+      "horse_number": 11,
+      "odds": 17.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101003",
+      "horse_name": "ラブカ",
+      "score": -0.08825840458047603,
+      "horse_number": 10,
+      "odds": 17.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105577",
+      "horse_name": "ランツフート",
+      "score": -0.09000362194681698,
+      "horse_number": 8,
+      "odds": 9.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103502",
+      "horse_name": "トラストエムシー",
+      "score": -0.12523150590758556,
+      "horse_number": 7,
+      "odds": 17.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102614",
+      "horse_name": "エイシンキャプテン",
+      "score": -0.2555078931050531,
+      "horse_number": 3,
+      "odds": 40.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104162",
+      "horse_name": "ティータイム",
+      "score": -0.3390370937308508,
+      "horse_number": 6,
+      "odds": 26.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105531",
+      "horse_name": "サトノクロシェット",
+      "score": -0.44773761055923444,
+      "horse_number": 5,
+      "odds": 64.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103845",
+      "horse_name": "ニホンピロゴルディ",
+      "score": -0.5970618435386312,
+      "horse_number": 2,
+      "odds": 39.9
+    }
+  ]
+}

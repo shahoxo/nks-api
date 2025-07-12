@@ -1,0 +1,104 @@
+{
+  "race_id": "202503020509",
+  "race_name": "信夫山特別",
+  "race_time": "2025-07-12 14:35",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100148",
+      "horse_name": "ロードオールライト",
+      "score": 0.0877042550809158,
+      "horse_number": 4,
+      "odds": 13.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019100212",
+      "horse_name": "ウインマイルート",
+      "score": 0.08568913723047306,
+      "horse_number": 12,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103976",
+      "horse_name": "エコロレイズ",
+      "score": 0.04754774003558065,
+      "horse_number": 2,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102190",
+      "horse_name": "トロピカルライト",
+      "score": 0.02089330736991791,
+      "horse_number": 1,
+      "odds": 5.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019105276",
+      "horse_name": "ブラックボイス",
+      "score": -0.11476582611583577,
+      "horse_number": 6,
+      "odds": 24.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105111",
+      "horse_name": "キャルレイ",
+      "score": -0.14413218094495056,
+      "horse_number": 8,
+      "odds": 35.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018105073",
+      "horse_name": "サトノスカイターフ",
+      "score": -0.15120144533759672,
+      "horse_number": 5,
+      "odds": 7.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103123",
+      "horse_name": "マルカブリッツ",
+      "score": -0.19286502946929707,
+      "horse_number": 3,
+      "odds": 5.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101554",
+      "horse_name": "アルベリック",
+      "score": -0.3346713053567276,
+      "horse_number": 9,
+      "odds": 56.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102725",
+      "horse_name": "ソワドリヨン",
+      "score": -0.3513541402292478,
+      "horse_number": 11,
+      "odds": 25.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104259",
+      "horse_name": "ミヤビブレイブ",
+      "score": -0.4967821216410283,
+      "horse_number": 7,
+      "odds": 15.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100409",
+      "horse_name": "エアロソニック",
+      "score": -0.5472916750833359,
+      "horse_number": 10,
+      "odds": 10.7
+    }
+  ]
+}
