@@ -1,0 +1,112 @@
+{
+  "race_id": "202502010903",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-12 10:50",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105477",
+      "horse_name": "デルマケセラセラ",
+      "score": 0.28503557791853157,
+      "horse_number": 11,
+      "odds": 17.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105547",
+      "horse_name": "ファジーロップ",
+      "score": 0.27889253183318147,
+      "horse_number": 10,
+      "odds": 16.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104949",
+      "horse_name": "ヴァルチャースター",
+      "score": 0.25304346115394105,
+      "horse_number": 8,
+      "odds": 6.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103233",
+      "horse_name": "パーフェクトパール",
+      "score": 0.18433760769358493,
+      "horse_number": 3,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105336",
+      "horse_name": "セレニティ",
+      "score": 0.15681661403220903,
+      "horse_number": 7,
+      "odds": 16.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106608",
+      "horse_name": "ヤマニンパルフェ",
+      "score": 0.1441717786723855,
+      "horse_number": 6,
+      "odds": 9.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106213",
+      "horse_name": "ウインキララ",
+      "score": 0.13039704068072266,
+      "horse_number": 2,
+      "odds": 15.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104706",
+      "horse_name": "セリオヴェローチェ",
+      "score": -0.0477492673621958,
+      "horse_number": 9,
+      "odds": 3.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100201",
+      "horse_name": "コンドゥイア",
+      "score": -0.07395030152180859,
+      "horse_number": 4,
+      "odds": 4.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104968",
+      "horse_name": "ウィットビーアビー",
+      "score": -0.2339568239288208,
+      "horse_number": 5,
+      "odds": 38.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105581",
+      "horse_name": "レディオンステージ",
+      "score": -0.27670873527862644,
+      "horse_number": 12,
+      "odds": 36.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106550",
+      "horse_name": "キタノアンシェル",
+      "score": -0.34507653096011065,
+      "horse_number": 13,
+      "odds": 109.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103026",
+      "horse_name": "メムエクラ",
+      "score": -0.6372508725688705,
+      "horse_number": 1,
+      "odds": 126.7
+    }
+  ]
+}
