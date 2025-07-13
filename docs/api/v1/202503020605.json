@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020605",
+  "race_name": "2歳新馬",
+  "race_time": "2025-07-13 12:35",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107327",
+      "horse_name": "2023107327",
+      "score": 0.07477503219692164,
+      "horse_number": 11,
+      "odds": 4.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103066",
+      "horse_name": "2023103066",
+      "score": -0.11592861361911255,
+      "horse_number": 3,
+      "odds": 10.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104394",
+      "horse_name": "2023104394",
+      "score": -0.11879488053585485,
+      "horse_number": 10,
+      "odds": 20.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103386",
+      "horse_name": "2023103386",
+      "score": -0.14908745019701816,
+      "horse_number": 12,
+      "odds": 2.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103894",
+      "horse_name": "2023103894",
+      "score": -0.2825489908587004,
+      "horse_number": 14,
+      "odds": 15.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104065",
+      "horse_name": "2023104065",
+      "score": -0.38944955646457463,
+      "horse_number": 13,
+      "odds": 23.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102893",
+      "horse_name": "2023102893",
+      "score": -0.47590614317893704,
+      "horse_number": 5,
+      "odds": 12.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101154",
+      "horse_name": "2023101154",
+      "score": -0.5677261992654599,
+      "horse_number": 4,
+      "odds": 13.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104485",
+      "horse_name": "2023104485",
+      "score": -0.5860452206935439,
+      "horse_number": 8,
+      "odds": 8.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106589",
+      "horse_name": "2023106589",
+      "score": -0.6341147826620808,
+      "horse_number": 6,
+      "odds": 43.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106741",
+      "horse_name": "2023106741",
+      "score": -0.6341147826620808,
+      "horse_number": 9,
+      "odds": 62.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104042",
+      "horse_name": "2023104042",
+      "score": -0.6543632925823613,
+      "horse_number": 7,
+      "odds": 60.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106048",
+      "horse_name": "2023106048",
+      "score": -0.6543632925823613,
+      "horse_number": 1,
+      "odds": 47.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106627",
+      "horse_name": "2023106627",
+      "score": -0.6543632925823613,
+      "horse_number": 2,
+      "odds": 59.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102163",
+      "horse_name": "2023102163",
+      "score": -0.6543632925823613,
+      "horse_number": 15,
+      "odds": 108.5
+    }
+  ]
+}

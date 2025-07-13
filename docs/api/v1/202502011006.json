@@ -1,0 +1,128 @@
+{
+  "race_id": "202502011006",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-13 12:45",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104906",
+      "horse_name": "ロパシック",
+      "score": 0.25933662409639036,
+      "horse_number": 15,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104201",
+      "horse_name": "スティーヴバローズ",
+      "score": 0.20403122852488087,
+      "horse_number": 12,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104817",
+      "horse_name": "ペールノエル",
+      "score": 0.14678458786734053,
+      "horse_number": 3,
+      "odds": 9.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100860",
+      "horse_name": "クラシカルカイザー",
+      "score": -0.03627360911188798,
+      "horse_number": 9,
+      "odds": 8.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103517",
+      "horse_name": "シュエットアムール",
+      "score": -0.08407949102517982,
+      "horse_number": 7,
+      "odds": 24.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105734",
+      "horse_name": "シヴァールバーニ",
+      "score": -0.2114984490909245,
+      "horse_number": 14,
+      "odds": 58.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105252",
+      "horse_name": "バトラーズワーフ",
+      "score": -0.38577050627938275,
+      "horse_number": 8,
+      "odds": 11.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100489",
+      "horse_name": "マサノイロハ",
+      "score": -0.3982072104390107,
+      "horse_number": 2,
+      "odds": 18.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104308",
+      "horse_name": "シカレ",
+      "score": -0.43348203990494066,
+      "horse_number": 5,
+      "odds": 25.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104538",
+      "horse_name": "マイネルラカイユ",
+      "score": -0.4667455247219874,
+      "horse_number": 11,
+      "odds": 45.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105464",
+      "horse_name": "ナリノボガート",
+      "score": -0.5799762263205366,
+      "horse_number": 6,
+      "odds": 89.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101969",
+      "horse_name": "デルマジュテーム",
+      "score": -0.58186388478215,
+      "horse_number": 4,
+      "odds": 39.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102777",
+      "horse_name": "ゴートゥーミジョカ",
+      "score": -0.6119974059069686,
+      "horse_number": 13,
+      "odds": 74.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105029",
+      "horse_name": "デンジエンド",
+      "score": -0.6655029630224305,
+      "horse_number": 10,
+      "odds": 125.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104042",
+      "horse_name": "アスコットレイ",
+      "score": -0.7344997899121097,
+      "horse_number": 1,
+      "odds": 65.0
+    }
+  ]
+}

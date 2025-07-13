@@ -1,0 +1,72 @@
+{
+  "race_id": "202510020606",
+  "race_name": "2歳新馬",
+  "race_time": "2025-07-13 12:55",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103685",
+      "horse_name": "2023103685",
+      "score": 0.14852967028247746,
+      "horse_number": 6,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106912",
+      "horse_name": "2023106912",
+      "score": 0.09042260256508367,
+      "horse_number": 5,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104388",
+      "horse_name": "2023104388",
+      "score": -0.12487586989329344,
+      "horse_number": 3,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102968",
+      "horse_name": "2023102968",
+      "score": -0.38944955646457463,
+      "horse_number": 4,
+      "odds": 17.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103981",
+      "horse_name": "2023103981",
+      "score": -0.5224698916524916,
+      "horse_number": 2,
+      "odds": 4.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102791",
+      "horse_name": "2023102791",
+      "score": -0.6341147826620808,
+      "horse_number": 7,
+      "odds": 7.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101690",
+      "horse_name": "2023101690",
+      "score": -0.6543632925823613,
+      "horse_number": 8,
+      "odds": 29.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107442",
+      "horse_name": "2023107442",
+      "score": -0.6543632925823613,
+      "horse_number": 1,
+      "odds": 6.7
+    }
+  ]
+}
