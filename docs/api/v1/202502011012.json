@@ -1,0 +1,72 @@
+{
+  "race_id": "202502011012",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-13 16:05",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102794",
+      "horse_name": "マキシマムドライブ",
+      "score": 0.33579930116694906,
+      "horse_number": 2,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110033",
+      "horse_name": "パッシングシャワー",
+      "score": 0.25250573559781064,
+      "horse_number": 1,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100632",
+      "horse_name": "ハリウッドメモリー",
+      "score": 0.23126236129584915,
+      "horse_number": 5,
+      "odds": 4.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101039",
+      "horse_name": "オーケーダイナ",
+      "score": 0.13430613905819686,
+      "horse_number": 6,
+      "odds": 5.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110112",
+      "horse_name": "ジャスパーディビネ",
+      "score": 0.10202509554900893,
+      "horse_number": 3,
+      "odds": 3.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102468",
+      "horse_name": "ブライティアダイヤ",
+      "score": -0.22172701217811497,
+      "horse_number": 8,
+      "odds": 15.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103322",
+      "horse_name": "スプリングデイ",
+      "score": -0.3300662221353744,
+      "horse_number": 4,
+      "odds": 25.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105128",
+      "horse_name": "アスクアメージモア",
+      "score": -0.34299281409686677,
+      "horse_number": 7,
+      "odds": 47.7
+    }
+  ]
+}

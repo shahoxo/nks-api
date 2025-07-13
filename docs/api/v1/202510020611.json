@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2021110133",
       "horse_name": "ジャスパーロブスト",
-      "score": 0.18994289253864624,
+      "score": 0.17768967775302294,
       "horse_number": 7,
       "odds": 3.9
     },
@@ -16,31 +16,31 @@
       "rank": 2,
       "horse_id": "2020102061",
       "horse_name": "ローズスター",
-      "score": 0.18224276991772148,
+      "score": 0.1637734047822667,
       "horse_number": 12,
       "odds": 8.7
     },
     {
       "rank": 3,
-      "horse_id": "2021102868",
-      "horse_name": "モズミギカタアガリ",
-      "score": 0.13955774546668775,
-      "horse_number": 9,
-      "odds": 7.0
+      "horse_id": "2019105416",
+      "horse_name": "グーデンドラーク",
+      "score": 0.15141467717743856,
+      "horse_number": 5,
+      "odds": 8.4
     },
     {
       "rank": 4,
-      "horse_id": "2019105416",
-      "horse_name": "グーデンドラーク",
-      "score": 0.12477482371275954,
-      "horse_number": 5,
-      "odds": 8.4
+      "horse_id": "2021102868",
+      "horse_name": "モズミギカタアガリ",
+      "score": 0.05998202632471671,
+      "horse_number": 9,
+      "odds": 7.0
     },
     {
       "rank": 5,
       "horse_id": "2020103732",
       "horse_name": "ドゥアイズ",
-      "score": 0.029312935367588642,
+      "score": -0.04366415630195834,
       "horse_number": 10,
       "odds": 14.5
     },
@@ -54,14 +54,6 @@
     },
     {
       "rank": 7,
-      "horse_id": "2020101275",
-      "horse_name": "アイファーテイオー",
-      "score": -0.16571238193673338,
-      "horse_number": 11,
-      "odds": 19.2
-    },
-    {
-      "rank": 8,
       "horse_id": "2020105622",
       "horse_name": "パラシュラーマ",
       "score": -0.18999563261828764,
@@ -69,12 +61,20 @@
       "odds": 48.0
     },
     {
-      "rank": 9,
+      "rank": 8,
       "horse_id": "2020102688",
       "horse_name": "サーマルソアリング",
       "score": -0.1924632855043647,
       "horse_number": 13,
       "odds": 7.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101275",
+      "horse_name": "アイファーテイオー",
+      "score": -0.21002596498819495,
+      "horse_number": 11,
+      "odds": 19.2
     },
     {
       "rank": 10,
@@ -88,7 +88,7 @@
       "rank": 11,
       "horse_id": "2019104116",
       "horse_name": "コパノニコルソン",
-      "score": -0.25821140897729816,
+      "score": -0.3469564625314071,
       "horse_number": 16,
       "odds": 82.5
     },
@@ -128,7 +128,7 @@
       "rank": 16,
       "horse_id": "2016102663",
       "horse_name": "ハギノアトラス",
-      "score": -0.5431529973283721,
+      "score": -0.5617528108278141,
       "horse_number": 8,
       "odds": 131.4
     }

@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020611",
+  "race_name": "七夕賞",
+  "race_time": "2025-07-13 15:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019105556",
+      "horse_name": "ドゥラドーレス",
+      "score": 0.29673119805463277,
+      "horse_number": 15,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103521",
+      "horse_name": "セブンマジシャン",
+      "score": 0.12718557987555074,
+      "horse_number": 13,
+      "odds": 12.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104094",
+      "horse_name": "シリウスコルト",
+      "score": 0.08213135122651972,
+      "horse_number": 8,
+      "odds": 6.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019106698",
+      "horse_name": "バラジ",
+      "score": 0.034409202755583734,
+      "horse_number": 14,
+      "odds": 12.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019104998",
+      "horse_name": "ショウナンマグマ",
+      "score": 0.026491445122060326,
+      "horse_number": 10,
+      "odds": 101.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105424",
+      "horse_name": "シルトホルン",
+      "score": 0.0012416932437282896,
+      "horse_number": 12,
+      "odds": 10.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105773",
+      "horse_name": "コスモフリーゲン",
+      "score": -0.02187771969190822,
+      "horse_number": 2,
+      "odds": 4.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100495",
+      "horse_name": "ドラゴンヘッド",
+      "score": -0.11829650470556163,
+      "horse_number": 1,
+      "odds": 29.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019100965",
+      "horse_name": "マテンロウオリオン",
+      "score": -0.14637160070885144,
+      "horse_number": 4,
+      "odds": 31.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105065",
+      "horse_name": "パラレルヴィジョン",
+      "score": -0.15038164154463887,
+      "horse_number": 11,
+      "odds": 40.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100254",
+      "horse_name": "ニシノレヴナント",
+      "score": -0.20028935140654605,
+      "horse_number": 9,
+      "odds": 9.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018104225",
+      "horse_name": "リフレーミング",
+      "score": -0.21566530034045558,
+      "horse_number": 5,
+      "odds": 14.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103586",
+      "horse_name": "ギャラクシーナイト",
+      "score": -0.24925974610400292,
+      "horse_number": 6,
+      "odds": 70.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019106933",
+      "horse_name": "ダンテスヴュー",
+      "score": -0.2880473107046985,
+      "horse_number": 3,
+      "odds": 46.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019104756",
+      "horse_name": "オニャンコポン",
+      "score": -0.29408791519236077,
+      "horse_number": 7,
+      "odds": 36.1
+    }
+  ]
+}
