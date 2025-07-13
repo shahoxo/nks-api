@@ -1,0 +1,136 @@
+{
+  "race_id": "202510020612",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-13 16:15",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104597",
+      "horse_name": "モンテディアーナ",
+      "score": 0.394195067250135,
+      "horse_number": 12,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101053",
+      "horse_name": "ペガサスノース",
+      "score": 0.2002976759200528,
+      "horse_number": 8,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102729",
+      "horse_name": "インフローレ",
+      "score": 0.09170906380151178,
+      "horse_number": 16,
+      "odds": 8.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106821",
+      "horse_name": "ピースフルナイト",
+      "score": 0.03563011210387923,
+      "horse_number": 3,
+      "odds": 17.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106433",
+      "horse_name": "アーサーズウェイン",
+      "score": -0.06301201359901314,
+      "horse_number": 11,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103509",
+      "horse_name": "ドナウパール",
+      "score": -0.0681590503204957,
+      "horse_number": 4,
+      "odds": 22.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102433",
+      "horse_name": "アートフォーム",
+      "score": -0.08254383084173122,
+      "horse_number": 14,
+      "odds": 40.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105794",
+      "horse_name": "レザンクレール",
+      "score": -0.11454413203485561,
+      "horse_number": 1,
+      "odds": 21.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105212",
+      "horse_name": "エコロハート",
+      "score": -0.1456500988693563,
+      "horse_number": 15,
+      "odds": 34.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100795",
+      "horse_name": "ベルタソ",
+      "score": -0.20763403460471816,
+      "horse_number": 7,
+      "odds": 27.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103261",
+      "horse_name": "アウクソー",
+      "score": -0.31230087184263583,
+      "horse_number": 5,
+      "odds": 13.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102537",
+      "horse_name": "チカポコ",
+      "score": -0.3390370937308508,
+      "horse_number": 13,
+      "odds": 16.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106637",
+      "horse_name": "ラヴェンデル",
+      "score": -0.35550485887497885,
+      "horse_number": 9,
+      "odds": 56.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106586",
+      "horse_name": "ラブカムーン",
+      "score": -0.39091611225182066,
+      "horse_number": 10,
+      "odds": 57.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105073",
+      "horse_name": "ガットネロ",
+      "score": -0.47972102744790646,
+      "horse_number": 2,
+      "odds": 29.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102963",
+      "horse_name": "メイショウタマユラ",
+      "score": -0.5160291669347129,
+      "horse_number": 6,
+      "odds": 19.5
+    }
+  ]
+}
