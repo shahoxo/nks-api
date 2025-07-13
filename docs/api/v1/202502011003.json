@@ -1,0 +1,136 @@
+{
+  "race_id": "202502011003",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-13 10:55",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101568",
+      "horse_name": "テキサスツイスター",
+      "score": 0.19231600132268029,
+      "horse_number": 12,
+      "odds": 12.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100644",
+      "horse_name": "フィリグラン",
+      "score": 0.15693183349994833,
+      "horse_number": 7,
+      "odds": 9.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110101",
+      "horse_name": "フリアフロリダ",
+      "score": 0.09089827903833349,
+      "horse_number": 3,
+      "odds": 4.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101631",
+      "horse_name": "チェンジオブハート",
+      "score": 0.0467505474759891,
+      "horse_number": 1,
+      "odds": 6.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100656",
+      "horse_name": "ロードステイタス",
+      "score": 0.0180280261659917,
+      "horse_number": 5,
+      "odds": 14.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106320",
+      "horse_name": "ルブリアン",
+      "score": -0.007463998775034286,
+      "horse_number": 16,
+      "odds": 18.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022110094",
+      "horse_name": "ビリオネアボーイ",
+      "score": -0.023769530167073033,
+      "horse_number": 13,
+      "odds": 5.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100427",
+      "horse_name": "エムティキング",
+      "score": -0.08505641153720442,
+      "horse_number": 9,
+      "odds": 17.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105271",
+      "horse_name": "ブラヴォケラトプス",
+      "score": -0.15409517165141356,
+      "horse_number": 8,
+      "odds": 9.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022110031",
+      "horse_name": "2022110031",
+      "score": -0.15514127957881324,
+      "horse_number": 4,
+      "odds": 21.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105017",
+      "horse_name": "ブロンドエール",
+      "score": -0.1877361667276173,
+      "horse_number": 11,
+      "odds": 31.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106599",
+      "horse_name": "ラブカマクフィー",
+      "score": -0.2600553335101529,
+      "horse_number": 15,
+      "odds": 29.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102926",
+      "horse_name": "ウインコンパス",
+      "score": -0.37565658234170896,
+      "horse_number": 14,
+      "odds": 63.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104858",
+      "horse_name": "セイルロケット",
+      "score": -0.43430837714459886,
+      "horse_number": 10,
+      "odds": 17.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106894",
+      "horse_name": "ファリア",
+      "score": -0.5251028213812962,
+      "horse_number": 2,
+      "odds": 61.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103352",
+      "horse_name": "キョウエイレッド",
+      "score": -0.5780690536988875,
+      "horse_number": 6,
+      "odds": 180.5
+    }
+  ]
+}

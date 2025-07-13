@@ -1,0 +1,120 @@
+{
+  "race_id": "202502011002",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-13 10:25",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103737",
+      "horse_name": "バッドガール",
+      "score": 0.25225604012774433,
+      "horse_number": 10,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102952",
+      "horse_name": "ユージュアーナ",
+      "score": 0.16350907309693588,
+      "horse_number": 6,
+      "odds": 8.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106656",
+      "horse_name": "ハッピーウィズユー",
+      "score": 0.09735284630910239,
+      "horse_number": 1,
+      "odds": 4.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102631",
+      "horse_name": "ハイゼンスレイ",
+      "score": 0.03767281197019058,
+      "horse_number": 5,
+      "odds": 4.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100965",
+      "horse_name": "ベルシエル",
+      "score": -0.000963650981377677,
+      "horse_number": 4,
+      "odds": 13.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104305",
+      "horse_name": "スフレ",
+      "score": -0.060693342076624315,
+      "horse_number": 8,
+      "odds": 6.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100146",
+      "horse_name": "アンタンシオン",
+      "score": -0.29712073151433155,
+      "horse_number": 14,
+      "odds": 18.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103152",
+      "horse_name": "キラフォーニア",
+      "score": -0.32922016431832013,
+      "horse_number": 11,
+      "odds": 39.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022109028",
+      "horse_name": "カラーズリング",
+      "score": -0.482138476977782,
+      "horse_number": 7,
+      "odds": 21.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103993",
+      "horse_name": "タヤスソーレ",
+      "score": -0.5805397685759002,
+      "horse_number": 13,
+      "odds": 0.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100149",
+      "horse_name": "ケングロリア",
+      "score": -0.58186388478215,
+      "horse_number": 2,
+      "odds": 65.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101090",
+      "horse_name": "カシマスウィープ",
+      "score": -0.6284719013421686,
+      "horse_number": 12,
+      "odds": 30.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100015",
+      "horse_name": "ジーティーレイナ",
+      "score": -0.6961644114972435,
+      "horse_number": 3,
+      "odds": 68.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102005",
+      "horse_name": "クリムゾンボタン",
+      "score": -0.7212483613895885,
+      "horse_number": 9,
+      "odds": 48.9
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020602",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-13 10:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104860",
+      "horse_name": "ヴィジブルライト",
+      "score": 0.18970658940686758,
+      "horse_number": 9,
+      "odds": 4.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103994",
+      "horse_name": "ブラザービート",
+      "score": 0.16757582112705036,
+      "horse_number": 11,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105043",
+      "horse_name": "ジュンビクトワール",
+      "score": 0.15718044179413893,
+      "horse_number": 2,
+      "odds": 3.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102745",
+      "horse_name": "ベネスピラ",
+      "score": 0.08474018639338232,
+      "horse_number": 7,
+      "odds": 17.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100395",
+      "horse_name": "ヤマニンエボルブ",
+      "score": 0.03768888737953314,
+      "horse_number": 4,
+      "odds": 5.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022107398",
+      "horse_name": "レジョンデロル",
+      "score": -0.0919494552700862,
+      "horse_number": 8,
+      "odds": 18.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102572",
+      "horse_name": "ファリードゥーン",
+      "score": -0.31322739577886666,
+      "horse_number": 10,
+      "odds": 72.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103774",
+      "horse_name": "チェインズモーカー",
+      "score": -0.3490969524302963,
+      "horse_number": 6,
+      "odds": 12.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106250",
+      "horse_name": "スカイリスト",
+      "score": -0.35257203108302293,
+      "horse_number": 15,
+      "odds": 30.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102444",
+      "horse_name": "キョウエイセレッソ",
+      "score": -0.45265491020511894,
+      "horse_number": 3,
+      "odds": 99.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102042",
+      "horse_name": "キタノショウリュウ",
+      "score": -0.6145912931257872,
+      "horse_number": 12,
+      "odds": 33.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106222",
+      "horse_name": "ウインマグノリア",
+      "score": -0.6408846627135724,
+      "horse_number": 14,
+      "odds": 16.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102405",
+      "horse_name": "ベルフォン",
+      "score": -0.6841057623530721,
+      "horse_number": 5,
+      "odds": 73.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106255",
+      "horse_name": "エイチエヌハーモニ",
+      "score": -0.7560238565797833,
+      "horse_number": 1,
+      "odds": 122.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102004",
+      "horse_name": "サバイバルダッシュ",
+      "score": -0.7610580878976598,
+      "horse_number": 13,
+      "odds": 131.7
+    }
+  ]
+}

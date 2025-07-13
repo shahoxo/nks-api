@@ -1,0 +1,152 @@
+{
+  "race_id": "202510020602",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-13 10:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102122",
+      "horse_name": "モズレイラココナ",
+      "score": 0.22759326610056096,
+      "horse_number": 6,
+      "odds": 6.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104909",
+      "horse_name": "マイアイドル",
+      "score": 0.22456496560354847,
+      "horse_number": 9,
+      "odds": 13.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101725",
+      "horse_name": "ドゥラルーナ",
+      "score": 0.11920474835545682,
+      "horse_number": 5,
+      "odds": 11.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105267",
+      "horse_name": "サウンドルーチェ",
+      "score": 0.008021163898991154,
+      "horse_number": 14,
+      "odds": 6.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103058",
+      "horse_name": "ノボリリア",
+      "score": -0.032662462262542505,
+      "horse_number": 1,
+      "odds": 58.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106605",
+      "horse_name": "ヤマニンレセディ",
+      "score": -0.05958534272965586,
+      "horse_number": 8,
+      "odds": 18.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105862",
+      "horse_name": "シルクディヴェール",
+      "score": -0.060969887785712995,
+      "horse_number": 18,
+      "odds": 6.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104091",
+      "horse_name": "スリアント",
+      "score": -0.11985404118800307,
+      "horse_number": 16,
+      "odds": 43.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100575",
+      "horse_name": "エイシンマイア",
+      "score": -0.19491182085466563,
+      "horse_number": 17,
+      "odds": 20.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102033",
+      "horse_name": "スマートロベール",
+      "score": -0.35348074816770536,
+      "horse_number": 12,
+      "odds": 20.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105351",
+      "horse_name": "シャドウフェイス",
+      "score": -0.3624543275003261,
+      "horse_number": 2,
+      "odds": 15.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100850",
+      "horse_name": "トウカイリュタン",
+      "score": -0.3651630312155099,
+      "horse_number": 11,
+      "odds": 3.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102175",
+      "horse_name": "カシノメンコチャン",
+      "score": -0.4210507156499659,
+      "horse_number": 7,
+      "odds": 38.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101748",
+      "horse_name": "ワンチャン",
+      "score": -0.4364982135183656,
+      "horse_number": 3,
+      "odds": 68.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102974",
+      "horse_name": "スリーローズ",
+      "score": -0.4380757983464477,
+      "horse_number": 13,
+      "odds": 49.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102917",
+      "horse_name": "モズアカトンボ",
+      "score": -0.45054058984528844,
+      "horse_number": 15,
+      "odds": 30.4
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022101006",
+      "horse_name": "ラベンサラ",
+      "score": -0.7265140734648036,
+      "horse_number": 10,
+      "odds": 105.5
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022100753",
+      "horse_name": "タンバリュー",
+      "score": -0.7560238565797833,
+      "horse_number": 4,
+      "odds": 163.0
+    }
+  ]
+}

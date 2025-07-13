@@ -1,0 +1,80 @@
+{
+  "race_id": "202503020601",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-07-13 10:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100102",
+      "horse_name": "イイクニパッション",
+      "score": 0.2348259924952904,
+      "horse_number": 8,
+      "odds": 1.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106479",
+      "horse_name": "フォトンゲイザー",
+      "score": -0.4364541786542299,
+      "horse_number": 7,
+      "odds": 10.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105996",
+      "horse_name": "ビップレオン",
+      "score": -0.4659693070236621,
+      "horse_number": 9,
+      "odds": 34.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102830",
+      "horse_name": "リュウノエッセンス",
+      "score": -0.5473356664557427,
+      "horse_number": 4,
+      "odds": 8.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100328",
+      "horse_name": "リオンアンサー",
+      "score": -0.5780690536988875,
+      "horse_number": 6,
+      "odds": 19.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103702",
+      "horse_name": "リアアーテシアン",
+      "score": -0.583561646909778,
+      "horse_number": 1,
+      "odds": 17.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106608",
+      "horse_name": "エレクトロン",
+      "score": -0.5844092227108343,
+      "horse_number": 2,
+      "odds": 81.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101306",
+      "horse_name": "コパノセビリア",
+      "score": -0.651785207148711,
+      "horse_number": 3,
+      "odds": 77.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102598",
+      "horse_name": "ナンヨーラーク",
+      "score": -0.7560238565797833,
+      "horse_number": 5,
+      "odds": 58.3
+    }
+  ]
+}
