@@ -1,0 +1,136 @@
+{
+  "race_id": "202510020611",
+  "race_name": "阿蘇S",
+  "race_time": "2025-07-13 15:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110133",
+      "horse_name": "ジャスパーロブスト",
+      "score": 0.18994289253864624,
+      "horse_number": 7,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102061",
+      "horse_name": "ローズスター",
+      "score": 0.18224276991772148,
+      "horse_number": 12,
+      "odds": 8.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102868",
+      "horse_name": "モズミギカタアガリ",
+      "score": 0.13955774546668775,
+      "horse_number": 9,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019105416",
+      "horse_name": "グーデンドラーク",
+      "score": 0.12477482371275954,
+      "horse_number": 5,
+      "odds": 8.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103732",
+      "horse_name": "ドゥアイズ",
+      "score": 0.029312935367588642,
+      "horse_number": 10,
+      "odds": 14.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018100664",
+      "horse_name": "ホールシバン",
+      "score": -0.16563047042812745,
+      "horse_number": 2,
+      "odds": 20.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101275",
+      "horse_name": "アイファーテイオー",
+      "score": -0.16571238193673338,
+      "horse_number": 11,
+      "odds": 19.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105622",
+      "horse_name": "パラシュラーマ",
+      "score": -0.18999563261828764,
+      "horse_number": 4,
+      "odds": 48.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102688",
+      "horse_name": "サーマルソアリング",
+      "score": -0.1924632855043647,
+      "horse_number": 13,
+      "odds": 7.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102845",
+      "horse_name": "ドゥラレジリエント",
+      "score": -0.21358634919731875,
+      "horse_number": 1,
+      "odds": 8.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104116",
+      "horse_name": "コパノニコルソン",
+      "score": -0.25821140897729816,
+      "horse_number": 16,
+      "odds": 82.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101024",
+      "horse_name": "ピースオブザライフ",
+      "score": -0.4208551786104726,
+      "horse_number": 14,
+      "odds": 72.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018105503",
+      "horse_name": "ロコポルティ",
+      "score": -0.4594280033577399,
+      "horse_number": 6,
+      "odds": 17.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103908",
+      "horse_name": "メイクアリープ",
+      "score": -0.5214958321813888,
+      "horse_number": 3,
+      "odds": 14.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019101198",
+      "horse_name": "マリオロード",
+      "score": -0.5336275327955337,
+      "horse_number": 15,
+      "odds": 39.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2016102663",
+      "horse_name": "ハギノアトラス",
+      "score": -0.5431529973283721,
+      "horse_number": 8,
+      "odds": 131.4
+    }
+  ]
+}

@@ -8,71 +8,71 @@
       "rank": 1,
       "horse_id": "2021101603",
       "horse_name": "ナイトスラッガー",
-      "score": 0.26107627118531485,
+      "score": 0.25749875989323545,
       "horse_number": 5,
       "odds": 6.0
     },
     {
       "rank": 2,
-      "horse_id": "2021105585",
-      "horse_name": "カリーニョ",
-      "score": 0.014219293171169517,
-      "horse_number": 4,
-      "odds": 6.3
+      "horse_id": "2021102597",
+      "horse_name": "ラビットアイ",
+      "score": 0.02012764505747658,
+      "horse_number": 1,
+      "odds": 4.9
     },
     {
       "rank": 3,
-      "horse_id": "2018104512",
-      "horse_name": "エルディアブロ",
-      "score": 0.006506687951099677,
-      "horse_number": 9,
-      "odds": 10.7
+      "horse_id": "2021105585",
+      "horse_name": "カリーニョ",
+      "score": -0.004723591501427762,
+      "horse_number": 4,
+      "odds": 6.3
     },
     {
       "rank": 4,
       "horse_id": "2019101007",
       "horse_name": "タケトンボ",
-      "score": 0.0034962769776761705,
+      "score": -0.03588778548222996,
       "horse_number": 8,
       "odds": 8.9
     },
     {
       "rank": 5,
-      "horse_id": "2021102597",
-      "horse_name": "ラビットアイ",
-      "score": -5.837190950814912e-06,
-      "horse_number": 1,
-      "odds": 4.9
+      "horse_id": "2018104512",
+      "horse_name": "エルディアブロ",
+      "score": -0.05112034372615967,
+      "horse_number": 9,
+      "odds": 10.7
     },
     {
       "rank": 6,
       "horse_id": "2021106642",
       "horse_name": "ファミリーツリー",
-      "score": -0.05689864397323851,
+      "score": -0.10758211256034067,
       "horse_number": 6,
       "odds": 4.8
     },
     {
       "rank": 7,
-      "horse_id": "2020101121",
-      "horse_name": "ハッピーアズラリー",
-      "score": -0.07526685062621151,
-      "horse_number": 7,
-      "odds": 8.7
+      "horse_id": "2022100080",
+      "horse_name": "リカントロポ",
+      "score": -0.15888051463302227,
+      "horse_number": 2,
+      "odds": 17.7
     },
     {
       "rank": 8,
-      "horse_id": "2022100080",
-      "horse_name": "リカントロポ",
-      "score": -0.09301021704624321,
-      "horse_number": 2,
-      "odds": 17.7
+      "horse_id": "2020101121",
+      "horse_name": "ハッピーアズラリー",
+      "score": -0.16027888539641774,
+      "horse_number": 7,
+      "odds": 8.7
     },
     {
       "rank": 9,
       "horse_id": "2020103729",
       "horse_name": "アロマデローサ",
-      "score": -0.1415058920678752,
+      "score": -0.20298824912638286,
       "horse_number": 3,
       "odds": 6.9
     }

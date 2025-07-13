@@ -1,0 +1,104 @@
+{
+  "race_id": "202502011011",
+  "race_name": "巴賞",
+  "race_time": "2025-07-13 15:25",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019100318",
+      "horse_name": "ケイアイセナ",
+      "score": 0.15700210059971983,
+      "horse_number": 4,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102740",
+      "horse_name": "コントラポスト",
+      "score": 0.11067736978041594,
+      "horse_number": 10,
+      "odds": 3.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100210",
+      "horse_name": "ドナベティ",
+      "score": 0.03223473495545265,
+      "horse_number": 3,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020105626",
+      "horse_name": "コンクシェル",
+      "score": 0.031208182428230858,
+      "horse_number": 7,
+      "odds": 13.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104405",
+      "horse_name": "セットアップ",
+      "score": 0.007149775939790447,
+      "horse_number": 1,
+      "odds": 11.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105462",
+      "horse_name": "ソリダリティ",
+      "score": -0.023357242648982895,
+      "horse_number": 6,
+      "odds": 9.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106816",
+      "horse_name": "マイネルブリックス",
+      "score": -0.051722990660820145,
+      "horse_number": 2,
+      "odds": 18.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018105147",
+      "horse_name": "ディオスバリエンテ",
+      "score": -0.10770147915907202,
+      "horse_number": 8,
+      "odds": 15.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018101615",
+      "horse_name": "ウインシュクラン",
+      "score": -0.2366042430294731,
+      "horse_number": 12,
+      "odds": 20.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019101629",
+      "horse_name": "グランスラムアスク",
+      "score": -0.3019355401287126,
+      "horse_number": 5,
+      "odds": 68.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018105996",
+      "horse_name": "サムハンター",
+      "score": -0.30578383932474107,
+      "horse_number": 11,
+      "odds": 40.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104159",
+      "horse_name": "カヨウネンカ",
+      "score": -0.40849287773393983,
+      "horse_number": 9,
+      "odds": 17.8
+    }
+  ]
+}
