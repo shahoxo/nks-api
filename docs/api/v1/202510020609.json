@@ -1,0 +1,120 @@
+{
+  "race_id": "202510020609",
+  "race_name": "雲仙特別",
+  "race_time": "2025-07-13 14:25",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100226",
+      "horse_name": "ディーエスショウマ",
+      "score": 0.11814041851312572,
+      "horse_number": 6,
+      "odds": 6.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110142",
+      "horse_name": "ファムエレガンテ",
+      "score": 0.0894107355167538,
+      "horse_number": 8,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101557",
+      "horse_name": "アスタールフナ",
+      "score": 0.06212795224875812,
+      "horse_number": 11,
+      "odds": 3.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102562",
+      "horse_name": "パルプフィクション",
+      "score": -0.05753407687436578,
+      "horse_number": 5,
+      "odds": 15.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100371",
+      "horse_name": "セントールビースト",
+      "score": -0.06831334175076524,
+      "horse_number": 10,
+      "odds": 22.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110131",
+      "horse_name": "エコロネオ",
+      "score": -0.08902742768308944,
+      "horse_number": 2,
+      "odds": 12.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020110079",
+      "horse_name": "アマルナ",
+      "score": -0.1132550128358737,
+      "horse_number": 14,
+      "odds": 16.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022110151",
+      "horse_name": "ゲッティヴィラ",
+      "score": -0.12986434077133446,
+      "horse_number": 4,
+      "odds": 6.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106983",
+      "horse_name": "ゼンノツキヨミ",
+      "score": -0.22134290079149094,
+      "horse_number": 7,
+      "odds": 70.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102735",
+      "horse_name": "ペプチドシュチク",
+      "score": -0.2572542838753882,
+      "horse_number": 3,
+      "odds": 76.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100897",
+      "horse_name": "ルソレイユ",
+      "score": -0.3717918674789256,
+      "horse_number": 12,
+      "odds": 18.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019106239",
+      "horse_name": "マリブパイン",
+      "score": -0.38524499981451654,
+      "horse_number": 13,
+      "odds": 50.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100530",
+      "horse_name": "フォルティーナ",
+      "score": -0.4594549291239861,
+      "horse_number": 1,
+      "odds": 37.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103042",
+      "horse_name": "テンクウフラワー",
+      "score": -0.5456935335729066,
+      "horse_number": 9,
+      "odds": 22.8
+    }
+  ]
+}

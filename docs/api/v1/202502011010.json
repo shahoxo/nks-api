@@ -1,0 +1,104 @@
+{
+  "race_id": "202502011010",
+  "race_name": "噴火湾特別",
+  "race_time": "2025-07-13 14:50",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100648",
+      "horse_name": "クーデール",
+      "score": 0.036526803527791134,
+      "horse_number": 10,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103748",
+      "horse_name": "サベージラヴ",
+      "score": 0.0294656316636093,
+      "horse_number": 11,
+      "odds": 17.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021109043",
+      "horse_name": "テイエムタリスマ",
+      "score": -0.000502433755404254,
+      "horse_number": 9,
+      "odds": 12.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105821",
+      "horse_name": "サンディブロンド",
+      "score": -0.012694615656360628,
+      "horse_number": 6,
+      "odds": 14.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101052",
+      "horse_name": "ルーラルハピネス",
+      "score": -0.11216242530567169,
+      "horse_number": 12,
+      "odds": 3.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110062",
+      "horse_name": "ヒストリアイ",
+      "score": -0.13461379512411206,
+      "horse_number": 2,
+      "odds": 5.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105149",
+      "horse_name": "サイレンスゴールド",
+      "score": -0.14624442816876812,
+      "horse_number": 4,
+      "odds": 10.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103242",
+      "horse_name": "ジーベック",
+      "score": -0.16584551715658333,
+      "horse_number": 8,
+      "odds": 9.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021107281",
+      "horse_name": "サザンカ",
+      "score": -0.16879368076676526,
+      "horse_number": 3,
+      "odds": 18.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019103442",
+      "horse_name": "クラリティスケール",
+      "score": -0.19793117566220386,
+      "horse_number": 7,
+      "odds": 23.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018110134",
+      "horse_name": "ニルアドミラリ",
+      "score": -0.21622234846449548,
+      "horse_number": 5,
+      "odds": 59.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103172",
+      "horse_name": "ヴェラリーシャ",
+      "score": -0.461570510085494,
+      "horse_number": 1,
+      "odds": 15.4
+    }
+  ]
+}

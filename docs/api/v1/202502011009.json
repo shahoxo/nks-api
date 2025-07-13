@@ -1,0 +1,104 @@
+{
+  "race_id": "202502011009",
+  "race_name": "北海ハンデ",
+  "race_time": "2025-07-13 14:15",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103245",
+      "horse_name": "ミッキージュエリー",
+      "score": 0.23620794115219437,
+      "horse_number": 3,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019105497",
+      "horse_name": "アルゲンテウス",
+      "score": 0.21227627033901647,
+      "horse_number": 6,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021107085",
+      "horse_name": "ウインアクトゥール",
+      "score": 0.20019696130471715,
+      "horse_number": 8,
+      "odds": 6.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020105809",
+      "horse_name": "マイネルフォルツァ",
+      "score": 0.06934354086853693,
+      "horse_number": 9,
+      "odds": 13.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104978",
+      "horse_name": "マルカオペラ",
+      "score": 0.04142482634327944,
+      "horse_number": 11,
+      "odds": 11.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020100742",
+      "horse_name": "ブラックヴァール",
+      "score": 0.015576171176040307,
+      "horse_number": 10,
+      "odds": 7.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106811",
+      "horse_name": "タイキラフター",
+      "score": -0.00027451423781919317,
+      "horse_number": 7,
+      "odds": 8.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019103816",
+      "horse_name": "リッチブラック",
+      "score": -0.16336661127622432,
+      "horse_number": 4,
+      "odds": 19.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104761",
+      "horse_name": "ジルバーン",
+      "score": -0.20940727570089124,
+      "horse_number": 5,
+      "odds": 40.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019106700",
+      "horse_name": "ヒロノゴウカイ",
+      "score": -0.3610083646867255,
+      "horse_number": 2,
+      "odds": 24.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018104841",
+      "horse_name": "リリーブライト",
+      "score": -0.3966907551330507,
+      "horse_number": 1,
+      "odds": 31.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105877",
+      "horse_name": "デルマグレムリン",
+      "score": -0.5860174636782842,
+      "horse_number": 12,
+      "odds": 23.8
+    }
+  ]
+}
