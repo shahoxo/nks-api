@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020607",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-13 13:35",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100594",
+      "horse_name": "アンバーニードル",
+      "score": 0.20007046397738093,
+      "horse_number": 12,
+      "odds": 5.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102421",
+      "horse_name": "ビービーエフォート",
+      "score": 0.0921829758584035,
+      "horse_number": 10,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103556",
+      "horse_name": "キープサインオン",
+      "score": 0.06539898261938983,
+      "horse_number": 2,
+      "odds": 4.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103885",
+      "horse_name": "クリノゴッホ",
+      "score": -0.2287119875218781,
+      "horse_number": 9,
+      "odds": 19.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103119",
+      "horse_name": "ニシノアヤカゼ",
+      "score": -0.2512928467792213,
+      "horse_number": 8,
+      "odds": 13.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105078",
+      "horse_name": "アトリウムチャペル",
+      "score": -0.2833708477314133,
+      "horse_number": 7,
+      "odds": 6.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105689",
+      "horse_name": "ヴァリアントマーチ",
+      "score": -0.29669298592680915,
+      "horse_number": 13,
+      "odds": 22.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106788",
+      "horse_name": "ティーラミレス",
+      "score": -0.34265410652714634,
+      "horse_number": 6,
+      "odds": 16.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102767",
+      "horse_name": "テンプーシャオン",
+      "score": -0.36516068363247506,
+      "horse_number": 4,
+      "odds": 9.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105397",
+      "horse_name": "アフィリオン",
+      "score": -0.3904209259218746,
+      "horse_number": 5,
+      "odds": 27.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106587",
+      "horse_name": "レオプルミエール",
+      "score": -0.4521671129020962,
+      "horse_number": 3,
+      "odds": 13.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102153",
+      "horse_name": "2022102153",
+      "score": -0.5071126925064392,
+      "horse_number": 11,
+      "odds": 68.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103505",
+      "horse_name": "ウエストチェリー",
+      "score": -0.5409515060713891,
+      "horse_number": 1,
+      "odds": 57.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018103120",
+      "horse_name": "フロスティクォーツ",
+      "score": -0.5535478197214566,
+      "horse_number": 14,
+      "odds": 45.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021105671",
+      "horse_name": "ディアクルーナ",
+      "score": -0.5718340738351324,
+      "horse_number": 15,
+      "odds": 61.0
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020608",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-13 14:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104479",
+      "horse_name": "フェデルミエール",
+      "score": 0.07645276691737643,
+      "horse_number": 2,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102952",
+      "horse_name": "オーサムデアラー",
+      "score": 0.07415946291455965,
+      "horse_number": 14,
+      "odds": 9.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106942",
+      "horse_name": "レイム",
+      "score": 0.014366141791212057,
+      "horse_number": 13,
+      "odds": 19.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104174",
+      "horse_name": "レジーナローズ",
+      "score": 0.003056022001695879,
+      "horse_number": 12,
+      "odds": 7.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103151",
+      "horse_name": "ミニョンマルーン",
+      "score": -0.00021187028625713894,
+      "horse_number": 3,
+      "odds": 4.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104769",
+      "horse_name": "エンドレスサマー",
+      "score": -0.001757510595600263,
+      "horse_number": 5,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106930",
+      "horse_name": "シャーンゴッセ",
+      "score": -0.01038277278008725,
+      "horse_number": 4,
+      "odds": 6.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103937",
+      "horse_name": "ラヴァグロウ",
+      "score": -0.12735650381677593,
+      "horse_number": 15,
+      "odds": 11.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105525",
+      "horse_name": "カツノテンス",
+      "score": -0.3184159434767885,
+      "horse_number": 10,
+      "odds": 41.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101128",
+      "horse_name": "フェールブリエ",
+      "score": -0.327781506064487,
+      "horse_number": 6,
+      "odds": 22.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103775",
+      "horse_name": "テイエムパイロット",
+      "score": -0.35688261893559636,
+      "horse_number": 11,
+      "odds": 16.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104878",
+      "horse_name": "キングヴァージル",
+      "score": -0.372892656787735,
+      "horse_number": 9,
+      "odds": 51.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100997",
+      "horse_name": "マルモリディライト",
+      "score": -0.4973476684582902,
+      "horse_number": 1,
+      "odds": 63.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104141",
+      "horse_name": "ハジメテノチュウ",
+      "score": -0.7080136536659949,
+      "horse_number": 7,
+      "odds": 67.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106746",
+      "horse_name": "シングンラオウ",
+      "score": -0.7560238565797833,
+      "horse_number": 8,
+      "odds": 113.3
+    }
+  ]
+}

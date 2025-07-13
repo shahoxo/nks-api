@@ -1,0 +1,120 @@
+{
+  "race_id": "202502011007",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-13 13:15",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103268",
+      "horse_name": "パルティキュリエ",
+      "score": 0.35417255192547364,
+      "horse_number": 2,
+      "odds": 5.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105977",
+      "horse_name": "ロートホルン",
+      "score": 0.0916361048732578,
+      "horse_number": 1,
+      "odds": 1.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102982",
+      "horse_name": "ハーエクセレンシー",
+      "score": 0.06916547534930925,
+      "horse_number": 3,
+      "odds": 20.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106209",
+      "horse_name": "ウインシャーガス",
+      "score": 0.03933035150267865,
+      "horse_number": 8,
+      "odds": 9.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020107017",
+      "horse_name": "エイシンジェンマ",
+      "score": 0.03456098138765084,
+      "horse_number": 7,
+      "odds": 10.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103441",
+      "horse_name": "フラッシングレート",
+      "score": -0.030183526742239595,
+      "horse_number": 13,
+      "odds": 19.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102802",
+      "horse_name": "イリスレーン",
+      "score": -0.054833446722062175,
+      "horse_number": 4,
+      "odds": 28.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101488",
+      "horse_name": "ソニックドライブ",
+      "score": -0.0781429528593043,
+      "horse_number": 6,
+      "odds": 21.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103655",
+      "horse_name": "ダークブロンド",
+      "score": -0.2182798199762325,
+      "horse_number": 12,
+      "odds": 48.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105458",
+      "horse_name": "ピリカサンライズ",
+      "score": -0.22327170265654053,
+      "horse_number": 10,
+      "odds": 21.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103772",
+      "horse_name": "エイトスターズ",
+      "score": -0.23793318873214378,
+      "horse_number": 5,
+      "odds": 27.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104918",
+      "horse_name": "シャーリーゴールド",
+      "score": -0.3718777636172012,
+      "horse_number": 11,
+      "odds": 46.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100070",
+      "horse_name": "ネクストヒロイン",
+      "score": -0.415620428570157,
+      "horse_number": 14,
+      "odds": 160.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102803",
+      "horse_name": "エリム",
+      "score": -0.5766429540794782,
+      "horse_number": 9,
+      "odds": 140.4
+    }
+  ]
+}

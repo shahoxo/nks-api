@@ -1,0 +1,136 @@
+{
+  "race_id": "202510020608",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-13 13:55",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104145",
+      "horse_name": "インヴォーグ",
+      "score": 0.35180498013142636,
+      "horse_number": 3,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103705",
+      "horse_name": "エレガンシア",
+      "score": 0.18781889024882123,
+      "horse_number": 5,
+      "odds": 6.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105382",
+      "horse_name": "シンドリームシン",
+      "score": 0.04427281270636341,
+      "horse_number": 10,
+      "odds": 13.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104105",
+      "horse_name": "ルクスマーベリック",
+      "score": 0.0013794428400727985,
+      "horse_number": 4,
+      "odds": 13.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106682",
+      "horse_name": "アンジョルラス",
+      "score": -0.03448551468636867,
+      "horse_number": 8,
+      "odds": 9.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104992",
+      "horse_name": "フェイトライン",
+      "score": -0.059935801147186205,
+      "horse_number": 2,
+      "odds": 8.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101180",
+      "horse_name": "フェアリーブルー",
+      "score": -0.24309752468394957,
+      "horse_number": 16,
+      "odds": 23.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105878",
+      "horse_name": "メイケイロゼッタ",
+      "score": -0.2758620687410286,
+      "horse_number": 15,
+      "odds": 25.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103236",
+      "horse_name": "コンバットペスカ",
+      "score": -0.2910242999451805,
+      "horse_number": 13,
+      "odds": 10.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103175",
+      "horse_name": "ダンツアトム",
+      "score": -0.30006563839401346,
+      "horse_number": 6,
+      "odds": 9.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104194",
+      "horse_name": "ベルノレイズ",
+      "score": -0.3420809792991041,
+      "horse_number": 7,
+      "odds": 38.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105687",
+      "horse_name": "オーサムユニバンス",
+      "score": -0.49933073213705514,
+      "horse_number": 9,
+      "odds": 37.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104570",
+      "horse_name": "ルージュクレセント",
+      "score": -0.5037834101105955,
+      "horse_number": 12,
+      "odds": 30.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022107149",
+      "horse_name": "ヴォラヴィア",
+      "score": -0.5541666713366156,
+      "horse_number": 11,
+      "odds": 17.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105967",
+      "horse_name": "サンライズアレス",
+      "score": -0.651785207148711,
+      "horse_number": 14,
+      "odds": 38.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105472",
+      "horse_name": "オレノアイバ",
+      "score": -0.7560238565797833,
+      "horse_number": 1,
+      "odds": 31.6
+    }
+  ]
+}

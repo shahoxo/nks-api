@@ -1,0 +1,104 @@
+{
+  "race_id": "202502011008",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-13 13:45",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104967",
+      "horse_name": "サトノシャムロック",
+      "score": 0.28511495211455345,
+      "horse_number": 3,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102218",
+      "horse_name": "サンライズバレット",
+      "score": 0.19820222864464332,
+      "horse_number": 7,
+      "odds": 2.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100165",
+      "horse_name": "フォルテフィオーレ",
+      "score": 0.06311898667012157,
+      "horse_number": 10,
+      "odds": 9.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103502",
+      "horse_name": "アイウィル",
+      "score": -0.051349806047445115,
+      "horse_number": 11,
+      "odds": 5.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103378",
+      "horse_name": "サトノルクソン",
+      "score": -0.28715224526385297,
+      "horse_number": 4,
+      "odds": 12.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104295",
+      "horse_name": "トモジャザーン",
+      "score": -0.4511838694496758,
+      "horse_number": 6,
+      "odds": 22.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103425",
+      "horse_name": "サノノアメリカン",
+      "score": -0.4844737687648436,
+      "horse_number": 12,
+      "odds": 34.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103909",
+      "horse_name": "ショウナンアトレ",
+      "score": -0.5529868887808679,
+      "horse_number": 1,
+      "odds": 19.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105772",
+      "horse_name": "ホウオウバローロ",
+      "score": -0.5786317696138015,
+      "horse_number": 9,
+      "odds": 21.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106370",
+      "horse_name": "チェイスザウィンド",
+      "score": -0.5808237938692197,
+      "horse_number": 5,
+      "odds": 80.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019106972",
+      "horse_name": "ロストボール",
+      "score": -0.5808237938692197,
+      "horse_number": 2,
+      "odds": 74.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106357",
+      "horse_name": "トップオンザヒル",
+      "score": -0.6887521558175991,
+      "horse_number": 8,
+      "odds": 37.5
+    }
+  ]
+}
