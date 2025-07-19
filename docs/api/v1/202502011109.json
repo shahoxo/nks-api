@@ -1,0 +1,120 @@
+{
+  "race_id": "202502011109",
+  "race_name": "湯浜特別",
+  "race_time": "2025-07-19 14:15",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101230",
+      "horse_name": "インパクトシー",
+      "score": 0.2832474066075016,
+      "horse_number": 3,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104094",
+      "horse_name": "サクラファレル",
+      "score": 0.2705902956594095,
+      "horse_number": 2,
+      "odds": 2.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105037",
+      "horse_name": "サトノブリジャール",
+      "score": 0.2280001692885762,
+      "horse_number": 6,
+      "odds": 9.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104092",
+      "horse_name": "サクラアドリア",
+      "score": 0.14187354322849163,
+      "horse_number": 11,
+      "odds": 26.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101639",
+      "horse_name": "ソルトブリーズ",
+      "score": 0.08775012375585267,
+      "horse_number": 8,
+      "odds": 18.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101102",
+      "horse_name": "ウインポセイドン",
+      "score": 0.05368851351744392,
+      "horse_number": 7,
+      "odds": 17.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101304",
+      "horse_name": "サンウリエル",
+      "score": -0.037600045845349324,
+      "horse_number": 14,
+      "odds": 37.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104752",
+      "horse_name": "ラウダブル",
+      "score": -0.07283664877337595,
+      "horse_number": 10,
+      "odds": 36.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101618",
+      "horse_name": "スペシャルバニー",
+      "score": -0.10112660255144049,
+      "horse_number": 12,
+      "odds": 43.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102135",
+      "horse_name": "ゴーゴータカシ",
+      "score": -0.12074715821077484,
+      "horse_number": 9,
+      "odds": 14.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105345",
+      "horse_name": "シンゼンカガ",
+      "score": -0.19813241825709116,
+      "horse_number": 1,
+      "odds": 13.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102957",
+      "horse_name": "ヴィーナスバブル",
+      "score": -0.2958778829014813,
+      "horse_number": 4,
+      "odds": 98.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103651",
+      "horse_name": "ツーエムクロノス",
+      "score": -0.453734498625574,
+      "horse_number": 5,
+      "odds": 32.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102803",
+      "horse_name": "エリム",
+      "score": -0.5945546677764488,
+      "horse_number": 13,
+      "odds": 175.6
+    }
+  ]
+}

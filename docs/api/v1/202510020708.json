@@ -1,0 +1,88 @@
+{
+  "race_id": "202510020708",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-19 13:55",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102500",
+      "horse_name": "マトラコーニッシュ",
+      "score": 0.13545311936804433,
+      "horse_number": 1,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101411",
+      "horse_name": "サタデーサンライズ",
+      "score": 0.06457225268081948,
+      "horse_number": 7,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100381",
+      "horse_name": "オリバナム",
+      "score": 0.0590350760975485,
+      "horse_number": 10,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105274",
+      "horse_name": "サイレントグルーヴ",
+      "score": 0.05057515313181498,
+      "horse_number": 9,
+      "odds": 3.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105190",
+      "horse_name": "ブルーミングローズ",
+      "score": 0.0015996251373259027,
+      "horse_number": 2,
+      "odds": 12.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100128",
+      "horse_name": "サラダ",
+      "score": -0.0732883922352108,
+      "horse_number": 3,
+      "odds": 11.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106618",
+      "horse_name": "マハナ",
+      "score": -0.2542255312548292,
+      "horse_number": 6,
+      "odds": 57.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104901",
+      "horse_name": "モルティフレーバー",
+      "score": -0.33042580930309406,
+      "horse_number": 8,
+      "odds": 5.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105536",
+      "horse_name": "ルージュサリナス",
+      "score": -0.4632843773503156,
+      "horse_number": 4,
+      "odds": 37.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018103603",
+      "horse_name": "グラヴィテ",
+      "score": -0.5399836791092184,
+      "horse_number": 5,
+      "odds": 52.9
+    }
+  ]
+}
