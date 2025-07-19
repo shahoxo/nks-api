@@ -1,0 +1,136 @@
+{
+  "race_id": "202502011112",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-19 16:05",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110038",
+      "horse_name": "ミクストベリーズ",
+      "score": 0.18186404743939807,
+      "horse_number": 9,
+      "odds": 7.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100958",
+      "horse_name": "ビッグフラワー",
+      "score": 0.11822344434514122,
+      "horse_number": 12,
+      "odds": 15.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102164",
+      "horse_name": "ドランクマン",
+      "score": 0.0761345744564312,
+      "horse_number": 16,
+      "odds": 23.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110012",
+      "horse_name": "マジカルシャイン",
+      "score": 0.0446007844641664,
+      "horse_number": 6,
+      "odds": 3.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100707",
+      "horse_name": "クレセントウイング",
+      "score": -0.006585273753142522,
+      "horse_number": 3,
+      "odds": 9.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102952",
+      "horse_name": "オベイユアマスター",
+      "score": -0.016280217942038308,
+      "horse_number": 11,
+      "odds": 18.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104174",
+      "horse_name": "マジカルフェアリー",
+      "score": -0.025094314810659227,
+      "horse_number": 4,
+      "odds": 5.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104739",
+      "horse_name": "ランスオブサウンド",
+      "score": -0.24759524479205608,
+      "horse_number": 1,
+      "odds": 26.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105260",
+      "horse_name": "ラセーヌシュメール",
+      "score": -0.25150633358384333,
+      "horse_number": 2,
+      "odds": 10.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100460",
+      "horse_name": "スマッシュアウト",
+      "score": -0.2954174464582803,
+      "horse_number": 15,
+      "odds": 7.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105172",
+      "horse_name": "エスペラント",
+      "score": -0.3988038077009487,
+      "horse_number": 14,
+      "odds": 26.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102749",
+      "horse_name": "ヴィヴァラリス",
+      "score": -0.4314322742360587,
+      "horse_number": 13,
+      "odds": 33.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2017104266",
+      "horse_name": "カップッチョ",
+      "score": -0.5077361470676942,
+      "horse_number": 10,
+      "odds": 44.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100759",
+      "horse_name": "アルマロクザン",
+      "score": -0.5808237938692197,
+      "horse_number": 5,
+      "odds": 60.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104589",
+      "horse_name": "ジーティースピカ",
+      "score": -0.6118079766234411,
+      "horse_number": 7,
+      "odds": 107.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106336",
+      "horse_name": "ゴレイジョウ",
+      "score": -0.6318373387288261,
+      "horse_number": 8,
+      "odds": 57.9
+    }
+  ]
+}
