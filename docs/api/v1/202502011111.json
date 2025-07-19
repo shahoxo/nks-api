@@ -1,0 +1,120 @@
+{
+  "race_id": "202502011111",
+  "race_name": "マリーンS",
+  "race_time": "2025-07-19 15:25",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105926",
+      "horse_name": "レディントン",
+      "score": 0.3413410319068941,
+      "horse_number": 8,
+      "odds": 6.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100561",
+      "horse_name": "ハビレ",
+      "score": 0.3349218441664108,
+      "horse_number": 6,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020104661",
+      "horse_name": "ダンテバローズ",
+      "score": 0.22537132482634104,
+      "horse_number": 13,
+      "odds": 4.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021107001",
+      "horse_name": "ピュアキアン",
+      "score": 0.06507990573204751,
+      "horse_number": 3,
+      "odds": 8.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019101324",
+      "horse_name": "テーオードレフォン",
+      "score": 0.032719051574943536,
+      "horse_number": 2,
+      "odds": 6.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019100286",
+      "horse_name": "カンピオーネ",
+      "score": -0.01573124689610057,
+      "horse_number": 1,
+      "odds": 33.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018110126",
+      "horse_name": "ジャスパーゴールド",
+      "score": -0.07624464080351719,
+      "horse_number": 11,
+      "odds": 37.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105939",
+      "horse_name": "ナチュラルハイ",
+      "score": -0.15354598730525804,
+      "horse_number": 14,
+      "odds": 12.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103148",
+      "horse_name": "ショウナンライシン",
+      "score": -0.1902605035578338,
+      "horse_number": 5,
+      "odds": 33.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102737",
+      "horse_name": "マリアナトレンチ",
+      "score": -0.19337548644692037,
+      "horse_number": 10,
+      "odds": 32.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018101267",
+      "horse_name": "ワールドタキオン",
+      "score": -0.247589535500428,
+      "horse_number": 4,
+      "odds": 11.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102095",
+      "horse_name": "ペプチドソレイユ",
+      "score": -0.4090742576819677,
+      "horse_number": 7,
+      "odds": 18.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019100684",
+      "horse_name": "ボルザコフスキー",
+      "score": -0.4452829168734702,
+      "horse_number": 9,
+      "odds": 75.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100150",
+      "horse_name": "クラヴィコード",
+      "score": -0.6277410453752261,
+      "horse_number": 12,
+      "odds": 44.7
+    }
+  ]
+}

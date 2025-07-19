@@ -1,0 +1,144 @@
+{
+  "race_id": "202510020711",
+  "race_name": "テレQ杯",
+  "race_time": "2025-07-19 15:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101598",
+      "horse_name": "アンクルクロス",
+      "score": 0.3778491250601629,
+      "horse_number": 7,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104941",
+      "horse_name": "セシリエプラージュ",
+      "score": 0.3317204380947415,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2018104633",
+      "horse_name": "テーオーダヴィンチ",
+      "score": 0.24318497440050646,
+      "horse_number": 5,
+      "odds": 28.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105880",
+      "horse_name": "レッドエヴァンス",
+      "score": 0.1974579894372993,
+      "horse_number": 15,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103284",
+      "horse_name": "トールキン",
+      "score": 0.1342015314251535,
+      "horse_number": 14,
+      "odds": 15.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105771",
+      "horse_name": "ミルテンベルク",
+      "score": 0.12052273962576626,
+      "horse_number": 4,
+      "odds": 4.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019102458",
+      "horse_name": "ワンダーキサラ",
+      "score": -0.007681975574528881,
+      "horse_number": 16,
+      "odds": 18.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020110068",
+      "horse_name": "エイムインライフ",
+      "score": -0.015888537054953158,
+      "horse_number": 1,
+      "odds": 21.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104616",
+      "horse_name": "パクスロマーナ",
+      "score": -0.020429047646233472,
+      "horse_number": 13,
+      "odds": 14.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020105484",
+      "horse_name": "ニシノコウダイ",
+      "score": -0.039185158457085874,
+      "horse_number": 11,
+      "odds": 30.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101872",
+      "horse_name": "デイトナモード",
+      "score": -0.08202210696614885,
+      "horse_number": 9,
+      "odds": 20.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018106552",
+      "horse_name": "メイショウフンケイ",
+      "score": -0.136308492226891,
+      "horse_number": 8,
+      "odds": 38.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105449",
+      "horse_name": "アルトシュタット",
+      "score": -0.21826937334348132,
+      "horse_number": 12,
+      "odds": 30.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020103061",
+      "horse_name": "シュタールヴィント",
+      "score": -0.23043183574459844,
+      "horse_number": 17,
+      "odds": 13.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019104697",
+      "horse_name": "ショウナンマッハ",
+      "score": -0.41044309492870873,
+      "horse_number": 2,
+      "odds": 106.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101792",
+      "horse_name": "プロスペリダード",
+      "score": -0.44473163425565143,
+      "horse_number": 3,
+      "odds": 62.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2019104260",
+      "horse_name": "メイショウクリフト",
+      "score": -0.5031677165030357,
+      "horse_number": 10,
+      "odds": 78.4
+    }
+  ]
+}
