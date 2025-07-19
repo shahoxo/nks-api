@@ -1,0 +1,136 @@
+{
+  "race_id": "202502011105",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-19 12:15",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103548",
+      "horse_name": "ホウオウアーネスト",
+      "score": 0.15022205952218476,
+      "horse_number": 14,
+      "odds": 14.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100625",
+      "horse_name": "ラブリーリディア",
+      "score": 0.07490259335376365,
+      "horse_number": 4,
+      "odds": 3.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105114",
+      "horse_name": "ルージュレアリーズ",
+      "score": 0.07441160975834746,
+      "horse_number": 10,
+      "odds": 8.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106655",
+      "horse_name": "スイートフェアリー",
+      "score": -0.012939166652537925,
+      "horse_number": 15,
+      "odds": 4.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101491",
+      "horse_name": "クックパイン",
+      "score": -0.028662789184387045,
+      "horse_number": 13,
+      "odds": 6.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105806",
+      "horse_name": "アレグランサ",
+      "score": -0.042633114662351174,
+      "horse_number": 2,
+      "odds": 20.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104381",
+      "horse_name": "カズナリ",
+      "score": -0.07910870284520657,
+      "horse_number": 16,
+      "odds": 36.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100726",
+      "horse_name": "エリカブルージュ",
+      "score": -0.07968255646255518,
+      "horse_number": 8,
+      "odds": 76.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022110045",
+      "horse_name": "マージャング",
+      "score": -0.09251045845893655,
+      "horse_number": 3,
+      "odds": 49.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100325",
+      "horse_name": "ハクサンミラクル",
+      "score": -0.21300618271011532,
+      "horse_number": 9,
+      "odds": 11.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022110076",
+      "horse_name": "クランドゥイユ",
+      "score": -0.29154822016124193,
+      "horse_number": 12,
+      "odds": 12.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103860",
+      "horse_name": "コンスピラシー",
+      "score": -0.30423115724691063,
+      "horse_number": 1,
+      "odds": 39.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103020",
+      "horse_name": "スペースリーガ",
+      "score": -0.3957678002112279,
+      "horse_number": 7,
+      "odds": 146.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102426",
+      "horse_name": "フィナルフェリス",
+      "score": -0.44456923437255846,
+      "horse_number": 5,
+      "odds": 28.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106809",
+      "horse_name": "リュウゼツラン",
+      "score": -0.5218991179819141,
+      "horse_number": 6,
+      "odds": 14.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022105089",
+      "horse_name": "レイナサグラーダ",
+      "score": -0.6294227478291236,
+      "horse_number": 11,
+      "odds": 58.2
+    }
+  ]
+}
