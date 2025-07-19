@@ -1,0 +1,104 @@
+{
+  "race_id": "202502011102",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-19 10:25",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101985",
+      "horse_name": "フォレストオール",
+      "score": -0.06229735400817467,
+      "horse_number": 6,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103930",
+      "horse_name": "ハイエンドモデル",
+      "score": -0.14585366163859143,
+      "horse_number": 1,
+      "odds": 2.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101092",
+      "horse_name": "エーデルムート",
+      "score": -0.16107709928773906,
+      "horse_number": 4,
+      "odds": 32.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104505",
+      "horse_name": "タマゴ",
+      "score": -0.24054753969508177,
+      "horse_number": 7,
+      "odds": 3.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101418",
+      "horse_name": "レストプレドゥモア",
+      "score": -0.2597331515237873,
+      "horse_number": 10,
+      "odds": 6.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100004",
+      "horse_name": "バスキュラリティ",
+      "score": -0.280971518105669,
+      "horse_number": 8,
+      "odds": 60.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104646",
+      "horse_name": "プレインコート",
+      "score": -0.41119355623989734,
+      "horse_number": 5,
+      "odds": 21.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102555",
+      "horse_name": "フルグライト",
+      "score": -0.47998845141151714,
+      "horse_number": 12,
+      "odds": 19.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101506",
+      "horse_name": "メイショウユウモウ",
+      "score": -0.4804647791720582,
+      "horse_number": 2,
+      "odds": 39.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100423",
+      "horse_name": "オンサイト",
+      "score": -0.5801384648901529,
+      "horse_number": 3,
+      "odds": 27.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102225",
+      "horse_name": "テーオーリップマン",
+      "score": -0.6486332408541884,
+      "horse_number": 9,
+      "odds": 54.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104343",
+      "horse_name": "ブラックエンパイア",
+      "score": -0.7560238565797833,
+      "horse_number": 11,
+      "odds": 96.6
+    }
+  ]
+}
