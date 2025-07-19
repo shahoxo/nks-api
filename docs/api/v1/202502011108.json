@@ -1,0 +1,88 @@
+{
+  "race_id": "202502011108",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-19 13:45",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102896",
+      "horse_name": "ハミルトン",
+      "score": 0.2321718902413032,
+      "horse_number": 1,
+      "odds": 12.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103778",
+      "horse_name": "ライフゲート",
+      "score": 0.21469128369439827,
+      "horse_number": 8,
+      "odds": 2.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103704",
+      "horse_name": "アスゴッド",
+      "score": 0.14338824108977077,
+      "horse_number": 6,
+      "odds": 12.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102980",
+      "horse_name": "メイショウソムリエ",
+      "score": 0.07318578517686491,
+      "horse_number": 2,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101250",
+      "horse_name": "ランスノーブル",
+      "score": 0.029652979454731304,
+      "horse_number": 7,
+      "odds": 23.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102828",
+      "horse_name": "メイショウタイピン",
+      "score": -0.02628563897349947,
+      "horse_number": 4,
+      "odds": 10.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100572",
+      "horse_name": "ルルシュシュ",
+      "score": -0.05544642072977058,
+      "horse_number": 10,
+      "odds": 13.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105262",
+      "horse_name": "カペルブリュッケ",
+      "score": -0.06490547041671099,
+      "horse_number": 9,
+      "odds": 3.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106520",
+      "horse_name": "スノーホルンロード",
+      "score": -0.22247644255052088,
+      "horse_number": 3,
+      "odds": 71.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104563",
+      "horse_name": "タイムレス",
+      "score": -0.693384125709968,
+      "horse_number": 5,
+      "odds": 85.0
+    }
+  ]
+}

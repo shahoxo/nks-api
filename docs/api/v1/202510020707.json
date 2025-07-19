@@ -1,0 +1,80 @@
+{
+  "race_id": "202510020707",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-19 13:25",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106389",
+      "horse_name": "ベルビースタローン",
+      "score": 0.4187699600781988,
+      "horse_number": 6,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100357",
+      "horse_name": "デボラ",
+      "score": 0.08240412001750612,
+      "horse_number": 9,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104929",
+      "horse_name": "バニーラビット",
+      "score": -0.019215502825277633,
+      "horse_number": 7,
+      "odds": 13.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106470",
+      "horse_name": "アンダースコア",
+      "score": -0.10374395777862315,
+      "horse_number": 1,
+      "odds": 17.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103932",
+      "horse_name": "ジェニファー",
+      "score": -0.14451695789012134,
+      "horse_number": 2,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101825",
+      "horse_name": "ナムライリス",
+      "score": -0.16234811741708424,
+      "horse_number": 5,
+      "odds": 10.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101229",
+      "horse_name": "レディメローラ",
+      "score": -0.19664808011443613,
+      "horse_number": 3,
+      "odds": 23.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105996",
+      "horse_name": "ファルシオン",
+      "score": -0.3240991041744799,
+      "horse_number": 4,
+      "odds": 36.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102665",
+      "horse_name": "ミジョカスマイル",
+      "score": -0.5874277606289595,
+      "horse_number": 8,
+      "odds": 116.8
+    }
+  ]
+}

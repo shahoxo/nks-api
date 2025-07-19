@@ -1,0 +1,136 @@
+{
+  "race_id": "202502011107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-19 13:15",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104998",
+      "horse_name": "ブルーアイドガール",
+      "score": 0.268878316251612,
+      "horse_number": 2,
+      "odds": 5.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103975",
+      "horse_name": "イリュージョン",
+      "score": 0.07510782071289938,
+      "horse_number": 3,
+      "odds": 24.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102492",
+      "horse_name": "グッバイウェーブ",
+      "score": 0.07427112535822378,
+      "horse_number": 7,
+      "odds": 11.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103707",
+      "horse_name": "エスペシャリー",
+      "score": 0.05602294067346292,
+      "horse_number": 1,
+      "odds": 6.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103493",
+      "horse_name": "イリスアスール",
+      "score": 0.013673998921166684,
+      "horse_number": 11,
+      "odds": 7.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102401",
+      "horse_name": "グランテレーズ",
+      "score": 0.0003356913114011548,
+      "horse_number": 13,
+      "odds": 16.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102050",
+      "horse_name": "サンポーニャ",
+      "score": -0.008809271286190946,
+      "horse_number": 5,
+      "odds": 21.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105814",
+      "horse_name": "エリカエスティーム",
+      "score": -0.046297333936321516,
+      "horse_number": 14,
+      "odds": 9.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100962",
+      "horse_name": "クイーンズデイ",
+      "score": -0.06552928280992665,
+      "horse_number": 16,
+      "odds": 19.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106559",
+      "horse_name": "クインズスピカ",
+      "score": -0.09257020129389135,
+      "horse_number": 12,
+      "odds": 7.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105312",
+      "horse_name": "ルージュレベッカ",
+      "score": -0.1917140792847841,
+      "horse_number": 6,
+      "odds": 15.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100362",
+      "horse_name": "ホウオウドルーリー",
+      "score": -0.2804205008577297,
+      "horse_number": 9,
+      "odds": 32.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100443",
+      "horse_name": "エイシンオニキス",
+      "score": -0.2827899647670797,
+      "horse_number": 10,
+      "odds": 29.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104824",
+      "horse_name": "シンデレラスマイル",
+      "score": -0.3697076464595273,
+      "horse_number": 4,
+      "odds": 49.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103316",
+      "horse_name": "キタノクニカラ",
+      "score": -0.3874729967522659,
+      "horse_number": 8,
+      "odds": 10.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022107254",
+      "horse_name": "エンプレスフレーム",
+      "score": -0.5466820779581654,
+      "horse_number": 15,
+      "odds": 89.0
+    }
+  ]
+}

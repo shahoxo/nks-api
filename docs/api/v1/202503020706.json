@@ -1,0 +1,120 @@
+{
+  "race_id": "202503020706",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-19 13:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105832",
+      "horse_name": "セギレエルビエント",
+      "score": 0.30744564587395984,
+      "horse_number": 8,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101386",
+      "horse_name": "ホシニネガイヲ",
+      "score": 0.18144475882475292,
+      "horse_number": 10,
+      "odds": 18.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105982",
+      "horse_name": "ラルガメンテ",
+      "score": 0.16717500104638527,
+      "horse_number": 7,
+      "odds": 7.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105225",
+      "horse_name": "レディーフランシス",
+      "score": 0.16625722081830793,
+      "horse_number": 2,
+      "odds": 7.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104512",
+      "horse_name": "タマモカンパネラ",
+      "score": 0.038381256077718875,
+      "horse_number": 5,
+      "odds": 10.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104996",
+      "horse_name": "フィザルモニカ",
+      "score": -0.1308381583318685,
+      "horse_number": 1,
+      "odds": 10.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105803",
+      "horse_name": "パースウェイド",
+      "score": -0.3318070576275607,
+      "horse_number": 11,
+      "odds": 3.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105925",
+      "horse_name": "フィールオーサム",
+      "score": -0.3376106517019257,
+      "horse_number": 14,
+      "odds": 20.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100432",
+      "horse_name": "オーケーマヒナ",
+      "score": -0.4791103320071868,
+      "horse_number": 9,
+      "odds": 13.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101002",
+      "horse_name": "ミランカ",
+      "score": -0.5743061578561683,
+      "horse_number": 4,
+      "odds": 43.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019106416",
+      "horse_name": "キセキノエンジェル",
+      "score": -0.5768133336183507,
+      "horse_number": 12,
+      "odds": 88.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100540",
+      "horse_name": "アルプスオジョー",
+      "score": -0.6746403448295699,
+      "horse_number": 3,
+      "odds": 25.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100833",
+      "horse_name": "エンピリカルルール",
+      "score": -0.6746403448295699,
+      "horse_number": 13,
+      "odds": 133.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105294",
+      "horse_name": "ウェルキン",
+      "score": -0.7344997899121097,
+      "horse_number": 6,
+      "odds": 79.3
+    }
+  ]
+}
