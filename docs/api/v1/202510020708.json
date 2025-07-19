@@ -10,7 +10,7 @@
       "horse_name": "マトラコーニッシュ",
       "score": 0.13545311936804433,
       "horse_number": 1,
-      "odds": 4.2
+      "odds": 4.0
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "サタデーサンライズ",
       "score": 0.06457225268081948,
       "horse_number": 7,
-      "odds": 5.1
+      "odds": 3.6
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "オリバナム",
       "score": 0.0590350760975485,
       "horse_number": 10,
-      "odds": 6.8
+      "odds": 6.3
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "サイレントグルーヴ",
       "score": 0.05057515313181498,
       "horse_number": 9,
-      "odds": 3.8
+      "odds": 4.8
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "ブルーミングローズ",
       "score": 0.0015996251373259027,
       "horse_number": 2,
-      "odds": 12.5
+      "odds": 12.6
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "サラダ",
       "score": -0.0732883922352108,
       "horse_number": 3,
-      "odds": 11.7
+      "odds": 10.3
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "マハナ",
       "score": -0.2542255312548292,
       "horse_number": 6,
-      "odds": 57.8
+      "odds": 52.5
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "モルティフレーバー",
       "score": -0.33042580930309406,
       "horse_number": 8,
-      "odds": 5.3
+      "odds": 7.3
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "ルージュサリナス",
       "score": -0.4632843773503156,
       "horse_number": 4,
-      "odds": 37.1
+      "odds": 56.2
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "グラヴィテ",
       "score": -0.5399836791092184,
       "horse_number": 5,
-      "odds": 52.9
+      "odds": 54.4
     }
   ]
 }

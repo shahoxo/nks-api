@@ -1,0 +1,152 @@
+{
+  "race_id": "202510020709",
+  "race_name": "ひまわり賞",
+  "race_time": "2025-07-19 14:25",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023109164",
+      "horse_name": "アンヘリータス",
+      "score": 0.3473477767519473,
+      "horse_number": 12,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023109092",
+      "horse_name": "2023109092",
+      "score": 0.07381364749345981,
+      "horse_number": 6,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023109161",
+      "horse_name": "エイシンディアマン",
+      "score": -0.055363473232235776,
+      "horse_number": 17,
+      "odds": 17.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023109106",
+      "horse_name": "ダイチノナポリ",
+      "score": -0.1479703632180173,
+      "horse_number": 8,
+      "odds": 23.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023109140",
+      "horse_name": "コウユーネロガ",
+      "score": -0.17643467185275236,
+      "horse_number": 11,
+      "odds": 19.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023109173",
+      "horse_name": "ニシノメイホウ",
+      "score": -0.1994600450528951,
+      "horse_number": 13,
+      "odds": 14.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023109111",
+      "horse_name": "ナンテヒダ",
+      "score": -0.2627721262904467,
+      "horse_number": 4,
+      "odds": 54.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023109118",
+      "horse_name": "2023109118",
+      "score": -0.3388715110441979,
+      "horse_number": 10,
+      "odds": 98.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023109174",
+      "horse_name": "ラムールデュヴォン",
+      "score": -0.4310388004518232,
+      "horse_number": 3,
+      "odds": 69.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023109090",
+      "horse_name": "アクティングエリア",
+      "score": -0.44941745443496844,
+      "horse_number": 18,
+      "odds": 40.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023109117",
+      "horse_name": "2023109117",
+      "score": -0.5669510245912344,
+      "horse_number": 1,
+      "odds": 1.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023109089",
+      "horse_name": "アメアメフレフレ",
+      "score": -0.6064563796912321,
+      "horse_number": 2,
+      "odds": 65.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023109094",
+      "horse_name": "2023109094",
+      "score": -0.610574069818645,
+      "horse_number": 9,
+      "odds": 109.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023109087",
+      "horse_name": "アポロマインド",
+      "score": -0.6174110976500905,
+      "horse_number": 5,
+      "odds": 107.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023109109",
+      "horse_name": "ダイラントウ",
+      "score": -0.6208651998245104,
+      "horse_number": 16,
+      "odds": 118.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023109128",
+      "horse_name": "カシノサスケ",
+      "score": -0.6533614053964997,
+      "horse_number": 14,
+      "odds": 140.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023109103",
+      "horse_name": "カシノユメミヅキ",
+      "score": -0.6533614053964997,
+      "horse_number": 7,
+      "odds": 151.4
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023109138",
+      "horse_name": "2023109138",
+      "score": -0.6558303774316132,
+      "horse_number": 15,
+      "odds": 78.3
+    }
+  ]
+}
