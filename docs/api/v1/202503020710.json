@@ -1,0 +1,136 @@
+{
+  "race_id": "202503020710",
+  "race_name": "米沢特別",
+  "race_time": "2025-07-19 15:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102790",
+      "horse_name": "カネショウレジェン",
+      "score": 0.08701738433300538,
+      "horse_number": 12,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020101610",
+      "horse_name": "ルージュアズライト",
+      "score": 0.02859216075219711,
+      "horse_number": 10,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102462",
+      "horse_name": "ワークソング",
+      "score": 0.0034909388222791864,
+      "horse_number": 3,
+      "odds": 6.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102154",
+      "horse_name": "アスクアイルビゼア",
+      "score": -0.003961099741401928,
+      "horse_number": 5,
+      "odds": 6.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101833",
+      "horse_name": "イナフセド",
+      "score": -0.014481609869455065,
+      "horse_number": 1,
+      "odds": 13.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106305",
+      "horse_name": "ランウインディ",
+      "score": -0.2494215444495537,
+      "horse_number": 9,
+      "odds": 23.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100899",
+      "horse_name": "ビッグドリーム",
+      "score": -0.2558875315075096,
+      "horse_number": 6,
+      "odds": 8.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101230",
+      "horse_name": "ヤングワールド",
+      "score": -0.3234051122743731,
+      "horse_number": 8,
+      "odds": 97.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019101351",
+      "horse_name": "セキテイオー",
+      "score": -0.4198899994554798,
+      "horse_number": 11,
+      "odds": 18.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103931",
+      "horse_name": "ヴィクトリーロード",
+      "score": -0.4211234764430186,
+      "horse_number": 16,
+      "odds": 52.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100187",
+      "horse_name": "ニシノクラウン",
+      "score": -0.4268527077386599,
+      "horse_number": 14,
+      "odds": 22.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103710",
+      "horse_name": "ヘルメース",
+      "score": -0.4336357893131446,
+      "horse_number": 7,
+      "odds": 22.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019100566",
+      "horse_name": "ミロワール",
+      "score": -0.45458165425373875,
+      "horse_number": 4,
+      "odds": 18.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103598",
+      "horse_name": "ブライトルピナス",
+      "score": -0.4628873137681647,
+      "horse_number": 13,
+      "odds": 50.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018102394",
+      "horse_name": "ロイヤルダンス",
+      "score": -0.570473164606404,
+      "horse_number": 2,
+      "odds": 97.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020100639",
+      "horse_name": "サイモンギフト",
+      "score": -0.6970415147616792,
+      "horse_number": 15,
+      "odds": 56.0
+    }
+  ]
+}

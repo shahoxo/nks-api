@@ -1,0 +1,120 @@
+{
+  "race_id": "202502011110",
+  "race_name": "かもめ島特別",
+  "race_time": "2025-07-19 14:50",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021106904",
+      "horse_name": "レイピカケ",
+      "score": 0.28886971819153323,
+      "horse_number": 9,
+      "odds": 9.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105369",
+      "horse_name": "ジョイフルニュース",
+      "score": 0.2697243407136619,
+      "horse_number": 3,
+      "odds": 2.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104189",
+      "horse_name": "テリオスサラ",
+      "score": 0.1625716866349287,
+      "horse_number": 11,
+      "odds": 14.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101485",
+      "horse_name": "カテリーナ",
+      "score": 0.10726082134411143,
+      "horse_number": 14,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103929",
+      "horse_name": "オルノア",
+      "score": 0.09313113671132961,
+      "horse_number": 5,
+      "odds": 13.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105183",
+      "horse_name": "ウインルピナス",
+      "score": 0.08943543594689746,
+      "horse_number": 10,
+      "odds": 23.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103519",
+      "horse_name": "リラボニート",
+      "score": 0.06927075079743159,
+      "horse_number": 7,
+      "odds": 9.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103955",
+      "horse_name": "ルーチェロッサ",
+      "score": -0.01987749433085656,
+      "horse_number": 12,
+      "odds": 18.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106993",
+      "horse_name": "サクソンジェンヌ",
+      "score": -0.1253744724693836,
+      "horse_number": 4,
+      "odds": 15.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106826",
+      "horse_name": "レッセパッセ",
+      "score": -0.13897580465482043,
+      "horse_number": 13,
+      "odds": 85.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106966",
+      "horse_name": "ピンクジン",
+      "score": -0.16054656207941354,
+      "horse_number": 8,
+      "odds": 29.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101288",
+      "horse_name": "ナムララジベラ",
+      "score": -0.2225948789742751,
+      "horse_number": 1,
+      "odds": 53.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103742",
+      "horse_name": "ムガ",
+      "score": -0.3790805160116826,
+      "horse_number": 2,
+      "odds": 79.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102653",
+      "horse_name": "コスモディナー",
+      "score": -0.49166178710843034,
+      "horse_number": 6,
+      "odds": 40.4
+    }
+  ]
+}

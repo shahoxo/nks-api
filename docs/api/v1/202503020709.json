@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2022104930",
       "horse_name": "ビリングス",
-      "score": 0.3019753616627638,
+      "score": 0.2683172823378525,
       "horse_number": 3,
       "odds": 3.1
     },
@@ -22,25 +22,25 @@
     },
     {
       "rank": 3,
-      "horse_id": "2021105214",
-      "horse_name": "モアナフリューゲル",
-      "score": -0.009736279397616246,
-      "horse_number": 7,
-      "odds": 11.9
+      "horse_id": "2019105807",
+      "horse_name": "ルークスヘリオス",
+      "score": -0.013703669926313354,
+      "horse_number": 4,
+      "odds": 8.2
     },
     {
       "rank": 4,
-      "horse_id": "2019105807",
-      "horse_name": "ルークスヘリオス",
-      "score": -0.05817429263843043,
-      "horse_number": 4,
-      "odds": 8.2
+      "horse_id": "2021105214",
+      "horse_name": "モアナフリューゲル",
+      "score": -0.07489655705698833,
+      "horse_number": 7,
+      "odds": 11.9
     },
     {
       "rank": 5,
       "horse_id": "2022105175",
       "horse_name": "フィーリウス",
-      "score": -0.1223952432689519,
+      "score": -0.09318666831070938,
       "horse_number": 5,
       "odds": 3.6
     },
@@ -48,7 +48,7 @@
       "rank": 6,
       "horse_id": "2021100151",
       "horse_name": "ロードアフェット",
-      "score": -0.2566370894951965,
+      "score": -0.34165886952017227,
       "horse_number": 1,
       "odds": 20.0
     },
@@ -56,7 +56,7 @@
       "rank": 7,
       "horse_id": "2022102306",
       "horse_name": "ハチワレ",
-      "score": -0.41927213595513546,
+      "score": -0.48251211222845614,
       "horse_number": 8,
       "odds": 9.6
     },

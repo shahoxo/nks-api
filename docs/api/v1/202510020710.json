@@ -1,0 +1,136 @@
+{
+  "race_id": "202510020710",
+  "race_name": "熊本城特別",
+  "race_time": "2025-07-19 15:01",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103189",
+      "horse_name": "レッドダンルース",
+      "score": 0.1941761098227199,
+      "horse_number": 11,
+      "odds": 6.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102924",
+      "horse_name": "イサナ",
+      "score": 0.15858713549423284,
+      "horse_number": 3,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105783",
+      "horse_name": "ネーヴェフレスカ",
+      "score": 0.0596476517426512,
+      "horse_number": 9,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110069",
+      "horse_name": "ジューンエオス",
+      "score": 0.020927899928812027,
+      "horse_number": 16,
+      "odds": 10.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103154",
+      "horse_name": "メイショウカシワデ",
+      "score": -0.006671210452006045,
+      "horse_number": 6,
+      "odds": 11.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104628",
+      "horse_name": "レイナデアルシーラ",
+      "score": -0.04079858741855016,
+      "horse_number": 15,
+      "odds": 4.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100681",
+      "horse_name": "ジーニアスバローズ",
+      "score": -0.09086188684384341,
+      "horse_number": 10,
+      "odds": 18.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104791",
+      "horse_name": "プウスカンドゥール",
+      "score": -0.09133002256032824,
+      "horse_number": 13,
+      "odds": 31.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103125",
+      "horse_name": "コパノアントニオ",
+      "score": -0.330745906741876,
+      "horse_number": 5,
+      "odds": 9.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104197",
+      "horse_name": "タイセイミニスター",
+      "score": -0.3821029834114684,
+      "horse_number": 2,
+      "odds": 31.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103255",
+      "horse_name": "トゥーテイルズ",
+      "score": -0.4166617944940837,
+      "horse_number": 7,
+      "odds": 48.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018100961",
+      "horse_name": "スカイドゥエラー",
+      "score": -0.525098892138993,
+      "horse_number": 8,
+      "odds": 41.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103556",
+      "horse_name": "サクハル",
+      "score": -0.5494931663403189,
+      "horse_number": 14,
+      "odds": 45.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018103473",
+      "horse_name": "サヴァビアン",
+      "score": -0.570473164606404,
+      "horse_number": 12,
+      "odds": 76.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103045",
+      "horse_name": "マサハヤウォルズ",
+      "score": -0.5867758372926961,
+      "horse_number": 4,
+      "odds": 40.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103574",
+      "horse_name": "インジケーター",
+      "score": -0.6703572214166967,
+      "horse_number": 1,
+      "odds": 44.2
+    }
+  ]
+}
