@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2022110132",
       "horse_name": "ピコテンダー",
-      "score": 0.3129944007474902,
+      "score": 0.34737680204327126,
       "horse_number": 3,
       "odds": 1.2
     },
@@ -16,7 +16,7 @@
       "rank": 2,
       "horse_id": "2022110128",
       "horse_name": "エコロヴァイス",
-      "score": 0.09436689035509625,
+      "score": 0.22254389510426362,
       "horse_number": 4,
       "odds": 5.9
     },
@@ -38,19 +38,19 @@
     },
     {
       "rank": 5,
-      "horse_id": "2021103588",
-      "horse_name": "グラスブランシュ",
-      "score": -0.13498427168485114,
-      "horse_number": 10,
-      "odds": 16.1
+      "horse_id": "2021103041",
+      "horse_name": "アルヴァレス",
+      "score": -0.19017509504722682,
+      "horse_number": 7,
+      "odds": 24.2
     },
     {
       "rank": 6,
-      "horse_id": "2021103041",
-      "horse_name": "アルヴァレス",
-      "score": -0.1902110497909398,
-      "horse_number": 7,
-      "odds": 24.2
+      "horse_id": "2021103588",
+      "horse_name": "グラスブランシュ",
+      "score": -0.20369973417278725,
+      "horse_number": 10,
+      "odds": 16.1
     },
     {
       "rank": 7,
