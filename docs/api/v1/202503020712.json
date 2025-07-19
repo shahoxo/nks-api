@@ -1,0 +1,96 @@
+{
+  "race_id": "202503020712",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-19 16:30",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110132",
+      "horse_name": "ピコテンダー",
+      "score": 0.3129944007474902,
+      "horse_number": 3,
+      "odds": 1.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110128",
+      "horse_name": "エコロヴァイス",
+      "score": 0.09436689035509625,
+      "horse_number": 4,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019101165",
+      "horse_name": "キボウノホシ",
+      "score": 0.03816467705045216,
+      "horse_number": 6,
+      "odds": 21.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101481",
+      "horse_name": "サザンレイク",
+      "score": -0.0633299970780837,
+      "horse_number": 11,
+      "odds": 24.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103588",
+      "horse_name": "グラスブランシュ",
+      "score": -0.13498427168485114,
+      "horse_number": 10,
+      "odds": 16.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103041",
+      "horse_name": "アルヴァレス",
+      "score": -0.1902110497909398,
+      "horse_number": 7,
+      "odds": 24.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101793",
+      "horse_name": "オオゾラヒバリ",
+      "score": -0.3775981891006471,
+      "horse_number": 5,
+      "odds": 83.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110075",
+      "horse_name": "スターチスブーケ",
+      "score": -0.4843244219384072,
+      "horse_number": 8,
+      "odds": 36.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101265",
+      "horse_name": "オコジュ",
+      "score": -0.5672749854715552,
+      "horse_number": 1,
+      "odds": 36.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106994",
+      "horse_name": "ニシノルミリオン",
+      "score": -0.5970618435386312,
+      "horse_number": 9,
+      "odds": 79.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018100099",
+      "horse_name": "アイファーチーター",
+      "score": -0.6997242947219148,
+      "horse_number": 2,
+      "odds": 101.8
+    }
+  ]
+}
