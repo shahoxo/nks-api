@@ -1,0 +1,112 @@
+{
+  "race_id": "202502011209",
+  "race_name": "潮騒特別",
+  "race_time": "2025-07-20 14:15",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101399",
+      "horse_name": "ヴァンヴィーヴ",
+      "score": 0.21129821705200602,
+      "horse_number": 13,
+      "odds": 7.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105718",
+      "horse_name": "リリーフィールド",
+      "score": 0.13541499512483657,
+      "horse_number": 9,
+      "odds": 3.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100365",
+      "horse_name": "トウカイエルデ",
+      "score": 0.11789619390217691,
+      "horse_number": 1,
+      "odds": 15.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101217",
+      "horse_name": "アスクドリームモア",
+      "score": 0.05169771315146963,
+      "horse_number": 7,
+      "odds": 27.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021110165",
+      "horse_name": "ピコアーガイル",
+      "score": 0.02697657097739254,
+      "horse_number": 4,
+      "odds": 7.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100490",
+      "horse_name": "モズナナスター",
+      "score": 0.025205037757167644,
+      "horse_number": 2,
+      "odds": 3.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104675",
+      "horse_name": "アップストローク",
+      "score": -0.00032105465195557317,
+      "horse_number": 10,
+      "odds": 13.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101906",
+      "horse_name": "キョウエイボニータ",
+      "score": -0.006577604185952476,
+      "horse_number": 3,
+      "odds": 17.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100151",
+      "horse_name": "スクルプトーリス",
+      "score": -0.04177757372374157,
+      "horse_number": 11,
+      "odds": 53.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102679",
+      "horse_name": "アニトラ",
+      "score": -0.04286224936190389,
+      "horse_number": 6,
+      "odds": 12.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103632",
+      "horse_name": "スイミーユニバンス",
+      "score": -0.1679459978955804,
+      "horse_number": 12,
+      "odds": 24.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100956",
+      "horse_name": "スーパーマン",
+      "score": -0.33118901648787596,
+      "horse_number": 8,
+      "odds": 96.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019106179",
+      "horse_name": "ハートホイップ",
+      "score": -0.5703027850675314,
+      "horse_number": 5,
+      "odds": 44.6
+    }
+  ]
+}

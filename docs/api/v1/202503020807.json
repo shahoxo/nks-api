@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020807",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-20 13:35",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105966",
+      "horse_name": "アイドル",
+      "score": 0.09825267520090884,
+      "horse_number": 9,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102237",
+      "horse_name": "ダイメイナガス",
+      "score": -0.00263439316408055,
+      "horse_number": 15,
+      "odds": 8.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103185",
+      "horse_name": "ポム",
+      "score": -0.14475842285388235,
+      "horse_number": 11,
+      "odds": 8.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106913",
+      "horse_name": "フランシナテソーロ",
+      "score": -0.15219767218126348,
+      "horse_number": 13,
+      "odds": 12.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103466",
+      "horse_name": "メイデンヘッド",
+      "score": -0.25841598795792287,
+      "horse_number": 6,
+      "odds": 10.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102272",
+      "horse_name": "ウィルマテソーロ",
+      "score": -0.27493826104661245,
+      "horse_number": 5,
+      "odds": 15.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101382",
+      "horse_name": "エレレラナキラ",
+      "score": -0.4121284385165378,
+      "horse_number": 12,
+      "odds": 18.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104007",
+      "horse_name": "2022104007",
+      "score": -0.47293600501096866,
+      "horse_number": 1,
+      "odds": 37.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100043",
+      "horse_name": "アミラジオネ",
+      "score": -0.47639864403357046,
+      "horse_number": 2,
+      "odds": 5.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103526",
+      "horse_name": "ホウオウブライツ",
+      "score": -0.5251013664748073,
+      "horse_number": 14,
+      "odds": 22.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100958",
+      "horse_name": "マミーブルー",
+      "score": -0.6518943205472477,
+      "horse_number": 8,
+      "odds": 34.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100716",
+      "horse_name": "ワンダーレジット",
+      "score": -0.703836440672674,
+      "horse_number": 3,
+      "odds": 71.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102253",
+      "horse_name": "ケイツータンカ",
+      "score": -0.7212483613895885,
+      "horse_number": 7,
+      "odds": 30.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022109143",
+      "horse_name": "スマイルインザサン",
+      "score": -0.7295377203336686,
+      "horse_number": 10,
+      "odds": 44.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101978",
+      "horse_name": "グレートシューター",
+      "score": -0.7344997899121097,
+      "horse_number": 4,
+      "odds": 15.4
+    }
+  ]
+}

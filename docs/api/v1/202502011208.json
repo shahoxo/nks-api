@@ -1,0 +1,80 @@
+{
+  "race_id": "202502011208",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-20 13:45",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022107282",
+      "horse_name": "レクスノヴァス",
+      "score": 0.45151635026411274,
+      "horse_number": 2,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106633",
+      "horse_name": "バルナバ",
+      "score": 0.2643151355186237,
+      "horse_number": 3,
+      "odds": 13.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105449",
+      "horse_name": "コンテソレーラ",
+      "score": 0.0753610965709382,
+      "horse_number": 8,
+      "odds": 6.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103345",
+      "horse_name": "マイファミリー",
+      "score": 0.056967249289531896,
+      "horse_number": 4,
+      "odds": 9.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103288",
+      "horse_name": "ヤコブセン",
+      "score": 0.05015929414723037,
+      "horse_number": 1,
+      "odds": 17.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104413",
+      "horse_name": "マハートマーベル",
+      "score": -0.06844330666812695,
+      "horse_number": 5,
+      "odds": 28.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104891",
+      "horse_name": "オールデュスヴラン",
+      "score": -0.10267838276409669,
+      "horse_number": 6,
+      "odds": 10.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105796",
+      "horse_name": "ペリプルス",
+      "score": -0.3215782626072742,
+      "horse_number": 7,
+      "odds": 17.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104843",
+      "horse_name": "コーラスライン",
+      "score": -0.5400730144379176,
+      "horse_number": 9,
+      "odds": 62.4
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202503020808",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-20 14:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105191",
+      "horse_name": "スペードギニー",
+      "score": 0.26553469229752064,
+      "horse_number": 2,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100274",
+      "horse_name": "マイネルアズーロ",
+      "score": 0.17496925037575037,
+      "horse_number": 1,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105833",
+      "horse_name": "ヴィアトル",
+      "score": -0.17020301647762756,
+      "horse_number": 4,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103014",
+      "horse_name": "ウインバーテックス",
+      "score": -0.33780493835154224,
+      "horse_number": 7,
+      "odds": 8.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101898",
+      "horse_name": "ノブノリオウ",
+      "score": -0.3948527482120935,
+      "horse_number": 3,
+      "odds": 24.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101191",
+      "horse_name": "ポタリング",
+      "score": -0.42465261381222164,
+      "horse_number": 14,
+      "odds": 4.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106795",
+      "horse_name": "ルラクソント",
+      "score": -0.4372830422189705,
+      "horse_number": 10,
+      "odds": 74.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106716",
+      "horse_name": "ワウワウワウ",
+      "score": -0.47639864403357046,
+      "horse_number": 6,
+      "odds": 11.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106042",
+      "horse_name": "ウインエンデバー",
+      "score": -0.4983056401229752,
+      "horse_number": 11,
+      "odds": 54.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100969",
+      "horse_name": "セージブラッシュ",
+      "score": -0.5362964771109334,
+      "horse_number": 9,
+      "odds": 52.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103588",
+      "horse_name": "スノーリン",
+      "score": -0.622384537432268,
+      "horse_number": 8,
+      "odds": 34.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102254",
+      "horse_name": "バークテソーロ",
+      "score": -0.648322624273838,
+      "horse_number": 5,
+      "odds": 54.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106082",
+      "horse_name": "ハンクスター",
+      "score": -0.6513788589745038,
+      "horse_number": 12,
+      "odds": 24.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101857",
+      "horse_name": "クリノフローレンス",
+      "score": -0.7560238565797833,
+      "horse_number": 13,
+      "odds": 136.8
+    }
+  ]
+}

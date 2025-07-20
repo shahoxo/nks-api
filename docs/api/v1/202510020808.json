@@ -1,0 +1,104 @@
+{
+  "race_id": "202510020808",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-20 13:55",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110026",
+      "horse_name": "コウセキ",
+      "score": 0.2604100356356093,
+      "horse_number": 1,
+      "odds": 4.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110023",
+      "horse_name": "エクストラバック",
+      "score": 0.05133488922430308,
+      "horse_number": 7,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101048",
+      "horse_name": "ショウナンラフィネ",
+      "score": -0.13988641725769568,
+      "horse_number": 9,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106206",
+      "horse_name": "ウインラウダ",
+      "score": -0.3109708058177182,
+      "horse_number": 12,
+      "odds": 9.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105011",
+      "horse_name": "リンゲルブルーメ",
+      "score": -0.32284727870127417,
+      "horse_number": 4,
+      "odds": 9.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019100249",
+      "horse_name": "ツッチーフェイス",
+      "score": -0.33699996947529265,
+      "horse_number": 10,
+      "odds": 16.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106756",
+      "horse_name": "ブルーレース",
+      "score": -0.3769023526287877,
+      "horse_number": 5,
+      "odds": 11.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103256",
+      "horse_name": "カフジキアッキエレ",
+      "score": -0.4103991412222418,
+      "horse_number": 2,
+      "odds": 10.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105407",
+      "horse_name": "サニーサルサ",
+      "score": -0.5015819188536125,
+      "horse_number": 11,
+      "odds": 6.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100401",
+      "horse_name": "2022100401",
+      "score": -0.5071126925064392,
+      "horse_number": 3,
+      "odds": 57.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022107258",
+      "horse_name": "ラブアイミー",
+      "score": -0.5731733109185368,
+      "horse_number": 8,
+      "odds": 25.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100801",
+      "horse_name": "サトノランデヴー",
+      "score": -0.5929697636538359,
+      "horse_number": 6,
+      "odds": 48.0
+    }
+  ]
+}
