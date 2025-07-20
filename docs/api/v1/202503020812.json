@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020812",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-20 16:30",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104570",
+      "horse_name": "ラヴアンドライク",
+      "score": 0.30744564587395984,
+      "horse_number": 12,
+      "odds": 6.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103703",
+      "horse_name": "ブルータス",
+      "score": 0.22146554568750937,
+      "horse_number": 10,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102380",
+      "horse_name": "シュレン",
+      "score": 0.0986345565334235,
+      "horse_number": 3,
+      "odds": 11.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105300",
+      "horse_name": "ブリックンクリック",
+      "score": 0.07757336565289168,
+      "horse_number": 14,
+      "odds": 13.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103129",
+      "horse_name": "マリンバンカー",
+      "score": 0.012072947130934042,
+      "horse_number": 5,
+      "odds": 17.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105021",
+      "horse_name": "マテンロウブレイブ",
+      "score": -0.01265642627081054,
+      "horse_number": 9,
+      "odds": 5.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103001",
+      "horse_name": "キレナイカ",
+      "score": -0.04673056111085318,
+      "horse_number": 4,
+      "odds": 53.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019104005",
+      "horse_name": "ブレットフライ",
+      "score": -0.05013590340803284,
+      "horse_number": 6,
+      "odds": 32.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100394",
+      "horse_name": "メリークリスマス",
+      "score": -0.08688833876581159,
+      "horse_number": 7,
+      "odds": 3.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101081",
+      "horse_name": "ラッキーヤース",
+      "score": -0.08893791539969044,
+      "horse_number": 13,
+      "odds": 34.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019106923",
+      "horse_name": "ウッドショック",
+      "score": -0.1968009371819345,
+      "horse_number": 15,
+      "odds": 22.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102097",
+      "horse_name": "チュラビックタイム",
+      "score": -0.27629682179425796,
+      "horse_number": 2,
+      "odds": 37.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103921",
+      "horse_name": "ゴンドワナ",
+      "score": -0.4753236032160829,
+      "horse_number": 1,
+      "odds": 68.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106597",
+      "horse_name": "マッハレイジング",
+      "score": -0.6533614053964997,
+      "horse_number": 11,
+      "odds": 52.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021102798",
+      "horse_name": "サイモンプレジール",
+      "score": -0.6997242947219148,
+      "horse_number": 8,
+      "odds": 106.3
+    }
+  ]
+}

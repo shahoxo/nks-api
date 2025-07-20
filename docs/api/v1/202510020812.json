@@ -1,0 +1,152 @@
+{
+  "race_id": "202510020812",
+  "race_name": "耶馬渓特別",
+  "race_time": "2025-07-20 16:15",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101686",
+      "horse_name": "インブロリオ",
+      "score": 0.2989773248003766,
+      "horse_number": 18,
+      "odds": 5.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103312",
+      "horse_name": "ロードマイライフ",
+      "score": 0.2057446451883193,
+      "horse_number": 17,
+      "odds": 19.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102020",
+      "horse_name": "フリッカージャブ",
+      "score": 0.08304927184292954,
+      "horse_number": 2,
+      "odds": 3.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019110127",
+      "horse_name": "サトノプリエール",
+      "score": 0.06602665508092703,
+      "horse_number": 3,
+      "odds": 21.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021110119",
+      "horse_name": "サンドロナイト",
+      "score": -0.008495225911510647,
+      "horse_number": 11,
+      "odds": 24.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2017102809",
+      "horse_name": "ガリレイ",
+      "score": -0.009867104606253028,
+      "horse_number": 6,
+      "odds": 38.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102939",
+      "horse_name": "アオイレーギーナ",
+      "score": -0.010649808460467546,
+      "horse_number": 8,
+      "odds": 13.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106661",
+      "horse_name": "ヒーローインチーフ",
+      "score": -0.018490394587379694,
+      "horse_number": 1,
+      "odds": 19.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105409",
+      "horse_name": "ディアドコス",
+      "score": -0.04095912571228472,
+      "horse_number": 10,
+      "odds": 23.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106727",
+      "horse_name": "システムリブート",
+      "score": -0.04953898656540978,
+      "horse_number": 16,
+      "odds": 18.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104361",
+      "horse_name": "テーオースパロー",
+      "score": -0.14813599093567542,
+      "horse_number": 9,
+      "odds": 48.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105755",
+      "horse_name": "スリールミニョン",
+      "score": -0.20996820664147997,
+      "horse_number": 14,
+      "odds": 5.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106737",
+      "horse_name": "メイショウコギク",
+      "score": -0.27447203010525417,
+      "horse_number": 4,
+      "odds": 38.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100642",
+      "horse_name": "キャッスルレイク",
+      "score": -0.32284727870127417,
+      "horse_number": 13,
+      "odds": 13.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101763",
+      "horse_name": "トーホウフランゴ",
+      "score": -0.36244851991328836,
+      "horse_number": 12,
+      "odds": 47.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103636",
+      "horse_name": "インテンソ",
+      "score": -0.3687213720343657,
+      "horse_number": 7,
+      "odds": 60.1
+    },
+    {
+      "rank": 17,
+      "horse_id": "2018101951",
+      "horse_name": "タガノスペルノヴァ",
+      "score": -0.396886634847676,
+      "horse_number": 5,
+      "odds": 60.3
+    },
+    {
+      "rank": 18,
+      "horse_id": "2017101767",
+      "horse_name": "ベンガン",
+      "score": -0.39984769143906906,
+      "horse_number": 15,
+      "odds": 50.3
+    }
+  ]
+}
