@@ -1,0 +1,96 @@
+{
+  "race_id": "202503020809",
+  "race_name": "南相馬特別",
+  "race_time": "2025-07-20 14:35",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104771",
+      "horse_name": "スターウェーブ",
+      "score": 0.13430375773459416,
+      "horse_number": 7,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100248",
+      "horse_name": "セイウンデセオ",
+      "score": 0.07324450544003643,
+      "horse_number": 5,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100528",
+      "horse_name": "ノーブルオリンポス",
+      "score": -0.15866688352158756,
+      "horse_number": 6,
+      "odds": 9.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104190",
+      "horse_name": "ラトルシェ",
+      "score": -0.16260764625784493,
+      "horse_number": 4,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101525",
+      "horse_name": "ウイントールキン",
+      "score": -0.33672276532268614,
+      "horse_number": 2,
+      "odds": 13.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103885",
+      "horse_name": "クリノゴッホ",
+      "score": -0.3466725819991738,
+      "horse_number": 11,
+      "odds": 35.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100997",
+      "horse_name": "マルモリディライト",
+      "score": -0.46756081039121417,
+      "horse_number": 8,
+      "odds": 57.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019110122",
+      "horse_name": "ブラヴィーノ",
+      "score": -0.506943390940217,
+      "horse_number": 3,
+      "odds": 13.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103549",
+      "horse_name": "コムーネ",
+      "score": -0.5144898181347012,
+      "horse_number": 1,
+      "odds": 16.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106395",
+      "horse_name": "ハッピーサプライズ",
+      "score": -0.6000653732845574,
+      "horse_number": 10,
+      "odds": 11.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102269",
+      "horse_name": "ツィスカリーゼ",
+      "score": -0.6318373387288261,
+      "horse_number": 9,
+      "odds": 35.1
+    }
+  ]
+}

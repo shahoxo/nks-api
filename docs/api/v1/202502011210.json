@@ -1,0 +1,104 @@
+{
+  "race_id": "202502011210",
+  "race_name": "駒場特別",
+  "race_time": "2025-07-20 14:50",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106541",
+      "horse_name": "グレイテストソング",
+      "score": 0.1911537097581142,
+      "horse_number": 8,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100739",
+      "horse_name": "ワンダーカモン",
+      "score": 0.15656465532674246,
+      "horse_number": 5,
+      "odds": 20.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103268",
+      "horse_name": "メイショウタムシバ",
+      "score": 0.15628585868929157,
+      "horse_number": 10,
+      "odds": 3.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100389",
+      "horse_name": "プラムダンディ",
+      "score": 0.08423896290658738,
+      "horse_number": 2,
+      "odds": 9.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104422",
+      "horse_name": "グランドセントラル",
+      "score": 0.07218024669031985,
+      "horse_number": 11,
+      "odds": 8.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105929",
+      "horse_name": "デフィニティーボ",
+      "score": -0.04423433237696138,
+      "horse_number": 7,
+      "odds": 29.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101733",
+      "horse_name": "クロドラバール",
+      "score": -0.05548544182348261,
+      "horse_number": 3,
+      "odds": 18.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101045",
+      "horse_name": "タイセイミッション",
+      "score": -0.1717905347419174,
+      "horse_number": 6,
+      "odds": 11.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100631",
+      "horse_name": "ブレイゼスト",
+      "score": -0.1847600028846926,
+      "horse_number": 12,
+      "odds": 6.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100189",
+      "horse_name": "アレクサ",
+      "score": -0.18918981485726794,
+      "horse_number": 1,
+      "odds": 19.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105640",
+      "horse_name": "ルージュシュエット",
+      "score": -0.28401758415898815,
+      "horse_number": 4,
+      "odds": 30.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019102794",
+      "horse_name": "スカンジナビア",
+      "score": -0.7080136536659949,
+      "horse_number": 9,
+      "odds": 54.6
+    }
+  ]
+}

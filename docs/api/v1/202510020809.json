@@ -1,0 +1,72 @@
+{
+  "race_id": "202510020809",
+  "race_name": "不知火特別",
+  "race_time": "2025-07-20 14:25",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102905",
+      "horse_name": "ホルトバージ",
+      "score": 0.2332824369990746,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100177",
+      "horse_name": "ロードマンハイム",
+      "score": 0.16469032637482187,
+      "horse_number": 8,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105616",
+      "horse_name": "エルフストラック",
+      "score": 0.14335265629252364,
+      "horse_number": 7,
+      "odds": 3.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105971",
+      "horse_name": "オンザムーブ",
+      "score": 0.0858823645535607,
+      "horse_number": 6,
+      "odds": 4.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101228",
+      "horse_name": "クリノアドバンス",
+      "score": 0.005625473143657918,
+      "horse_number": 3,
+      "odds": 7.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103203",
+      "horse_name": "ロゼフレア",
+      "score": -0.3967594428750712,
+      "horse_number": 2,
+      "odds": 20.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101216",
+      "horse_name": "テイエムヒショウ",
+      "score": -0.4657671630484711,
+      "horse_number": 4,
+      "odds": 31.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102736",
+      "horse_name": "ビヨンドザドリーム",
+      "score": -0.6000653732845574,
+      "horse_number": 1,
+      "odds": 16.1
+    }
+  ]
+}
