@@ -1,0 +1,128 @@
+{
+  "race_id": "202503020802",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-20 10:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110092",
+      "horse_name": "コンヴァージョン",
+      "score": 0.15258990364902988,
+      "horse_number": 15,
+      "odds": 7.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102769",
+      "horse_name": "コーシューパンジャ",
+      "score": 0.09497052814159318,
+      "horse_number": 6,
+      "odds": 10.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105130",
+      "horse_name": "スターエンブレム",
+      "score": 0.037242488272173024,
+      "horse_number": 3,
+      "odds": 5.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101141",
+      "horse_name": "ガンバレベアー",
+      "score": -0.007858668544203164,
+      "horse_number": 9,
+      "odds": 7.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022107085",
+      "horse_name": "パワーオブドリーム",
+      "score": -0.011669864627103139,
+      "horse_number": 13,
+      "odds": 10.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110068",
+      "horse_name": "リドルトリガー",
+      "score": -0.19687514956312716,
+      "horse_number": 7,
+      "odds": 14.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100397",
+      "horse_name": "ミュージックマン",
+      "score": -0.3958232602743924,
+      "horse_number": 4,
+      "odds": 7.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104840",
+      "horse_name": "カーフキック",
+      "score": -0.4380757983464477,
+      "horse_number": 12,
+      "odds": 6.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105373",
+      "horse_name": "フクチャンダイオウ",
+      "score": -0.4677289460027655,
+      "horse_number": 14,
+      "odds": 45.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106077",
+      "horse_name": "グロワールスカイ",
+      "score": -0.49823231795898815,
+      "horse_number": 2,
+      "odds": 16.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102022",
+      "horse_name": "タヤスアメリカン",
+      "score": -0.513390658216733,
+      "horse_number": 11,
+      "odds": 35.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105903",
+      "horse_name": "2022105903",
+      "score": -0.5427064208962835,
+      "horse_number": 5,
+      "odds": 51.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101032",
+      "horse_name": "ワカミヤイリオス",
+      "score": -0.5936783844788845,
+      "horse_number": 8,
+      "odds": 15.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022107266",
+      "horse_name": "リンガスマイル",
+      "score": -0.6623780875704004,
+      "horse_number": 1,
+      "odds": 85.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103464",
+      "horse_name": "ホロヨイマンゲツ",
+      "score": -0.7212483613895885,
+      "horse_number": 10,
+      "odds": 101.2
+    }
+  ]
+}

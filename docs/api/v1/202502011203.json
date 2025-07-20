@@ -1,0 +1,120 @@
+{
+  "race_id": "202502011203",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-20 10:55",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101580",
+      "horse_name": "ビジュードネージュ",
+      "score": 0.2342642593063632,
+      "horse_number": 5,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104385",
+      "horse_name": "ラマヌジャン",
+      "score": 0.18055702589802125,
+      "horse_number": 6,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102559",
+      "horse_name": "グリスタン",
+      "score": 0.15180796003572766,
+      "horse_number": 8,
+      "odds": 14.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105394",
+      "horse_name": "ハニードレス",
+      "score": 0.13424456693247674,
+      "horse_number": 7,
+      "odds": 10.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105961",
+      "horse_name": "サトノベリル",
+      "score": 0.13103494039866695,
+      "horse_number": 9,
+      "odds": 14.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105336",
+      "horse_name": "セレニティ",
+      "score": 0.1101135878183738,
+      "horse_number": 14,
+      "odds": 14.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104559",
+      "horse_name": "ヤマノインパクト",
+      "score": 0.036442695682170484,
+      "horse_number": 3,
+      "odds": 7.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100030",
+      "horse_name": "アースグレーザー",
+      "score": 0.027230103553385395,
+      "horse_number": 10,
+      "odds": 9.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022107084",
+      "horse_name": "ウインヘリオドール",
+      "score": 0.026760703641289987,
+      "horse_number": 11,
+      "odds": 11.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105034",
+      "horse_name": "カピオラ",
+      "score": -0.2853212114291486,
+      "horse_number": 4,
+      "odds": 19.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103031",
+      "horse_name": "ジャスマン",
+      "score": -0.36655613783905305,
+      "horse_number": 13,
+      "odds": 40.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104076",
+      "horse_name": "アクアジェット",
+      "score": -0.4182508373997982,
+      "horse_number": 2,
+      "odds": 6.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105083",
+      "horse_name": "フェアリーグレン",
+      "score": -0.433180497449716,
+      "horse_number": 1,
+      "odds": 41.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100242",
+      "horse_name": "オニムシャ",
+      "score": -0.4347917316351666,
+      "horse_number": 12,
+      "odds": 25.6
+    }
+  ]
+}
