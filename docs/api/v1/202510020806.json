@@ -1,0 +1,80 @@
+{
+  "race_id": "202510020806",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-20 12:55",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101033",
+      "horse_name": "サムデイ",
+      "score": 0.17514228902336632,
+      "horse_number": 4,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103078",
+      "horse_name": "ナムラモモ",
+      "score": -0.04580405418291527,
+      "horse_number": 9,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101443",
+      "horse_name": "エブライト",
+      "score": -0.05876507107081223,
+      "horse_number": 7,
+      "odds": 10.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103146",
+      "horse_name": "ルミナスサンライズ",
+      "score": -0.22591808265418897,
+      "horse_number": 8,
+      "odds": 12.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019103285",
+      "horse_name": "クリノミニスター",
+      "score": -0.24211872984206553,
+      "horse_number": 5,
+      "odds": 9.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2017103155",
+      "horse_name": "トモジャアルマンド",
+      "score": -0.2642605888718144,
+      "horse_number": 6,
+      "odds": 42.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103527",
+      "horse_name": "ライツユーアップ",
+      "score": -0.28082853358624804,
+      "horse_number": 3,
+      "odds": 4.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104216",
+      "horse_name": "ペイシャヴァルツー",
+      "score": -0.35528750466842884,
+      "horse_number": 2,
+      "odds": 2.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106216",
+      "horse_name": "ウインラグラス",
+      "score": -0.5529378849583312,
+      "horse_number": 1,
+      "odds": 44.4
+    }
+  ]
+}

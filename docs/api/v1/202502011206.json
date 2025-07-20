@@ -1,0 +1,136 @@
+{
+  "race_id": "202502011206",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-20 12:45",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104133",
+      "horse_name": "アセンディア",
+      "score": 0.28675494588735384,
+      "horse_number": 8,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100263",
+      "horse_name": "ラースアルアイン",
+      "score": 0.17550434938224796,
+      "horse_number": 5,
+      "odds": 11.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106907",
+      "horse_name": "ペタルブランシュ",
+      "score": 0.17377088686904146,
+      "horse_number": 1,
+      "odds": 13.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105271",
+      "horse_name": "ブラヴォケラトプス",
+      "score": 0.12551833358637118,
+      "horse_number": 9,
+      "odds": 14.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105339",
+      "horse_name": "スピリットサージ",
+      "score": 0.08433522071608861,
+      "horse_number": 6,
+      "odds": 4.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103899",
+      "horse_name": "グリフォン",
+      "score": 0.053015915970331576,
+      "horse_number": 7,
+      "odds": 17.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104150",
+      "horse_name": "ヒロノエクスカリバ",
+      "score": 0.023748027657657458,
+      "horse_number": 2,
+      "odds": 12.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100129",
+      "horse_name": "ピースオブライツ",
+      "score": -0.1365898615126653,
+      "horse_number": 13,
+      "odds": 42.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102406",
+      "horse_name": "ヒットザグラウンド",
+      "score": -0.1835746686348222,
+      "horse_number": 4,
+      "odds": 5.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104650",
+      "horse_name": "クリフウォーク",
+      "score": -0.3389220051760999,
+      "horse_number": 11,
+      "odds": 43.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106894",
+      "horse_name": "ファリア",
+      "score": -0.3968344883548186,
+      "horse_number": 14,
+      "odds": 101.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105927",
+      "horse_name": "ユナホークパワー",
+      "score": -0.48189865546588695,
+      "horse_number": 15,
+      "odds": 60.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103562",
+      "horse_name": "ミリオンヒット",
+      "score": -0.5476500042014676,
+      "horse_number": 12,
+      "odds": 96.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105340",
+      "horse_name": "アルデヤーノ",
+      "score": -0.5843937004443097,
+      "horse_number": 10,
+      "odds": 26.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103022",
+      "horse_name": "ウィステリアベル",
+      "score": -0.587624346687629,
+      "horse_number": 3,
+      "odds": 53.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104364",
+      "horse_name": "アイズミサクラ",
+      "score": -0.6580944279437224,
+      "horse_number": 16,
+      "odds": 45.6
+    }
+  ]
+}
