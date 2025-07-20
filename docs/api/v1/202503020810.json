@@ -1,0 +1,88 @@
+{
+  "race_id": "202503020810",
+  "race_name": "猪苗代特別",
+  "race_time": "2025-07-20 15:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103678",
+      "horse_name": "ユキワリザクラ",
+      "score": 0.25223890469693555,
+      "horse_number": 7,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106077",
+      "horse_name": "プリズマジコ",
+      "score": 0.060807510538153656,
+      "horse_number": 9,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105802",
+      "horse_name": "ミスティア",
+      "score": -0.013134306007240824,
+      "horse_number": 10,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019100790",
+      "horse_name": "マイネルトルファン",
+      "score": -0.1165360405313612,
+      "horse_number": 8,
+      "odds": 6.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105789",
+      "horse_name": "ヴァイルマティ",
+      "score": -0.16443181655206981,
+      "horse_number": 3,
+      "odds": 11.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103205",
+      "horse_name": "フロムナウオン",
+      "score": -0.2403374678155947,
+      "horse_number": 5,
+      "odds": 17.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101322",
+      "horse_name": "イサチルカゼニタツ",
+      "score": -0.4874384228831553,
+      "horse_number": 2,
+      "odds": 21.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105675",
+      "horse_name": "マーシャルポイント",
+      "score": -0.5722916006018547,
+      "horse_number": 1,
+      "odds": 18.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2016102229",
+      "horse_name": "フィデリオグリーン",
+      "score": -0.5970618435386312,
+      "horse_number": 4,
+      "odds": 49.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019101278",
+      "horse_name": "デルバイス",
+      "score": -0.7560238565797833,
+      "horse_number": 6,
+      "odds": 87.7
+    }
+  ]
+}

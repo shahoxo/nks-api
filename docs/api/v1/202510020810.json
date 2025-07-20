@@ -1,0 +1,112 @@
+{
+  "race_id": "202510020810",
+  "race_name": "宮崎S",
+  "race_time": "2025-07-20 15:01",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2018102040",
+      "horse_name": "ヴィヴァン",
+      "score": 0.20176743252334473,
+      "horse_number": 9,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2018105471",
+      "horse_name": "ビオグラフィア",
+      "score": 0.08440015552449721,
+      "horse_number": 11,
+      "odds": 18.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104784",
+      "horse_name": "オペラプラージュ",
+      "score": -0.0870378893383252,
+      "horse_number": 10,
+      "odds": 8.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106063",
+      "horse_name": "ゴッドブルービー",
+      "score": -0.14785140089801066,
+      "horse_number": 13,
+      "odds": 7.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105489",
+      "horse_name": "シークレットキー",
+      "score": -0.16315330768322647,
+      "horse_number": 6,
+      "odds": 15.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018106458",
+      "horse_name": "メイショウミカワ",
+      "score": -0.16588591516297108,
+      "horse_number": 3,
+      "odds": 6.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103928",
+      "horse_name": "ホウオウスーペリア",
+      "score": -0.19130789580119822,
+      "horse_number": 12,
+      "odds": 13.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103985",
+      "horse_name": "グラスシフォン",
+      "score": -0.21621342655731277,
+      "horse_number": 1,
+      "odds": 32.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102955",
+      "horse_name": "ポワンキュルミナン",
+      "score": -0.23911405872281183,
+      "horse_number": 7,
+      "odds": 42.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104793",
+      "horse_name": "サンライズグルーヴ",
+      "score": -0.2618110658424553,
+      "horse_number": 2,
+      "odds": 14.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018110117",
+      "horse_name": "フランスゴデイナ",
+      "score": -0.33902032489383904,
+      "horse_number": 5,
+      "odds": 48.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019106632",
+      "horse_name": "テイエムランウェイ",
+      "score": -0.4140250099689874,
+      "horse_number": 8,
+      "odds": 11.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100836",
+      "horse_name": "レアンダー",
+      "score": -0.5084502592533411,
+      "horse_number": 4,
+      "odds": 3.8
+    }
+  ]
+}
