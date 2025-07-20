@@ -14,30 +14,22 @@
     },
     {
       "rank": 2,
-      "horse_id": "2020103101",
-      "horse_name": "シェイクユアハート",
-      "score": 0.24245256849300922,
-      "horse_number": 6,
-      "odds": 7.0
-    },
-    {
-      "rank": 3,
       "horse_id": "2021102895",
       "horse_name": "ナムラエイハブ",
-      "score": 0.1858289233235894,
+      "score": 0.21670776156768984,
       "horse_number": 10,
       "odds": 18.6
     },
     {
-      "rank": 4,
-      "horse_id": "2021105391",
-      "horse_name": "ラスカンブレス",
-      "score": 0.12559348635164322,
-      "horse_number": 8,
-      "odds": 10.6
+      "rank": 3,
+      "horse_id": "2020103101",
+      "horse_name": "シェイクユアハート",
+      "score": 0.1455994571111805,
+      "horse_number": 6,
+      "odds": 7.0
     },
     {
-      "rank": 5,
+      "rank": 4,
       "horse_id": "2019100630",
       "horse_name": "ハピ",
       "score": 0.12005861401788716,
@@ -45,90 +37,98 @@
       "odds": 8.9
     },
     {
-      "rank": 6,
+      "rank": 5,
       "horse_id": "2021104971",
       "horse_name": "オールセインツ",
-      "score": 0.07713534537070078,
+      "score": 0.10068329467810018,
       "horse_number": 7,
       "odds": 9.4
     },
     {
+      "rank": 6,
+      "horse_id": "2021105391",
+      "horse_name": "ラスカンブレス",
+      "score": 0.07123083409331535,
+      "horse_number": 8,
+      "odds": 10.6
+    },
+    {
       "rank": 7,
-      "horse_id": "2020110085",
-      "horse_name": "イングランドアイズ",
-      "score": 0.07318263294643142,
-      "horse_number": 1,
-      "odds": 16.5
+      "horse_id": "2019105239",
+      "horse_name": "ショウナンアデイブ",
+      "score": 0.06450489376522928,
+      "horse_number": 2,
+      "odds": 12.9
     },
     {
       "rank": 8,
-      "horse_id": "2019105239",
-      "horse_name": "ショウナンアデイブ",
-      "score": 0.06631317107441098,
-      "horse_number": 2,
-      "odds": 12.9
+      "horse_id": "2020110085",
+      "horse_name": "イングランドアイズ",
+      "score": 0.009973359603690867,
+      "horse_number": 1,
+      "odds": 16.5
     },
     {
       "rank": 9,
       "horse_id": "2018104475",
       "horse_name": "ディープモンスター",
-      "score": 0.0041798004863252605,
+      "score": -0.017246122064303933,
       "horse_number": 16,
       "odds": 5.6
     },
     {
       "rank": 10,
-      "horse_id": "2020104564",
-      "horse_name": "ニホンピロキーフ",
-      "score": -0.07429661189489861,
-      "horse_number": 15,
-      "odds": 17.8
-    },
-    {
-      "rank": 11,
-      "horse_id": "2020105750",
-      "horse_name": "マイネルメモリー",
-      "score": -0.1323035492311633,
-      "horse_number": 5,
-      "odds": 17.3
-    },
-    {
-      "rank": 12,
-      "horse_id": "2020103082",
-      "horse_name": "カネフラ",
-      "score": -0.1411663845670132,
-      "horse_number": 3,
-      "odds": 38.3
-    },
-    {
-      "rank": 13,
-      "horse_id": "2016102175",
-      "horse_name": "ダンディズム",
-      "score": -0.14557066823521006,
-      "horse_number": 11,
-      "odds": 71.5
-    },
-    {
-      "rank": 14,
       "horse_id": "2019103823",
       "horse_name": "リカンカブール",
-      "score": -0.17024609769038182,
+      "score": -0.12030303571402418,
       "horse_number": 9,
       "odds": 22.6
     },
     {
-      "rank": 15,
+      "rank": 11,
       "horse_id": "2020106660",
       "horse_name": "スズカダブル",
-      "score": -0.1762290670437142,
+      "score": -0.12114979797804928,
       "horse_number": 13,
       "odds": 45.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104564",
+      "horse_name": "ニホンピロキーフ",
+      "score": -0.12521238977695628,
+      "horse_number": 15,
+      "odds": 17.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103082",
+      "horse_name": "カネフラ",
+      "score": -0.15032556194489105,
+      "horse_number": 3,
+      "odds": 38.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105750",
+      "horse_name": "マイネルメモリー",
+      "score": -0.15745178912653615,
+      "horse_number": 5,
+      "odds": 17.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2016102175",
+      "horse_name": "ダンディズム",
+      "score": -0.2549822063276649,
+      "horse_number": 11,
+      "odds": 71.5
     },
     {
       "rank": 16,
       "horse_id": "2018105277",
       "horse_name": "グラティアス",
-      "score": -0.2760320898395608,
+      "score": -0.36477714339366973,
       "horse_number": 14,
       "odds": 109.3
     }

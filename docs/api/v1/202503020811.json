@@ -1,0 +1,112 @@
+{
+  "race_id": "202503020811",
+  "race_name": "福島テレビ賞",
+  "race_time": "2025-07-20 15:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020101182",
+      "horse_name": "グッジョブ",
+      "score": 0.2389191997397732,
+      "horse_number": 1,
+      "odds": 6.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019105741",
+      "horse_name": "イスラアネーロ",
+      "score": 0.05183978756627293,
+      "horse_number": 3,
+      "odds": 7.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102186",
+      "horse_name": "ルクスメテオール",
+      "score": 0.04048593206187732,
+      "horse_number": 2,
+      "odds": 17.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110069",
+      "horse_name": "エスカル",
+      "score": 0.034640733614077664,
+      "horse_number": 8,
+      "odds": 7.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103095",
+      "horse_name": "オーブルクール",
+      "score": 0.02863402224721274,
+      "horse_number": 11,
+      "odds": 2.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019110009",
+      "horse_name": "シアージスト",
+      "score": 0.02442221382713848,
+      "horse_number": 10,
+      "odds": 10.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104429",
+      "horse_name": "エランティス",
+      "score": -0.020577574799794014,
+      "horse_number": 7,
+      "odds": 15.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110056",
+      "horse_name": "エコロガイア",
+      "score": -0.0764984943119776,
+      "horse_number": 6,
+      "odds": 16.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018102969",
+      "horse_name": "タイセイブレイズ",
+      "score": -0.08388373259322492,
+      "horse_number": 4,
+      "odds": 46.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103790",
+      "horse_name": "レディフォース",
+      "score": -0.1821154940836102,
+      "horse_number": 13,
+      "odds": 11.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019101894",
+      "horse_name": "メズメライザー",
+      "score": -0.2051182605145368,
+      "horse_number": 9,
+      "odds": 18.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100829",
+      "horse_name": "コパノパサディナ",
+      "score": -0.586490552695286,
+      "horse_number": 12,
+      "odds": 66.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105225",
+      "horse_name": "スパイダーゴールド",
+      "score": -0.5990511959421502,
+      "horse_number": 5,
+      "odds": 61.1
+    }
+  ]
+}

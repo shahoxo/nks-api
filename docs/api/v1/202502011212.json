@@ -1,0 +1,112 @@
+{
+  "race_id": "202502011212",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-20 16:05",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102429",
+      "horse_name": "ミッキーコンドル",
+      "score": 0.0645887886573024,
+      "horse_number": 3,
+      "odds": 11.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110133",
+      "horse_name": "メイショウアイナ",
+      "score": -0.04736652286563242,
+      "horse_number": 8,
+      "odds": 9.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100255",
+      "horse_name": "アーロンイメル",
+      "score": -0.07155883293354773,
+      "horse_number": 7,
+      "odds": 8.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104320",
+      "horse_name": "キングベルベット",
+      "score": -0.0778057226601798,
+      "horse_number": 12,
+      "odds": 4.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106698",
+      "horse_name": "オカメノコイ",
+      "score": -0.12001052186965713,
+      "horse_number": 13,
+      "odds": 13.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105772",
+      "horse_name": "ホウオウバローロ",
+      "score": -0.12221065709760819,
+      "horse_number": 11,
+      "odds": 5.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104738",
+      "horse_name": "マシュー",
+      "score": -0.2157649138501825,
+      "horse_number": 1,
+      "odds": 6.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103217",
+      "horse_name": "ジョセフィーナ",
+      "score": -0.23383741202240826,
+      "horse_number": 2,
+      "odds": 10.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104205",
+      "horse_name": "ブルーカミング",
+      "score": -0.3585556721947971,
+      "horse_number": 9,
+      "odds": 21.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102735",
+      "horse_name": "スマートカイロス",
+      "score": -0.4530426498486433,
+      "horse_number": 10,
+      "odds": 15.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104951",
+      "horse_name": "ブルーゴールド",
+      "score": -0.45358440551956103,
+      "horse_number": 5,
+      "odds": 25.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104336",
+      "horse_name": "ダオラダオラ",
+      "score": -0.5621350137979938,
+      "horse_number": 6,
+      "odds": 57.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106370",
+      "horse_name": "チェイスザウィンド",
+      "score": -0.6318373387288261,
+      "horse_number": 4,
+      "odds": 77.4
+    }
+  ]
+}
