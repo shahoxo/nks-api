@@ -1,0 +1,104 @@
+{
+  "race_id": "202502011211",
+  "race_name": "函館2歳S",
+  "race_time": "2025-07-20 15:25",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100796",
+      "horse_name": "クラディスティーナ",
+      "score": 0.18135849800485598,
+      "horse_number": 7,
+      "odds": 12.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105545",
+      "horse_name": "スターオブロンドン",
+      "score": 0.14451097373574168,
+      "horse_number": 10,
+      "odds": 16.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105815",
+      "horse_name": "エスカレイト",
+      "score": 0.14150673879751205,
+      "horse_number": 3,
+      "odds": 16.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104998",
+      "horse_name": "カイショー",
+      "score": 0.09748459856002817,
+      "horse_number": 2,
+      "odds": 2.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104313",
+      "horse_name": "タガノアラリア",
+      "score": 0.09075891915222749,
+      "horse_number": 4,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107008",
+      "horse_name": "ブラックチャリス",
+      "score": 0.07746581039811462,
+      "horse_number": 8,
+      "odds": 2.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105481",
+      "horse_name": "トウカイマシェリ",
+      "score": 0.06986973536007557,
+      "horse_number": 11,
+      "odds": 12.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105505",
+      "horse_name": "2023105505",
+      "score": 0.06633404884651269,
+      "horse_number": 5,
+      "odds": 31.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106823",
+      "horse_name": "マイオウンウェイ",
+      "score": 0.06120073663285584,
+      "horse_number": 12,
+      "odds": 16.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104047",
+      "horse_name": "ノアールビーナス",
+      "score": -0.033700208586738445,
+      "horse_number": 1,
+      "odds": 63.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105991",
+      "horse_name": "2023105991",
+      "score": -0.36051308716592234,
+      "horse_number": 9,
+      "odds": 35.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106583",
+      "horse_name": "ウレシイゴサン",
+      "score": -0.513035156179016,
+      "horse_number": 6,
+      "odds": 109.7
+    }
+  ]
+}
