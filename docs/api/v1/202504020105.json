@@ -1,0 +1,152 @@
+{
+  "race_id": "202504020105",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-26 11:50",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105002",
+      "horse_name": "ボウウィンドウ",
+      "score": 0.48602968280716363,
+      "horse_number": 9,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105184",
+      "horse_name": "ライネリーベ",
+      "score": 0.29670109897429303,
+      "horse_number": 8,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106817",
+      "horse_name": "マイネルアレス",
+      "score": 0.2170531820924626,
+      "horse_number": 6,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102064",
+      "horse_name": "ミエノフェアリー",
+      "score": 0.10771817111441591,
+      "horse_number": 10,
+      "odds": 6.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101200",
+      "horse_name": "タカミノガコイ",
+      "score": -0.032761853999024704,
+      "horse_number": 7,
+      "odds": 75.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105545",
+      "horse_name": "フーイナム",
+      "score": -0.10714624371465523,
+      "horse_number": 13,
+      "odds": 36.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100462",
+      "horse_name": "バットスティンガー",
+      "score": -0.1629211001607309,
+      "horse_number": 2,
+      "odds": 17.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105523",
+      "horse_name": "アドマイヤコーク",
+      "score": -0.18878031086677938,
+      "horse_number": 17,
+      "odds": 49.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101471",
+      "horse_name": "ロードオブキング",
+      "score": -0.35009846964492153,
+      "horse_number": 3,
+      "odds": 46.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101272",
+      "horse_name": "スタニングヴュー",
+      "score": -0.3824726305629573,
+      "horse_number": 15,
+      "odds": 33.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104664",
+      "horse_name": "マーゴットコマチ",
+      "score": -0.3829559418318043,
+      "horse_number": 14,
+      "odds": 57.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105155",
+      "horse_name": "バックパック",
+      "score": -0.4105618178011573,
+      "horse_number": 11,
+      "odds": 61.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101463",
+      "horse_name": "イサゴールド",
+      "score": -0.42149565719119986,
+      "horse_number": 1,
+      "odds": 32.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106543",
+      "horse_name": "ワカムシャ",
+      "score": -0.46622717798211566,
+      "horse_number": 5,
+      "odds": 117.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101943",
+      "horse_name": "ダイユウボンバー",
+      "score": -0.6139034835592895,
+      "horse_number": 12,
+      "odds": 124.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103246",
+      "horse_name": "アイドルフェスタ",
+      "score": -0.6727526863679565,
+      "horse_number": 4,
+      "odds": 239.7
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022101741",
+      "horse_name": "ファイアーレッド",
+      "score": -0.7216065912265887,
+      "horse_number": 18,
+      "odds": 289.7
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022104263",
+      "horse_name": "カドバンソコヂカラ",
+      "score": -0.7560238565797833,
+      "horse_number": 16,
+      "odds": 213.9
+    }
+  ]
+}
