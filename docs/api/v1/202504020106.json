@@ -1,0 +1,128 @@
+{
+  "race_id": "202504020106",
+  "race_name": "麒麟山特別",
+  "race_time": "2025-07-26 15:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101928",
+      "horse_name": "チザルピーノ",
+      "score": 0.2027928871131179,
+      "horse_number": 4,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101449",
+      "horse_name": "ライジンマル",
+      "score": 0.07252694379114469,
+      "horse_number": 12,
+      "odds": 5.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102753",
+      "horse_name": "サンセットブライト",
+      "score": 0.002481816862405177,
+      "horse_number": 2,
+      "odds": 18.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106776",
+      "horse_name": "トゥピ",
+      "score": 0.001718399510257409,
+      "horse_number": 10,
+      "odds": 25.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101253",
+      "horse_name": "クラウンシエンタ",
+      "score": -0.007946933658729047,
+      "horse_number": 15,
+      "odds": 3.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110115",
+      "horse_name": "シンビリーブ",
+      "score": -0.11259257072685556,
+      "horse_number": 8,
+      "odds": 5.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101412",
+      "horse_name": "パープルナイト",
+      "score": -0.13793869423046207,
+      "horse_number": 5,
+      "odds": 48.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019106148",
+      "horse_name": "シンリミテス",
+      "score": -0.1944868819545966,
+      "horse_number": 9,
+      "odds": 33.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103197",
+      "horse_name": "タマモキャリコ",
+      "score": -0.21072973822703256,
+      "horse_number": 11,
+      "odds": 23.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101095",
+      "horse_name": "アレスグート",
+      "score": -0.23025146178349107,
+      "horse_number": 13,
+      "odds": 26.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105330",
+      "horse_name": "パーサヴィアランス",
+      "score": -0.23114267312849388,
+      "horse_number": 6,
+      "odds": 30.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106549",
+      "horse_name": "イデアユウシン",
+      "score": -0.2618110658424553,
+      "horse_number": 7,
+      "odds": 60.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104889",
+      "horse_name": "ラファールドール",
+      "score": -0.5176497535651391,
+      "horse_number": 3,
+      "odds": 30.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017106722",
+      "horse_name": "サイモンルモンド",
+      "score": -0.5198904222646497,
+      "horse_number": 14,
+      "odds": 128.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103718",
+      "horse_name": "オールマイデイズ",
+      "score": -0.6838037801093824,
+      "horse_number": 1,
+      "odds": 20.9
+    }
+  ]
+}
