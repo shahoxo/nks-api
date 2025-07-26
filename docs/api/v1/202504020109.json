@@ -1,0 +1,120 @@
+{
+  "race_id": "202504020109",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-26 16:55",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103311",
+      "horse_name": "レイオーバー",
+      "score": 0.12626006777106807,
+      "horse_number": 13,
+      "odds": 6.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101604",
+      "horse_name": "ハニーローリエ",
+      "score": 0.10862298680221262,
+      "horse_number": 6,
+      "odds": 2.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100400",
+      "horse_name": "ニシノコイブミ",
+      "score": 0.023146469093326127,
+      "horse_number": 8,
+      "odds": 12.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106988",
+      "horse_name": "セイウンユズカ",
+      "score": 0.016940591125390217,
+      "horse_number": 11,
+      "odds": 10.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104625",
+      "horse_name": "2022104625",
+      "score": 0.016456198729683215,
+      "horse_number": 12,
+      "odds": 13.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102403",
+      "horse_name": "シアワセデスカ",
+      "score": -0.08841409338236891,
+      "horse_number": 14,
+      "odds": 48.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102423",
+      "horse_name": "ヒルビリーエレジー",
+      "score": -0.18739095060054725,
+      "horse_number": 2,
+      "odds": 19.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104110",
+      "horse_name": "コンパクトファイト",
+      "score": -0.2566885980353608,
+      "horse_number": 4,
+      "odds": 15.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022110089",
+      "horse_name": "マーメイドスカート",
+      "score": -0.3026520546722248,
+      "horse_number": 3,
+      "odds": 13.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022110096",
+      "horse_name": "エクストラチャージ",
+      "score": -0.409816187839271,
+      "horse_number": 10,
+      "odds": 16.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101511",
+      "horse_name": "ロイヤルイブキ",
+      "score": -0.5330982979760845,
+      "horse_number": 1,
+      "odds": 9.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103159",
+      "horse_name": "テーオービースト",
+      "score": -0.5557632924749767,
+      "horse_number": 7,
+      "odds": 15.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103572",
+      "horse_name": "エウクレイア",
+      "score": -0.5703889114273121,
+      "horse_number": 9,
+      "odds": 88.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101811",
+      "horse_name": "ジェイエルタイド",
+      "score": -0.7295377203336686,
+      "horse_number": 5,
+      "odds": 71.2
+    }
+  ]
+}
