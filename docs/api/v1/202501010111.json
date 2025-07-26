@@ -1,0 +1,104 @@
+{
+  "race_id": "202501010111",
+  "race_name": "TVh賞",
+  "race_time": "2025-07-26 15:25",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104960",
+      "horse_name": "カルプスペルシュ",
+      "score": 0.3174096397718704,
+      "horse_number": 3,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103092",
+      "horse_name": "ナムラローズマリー",
+      "score": 0.11805800066191442,
+      "horse_number": 5,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100157",
+      "horse_name": "ロードトレイル",
+      "score": 0.09607117384526308,
+      "horse_number": 9,
+      "odds": 22.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100490",
+      "horse_name": "モズナナスター",
+      "score": 0.04340884917722572,
+      "horse_number": 12,
+      "odds": 8.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101517",
+      "horse_name": "ソノママソノママ",
+      "score": 0.025105570319070975,
+      "horse_number": 11,
+      "odds": 10.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103280",
+      "horse_name": "エマヌエーレ",
+      "score": 0.015188604215187883,
+      "horse_number": 10,
+      "odds": 19.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105039",
+      "horse_name": "ゴールドサーベル",
+      "score": 0.006833961552381271,
+      "horse_number": 6,
+      "odds": 20.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019103692",
+      "horse_name": "トウカイファクター",
+      "score": -0.012485048877679369,
+      "horse_number": 7,
+      "odds": 21.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105202",
+      "horse_name": "ポエットリー",
+      "score": -0.07536721529791057,
+      "horse_number": 2,
+      "odds": 13.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104194",
+      "horse_name": "ルーフ",
+      "score": -0.10512409650903319,
+      "horse_number": 1,
+      "odds": 21.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102747",
+      "horse_name": "マキアージュ",
+      "score": -0.18350677891149084,
+      "horse_number": 4,
+      "odds": 17.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105760",
+      "horse_name": "シュヴェルトライテ",
+      "score": -0.35286626581702496,
+      "horse_number": 8,
+      "odds": 34.5
+    }
+  ]
+}

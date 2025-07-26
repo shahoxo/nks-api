@@ -16,33 +16,33 @@
       "rank": 2,
       "horse_id": "2021101397",
       "horse_name": "ヴェロクオーレ",
-      "score": 0.2001499927653223,
+      "score": 0.17281247276499329,
       "horse_number": 14,
       "odds": 3.6
     },
     {
       "rank": 3,
-      "horse_id": "2020103270",
-      "horse_name": "ダミエ",
-      "score": 0.11913584613304612,
-      "horse_number": 5,
-      "odds": 12.2
+      "horse_id": "2019102082",
+      "horse_name": "トルーマンテソーロ",
+      "score": 0.10144326878687272,
+      "horse_number": 3,
+      "odds": 12.0
     },
     {
       "rank": 4,
       "horse_id": "2020102468",
       "horse_name": "トーセンサウダージ",
-      "score": 0.08370504229792586,
+      "score": 0.10019068983928842,
       "horse_number": 16,
       "odds": 16.8
     },
     {
       "rank": 5,
-      "horse_id": "2019102082",
-      "horse_name": "トルーマンテソーロ",
-      "score": 0.04302947696216901,
-      "horse_number": 3,
-      "odds": 12.0
+      "horse_id": "2020103270",
+      "horse_name": "ダミエ",
+      "score": 0.07920985998915488,
+      "horse_number": 5,
+      "odds": 12.2
     },
     {
       "rank": 6,
@@ -88,7 +88,7 @@
       "rank": 11,
       "horse_id": "2020104561",
       "horse_name": "タイガースパーク",
-      "score": -0.24324812533983303,
+      "score": -0.26590785684001284,
       "horse_number": 10,
       "odds": 26.7
     },
@@ -120,7 +120,7 @@
       "rank": 15,
       "horse_id": "2020106174",
       "horse_name": "キタノブライド",
-      "score": -0.4940315458757186,
+      "score": -0.5614852642337927,
       "horse_number": 1,
       "odds": 73.5
     },
