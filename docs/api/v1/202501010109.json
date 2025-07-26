@@ -1,0 +1,112 @@
+{
+  "race_id": "202501010109",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-26 14:20",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104605",
+      "horse_name": "ショウナンヤッホー",
+      "score": 0.13264312823367916,
+      "horse_number": 11,
+      "odds": 5.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100948",
+      "horse_name": "ウォーターリーダー",
+      "score": 0.09364054043445279,
+      "horse_number": 13,
+      "odds": 6.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106785",
+      "horse_name": "コスモシェルベット",
+      "score": 0.07187397955366019,
+      "horse_number": 9,
+      "odds": 5.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021107168",
+      "horse_name": "コムルヴァン",
+      "score": -0.12431176259921951,
+      "horse_number": 2,
+      "odds": 21.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103515",
+      "horse_name": "ユウェンタース",
+      "score": -0.13437104391976543,
+      "horse_number": 5,
+      "odds": 22.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101465",
+      "horse_name": "リュミナーズ",
+      "score": -0.18014966826984607,
+      "horse_number": 10,
+      "odds": 14.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103378",
+      "horse_name": "サトノルクソン",
+      "score": -0.21078617798141192,
+      "horse_number": 8,
+      "odds": 16.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105253",
+      "horse_name": "オメガドライヴ",
+      "score": -0.21970085967902553,
+      "horse_number": 3,
+      "odds": 45.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104897",
+      "horse_name": "レッドベルダンス",
+      "score": -0.3179826466327669,
+      "horse_number": 12,
+      "odds": 3.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106673",
+      "horse_name": "スズノソレイユ",
+      "score": -0.45276667166340334,
+      "horse_number": 1,
+      "odds": 8.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103644",
+      "horse_name": "ブレイジングスター",
+      "score": -0.48041825552337836,
+      "horse_number": 4,
+      "odds": 37.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019106972",
+      "horse_name": "ロストボール",
+      "score": -0.6135512022128569,
+      "horse_number": 7,
+      "odds": 96.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103204",
+      "horse_name": "クールシェルタ",
+      "score": -0.6293301629666437,
+      "horse_number": 6,
+      "odds": 50.4
+    }
+  ]
+}

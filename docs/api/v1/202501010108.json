@@ -1,0 +1,48 @@
+{
+  "race_id": "202501010108",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-26 13:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106813",
+      "horse_name": "マイネルフーガ",
+      "score": 0.24892005345758955,
+      "horse_number": 4,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104207",
+      "horse_name": "キングスコール",
+      "score": 0.13334478358317792,
+      "horse_number": 5,
+      "odds": 1.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105801",
+      "horse_name": "ショウナンサムデイ",
+      "score": -0.13323496439698926,
+      "horse_number": 2,
+      "odds": 7.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020100621",
+      "horse_name": "マイバラード",
+      "score": -0.3163378707522506,
+      "horse_number": 1,
+      "odds": 16.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101969",
+      "horse_name": "デルマジュテーム",
+      "score": -0.522207725190991,
+      "horse_number": 3,
+      "odds": 15.6
+    }
+  ]
+}
