@@ -1,0 +1,96 @@
+{
+  "race_id": "202507030110",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-26 17:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102228",
+      "horse_name": "テーオーマルコーニ",
+      "score": 0.13677372977755034,
+      "horse_number": 8,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105506",
+      "horse_name": "シドニーホバート",
+      "score": 0.10744144461049479,
+      "horse_number": 6,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104321",
+      "horse_name": "カレンワッツアップ",
+      "score": 0.014662400185506033,
+      "horse_number": 7,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106174",
+      "horse_name": "ブラックタロー",
+      "score": -0.038704411927051534,
+      "horse_number": 1,
+      "odds": 12.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101504",
+      "horse_name": "パーフェクト",
+      "score": -0.08351754723298387,
+      "horse_number": 4,
+      "odds": 9.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104654",
+      "horse_name": "ジーティーアメリカ",
+      "score": -0.09995759926963789,
+      "horse_number": 3,
+      "odds": 20.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101622",
+      "horse_name": "ポイントネモ",
+      "score": -0.13381991578952954,
+      "horse_number": 11,
+      "odds": 40.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103255",
+      "horse_name": "メイショウソウセキ",
+      "score": -0.15938167199406666,
+      "horse_number": 10,
+      "odds": 15.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105486",
+      "horse_name": "テルアスワッド",
+      "score": -0.25118290420272593,
+      "horse_number": 5,
+      "odds": 10.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103901",
+      "horse_name": "ウインドワンピース",
+      "score": -0.25513434216409736,
+      "horse_number": 2,
+      "odds": 27.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101047",
+      "horse_name": "ショウナンサエッタ",
+      "score": -0.2936957801836692,
+      "horse_number": 9,
+      "odds": 8.9
+    }
+  ]
+}

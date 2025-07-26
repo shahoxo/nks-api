@@ -1,0 +1,120 @@
+{
+  "race_id": "202504020110",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-26 17:25",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020106930",
+      "horse_name": "シャーンゴッセ",
+      "score": 0.12346986222136212,
+      "horse_number": 5,
+      "odds": 10.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110156",
+      "horse_name": "シークザドリーム",
+      "score": 0.11114450212315932,
+      "horse_number": 2,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105158",
+      "horse_name": "チャロ",
+      "score": 0.0912122606470691,
+      "horse_number": 14,
+      "odds": 2.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019102102",
+      "horse_name": "ゲキザル",
+      "score": 0.008873751696285834,
+      "horse_number": 3,
+      "odds": 11.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106119",
+      "horse_name": "タイセイピューマ",
+      "score": -0.031061967897938976,
+      "horse_number": 10,
+      "odds": 13.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110126",
+      "horse_name": "エコロカディス",
+      "score": -0.13593006039940034,
+      "horse_number": 11,
+      "odds": 19.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101864",
+      "horse_name": "ドナレア",
+      "score": -0.2483325242846373,
+      "horse_number": 6,
+      "odds": 22.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101398",
+      "horse_name": "リクエイ",
+      "score": -0.25147244593747964,
+      "horse_number": 4,
+      "odds": 12.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103507",
+      "horse_name": "グラニットピーク",
+      "score": -0.25468011910295574,
+      "horse_number": 7,
+      "odds": 35.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100028",
+      "horse_name": "フェスタリア",
+      "score": -0.37542712221980223,
+      "horse_number": 12,
+      "odds": 9.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021110075",
+      "horse_name": "スターチスブーケ",
+      "score": -0.44369504248303604,
+      "horse_number": 9,
+      "odds": 46.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100604",
+      "horse_name": "ジェイエルバース",
+      "score": -0.5165369900540892,
+      "horse_number": 8,
+      "odds": 20.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104069",
+      "horse_name": "ショコラブレッド",
+      "score": -0.671212993402232,
+      "horse_number": 1,
+      "odds": 57.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106677",
+      "horse_name": "カガバベル",
+      "score": -0.7241126583868103,
+      "horse_number": 13,
+      "odds": 105.3
+    }
+  ]
+}
