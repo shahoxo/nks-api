@@ -1,0 +1,104 @@
+{
+  "race_id": "202501010102",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-26 10:30",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110064",
+      "horse_name": "エンジェルラダー",
+      "score": 0.31201311834176976,
+      "horse_number": 9,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107411",
+      "horse_name": "コッコラーレ",
+      "score": 0.21623323175175868,
+      "horse_number": 7,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105228",
+      "horse_name": "タイセイルーマー",
+      "score": -0.010286228567245368,
+      "horse_number": 10,
+      "odds": 48.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102799",
+      "horse_name": "タイセイアビリティ",
+      "score": -0.13442541513658898,
+      "horse_number": 2,
+      "odds": 9.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102103",
+      "horse_name": "レイアポポ",
+      "score": -0.23133950574421006,
+      "horse_number": 5,
+      "odds": 12.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110019",
+      "horse_name": "ユウグレ",
+      "score": -0.25688885540611506,
+      "horse_number": 1,
+      "odds": 24.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022110124",
+      "horse_name": "キャットデイ",
+      "score": -0.34414425880490707,
+      "horse_number": 4,
+      "odds": 42.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106194",
+      "horse_name": "ラピルスイメル",
+      "score": -0.3760648741609347,
+      "horse_number": 12,
+      "odds": 7.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101204",
+      "horse_name": "サツキレジーナ",
+      "score": -0.47846498043107,
+      "horse_number": 8,
+      "odds": 20.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104131",
+      "horse_name": "グランヴァルール",
+      "score": -0.5156650377689219,
+      "horse_number": 11,
+      "odds": 158.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102967",
+      "horse_name": "サラサエンペラー",
+      "score": -0.5359135476892024,
+      "horse_number": 6,
+      "odds": 74.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100595",
+      "horse_name": "グロリオン",
+      "score": -0.7560238565797833,
+      "horse_number": 3,
+      "odds": 49.3
+    }
+  ]
+}
