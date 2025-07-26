@@ -1,0 +1,88 @@
+{
+  "race_id": "202504020107",
+  "race_name": "新潟日報賞",
+  "race_time": "2025-07-26 15:45",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103364",
+      "horse_name": "ペリファーニア",
+      "score": 0.43474230099143185,
+      "horse_number": 4,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105864",
+      "horse_name": "ワールズエンド",
+      "score": 0.3069022723435505,
+      "horse_number": 6,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102670",
+      "horse_name": "イサチルシーサイド",
+      "score": 0.14837852639394095,
+      "horse_number": 3,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106900",
+      "horse_name": "アームテイル",
+      "score": 0.08356073056589737,
+      "horse_number": 7,
+      "odds": 9.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101174",
+      "horse_name": "ユキマル",
+      "score": -0.05476692171859945,
+      "horse_number": 8,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102625",
+      "horse_name": "アクートゥス",
+      "score": -0.13457080676904928,
+      "horse_number": 10,
+      "odds": 27.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101968",
+      "horse_name": "ベンダバリラビア",
+      "score": -0.18734373602027063,
+      "horse_number": 9,
+      "odds": 13.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019104112",
+      "horse_name": "メイショウウネビ",
+      "score": -0.20773659446371714,
+      "horse_number": 5,
+      "odds": 42.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104088",
+      "horse_name": "ランドオブラヴ",
+      "score": -0.22912523095688953,
+      "horse_number": 2,
+      "odds": 21.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106595",
+      "horse_name": "ヤマニンアドホック",
+      "score": -0.37719486969847627,
+      "horse_number": 1,
+      "odds": 14.7
+    }
+  ]
+}

@@ -6,6 +6,14 @@
   "predictions": [
     {
       "rank": 1,
+      "horse_id": "2020103522",
+      "horse_name": "グランヴィノス",
+      "score": 0.46699554165634294,
+      "horse_number": 8,
+      "odds": 6.0
+    },
+    {
+      "rank": 2,
       "horse_id": "2020103487",
       "horse_name": "ミッキーツインクル",
       "score": 0.4407529157474189,
@@ -13,47 +21,31 @@
       "odds": 3.4
     },
     {
-      "rank": 2,
-      "horse_id": "2020103522",
-      "horse_name": "グランヴィノス",
-      "score": 0.40950465433065997,
-      "horse_number": 8,
-      "odds": 6.0
-    },
-    {
       "rank": 3,
-      "horse_id": "2021102231",
-      "horse_name": "シルキーガール",
-      "score": 0.18224276991772148,
-      "horse_number": 9,
-      "odds": 9.2
+      "horse_id": "2021106738",
+      "horse_name": "ヴィレム",
+      "score": 0.24062013784950986,
+      "horse_number": 10,
+      "odds": 4.0
     },
     {
       "rank": 4,
-      "horse_id": "2021106738",
-      "horse_name": "ヴィレム",
-      "score": 0.16940301782386452,
-      "horse_number": 10,
-      "odds": 4.0
+      "horse_id": "2021102231",
+      "horse_name": "シルキーガール",
+      "score": 0.16145852095725738,
+      "horse_number": 9,
+      "odds": 9.2
     },
     {
       "rank": 5,
       "horse_id": "2021106548",
       "horse_name": "タガノデュード",
-      "score": 0.031043206607002327,
+      "score": 0.052317264656289955,
       "horse_number": 3,
       "odds": 4.2
     },
     {
       "rank": 6,
-      "horse_id": "2021105800",
-      "horse_name": "ミエスペランサ",
-      "score": -0.0361327433883118,
-      "horse_number": 5,
-      "odds": 12.8
-    },
-    {
-      "rank": 7,
       "horse_id": "2020104297",
       "horse_name": "ルクスビッグスター",
       "score": -0.10154278484287943,
@@ -61,10 +53,18 @@
       "odds": 25.9
     },
     {
+      "rank": 7,
+      "horse_id": "2021105800",
+      "horse_name": "ミエスペランサ",
+      "score": -0.11135594472960705,
+      "horse_number": 5,
+      "odds": 12.8
+    },
+    {
       "rank": 8,
       "horse_id": "2018100043",
       "horse_name": "ロワンディシー",
-      "score": -0.31944017947734515,
+      "score": -0.3380399929767872,
       "horse_number": 4,
       "odds": 38.4
     },
@@ -72,7 +72,7 @@
       "rank": 9,
       "horse_id": "2020101486",
       "horse_name": "ドットクルー",
-      "score": -0.32919265400075914,
+      "score": -0.3448946549436779,
       "horse_number": 1,
       "odds": 25.6
     },

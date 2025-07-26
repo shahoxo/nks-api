@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010112",
+  "race_name": "桑園特別",
+  "race_time": "2025-07-26 16:01",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104416",
+      "horse_name": "ワイドブリザード",
+      "score": 0.21498370776604964,
+      "horse_number": 10,
+      "odds": 2.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106689",
+      "horse_name": "アセレラシオン",
+      "score": 0.03859194176609768,
+      "horse_number": 6,
+      "odds": 10.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103502",
+      "horse_name": "アイウィル",
+      "score": -0.002195063513595402,
+      "horse_number": 1,
+      "odds": 16.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104411",
+      "horse_name": "マイノワール",
+      "score": -0.03388020257770107,
+      "horse_number": 14,
+      "odds": 7.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103414",
+      "horse_name": "ムジェロ",
+      "score": -0.08824973014363674,
+      "horse_number": 13,
+      "odds": 8.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105276",
+      "horse_name": "バロンドール",
+      "score": -0.12496545927133354,
+      "horse_number": 5,
+      "odds": 10.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101258",
+      "horse_name": "コスモオピニオン",
+      "score": -0.1414829957504707,
+      "horse_number": 3,
+      "odds": 22.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105971",
+      "horse_name": "フラッシング",
+      "score": -0.14180422644425,
+      "horse_number": 12,
+      "odds": 39.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105262",
+      "horse_name": "ラオラシオン",
+      "score": -0.18580912018555795,
+      "horse_number": 11,
+      "odds": 5.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104215",
+      "horse_name": "ケイアイメキラ",
+      "score": -0.24588816767980795,
+      "horse_number": 2,
+      "odds": 53.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106192",
+      "horse_name": "ウインアルドーレ",
+      "score": -0.27649791072423924,
+      "horse_number": 4,
+      "odds": 29.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2017103184",
+      "horse_name": "トゥルブレンシア",
+      "score": -0.29415993814691804,
+      "horse_number": 7,
+      "odds": 58.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019106573",
+      "horse_name": "ヒルノデプラーツ",
+      "score": -0.4483992517303816,
+      "horse_number": 9,
+      "odds": 108.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018110086",
+      "horse_name": "バニシングポイント",
+      "score": -0.5050120030781527,
+      "horse_number": 8,
+      "odds": 30.6
+    }
+  ]
+}
