@@ -1,0 +1,72 @@
+{
+  "race_id": "202501010107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-26 13:20",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103975",
+      "horse_name": "イリュージョン",
+      "score": 0.023353677963822008,
+      "horse_number": 8,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104920",
+      "horse_name": "ハイファイスピード",
+      "score": -0.011769392390558213,
+      "horse_number": 5,
+      "odds": 3.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101265",
+      "horse_name": "テンペストヒロイン",
+      "score": -0.11032236641121095,
+      "horse_number": 4,
+      "odds": 5.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105260",
+      "horse_name": "ラセーヌシュメール",
+      "score": -0.15097627525388216,
+      "horse_number": 1,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102717",
+      "horse_name": "ジャグアール",
+      "score": -0.23701877835252302,
+      "horse_number": 7,
+      "odds": 10.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103154",
+      "horse_name": "カルミネイション",
+      "score": -0.2511789636837005,
+      "horse_number": 3,
+      "odds": 12.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103535",
+      "horse_name": "シャインズオンユー",
+      "score": -0.5286406415741448,
+      "horse_number": 6,
+      "odds": 11.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101920",
+      "horse_name": "メラヴィリオーザ",
+      "score": -0.5938962629264705,
+      "horse_number": 2,
+      "odds": 14.2
+    }
+  ]
+}
