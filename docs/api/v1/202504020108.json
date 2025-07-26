@@ -1,0 +1,120 @@
+{
+  "race_id": "202504020108",
+  "race_name": "閃光特別",
+  "race_time": "2025-07-26 16:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020104174",
+      "horse_name": "レジーナローズ",
+      "score": 0.09140754601241861,
+      "horse_number": 12,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106648",
+      "horse_name": "アルデショワ",
+      "score": -0.17697362926211502,
+      "horse_number": 7,
+      "odds": 8.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100184",
+      "horse_name": "ニシノリアリティ",
+      "score": -0.1997137027977243,
+      "horse_number": 11,
+      "odds": 9.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102729",
+      "horse_name": "インフローレ",
+      "score": -0.2206513311022452,
+      "horse_number": 5,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101015",
+      "horse_name": "スーパーバイザー",
+      "score": -0.2284255068341643,
+      "horse_number": 3,
+      "odds": 24.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103971",
+      "horse_name": "ハッピーデービー",
+      "score": -0.2315399335767099,
+      "horse_number": 9,
+      "odds": 10.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019101794",
+      "horse_name": "ヒメカミノイタダキ",
+      "score": -0.23925463337975653,
+      "horse_number": 2,
+      "odds": 23.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103324",
+      "horse_name": "シュラフ",
+      "score": -0.3966907551330507,
+      "horse_number": 10,
+      "odds": 4.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106149",
+      "horse_name": "アスキーアート",
+      "score": -0.47045073404401494,
+      "horse_number": 13,
+      "odds": 9.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104250",
+      "horse_name": "マジカルガール",
+      "score": -0.5106057654164426,
+      "horse_number": 8,
+      "odds": 53.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101072",
+      "horse_name": "ララヴィエルジュ",
+      "score": -0.512261084241787,
+      "horse_number": 14,
+      "odds": 21.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106190",
+      "horse_name": "ラインパシオン",
+      "score": -0.5808237938692197,
+      "horse_number": 4,
+      "odds": 30.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101225",
+      "horse_name": "インファンタ",
+      "score": -0.588214498764502,
+      "horse_number": 1,
+      "odds": 55.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100121",
+      "horse_name": "ザブルース",
+      "score": -0.6318373387288261,
+      "horse_number": 6,
+      "odds": 137.4
+    }
+  ]
+}
