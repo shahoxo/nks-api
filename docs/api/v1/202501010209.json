@@ -1,0 +1,80 @@
+{
+  "race_id": "202501010209",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-27 14:20",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100564",
+      "horse_name": "エフォートレス",
+      "score": 0.3264511848139881,
+      "horse_number": 2,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105233",
+      "horse_name": "ルナルーチェット",
+      "score": 0.18917541134411905,
+      "horse_number": 5,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103145",
+      "horse_name": "レッドレナート",
+      "score": 0.18597924142231997,
+      "horse_number": 1,
+      "odds": 5.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100905",
+      "horse_name": "メリディアンスター",
+      "score": 0.1466105846208173,
+      "horse_number": 7,
+      "odds": 4.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100737",
+      "horse_name": "セイウンビッグバン",
+      "score": -0.03014185509879349,
+      "horse_number": 6,
+      "odds": 19.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101100",
+      "horse_name": "ルクスアドラー",
+      "score": -0.04062688106402638,
+      "horse_number": 3,
+      "odds": 10.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103042",
+      "horse_name": "フォルテム",
+      "score": -0.17463037302171602,
+      "horse_number": 8,
+      "odds": 8.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110079",
+      "horse_name": "ヴァイタルピース",
+      "score": -0.37686475485032245,
+      "horse_number": 9,
+      "odds": 67.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105897",
+      "horse_name": "ソアラ",
+      "score": -0.4660508731428842,
+      "horse_number": 4,
+      "odds": 29.9
+    }
+  ]
+}

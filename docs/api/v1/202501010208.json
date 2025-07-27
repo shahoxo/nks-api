@@ -1,0 +1,72 @@
+{
+  "race_id": "202501010208",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-27 13:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104592",
+      "horse_name": "スモーキーゴッド",
+      "score": 0.2599050830518801,
+      "horse_number": 1,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105766",
+      "horse_name": "ドーギッド",
+      "score": 0.06459475832983963,
+      "horse_number": 8,
+      "odds": 5.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102802",
+      "horse_name": "イリスレーン",
+      "score": 0.011593611062556207,
+      "horse_number": 7,
+      "odds": 10.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100201",
+      "horse_name": "コンドゥイア",
+      "score": -0.03421709136812665,
+      "horse_number": 2,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103655",
+      "horse_name": "ダークブロンド",
+      "score": -0.04219143949789871,
+      "horse_number": 3,
+      "odds": 10.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103238",
+      "horse_name": "サトノメルベイユ",
+      "score": -0.06740081248081056,
+      "horse_number": 6,
+      "odds": 23.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105431",
+      "horse_name": "ネーブルオレンジ",
+      "score": -0.3155695668334975,
+      "horse_number": 4,
+      "odds": 4.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103267",
+      "horse_name": "ブラックバラード",
+      "score": -0.3462518862412296,
+      "horse_number": 5,
+      "odds": 26.5
+    }
+  ]
+}
