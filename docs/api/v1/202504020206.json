@@ -1,0 +1,96 @@
+{
+  "race_id": "202504020206",
+  "race_name": "豊栄特別",
+  "race_time": "2025-07-27 15:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105143",
+      "horse_name": "デンクマール",
+      "score": 0.3742824782683727,
+      "horse_number": 4,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019104732",
+      "horse_name": "チェルノボーグ",
+      "score": 0.22849849665397431,
+      "horse_number": 11,
+      "odds": 10.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105326",
+      "horse_name": "コートアリシアン",
+      "score": 0.12284143962776108,
+      "horse_number": 5,
+      "odds": 4.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105127",
+      "horse_name": "テラメリタ",
+      "score": 0.091217191414309,
+      "horse_number": 7,
+      "odds": 18.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101580",
+      "horse_name": "メイショウヨゾラ",
+      "score": -0.01695223051449249,
+      "horse_number": 10,
+      "odds": 15.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101772",
+      "horse_name": "メタルスピード",
+      "score": -0.04780540086448725,
+      "horse_number": 6,
+      "odds": 27.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104167",
+      "horse_name": "エイムフォーエース",
+      "score": -0.07341496978521754,
+      "horse_number": 9,
+      "odds": 18.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105252",
+      "horse_name": "シャンパンマーク",
+      "score": -0.15612729376084,
+      "horse_number": 8,
+      "odds": 26.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102140",
+      "horse_name": "アンビバレント",
+      "score": -0.31278364804158887,
+      "horse_number": 3,
+      "odds": 42.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105647",
+      "horse_name": "ペッレグリーニ",
+      "score": -0.31389572056286713,
+      "horse_number": 1,
+      "odds": 35.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019101278",
+      "horse_name": "デルバイス",
+      "score": -0.7560238565797833,
+      "horse_number": 2,
+      "odds": 124.6
+    }
+  ]
+}
