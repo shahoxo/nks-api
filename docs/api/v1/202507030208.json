@@ -8,39 +8,39 @@
       "rank": 1,
       "horse_id": "2022105386",
       "horse_name": "ピエタンツァ",
-      "score": 0.3019753616627638,
+      "score": 0.27358846289505034,
       "horse_number": 4,
       "odds": 2.6
     },
     {
       "rank": 2,
-      "horse_id": "2021104840",
-      "horse_name": "フルレゾン",
-      "score": 0.13653518353112054,
-      "horse_number": 2,
-      "odds": 8.0
-    },
-    {
-      "rank": 3,
       "horse_id": "2022105209",
       "horse_name": "ラッキーベイ",
-      "score": 0.13496889939321227,
+      "score": 0.08417857142922425,
       "horse_number": 3,
       "odds": 12.0
     },
     {
-      "rank": 4,
+      "rank": 3,
       "horse_id": "2021105584",
       "horse_name": "ツーネサーン",
-      "score": 0.04246333650153951,
+      "score": 0.06037893113070327,
       "horse_number": 1,
       "odds": 3.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104840",
+      "horse_name": "フルレゾン",
+      "score": -0.004967471851330889,
+      "horse_number": 2,
+      "odds": 8.0
     },
     {
       "rank": 5,
       "horse_id": "2022105068",
       "horse_name": "メディテラニアン",
-      "score": -0.09315695865298039,
+      "score": -0.18211070447832053,
       "horse_number": 6,
       "odds": 3.5
     },
@@ -48,7 +48,7 @@
       "rank": 6,
       "horse_id": "2022105878",
       "horse_name": "メイケイロゼッタ",
-      "score": -0.5078987691375658,
+      "score": -0.5307495633262642,
       "horse_number": 5,
       "odds": 24.1
     },

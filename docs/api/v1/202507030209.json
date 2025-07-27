@@ -1,0 +1,80 @@
+{
+  "race_id": "202507030209",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-27 16:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101457",
+      "horse_name": "アンドリーナ",
+      "score": 0.11949299124297065,
+      "horse_number": 6,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103511",
+      "horse_name": "ノンスタンダルド",
+      "score": 0.07645276691737643,
+      "horse_number": 8,
+      "odds": 6.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105058",
+      "horse_name": "ヴァンアグレアブル",
+      "score": 0.059156985929028974,
+      "horse_number": 1,
+      "odds": 3.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104917",
+      "horse_name": "エターナルプロミス",
+      "score": 0.03819886929906204,
+      "horse_number": 5,
+      "odds": 3.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105238",
+      "horse_name": "アリストクラシア",
+      "score": -0.04579130104031945,
+      "horse_number": 7,
+      "odds": 9.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102757",
+      "horse_name": "ベファーナ",
+      "score": -0.4640759120181267,
+      "horse_number": 3,
+      "odds": 20.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100188",
+      "horse_name": "ヨーグルトナン",
+      "score": -0.5088701255860182,
+      "horse_number": 9,
+      "odds": 36.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101090",
+      "horse_name": "ペイシャコパ",
+      "score": -0.5347213946685909,
+      "horse_number": 2,
+      "odds": 32.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101391",
+      "horse_name": "ブラックドレス",
+      "score": -0.6318373387288261,
+      "horse_number": 4,
+      "odds": 9.6
+    }
+  ]
+}

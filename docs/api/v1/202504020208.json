@@ -1,0 +1,128 @@
+{
+  "race_id": "202504020208",
+  "race_name": "出雲崎特別",
+  "race_time": "2025-07-27 16:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103462",
+      "horse_name": "ノットファウンド",
+      "score": 0.4918884503351072,
+      "horse_number": 9,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104732",
+      "horse_name": "アパッシメント",
+      "score": 0.09869849030115031,
+      "horse_number": 3,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100245",
+      "horse_name": "ヤマメキング",
+      "score": 0.02694007952506263,
+      "horse_number": 15,
+      "odds": 7.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020107095",
+      "horse_name": "メモリーグラス",
+      "score": -0.07078180034993702,
+      "horse_number": 1,
+      "odds": 21.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100086",
+      "horse_name": "シリウス",
+      "score": -0.07200366200301897,
+      "horse_number": 10,
+      "odds": 10.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102702",
+      "horse_name": "ストリンジェンド",
+      "score": -0.09724245762270801,
+      "horse_number": 13,
+      "odds": 8.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103706",
+      "horse_name": "アルジェンタージョ",
+      "score": -0.1691568780755606,
+      "horse_number": 7,
+      "odds": 12.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106307",
+      "horse_name": "モリノセピア",
+      "score": -0.16937933815022274,
+      "horse_number": 2,
+      "odds": 9.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104903",
+      "horse_name": "ヴェルトラウム",
+      "score": -0.18819414898572243,
+      "horse_number": 6,
+      "odds": 38.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020105957",
+      "horse_name": "ダズリングダンス",
+      "score": -0.18822971664957755,
+      "horse_number": 12,
+      "odds": 15.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102562",
+      "horse_name": "パルプフィクション",
+      "score": -0.19225470122153154,
+      "horse_number": 4,
+      "odds": 18.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103316",
+      "horse_name": "スペキオサレジーナ",
+      "score": -0.20421482309809486,
+      "horse_number": 5,
+      "odds": 15.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019102186",
+      "horse_name": "オーロラアーク",
+      "score": -0.2870332703916684,
+      "horse_number": 14,
+      "odds": 43.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105350",
+      "horse_name": "2020105350",
+      "score": -0.5071126925064392,
+      "horse_number": 11,
+      "odds": 74.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100131",
+      "horse_name": "ジェイエルバルカー",
+      "score": -0.5622146472651579,
+      "horse_number": 8,
+      "odds": 89.5
+    }
+  ]
+}
