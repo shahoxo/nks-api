@@ -1,0 +1,104 @@
+{
+  "race_id": "202507030210",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-27 17:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110106",
+      "horse_name": "アメリカンポリス",
+      "score": 0.3563505625312839,
+      "horse_number": 9,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106920",
+      "horse_name": "ニューオーリンズ",
+      "score": 0.14091357875870775,
+      "horse_number": 2,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021110072",
+      "horse_name": "メティエダール",
+      "score": 0.034718430411211185,
+      "horse_number": 3,
+      "odds": 9.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100090",
+      "horse_name": "エイシンコクスン",
+      "score": 0.023535157011752794,
+      "horse_number": 12,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103609",
+      "horse_name": "モカラマーズ",
+      "score": 0.023101382787722786,
+      "horse_number": 5,
+      "odds": 8.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106627",
+      "horse_name": "クリオシダード",
+      "score": 0.01971709658200293,
+      "horse_number": 11,
+      "odds": 38.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022110001",
+      "horse_name": "シルフズミスチーフ",
+      "score": 0.0028899891600101865,
+      "horse_number": 8,
+      "odds": 9.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100416",
+      "horse_name": "ヴァカンツァ",
+      "score": -0.03122414960472735,
+      "horse_number": 1,
+      "odds": 20.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022110141",
+      "horse_name": "ジェバーダ",
+      "score": -0.10420701860770372,
+      "horse_number": 6,
+      "odds": 20.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101396",
+      "horse_name": "サンライズブレイク",
+      "score": -0.19408786985280557,
+      "horse_number": 10,
+      "odds": 6.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101306",
+      "horse_name": "サンウイキョウ",
+      "score": -0.3030379643864803,
+      "horse_number": 7,
+      "odds": 49.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101585",
+      "horse_name": "パワーアイガー",
+      "score": -0.6214502072035267,
+      "horse_number": 4,
+      "odds": 88.5
+    }
+  ]
+}

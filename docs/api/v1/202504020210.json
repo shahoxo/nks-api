@@ -1,0 +1,120 @@
+{
+  "race_id": "202504020210",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-27 17:25",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104587",
+      "horse_name": "ディアボリカドンナ",
+      "score": 0.37429101428939027,
+      "horse_number": 14,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105751",
+      "horse_name": "イフルジャンス",
+      "score": 0.21966480216776402,
+      "horse_number": 7,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104884",
+      "horse_name": "ヴィジョンメーカー",
+      "score": 0.009691105568863389,
+      "horse_number": 12,
+      "odds": 8.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105687",
+      "horse_name": "ダノンアンチュラス",
+      "score": -0.04577084156163558,
+      "horse_number": 11,
+      "odds": 20.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103236",
+      "horse_name": "ギャランドゥ",
+      "score": -0.05257725396893381,
+      "horse_number": 2,
+      "odds": 4.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106737",
+      "horse_name": "エターナルシルバー",
+      "score": -0.12217484488430198,
+      "horse_number": 13,
+      "odds": 14.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105342",
+      "horse_name": "クラレット",
+      "score": -0.14680139554691038,
+      "horse_number": 6,
+      "odds": 14.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106822",
+      "horse_name": "マイネルフィスキオ",
+      "score": -0.22294297812522806,
+      "horse_number": 9,
+      "odds": 14.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106098",
+      "horse_name": "イサムダイヤモンド",
+      "score": -0.25269796931208927,
+      "horse_number": 8,
+      "odds": 10.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100163",
+      "horse_name": "メイショウニトベ",
+      "score": -0.3490969524302963,
+      "horse_number": 3,
+      "odds": 30.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104362",
+      "horse_name": "キョウエイグッド",
+      "score": -0.35297933881413635,
+      "horse_number": 5,
+      "odds": 19.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106082",
+      "horse_name": "ハンクスター",
+      "score": -0.5801384648901529,
+      "horse_number": 4,
+      "odds": 66.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022107266",
+      "horse_name": "リンガスマイル",
+      "score": -0.745636725054484,
+      "horse_number": 1,
+      "odds": 111.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102004",
+      "horse_name": "サバイバルダッシュ",
+      "score": -0.7498547462216962,
+      "horse_number": 10,
+      "odds": 92.5
+    }
+  ]
+}
