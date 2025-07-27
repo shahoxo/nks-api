@@ -1,0 +1,56 @@
+{
+  "race_id": "202504020202",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-07-27 10:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106850",
+      "horse_name": "ゾロアストロ",
+      "score": 0.30256185329831053,
+      "horse_number": 5,
+      "odds": 1.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104885",
+      "horse_name": "ジーネキング",
+      "score": 0.12517319400590698,
+      "horse_number": 6,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102677",
+      "horse_name": "シシリアンフラッグ",
+      "score": -0.5418979971483733,
+      "horse_number": 4,
+      "odds": 15.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106589",
+      "horse_name": "パンジー",
+      "score": -0.7092892104133881,
+      "horse_number": 1,
+      "odds": 42.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102163",
+      "horse_name": "ソルトバーン",
+      "score": -0.7560238565797833,
+      "horse_number": 2,
+      "odds": 28.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106048",
+      "horse_name": "クリスタルメモリー",
+      "score": -0.7560238565797833,
+      "horse_number": 3,
+      "odds": 32.7
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010202",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-07-27 10:30",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110031",
+      "horse_name": "ダークメモリー",
+      "score": 0.2800774859343708,
+      "horse_number": 12,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101402",
+      "horse_name": "キャナルクルーズ",
+      "score": 0.274649446037315,
+      "horse_number": 11,
+      "odds": 10.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100624",
+      "horse_name": "ピースフルゴールド",
+      "score": 0.15336699928334635,
+      "horse_number": 14,
+      "odds": 11.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105339",
+      "horse_name": "スピリットサージ",
+      "score": 0.1257544969579176,
+      "horse_number": 13,
+      "odds": 8.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100656",
+      "horse_name": "ロードステイタス",
+      "score": 0.050961779485579936,
+      "horse_number": 5,
+      "odds": 8.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100614",
+      "horse_name": "ハーフェン",
+      "score": -0.043688180042949054,
+      "horse_number": 8,
+      "odds": 4.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105593",
+      "horse_name": "エクラドネージュ",
+      "score": -0.3074767271588581,
+      "horse_number": 4,
+      "odds": 8.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104316",
+      "horse_name": "ユキノエミリオ",
+      "score": -0.31494857295492723,
+      "horse_number": 10,
+      "odds": 13.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103488",
+      "horse_name": "コルネイユドール",
+      "score": -0.3943653992962649,
+      "horse_number": 1,
+      "odds": 31.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103570",
+      "horse_name": "シーオン",
+      "score": -0.4741807484095971,
+      "horse_number": 3,
+      "odds": 55.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106295",
+      "horse_name": "スイッチビスケット",
+      "score": -0.49792271070124416,
+      "horse_number": 2,
+      "odds": 51.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106233",
+      "horse_name": "ウインボニータ",
+      "score": -0.5257829627510834,
+      "horse_number": 9,
+      "odds": 59.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104514",
+      "horse_name": "ウィンビュー",
+      "score": -0.6028557547896995,
+      "horse_number": 7,
+      "odds": 36.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100280",
+      "horse_name": "ベルシャイニー",
+      "score": -0.6139034835592895,
+      "horse_number": 6,
+      "odds": 85.3
+    }
+  ]
+}
