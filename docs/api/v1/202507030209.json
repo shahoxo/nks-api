@@ -6,27 +6,27 @@
   "predictions": [
     {
       "rank": 1,
-      "horse_id": "2022101457",
-      "horse_name": "アンドリーナ",
-      "score": 0.11949299124297065,
-      "horse_number": 6,
-      "odds": 7.2
-    },
-    {
-      "rank": 2,
       "horse_id": "2022103511",
       "horse_name": "ノンスタンダルド",
-      "score": 0.07645276691737643,
+      "score": 0.13399120657016794,
       "horse_number": 8,
       "odds": 6.7
     },
     {
-      "rank": 3,
+      "rank": 2,
       "horse_id": "2022105058",
       "horse_name": "ヴァンアグレアブル",
-      "score": 0.059156985929028974,
+      "score": 0.09846730651567935,
       "horse_number": 1,
       "odds": 3.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101457",
+      "horse_name": "アンドリーナ",
+      "score": 0.08260531201068493,
+      "horse_number": 6,
+      "odds": 7.2
     },
     {
       "rank": 4,
@@ -40,7 +40,7 @@
       "rank": 5,
       "horse_id": "2021105238",
       "horse_name": "アリストクラシア",
-      "score": -0.04579130104031945,
+      "score": -0.09437982360641438,
       "horse_number": 7,
       "odds": 9.2
     },

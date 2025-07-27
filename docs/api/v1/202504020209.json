@@ -1,0 +1,112 @@
+{
+  "race_id": "202504020209",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-07-27 16:55",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101061",
+      "horse_name": "プロフェータ",
+      "score": 0.09638500839346666,
+      "horse_number": 9,
+      "odds": 16.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102167",
+      "horse_name": "アールプロスト",
+      "score": 0.08666283429360196,
+      "horse_number": 2,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102785",
+      "horse_name": "ラーナローザ",
+      "score": 0.08482633918678245,
+      "horse_number": 6,
+      "odds": 13.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105495",
+      "horse_name": "マーゴットゲイン",
+      "score": 0.03819886929906204,
+      "horse_number": 3,
+      "odds": 4.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105859",
+      "horse_name": "リバースザトレンド",
+      "score": 0.03684071385432013,
+      "horse_number": 8,
+      "odds": 5.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103676",
+      "horse_name": "ミラクルキャッツ",
+      "score": -0.03167845885834962,
+      "horse_number": 5,
+      "odds": 8.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102676",
+      "horse_name": "コーカサスゴールド",
+      "score": -0.04111820271112892,
+      "horse_number": 12,
+      "odds": 10.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103376",
+      "horse_name": "ブレードサクセス",
+      "score": -0.05612851034556749,
+      "horse_number": 13,
+      "odds": 18.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100306",
+      "horse_name": "フジレイメイ",
+      "score": -0.08796573442090048,
+      "horse_number": 7,
+      "odds": 5.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102944",
+      "horse_name": "リュクススティール",
+      "score": -0.3360067486905902,
+      "horse_number": 10,
+      "odds": 46.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105137",
+      "horse_name": "ヴァンナチュール",
+      "score": -0.4816637722280297,
+      "horse_number": 1,
+      "odds": 64.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101256",
+      "horse_name": "クラウングスタフ",
+      "score": -0.5102433228298766,
+      "horse_number": 11,
+      "odds": 38.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103283",
+      "horse_name": "ペロ",
+      "score": -0.6277613433222765,
+      "horse_number": 4,
+      "odds": 53.7
+    }
+  ]
+}
