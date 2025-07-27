@@ -1,0 +1,88 @@
+{
+  "race_id": "202501010211",
+  "race_name": "札幌日経賞",
+  "race_time": "2025-07-27 15:25",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103945",
+      "horse_name": "ヴェルミセル",
+      "score": 0.34026117027265906,
+      "horse_number": 4,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104882",
+      "horse_name": "シュバルツクーゲル",
+      "score": 0.2432341171784358,
+      "horse_number": 5,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103794",
+      "horse_name": "エゾダイモン",
+      "score": 0.2320084210929393,
+      "horse_number": 8,
+      "odds": 12.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105829",
+      "horse_name": "スティンガーグラス",
+      "score": 0.19781530009919057,
+      "horse_number": 3,
+      "odds": 4.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2018104638",
+      "horse_name": "ミステリーウェイ",
+      "score": 0.18840936032587335,
+      "horse_number": 10,
+      "odds": 5.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103792",
+      "horse_name": "アドマイヤサジー",
+      "score": 0.17016165751297302,
+      "horse_number": 1,
+      "odds": 20.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105656",
+      "horse_name": "フルール",
+      "score": 0.08936525272379597,
+      "horse_number": 6,
+      "odds": 12.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105798",
+      "horse_name": "マイネルカンパーナ",
+      "score": 0.05017417229928835,
+      "horse_number": 2,
+      "odds": 5.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103666",
+      "horse_name": "マキシ",
+      "score": -0.032320390026168266,
+      "horse_number": 9,
+      "odds": 17.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019103850",
+      "horse_name": "パトリックハンサム",
+      "score": -0.4003658272771195,
+      "horse_number": 7,
+      "odds": 49.8
+    }
+  ]
+}
