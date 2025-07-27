@@ -1,0 +1,64 @@
+{
+  "race_id": "202507030208",
+  "race_name": "御在所特別",
+  "race_time": "2025-07-27 16:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105386",
+      "horse_name": "ピエタンツァ",
+      "score": 0.3019753616627638,
+      "horse_number": 4,
+      "odds": 2.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104840",
+      "horse_name": "フルレゾン",
+      "score": 0.13653518353112054,
+      "horse_number": 2,
+      "odds": 8.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105209",
+      "horse_name": "ラッキーベイ",
+      "score": 0.13496889939321227,
+      "horse_number": 3,
+      "odds": 12.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105584",
+      "horse_name": "ツーネサーン",
+      "score": 0.04246333650153951,
+      "horse_number": 1,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105068",
+      "horse_name": "メディテラニアン",
+      "score": -0.09315695865298039,
+      "horse_number": 6,
+      "odds": 3.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105878",
+      "horse_name": "メイケイロゼッタ",
+      "score": -0.5078987691375658,
+      "horse_number": 5,
+      "odds": 24.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022107149",
+      "horse_name": "ヴォラヴィア",
+      "score": -0.5834314610187017,
+      "horse_number": 7,
+      "odds": 18.2
+    }
+  ]
+}

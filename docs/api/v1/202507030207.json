@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2021110126",
       "horse_name": "インユアパレス",
-      "score": 0.3952119960712506,
+      "score": 0.38279743821677026,
       "horse_number": 8,
       "odds": 6.1
     },
@@ -16,7 +16,7 @@
       "rank": 2,
       "horse_id": "2020106557",
       "horse_name": "コンクイスタ",
-      "score": 0.24074041364310333,
+      "score": 0.1941241966203321,
       "horse_number": 13,
       "odds": 11.8
     },
@@ -24,7 +24,7 @@
       "rank": 3,
       "horse_id": "2021105537",
       "horse_name": "ビダーヤ",
-      "score": 0.2226464426584952,
+      "score": 0.17603022563572396,
       "horse_number": 2,
       "odds": 3.8
     },
@@ -32,7 +32,7 @@
       "rank": 4,
       "horse_id": "2020101599",
       "horse_name": "サンライズフレイム",
-      "score": 0.2153344968766423,
+      "score": 0.15503747475711344,
       "horse_number": 16,
       "odds": 5.3
     },
@@ -40,31 +40,31 @@
       "rank": 5,
       "horse_id": "2019101681",
       "horse_name": "サンライズホーク",
-      "score": 0.17961999387080774,
+      "score": 0.11932297175127883,
       "horse_number": 14,
       "odds": 19.7
     },
     {
       "rank": 6,
-      "horse_id": "2019103529",
-      "horse_name": "アルファマム",
-      "score": 0.08319948729509596,
-      "horse_number": 12,
-      "odds": 18.3
+      "horse_id": "2020105599",
+      "horse_name": "ヤマニンウルス",
+      "score": 0.06985977266815835,
+      "horse_number": 7,
+      "odds": 6.7
     },
     {
       "rank": 7,
-      "horse_id": "2020105599",
-      "horse_name": "ヤマニンウルス",
-      "score": 0.07343728396023774,
-      "horse_number": 7,
-      "odds": 6.7
+      "horse_id": "2019103529",
+      "horse_name": "アルファマム",
+      "score": 0.031837135184993634,
+      "horse_number": 12,
+      "odds": 18.3
     },
     {
       "rank": 8,
       "horse_id": "2021104876",
       "horse_name": "エートラックス",
-      "score": 0.021717645610593563,
+      "score": 0.004104491830665739,
       "horse_number": 4,
       "odds": 18.9
     },
@@ -72,47 +72,47 @@
       "rank": 9,
       "horse_id": "2020103398",
       "horse_name": "ライツフォル",
-      "score": -0.010638163451804461,
+      "score": -0.02001940768927568,
       "horse_number": 9,
       "odds": 38.3
     },
     {
       "rank": 10,
-      "horse_id": "2021101457",
-      "horse_name": "リジル",
-      "score": -0.07060548613451836,
-      "horse_number": 15,
-      "odds": 57.0
-    },
-    {
-      "rank": 11,
       "horse_id": "2020102904",
       "horse_name": "オメガギネス",
-      "score": -0.08266199676900314,
+      "score": -0.13647619254312982,
       "horse_number": 3,
       "odds": 9.0
     },
     {
+      "rank": 11,
+      "horse_id": "2021101457",
+      "horse_name": "リジル",
+      "score": -0.1687332649601066,
+      "horse_number": 15,
+      "odds": 57.0
+    },
+    {
       "rank": 12,
-      "horse_id": "2019103034",
-      "horse_name": "ダノンスコーピオン",
-      "score": -0.14474958586796466,
-      "horse_number": 6,
-      "odds": 40.4
+      "horse_id": "2019101741",
+      "horse_name": "イグザルト",
+      "score": -0.1968730400197757,
+      "horse_number": 5,
+      "odds": 70.8
     },
     {
       "rank": 13,
-      "horse_id": "2019101741",
-      "horse_name": "イグザルト",
-      "score": -0.14595726213771806,
-      "horse_number": 5,
-      "odds": 70.8
+      "horse_id": "2019103034",
+      "horse_name": "ダノンスコーピオン",
+      "score": -0.21992692571473824,
+      "horse_number": 6,
+      "odds": 40.4
     },
     {
       "rank": 14,
       "horse_id": "2018105998",
       "horse_name": "ロードエクレール",
-      "score": -0.18130625421425142,
+      "score": -0.23608835850611012,
       "horse_number": 11,
       "odds": 29.8
     },
@@ -120,7 +120,7 @@
       "rank": 15,
       "horse_id": "2020110106",
       "horse_name": "アドバンスファラオ",
-      "score": -0.23397684974101,
+      "score": -0.2848926276230676,
       "horse_number": 1,
       "odds": 58.4
     },
@@ -128,7 +128,7 @@
       "rank": 16,
       "horse_id": "2018104948",
       "horse_name": "ヴィクティファルス",
-      "score": -0.32547416147851854,
+      "score": -0.3984309391387153,
       "horse_number": 10,
       "odds": 158.9
     }

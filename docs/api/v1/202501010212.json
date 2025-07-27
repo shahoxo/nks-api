@@ -1,0 +1,72 @@
+{
+  "race_id": "202501010212",
+  "race_name": "羊ヶ丘特別",
+  "race_time": "2025-07-27 16:01",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103969",
+      "horse_name": "ヨウシタンレイ",
+      "score": 0.1436405186415306,
+      "horse_number": 6,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020105809",
+      "horse_name": "マイネルフォルツァ",
+      "score": -0.010165686562870015,
+      "horse_number": 3,
+      "odds": 6.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102734",
+      "horse_name": "エリーズダイヤ",
+      "score": -0.028139697394033505,
+      "horse_number": 2,
+      "odds": 5.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102718",
+      "horse_name": "オルフェスト",
+      "score": -0.20067084173535105,
+      "horse_number": 7,
+      "odds": 11.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020102907",
+      "horse_name": "ステラバルセロナ",
+      "score": -0.2421361033187073,
+      "horse_number": 1,
+      "odds": 5.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019106700",
+      "horse_name": "ヒロノゴウカイ",
+      "score": -0.3563054565119943,
+      "horse_number": 8,
+      "odds": 18.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019100572",
+      "horse_name": "ビーナスローズ",
+      "score": -0.38281191751268373,
+      "horse_number": 5,
+      "odds": 4.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103701",
+      "horse_name": "ルージュイストリア",
+      "score": -0.5571203828274278,
+      "horse_number": 4,
+      "odds": 8.8
+    }
+  ]
+}

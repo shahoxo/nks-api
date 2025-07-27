@@ -1,0 +1,152 @@
+{
+  "race_id": "202504020207",
+  "race_name": "関屋記念",
+  "race_time": "2025-07-27 15:45",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105661",
+      "horse_name": "レガーロデルシエロ",
+      "score": 0.3320210976586478,
+      "horse_number": 4,
+      "odds": 8.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101384",
+      "horse_name": "フォーチュンタイム",
+      "score": 0.24847235419976652,
+      "horse_number": 16,
+      "odds": 7.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021107179",
+      "horse_name": "ボンドガール",
+      "score": 0.2321562749369205,
+      "horse_number": 11,
+      "odds": 5.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105548",
+      "horse_name": "アルセナール",
+      "score": 0.223028174365606,
+      "horse_number": 17,
+      "odds": 12.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101967",
+      "horse_name": "ダイシンヤマト",
+      "score": 0.15466988658785147,
+      "horse_number": 18,
+      "odds": 15.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105293",
+      "horse_name": "カナテープ",
+      "score": 0.06851527062920915,
+      "horse_number": 14,
+      "odds": 4.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105423",
+      "horse_name": "シヴァース",
+      "score": 0.06008427790263576,
+      "horse_number": 8,
+      "odds": 8.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104697",
+      "horse_name": "イミグラントソング",
+      "score": 0.058915477181467155,
+      "horse_number": 15,
+      "odds": 9.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104556",
+      "horse_name": "トランキリテ",
+      "score": -0.023233792113862842,
+      "horse_number": 10,
+      "odds": 41.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021110031",
+      "horse_name": "オフトレイル",
+      "score": -0.07450325058919807,
+      "horse_number": 1,
+      "odds": 23.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100792",
+      "horse_name": "ハクサンバード",
+      "score": -0.13810929064085575,
+      "horse_number": 7,
+      "odds": 37.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022110114",
+      "horse_name": "シンフォーエバー",
+      "score": -0.20738222757151045,
+      "horse_number": 2,
+      "odds": 14.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020107001",
+      "horse_name": "キョウエイブリッサ",
+      "score": -0.20956581246415804,
+      "horse_number": 9,
+      "odds": 58.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018110043",
+      "horse_name": "ゴールデンシロップ",
+      "score": -0.33034331264307926,
+      "horse_number": 5,
+      "odds": 136.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018106318",
+      "horse_name": "メイショウシンタケ",
+      "score": -0.3621939820498814,
+      "horse_number": 12,
+      "odds": 75.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104702",
+      "horse_name": "ジョウショーホープ",
+      "score": -0.39436625992445096,
+      "horse_number": 3,
+      "odds": 181.7
+    },
+    {
+      "rank": 17,
+      "horse_id": "2019101408",
+      "horse_name": "ニシノスーベニア",
+      "score": -0.4200351970932136,
+      "horse_number": 6,
+      "odds": 36.4
+    },
+    {
+      "rank": 18,
+      "horse_id": "2018104225",
+      "horse_name": "リフレーミング",
+      "score": -0.5642599865899965,
+      "horse_number": 13,
+      "odds": 96.8
+    }
+  ]
+}
