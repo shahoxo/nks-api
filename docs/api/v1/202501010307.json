@@ -1,0 +1,88 @@
+{
+  "race_id": "202501010307",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-02 13:20",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105244",
+      "horse_name": "スピンザブラッド",
+      "score": 0.24356124561072162,
+      "horse_number": 4,
+      "odds": 10.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105549",
+      "horse_name": "ハートメテオ",
+      "score": 0.23817056559942892,
+      "horse_number": 7,
+      "odds": 1.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105394",
+      "horse_name": "ハニードレス",
+      "score": 0.05485303305595406,
+      "horse_number": 6,
+      "odds": 22.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105742",
+      "horse_name": "シアブリス",
+      "score": 0.017070209814993936,
+      "horse_number": 1,
+      "odds": 10.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105345",
+      "horse_name": "シンゼンカガ",
+      "score": 0.01137514182489079,
+      "horse_number": 10,
+      "odds": 9.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105421",
+      "horse_name": "コンフォルツァ",
+      "score": -0.026761837886438725,
+      "horse_number": 2,
+      "odds": 4.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101618",
+      "horse_name": "スペシャルバニー",
+      "score": -0.1782430229708187,
+      "horse_number": 9,
+      "odds": 84.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103267",
+      "horse_name": "ブラックバラード",
+      "score": -0.36335522477368926,
+      "horse_number": 8,
+      "odds": 82.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104832",
+      "horse_name": "モアリジット",
+      "score": -0.4609491227361193,
+      "horse_number": 5,
+      "odds": 54.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103651",
+      "horse_name": "ツーエムクロノス",
+      "score": -0.4929183939151113,
+      "horse_number": 3,
+      "odds": 37.5
+    }
+  ]
+}
