@@ -1,0 +1,112 @@
+{
+  "race_id": "202504020310",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-02 17:25",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105364",
+      "horse_name": "メルシージュテーム",
+      "score": 0.3152758950475229,
+      "horse_number": 5,
+      "odds": 7.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105564",
+      "horse_name": "ファリーザ",
+      "score": 0.2317674118670462,
+      "horse_number": 6,
+      "odds": 2.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107226",
+      "horse_name": "カゼノタカトシ",
+      "score": 0.1841984295757445,
+      "horse_number": 10,
+      "odds": 8.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100582",
+      "horse_name": "プルシャプラ",
+      "score": 0.1371925545871463,
+      "horse_number": 3,
+      "odds": 17.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101660",
+      "horse_name": "アンクエンチャブル",
+      "score": 0.06968188189927771,
+      "horse_number": 8,
+      "odds": 7.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100548",
+      "horse_name": "ヴィーデ",
+      "score": -0.12168384077227555,
+      "horse_number": 11,
+      "odds": 19.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105548",
+      "horse_name": "プロスペクトパーク",
+      "score": -0.20432630187204703,
+      "horse_number": 2,
+      "odds": 5.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102508",
+      "horse_name": "トウタツ",
+      "score": -0.2504026535119813,
+      "horse_number": 12,
+      "odds": 22.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104744",
+      "horse_name": "ノーブルアクト",
+      "score": -0.2619977554751103,
+      "horse_number": 9,
+      "odds": 20.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104062",
+      "horse_name": "カージオイド",
+      "score": -0.3087659383921306,
+      "horse_number": 4,
+      "odds": 40.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105125",
+      "horse_name": "リヤンドゥミラクル",
+      "score": -0.32554398741761265,
+      "horse_number": 1,
+      "odds": 27.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104951",
+      "horse_name": "ブルーゴールド",
+      "score": -0.36722974083359294,
+      "horse_number": 7,
+      "odds": 30.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021110151",
+      "horse_name": "レゲエビーチ",
+      "score": -0.4255115572468692,
+      "horse_number": 13,
+      "odds": 61.1
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "race_id": "202507030310",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-02 17:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105736",
+      "horse_name": "カルパ",
+      "score": 0.4187699600781988,
+      "horse_number": 6,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104448",
+      "horse_name": "ガビーズブラザー",
+      "score": 0.22038973917021748,
+      "horse_number": 7,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101033",
+      "horse_name": "サムデイ",
+      "score": -0.005241055159361144,
+      "horse_number": 12,
+      "odds": 17.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100328",
+      "horse_name": "ハクサンアイリス",
+      "score": -0.12598516672352614,
+      "horse_number": 9,
+      "odds": 5.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103229",
+      "horse_name": "ウォーターパラディ",
+      "score": -0.18326288771545707,
+      "horse_number": 8,
+      "odds": 28.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100335",
+      "horse_name": "アクルクス",
+      "score": -0.2006405420468696,
+      "horse_number": 4,
+      "odds": 51.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105933",
+      "horse_name": "アシャカブラン",
+      "score": -0.22800270598750594,
+      "horse_number": 5,
+      "odds": 31.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104673",
+      "horse_name": "ダディーズアイル",
+      "score": -0.22872852285573947,
+      "horse_number": 3,
+      "odds": 22.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103286",
+      "horse_name": "エナジーガンツ",
+      "score": -0.3078094281288728,
+      "horse_number": 10,
+      "odds": 11.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105474",
+      "horse_name": "シャドウキャッスル",
+      "score": -0.4163616577103368,
+      "horse_number": 13,
+      "odds": 8.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020107018",
+      "horse_name": "レジェンダリーデイ",
+      "score": -0.4338379608614893,
+      "horse_number": 11,
+      "odds": 49.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104663",
+      "horse_name": "ミスヨシゼン",
+      "score": -0.4868315977005896,
+      "horse_number": 1,
+      "odds": 35.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102642",
+      "horse_name": "パルメリータ",
+      "score": -0.5787136847473344,
+      "horse_number": 2,
+      "odds": 11.6
+    }
+  ]
+}
