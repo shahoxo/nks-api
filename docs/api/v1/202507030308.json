@@ -1,0 +1,120 @@
+{
+  "race_id": "202507030308",
+  "race_name": "浜松特別",
+  "race_time": "2025-08-02 16:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110081",
+      "horse_name": "テーオーエルビス",
+      "score": 0.3293060853503217,
+      "horse_number": 13,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105753",
+      "horse_name": "フェンダー",
+      "score": 0.10751697403152151,
+      "horse_number": 10,
+      "odds": 2.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106936",
+      "horse_name": "フレイミングパイ",
+      "score": -0.032410219665717076,
+      "horse_number": 7,
+      "odds": 22.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110131",
+      "horse_name": "エコロネオ",
+      "score": -0.13017214847508932,
+      "horse_number": 1,
+      "odds": 10.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105711",
+      "horse_name": "ズバットマサムネ",
+      "score": -0.14007518150071488,
+      "horse_number": 8,
+      "odds": 52.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106305",
+      "horse_name": "ランウインディ",
+      "score": -0.24390161288609313,
+      "horse_number": 11,
+      "odds": 80.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101557",
+      "horse_name": "アスタールフナ",
+      "score": -0.26714899233146666,
+      "horse_number": 5,
+      "odds": 5.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019105860",
+      "horse_name": "オースミメッシーナ",
+      "score": -0.30989772359573564,
+      "horse_number": 14,
+      "odds": 42.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104751",
+      "horse_name": "ゼットカレン",
+      "score": -0.32543036392816277,
+      "horse_number": 6,
+      "odds": 86.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106409",
+      "horse_name": "ペプチドハドソン",
+      "score": -0.349964934138558,
+      "horse_number": 3,
+      "odds": 21.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105434",
+      "horse_name": "サドル",
+      "score": -0.3616942325217068,
+      "horse_number": 9,
+      "odds": 56.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019103825",
+      "horse_name": "スペシャルナンバー",
+      "score": -0.39708258427067256,
+      "horse_number": 2,
+      "odds": 37.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2017106394",
+      "horse_name": "サウンドサンビーム",
+      "score": -0.4573947879156749,
+      "horse_number": 12,
+      "odds": 120.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019105359",
+      "horse_name": "シンエン",
+      "score": -0.513166291349686,
+      "horse_number": 4,
+      "odds": 35.4
+    }
+  ]
+}
