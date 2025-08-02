@@ -1,0 +1,136 @@
+{
+  "race_id": "202501010311",
+  "race_name": "STV賞",
+  "race_time": "2025-08-02 15:25",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102246",
+      "horse_name": "テーオーダグラス",
+      "score": 0.17407254125850757,
+      "horse_number": 12,
+      "odds": 11.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2018106314",
+      "horse_name": "エープラス",
+      "score": 0.16759591554434627,
+      "horse_number": 13,
+      "odds": 32.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104812",
+      "horse_name": "テリオスララ",
+      "score": 0.1274766594976091,
+      "horse_number": 7,
+      "odds": 3.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106667",
+      "horse_name": "サトノクローク",
+      "score": 0.11270830042256656,
+      "horse_number": 1,
+      "odds": 13.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105442",
+      "horse_name": "エラトー",
+      "score": 0.11238134343240774,
+      "horse_number": 2,
+      "odds": 4.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102510",
+      "horse_name": "ナムラフッカー",
+      "score": 0.08297673623783947,
+      "horse_number": 8,
+      "odds": 8.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100789",
+      "horse_name": "ハニーコム",
+      "score": 0.08230066278197061,
+      "horse_number": 4,
+      "odds": 17.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101724",
+      "horse_name": "ガジュノリ",
+      "score": 0.0756268184312687,
+      "horse_number": 3,
+      "odds": 8.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105011",
+      "horse_name": "ラーンザロープス",
+      "score": 0.027785310224128883,
+      "horse_number": 10,
+      "odds": 16.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105462",
+      "horse_name": "ソリダリティ",
+      "score": -0.089808670556014,
+      "horse_number": 5,
+      "odds": 12.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100809",
+      "horse_name": "アマイ",
+      "score": -0.17997480261988924,
+      "horse_number": 11,
+      "odds": 25.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103009",
+      "horse_name": "フェステスバント",
+      "score": -0.24425744167226965,
+      "horse_number": 14,
+      "odds": 38.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019107025",
+      "horse_name": "クレバーテースト",
+      "score": -0.43658922602631145,
+      "horse_number": 15,
+      "odds": 26.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020103920",
+      "horse_name": "フェミナフォルテ",
+      "score": -0.4758084657529835,
+      "horse_number": 16,
+      "odds": 43.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103279",
+      "horse_name": "ショーモン",
+      "score": -0.5488310238833476,
+      "horse_number": 6,
+      "odds": 93.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019101612",
+      "horse_name": "アスクオンディープ",
+      "score": -0.6877651437457144,
+      "horse_number": 9,
+      "odds": 86.5
+    }
+  ]
+}

@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2021110030",
       "horse_name": "アンパドゥ",
-      "score": 0.45280660199796496,
+      "score": 0.4847457383052189,
       "horse_number": 5,
       "odds": 2.2
     },
@@ -16,31 +16,31 @@
       "rank": 2,
       "horse_id": "2022106950",
       "horse_name": "シャンクス",
-      "score": 0.3133437520103828,
+      "score": 0.34956058128677814,
       "horse_number": 13,
       "odds": 11.9
     },
     {
       "rank": 3,
-      "horse_id": "2021103303",
-      "horse_name": "ドリーミングアップ",
-      "score": 0.2646070973783431,
-      "horse_number": 14,
-      "odds": 8.4
+      "horse_id": "2020103705",
+      "horse_name": "レッドロスタム",
+      "score": 0.3264200633278429,
+      "horse_number": 2,
+      "odds": 9.6
     },
     {
       "rank": 4,
-      "horse_id": "2020103705",
-      "horse_name": "レッドロスタム",
-      "score": 0.25623249165006756,
-      "horse_number": 2,
-      "odds": 9.6
+      "horse_id": "2021103303",
+      "horse_name": "ドリーミングアップ",
+      "score": 0.2390889216096046,
+      "horse_number": 14,
+      "odds": 8.4
     },
     {
       "rank": 5,
       "horse_id": "2022101134",
       "horse_name": "テンミラクルスター",
-      "score": 0.22721798551357902,
+      "score": 0.1806017684908078,
       "horse_number": 12,
       "odds": 10.8
     },
@@ -48,7 +48,7 @@
       "rank": 6,
       "horse_id": "2022104095",
       "horse_name": "フェンスブレイカー",
-      "score": 0.117178798020571,
+      "score": 0.17596467857308265,
       "horse_number": 10,
       "odds": 40.6
     },
@@ -56,7 +56,7 @@
       "rank": 7,
       "horse_id": "2022104814",
       "horse_name": "ダノンセンチュリー",
-      "score": 0.0656034629102172,
+      "score": 0.012027004716897223,
       "horse_number": 1,
       "odds": 6.1
     },
@@ -80,7 +80,7 @@
       "rank": 10,
       "horse_id": "2021105168",
       "horse_name": "クイーンズワーフ",
-      "score": -0.1565674289997734,
+      "score": -0.21504868907951064,
       "horse_number": 8,
       "odds": 37.3
     },
