@@ -10,7 +10,7 @@
       "horse_name": "パッシングシャワー",
       "score": 0.1530208310724831,
       "horse_number": 6,
-      "odds": 8.1
+      "odds": 9.5
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "ルシード",
       "score": 0.13310245220407443,
       "horse_number": 9,
-      "odds": 6.3
+      "odds": 7.6
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "マジカルシャイン",
       "score": 0.08256545654577678,
       "horse_number": 3,
-      "odds": 5.4
+      "odds": 4.2
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "ジャスパーディビネ",
       "score": 0.04568054048437415,
       "horse_number": 10,
-      "odds": 3.3
+      "odds": 2.7
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "ドランクマン",
       "score": 0.02321002424132475,
       "horse_number": 7,
-      "odds": 11.0
+      "odds": 18.6
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "スピニングマーリン",
       "score": -0.09121149393281004,
       "horse_number": 8,
-      "odds": 48.1
+      "odds": 71.0
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "クインズスピカ",
       "score": -0.10847531704801561,
       "horse_number": 2,
-      "odds": 5.6
+      "odds": 5.1
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "テリオスルル",
       "score": -0.2983020118129571,
       "horse_number": 1,
-      "odds": 10.1
+      "odds": 9.3
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "テイクイットオール",
       "score": -0.4134720611625617,
       "horse_number": 4,
-      "odds": 12.1
+      "odds": 28.8
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "アルマロクザン",
       "score": -0.5515590041871333,
       "horse_number": 5,
-      "odds": 66.1
+      "odds": 93.8
     }
   ]
 }

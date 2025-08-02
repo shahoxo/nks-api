@@ -1,0 +1,128 @@
+{
+  "race_id": "202504020306",
+  "race_name": "五頭連峰特別",
+  "race_time": "2025-08-02 15:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110030",
+      "horse_name": "アンパドゥ",
+      "score": 0.45280660199796496,
+      "horse_number": 5,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106950",
+      "horse_name": "シャンクス",
+      "score": 0.3133437520103828,
+      "horse_number": 13,
+      "odds": 11.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103303",
+      "horse_name": "ドリーミングアップ",
+      "score": 0.2646070973783431,
+      "horse_number": 14,
+      "odds": 8.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103705",
+      "horse_name": "レッドロスタム",
+      "score": 0.25623249165006756,
+      "horse_number": 2,
+      "odds": 9.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101134",
+      "horse_name": "テンミラクルスター",
+      "score": 0.22721798551357902,
+      "horse_number": 12,
+      "odds": 10.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104095",
+      "horse_name": "フェンスブレイカー",
+      "score": 0.117178798020571,
+      "horse_number": 10,
+      "odds": 40.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104814",
+      "horse_name": "ダノンセンチュリー",
+      "score": 0.0656034629102172,
+      "horse_number": 1,
+      "odds": 6.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104912",
+      "horse_name": "カーラデマドレ",
+      "score": -0.024998421590461846,
+      "horse_number": 3,
+      "odds": 20.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104666",
+      "horse_name": "カザンラク",
+      "score": -0.059187811628532275,
+      "horse_number": 4,
+      "odds": 18.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105168",
+      "horse_name": "クイーンズワーフ",
+      "score": -0.1565674289997734,
+      "horse_number": 8,
+      "odds": 37.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102153",
+      "horse_name": "ダガーリング",
+      "score": -0.34936615141586774,
+      "horse_number": 11,
+      "odds": 130.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105871",
+      "horse_name": "ソニックライン",
+      "score": -0.45131961854884894,
+      "horse_number": 9,
+      "odds": 18.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101211",
+      "horse_name": "ダイユウハミルトン",
+      "score": -0.6333228464902197,
+      "horse_number": 6,
+      "odds": 84.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102229",
+      "horse_name": "グラスビジョン",
+      "score": -0.6508542296343173,
+      "horse_number": 7,
+      "odds": 160.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103638",
+      "horse_name": "ハードワーカー",
+      "score": -0.7344997899121097,
+      "horse_number": 15,
+      "odds": 65.0
+    }
+  ]
+}
