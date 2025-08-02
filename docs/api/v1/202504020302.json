@@ -1,0 +1,128 @@
+{
+  "race_id": "202504020302",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-02 10:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100390",
+      "horse_name": "アバレリュウ",
+      "score": 0.13067394825730852,
+      "horse_number": 5,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101256",
+      "horse_name": "トキノカンピオーネ",
+      "score": -0.04557933694090602,
+      "horse_number": 10,
+      "odds": 6.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105156",
+      "horse_name": "レッドシュトラール",
+      "score": -0.09505924655737093,
+      "horse_number": 11,
+      "odds": 6.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102572",
+      "horse_name": "ファリードゥーン",
+      "score": -0.1529964358718071,
+      "horse_number": 7,
+      "odds": 4.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104999",
+      "horse_name": "2022104999",
+      "score": -0.22774667316694805,
+      "horse_number": 2,
+      "odds": 14.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102789",
+      "horse_name": "ガルガファルム",
+      "score": -0.23232539538607713,
+      "horse_number": 9,
+      "odds": 27.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102801",
+      "horse_name": "グールマン",
+      "score": -0.24061378266057237,
+      "horse_number": 14,
+      "odds": 20.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103083",
+      "horse_name": "センジュコスモス",
+      "score": -0.2804466662293204,
+      "horse_number": 13,
+      "odds": 6.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104074",
+      "horse_name": "サクラコーラル",
+      "score": -0.33048090376424244,
+      "horse_number": 1,
+      "odds": 53.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105377",
+      "horse_name": "オンザバサラ",
+      "score": -0.5181818844440309,
+      "horse_number": 15,
+      "odds": 31.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105080",
+      "horse_name": "ミッキーサンズ",
+      "score": -0.557439498482435,
+      "horse_number": 8,
+      "odds": 43.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102662",
+      "horse_name": "フラッシュタイム",
+      "score": -0.5679670300894952,
+      "horse_number": 12,
+      "odds": 40.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100519",
+      "horse_name": "レベチアミーゴ",
+      "score": -0.6019904973327082,
+      "horse_number": 3,
+      "odds": 42.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101548",
+      "horse_name": "ヴァルトバーデン",
+      "score": -0.6332850133771086,
+      "horse_number": 6,
+      "odds": 31.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103116",
+      "horse_name": "トンヤイビーン",
+      "score": -0.7006989503622331,
+      "horse_number": 4,
+      "odds": 30.8
+    }
+  ]
+}
