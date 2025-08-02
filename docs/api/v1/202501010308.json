@@ -1,0 +1,96 @@
+{
+  "race_id": "202501010308",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-02 13:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105702",
+      "horse_name": "リアライズカミオン",
+      "score": 0.3815929806606645,
+      "horse_number": 8,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101044",
+      "horse_name": "グレイスフルマーチ",
+      "score": 0.05157407884096328,
+      "horse_number": 1,
+      "odds": 8.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106259",
+      "horse_name": "ララエキリーブル",
+      "score": -0.08351754723298387,
+      "horse_number": 10,
+      "odds": 13.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102813",
+      "horse_name": "ハイケンス",
+      "score": -0.08357488809363181,
+      "horse_number": 11,
+      "odds": 38.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022107011",
+      "horse_name": "ニシノブレイゼスト",
+      "score": -0.12706738664128078,
+      "horse_number": 7,
+      "odds": 8.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103619",
+      "horse_name": "タマモジャスミン",
+      "score": -0.22585738662366434,
+      "horse_number": 3,
+      "odds": 10.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019106520",
+      "horse_name": "スノーホルンロード",
+      "score": -0.2504026535119813,
+      "horse_number": 4,
+      "odds": 24.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106180",
+      "horse_name": "シーリュウシー",
+      "score": -0.2783526194985663,
+      "horse_number": 6,
+      "odds": 22.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105458",
+      "horse_name": "ピリカサンライズ",
+      "score": -0.3136694691825974,
+      "horse_number": 2,
+      "odds": 15.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2017105392",
+      "horse_name": "スパークインザアイ",
+      "score": -0.4657432576154973,
+      "horse_number": 5,
+      "odds": 61.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106003",
+      "horse_name": "ファイヤーウィップ",
+      "score": -0.5494931663403189,
+      "horse_number": 9,
+      "odds": 13.6
+    }
+  ]
+}
