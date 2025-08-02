@@ -6,59 +6,59 @@
   "predictions": [
     {
       "rank": 1,
-      "horse_id": "2022103592",
-      "horse_name": "ルシード",
-      "score": 0.11661680466271189,
-      "horse_number": 9,
-      "odds": 6.3
-    },
-    {
-      "rank": 2,
       "horse_id": "2021110033",
       "horse_name": "パッシングシャワー",
-      "score": 0.08760583444218871,
+      "score": 0.1530208310724831,
       "horse_number": 6,
       "odds": 8.1
     },
     {
-      "rank": 3,
-      "horse_id": "2021102164",
-      "horse_name": "ドランクマン",
-      "score": 0.07923944065703764,
-      "horse_number": 7,
-      "odds": 11.0
+      "rank": 2,
+      "horse_id": "2022103592",
+      "horse_name": "ルシード",
+      "score": 0.13310245220407443,
+      "horse_number": 9,
+      "odds": 6.3
     },
     {
-      "rank": 4,
+      "rank": 3,
       "horse_id": "2022110012",
       "horse_name": "マジカルシャイン",
-      "score": 0.07277420595923197,
+      "score": 0.08256545654577678,
       "horse_number": 3,
       "odds": 5.4
     },
     {
-      "rank": 5,
-      "horse_id": "2021106559",
-      "horse_name": "クインズスピカ",
-      "score": 0.039249029974976014,
-      "horse_number": 2,
-      "odds": 5.6
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "horse_id": "2022110112",
       "horse_name": "ジャスパーディビネ",
-      "score": -0.021100689303509078,
+      "score": 0.04568054048437415,
       "horse_number": 10,
       "odds": 3.3
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "horse_id": "2021102164",
+      "horse_name": "ドランクマン",
+      "score": 0.02321002424132475,
+      "horse_number": 7,
+      "odds": 11.0
+    },
+    {
+      "rank": 6,
       "horse_id": "2020104415",
       "horse_name": "スピニングマーリン",
       "score": -0.09121149393281004,
       "horse_number": 8,
       "odds": 48.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106559",
+      "horse_name": "クインズスピカ",
+      "score": -0.10847531704801561,
+      "horse_number": 2,
+      "odds": 5.6
     },
     {
       "rank": 8,
@@ -72,7 +72,7 @@
       "rank": 9,
       "horse_id": "2022106647",
       "horse_name": "テイクイットオール",
-      "score": -0.37929916534219793,
+      "score": -0.4134720611625617,
       "horse_number": 4,
       "odds": 12.1
     },

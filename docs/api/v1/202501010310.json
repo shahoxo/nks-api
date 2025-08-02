@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010310",
+  "race_name": "釧路湿原特別",
+  "race_time": "2025-08-02 14:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104784",
+      "horse_name": "ルクスジニア",
+      "score": 0.21207687408354103,
+      "horse_number": 5,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100177",
+      "horse_name": "ロードマンハイム",
+      "score": 0.14469601319739084,
+      "horse_number": 14,
+      "odds": 8.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103345",
+      "horse_name": "ウォータークラーク",
+      "score": 0.13426241540765022,
+      "horse_number": 4,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104978",
+      "horse_name": "マルカオペラ",
+      "score": 0.10197437645103231,
+      "horse_number": 11,
+      "odds": 17.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103519",
+      "horse_name": "リラボニート",
+      "score": 0.08075860601027814,
+      "horse_number": 13,
+      "odds": 6.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106827",
+      "horse_name": "マイネルバーテクス",
+      "score": 0.07560429670547963,
+      "horse_number": 6,
+      "odds": 18.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106993",
+      "horse_name": "サクソンジェンヌ",
+      "score": -0.0699845866949399,
+      "horse_number": 2,
+      "odds": 11.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101184",
+      "horse_name": "シャイニースイフト",
+      "score": -0.1251628294131769,
+      "horse_number": 10,
+      "odds": 32.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106826",
+      "horse_name": "レッセパッセ",
+      "score": -0.14979450958298987,
+      "horse_number": 3,
+      "odds": 29.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106966",
+      "horse_name": "ピンクジン",
+      "score": -0.16054656207941354,
+      "horse_number": 8,
+      "odds": 17.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102115",
+      "horse_name": "アラタマフェーヴル",
+      "score": -0.16878885179162978,
+      "horse_number": 7,
+      "odds": 13.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100084",
+      "horse_name": "ジェットマグナム",
+      "score": -0.27860017016719374,
+      "horse_number": 9,
+      "odds": 12.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018105199",
+      "horse_name": "ビジューブリランテ",
+      "score": -0.3280748711069206,
+      "horse_number": 12,
+      "odds": 47.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105183",
+      "horse_name": "ウインルピナス",
+      "score": -0.43459047121018674,
+      "horse_number": 1,
+      "odds": 17.5
+    }
+  ]
+}
