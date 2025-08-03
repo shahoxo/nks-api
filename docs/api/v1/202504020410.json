@@ -1,0 +1,128 @@
+{
+  "race_id": "202504020410",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-03 17:25",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104440",
+      "horse_name": "ハーモニーソング",
+      "score": 0.3070542429784086,
+      "horse_number": 11,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107359",
+      "horse_name": "サマースイートピー",
+      "score": 0.2653940771504721,
+      "horse_number": 1,
+      "odds": 9.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105494",
+      "horse_name": "フクチャンヒメ",
+      "score": 0.1718538738970259,
+      "horse_number": 2,
+      "odds": 8.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020105813",
+      "horse_name": "マーゴットレーヴ",
+      "score": 0.08584011254167194,
+      "horse_number": 5,
+      "odds": 9.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103857",
+      "horse_name": "クインズシフォン",
+      "score": 0.019313550961806085,
+      "horse_number": 10,
+      "odds": 6.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101983",
+      "horse_name": "ミライヘノブーケ",
+      "score": 0.016174745511872535,
+      "horse_number": 13,
+      "odds": 35.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101793",
+      "horse_name": "オオゾラヒバリ",
+      "score": -0.17994151598607308,
+      "horse_number": 12,
+      "odds": 21.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103257",
+      "horse_name": "チャコール",
+      "score": -0.2008142023418059,
+      "horse_number": 6,
+      "odds": 18.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104128",
+      "horse_name": "クイーンアポーン",
+      "score": -0.2096960753240385,
+      "horse_number": 14,
+      "odds": 44.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102592",
+      "horse_name": "アフトクラーティラ",
+      "score": -0.24331047058948968,
+      "horse_number": 9,
+      "odds": 14.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103343",
+      "horse_name": "ハヌル",
+      "score": -0.33175983626218775,
+      "horse_number": 7,
+      "odds": 25.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103798",
+      "horse_name": "バルサミコ",
+      "score": -0.3956504205182313,
+      "horse_number": 15,
+      "odds": 13.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104499",
+      "horse_name": "リアンエターナル",
+      "score": -0.6970415147616792,
+      "horse_number": 8,
+      "odds": 16.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102756",
+      "horse_name": "アンビシュー",
+      "score": -0.7212483613895885,
+      "horse_number": 3,
+      "odds": 31.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019101340",
+      "horse_name": "ブルーデイジー",
+      "score": -0.7344997899121097,
+      "horse_number": 4,
+      "odds": 113.6
+    }
+  ]
+}

@@ -16,25 +16,25 @@
       "rank": 2,
       "horse_id": "2022105867",
       "horse_name": "ジェントルショット",
-      "score": 0.007123981071466837,
+      "score": -0.00512923371415646,
       "horse_number": 4,
       "odds": 8.5
     },
     {
       "rank": 3,
-      "horse_id": "2022104264",
-      "horse_name": "ライヴスプーン",
-      "score": -0.01557775062888514,
-      "horse_number": 7,
-      "odds": 11.4
-    },
-    {
-      "rank": 4,
       "horse_id": "2022101671",
       "horse_name": "ブランクシート",
       "score": -0.1016408902360651,
       "horse_number": 13,
       "odds": 39.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104264",
+      "horse_name": "ライヴスプーン",
+      "score": -0.17210106768493952,
+      "horse_number": 7,
+      "odds": 11.4
     },
     {
       "rank": 5,
@@ -56,7 +56,7 @@
       "rank": 7,
       "horse_id": "2022101140",
       "horse_name": "ガイ",
-      "score": -0.303966913173291,
+      "score": -0.2758818461773694,
       "horse_number": 1,
       "odds": 45.4
     },

@@ -1,0 +1,136 @@
+{
+  "race_id": "202507030410",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-03 17:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2018103293",
+      "horse_name": "ヨドノゴールド",
+      "score": 0.39487475559354535,
+      "horse_number": 13,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104633",
+      "horse_name": "アーデルリーベ",
+      "score": 0.1301161562170542,
+      "horse_number": 12,
+      "odds": 7.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100337",
+      "horse_name": "ゼンカイパイロ",
+      "score": 0.10366990271804996,
+      "horse_number": 14,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103714",
+      "horse_name": "ミルトライディーン",
+      "score": 0.09068503402712692,
+      "horse_number": 6,
+      "odds": 18.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106631",
+      "horse_name": "バシリス",
+      "score": 0.07568746763001506,
+      "horse_number": 1,
+      "odds": 12.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104674",
+      "horse_name": "フィドルファドル",
+      "score": 0.03888778985522298,
+      "horse_number": 15,
+      "odds": 4.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022107147",
+      "horse_name": "キョラムン",
+      "score": 0.0017486258683043028,
+      "horse_number": 9,
+      "odds": 9.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100136",
+      "horse_name": "スカイブルー",
+      "score": -0.04276183047691458,
+      "horse_number": 16,
+      "odds": 8.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104515",
+      "horse_name": "ビーアイフォルテ",
+      "score": -0.0849535509500097,
+      "horse_number": 8,
+      "odds": 65.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103195",
+      "horse_name": "ヴェントインコーダ",
+      "score": -0.10983161865816266,
+      "horse_number": 5,
+      "odds": 35.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103448",
+      "horse_name": "ツーピース",
+      "score": -0.18628435019475142,
+      "horse_number": 4,
+      "odds": 29.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106717",
+      "horse_name": "カフェロワイヤル",
+      "score": -0.2106434132177097,
+      "horse_number": 11,
+      "odds": 33.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103485",
+      "horse_name": "アスコットアイ",
+      "score": -0.21371259380017116,
+      "horse_number": 7,
+      "odds": 25.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103285",
+      "horse_name": "クリノミニスター",
+      "score": -0.2406576277262454,
+      "horse_number": 3,
+      "odds": 30.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103527",
+      "horse_name": "ライツユーアップ",
+      "score": -0.32007684617937393,
+      "horse_number": 10,
+      "odds": 28.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101408",
+      "horse_name": "フェニーチェドーロ",
+      "score": -0.436917116652609,
+      "horse_number": 2,
+      "odds": 74.2
+    }
+  ]
+}
