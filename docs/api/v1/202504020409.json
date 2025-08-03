@@ -1,0 +1,128 @@
+{
+  "race_id": "202504020409",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-03 16:55",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105258",
+      "horse_name": "ホークライト",
+      "score": 0.36998789263600634,
+      "horse_number": 9,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105867",
+      "horse_name": "ジェントルショット",
+      "score": 0.007123981071466837,
+      "horse_number": 4,
+      "odds": 8.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104264",
+      "horse_name": "ライヴスプーン",
+      "score": -0.01557775062888514,
+      "horse_number": 7,
+      "odds": 11.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101671",
+      "horse_name": "ブランクシート",
+      "score": -0.1016408902360651,
+      "horse_number": 13,
+      "odds": 39.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103247",
+      "horse_name": "ノブレスジャン",
+      "score": -0.2134581036487275,
+      "horse_number": 3,
+      "odds": 6.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101286",
+      "horse_name": "クラウンアールシー",
+      "score": -0.2725840168754257,
+      "horse_number": 14,
+      "odds": 6.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101140",
+      "horse_name": "ガイ",
+      "score": -0.303966913173291,
+      "horse_number": 1,
+      "odds": 45.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102540",
+      "horse_name": "アストラン",
+      "score": -0.30496682132074643,
+      "horse_number": 8,
+      "odds": 18.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106716",
+      "horse_name": "ワウワウワウ",
+      "score": -0.5248943190552023,
+      "horse_number": 15,
+      "odds": 14.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104544",
+      "horse_name": "ラファエラエンゼル",
+      "score": -0.5740065689190104,
+      "horse_number": 10,
+      "odds": 31.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104147",
+      "horse_name": "ミンナデガンバル",
+      "score": -0.6019904973327082,
+      "horse_number": 11,
+      "odds": 36.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104263",
+      "horse_name": "カドバンソコヂカラ",
+      "score": -0.6199831223542747,
+      "horse_number": 12,
+      "odds": 17.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106420",
+      "horse_name": "パーティーガール",
+      "score": -0.6315802121988274,
+      "horse_number": 5,
+      "odds": 24.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106482",
+      "horse_name": "ヒロノビックバン",
+      "score": -0.6961644114972435,
+      "horse_number": 2,
+      "odds": 27.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103569",
+      "horse_name": "フルボーグ",
+      "score": -0.738611935862869,
+      "horse_number": 6,
+      "odds": 42.9
+    }
+  ]
+}

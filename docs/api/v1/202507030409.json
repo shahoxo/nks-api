@@ -8,25 +8,25 @@
       "rank": 1,
       "horse_id": "2022103100",
       "horse_name": "リオンプライム",
-      "score": 0.22889064882390192,
+      "score": 0.25016470687318954,
       "horse_number": 18,
       "odds": 9.4
     },
     {
       "rank": 2,
-      "horse_id": "2022102931",
-      "horse_name": "アイスモント",
-      "score": 0.201481608223817,
-      "horse_number": 7,
-      "odds": 5.7
+      "horse_id": "2022104894",
+      "horse_name": "ダノンフィオーレ",
+      "score": 0.23267675290105178,
+      "horse_number": 2,
+      "odds": 3.6
     },
     {
       "rank": 3,
-      "horse_id": "2022104894",
-      "horse_name": "ダノンフィオーレ",
-      "score": 0.1614596328754065,
-      "horse_number": 2,
-      "odds": 3.6
+      "horse_id": "2022102931",
+      "horse_name": "アイスモント",
+      "score": 0.19210036398634578,
+      "horse_number": 7,
+      "odds": 5.7
     },
     {
       "rank": 4,
@@ -38,43 +38,43 @@
     },
     {
       "rank": 5,
-      "horse_id": "2022100792",
-      "horse_name": "ワイドリューレント",
-      "score": 0.1155343738981216,
-      "horse_number": 4,
-      "odds": 6.2
-    },
-    {
-      "rank": 6,
       "horse_id": "2022101036",
       "horse_name": "シュパネントダイヤ",
-      "score": 0.10241579072167518,
+      "score": 0.13050085771759673,
       "horse_number": 6,
       "odds": 8.1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "horse_id": "2022101759",
       "horse_name": "セキトバシューズ",
-      "score": 0.08082431338429487,
+      "score": 0.12374321410066104,
       "horse_number": 9,
       "odds": 19.1
     },
     {
+      "rank": 7,
+      "horse_id": "2022100792",
+      "horse_name": "ワイドリューレント",
+      "score": 0.10873289661013165,
+      "horse_number": 4,
+      "odds": 6.2
+    },
+    {
       "rank": 8,
-      "horse_id": "2022100457",
-      "horse_name": "テレプシコーラ",
-      "score": 0.0663958730640107,
-      "horse_number": 17,
-      "odds": 18.4
+      "horse_id": "2022102613",
+      "horse_name": "ジョリーピクシー",
+      "score": 0.0638244264653159,
+      "horse_number": 13,
+      "odds": 14.5
     },
     {
       "rank": 9,
-      "horse_id": "2022102613",
-      "horse_name": "ジョリーピクシー",
-      "score": 0.054033175878771086,
-      "horse_number": 13,
-      "odds": 14.5
+      "horse_id": "2022100457",
+      "horse_name": "テレプシコーラ",
+      "score": -0.12406308746761308,
+      "horse_number": 17,
+      "odds": 18.4
     },
     {
       "rank": 10,
@@ -88,7 +88,7 @@
       "rank": 11,
       "horse_id": "2022102430",
       "horse_name": "カーリンハート",
-      "score": -0.31655477426998035,
+      "score": -0.3654086791286125,
       "horse_number": 1,
       "odds": 22.4
     },
@@ -96,7 +96,7 @@
       "rank": 12,
       "horse_id": "2022100643",
       "horse_name": "ルックアップトゥー",
-      "score": -0.35385150818357086,
+      "score": -0.36998843971483814,
       "horse_number": 15,
       "odds": 56.6
     },
@@ -118,14 +118,6 @@
     },
     {
       "rank": 15,
-      "horse_id": "2022107240",
-      "horse_name": "ホウショウビフウ",
-      "score": -0.4692030544386184,
-      "horse_number": 11,
-      "odds": 91.9
-    },
-    {
-      "rank": 16,
       "horse_id": "2022102795",
       "horse_name": "エメラルドライン",
       "score": -0.4753236032160829,
@@ -133,12 +125,20 @@
       "odds": 53.2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "horse_id": "2022100346",
       "horse_name": "サフランクイン",
       "score": -0.48521933492533276,
       "horse_number": 8,
       "odds": 60.1
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022107240",
+      "horse_name": "ホウショウビフウ",
+      "score": -0.4920538486273168,
+      "horse_number": 11,
+      "odds": 91.9
     },
     {
       "rank": 18,
