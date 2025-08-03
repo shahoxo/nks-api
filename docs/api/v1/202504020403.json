@@ -1,0 +1,56 @@
+{
+  "race_id": "202504020403",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-08-03 10:50",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106471",
+      "horse_name": "マイネルヴェーゼン",
+      "score": 0.24239488197489772,
+      "horse_number": 1,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106277",
+      "horse_name": "ニシノエースサマ",
+      "score": -0.04608722804755916,
+      "horse_number": 4,
+      "odds": 4.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104346",
+      "horse_name": "ステラスペース",
+      "score": -0.4380757983464477,
+      "horse_number": 5,
+      "odds": 4.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104257",
+      "horse_name": "ダイシンヨーク",
+      "score": -0.5217334234023918,
+      "horse_number": 6,
+      "odds": 11.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105948",
+      "horse_name": "リッチフィールド",
+      "score": -0.5780690536988875,
+      "horse_number": 2,
+      "odds": 50.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102153",
+      "horse_name": "マイトビーウォン",
+      "score": -0.7560238565797833,
+      "horse_number": 3,
+      "odds": 56.7
+    }
+  ]
+}

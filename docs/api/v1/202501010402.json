@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010402",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-03 10:30",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106608",
+      "horse_name": "ヤマニンパルフェ",
+      "score": 0.2555824765357287,
+      "horse_number": 10,
+      "odds": 6.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102631",
+      "horse_name": "ハイゼンスレイ",
+      "score": 0.0034727293732768616,
+      "horse_number": 8,
+      "odds": 1.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103348",
+      "horse_name": "メイショウナナコ",
+      "score": -0.020130626339093873,
+      "horse_number": 11,
+      "odds": 8.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103575",
+      "horse_name": "ホウオウハナビ",
+      "score": -0.17139889467577113,
+      "horse_number": 9,
+      "odds": 21.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102263",
+      "horse_name": "カスバートテソーロ",
+      "score": -0.25115691972674703,
+      "horse_number": 3,
+      "odds": 26.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101217",
+      "horse_name": "ハッピールンナ",
+      "score": -0.3445741969948549,
+      "horse_number": 2,
+      "odds": 13.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106851",
+      "horse_name": "レディゴディヴァ",
+      "score": -0.38613909767551463,
+      "horse_number": 13,
+      "odds": 17.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105305",
+      "horse_name": "シンシーネ",
+      "score": -0.38637267900403705,
+      "horse_number": 1,
+      "odds": 27.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105574",
+      "horse_name": "ルージュラティーナ",
+      "score": -0.3989052905216689,
+      "horse_number": 14,
+      "odds": 27.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100178",
+      "horse_name": "ブルームワルツ",
+      "score": -0.45376156502344944,
+      "horse_number": 7,
+      "odds": 18.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100094",
+      "horse_name": "スワローサプライズ",
+      "score": -0.4724337573707411,
+      "horse_number": 6,
+      "odds": 186.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105826",
+      "horse_name": "ハプスブルグ",
+      "score": -0.5178236546070307,
+      "horse_number": 4,
+      "odds": 87.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105800",
+      "horse_name": "アニラ",
+      "score": -0.5261698758025956,
+      "horse_number": 12,
+      "odds": 71.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104676",
+      "horse_name": "エニグマティーク",
+      "score": -0.7295377203336686,
+      "horse_number": 5,
+      "odds": 158.5
+    }
+  ]
+}
