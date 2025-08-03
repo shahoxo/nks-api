@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010411",
+  "race_name": "クイーンS",
+  "race_time": "2025-08-03 15:25",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020100148",
+      "horse_name": "アルジーヌ",
+      "score": 0.40425513294334275,
+      "horse_number": 10,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020101607",
+      "horse_name": "ココナッツブラウン",
+      "score": 0.3975461561411516,
+      "horse_number": 4,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105799",
+      "horse_name": "クリスマスパレード",
+      "score": 0.25824939339150277,
+      "horse_number": 13,
+      "odds": 8.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106752",
+      "horse_name": "パレハ",
+      "score": 0.18181296791736534,
+      "horse_number": 1,
+      "odds": 20.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105795",
+      "horse_name": "フェアエールング",
+      "score": 0.17839881201215985,
+      "horse_number": 2,
+      "odds": 6.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102660",
+      "horse_name": "シングザットソング",
+      "score": 0.03737642205675029,
+      "horse_number": 8,
+      "odds": 29.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105655",
+      "horse_name": "アリスヴェリテ",
+      "score": 0.01255120777514766,
+      "horse_number": 12,
+      "odds": 11.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105346",
+      "horse_name": "レーゼドラマ",
+      "score": -0.0074090328282331586,
+      "horse_number": 7,
+      "odds": 6.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103099",
+      "horse_name": "ビヨンドザヴァレー",
+      "score": -0.014345131725094655,
+      "horse_number": 9,
+      "odds": 24.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100210",
+      "horse_name": "ドナベティ",
+      "score": -0.025774836290544386,
+      "horse_number": 6,
+      "odds": 116.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105626",
+      "horse_name": "コンクシェル",
+      "score": -0.24007750496241415,
+      "horse_number": 5,
+      "odds": 103.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019101629",
+      "horse_name": "グランスラムアスク",
+      "score": -0.3019355401287126,
+      "horse_number": 3,
+      "odds": 179.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105768",
+      "horse_name": "フィールシンパシー",
+      "score": -0.36766648284597525,
+      "horse_number": 14,
+      "odds": 17.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103588",
+      "horse_name": "ライラック",
+      "score": -0.41234592866816555,
+      "horse_number": 11,
+      "odds": 26.4
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202507030407",
+  "race_name": "名鉄杯",
+  "race_time": "2025-08-03 15:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020100761",
+      "horse_name": "マンマリアーレ",
+      "score": 0.21501759106482032,
+      "horse_number": 10,
+      "odds": 10.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020101694",
+      "horse_name": "シゲルショウグン",
+      "score": 0.17197360809314582,
+      "horse_number": 3,
+      "odds": 2.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020104760",
+      "horse_name": "ゼットリアン",
+      "score": 0.13673080028785012,
+      "horse_number": 9,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019106575",
+      "horse_name": "サトノルフィアン",
+      "score": 0.0789332646254296,
+      "horse_number": 1,
+      "odds": 15.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104136",
+      "horse_name": "サンデーファンデー",
+      "score": 0.025446531148682533,
+      "horse_number": 6,
+      "odds": 11.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105993",
+      "horse_name": "ラインオブソウル",
+      "score": 0.023367678966931246,
+      "horse_number": 2,
+      "odds": 11.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104474",
+      "horse_name": "ルクスフロンティア",
+      "score": -0.07534210610933176,
+      "horse_number": 7,
+      "odds": 11.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102665",
+      "horse_name": "フタイテンロック",
+      "score": -0.11314187993744947,
+      "horse_number": 8,
+      "odds": 24.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019101198",
+      "horse_name": "マリオロード",
+      "score": -0.19941555545242579,
+      "horse_number": 5,
+      "odds": 19.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101024",
+      "horse_name": "ピースオブザライフ",
+      "score": -0.2346650335769662,
+      "horse_number": 11,
+      "odds": 49.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101444",
+      "horse_name": "サトノフェニックス",
+      "score": -0.24086370062036902,
+      "horse_number": 12,
+      "odds": 5.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019100094",
+      "horse_name": "エナハツホ",
+      "score": -0.40781263181166727,
+      "horse_number": 4,
+      "odds": 46.1
+    }
+  ]
+}
