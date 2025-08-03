@@ -1,0 +1,104 @@
+{
+  "race_id": "202501010407",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-03 13:20",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020104750",
+      "horse_name": "リーゼノアール",
+      "score": 0.11419745090812021,
+      "horse_number": 5,
+      "odds": 6.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103625",
+      "horse_name": "ゴルデールスカー",
+      "score": 0.10547613295876047,
+      "horse_number": 2,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104310",
+      "horse_name": "アイオリア",
+      "score": 0.0875763502599644,
+      "horse_number": 12,
+      "odds": 11.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100497",
+      "horse_name": "スマートブル",
+      "score": 0.06740722545614089,
+      "horse_number": 8,
+      "odds": 4.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105262",
+      "horse_name": "カペルブリュッケ",
+      "score": -0.09799931070896672,
+      "horse_number": 6,
+      "odds": 3.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104419",
+      "horse_name": "ローズマイスター",
+      "score": -0.12832056727744678,
+      "horse_number": 3,
+      "odds": 5.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102276",
+      "horse_name": "マクミランテソーロ",
+      "score": -0.23432191160357424,
+      "horse_number": 4,
+      "odds": 8.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100387",
+      "horse_name": "マーベリックシチー",
+      "score": -0.2758594537508878,
+      "horse_number": 1,
+      "odds": 39.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018104598",
+      "horse_name": "メレカリキマカ",
+      "score": -0.3422573501206926,
+      "horse_number": 7,
+      "odds": 37.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105201",
+      "horse_name": "ラマンシュ",
+      "score": -0.3778953726173008,
+      "horse_number": 11,
+      "odds": 57.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106091",
+      "horse_name": "グランレザンドール",
+      "score": -0.5129232266987582,
+      "horse_number": 10,
+      "odds": 56.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100216",
+      "horse_name": "アルマグラース",
+      "score": -0.6997242947219148,
+      "horse_number": 9,
+      "odds": 109.8
+    }
+  ]
+}

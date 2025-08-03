@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010406",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-03 12:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106229",
+      "horse_name": "ウインイザナミ",
+      "score": 0.32904959854982124,
+      "horse_number": 13,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103911",
+      "horse_name": "ショウナンタハティ",
+      "score": 0.18580041046871065,
+      "horse_number": 9,
+      "odds": 8.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105426",
+      "horse_name": "キュイジニエール",
+      "score": 0.12053518495974076,
+      "horse_number": 5,
+      "odds": 9.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103679",
+      "horse_name": "マンゲタック",
+      "score": 0.11520873631513451,
+      "horse_number": 1,
+      "odds": 3.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110101",
+      "horse_name": "フリアフロリダ",
+      "score": 0.09958953336950234,
+      "horse_number": 7,
+      "odds": 9.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104621",
+      "horse_name": "ウフルピーク",
+      "score": 0.0654751499262854,
+      "horse_number": 14,
+      "odds": 10.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101297",
+      "horse_name": "スルースウェイ",
+      "score": -0.04342286185255183,
+      "horse_number": 10,
+      "odds": 39.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103518",
+      "horse_name": "リラゲイル",
+      "score": -0.057120428862061146,
+      "horse_number": 3,
+      "odds": 15.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104932",
+      "horse_name": "シャンパングラス",
+      "score": -0.11961885258749941,
+      "horse_number": 4,
+      "odds": 18.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100242",
+      "horse_name": "オニムシャ",
+      "score": -0.43372906412576917,
+      "horse_number": 12,
+      "odds": 24.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102502",
+      "horse_name": "ルルファーレ",
+      "score": -0.4501826773369444,
+      "horse_number": 2,
+      "odds": 27.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105819",
+      "horse_name": "ナッシングベター",
+      "score": -0.4686542629883239,
+      "horse_number": 11,
+      "odds": 50.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102978",
+      "horse_name": "アルシャンティ",
+      "score": -0.5290746390114524,
+      "horse_number": 8,
+      "odds": 33.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105644",
+      "horse_name": "トーセンアーロン",
+      "score": -0.7212483613895885,
+      "horse_number": 6,
+      "odds": 135.6
+    }
+  ]
+}
