@@ -1,0 +1,96 @@
+{
+  "race_id": "202501010408",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-03 13:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100781",
+      "horse_name": "ルールーリマ",
+      "score": 0.17930702351048686,
+      "horse_number": 8,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106322",
+      "horse_name": "フェアリーライク",
+      "score": 0.11675855592113599,
+      "horse_number": 6,
+      "odds": 2.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102785",
+      "horse_name": "イゾレエオリア",
+      "score": 0.11630783917381977,
+      "horse_number": 4,
+      "odds": 11.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102982",
+      "horse_name": "ハーエクセレンシー",
+      "score": 0.08803021373901089,
+      "horse_number": 2,
+      "odds": 12.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101488",
+      "horse_name": "ソニックドライブ",
+      "score": 0.0864473516894246,
+      "horse_number": 7,
+      "odds": 15.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105532",
+      "horse_name": "ミエノジュピター",
+      "score": 0.049853315292048755,
+      "horse_number": 9,
+      "odds": 4.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103705",
+      "horse_name": "エレガンシア",
+      "score": -0.056648152941955826,
+      "horse_number": 11,
+      "odds": 11.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105060",
+      "horse_name": "サウンドサンライズ",
+      "score": -0.23350649807388668,
+      "horse_number": 3,
+      "odds": 24.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103441",
+      "horse_name": "フラッシングレート",
+      "score": -0.24085315568089186,
+      "horse_number": 10,
+      "odds": 29.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100443",
+      "horse_name": "エイシンオニキス",
+      "score": -0.2827899647670797,
+      "horse_number": 1,
+      "odds": 60.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102550",
+      "horse_name": "メイショウピリカ",
+      "score": -0.3761486415131611,
+      "horse_number": 5,
+      "odds": 26.9
+    }
+  ]
+}
