@@ -1,0 +1,112 @@
+{
+  "race_id": "202501010410",
+  "race_name": "苫小牧特別",
+  "race_time": "2025-08-03 14:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105689",
+      "horse_name": "エヴァンスウィート",
+      "score": 0.24777147939281696,
+      "horse_number": 11,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103561",
+      "horse_name": "ゴールドスター",
+      "score": 0.16594680066137069,
+      "horse_number": 8,
+      "odds": 7.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101399",
+      "horse_name": "ヴァンヴィーヴ",
+      "score": 0.08436017943229848,
+      "horse_number": 9,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019104818",
+      "horse_name": "メイケイバートン",
+      "score": 0.07832452103592868,
+      "horse_number": 10,
+      "odds": 7.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105833",
+      "horse_name": "カリーシ",
+      "score": 0.021951864484659293,
+      "horse_number": 12,
+      "odds": 6.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110039",
+      "horse_name": "コーティアスマナー",
+      "score": -0.02452754581773095,
+      "horse_number": 4,
+      "odds": 5.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105068",
+      "horse_name": "クリノハレルヤ",
+      "score": -0.0579572704376164,
+      "horse_number": 3,
+      "odds": 21.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103898",
+      "horse_name": "イグニション",
+      "score": -0.10934904700207132,
+      "horse_number": 13,
+      "odds": 20.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018103485",
+      "horse_name": "ジャガード",
+      "score": -0.3435074851755044,
+      "horse_number": 2,
+      "odds": 32.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104160",
+      "horse_name": "アイオブザストーム",
+      "score": -0.3913701364733525,
+      "horse_number": 6,
+      "odds": 38.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019106179",
+      "horse_name": "ハートホイップ",
+      "score": -0.40096163302901056,
+      "horse_number": 5,
+      "odds": 15.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106987",
+      "horse_name": "スムースベルベット",
+      "score": -0.5468560960124021,
+      "horse_number": 1,
+      "odds": 73.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104780",
+      "horse_name": "ラホーヤストーム",
+      "score": -0.5672749854715552,
+      "horse_number": 7,
+      "odds": 28.9
+    }
+  ]
+}

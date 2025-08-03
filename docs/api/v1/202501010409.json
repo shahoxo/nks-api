@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2021102399",
       "horse_name": "モンシェリ",
-      "score": 0.13472331175384772,
+      "score": 0.11592776684872019,
       "horse_number": 4,
       "odds": 6.9
     },
@@ -16,7 +16,7 @@
       "rank": 2,
       "horse_id": "2022105600",
       "horse_name": "ボルセーナ",
-      "score": 0.07474384015491213,
+      "score": 0.018174538915237605,
       "horse_number": 8,
       "odds": 7.1
     },
@@ -24,7 +24,7 @@
       "rank": 3,
       "horse_id": "2022100648",
       "horse_name": "クーデール",
-      "score": 0.029212869786604805,
+      "score": -0.055757040766168484,
       "horse_number": 5,
       "odds": 4.4
     },
@@ -32,25 +32,25 @@
       "rank": 4,
       "horse_id": "2019106704",
       "horse_name": "カンザシ",
-      "score": -0.02896064531473072,
+      "score": -0.09547870562932335,
       "horse_number": 10,
       "odds": 7.1
     },
     {
       "rank": 5,
-      "horse_id": "2019103442",
-      "horse_name": "クラリティスケール",
-      "score": -0.029013028290105963,
-      "horse_number": 2,
-      "odds": 16.2
+      "horse_id": "2021103242",
+      "horse_name": "ジーベック",
+      "score": -0.14863241049180886,
+      "horse_number": 3,
+      "odds": 7.5
     },
     {
       "rank": 6,
-      "horse_id": "2021103242",
-      "horse_name": "ジーベック",
-      "score": -0.04047958514794632,
-      "horse_number": 3,
-      "odds": 7.5
+      "horse_id": "2019103442",
+      "horse_name": "クラリティスケール",
+      "score": -0.1529811931494855,
+      "horse_number": 2,
+      "odds": 16.2
     },
     {
       "rank": 7,
