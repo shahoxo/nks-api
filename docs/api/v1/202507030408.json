@@ -1,0 +1,72 @@
+{
+  "race_id": "202507030408",
+  "race_name": "納屋橋特別",
+  "race_time": "2025-08-03 16:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104933",
+      "horse_name": "ディアナザール",
+      "score": 0.2171854483496079,
+      "horse_number": 5,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019104732",
+      "horse_name": "チェルノボーグ",
+      "score": 0.19620341144090458,
+      "horse_number": 2,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102727",
+      "horse_name": "オトコギアンパン",
+      "score": 0.10668975534580112,
+      "horse_number": 4,
+      "odds": 5.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103241",
+      "horse_name": "ケイデンシーマーク",
+      "score": -0.06217052084063033,
+      "horse_number": 8,
+      "odds": 7.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019106280",
+      "horse_name": "サクラオーラ",
+      "score": -0.11782320856209268,
+      "horse_number": 6,
+      "odds": 18.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018101951",
+      "horse_name": "タガノスペルノヴァ",
+      "score": -0.32580709366970184,
+      "horse_number": 7,
+      "odds": 48.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105544",
+      "horse_name": "レッドベルアーム",
+      "score": -0.3583046417365345,
+      "horse_number": 3,
+      "odds": 10.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105361",
+      "horse_name": "エリンアキレウス",
+      "score": -0.6293301629666437,
+      "horse_number": 1,
+      "odds": 75.5
+    }
+  ]
+}

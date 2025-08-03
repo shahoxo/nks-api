@@ -1,0 +1,72 @@
+{
+  "race_id": "202501010412",
+  "race_name": "積丹特別",
+  "race_time": "2025-08-03 16:01",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102199",
+      "horse_name": "アルマデオロ",
+      "score": 0.4277412320017329,
+      "horse_number": 6,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104725",
+      "horse_name": "カーミングライツ",
+      "score": 0.2623027998309415,
+      "horse_number": 5,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106180",
+      "horse_name": "シャインバオバブ",
+      "score": 0.11806271873977238,
+      "horse_number": 4,
+      "odds": 16.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105485",
+      "horse_name": "ボンドロア",
+      "score": 0.11003368587532629,
+      "horse_number": 8,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103345",
+      "horse_name": "マイファミリー",
+      "score": 0.073555257853055,
+      "horse_number": 7,
+      "odds": 10.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103406",
+      "horse_name": "ラーシャローム",
+      "score": -0.25070728972508827,
+      "horse_number": 1,
+      "odds": 22.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105796",
+      "horse_name": "ペリプルス",
+      "score": -0.32459247070561703,
+      "horse_number": 3,
+      "odds": 27.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104500",
+      "horse_name": "ディアマイハニー",
+      "score": -0.4934982134635314,
+      "horse_number": 2,
+      "odds": 59.5
+    }
+  ]
+}

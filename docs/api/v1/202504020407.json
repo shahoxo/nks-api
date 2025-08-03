@@ -1,0 +1,152 @@
+{
+  "race_id": "202504020407",
+  "race_name": "アイビスSD",
+  "race_time": "2025-08-03 15:45",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021107058",
+      "horse_name": "ピューロマジック",
+      "score": 0.2932415924866497,
+      "horse_number": 6,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019106184",
+      "horse_name": "カフジテトラゴン",
+      "score": 0.2381192248762764,
+      "horse_number": 3,
+      "odds": 16.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019110001",
+      "horse_name": "ショウナンハクラク",
+      "score": 0.09438824103636688,
+      "horse_number": 7,
+      "odds": 64.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019100937",
+      "horse_name": "ニシノコニャック",
+      "score": -0.0287973510031422,
+      "horse_number": 2,
+      "odds": 47.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100236",
+      "horse_name": "ニシノトキメキ",
+      "score": -0.08304576651852358,
+      "horse_number": 9,
+      "odds": 21.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101419",
+      "horse_name": "ブーケファロス",
+      "score": -0.11830368289744662,
+      "horse_number": 15,
+      "odds": 14.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106834",
+      "horse_name": "コラソンビート",
+      "score": -0.1496911971202469,
+      "horse_number": 8,
+      "odds": 10.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103434",
+      "horse_name": "カルロヴェローチェ",
+      "score": -0.19635383414591157,
+      "horse_number": 16,
+      "odds": 9.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104429",
+      "horse_name": "エランティス",
+      "score": -0.2137696619060341,
+      "horse_number": 11,
+      "odds": 62.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018103205",
+      "horse_name": "クムシラコ",
+      "score": -0.26974572164811395,
+      "horse_number": 5,
+      "odds": 20.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019100450",
+      "horse_name": "ファロロジー",
+      "score": -0.2841199996583894,
+      "horse_number": 12,
+      "odds": 169.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2017101423",
+      "horse_name": "ウイングレイテスト",
+      "score": -0.36732200702820206,
+      "horse_number": 10,
+      "odds": 27.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102764",
+      "horse_name": "モズメイメイ",
+      "score": -0.384960350353299,
+      "horse_number": 18,
+      "odds": 5.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019110102",
+      "horse_name": "デュガ",
+      "score": -0.4046638692009424,
+      "horse_number": 17,
+      "odds": 30.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019102137",
+      "horse_name": "シロン",
+      "score": -0.4189232969863417,
+      "horse_number": 4,
+      "odds": 94.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021100792",
+      "horse_name": "スコーピオン",
+      "score": -0.45837403470925747,
+      "horse_number": 1,
+      "odds": 93.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2019103422",
+      "horse_name": "テイエムスパーダ",
+      "score": -0.5238480754614633,
+      "horse_number": 13,
+      "odds": 3.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2019100510",
+      "horse_name": "キタノブレイド",
+      "score": -0.6181274288639754,
+      "horse_number": 14,
+      "odds": 152.2
+    }
+  ]
+}
