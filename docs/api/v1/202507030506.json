@@ -16,31 +16,31 @@
       "rank": 2,
       "horse_id": "2020101557",
       "horse_name": "パルティクラール",
-      "score": 0.24083694814254752,
+      "score": 0.27959137736307177,
       "horse_number": 6,
       "odds": 11.6
     },
     {
       "rank": 3,
-      "horse_id": "2022106555",
-      "horse_name": "タガノアンファン",
-      "score": 0.23593125598282172,
-      "horse_number": 5,
-      "odds": 5.4
+      "horse_id": "2019105487",
+      "horse_name": "アドマイヤジェイ",
+      "score": 0.25020486843033396,
+      "horse_number": 1,
+      "odds": 15.2
     },
     {
       "rank": 4,
-      "horse_id": "2019105487",
-      "horse_name": "アドマイヤジェイ",
-      "score": 0.21398803915393866,
-      "horse_number": 1,
-      "odds": 15.2
+      "horse_id": "2022106555",
+      "horse_name": "タガノアンファン",
+      "score": 0.2264649994852006,
+      "horse_number": 5,
+      "odds": 5.4
     },
     {
       "rank": 5,
       "horse_id": "2021100171",
       "horse_name": "ダノンキラウェア",
-      "score": 0.16827696478731752,
+      "score": 0.18423141676299576,
       "horse_number": 9,
       "odds": 5.7
     },
@@ -56,7 +56,7 @@
       "rank": 7,
       "horse_id": "2022105755",
       "horse_name": "スリールミニョン",
-      "score": -0.14123493369137977,
+      "score": -0.20996820664147997,
       "horse_number": 4,
       "odds": 4.3
     },
@@ -64,25 +64,25 @@
       "rank": 8,
       "horse_id": "2022104588",
       "horse_name": "タイセイカレント",
-      "score": -0.2207575524837993,
+      "score": -0.25997461567175423,
       "horse_number": 11,
       "odds": 6.4
     },
     {
       "rank": 9,
-      "horse_id": "2020106737",
-      "horse_name": "メイショウコギク",
-      "score": -0.2988750228102187,
-      "horse_number": 7,
-      "odds": 42.8
+      "horse_id": "2021101019",
+      "horse_name": "コト",
+      "score": -0.33434320516050514,
+      "horse_number": 2,
+      "odds": 18.7
     },
     {
       "rank": 10,
-      "horse_id": "2021101019",
-      "horse_name": "コト",
-      "score": -0.3229402004375123,
-      "horse_number": 2,
-      "odds": 18.7
+      "horse_id": "2020106737",
+      "horse_name": "メイショウコギク",
+      "score": -0.34018867065934405,
+      "horse_number": 7,
+      "odds": 42.8
     },
     {
       "rank": 11,

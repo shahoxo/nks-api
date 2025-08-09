@@ -1,0 +1,136 @@
+{
+  "race_id": "202507030507",
+  "race_name": "三河S",
+  "race_time": "2025-08-09 15:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104092",
+      "horse_name": "ペンナヴェローチェ",
+      "score": 0.20860362808656513,
+      "horse_number": 10,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104873",
+      "horse_name": "ポッドロゴ",
+      "score": 0.15364526122928512,
+      "horse_number": 13,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103263",
+      "horse_name": "メイショウソウタ",
+      "score": 0.12294908353796634,
+      "horse_number": 3,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105750",
+      "horse_name": "アルゴナヴィス",
+      "score": 0.08396025100604598,
+      "horse_number": 6,
+      "odds": 6.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105692",
+      "horse_name": "ニューバラード",
+      "score": 0.03717499549871181,
+      "horse_number": 7,
+      "odds": 17.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102905",
+      "horse_name": "ホルトバージ",
+      "score": 0.022308930669208082,
+      "horse_number": 1,
+      "odds": 27.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105004",
+      "horse_name": "ホークフィールド",
+      "score": 0.0014271736022930057,
+      "horse_number": 14,
+      "odds": 8.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103193",
+      "horse_name": "シャンデルナゴル",
+      "score": -0.03168392702251283,
+      "horse_number": 5,
+      "odds": 62.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102988",
+      "horse_name": "オメガタキシード",
+      "score": -0.054217039177129785,
+      "horse_number": 15,
+      "odds": 33.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106635",
+      "horse_name": "メイショウシナノ",
+      "score": -0.11164287945374586,
+      "horse_number": 4,
+      "odds": 30.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103407",
+      "horse_name": "スリリングチェイス",
+      "score": -0.15131361330819437,
+      "horse_number": 16,
+      "odds": 9.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100734",
+      "horse_name": "レーウィン",
+      "score": -0.15925761673191083,
+      "horse_number": 2,
+      "odds": 14.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019101864",
+      "horse_name": "クロニクル",
+      "score": -0.2205672146190432,
+      "horse_number": 9,
+      "odds": 23.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018103590",
+      "horse_name": "リッケンバッカー",
+      "score": -0.477747024785824,
+      "horse_number": 8,
+      "odds": 45.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100979",
+      "horse_name": "メイショウコガシラ",
+      "score": -0.5456601730905545,
+      "horse_number": 11,
+      "odds": 57.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019104907",
+      "horse_name": "エメヴィベール",
+      "score": -0.6997242947219148,
+      "horse_number": 12,
+      "odds": 119.8
+    }
+  ]
+}

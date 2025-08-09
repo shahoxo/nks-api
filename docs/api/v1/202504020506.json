@@ -1,0 +1,136 @@
+{
+  "race_id": "202504020506",
+  "race_name": "三面川特別",
+  "race_time": "2025-08-09 15:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104864",
+      "horse_name": "スマートミストラル",
+      "score": 0.16012818640470627,
+      "horse_number": 1,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105318",
+      "horse_name": "コムユンプリュム",
+      "score": 0.13002708030613502,
+      "horse_number": 15,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104929",
+      "horse_name": "ルトゥール",
+      "score": 0.13001690891466708,
+      "horse_number": 6,
+      "odds": 9.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101068",
+      "horse_name": "クロシェットノエル",
+      "score": 0.022036679833637454,
+      "horse_number": 14,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019105477",
+      "horse_name": "ロムネヤ",
+      "score": 0.016261071228068552,
+      "horse_number": 3,
+      "odds": 20.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103240",
+      "horse_name": "エバーハピネス",
+      "score": -0.04946588598750028,
+      "horse_number": 12,
+      "odds": 15.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103744",
+      "horse_name": "マンウォル",
+      "score": -0.0936323771300426,
+      "horse_number": 9,
+      "odds": 24.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103486",
+      "horse_name": "ホウオウシェリー",
+      "score": -0.11024999784932947,
+      "horse_number": 8,
+      "odds": 19.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105789",
+      "horse_name": "ヴァイルマティ",
+      "score": -0.13634914197788262,
+      "horse_number": 4,
+      "odds": 25.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021107220",
+      "horse_name": "グレイトクラウン",
+      "score": -0.13860532329363645,
+      "horse_number": 7,
+      "odds": 44.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105317",
+      "horse_name": "ミーントゥビー",
+      "score": -0.22659169582879754,
+      "horse_number": 13,
+      "odds": 7.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100934",
+      "horse_name": "クリニクラウン",
+      "score": -0.2329117743771256,
+      "horse_number": 16,
+      "odds": 56.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103696",
+      "horse_name": "ラレーヌデリス",
+      "score": -0.3229402004375123,
+      "horse_number": 10,
+      "odds": 26.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101284",
+      "horse_name": "ルクスドヌーヴ",
+      "score": -0.5035605843315508,
+      "horse_number": 2,
+      "odds": 130.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021102351",
+      "horse_name": "2021102351",
+      "score": -0.5071126925064392,
+      "horse_number": 11,
+      "odds": 156.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020102840",
+      "horse_name": "ブーバー",
+      "score": -0.7080136536659949,
+      "horse_number": 5,
+      "odds": 87.3
+    }
+  ]
+}
