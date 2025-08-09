@@ -1,0 +1,88 @@
+{
+  "race_id": "202501010509",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-09 14:20",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106813",
+      "horse_name": "マイネルフーガ",
+      "score": 0.2944332198853306,
+      "horse_number": 4,
+      "odds": 7.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104670",
+      "horse_name": "サトノラクローヌ",
+      "score": 0.26644429463194097,
+      "horse_number": 2,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104207",
+      "horse_name": "キングスコール",
+      "score": 0.21069932843563102,
+      "horse_number": 3,
+      "odds": 1.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106194",
+      "horse_name": "ウインデイジー",
+      "score": 0.16787246087296184,
+      "horse_number": 8,
+      "odds": 9.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104832",
+      "horse_name": "モアリジット",
+      "score": -0.29021141408505835,
+      "horse_number": 5,
+      "odds": 43.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101395",
+      "horse_name": "ワオン",
+      "score": -0.5431529973283721,
+      "horse_number": 6,
+      "odds": 30.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019106972",
+      "horse_name": "ロストボール",
+      "score": -0.5594784051374321,
+      "horse_number": 7,
+      "odds": 101.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105464",
+      "horse_name": "ナリノボガート",
+      "score": -0.5612044721624347,
+      "horse_number": 10,
+      "odds": 132.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102777",
+      "horse_name": "ゴートゥーミジョカ",
+      "score": -0.5676196153528001,
+      "horse_number": 9,
+      "odds": 81.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104778",
+      "horse_name": "チャイボーグ",
+      "score": -0.6256682283707391,
+      "horse_number": 1,
+      "odds": 36.8
+    }
+  ]
+}
