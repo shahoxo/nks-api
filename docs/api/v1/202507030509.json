@@ -1,0 +1,80 @@
+{
+  "race_id": "202507030509",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-09 16:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101457",
+      "horse_name": "アンドリーナ",
+      "score": 0.23187783476204918,
+      "horse_number": 9,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104990",
+      "horse_name": "マリーヌ",
+      "score": 0.09818801918604922,
+      "horse_number": 5,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105604",
+      "horse_name": "ステラスプレンダー",
+      "score": 0.055675532884433485,
+      "horse_number": 8,
+      "odds": 6.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102081",
+      "horse_name": "テンクウハット",
+      "score": 0.020460862244505447,
+      "horse_number": 4,
+      "odds": 14.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106618",
+      "horse_name": "マハナ",
+      "score": -0.34041780453178994,
+      "horse_number": 2,
+      "odds": 28.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101391",
+      "horse_name": "ブラックドレス",
+      "score": -0.6293301629666437,
+      "horse_number": 7,
+      "odds": 14.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100450",
+      "horse_name": "ラブアンドラッキー",
+      "score": -0.6435674426738079,
+      "horse_number": 6,
+      "odds": 35.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102801",
+      "horse_name": "ドゥラシェーナ",
+      "score": -0.6713402351006847,
+      "horse_number": 3,
+      "odds": 31.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106031",
+      "horse_name": "サンマルソムニア",
+      "score": -0.7344997899121097,
+      "horse_number": 1,
+      "odds": 63.0
+    }
+  ]
+}
