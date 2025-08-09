@@ -1,0 +1,104 @@
+{
+  "race_id": "202507030503",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-08-09 10:40",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100611",
+      "horse_name": "オタルイーグル",
+      "score": 0.20186111865993703,
+      "horse_number": 12,
+      "odds": 5.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100610",
+      "horse_name": "フルムーン",
+      "score": 0.15710366843120033,
+      "horse_number": 3,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102889",
+      "horse_name": "エボニードール",
+      "score": 0.15222926690528002,
+      "horse_number": 4,
+      "odds": 3.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102480",
+      "horse_name": "サンタクローチェ",
+      "score": -0.07241161403825877,
+      "horse_number": 8,
+      "odds": 20.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106197",
+      "horse_name": "フレンドモナコ",
+      "score": -0.3570403975745419,
+      "horse_number": 10,
+      "odds": 31.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106662",
+      "horse_name": "シュタルク",
+      "score": -0.36515659303240167,
+      "horse_number": 1,
+      "odds": 5.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023109127",
+      "horse_name": "2023109127",
+      "score": -0.47293600501096866,
+      "horse_number": 11,
+      "odds": 106.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104875",
+      "horse_name": "ダブルチャレンジ",
+      "score": -0.5344592347466758,
+      "horse_number": 2,
+      "odds": 26.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104173",
+      "horse_name": "メテオロイド",
+      "score": -0.5602023760829252,
+      "horse_number": 6,
+      "odds": 7.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105067",
+      "horse_name": "トップマジシャン",
+      "score": -0.5846386938772032,
+      "horse_number": 5,
+      "odds": 35.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023109171",
+      "horse_name": "ニシノローラン",
+      "score": -0.7212483613895885,
+      "horse_number": 7,
+      "odds": 94.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101690",
+      "horse_name": "ケンヴォイジャー",
+      "score": -0.7265140734648036,
+      "horse_number": 9,
+      "odds": 75.8
+    }
+  ]
+}

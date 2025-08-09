@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010502",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-09 10:30",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104317",
+      "horse_name": "ミサビスケッツ",
+      "score": 0.4243320147326499,
+      "horse_number": 5,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106850",
+      "horse_name": "ユウメモリー",
+      "score": 0.18861419665035362,
+      "horse_number": 10,
+      "odds": 20.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102292",
+      "horse_name": "ハローエンジェル",
+      "score": 0.010473000433177664,
+      "horse_number": 14,
+      "odds": 11.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106786",
+      "horse_name": "コスモトロイメル",
+      "score": -0.01677078577316099,
+      "horse_number": 13,
+      "odds": 31.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105968",
+      "horse_name": "グランシャット",
+      "score": -0.02246926801885399,
+      "horse_number": 4,
+      "odds": 84.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101678",
+      "horse_name": "キャットテイル",
+      "score": -0.13838958500197948,
+      "horse_number": 1,
+      "odds": 24.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104895",
+      "horse_name": "ダノンブロッサム",
+      "score": -0.17692791166820576,
+      "horse_number": 8,
+      "odds": 75.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103940",
+      "horse_name": "クインズマカロン",
+      "score": -0.2839035209943208,
+      "horse_number": 6,
+      "odds": 10.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100146",
+      "horse_name": "アンタンシオン",
+      "score": -0.2858616654193895,
+      "horse_number": 9,
+      "odds": 47.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022107145",
+      "horse_name": "キタノホウセキ",
+      "score": -0.2959694518858579,
+      "horse_number": 2,
+      "odds": 7.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100217",
+      "horse_name": "アルマヴィーナス",
+      "score": -0.3617626914851526,
+      "horse_number": 3,
+      "odds": 52.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100638",
+      "horse_name": "アウスラフラッグ",
+      "score": -0.4045469748270113,
+      "horse_number": 12,
+      "odds": 25.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103895",
+      "horse_name": "ミートザターゲット",
+      "score": -0.41541004269768517,
+      "horse_number": 11,
+      "odds": 41.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106614",
+      "horse_name": "ネトル",
+      "score": -0.41619288385422515,
+      "horse_number": 7,
+      "odds": 19.0
+    }
+  ]
+}

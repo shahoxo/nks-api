@@ -1,0 +1,88 @@
+{
+  "race_id": "202504020502",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-08-09 10:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105818",
+      "horse_name": "ロードフィレール",
+      "score": 0.45207210000189335,
+      "horse_number": 7,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100954",
+      "horse_name": "テルケンレンスキー",
+      "score": 0.05955637262078741,
+      "horse_number": 3,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106443",
+      "horse_name": "コスモナエマ",
+      "score": -0.03905265778608097,
+      "horse_number": 5,
+      "odds": 34.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100155",
+      "horse_name": "ヘラクレステソーロ",
+      "score": -0.3057214566717064,
+      "horse_number": 9,
+      "odds": 21.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102477",
+      "horse_name": "ストロングエース",
+      "score": -0.46810144211021676,
+      "horse_number": 8,
+      "odds": 26.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101154",
+      "horse_name": "ファイアマン",
+      "score": -0.5418833546548412,
+      "horse_number": 1,
+      "odds": 12.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105953",
+      "horse_name": "セルジオ",
+      "score": -0.5844092227108343,
+      "horse_number": 6,
+      "odds": 34.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104485",
+      "horse_name": "マイネルリーヒム",
+      "score": -0.6970415147616792,
+      "horse_number": 2,
+      "odds": 14.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102010",
+      "horse_name": "ウィナーズロジャー",
+      "score": -0.7560238565797833,
+      "horse_number": 10,
+      "odds": 165.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102163",
+      "horse_name": "ソルトバーン",
+      "score": -0.7560238565797833,
+      "horse_number": 4,
+      "odds": 27.1
+    }
+  ]
+}
