@@ -1,0 +1,96 @@
+{
+  "race_id": "202507030506",
+  "race_name": "中京スポニチ",
+  "race_time": "2025-08-09 15:01",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103146",
+      "horse_name": "カンシン",
+      "score": 0.29507854492069757,
+      "horse_number": 10,
+      "odds": 5.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020101557",
+      "horse_name": "パルティクラール",
+      "score": 0.24083694814254752,
+      "horse_number": 6,
+      "odds": 11.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106555",
+      "horse_name": "タガノアンファン",
+      "score": 0.23593125598282172,
+      "horse_number": 5,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019105487",
+      "horse_name": "アドマイヤジェイ",
+      "score": 0.21398803915393866,
+      "horse_number": 1,
+      "odds": 15.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100171",
+      "horse_name": "ダノンキラウェア",
+      "score": 0.16827696478731752,
+      "horse_number": 9,
+      "odds": 5.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105591",
+      "horse_name": "ジュンゴールド",
+      "score": -0.010947840587709671,
+      "horse_number": 8,
+      "odds": 10.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105755",
+      "horse_name": "スリールミニョン",
+      "score": -0.14123493369137977,
+      "horse_number": 4,
+      "odds": 4.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104588",
+      "horse_name": "タイセイカレント",
+      "score": -0.2207575524837993,
+      "horse_number": 11,
+      "odds": 6.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106737",
+      "horse_name": "メイショウコギク",
+      "score": -0.2988750228102187,
+      "horse_number": 7,
+      "odds": 42.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101019",
+      "horse_name": "コト",
+      "score": -0.3229402004375123,
+      "horse_number": 2,
+      "odds": 18.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2017110086",
+      "horse_name": "ジッピーレーサー",
+      "score": -0.5429581911515338,
+      "horse_number": 3,
+      "odds": 52.8
+    }
+  ]
+}

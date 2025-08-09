@@ -1,0 +1,96 @@
+{
+  "race_id": "202501010510",
+  "race_name": "藻岩山特別",
+  "race_time": "2025-08-09 14:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105453",
+      "horse_name": "エラン",
+      "score": 0.28731848141922556,
+      "horse_number": 10,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104094",
+      "horse_name": "サクラファレル",
+      "score": 0.2639337692021157,
+      "horse_number": 9,
+      "odds": 1.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101485",
+      "horse_name": "カテリーナ",
+      "score": 0.09955015225059466,
+      "horse_number": 5,
+      "odds": 10.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106677",
+      "horse_name": "スピーディブレイク",
+      "score": 0.055487636061516146,
+      "horse_number": 11,
+      "odds": 13.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106766",
+      "horse_name": "マイネルオーシャン",
+      "score": 0.041488290931950264,
+      "horse_number": 4,
+      "odds": 8.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019103816",
+      "horse_name": "リッチブラック",
+      "score": -0.17041870315363944,
+      "horse_number": 3,
+      "odds": 40.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103821",
+      "horse_name": "ハイディージェン",
+      "score": -0.3030850097447333,
+      "horse_number": 6,
+      "odds": 57.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106826",
+      "horse_name": "レッセパッセ",
+      "score": -0.31359595052325007,
+      "horse_number": 8,
+      "odds": 37.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103955",
+      "horse_name": "ルーチェロッサ",
+      "score": -0.3788600496707929,
+      "horse_number": 1,
+      "odds": 44.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105908",
+      "horse_name": "グランドゴールド",
+      "score": -0.421765906894883,
+      "horse_number": 2,
+      "odds": 73.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020110151",
+      "horse_name": "グレン",
+      "score": -0.6360304043193064,
+      "horse_number": 7,
+      "odds": 189.9
+    }
+  ]
+}
