@@ -1,0 +1,128 @@
+{
+  "race_id": "202504020510",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-08-09 17:25",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105706",
+      "horse_name": "フォルテローザ",
+      "score": 0.24242080255031234,
+      "horse_number": 5,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105429",
+      "horse_name": "アグラード",
+      "score": 0.11913584613304612,
+      "horse_number": 14,
+      "odds": 13.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101833",
+      "horse_name": "イナフセド",
+      "score": 0.10238081833530771,
+      "horse_number": 8,
+      "odds": 12.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104479",
+      "horse_name": "フェデルミエール",
+      "score": 0.018399365776936162,
+      "horse_number": 6,
+      "odds": 9.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100899",
+      "horse_name": "ビッグドリーム",
+      "score": 0.0077899350422051174,
+      "horse_number": 15,
+      "odds": 11.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110137",
+      "horse_name": "ドラゴンウェルズ",
+      "score": -0.00641921660909017,
+      "horse_number": 12,
+      "odds": 2.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103706",
+      "horse_name": "アルジェンタージョ",
+      "score": -0.059852724495718844,
+      "horse_number": 9,
+      "odds": 17.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106923",
+      "horse_name": "ソーニャシュニク",
+      "score": -0.07790252631945614,
+      "horse_number": 7,
+      "odds": 22.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105794",
+      "horse_name": "ホワイトターフ",
+      "score": -0.08498985354838147,
+      "horse_number": 11,
+      "odds": 30.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106983",
+      "horse_name": "ゼンノツキヨミ",
+      "score": -0.18967104286813177,
+      "horse_number": 3,
+      "odds": 30.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105973",
+      "horse_name": "ワイノナオミ",
+      "score": -0.2506904093893516,
+      "horse_number": 13,
+      "odds": 23.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019102736",
+      "horse_name": "イルザ",
+      "score": -0.25553778545812106,
+      "horse_number": 1,
+      "odds": 54.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106562",
+      "horse_name": "バンブトンプロ",
+      "score": -0.4242845480386366,
+      "horse_number": 10,
+      "odds": 63.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100382",
+      "horse_name": "ケープアグラス",
+      "score": -0.46468391856818647,
+      "horse_number": 4,
+      "odds": 45.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106687",
+      "horse_name": "ウォルラス",
+      "score": -0.5336275327955337,
+      "horse_number": 2,
+      "odds": 54.8
+    }
+  ]
+}

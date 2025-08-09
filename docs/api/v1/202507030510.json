@@ -1,0 +1,128 @@
+{
+  "race_id": "202507030510",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-09 17:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110104",
+      "horse_name": "アメリカンビヨンド",
+      "score": 0.45141052638089807,
+      "horse_number": 11,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103264",
+      "horse_name": "メイショウハチロー",
+      "score": 0.20960634986774176,
+      "horse_number": 3,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105443",
+      "horse_name": "モレポブラーノ",
+      "score": 0.16378886938117967,
+      "horse_number": 1,
+      "odds": 10.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106010",
+      "horse_name": "モズタチアガレ",
+      "score": 0.12514876744943698,
+      "horse_number": 8,
+      "odds": 10.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101396",
+      "horse_name": "サンライズブレイク",
+      "score": 0.011021249599681558,
+      "horse_number": 14,
+      "odds": 6.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100819",
+      "horse_name": "ゴメンネジロー",
+      "score": -0.031061967897938976,
+      "horse_number": 13,
+      "odds": 7.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106699",
+      "horse_name": "ダイシンリンク",
+      "score": -0.1652421465780071,
+      "horse_number": 10,
+      "odds": 13.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105321",
+      "horse_name": "ハウリングウィンド",
+      "score": -0.22826454658402462,
+      "horse_number": 12,
+      "odds": 0.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106394",
+      "horse_name": "ワキノノーブル",
+      "score": -0.327054121598888,
+      "horse_number": 15,
+      "odds": 84.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103339",
+      "horse_name": "ナゲットモンスター",
+      "score": -0.36035058598374203,
+      "horse_number": 2,
+      "odds": 44.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020110116",
+      "horse_name": "ララマルシュドロワ",
+      "score": -0.3736111628185339,
+      "horse_number": 7,
+      "odds": 8.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104362",
+      "horse_name": "イーサンハンター",
+      "score": -0.4367864202243086,
+      "horse_number": 9,
+      "odds": 117.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106943",
+      "horse_name": "ランドブレイブ",
+      "score": -0.4624798394547258,
+      "horse_number": 6,
+      "odds": 102.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101712",
+      "horse_name": "ダンツビガー",
+      "score": -0.46885449551454483,
+      "horse_number": 5,
+      "odds": 46.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020110145",
+      "horse_name": "スモーキンビリー",
+      "score": -0.6794757848016343,
+      "horse_number": 4,
+      "odds": 87.6
+    }
+  ]
+}
