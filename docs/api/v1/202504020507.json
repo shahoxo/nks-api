@@ -1,0 +1,112 @@
+{
+  "race_id": "202504020507",
+  "race_name": "関越S",
+  "race_time": "2025-08-09 15:45",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103674",
+      "horse_name": "ウンブライル",
+      "score": 0.15492047355179522,
+      "horse_number": 8,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2018103535",
+      "horse_name": "ホウオウラスカーズ",
+      "score": 0.029777196114286936,
+      "horse_number": 4,
+      "odds": 10.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019100628",
+      "horse_name": "トゥデイイズザデイ",
+      "score": 0.011968653616470357,
+      "horse_number": 6,
+      "odds": 4.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101813",
+      "horse_name": "クルゼイロドスル",
+      "score": 0.0060822091541810645,
+      "horse_number": 9,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2018102020",
+      "horse_name": "ヤマニンサンパ",
+      "score": -0.005853390091095211,
+      "horse_number": 2,
+      "odds": 12.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018101348",
+      "horse_name": "シルブロン",
+      "score": -0.058735165527382456,
+      "horse_number": 11,
+      "odds": 18.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104850",
+      "horse_name": "バレエマスター",
+      "score": -0.12111217335907352,
+      "horse_number": 7,
+      "odds": 14.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2017105194",
+      "horse_name": "ラインベック",
+      "score": -0.17259544059631485,
+      "horse_number": 10,
+      "odds": 30.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106698",
+      "horse_name": "バラジ",
+      "score": -0.21261385452068077,
+      "horse_number": 5,
+      "odds": 12.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019106933",
+      "horse_name": "ダンテスヴュー",
+      "score": -0.3082174763566405,
+      "horse_number": 1,
+      "odds": 53.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019101422",
+      "horse_name": "サンストックトン",
+      "score": -0.41901489387048585,
+      "horse_number": 13,
+      "odds": 17.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101025",
+      "horse_name": "アスクドゥポルテ",
+      "score": -0.4616480850445277,
+      "horse_number": 3,
+      "odds": 65.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019101782",
+      "horse_name": "ラーグルフ",
+      "score": -0.5154304024609406,
+      "horse_number": 12,
+      "odds": 27.8
+    }
+  ]
+}

@@ -14,25 +14,25 @@
     },
     {
       "rank": 2,
-      "horse_id": "2021104873",
-      "horse_name": "ポッドロゴ",
-      "score": 0.15364526122928512,
-      "horse_number": 13,
+      "horse_id": "2021103263",
+      "horse_name": "メイショウソウタ",
+      "score": 0.15733148483374743,
+      "horse_number": 3,
       "odds": 6.0
     },
     {
       "rank": 3,
-      "horse_id": "2021103263",
-      "horse_name": "メイショウソウタ",
-      "score": 0.12294908353796634,
-      "horse_number": 3,
+      "horse_id": "2021104873",
+      "horse_name": "ポッドロゴ",
+      "score": 0.15073227577152887,
+      "horse_number": 13,
       "odds": 6.0
     },
     {
       "rank": 4,
       "horse_id": "2021105750",
       "horse_name": "アルゴナヴィス",
-      "score": 0.08396025100604598,
+      "score": 0.08107399286724211,
       "horse_number": 6,
       "odds": 6.3
     },
@@ -46,25 +46,25 @@
     },
     {
       "rank": 6,
-      "horse_id": "2021102905",
-      "horse_name": "ホルトバージ",
-      "score": 0.022308930669208082,
-      "horse_number": 1,
-      "odds": 27.6
+      "horse_id": "2021105004",
+      "horse_name": "ホークフィールド",
+      "score": -0.033691561145149734,
+      "horse_number": 14,
+      "odds": 8.7
     },
     {
       "rank": 7,
-      "horse_id": "2021105004",
-      "horse_name": "ホークフィールド",
-      "score": 0.0014271736022930057,
-      "horse_number": 14,
-      "odds": 8.7
+      "horse_id": "2021102905",
+      "horse_name": "ホルトバージ",
+      "score": -0.04308096311113816,
+      "horse_number": 1,
+      "odds": 27.6
     },
     {
       "rank": 8,
       "horse_id": "2020103193",
       "horse_name": "シャンデルナゴル",
-      "score": -0.03168392702251283,
+      "score": -0.04781332968627233,
       "horse_number": 5,
       "odds": 62.2
     },
@@ -72,20 +72,12 @@
       "rank": 9,
       "horse_id": "2020102988",
       "horse_name": "オメガタキシード",
-      "score": -0.054217039177129785,
+      "score": -0.07922831923348757,
       "horse_number": 15,
       "odds": 33.1
     },
     {
       "rank": 10,
-      "horse_id": "2020106635",
-      "horse_name": "メイショウシナノ",
-      "score": -0.11164287945374586,
-      "horse_number": 4,
-      "odds": 30.0
-    },
-    {
-      "rank": 11,
       "horse_id": "2020103407",
       "horse_name": "スリリングチェイス",
       "score": -0.15131361330819437,
@@ -93,10 +85,18 @@
       "odds": 9.2
     },
     {
+      "rank": 11,
+      "horse_id": "2020106635",
+      "horse_name": "メイショウシナノ",
+      "score": -0.16211369605811854,
+      "horse_number": 4,
+      "odds": 30.0
+    },
+    {
       "rank": 12,
       "horse_id": "2021100734",
       "horse_name": "レーウィン",
-      "score": -0.15925761673191083,
+      "score": -0.1984746799198658,
       "horse_number": 2,
       "odds": 14.1
     },
@@ -112,7 +112,7 @@
       "rank": 14,
       "horse_id": "2018103590",
       "horse_name": "リッケンバッカー",
-      "score": -0.477747024785824,
+      "score": -0.4680226585654228,
       "horse_number": 8,
       "odds": 45.3
     },

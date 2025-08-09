@@ -1,0 +1,96 @@
+{
+  "race_id": "202501010512",
+  "race_name": "厚岸特別",
+  "race_time": "2025-08-09 16:01",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100564",
+      "horse_name": "エフォートレス",
+      "score": 0.3197946583566943,
+      "horse_number": 9,
+      "odds": 6.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104594",
+      "horse_name": "ヒシアマン",
+      "score": 0.24925599920384195,
+      "horse_number": 1,
+      "odds": 1.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103145",
+      "horse_name": "レッドレナート",
+      "score": 0.20905909897164254,
+      "horse_number": 10,
+      "odds": 23.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104967",
+      "horse_name": "サトノシャムロック",
+      "score": 0.1854457262825844,
+      "horse_number": 2,
+      "odds": 26.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110134",
+      "horse_name": "マリブオレンジ",
+      "score": 0.13939840900882153,
+      "horse_number": 4,
+      "odds": 7.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101383",
+      "horse_name": "アッシュバーグ",
+      "score": 0.053686357872200864,
+      "horse_number": 3,
+      "odds": 33.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101304",
+      "horse_name": "サンウリエル",
+      "score": 0.04089197158235172,
+      "horse_number": 7,
+      "odds": 19.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102717",
+      "horse_name": "ジャグアール",
+      "score": -0.007731367194222813,
+      "horse_number": 8,
+      "odds": 51.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101896",
+      "horse_name": "デアリングエア",
+      "score": -0.0392783641161774,
+      "horse_number": 11,
+      "odds": 7.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100737",
+      "horse_name": "セイウンビッグバン",
+      "score": -0.29491912471380344,
+      "horse_number": 5,
+      "odds": 46.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100962",
+      "horse_name": "クイーンズデイ",
+      "score": -0.335601307373126,
+      "horse_number": 6,
+      "odds": 36.9
+    }
+  ]
+}
