@@ -1,0 +1,80 @@
+{
+  "race_id": "202504020508",
+  "race_name": "ダリア賞",
+  "race_time": "2025-08-09 16:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100797",
+      "horse_name": "ハッピーエンジェル",
+      "score": 0.2400754453680828,
+      "horse_number": 9,
+      "odds": 5.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105128",
+      "horse_name": "ヤマメライズ",
+      "score": 0.17930702351048686,
+      "horse_number": 7,
+      "odds": 6.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023110065",
+      "horse_name": "ユウファラオ",
+      "score": 0.09624623953819487,
+      "horse_number": 4,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103710",
+      "horse_name": "ハイヤーマーク",
+      "score": 0.08993735031918984,
+      "horse_number": 3,
+      "odds": 5.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100398",
+      "horse_name": "ランドスター",
+      "score": 0.070093350241533,
+      "horse_number": 5,
+      "odds": 6.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106405",
+      "horse_name": "コックオーヴァン",
+      "score": 0.018566625755998427,
+      "horse_number": 8,
+      "odds": 18.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106900",
+      "horse_name": "タイセイボーグ",
+      "score": 0.018423869324936667,
+      "horse_number": 1,
+      "odds": 4.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100728",
+      "horse_name": "リネンタイリン",
+      "score": -0.20153620254712418,
+      "horse_number": 2,
+      "odds": 9.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106479",
+      "horse_name": "フォトンゲイザー",
+      "score": -0.23956167032769038,
+      "horse_number": 6,
+      "odds": 31.2
+    }
+  ]
+}

@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2022101457",
       "horse_name": "アンドリーナ",
-      "score": 0.23187783476204918,
+      "score": 0.25914945651983057,
       "horse_number": 9,
       "odds": 1.9
     },
@@ -16,31 +16,31 @@
       "rank": 2,
       "horse_id": "2022104990",
       "horse_name": "マリーヌ",
-      "score": 0.09818801918604922,
+      "score": 0.16616136435636833,
       "horse_number": 5,
       "odds": 3.0
     },
     {
       "rank": 3,
-      "horse_id": "2021105604",
-      "horse_name": "ステラスプレンダー",
-      "score": 0.055675532884433485,
-      "horse_number": 8,
-      "odds": 6.3
+      "horse_id": "2020102081",
+      "horse_name": "テンクウハット",
+      "score": 0.0944908641901576,
+      "horse_number": 4,
+      "odds": 14.7
     },
     {
       "rank": 4,
-      "horse_id": "2020102081",
-      "horse_name": "テンクウハット",
-      "score": 0.020460862244505447,
-      "horse_number": 4,
-      "odds": 14.7
+      "horse_id": "2021105604",
+      "horse_name": "ステラスプレンダー",
+      "score": -0.06703768911517395,
+      "horse_number": 8,
+      "odds": 6.3
     },
     {
       "rank": 5,
       "horse_id": "2021106618",
       "horse_name": "マハナ",
-      "score": -0.34041780453178994,
+      "score": -0.359017618031232,
       "horse_number": 2,
       "odds": 28.8
     },
