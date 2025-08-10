@@ -1,0 +1,120 @@
+{
+  "race_id": "202504020609",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-10 16:55",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102267",
+      "horse_name": "ジョイナーテソーロ",
+      "score": 0.0722392469862151,
+      "horse_number": 6,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102019",
+      "horse_name": "ロアリングフレイム",
+      "score": 0.05943709037166159,
+      "horse_number": 11,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101542",
+      "horse_name": "ナックオリオン",
+      "score": -0.06171288024232699,
+      "horse_number": 12,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104830",
+      "horse_name": "ボンジュールアスク",
+      "score": -0.1027683020296868,
+      "horse_number": 3,
+      "odds": 33.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101987",
+      "horse_name": "シルバードン",
+      "score": -0.13733723029136508,
+      "horse_number": 4,
+      "odds": 8.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103725",
+      "horse_name": "ロッカバイベイビー",
+      "score": -0.24298291225078225,
+      "horse_number": 7,
+      "odds": 11.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104200",
+      "horse_name": "2022104200",
+      "score": -0.4136281487749417,
+      "horse_number": 9,
+      "odds": 20.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102937",
+      "horse_name": "アオイハナミチ",
+      "score": -0.42308540966190633,
+      "horse_number": 8,
+      "odds": 11.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105883",
+      "horse_name": "リュウジンマル",
+      "score": -0.48320379320928053,
+      "horse_number": 14,
+      "odds": 12.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104926",
+      "horse_name": "アップリンク",
+      "score": -0.4919628077183533,
+      "horse_number": 1,
+      "odds": 10.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101904",
+      "horse_name": "ホープリュミエール",
+      "score": -0.58186388478215,
+      "horse_number": 5,
+      "odds": 26.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101544",
+      "horse_name": "シンボリライト",
+      "score": -0.6242588499982757,
+      "horse_number": 2,
+      "odds": 31.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101042",
+      "horse_name": "シリウスライト",
+      "score": -0.6699374366548387,
+      "horse_number": 13,
+      "odds": 84.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100419",
+      "horse_name": "ワンダーレイザー",
+      "score": -0.6946596824573612,
+      "horse_number": 10,
+      "odds": 46.3
+    }
+  ]
+}
