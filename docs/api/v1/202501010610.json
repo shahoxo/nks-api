@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010610",
+  "race_name": "摩周湖特別",
+  "race_time": "2025-08-10 14:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110003",
+      "horse_name": "アンドアイラヴハー",
+      "score": 0.12297695756714526,
+      "horse_number": 10,
+      "odds": 10.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019105497",
+      "horse_name": "アルゲンテウス",
+      "score": 0.08946067527576625,
+      "horse_number": 2,
+      "odds": 9.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103969",
+      "horse_name": "ヨウシタンレイ",
+      "score": 0.03377069706589162,
+      "horse_number": 4,
+      "odds": 8.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102744",
+      "horse_name": "キングメーカー",
+      "score": 0.02668010524695035,
+      "horse_number": 14,
+      "odds": 2.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019100572",
+      "horse_name": "ビーナスローズ",
+      "score": -0.007489411096544561,
+      "horse_number": 6,
+      "odds": 11.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103042",
+      "horse_name": "フォルテム",
+      "score": -0.05577236039479784,
+      "horse_number": 7,
+      "odds": 7.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104083",
+      "horse_name": "テラステラ",
+      "score": -0.07281332756815695,
+      "horse_number": 12,
+      "odds": 20.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105809",
+      "horse_name": "マイネルフォルツァ",
+      "score": -0.0821598501639468,
+      "horse_number": 8,
+      "odds": 18.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102679",
+      "horse_name": "アニトラ",
+      "score": -0.13794333139442802,
+      "horse_number": 3,
+      "odds": 21.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105779",
+      "horse_name": "レッドセニョール",
+      "score": -0.14391659891997718,
+      "horse_number": 13,
+      "odds": 34.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100151",
+      "horse_name": "スクルプトーリス",
+      "score": -0.24148045933895565,
+      "horse_number": 9,
+      "odds": 75.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102907",
+      "horse_name": "ステラバルセロナ",
+      "score": -0.32800206711455593,
+      "horse_number": 5,
+      "odds": 23.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103193",
+      "horse_name": "トリップトゥムーン",
+      "score": -0.41841513930361696,
+      "horse_number": 1,
+      "odds": 112.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102653",
+      "horse_name": "コスモディナー",
+      "score": -0.4607523980429541,
+      "horse_number": 11,
+      "odds": 52.3
+    }
+  ]
+}
