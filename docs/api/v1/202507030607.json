@@ -1,0 +1,152 @@
+{
+  "race_id": "202507030607",
+  "race_name": "CBC賞",
+  "race_time": "2025-08-10 15:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110099",
+      "horse_name": "ジューンブレア",
+      "score": 0.34619921166158274,
+      "horse_number": 9,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106601",
+      "horse_name": "ヤマニンアルリフラ",
+      "score": 0.2452504320429672,
+      "horse_number": 14,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019105512",
+      "horse_name": "ジャスティンスカイ",
+      "score": 0.16676852418725985,
+      "horse_number": 13,
+      "odds": 15.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104434",
+      "horse_name": "ワイドラトゥール",
+      "score": 0.07609601721301666,
+      "horse_number": 6,
+      "odds": 26.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104556",
+      "horse_name": "カルチャーデイ",
+      "score": 0.07061216729433689,
+      "horse_number": 15,
+      "odds": 11.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110164",
+      "horse_name": "インビンシブルパパ",
+      "score": 0.047357746026773305,
+      "horse_number": 17,
+      "odds": 13.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2016104668",
+      "horse_name": "カリボール",
+      "score": 0.0246902800576282,
+      "horse_number": 11,
+      "odds": 0.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101543",
+      "horse_name": "グランテスト",
+      "score": 0.02079474796521194,
+      "horse_number": 7,
+      "odds": 18.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100815",
+      "horse_name": "ミルトクレイモー",
+      "score": -0.0012717574747192354,
+      "horse_number": 8,
+      "odds": 24.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105244",
+      "horse_name": "ポッドベイダー",
+      "score": -0.029724489744975324,
+      "horse_number": 10,
+      "odds": 56.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100497",
+      "horse_name": "ベガリス",
+      "score": -0.07314276479747604,
+      "horse_number": 18,
+      "odds": 28.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105806",
+      "horse_name": "ドロップオブライト",
+      "score": -0.07363642439357655,
+      "horse_number": 3,
+      "odds": 10.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103276",
+      "horse_name": "バルサムノート",
+      "score": -0.10085359391812031,
+      "horse_number": 1,
+      "odds": 38.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103714",
+      "horse_name": "メイショウソラフネ",
+      "score": -0.10607872159727708,
+      "horse_number": 16,
+      "odds": 23.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102849",
+      "horse_name": "エイシンワンド",
+      "score": -0.22895646850562226,
+      "horse_number": 12,
+      "odds": 19.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103725",
+      "horse_name": "テイエムリステット",
+      "score": -0.27480590406376343,
+      "horse_number": 2,
+      "odds": 110.7
+    },
+    {
+      "rank": 17,
+      "horse_id": "2021105744",
+      "horse_name": "シュトラウス",
+      "score": -0.2961304131425705,
+      "horse_number": 5,
+      "odds": 11.5
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022106394",
+      "horse_name": "クラスペディア",
+      "score": -0.3583046417365345,
+      "horse_number": 4,
+      "odds": 47.2
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202501010611",
+  "race_name": "UHB賞",
+  "race_time": "2025-08-10 15:25",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103282",
+      "horse_name": "ジャスティンアース",
+      "score": 0.17299749680902,
+      "horse_number": 4,
+      "odds": 6.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100522",
+      "horse_name": "ジョーメッドヴィン",
+      "score": 0.10589319851214252,
+      "horse_number": 12,
+      "odds": 8.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103915",
+      "horse_name": "ツインクルトーズ",
+      "score": 0.06276091126126955,
+      "horse_number": 7,
+      "odds": 19.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103356",
+      "horse_name": "クファシル",
+      "score": -0.01940268651347076,
+      "horse_number": 14,
+      "odds": 16.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2018102155",
+      "horse_name": "マイネルジェロディ",
+      "score": -0.030902961853348926,
+      "horse_number": 6,
+      "odds": 30.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101827",
+      "horse_name": "バースクライ",
+      "score": -0.03883615329598861,
+      "horse_number": 5,
+      "odds": 4.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102888",
+      "horse_name": "ナムラアトム",
+      "score": -0.050272072872193714,
+      "horse_number": 8,
+      "odds": 14.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103277",
+      "horse_name": "ダノンタッチダウン",
+      "score": -0.10941281996338477,
+      "horse_number": 2,
+      "odds": 5.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018101343",
+      "horse_name": "ゾンニッヒ",
+      "score": -0.12252978820219451,
+      "horse_number": 9,
+      "odds": 14.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019104911",
+      "horse_name": "プルパレイ",
+      "score": -0.13058916706438967,
+      "horse_number": 13,
+      "odds": 36.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101924",
+      "horse_name": "フィオライア",
+      "score": -0.13517379719661435,
+      "horse_number": 11,
+      "odds": 12.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101897",
+      "horse_name": "レッドヒルシューズ",
+      "score": -0.15964359833398686,
+      "horse_number": 10,
+      "odds": 26.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102672",
+      "horse_name": "メイクアスナッチ",
+      "score": -0.1779779543679047,
+      "horse_number": 15,
+      "odds": 44.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020110114",
+      "horse_name": "スリーアイランド",
+      "score": -0.24504331584673752,
+      "horse_number": 3,
+      "odds": 14.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101588",
+      "horse_name": "ロンドンプラン",
+      "score": -0.29175495864964585,
+      "horse_number": 16,
+      "odds": 39.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020109102",
+      "horse_name": "サウザンサニー",
+      "score": -0.31101363623872325,
+      "horse_number": 1,
+      "odds": 29.9
+    }
+  ]
+}
