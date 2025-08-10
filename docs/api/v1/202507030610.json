@@ -1,0 +1,112 @@
+{
+  "race_id": "202507030610",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-10 17:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102196",
+      "horse_name": "サンライズシュガー",
+      "score": 0.12947693169545416,
+      "horse_number": 7,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107133",
+      "horse_name": "タガノマルアフ",
+      "score": -0.06505701738554341,
+      "horse_number": 1,
+      "odds": 10.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103708",
+      "horse_name": "ロンパイア",
+      "score": -0.09622532133987469,
+      "horse_number": 10,
+      "odds": 10.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101916",
+      "horse_name": "ペネトレイトゴー",
+      "score": -0.14525907607339056,
+      "horse_number": 9,
+      "odds": 9.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105637",
+      "horse_name": "テンエースワン",
+      "score": -0.14817396867789567,
+      "horse_number": 6,
+      "odds": 8.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102710",
+      "horse_name": "エイユーファイヤー",
+      "score": -0.1875345409365416,
+      "horse_number": 4,
+      "odds": 4.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101268",
+      "horse_name": "モズバンディット",
+      "score": -0.23387146209840903,
+      "horse_number": 5,
+      "odds": 18.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102882",
+      "horse_name": "タイセイカイザー",
+      "score": -0.24398997863159913,
+      "horse_number": 3,
+      "odds": 11.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105878",
+      "horse_name": "メイケイロゼッタ",
+      "score": -0.2891763458633271,
+      "horse_number": 2,
+      "odds": 13.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021107052",
+      "horse_name": "マテンロウノカゼ",
+      "score": -0.481552719731284,
+      "horse_number": 8,
+      "odds": 26.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106087",
+      "horse_name": "ピカレスクノベル",
+      "score": -0.5240150753356504,
+      "horse_number": 11,
+      "odds": 65.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019101620",
+      "horse_name": "リノアラ",
+      "score": -0.52652520084418,
+      "horse_number": 13,
+      "odds": 84.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104293",
+      "horse_name": "トモジャシック",
+      "score": -0.6015218633423404,
+      "horse_number": 12,
+      "odds": 52.9
+    }
+  ]
+}
