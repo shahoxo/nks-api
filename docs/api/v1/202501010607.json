@@ -1,0 +1,128 @@
+{
+  "race_id": "202501010607",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-10 13:20",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102088",
+      "horse_name": "ユーティジャーニー",
+      "score": 0.18821275781021313,
+      "horse_number": 3,
+      "odds": 8.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104387",
+      "horse_name": "キントラダンサー",
+      "score": 0.10238488064622991,
+      "horse_number": 2,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104920",
+      "horse_name": "ハイファイスピード",
+      "score": 0.09964345952103768,
+      "horse_number": 9,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105772",
+      "horse_name": "カロローザ",
+      "score": 0.00633555639942117,
+      "horse_number": 7,
+      "odds": 4.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104217",
+      "horse_name": "ムチャスグラシアス",
+      "score": -0.0565857605624306,
+      "horse_number": 5,
+      "odds": 27.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102050",
+      "horse_name": "サンポーニャ",
+      "score": -0.0699535178679274,
+      "horse_number": 14,
+      "odds": 11.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104739",
+      "horse_name": "ランスオブサウンド",
+      "score": -0.07646034612109251,
+      "horse_number": 10,
+      "odds": 23.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102749",
+      "horse_name": "ヴィヴァラリス",
+      "score": -0.1443929577002251,
+      "horse_number": 4,
+      "odds": 54.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100362",
+      "horse_name": "ホウオウドルーリー",
+      "score": -0.18484215345724755,
+      "horse_number": 1,
+      "odds": 35.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103322",
+      "horse_name": "スプリングデイ",
+      "score": -0.22449445703471416,
+      "horse_number": 6,
+      "odds": 9.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102312",
+      "horse_name": "ストレイトアスク",
+      "score": -0.23608176585841606,
+      "horse_number": 15,
+      "odds": 7.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104824",
+      "horse_name": "シンデレラスマイル",
+      "score": -0.24178644739089417,
+      "horse_number": 12,
+      "odds": 81.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105221",
+      "horse_name": "エファセデリエール",
+      "score": -0.41534749602655047,
+      "horse_number": 8,
+      "odds": 157.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104855",
+      "horse_name": "ドレミファニー",
+      "score": -0.5269840201410195,
+      "horse_number": 11,
+      "odds": 32.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101920",
+      "horse_name": "メラヴィリオーザ",
+      "score": -0.5938962629264705,
+      "horse_number": 13,
+      "odds": 54.6
+    }
+  ]
+}

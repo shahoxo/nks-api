@@ -1,0 +1,80 @@
+{
+  "race_id": "202501010608",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-10 13:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101964",
+      "horse_name": "デルマムーン",
+      "score": 0.05622469039579496,
+      "horse_number": 2,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104897",
+      "horse_name": "レッドベルダンス",
+      "score": 0.019658731152954776,
+      "horse_number": 9,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105766",
+      "horse_name": "ドーギッド",
+      "score": -0.05967166854167774,
+      "horse_number": 6,
+      "odds": 10.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100255",
+      "horse_name": "アーロンイメル",
+      "score": -0.12520264419530328,
+      "horse_number": 8,
+      "odds": 5.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106995",
+      "horse_name": "メイショウマジック",
+      "score": -0.1741647851707262,
+      "horse_number": 5,
+      "odds": 14.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102828",
+      "horse_name": "メイショウタイピン",
+      "score": -0.18026453120845526,
+      "horse_number": 4,
+      "odds": 5.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104738",
+      "horse_name": "マシュー",
+      "score": -0.25314212384339513,
+      "horse_number": 3,
+      "odds": 7.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105844",
+      "horse_name": "タイヨウフレア",
+      "score": -0.44490889790325927,
+      "horse_number": 7,
+      "odds": 20.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106673",
+      "horse_name": "スズノソレイユ",
+      "score": -0.505694468665794,
+      "horse_number": 1,
+      "odds": 36.3
+    }
+  ]
+}
