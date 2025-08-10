@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010606",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-10 12:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106607",
+      "horse_name": "ヤマニンヒストリア",
+      "score": 0.19610528022063684,
+      "horse_number": 14,
+      "odds": 5.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104661",
+      "horse_name": "ジーティートシオー",
+      "score": 0.11908162228044371,
+      "horse_number": 8,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103181",
+      "horse_name": "モンツァフレイバー",
+      "score": 0.022418261113843447,
+      "horse_number": 10,
+      "odds": 12.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104835",
+      "horse_name": "ブリリアントカーラ",
+      "score": 0.015931904345125838,
+      "horse_number": 5,
+      "odds": 9.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105839",
+      "horse_name": "アスクデッドヒート",
+      "score": -0.005987154150821655,
+      "horse_number": 4,
+      "odds": 4.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100860",
+      "horse_name": "クラシカルカイザー",
+      "score": -0.03627360911188798,
+      "horse_number": 3,
+      "odds": 6.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103510",
+      "horse_name": "キングズトゥルー",
+      "score": -0.06794522517323168,
+      "horse_number": 7,
+      "odds": 6.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022110065",
+      "horse_name": "アファリン",
+      "score": -0.11145651047919419,
+      "horse_number": 12,
+      "odds": 17.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106331",
+      "horse_name": "ボスポラス",
+      "score": -0.16936017241396134,
+      "horse_number": 11,
+      "odds": 40.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105697",
+      "horse_name": "ソリッドベーシス",
+      "score": -0.3737217076233773,
+      "horse_number": 13,
+      "odds": 59.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105892",
+      "horse_name": "ジャヴェール",
+      "score": -0.41782728842616734,
+      "horse_number": 2,
+      "odds": 44.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105092",
+      "horse_name": "ベレーザフィン",
+      "score": -0.6344837799645119,
+      "horse_number": 1,
+      "odds": 33.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105029",
+      "horse_name": "デンジエンド",
+      "score": -0.6680605085673035,
+      "horse_number": 6,
+      "odds": 77.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105461",
+      "horse_name": "コウセイケンタロス",
+      "score": -0.6800865812962514,
+      "horse_number": 9,
+      "odds": 124.5
+    }
+  ]
+}
