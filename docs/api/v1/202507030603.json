@@ -1,0 +1,104 @@
+{
+  "race_id": "202507030603",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-08-10 10:40",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106873",
+      "horse_name": "ホワイトフレイムス",
+      "score": 0.3064546157817514,
+      "horse_number": 1,
+      "odds": 9.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103752",
+      "horse_name": "アンドゥーリル",
+      "score": 0.28338894869372677,
+      "horse_number": 4,
+      "odds": 1.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106420",
+      "horse_name": "コスモファーブロス",
+      "score": 0.25800743988858343,
+      "horse_number": 9,
+      "odds": 11.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100917",
+      "horse_name": "レディーゴール",
+      "score": 0.24928847839626422,
+      "horse_number": 8,
+      "odds": 7.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103782",
+      "horse_name": "ルートサーティーン",
+      "score": 0.11134872323726396,
+      "horse_number": 7,
+      "odds": 8.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103263",
+      "horse_name": "パータリプトラ",
+      "score": -0.10896410089023746,
+      "horse_number": 6,
+      "odds": 67.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105012",
+      "horse_name": "アイク",
+      "score": -0.2809064901636717,
+      "horse_number": 5,
+      "odds": 42.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103151",
+      "horse_name": "ハードシングス",
+      "score": -0.3329555437536465,
+      "horse_number": 3,
+      "odds": 17.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102941",
+      "horse_name": "フォーエバーラブ",
+      "score": -0.49217877377409713,
+      "horse_number": 11,
+      "odds": 56.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100459",
+      "horse_name": "タフバディ",
+      "score": -0.7107675489668152,
+      "horse_number": 12,
+      "odds": 88.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104282",
+      "horse_name": "ハクアイタワー",
+      "score": -0.7265140734648036,
+      "horse_number": 2,
+      "odds": 96.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105542",
+      "horse_name": "トモエナゲ",
+      "score": -0.7560238565797833,
+      "horse_number": 10,
+      "odds": 106.9
+    }
+  ]
+}

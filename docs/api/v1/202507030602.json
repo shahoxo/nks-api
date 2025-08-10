@@ -1,0 +1,128 @@
+{
+  "race_id": "202507030602",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-10 10:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106644",
+      "horse_name": "ロカヒ",
+      "score": 0.2252782620654184,
+      "horse_number": 13,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105319",
+      "horse_name": "シストロン",
+      "score": 0.12881628056119804,
+      "horse_number": 9,
+      "odds": 12.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103655",
+      "horse_name": "エイシンカーバイン",
+      "score": 0.03294200906208879,
+      "horse_number": 6,
+      "odds": 13.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103367",
+      "horse_name": "エイシンアニーモ",
+      "score": -0.014374521149404062,
+      "horse_number": 11,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105821",
+      "horse_name": "ファーニスクリーク",
+      "score": -0.17160373031106035,
+      "horse_number": 1,
+      "odds": 52.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104689",
+      "horse_name": "フランコジャポネ",
+      "score": -0.22090053671300702,
+      "horse_number": 12,
+      "odds": 33.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104175",
+      "horse_name": "ソコトラ",
+      "score": -0.22670643539788318,
+      "horse_number": 2,
+      "odds": 62.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022110061",
+      "horse_name": "ブレスドナイル",
+      "score": -0.23648212419870476,
+      "horse_number": 5,
+      "odds": 8.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100126",
+      "horse_name": "イフウドウドウ",
+      "score": -0.27255772675657075,
+      "horse_number": 10,
+      "odds": 5.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103678",
+      "horse_name": "テイエムダイタカ",
+      "score": -0.3820493236201057,
+      "horse_number": 4,
+      "odds": 5.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100167",
+      "horse_name": "カネトシエテルノ",
+      "score": -0.5256589505398596,
+      "horse_number": 14,
+      "odds": 116.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105213",
+      "horse_name": "リトルガールブルー",
+      "score": -0.5400524448304759,
+      "horse_number": 8,
+      "odds": 15.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101473",
+      "horse_name": "ライラックデューン",
+      "score": -0.5799762263205366,
+      "horse_number": 15,
+      "odds": 20.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102325",
+      "horse_name": "ブルーセルリアン",
+      "score": -0.6086297501894841,
+      "horse_number": 3,
+      "odds": 152.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106162",
+      "horse_name": "エイユービューティ",
+      "score": -0.7265140734648036,
+      "horse_number": 7,
+      "odds": 142.3
+    }
+  ]
+}

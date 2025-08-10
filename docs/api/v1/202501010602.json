@@ -1,0 +1,104 @@
+{
+  "race_id": "202501010602",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-10 10:30",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100105",
+      "horse_name": "タッカーバリアント",
+      "score": 0.12690991747895247,
+      "horse_number": 11,
+      "odds": 5.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102799",
+      "horse_name": "タイセイアビリティ",
+      "score": 0.09074253119712052,
+      "horse_number": 1,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102841",
+      "horse_name": "メイショウハボマイ",
+      "score": -0.0580128813771523,
+      "horse_number": 5,
+      "odds": 26.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104217",
+      "horse_name": "ダーカザンブラック",
+      "score": -0.07379047572644111,
+      "horse_number": 7,
+      "odds": 9.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101204",
+      "horse_name": "サツキレジーナ",
+      "score": -0.11325256438598379,
+      "horse_number": 4,
+      "odds": 8.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103198",
+      "horse_name": "ゴッドテソロ",
+      "score": -0.18221852070419473,
+      "horse_number": 10,
+      "odds": 29.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022110072",
+      "horse_name": "レイワエポック",
+      "score": -0.37951426703315266,
+      "horse_number": 6,
+      "odds": 14.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102871",
+      "horse_name": "エイシンパルサー",
+      "score": -0.4915455922551538,
+      "horse_number": 9,
+      "odds": 3.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102975",
+      "horse_name": "デンリッレハウエル",
+      "score": -0.5006218155644719,
+      "horse_number": 8,
+      "odds": 31.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103859",
+      "horse_name": "タイセイルヴァン",
+      "score": -0.5559200502020651,
+      "horse_number": 12,
+      "odds": 14.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102472",
+      "horse_name": "ジークリヒト",
+      "score": -0.5986377336224872,
+      "horse_number": 2,
+      "odds": 111.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104986",
+      "horse_name": "ファンシーデイ",
+      "score": -0.6084806692945781,
+      "horse_number": 3,
+      "odds": 108.1
+    }
+  ]
+}
