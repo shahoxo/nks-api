@@ -1,0 +1,80 @@
+{
+  "race_id": "202501010609",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-10 14:20",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105109",
+      "horse_name": "ミラージュナイト",
+      "score": 0.18525581492990603,
+      "horse_number": 7,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106633",
+      "horse_name": "バルナバ",
+      "score": 0.12591832008236678,
+      "horse_number": 1,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100330",
+      "horse_name": "アオイタケル",
+      "score": 0.05831744512778077,
+      "horse_number": 5,
+      "odds": 8.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105773",
+      "horse_name": "リアライズオーラム",
+      "score": 0.007982726253281378,
+      "horse_number": 3,
+      "odds": 6.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105166",
+      "horse_name": "ヨヒーン",
+      "score": -0.03263507445430926,
+      "horse_number": 6,
+      "odds": 13.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104752",
+      "horse_name": "ラウダブル",
+      "score": -0.38919598741279937,
+      "horse_number": 2,
+      "odds": 97.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100621",
+      "horse_name": "マイバラード",
+      "score": -0.4202842329919897,
+      "horse_number": 8,
+      "odds": 29.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102574",
+      "horse_name": "トゥルブレンツ",
+      "score": -0.4662263715619307,
+      "horse_number": 4,
+      "odds": 58.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104843",
+      "horse_name": "コーラスライン",
+      "score": -0.6318373387288261,
+      "horse_number": 9,
+      "odds": 196.8
+    }
+  ]
+}

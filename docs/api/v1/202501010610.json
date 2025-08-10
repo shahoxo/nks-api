@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2021110003",
       "horse_name": "アンドアイラヴハー",
-      "score": 0.12297695756714526,
+      "score": 0.1442510156164329,
       "horse_number": 10,
       "odds": 10.6
     },
@@ -22,25 +22,25 @@
     },
     {
       "rank": 3,
-      "horse_id": "2020103969",
-      "horse_name": "ヨウシタンレイ",
-      "score": 0.03377069706589162,
-      "horse_number": 4,
-      "odds": 8.4
+      "horse_id": "2022102744",
+      "horse_name": "キングメーカー",
+      "score": 0.07092373126151641,
+      "horse_number": 14,
+      "odds": 2.2
     },
     {
       "rank": 4,
-      "horse_id": "2022102744",
-      "horse_name": "キングメーカー",
-      "score": 0.02668010524695035,
-      "horse_number": 14,
-      "odds": 2.2
+      "horse_id": "2020103969",
+      "horse_name": "ヨウシタンレイ",
+      "score": 0.008045778295336512,
+      "horse_number": 4,
+      "odds": 8.4
     },
     {
       "rank": 5,
       "horse_id": "2019100572",
       "horse_name": "ビーナスローズ",
-      "score": -0.007489411096544561,
+      "score": -0.0042031568988468,
       "horse_number": 6,
       "odds": 11.6
     },
@@ -48,41 +48,41 @@
       "rank": 6,
       "horse_id": "2022103042",
       "horse_name": "フォルテム",
-      "score": -0.05577236039479784,
+      "score": -0.017896042812331443,
       "horse_number": 7,
       "odds": 7.1
     },
     {
       "rank": 7,
-      "horse_id": "2020104083",
-      "horse_name": "テラステラ",
-      "score": -0.07281332756815695,
-      "horse_number": 12,
-      "odds": 20.7
-    },
-    {
-      "rank": 8,
       "horse_id": "2020105809",
       "horse_name": "マイネルフォルツァ",
-      "score": -0.0821598501639468,
+      "score": -0.03577851731615619,
       "horse_number": 8,
       "odds": 18.3
     },
     {
-      "rank": 9,
-      "horse_id": "2020102679",
-      "horse_name": "アニトラ",
-      "score": -0.13794333139442802,
-      "horse_number": 3,
-      "odds": 21.2
+      "rank": 8,
+      "horse_id": "2020104083",
+      "horse_name": "テラステラ",
+      "score": -0.07527529176723544,
+      "horse_number": 12,
+      "odds": 20.7
     },
     {
-      "rank": 10,
+      "rank": 9,
       "horse_id": "2021105779",
       "horse_name": "レッドセニョール",
       "score": -0.14391659891997718,
       "horse_number": 13,
       "odds": 34.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102679",
+      "horse_name": "アニトラ",
+      "score": -0.18526183101243462,
+      "horse_number": 3,
+      "odds": 21.2
     },
     {
       "rank": 11,
@@ -96,7 +96,7 @@
       "rank": 12,
       "horse_id": "2020102907",
       "horse_name": "ステラバルセロナ",
-      "score": -0.32800206711455593,
+      "score": -0.346601880613998,
       "horse_number": 5,
       "odds": 23.5
     },

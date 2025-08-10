@@ -1,0 +1,80 @@
+{
+  "race_id": "202507030606",
+  "race_name": "浜名湖特別",
+  "race_time": "2025-08-10 15:01",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105680",
+      "horse_name": "シャハザマーン",
+      "score": 0.24135937834974924,
+      "horse_number": 8,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101751",
+      "horse_name": "ミカエルパシャ",
+      "score": 0.09072448308477908,
+      "horse_number": 1,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019103907",
+      "horse_name": "サンライズエース",
+      "score": 0.0815893649922988,
+      "horse_number": 2,
+      "odds": 10.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101228",
+      "horse_name": "クリノアドバンス",
+      "score": 0.03661876593607786,
+      "horse_number": 6,
+      "odds": 9.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106077",
+      "horse_name": "プリズマジコ",
+      "score": -0.09467557354649397,
+      "horse_number": 5,
+      "odds": 5.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019101007",
+      "horse_name": "タケトンボ",
+      "score": -0.11214009270462509,
+      "horse_number": 4,
+      "odds": 10.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104531",
+      "horse_name": "バンフィエルド",
+      "score": -0.4669215084010411,
+      "horse_number": 7,
+      "odds": 17.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019100326",
+      "horse_name": "イーサンアイ",
+      "score": -0.5534149531436641,
+      "horse_number": 3,
+      "odds": 55.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104878",
+      "horse_name": "シルバープリペット",
+      "score": -0.5970618435386312,
+      "horse_number": 9,
+      "odds": 75.5
+    }
+  ]
+}

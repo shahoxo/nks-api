@@ -1,0 +1,120 @@
+{
+  "race_id": "202504020606",
+  "race_name": "佐渡S",
+  "race_time": "2025-08-10 15:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103132",
+      "horse_name": "オクタヴィアヌス",
+      "score": 0.42566758721964115,
+      "horse_number": 2,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106369",
+      "horse_name": "チャンネルトンネル",
+      "score": 0.32887497319466436,
+      "horse_number": 1,
+      "odds": 6.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101387",
+      "horse_name": "オーロラエックス",
+      "score": 0.13935788142642241,
+      "horse_number": 7,
+      "odds": 3.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020105494",
+      "horse_name": "ニシノライコウ",
+      "score": 0.12294908353796634,
+      "horse_number": 9,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103066",
+      "horse_name": "マルチャン",
+      "score": 0.06572649651317394,
+      "horse_number": 14,
+      "odds": 13.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105058",
+      "horse_name": "ルージュアベリア",
+      "score": 0.015418975115899819,
+      "horse_number": 6,
+      "odds": 38.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104854",
+      "horse_name": "ミナデオロ",
+      "score": -0.09149896309178247,
+      "horse_number": 4,
+      "odds": 11.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105203",
+      "horse_name": "ウインアイオライト",
+      "score": -0.17081228792994976,
+      "horse_number": 12,
+      "odds": 30.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105336",
+      "horse_name": "ライラスター",
+      "score": -0.17489452794610771,
+      "horse_number": 11,
+      "odds": 41.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020109027",
+      "horse_name": "ロジシルバー",
+      "score": -0.18419519587816593,
+      "horse_number": 5,
+      "odds": 10.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100810",
+      "horse_name": "グラニット",
+      "score": -0.3664609845034368,
+      "horse_number": 13,
+      "odds": 48.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019100768",
+      "horse_name": "マイネルニコラス",
+      "score": -0.42123602202136773,
+      "horse_number": 3,
+      "odds": 93.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019100876",
+      "horse_name": "セブンスレター",
+      "score": -0.47244331558012986,
+      "horse_number": 10,
+      "odds": 119.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104708",
+      "horse_name": "ウィステリアリヴァ",
+      "score": -0.5222134840354252,
+      "horse_number": 8,
+      "odds": 33.1
+    }
+  ]
+}
