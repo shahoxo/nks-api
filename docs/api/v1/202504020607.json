@@ -1,0 +1,128 @@
+{
+  "race_id": "202504020607",
+  "race_name": "レパードS",
+  "race_time": "2025-08-10 15:45",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104832",
+      "horse_name": "ヴィンセンシオ",
+      "score": 0.36128331591941976,
+      "horse_number": 10,
+      "odds": 5.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104888",
+      "horse_name": "ジャナドリア",
+      "score": 0.35647375045689916,
+      "horse_number": 6,
+      "odds": 7.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100653",
+      "horse_name": "ロードラビリンス",
+      "score": 0.34036852125292466,
+      "horse_number": 9,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104928",
+      "horse_name": "トリポリタニア",
+      "score": 0.21434244222351953,
+      "horse_number": 12,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103941",
+      "horse_name": "ルヴァンユニベール",
+      "score": 0.2055148972479769,
+      "horse_number": 2,
+      "odds": 47.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105775",
+      "horse_name": "ルグランヴァン",
+      "score": 0.16625722081830793,
+      "horse_number": 13,
+      "odds": 5.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106942",
+      "horse_name": "ドンインザムード",
+      "score": 0.08275088390100288,
+      "horse_number": 1,
+      "odds": 9.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102039",
+      "horse_name": "サノノワンダー",
+      "score": 0.06934384634349179,
+      "horse_number": 8,
+      "odds": 29.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104643",
+      "horse_name": "ニューファウンド",
+      "score": 0.050072142579581036,
+      "horse_number": 14,
+      "odds": 49.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022110140",
+      "horse_name": "ポールセン",
+      "score": 0.028699908167467543,
+      "horse_number": 4,
+      "odds": 9.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103614",
+      "horse_name": "ヒルノハンブルク",
+      "score": -0.08617906724056533,
+      "horse_number": 11,
+      "odds": 36.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100255",
+      "horse_name": "チュウジョウ",
+      "score": -0.08937642984691506,
+      "horse_number": 7,
+      "odds": 98.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022107134",
+      "horse_name": "タガノマカシヤ",
+      "score": -0.10768666019628276,
+      "horse_number": 3,
+      "odds": 41.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106925",
+      "horse_name": "ハグ",
+      "score": -0.11766436845300493,
+      "horse_number": 15,
+      "odds": 23.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022110115",
+      "horse_name": "シンビリーブ",
+      "score": -0.13906356902966527,
+      "horse_number": 5,
+      "odds": 36.6
+    }
+  ]
+}

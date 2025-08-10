@@ -1,0 +1,104 @@
+{
+  "race_id": "202507030608",
+  "race_name": "揖斐川特別",
+  "race_time": "2025-08-10 16:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106553",
+      "horse_name": "タガノバビロン",
+      "score": 0.25796699549996377,
+      "horse_number": 4,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104749",
+      "horse_name": "ソリスクラヴィス",
+      "score": 0.2499232524289274,
+      "horse_number": 2,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105073",
+      "horse_name": "パカーラン",
+      "score": 0.18303578215939473,
+      "horse_number": 10,
+      "odds": 7.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103686",
+      "horse_name": "テスティモーネ",
+      "score": 0.01833058380215044,
+      "horse_number": 5,
+      "odds": 3.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103255",
+      "horse_name": "メイショウソウセキ",
+      "score": -0.005828713732924095,
+      "horse_number": 12,
+      "odds": 12.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101468",
+      "horse_name": "アリエスキング",
+      "score": -0.007543479692164244,
+      "horse_number": 3,
+      "odds": 10.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104745",
+      "horse_name": "シャルクハフト",
+      "score": -0.007801184668259492,
+      "horse_number": 11,
+      "odds": 8.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2016100126",
+      "horse_name": "ダディーズトリップ",
+      "score": -0.02193041126535302,
+      "horse_number": 8,
+      "odds": 28.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105330",
+      "horse_name": "パーサヴィアランス",
+      "score": -0.20495278896231853,
+      "horse_number": 1,
+      "odds": 32.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104791",
+      "horse_name": "プウスカンドゥール",
+      "score": -0.2423387037306948,
+      "horse_number": 7,
+      "odds": 87.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102705",
+      "horse_name": "ヒデノレインボー",
+      "score": -0.25843254703276386,
+      "horse_number": 6,
+      "odds": 44.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100987",
+      "horse_name": "セレクティオ",
+      "score": -0.2896529782670749,
+      "horse_number": 9,
+      "odds": 44.4
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010612",
+  "race_name": "Fビレッジ",
+  "race_time": "2025-08-10 16:01",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104983",
+      "horse_name": "イムホテプ",
+      "score": 0.19646801593213303,
+      "horse_number": 4,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103778",
+      "horse_name": "ライフゲート",
+      "score": 0.15513378803920058,
+      "horse_number": 11,
+      "odds": 18.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104605",
+      "horse_name": "ショウナンヤッホー",
+      "score": 0.14847770441433697,
+      "horse_number": 7,
+      "odds": 23.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105849",
+      "horse_name": "オコタンペ",
+      "score": 0.1415762102413529,
+      "horse_number": 5,
+      "odds": 24.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100389",
+      "horse_name": "プラムダンディ",
+      "score": 0.10579365601834588,
+      "horse_number": 2,
+      "odds": 20.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101045",
+      "horse_name": "タイセイミッション",
+      "score": 0.022392240360761095,
+      "horse_number": 10,
+      "odds": 24.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100292",
+      "horse_name": "パフ",
+      "score": -0.0016900841071747722,
+      "horse_number": 12,
+      "odds": 8.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106689",
+      "horse_name": "アセレラシオン",
+      "score": -0.024221115406567996,
+      "horse_number": 13,
+      "odds": 36.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021110108",
+      "horse_name": "カンジ",
+      "score": -0.08046617094572045,
+      "horse_number": 1,
+      "odds": 7.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021107262",
+      "horse_name": "サンキャメロン",
+      "score": -0.09698534965763471,
+      "horse_number": 8,
+      "odds": 37.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018106220",
+      "horse_name": "メイショウシロガネ",
+      "score": -0.2109841221961064,
+      "horse_number": 3,
+      "odds": 40.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106192",
+      "horse_name": "ウインアルドーレ",
+      "score": -0.2803128419384433,
+      "horse_number": 6,
+      "odds": 34.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104215",
+      "horse_name": "ケイアイメキラ",
+      "score": -0.3775219536703764,
+      "horse_number": 9,
+      "odds": 54.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103125",
+      "horse_name": "コパノアントニオ",
+      "score": -0.48545050101913356,
+      "horse_number": 14,
+      "odds": 37.4
+    }
+  ]
+}
