@@ -1,0 +1,152 @@
+{
+  "race_id": "202504020608",
+  "race_name": "驀進特別",
+  "race_time": "2025-08-10 16:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110108",
+      "horse_name": "エコロジーク",
+      "score": 0.3637685627478281,
+      "horse_number": 18,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101677",
+      "horse_name": "ソルレース",
+      "score": 0.32126030658607585,
+      "horse_number": 13,
+      "odds": 6.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100297",
+      "horse_name": "ブルボンクイーン",
+      "score": 0.034837858030524395,
+      "horse_number": 10,
+      "odds": 28.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106914",
+      "horse_name": "イコサン",
+      "score": 0.026135286562573294,
+      "horse_number": 5,
+      "odds": 18.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102514",
+      "horse_name": "ベイビーキッス",
+      "score": -0.0013616514011332292,
+      "horse_number": 16,
+      "odds": 7.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103971",
+      "horse_name": "ハッピーデービー",
+      "score": -0.05785519496199535,
+      "horse_number": 3,
+      "odds": 50.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101469",
+      "horse_name": "ヴェナートル",
+      "score": -0.1438985120958577,
+      "horse_number": 9,
+      "odds": 39.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101378",
+      "horse_name": "アイヲツグモノ",
+      "score": -0.14855011313356617,
+      "horse_number": 11,
+      "odds": 38.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100356",
+      "horse_name": "クールベイビー",
+      "score": -0.1854629383217857,
+      "horse_number": 12,
+      "odds": 23.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101230",
+      "horse_name": "ヤングワールド",
+      "score": -0.20874887545803278,
+      "horse_number": 6,
+      "odds": 176.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106187",
+      "horse_name": "ゼンダンタカ",
+      "score": -0.28708158660895217,
+      "horse_number": 15,
+      "odds": 22.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100236",
+      "horse_name": "ニシノトキメキ",
+      "score": -0.3158372914610299,
+      "horse_number": 17,
+      "odds": 10.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100198",
+      "horse_name": "ホークレア",
+      "score": -0.32582505294511044,
+      "horse_number": 8,
+      "odds": 68.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100610",
+      "horse_name": "アサギリ",
+      "score": -0.34555344090329637,
+      "horse_number": 1,
+      "odds": 80.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018106612",
+      "horse_name": "オリアメンディ",
+      "score": -0.3719557355866788,
+      "horse_number": 7,
+      "odds": 90.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019103978",
+      "horse_name": "クリニエールグラス",
+      "score": -0.42238056070730823,
+      "horse_number": 2,
+      "odds": 104.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2021102709",
+      "horse_name": "セッテイロク",
+      "score": -0.4807150208590405,
+      "horse_number": 4,
+      "odds": 102.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2019100132",
+      "horse_name": "ペイシャカレン",
+      "score": -0.6293301629666437,
+      "horse_number": 14,
+      "odds": 62.8
+    }
+  ]
+}
