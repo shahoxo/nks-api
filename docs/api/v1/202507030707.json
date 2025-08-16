@@ -16,31 +16,31 @@
       "rank": 2,
       "horse_id": "2020104550",
       "horse_name": "ワイドアラジン",
-      "score": 0.06385736666422381,
+      "score": 0.09194243366014539,
       "horse_number": 6,
       "odds": 5.1
     },
     {
       "rank": 3,
-      "horse_id": "2020105305",
-      "horse_name": "アウフヘーベン",
-      "score": 0.00292086040621451,
-      "horse_number": 4,
-      "odds": 6.1
+      "horse_id": "2021100225",
+      "horse_name": "モズマーヴェリック",
+      "score": -0.007102039803037964,
+      "horse_number": 3,
+      "odds": 7.7
     },
     {
       "rank": 4,
-      "horse_id": "2021100225",
-      "horse_name": "モズマーヴェリック",
-      "score": -0.016261522096480387,
-      "horse_number": 3,
-      "odds": 7.7
+      "horse_id": "2020105305",
+      "horse_name": "アウフヘーベン",
+      "score": -0.10612822727719148,
+      "horse_number": 4,
+      "odds": 6.1
     },
     {
       "rank": 5,
       "horse_id": "2020102888",
       "horse_name": "バールデュヴァン",
-      "score": -0.1940202671857004,
+      "score": -0.12274532046168184,
       "horse_number": 8,
       "odds": 6.5
     },
@@ -48,7 +48,7 @@
       "rank": 6,
       "horse_id": "2020101486",
       "horse_name": "ドットクルー",
-      "score": -0.2896441214242219,
+      "score": -0.31249491561292025,
       "horse_number": 7,
       "odds": 22.7
     },
@@ -56,7 +56,7 @@
       "rank": 7,
       "horse_id": "2020103562",
       "horse_name": "コスモシャングリラ",
-      "score": -0.3524797210262608,
+      "score": -0.39597748235192043,
       "horse_number": 1,
       "odds": 18.8
     },

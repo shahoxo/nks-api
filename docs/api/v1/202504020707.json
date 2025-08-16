@@ -1,0 +1,128 @@
+{
+  "race_id": "202504020707",
+  "race_name": "上越S",
+  "race_time": "2025-08-16 15:45",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102953",
+      "horse_name": "パドマ",
+      "score": 0.3440305745674964,
+      "horse_number": 14,
+      "odds": 10.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019100553",
+      "horse_name": "ドンレパルス",
+      "score": 0.251802644342621,
+      "horse_number": 7,
+      "odds": 7.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021110008",
+      "horse_name": "ルディック",
+      "score": 0.2172003132046209,
+      "horse_number": 10,
+      "odds": 3.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104346",
+      "horse_name": "イミュータブル",
+      "score": 0.1360750194809518,
+      "horse_number": 5,
+      "odds": 32.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102462",
+      "horse_name": "ワークソング",
+      "score": 0.1316216916307371,
+      "horse_number": 1,
+      "odds": 20.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104745",
+      "horse_name": "イノセントキャット",
+      "score": 0.12442516339666429,
+      "horse_number": 9,
+      "odds": 5.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020107082",
+      "horse_name": "ライジン",
+      "score": 0.11920166606882045,
+      "horse_number": 11,
+      "odds": 13.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106554",
+      "horse_name": "タガノミスト",
+      "score": 0.11266837578145387,
+      "horse_number": 15,
+      "odds": 7.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102700",
+      "horse_name": "ビバップ",
+      "score": 0.002345736244696241,
+      "horse_number": 3,
+      "odds": 7.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018104775",
+      "horse_name": "パルデンス",
+      "score": -0.15644670082224446,
+      "horse_number": 8,
+      "odds": 92.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104169",
+      "horse_name": "メイショウタイゲイ",
+      "score": -0.18345908478990608,
+      "horse_number": 6,
+      "odds": 36.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018103738",
+      "horse_name": "ミラバーグマン",
+      "score": -0.2758787376245113,
+      "horse_number": 4,
+      "odds": 95.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019107016",
+      "horse_name": "ウナギノボリ",
+      "score": -0.44630971327520685,
+      "horse_number": 13,
+      "odds": 49.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018103551",
+      "horse_name": "ユスティニアン",
+      "score": -0.4920327845978467,
+      "horse_number": 2,
+      "odds": 69.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103912",
+      "horse_name": "モデルハント",
+      "score": -0.5071658448588457,
+      "horse_number": 12,
+      "odds": 32.5
+    }
+  ]
+}

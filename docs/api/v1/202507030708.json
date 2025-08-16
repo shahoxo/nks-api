@@ -1,0 +1,72 @@
+{
+  "race_id": "202507030708",
+  "race_name": "長久手特別",
+  "race_time": "2025-08-16 16:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106562",
+      "horse_name": "タガノアビー",
+      "score": 0.4571043487632756,
+      "horse_number": 1,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105228",
+      "horse_name": "レディーヴァリュー",
+      "score": 0.30460774759310666,
+      "horse_number": 8,
+      "odds": 5.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105616",
+      "horse_name": "エルフストラック",
+      "score": 0.16207212074569127,
+      "horse_number": 2,
+      "odds": 12.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102597",
+      "horse_name": "ラビットアイ",
+      "score": 0.09522795341194666,
+      "horse_number": 3,
+      "odds": 10.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105102",
+      "horse_name": "スターリングアップ",
+      "score": -0.021041851060258947,
+      "horse_number": 5,
+      "odds": 20.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105824",
+      "horse_name": "アレナリア",
+      "score": -0.06556771221624146,
+      "horse_number": 7,
+      "odds": 44.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105581",
+      "horse_name": "フレミングフープ",
+      "score": -0.07437003445306188,
+      "horse_number": 4,
+      "odds": 11.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101925",
+      "horse_name": "オデット",
+      "score": -0.08474408042463256,
+      "horse_number": 6,
+      "odds": 28.5
+    }
+  ]
+}
