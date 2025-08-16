@@ -16,7 +16,7 @@
       "rank": 2,
       "horse_id": "2021105228",
       "horse_name": "レディーヴァリュー",
-      "score": 0.30460774759310666,
+      "score": 0.3205621995687849,
       "horse_number": 8,
       "odds": 5.6
     },
@@ -24,7 +24,7 @@
       "rank": 3,
       "horse_id": "2021105616",
       "horse_name": "エルフストラック",
-      "score": 0.16207212074569127,
+      "score": 0.2114312457909005,
       "horse_number": 2,
       "odds": 12.9
     },
@@ -32,41 +32,41 @@
       "rank": 4,
       "horse_id": "2021102597",
       "horse_name": "ラビットアイ",
-      "score": 0.09522795341194666,
+      "score": 0.0921342209197658,
       "horse_number": 3,
       "odds": 10.9
     },
     {
       "rank": 5,
-      "horse_id": "2021105102",
-      "horse_name": "スターリングアップ",
-      "score": -0.021041851060258947,
-      "horse_number": 5,
-      "odds": 20.5
-    },
-    {
-      "rank": 6,
-      "horse_id": "2019105824",
-      "horse_name": "アレナリア",
-      "score": -0.06556771221624146,
-      "horse_number": 7,
-      "odds": 44.6
-    },
-    {
-      "rank": 7,
       "horse_id": "2021105581",
       "horse_name": "フレミングフープ",
-      "score": -0.07437003445306188,
+      "score": -0.024426972476704195,
       "horse_number": 4,
       "odds": 11.1
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "horse_id": "2021105102",
+      "horse_name": "スターリングアップ",
+      "score": -0.08147866892115325,
+      "horse_number": 5,
+      "odds": 20.5
+    },
+    {
+      "rank": 7,
       "horse_id": "2022101925",
       "horse_name": "オデット",
-      "score": -0.08474408042463256,
+      "score": -0.1949279610628732,
       "horse_number": 6,
       "odds": 28.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019105824",
+      "horse_name": "アレナリア",
+      "score": -0.20175470352441582,
+      "horse_number": 7,
+      "odds": 44.6
     }
   ]
 }
