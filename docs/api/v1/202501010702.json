@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010702",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-16 10:25",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102035",
+      "horse_name": "スマートイザナミ",
+      "score": 0.1461407077702751,
+      "horse_number": 12,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104441",
+      "horse_name": "メルヘンライズ",
+      "score": 0.13131574600261953,
+      "horse_number": 11,
+      "odds": 8.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104653",
+      "horse_name": "アイドルアイズ",
+      "score": 0.12640343006323293,
+      "horse_number": 5,
+      "odds": 4.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105267",
+      "horse_name": "サウンドルーチェ",
+      "score": 0.09956124062905636,
+      "horse_number": 14,
+      "odds": 8.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102952",
+      "horse_name": "ユージュアーナ",
+      "score": 0.07759802072811933,
+      "horse_number": 2,
+      "odds": 9.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104707",
+      "horse_name": "ミストラルフェザー",
+      "score": -0.09494353487213703,
+      "horse_number": 8,
+      "odds": 68.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104305",
+      "horse_name": "スフレ",
+      "score": -0.10592923209410321,
+      "horse_number": 1,
+      "odds": 35.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102263",
+      "horse_name": "カスバートテソーロ",
+      "score": -0.1295351704391626,
+      "horse_number": 13,
+      "odds": 5.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105305",
+      "horse_name": "シンシーネ",
+      "score": -0.4265214487662232,
+      "horse_number": 4,
+      "odds": 51.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101414",
+      "horse_name": "グランクリュ",
+      "score": -0.4319443772121474,
+      "horse_number": 6,
+      "odds": 73.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105000",
+      "horse_name": "ミセスリリー",
+      "score": -0.5052999659551102,
+      "horse_number": 10,
+      "odds": 71.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101153",
+      "horse_name": "シャインシュシュ",
+      "score": -0.5371491487769224,
+      "horse_number": 7,
+      "odds": 68.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100183",
+      "horse_name": "ティアップマッハ",
+      "score": -0.58186388478215,
+      "horse_number": 3,
+      "odds": 55.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105268",
+      "horse_name": "エピックサイクル",
+      "score": -0.6746403448295699,
+      "horse_number": 9,
+      "odds": 35.6
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202504020703",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-16 10:45",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105284",
+      "horse_name": "プロメテドール",
+      "score": 0.22876743725259002,
+      "horse_number": 8,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103531",
+      "horse_name": "ホウオウヌーヴォー",
+      "score": 0.19020854511558188,
+      "horse_number": 14,
+      "odds": 9.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101248",
+      "horse_name": "アルマリカシバ",
+      "score": -0.004958315201809567,
+      "horse_number": 1,
+      "odds": 5.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101436",
+      "horse_name": "サラニキケン",
+      "score": -0.07363133254746762,
+      "horse_number": 10,
+      "odds": 7.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105308",
+      "horse_name": "フローラルデザイン",
+      "score": -0.208472179164263,
+      "horse_number": 11,
+      "odds": 21.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106164",
+      "horse_name": "キタノマーシャル",
+      "score": -0.22458397561796523,
+      "horse_number": 13,
+      "odds": 4.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105337",
+      "horse_name": "カサビセンス",
+      "score": -0.3190227932922839,
+      "horse_number": 12,
+      "odds": 14.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105016",
+      "horse_name": "プラウドモーメント",
+      "score": -0.45148711863448177,
+      "horse_number": 3,
+      "odds": 23.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100191",
+      "horse_name": "ノースカトレア",
+      "score": -0.5844092227108343,
+      "horse_number": 7,
+      "odds": 17.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106966",
+      "horse_name": "オータムメモリー",
+      "score": -0.6242588499982757,
+      "horse_number": 4,
+      "odds": 29.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104630",
+      "horse_name": "トリフォラート",
+      "score": -0.6408846627135724,
+      "horse_number": 2,
+      "odds": 16.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103256",
+      "horse_name": "メイショウナナカゼ",
+      "score": -0.6435674426738079,
+      "horse_number": 6,
+      "odds": 26.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101383",
+      "horse_name": "コヴェナント",
+      "score": -0.6783429378640029,
+      "horse_number": 5,
+      "odds": 79.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106348",
+      "horse_name": "ムンディ",
+      "score": -0.703836440672674,
+      "horse_number": 9,
+      "odds": 176.1
+    }
+  ]
+}
