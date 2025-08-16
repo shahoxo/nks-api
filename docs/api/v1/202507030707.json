@@ -1,0 +1,80 @@
+{
+  "race_id": "202507030707",
+  "race_name": "高山S",
+  "race_time": "2025-08-16 15:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103487",
+      "horse_name": "ミッキーツインクル",
+      "score": 0.45067370788507666,
+      "horse_number": 5,
+      "odds": 2.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020104550",
+      "horse_name": "ワイドアラジン",
+      "score": 0.06385736666422381,
+      "horse_number": 6,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105305",
+      "horse_name": "アウフヘーベン",
+      "score": 0.00292086040621451,
+      "horse_number": 4,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100225",
+      "horse_name": "モズマーヴェリック",
+      "score": -0.016261522096480387,
+      "horse_number": 3,
+      "odds": 7.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020102888",
+      "horse_name": "バールデュヴァン",
+      "score": -0.1940202671857004,
+      "horse_number": 8,
+      "odds": 6.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101486",
+      "horse_name": "ドットクルー",
+      "score": -0.2896441214242219,
+      "horse_number": 7,
+      "odds": 22.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103562",
+      "horse_name": "コスモシャングリラ",
+      "score": -0.3524797210262608,
+      "horse_number": 1,
+      "odds": 18.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018101621",
+      "horse_name": "ウインリブルマン",
+      "score": -0.49700032853611087,
+      "horse_number": 9,
+      "odds": 19.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100976",
+      "horse_name": "ハギノアルデバラン",
+      "score": -0.522207725190991,
+      "horse_number": 2,
+      "odds": 15.7
+    }
+  ]
+}

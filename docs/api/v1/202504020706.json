@@ -1,0 +1,104 @@
+{
+  "race_id": "202504020706",
+  "race_name": "中郷特別",
+  "race_time": "2025-08-16 15:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101192",
+      "horse_name": "エストゥペンダ",
+      "score": 0.35201267901161437,
+      "horse_number": 7,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104818",
+      "horse_name": "クライスレリアーナ",
+      "score": 0.3361983040677297,
+      "horse_number": 2,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104622",
+      "horse_name": "ホーリーノット",
+      "score": 0.2790004705462119,
+      "horse_number": 11,
+      "odds": 7.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105131",
+      "horse_name": "キューティリップ",
+      "score": 0.27307835141744546,
+      "horse_number": 3,
+      "odds": 9.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020102926",
+      "horse_name": "フォーカルフラワー",
+      "score": 0.23491606553988736,
+      "horse_number": 4,
+      "odds": 14.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105486",
+      "horse_name": "トロピカルティー",
+      "score": 0.2159411038458498,
+      "horse_number": 5,
+      "odds": 9.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100106",
+      "horse_name": "ペプロス",
+      "score": 0.0968803823395746,
+      "horse_number": 8,
+      "odds": 41.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105047",
+      "horse_name": "メランジェ",
+      "score": 0.012804651282136759,
+      "horse_number": 6,
+      "odds": 25.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105035",
+      "horse_name": "イージーブリージー",
+      "score": -0.03197900294120112,
+      "horse_number": 9,
+      "odds": 68.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106681",
+      "horse_name": "ラルンエベール",
+      "score": -0.13466141219050248,
+      "horse_number": 1,
+      "odds": 34.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101464",
+      "horse_name": "レイユール",
+      "score": -0.31529083473540803,
+      "horse_number": 10,
+      "odds": 19.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021107253",
+      "horse_name": "ニシノコマチムスメ",
+      "score": -0.4069291495544012,
+      "horse_number": 12,
+      "odds": 59.7
+    }
+  ]
+}
