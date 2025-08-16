@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010706",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-16 12:45",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106722",
+      "horse_name": "トリプレーテ",
+      "score": 0.20805225407476202,
+      "horse_number": 14,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101684",
+      "horse_name": "ミスティマウンテン",
+      "score": 0.18156685351138557,
+      "horse_number": 10,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102563",
+      "horse_name": "メイショウゲキハ",
+      "score": 0.1406351566681538,
+      "horse_number": 1,
+      "odds": 2.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106861",
+      "horse_name": "メイユウ",
+      "score": 0.03395726468240512,
+      "horse_number": 5,
+      "odds": 17.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105219",
+      "horse_name": "ブランディストック",
+      "score": 0.02038803450993901,
+      "horse_number": 4,
+      "odds": 6.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101273",
+      "horse_name": "シャドーストライク",
+      "score": -0.31776044998731556,
+      "horse_number": 11,
+      "odds": 58.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102567",
+      "horse_name": "オロパタジン",
+      "score": -0.44326287797751174,
+      "horse_number": 13,
+      "odds": 15.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106657",
+      "horse_name": "ピンクパラダイス",
+      "score": -0.4630035852789576,
+      "horse_number": 6,
+      "odds": 54.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102845",
+      "horse_name": "メイショウマヒロ",
+      "score": -0.48108342316212016,
+      "horse_number": 2,
+      "odds": 23.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102734",
+      "horse_name": "スマートテンペスト",
+      "score": -0.5121671884952315,
+      "horse_number": 8,
+      "odds": 41.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106894",
+      "horse_name": "ファリア",
+      "score": -0.5748750362458318,
+      "horse_number": 3,
+      "odds": 67.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105331",
+      "horse_name": "クリップクロップ",
+      "score": -0.6435674426738079,
+      "horse_number": 9,
+      "odds": 82.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105089",
+      "horse_name": "レイナサグラーダ",
+      "score": -0.6970415147616792,
+      "horse_number": 12,
+      "odds": 55.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105754",
+      "horse_name": "サヨノファントム",
+      "score": -0.735775346659503,
+      "horse_number": 7,
+      "odds": 130.5
+    }
+  ]
+}
