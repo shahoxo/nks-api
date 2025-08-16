@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010708",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-16 13:45",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105554",
+      "horse_name": "ゼロスネーク",
+      "score": 0.23207667005379595,
+      "horse_number": 7,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103235",
+      "horse_name": "カフェブーケット",
+      "score": 0.1874467447893493,
+      "horse_number": 1,
+      "odds": 4.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102406",
+      "horse_name": "レイワサンサン",
+      "score": 0.09220186423145789,
+      "horse_number": 13,
+      "odds": 11.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106785",
+      "horse_name": "コスモシェルベット",
+      "score": 0.020133980047492315,
+      "horse_number": 4,
+      "odds": 16.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103593",
+      "horse_name": "バイアビリティ",
+      "score": -0.03624087883887479,
+      "horse_number": 6,
+      "odds": 41.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104039",
+      "horse_name": "ジュンラトゥール",
+      "score": -0.09779671014347024,
+      "horse_number": 12,
+      "odds": 23.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100948",
+      "horse_name": "ウォーターリーダー",
+      "score": -0.1578177786851646,
+      "horse_number": 2,
+      "odds": 6.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103644",
+      "horse_name": "ブレイジングスター",
+      "score": -0.20107404759112463,
+      "horse_number": 3,
+      "odds": 13.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103785",
+      "horse_name": "マタミカンサン",
+      "score": -0.22703792536743725,
+      "horse_number": 9,
+      "odds": 37.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103228",
+      "horse_name": "メイショウハマギク",
+      "score": -0.2542059866506034,
+      "horse_number": 5,
+      "odds": 25.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104135",
+      "horse_name": "トルズイーガー",
+      "score": -0.341928060352212,
+      "horse_number": 8,
+      "odds": 13.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019106972",
+      "horse_name": "ロストボール",
+      "score": -0.5074959496969453,
+      "horse_number": 11,
+      "odds": 87.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102611",
+      "horse_name": "ルグランシャリオ",
+      "score": -0.5476542588055101,
+      "horse_number": 10,
+      "odds": 82.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106003",
+      "horse_name": "ファイヤーウィップ",
+      "score": -0.5494931663403189,
+      "horse_number": 14,
+      "odds": 73.1
+    }
+  ]
+}
