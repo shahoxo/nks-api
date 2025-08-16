@@ -1,0 +1,112 @@
+{
+  "race_id": "202504020708",
+  "race_name": "瀬波温泉特別",
+  "race_time": "2025-08-16 16:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105979",
+      "horse_name": "ピカピカサンダー",
+      "score": 0.2343000795347952,
+      "horse_number": 7,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105776",
+      "horse_name": "グレイスザクラウン",
+      "score": 0.062356281233421657,
+      "horse_number": 12,
+      "odds": 10.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103059",
+      "horse_name": "ベルベルコンパス",
+      "score": -0.10826018806178338,
+      "horse_number": 6,
+      "odds": 3.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103123",
+      "horse_name": "マルカブリッツ",
+      "score": -0.1712363307102375,
+      "horse_number": 13,
+      "odds": 20.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102753",
+      "horse_name": "サンセットブライト",
+      "score": -0.19447515452461883,
+      "horse_number": 8,
+      "odds": 43.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101913",
+      "horse_name": "タカサンフェイス",
+      "score": -0.22284834200728576,
+      "horse_number": 10,
+      "odds": 18.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104786",
+      "horse_name": "シャパリュ",
+      "score": -0.24814512291464885,
+      "horse_number": 5,
+      "odds": 10.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101134",
+      "horse_name": "ニフェーデービル",
+      "score": -0.2692415882529311,
+      "horse_number": 4,
+      "odds": 26.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019101661",
+      "horse_name": "サトミノマロン",
+      "score": -0.3745311395587778,
+      "horse_number": 11,
+      "odds": 90.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103007",
+      "horse_name": "エンファサイズ",
+      "score": -0.3823573936424408,
+      "horse_number": 1,
+      "odds": 35.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104207",
+      "horse_name": "ビターゼノビア",
+      "score": -0.4841155128521579,
+      "horse_number": 2,
+      "odds": 75.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2017103267",
+      "horse_name": "エクストラノート",
+      "score": -0.5417443421016692,
+      "horse_number": 3,
+      "odds": 45.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021107266",
+      "horse_name": "スプレーフォール",
+      "score": -0.5493757488053291,
+      "horse_number": 9,
+      "odds": 80.6
+    }
+  ]
+}
