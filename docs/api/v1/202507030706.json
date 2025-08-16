@@ -1,0 +1,112 @@
+{
+  "race_id": "202507030706",
+  "race_name": "知多特別",
+  "race_time": "2025-08-16 15:01",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101443",
+      "horse_name": "サウスバンク",
+      "score": 0.4407529157474189,
+      "horse_number": 6,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021107180",
+      "horse_name": "ジュンヴァンケット",
+      "score": 0.2087539539798341,
+      "horse_number": 7,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020106821",
+      "horse_name": "ピースフルナイト",
+      "score": 0.11240642912813811,
+      "horse_number": 3,
+      "odds": 12.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105753",
+      "horse_name": "フェンダー",
+      "score": 0.0808370559185841,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106661",
+      "horse_name": "ヒーローインチーフ",
+      "score": 0.05046112430216589,
+      "horse_number": 11,
+      "odds": 18.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105358",
+      "horse_name": "アスティスプマンテ",
+      "score": -0.01517702077103554,
+      "horse_number": 5,
+      "odds": 15.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101229",
+      "horse_name": "レディメローラ",
+      "score": -0.07903203363173943,
+      "horse_number": 2,
+      "odds": 30.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105873",
+      "horse_name": "シュブロンレーヴル",
+      "score": -0.11504742264371251,
+      "horse_number": 4,
+      "odds": 44.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105054",
+      "horse_name": "モンシュマン",
+      "score": -0.1968330412399903,
+      "horse_number": 1,
+      "odds": 15.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103448",
+      "horse_name": "スマートジェイナ",
+      "score": -0.2834619084079409,
+      "horse_number": 8,
+      "odds": 38.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018100097",
+      "horse_name": "スマートルシーダ",
+      "score": -0.32099792035351415,
+      "horse_number": 12,
+      "odds": 91.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106777",
+      "horse_name": "セレッソデアモール",
+      "score": -0.3515112890851123,
+      "horse_number": 9,
+      "odds": 50.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105361",
+      "horse_name": "エリンアキレウス",
+      "score": -0.7344997899121097,
+      "horse_number": 13,
+      "odds": 211.6
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "race_id": "202501010709",
+  "race_name": "コスモス賞",
+  "race_time": "2025-08-16 14:15",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106400",
+      "horse_name": "アスクエジンバラ",
+      "score": 0.26379477753255987,
+      "horse_number": 8,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104492",
+      "horse_name": "ブラックハヤテ",
+      "score": 0.07066142536579909,
+      "horse_number": 4,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100840",
+      "horse_name": "2023100840",
+      "score": 0.06385786555589201,
+      "horse_number": 3,
+      "odds": 9.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101557",
+      "horse_name": "シンデレラガール",
+      "score": -0.29118987960979276,
+      "horse_number": 6,
+      "odds": 25.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100108",
+      "horse_name": "2023100108",
+      "score": -0.4618563848934708,
+      "horse_number": 7,
+      "odds": 61.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103932",
+      "horse_name": "ロイヤルタイム",
+      "score": -0.4791843018740154,
+      "horse_number": 2,
+      "odds": 12.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106495",
+      "horse_name": "2023106495",
+      "score": -0.5494676617297027,
+      "horse_number": 5,
+      "odds": 18.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107451",
+      "horse_name": "リュウノプティ",
+      "score": -0.5602762932404677,
+      "horse_number": 1,
+      "odds": 100.9
+    }
+  ]
+}

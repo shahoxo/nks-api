@@ -1,0 +1,112 @@
+{
+  "race_id": "202501010710",
+  "race_name": "知床特別",
+  "race_time": "2025-08-16 14:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103707",
+      "horse_name": "エスペシャリー",
+      "score": 0.08779396765165136,
+      "horse_number": 9,
+      "odds": 7.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105863",
+      "horse_name": "ルージュスエルテ",
+      "score": 0.08755888389139388,
+      "horse_number": 12,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105833",
+      "horse_name": "カリーシ",
+      "score": 0.06581542764589784,
+      "horse_number": 5,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104174",
+      "horse_name": "マジカルフェアリー",
+      "score": -0.04397264311496852,
+      "horse_number": 8,
+      "odds": 5.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100933",
+      "horse_name": "エルサトアナ",
+      "score": -0.0468857269728896,
+      "horse_number": 7,
+      "odds": 12.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020104087",
+      "horse_name": "グランツベリー",
+      "score": -0.10740424978892338,
+      "horse_number": 11,
+      "odds": 45.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106169",
+      "horse_name": "カワキタマナレア",
+      "score": -0.200684970895911,
+      "horse_number": 2,
+      "odds": 4.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103632",
+      "horse_name": "スイミーユニバンス",
+      "score": -0.22356323781916645,
+      "horse_number": 13,
+      "odds": 20.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104983",
+      "horse_name": "マルプリ",
+      "score": -0.28842275994441463,
+      "horse_number": 6,
+      "odds": 23.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106987",
+      "horse_name": "スムースベルベット",
+      "score": -0.3158372914610299,
+      "horse_number": 4,
+      "odds": 49.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101906",
+      "horse_name": "キョウエイボニータ",
+      "score": -0.3966907551330507,
+      "horse_number": 10,
+      "odds": 17.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104160",
+      "horse_name": "アイオブザストーム",
+      "score": -0.48724481834038835,
+      "horse_number": 3,
+      "odds": 105.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103701",
+      "horse_name": "ルージュイストリア",
+      "score": -0.5006140918914418,
+      "horse_number": 1,
+      "odds": 36.5
+    }
+  ]
+}
