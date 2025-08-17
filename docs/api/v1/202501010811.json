@@ -1,0 +1,136 @@
+{
+  "race_id": "202501010811",
+  "race_name": "札幌記念",
+  "race_time": "2025-08-17 15:45",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020101607",
+      "horse_name": "ココナッツブラウン",
+      "score": 0.30193098301400234,
+      "horse_number": 15,
+      "odds": 6.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021109070",
+      "horse_name": "ハヤテノフクノスケ",
+      "score": 0.2300683797717134,
+      "horse_number": 7,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105399",
+      "horse_name": "ヴェローチェエラ",
+      "score": 0.2055243079196552,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103941",
+      "horse_name": "ホウオウビスケッツ",
+      "score": 0.1599764778345955,
+      "horse_number": 5,
+      "odds": 3.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106787",
+      "horse_name": "コスモキュランダ",
+      "score": 0.10585553535285365,
+      "horse_number": 4,
+      "odds": 10.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019100318",
+      "horse_name": "ケイアイセナ",
+      "score": 0.027222590229992648,
+      "horse_number": 6,
+      "odds": 65.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105633",
+      "horse_name": "リビアングラス",
+      "score": -0.06712735914518482,
+      "horse_number": 1,
+      "odds": 20.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018104942",
+      "horse_name": "シュヴァリエローズ",
+      "score": -0.08182590001345257,
+      "horse_number": 16,
+      "odds": 30.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105743",
+      "horse_name": "ステレンボッシュ",
+      "score": -0.09957431627255425,
+      "horse_number": 8,
+      "odds": 6.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019104447",
+      "horse_name": "シュトルーヴェ",
+      "score": -0.1354957212258025,
+      "horse_number": 3,
+      "odds": 15.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104658",
+      "horse_name": "ボーンディスウェイ",
+      "score": -0.18064216161947103,
+      "horse_number": 2,
+      "odds": 109.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106402",
+      "horse_name": "トップナイフ",
+      "score": -0.18601328514494078,
+      "horse_number": 9,
+      "odds": 25.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105239",
+      "horse_name": "ショウナンアデイブ",
+      "score": -0.2019267904086724,
+      "horse_number": 11,
+      "odds": 241.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019105252",
+      "horse_name": "アルナシーム",
+      "score": -0.21062578794634787,
+      "horse_number": 12,
+      "odds": 22.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2017104756",
+      "horse_name": "アラタ",
+      "score": -0.2720609720914143,
+      "horse_number": 14,
+      "odds": 134.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018101010",
+      "horse_name": "アウスヴァール",
+      "score": -0.5544763347990807,
+      "horse_number": 13,
+      "odds": 179.0
+    }
+  ]
+}

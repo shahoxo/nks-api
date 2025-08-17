@@ -1,0 +1,56 @@
+{
+  "race_id": "202507030808",
+  "race_name": "常滑特別",
+  "race_time": "2025-08-17 16:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100658",
+      "horse_name": "ダノンジョーカー",
+      "score": 0.34106793348019165,
+      "horse_number": 6,
+      "odds": 1.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103255",
+      "horse_name": "ジャスティンガルフ",
+      "score": 0.10930087598992524,
+      "horse_number": 2,
+      "odds": 28.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105769",
+      "horse_name": "ピースヒロフェイス",
+      "score": 0.02472989644869332,
+      "horse_number": 5,
+      "odds": 36.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104820",
+      "horse_name": "メアヴィア",
+      "score": -0.0936027847692813,
+      "horse_number": 1,
+      "odds": 44.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101557",
+      "horse_name": "タマモランプ",
+      "score": -0.0989088509090521,
+      "horse_number": 4,
+      "odds": 11.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101059",
+      "horse_name": "バヤシーフェイス",
+      "score": -0.4123825392407361,
+      "horse_number": 3,
+      "odds": 60.1
+    }
+  ]
+}
