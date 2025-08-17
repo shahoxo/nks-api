@@ -1,0 +1,128 @@
+{
+  "race_id": "202504020802",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-17 10:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100348",
+      "horse_name": "ヨドノタイヨウ",
+      "score": 0.22175722693440525,
+      "horse_number": 8,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100390",
+      "horse_name": "アバレリュウ",
+      "score": 0.13286700535838802,
+      "horse_number": 10,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107085",
+      "horse_name": "パワーオブドリーム",
+      "score": -0.03763963788754411,
+      "horse_number": 1,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101286",
+      "horse_name": "クラウンアールシー",
+      "score": -0.3031777901014675,
+      "horse_number": 13,
+      "odds": 12.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105932",
+      "horse_name": "テルケンレンスター",
+      "score": -0.31047461405977117,
+      "horse_number": 2,
+      "odds": 41.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103259",
+      "horse_name": "メイショウヒンカク",
+      "score": -0.4032247209495218,
+      "horse_number": 4,
+      "odds": 7.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105371",
+      "horse_name": "ノイシュタット",
+      "score": -0.4317269381239124,
+      "horse_number": 6,
+      "odds": 11.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104147",
+      "horse_name": "ミンナデガンバル",
+      "score": -0.4776124513798923,
+      "horse_number": 12,
+      "odds": 11.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101848",
+      "horse_name": "ナイトダンサー",
+      "score": -0.6028557547896995,
+      "horse_number": 11,
+      "odds": 53.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104386",
+      "horse_name": "リアライズオネスト",
+      "score": -0.6061671182641528,
+      "horse_number": 5,
+      "odds": 7.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103528",
+      "horse_name": "ホウオウスターツ",
+      "score": -0.6290179124528512,
+      "horse_number": 15,
+      "odds": 110.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105903",
+      "horse_name": "トーアケルキラ",
+      "score": -0.7041946705096742,
+      "horse_number": 14,
+      "odds": 111.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101337",
+      "horse_name": "シャトーペリオット",
+      "score": -0.7075174874823592,
+      "horse_number": 9,
+      "odds": 136.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102336",
+      "horse_name": "ミヤファイター",
+      "score": -0.7212483613895885,
+      "horse_number": 7,
+      "odds": 158.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104044",
+      "horse_name": "ミヤビバエル",
+      "score": -0.7344997899121097,
+      "horse_number": 3,
+      "odds": 157.6
+    }
+  ]
+}
