@@ -1,0 +1,120 @@
+{
+  "race_id": "202501010807",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-17 13:25",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101414",
+      "horse_name": "ベルファスト",
+      "score": 0.20395149095126086,
+      "horse_number": 11,
+      "odds": 18.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105466",
+      "horse_name": "インマイポケット",
+      "score": 0.12130754846220526,
+      "horse_number": 13,
+      "odds": 9.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101765",
+      "horse_name": "ピコローズ",
+      "score": 0.1052328548765815,
+      "horse_number": 5,
+      "odds": 3.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105473",
+      "horse_name": "ラヴスコール",
+      "score": 0.0738117015148538,
+      "horse_number": 14,
+      "odds": 10.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102088",
+      "horse_name": "ユーティジャーニー",
+      "score": 0.05605649063402413,
+      "horse_number": 6,
+      "odds": 7.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105027",
+      "horse_name": "プロクレイア",
+      "score": 0.010067739964287416,
+      "horse_number": 8,
+      "odds": 28.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103501",
+      "horse_name": "クリールスル",
+      "score": -9.903974035737825e-07,
+      "horse_number": 2,
+      "odds": 11.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105233",
+      "horse_name": "ルナルーチェット",
+      "score": -0.008385852791158955,
+      "horse_number": 1,
+      "odds": 4.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102406",
+      "horse_name": "ヒットザグラウンド",
+      "score": -0.03510754761990334,
+      "horse_number": 3,
+      "odds": 18.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105569",
+      "horse_name": "ルージュマローネ",
+      "score": -0.044864938319025716,
+      "horse_number": 4,
+      "odds": 30.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105813",
+      "horse_name": "ルージュミレネール",
+      "score": -0.2959928903055747,
+      "horse_number": 7,
+      "odds": 37.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102965",
+      "horse_name": "マルカシャルマン",
+      "score": -0.3416479929875873,
+      "horse_number": 12,
+      "odds": 77.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104874",
+      "horse_name": "ホウオウガイア",
+      "score": -0.38269472243249847,
+      "horse_number": 9,
+      "odds": 12.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105559",
+      "horse_name": "パーリーラスター",
+      "score": -0.4417931364868413,
+      "horse_number": 10,
+      "odds": 53.7
+    }
+  ]
+}
