@@ -1,0 +1,128 @@
+{
+  "race_id": "202504020809",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-17 16:55",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110132",
+      "horse_name": "ピコテンダー",
+      "score": 0.29953983140177176,
+      "horse_number": 11,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100547",
+      "horse_name": "アサクサグレース",
+      "score": 0.19478894099482902,
+      "horse_number": 14,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102399",
+      "horse_name": "マーズオデッセイ",
+      "score": 0.08619840211871584,
+      "horse_number": 12,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104313",
+      "horse_name": "キミハスコール",
+      "score": 0.07267622450784776,
+      "horse_number": 8,
+      "odds": 14.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103798",
+      "horse_name": "バルサミコ",
+      "score": -0.14403543782320818,
+      "horse_number": 15,
+      "odds": 16.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101636",
+      "horse_name": "サブアトミック",
+      "score": -0.14423699801523637,
+      "horse_number": 2,
+      "odds": 44.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100028",
+      "horse_name": "フェスタリア",
+      "score": -0.17633252073750114,
+      "horse_number": 13,
+      "odds": 11.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104874",
+      "horse_name": "ルーフオブヘヴン",
+      "score": -0.3300174034617356,
+      "horse_number": 7,
+      "odds": 43.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105287",
+      "horse_name": "フォンメイリー",
+      "score": -0.48041825552337836,
+      "horse_number": 4,
+      "odds": 25.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019102320",
+      "horse_name": "サイモンカーチス",
+      "score": -0.5224787233493048,
+      "horse_number": 9,
+      "odds": 90.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103010",
+      "horse_name": "オウケンベリー",
+      "score": -0.5488310238833476,
+      "horse_number": 10,
+      "odds": 83.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101956",
+      "horse_name": "ジェイエルトランス",
+      "score": -0.5539252883210777,
+      "horse_number": 6,
+      "odds": 138.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101265",
+      "horse_name": "オコジュ",
+      "score": -0.5539252883210777,
+      "horse_number": 1,
+      "odds": 30.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102347",
+      "horse_name": "ウィウィルウィン",
+      "score": -0.5899872291490321,
+      "horse_number": 3,
+      "odds": 106.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101120",
+      "horse_name": "サンマルブーケ",
+      "score": -0.6293301629666437,
+      "horse_number": 5,
+      "odds": 139.4
+    }
+  ]
+}
