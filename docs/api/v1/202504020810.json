@@ -1,0 +1,88 @@
+{
+  "race_id": "202504020810",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-17 17:25",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105495",
+      "horse_name": "マーゴットゲイン",
+      "score": 0.1371925545871463,
+      "horse_number": 9,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104773",
+      "horse_name": "ワスカル",
+      "score": 0.1370377326294615,
+      "horse_number": 6,
+      "odds": 2.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2018101300",
+      "horse_name": "ドラミモン",
+      "score": 0.03971344790189872,
+      "horse_number": 2,
+      "odds": 8.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100162",
+      "horse_name": "ゴットランド",
+      "score": -0.022079019015429226,
+      "horse_number": 5,
+      "odds": 15.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105329",
+      "horse_name": "カーマンライン",
+      "score": -0.16429195975003608,
+      "horse_number": 1,
+      "odds": 11.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103342",
+      "horse_name": "カルフ",
+      "score": -0.2934644169712909,
+      "horse_number": 4,
+      "odds": 35.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101195",
+      "horse_name": "コーリンカルベラ",
+      "score": -0.3419894279162061,
+      "horse_number": 10,
+      "odds": 40.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104951",
+      "horse_name": "ブルーゴールド",
+      "score": -0.36722974083359294,
+      "horse_number": 7,
+      "odds": 25.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106923",
+      "horse_name": "ウッドショック",
+      "score": -0.4454753417007564,
+      "horse_number": 3,
+      "odds": 35.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103283",
+      "horse_name": "ペロ",
+      "score": -0.5424908548714008,
+      "horse_number": 8,
+      "odds": 31.1
+    }
+  ]
+}
