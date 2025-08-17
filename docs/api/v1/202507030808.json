@@ -16,7 +16,7 @@
       "rank": 2,
       "horse_id": "2021103255",
       "horse_name": "ジャスティンガルフ",
-      "score": 0.10930087598992524,
+      "score": 0.1196431076518078,
       "horse_number": 2,
       "odds": 28.6
     },
@@ -24,31 +24,31 @@
       "rank": 3,
       "horse_id": "2021105769",
       "horse_name": "ピースヒロフェイス",
-      "score": 0.02472989644869332,
+      "score": -0.05675002683351453,
       "horse_number": 5,
       "odds": 36.5
     },
     {
       "rank": 4,
-      "horse_id": "2021104820",
-      "horse_name": "メアヴィア",
-      "score": -0.0936027847692813,
-      "horse_number": 1,
-      "odds": 44.5
+      "horse_id": "2021101557",
+      "horse_name": "タマモランプ",
+      "score": -0.10523092242499141,
+      "horse_number": 4,
+      "odds": 11.9
     },
     {
       "rank": 5,
-      "horse_id": "2021101557",
-      "horse_name": "タマモランプ",
-      "score": -0.0989088509090521,
-      "horse_number": 4,
-      "odds": 11.9
+      "horse_id": "2021104820",
+      "horse_name": "メアヴィア",
+      "score": -0.2271106991449347,
+      "horse_number": 1,
+      "odds": 44.5
     },
     {
       "rank": 6,
       "horse_id": "2022101059",
       "horse_name": "バヤシーフェイス",
-      "score": -0.4123825392407361,
+      "score": -0.40941092852058825,
       "horse_number": 3,
       "odds": 60.1
     }

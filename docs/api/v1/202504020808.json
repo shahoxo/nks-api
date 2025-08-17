@@ -1,0 +1,80 @@
+{
+  "race_id": "202504020808",
+  "race_name": "阿賀野川特別",
+  "race_time": "2025-08-17 16:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104615",
+      "horse_name": "アマキヒ",
+      "score": 0.30032344808948774,
+      "horse_number": 5,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106563",
+      "horse_name": "イクリール",
+      "score": 0.23480373903317175,
+      "horse_number": 2,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103976",
+      "horse_name": "エコロレイズ",
+      "score": 0.041584326331185556,
+      "horse_number": 7,
+      "odds": 11.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019100790",
+      "horse_name": "マイネルトルファン",
+      "score": -0.18893967692339106,
+      "horse_number": 1,
+      "odds": 13.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106475",
+      "horse_name": "ピンキープロミス",
+      "score": -0.22059562114648876,
+      "horse_number": 4,
+      "odds": 17.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018105462",
+      "horse_name": "アナレンマ",
+      "score": -0.238885377831164,
+      "horse_number": 8,
+      "odds": 16.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019100212",
+      "horse_name": "ウインマイルート",
+      "score": -0.35398725276972953,
+      "horse_number": 6,
+      "odds": 18.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103355",
+      "horse_name": "エイシンナデシコ",
+      "score": -0.5506325049144988,
+      "horse_number": 3,
+      "odds": 42.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2016102767",
+      "horse_name": "プレイリードリーム",
+      "score": -0.579816863364277,
+      "horse_number": 9,
+      "odds": 32.8
+    }
+  ]
+}
