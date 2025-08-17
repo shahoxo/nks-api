@@ -1,0 +1,104 @@
+{
+  "race_id": "202507030807",
+  "race_name": "中京記念",
+  "race_time": "2025-08-17 15:25",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020100680",
+      "horse_name": "エルトンバローズ",
+      "score": 0.46563219978733844,
+      "horse_number": 3,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105119",
+      "horse_name": "キープカルム",
+      "score": 0.3277056486738902,
+      "horse_number": 11,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101436",
+      "horse_name": "エコロヴァルツ",
+      "score": 0.23583387176346948,
+      "horse_number": 8,
+      "odds": 4.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105283",
+      "horse_name": "ブルーミンデザイン",
+      "score": 0.20858143591990425,
+      "horse_number": 9,
+      "odds": 8.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100953",
+      "horse_name": "ウォーターリヒト",
+      "score": 0.18863551486198932,
+      "horse_number": 7,
+      "odds": 5.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019104556",
+      "horse_name": "トランキリテ",
+      "score": 0.10151576100838008,
+      "horse_number": 2,
+      "odds": 37.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105467",
+      "horse_name": "マピュース",
+      "score": 0.10074126842577599,
+      "horse_number": 1,
+      "odds": 7.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103521",
+      "horse_name": "セブンマジシャン",
+      "score": -0.02738353171718866,
+      "horse_number": 4,
+      "odds": 21.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100909",
+      "horse_name": "ジューンオレンジ",
+      "score": -0.07856607251066793,
+      "horse_number": 6,
+      "odds": 48.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022110114",
+      "horse_name": "シンフォーエバー",
+      "score": -0.09495795921942908,
+      "horse_number": 5,
+      "odds": 19.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018106318",
+      "horse_name": "メイショウシンタケ",
+      "score": -0.1669034940106666,
+      "horse_number": 12,
+      "odds": 75.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103043",
+      "horse_name": "コレペティトール",
+      "score": -0.43245319080273714,
+      "horse_number": 10,
+      "odds": 52.3
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "race_id": "202504020807",
+  "race_name": "NST賞",
+  "race_time": "2025-08-17 15:35",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019102238",
+      "horse_name": "クロジシジョー",
+      "score": 0.2925502645123178,
+      "horse_number": 11,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019103605",
+      "horse_name": "ペプチドヤマト",
+      "score": 0.0717046304888348,
+      "horse_number": 3,
+      "odds": 22.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102413",
+      "horse_name": "シークレットヴァウ",
+      "score": 0.0506201669604387,
+      "horse_number": 1,
+      "odds": 8.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102751",
+      "horse_name": "エミサキホコル",
+      "score": 0.008933250963451145,
+      "horse_number": 12,
+      "odds": 6.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100484",
+      "horse_name": "アームズレイン",
+      "score": 0.0008761165110769808,
+      "horse_number": 4,
+      "odds": 6.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020106062",
+      "horse_name": "ジュンウィンダム",
+      "score": -0.029542232953610456,
+      "horse_number": 14,
+      "odds": 15.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101703",
+      "horse_name": "ナスティウェザー",
+      "score": -0.04401479497299495,
+      "horse_number": 6,
+      "odds": 16.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020110062",
+      "horse_name": "ワールズコライド",
+      "score": -0.09641827371381885,
+      "horse_number": 8,
+      "odds": 34.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106877",
+      "horse_name": "スマートアイ",
+      "score": -0.14277106567748885,
+      "horse_number": 9,
+      "odds": 9.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018103105",
+      "horse_name": "テイエムトッキュウ",
+      "score": -0.1450219491270191,
+      "horse_number": 10,
+      "odds": 9.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019103529",
+      "horse_name": "アルファマム",
+      "score": -0.16349402115083336,
+      "horse_number": 7,
+      "odds": 9.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105400",
+      "horse_name": "アスクドゥラメンテ",
+      "score": -0.19853050408888703,
+      "horse_number": 13,
+      "odds": 43.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100829",
+      "horse_name": "コパノパサディナ",
+      "score": -0.2382605679812694,
+      "horse_number": 15,
+      "odds": 46.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103065",
+      "horse_name": "ゼットレヨン",
+      "score": -0.5077094212889942,
+      "horse_number": 5,
+      "odds": 83.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019103976",
+      "horse_name": "レッドゲイル",
+      "score": -0.5190441658162716,
+      "horse_number": 2,
+      "odds": 62.0
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "race_id": "202501010810",
+  "race_name": "大通公園特別",
+  "race_time": "2025-08-17 15:10",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102427",
+      "horse_name": "パールフロント",
+      "score": 0.2642121112770642,
+      "horse_number": 2,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100627",
+      "horse_name": "カウスリップ",
+      "score": 0.12744500869802627,
+      "horse_number": 8,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019106704",
+      "horse_name": "カンザシ",
+      "score": 0.021328636331247937,
+      "horse_number": 3,
+      "odds": 7.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105821",
+      "horse_name": "サンディブロンド",
+      "score": -0.048263128572407485,
+      "horse_number": 5,
+      "odds": 29.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103748",
+      "horse_name": "サベージラヴ",
+      "score": -0.09709988274539041,
+      "horse_number": 7,
+      "odds": 9.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101052",
+      "horse_name": "ルーラルハピネス",
+      "score": -0.11786609376939378,
+      "horse_number": 11,
+      "odds": 9.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104216",
+      "horse_name": "ペイシャヴァルツー",
+      "score": -0.12465286861829776,
+      "horse_number": 4,
+      "odds": 3.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019103442",
+      "horse_name": "クラリティスケール",
+      "score": -0.1529811931494855,
+      "horse_number": 1,
+      "odds": 17.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103242",
+      "horse_name": "ジーベック",
+      "score": -0.17562871215834935,
+      "horse_number": 10,
+      "odds": 8.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019106700",
+      "horse_name": "ヒロノゴウカイ",
+      "score": -0.508610957661266,
+      "horse_number": 9,
+      "odds": 80.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103172",
+      "horse_name": "ヴェラリーシャ",
+      "score": -0.5436410681609297,
+      "horse_number": 6,
+      "odds": 32.2
+    }
+  ]
+}
