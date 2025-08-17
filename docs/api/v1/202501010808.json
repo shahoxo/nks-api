@@ -1,0 +1,112 @@
+{
+  "race_id": "202501010808",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-17 14:01",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102269",
+      "horse_name": "ラルフテソーロ",
+      "score": 0.30235679034250507,
+      "horse_number": 1,
+      "odds": 9.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102905",
+      "horse_name": "ディアウス",
+      "score": 0.2343000795347952,
+      "horse_number": 4,
+      "odds": 2.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104419",
+      "horse_name": "ローズマイスター",
+      "score": 0.08532744307773535,
+      "horse_number": 13,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102966",
+      "horse_name": "サンダーロード",
+      "score": -0.06523069036769054,
+      "horse_number": 3,
+      "odds": 12.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022107011",
+      "horse_name": "ニシノブレイゼスト",
+      "score": -0.1191556512326906,
+      "horse_number": 9,
+      "odds": 10.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105772",
+      "horse_name": "ホウオウバローロ",
+      "score": -0.12260970165931971,
+      "horse_number": 2,
+      "odds": 6.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103619",
+      "horse_name": "タマモジャスミン",
+      "score": -0.18628435019475142,
+      "horse_number": 12,
+      "odds": 14.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103515",
+      "horse_name": "ユウェンタース",
+      "score": -0.2000209117999052,
+      "horse_number": 8,
+      "odds": 24.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105343",
+      "horse_name": "デルマサクラサク",
+      "score": -0.322453566858107,
+      "horse_number": 6,
+      "odds": 27.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102975",
+      "horse_name": "デンリッレハウエル",
+      "score": -0.5669265915969175,
+      "horse_number": 7,
+      "odds": 87.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102756",
+      "horse_name": "オドラニャソンソン",
+      "score": -0.5771715634553509,
+      "horse_number": 5,
+      "odds": 69.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100771",
+      "horse_name": "ルーメン",
+      "score": -0.6798340146386345,
+      "horse_number": 11,
+      "odds": 48.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102339",
+      "horse_name": "テーオースミス",
+      "score": -0.7212483613895885,
+      "horse_number": 10,
+      "odds": 151.7
+    }
+  ]
+}
