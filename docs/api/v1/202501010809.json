@@ -1,0 +1,136 @@
+{
+  "race_id": "202501010809",
+  "race_name": "小樽特別",
+  "race_time": "2025-08-17 14:35",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102794",
+      "horse_name": "マキシマムドライブ",
+      "score": 0.2510518391263891,
+      "horse_number": 9,
+      "odds": 6.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106818",
+      "horse_name": "マイネルステラート",
+      "score": 0.1989981055639818,
+      "horse_number": 11,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110038",
+      "horse_name": "ミクストベリーズ",
+      "score": 0.1759679450507768,
+      "horse_number": 13,
+      "odds": 5.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100998",
+      "horse_name": "ジョーブラック",
+      "score": 0.10367314452732962,
+      "horse_number": 16,
+      "odds": 16.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110012",
+      "horse_name": "マジカルシャイン",
+      "score": 0.07277420595923197,
+      "horse_number": 6,
+      "odds": 7.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100632",
+      "horse_name": "ハリウッドメモリー",
+      "score": 0.020025814953835517,
+      "horse_number": 12,
+      "odds": 6.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106559",
+      "horse_name": "クインズスピカ",
+      "score": -0.022269565003486095,
+      "horse_number": 2,
+      "odds": 9.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102401",
+      "horse_name": "グランテレーズ",
+      "score": -0.17023232259618887,
+      "horse_number": 1,
+      "odds": 23.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104739",
+      "horse_name": "ランスオブサウンド",
+      "score": -0.2690583766832015,
+      "horse_number": 3,
+      "odds": 14.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101278",
+      "horse_name": "クラウンウルル",
+      "score": -0.3911332280046571,
+      "horse_number": 7,
+      "odds": 22.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102153",
+      "horse_name": "ダガーリング",
+      "score": -0.3998072806832226,
+      "horse_number": 5,
+      "odds": 49.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2017104266",
+      "horse_name": "カップッチョ",
+      "score": -0.46047315437458125,
+      "horse_number": 15,
+      "odds": 35.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106672",
+      "horse_name": "2022106672",
+      "score": -0.5494676617297027,
+      "horse_number": 4,
+      "odds": 56.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100759",
+      "horse_name": "アルマロクザン",
+      "score": -0.5515590041871333,
+      "horse_number": 14,
+      "odds": 114.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104824",
+      "horse_name": "シンデレラスマイル",
+      "score": -0.5520430906815742,
+      "horse_number": 10,
+      "odds": 85.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104589",
+      "horse_name": "ジーティースピカ",
+      "score": -0.5938962629264705,
+      "horse_number": 8,
+      "odds": 124.3
+    }
+  ]
+}
