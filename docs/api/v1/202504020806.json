@@ -1,0 +1,96 @@
+{
+  "race_id": "202504020806",
+  "race_name": "稲妻S",
+  "race_time": "2025-08-17 15:01",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019100937",
+      "horse_name": "ニシノコニャック",
+      "score": 0.009013551968841783,
+      "horse_number": 1,
+      "odds": 13.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021109043",
+      "horse_name": "テイエムタリスマ",
+      "score": 0.006671587499762001,
+      "horse_number": 2,
+      "odds": 13.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101262",
+      "horse_name": "エコロレジーナ",
+      "score": -0.08371318695168554,
+      "horse_number": 9,
+      "odds": 2.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019106184",
+      "horse_name": "カフジテトラゴン",
+      "score": -0.09637811799013947,
+      "horse_number": 4,
+      "odds": 4.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019104385",
+      "horse_name": "カンパニョーラ",
+      "score": -0.10059158378539221,
+      "horse_number": 7,
+      "odds": 9.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103367",
+      "horse_name": "ハンベルジャイト",
+      "score": -0.21570634530376115,
+      "horse_number": 5,
+      "odds": 22.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102299",
+      "horse_name": "アシャカタカ",
+      "score": -0.25388242267746874,
+      "horse_number": 8,
+      "odds": 13.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104613",
+      "horse_name": "タツダイヤモンド",
+      "score": -0.3205401996357611,
+      "horse_number": 10,
+      "odds": 30.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105191",
+      "horse_name": "コナブラック",
+      "score": -0.40812926832949514,
+      "horse_number": 11,
+      "odds": 10.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100792",
+      "horse_name": "スコーピオン",
+      "score": -0.4730957857493729,
+      "horse_number": 6,
+      "odds": 9.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106534",
+      "horse_name": "メイショウカゼマチ",
+      "score": -0.5081636245039142,
+      "horse_number": 3,
+      "odds": 17.9
+    }
+  ]
+}

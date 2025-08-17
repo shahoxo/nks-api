@@ -1,0 +1,136 @@
+{
+  "race_id": "202507030806",
+  "race_name": "大垣特別",
+  "race_time": "2025-08-17 14:50",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105509",
+      "horse_name": "ノヴァエクスプレス",
+      "score": 0.3502116358681209,
+      "horse_number": 5,
+      "odds": 6.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103708",
+      "horse_name": "マイティマイティー",
+      "score": 0.2129168582811387,
+      "horse_number": 8,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101035",
+      "horse_name": "スズカコーズ",
+      "score": 0.2050169154855829,
+      "horse_number": 4,
+      "odds": 7.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101397",
+      "horse_name": "ヴェロクオーレ",
+      "score": 0.11359571332967404,
+      "horse_number": 14,
+      "odds": 11.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101023",
+      "horse_name": "アイファーバトル",
+      "score": 0.0370573328926755,
+      "horse_number": 3,
+      "odds": 51.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102154",
+      "horse_name": "アスクアイルビゼア",
+      "score": 0.016614690697808028,
+      "horse_number": 1,
+      "odds": 11.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020110127",
+      "horse_name": "ジョヴィアン",
+      "score": -0.00946568666540486,
+      "horse_number": 13,
+      "odds": 5.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105646",
+      "horse_name": "タイセイレスポンス",
+      "score": -0.032844853063816654,
+      "horse_number": 10,
+      "odds": 21.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021110041",
+      "horse_name": "ミッドナイトラスタ",
+      "score": -0.07483578629330888,
+      "horse_number": 16,
+      "odds": 49.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019102491",
+      "horse_name": "プレイテシア",
+      "score": -0.10419095069236423,
+      "horse_number": 9,
+      "odds": 30.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104561",
+      "horse_name": "タイガースパーク",
+      "score": -0.21082656199849584,
+      "horse_number": 15,
+      "odds": 10.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103575",
+      "horse_name": "シュバルツガイスト",
+      "score": -0.26430865632166795,
+      "horse_number": 6,
+      "odds": 74.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104649",
+      "horse_name": "エブリモーメント",
+      "score": -0.30032200972012846,
+      "horse_number": 7,
+      "odds": 34.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020103579",
+      "horse_name": "アルタビスタ",
+      "score": -0.3340224418891703,
+      "horse_number": 2,
+      "odds": 46.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102724",
+      "horse_name": "クールブロン",
+      "score": -0.3449549004635454,
+      "horse_number": 11,
+      "odds": 50.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101853",
+      "horse_name": "シャープソーン",
+      "score": -0.3552233260774287,
+      "horse_number": 12,
+      "odds": 55.0
+    }
+  ]
+}
