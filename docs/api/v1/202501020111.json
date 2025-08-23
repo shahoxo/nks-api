@@ -1,0 +1,120 @@
+{
+  "race_id": "202501020111",
+  "race_name": "WASJ2",
+  "race_time": "2025-08-23 15:35",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105438",
+      "horse_name": "スピードリッチ",
+      "score": 0.07642642654879568,
+      "horse_number": 3,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020104912",
+      "horse_name": "アグラシアド",
+      "score": 0.05937249073076868,
+      "horse_number": 9,
+      "odds": 21.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103794",
+      "horse_name": "エゾダイモン",
+      "score": 0.03014562021959518,
+      "horse_number": 11,
+      "odds": 5.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103354",
+      "horse_name": "アイスグリーン",
+      "score": -0.013056950181051023,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019100768",
+      "horse_name": "マイネルニコラス",
+      "score": -0.02295122116227061,
+      "horse_number": 13,
+      "odds": 42.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019106604",
+      "horse_name": "スミ",
+      "score": -0.026635438025844557,
+      "horse_number": 8,
+      "odds": 10.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019101612",
+      "horse_name": "アスクオンディープ",
+      "score": -0.04256573826973087,
+      "horse_number": 7,
+      "odds": 41.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019107025",
+      "horse_name": "クレバーテースト",
+      "score": -0.06203108606614545,
+      "horse_number": 5,
+      "odds": 10.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105040",
+      "horse_name": "ルカランフィースト",
+      "score": -0.07275723386630624,
+      "horse_number": 12,
+      "odds": 8.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101329",
+      "horse_name": "フクノブルーレイク",
+      "score": -0.07798811490514469,
+      "horse_number": 14,
+      "odds": 7.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102510",
+      "horse_name": "ナムラフッカー",
+      "score": -0.17593722481805665,
+      "horse_number": 6,
+      "odds": 9.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019103850",
+      "horse_name": "パトリックハンサム",
+      "score": -0.2307935313086098,
+      "horse_number": 4,
+      "odds": 17.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018105996",
+      "horse_name": "サムハンター",
+      "score": -0.24150221202675157,
+      "horse_number": 2,
+      "odds": 33.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104635",
+      "horse_name": "リフレクトザムーン",
+      "score": -0.3748403669440279,
+      "horse_number": 1,
+      "odds": 44.8
+    }
+  ]
+}

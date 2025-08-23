@@ -1,0 +1,104 @@
+{
+  "race_id": "202504030111",
+  "race_name": "BSN賞",
+  "race_time": "2025-08-23 15:45",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103717",
+      "horse_name": "レヴォントゥレット",
+      "score": 0.2566301398608523,
+      "horse_number": 4,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019105604",
+      "horse_name": "ブレイクフォース",
+      "score": 0.21220001077037903,
+      "horse_number": 10,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102868",
+      "horse_name": "モズミギカタアガリ",
+      "score": 0.20570515514162452,
+      "horse_number": 3,
+      "odds": 11.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110133",
+      "horse_name": "ジャスパーロブスト",
+      "score": 0.19074492860475392,
+      "horse_number": 1,
+      "odds": 3.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019105746",
+      "horse_name": "ホウオウルーレット",
+      "score": 0.14864173232529354,
+      "horse_number": 5,
+      "odds": 12.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110060",
+      "horse_name": "ソニックスター",
+      "score": 0.05536500275300238,
+      "horse_number": 2,
+      "odds": 10.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105545",
+      "horse_name": "アルムラトゥール",
+      "score": -0.07780561039018508,
+      "horse_number": 7,
+      "odds": 18.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102078",
+      "horse_name": "ジョージテソーロ",
+      "score": -0.11437566426009811,
+      "horse_number": 8,
+      "odds": 12.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101275",
+      "horse_name": "アイファーテイオー",
+      "score": -0.1666675462272046,
+      "horse_number": 6,
+      "odds": 13.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105400",
+      "horse_name": "アスクドゥラメンテ",
+      "score": -0.20137285142587277,
+      "horse_number": 11,
+      "odds": 44.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018105503",
+      "horse_name": "ロコポルティ",
+      "score": -0.2346650335769662,
+      "horse_number": 12,
+      "odds": 23.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102345",
+      "horse_name": "ヒューゴ",
+      "score": -0.3798297043838287,
+      "horse_number": 9,
+      "odds": 65.3
+    }
+  ]
+}

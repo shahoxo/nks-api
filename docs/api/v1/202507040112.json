@@ -1,0 +1,64 @@
+{
+  "race_id": "202507040112",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-23 16:05",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020101147",
+      "horse_name": "トレチーメ",
+      "score": 0.4202717827841893,
+      "horse_number": 5,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104550",
+      "horse_name": "カミノレアル",
+      "score": 0.22038973917021748,
+      "horse_number": 7,
+      "odds": 1.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021110106",
+      "horse_name": "エリカヴェネチア",
+      "score": -0.028608304916926612,
+      "horse_number": 1,
+      "odds": 8.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110133",
+      "horse_name": "メイショウアイナ",
+      "score": -0.42220214467900496,
+      "horse_number": 4,
+      "odds": 9.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102383",
+      "horse_name": "ニヒトツーゼーア",
+      "score": -0.45148711863448177,
+      "horse_number": 3,
+      "odds": 17.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110143",
+      "horse_name": "ソングコレクター",
+      "score": -0.4530426498486433,
+      "horse_number": 6,
+      "odds": 15.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102991",
+      "horse_name": "レガッタ",
+      "score": -0.4656322051187516,
+      "horse_number": 2,
+      "odds": 17.8
+    }
+  ]
+}
