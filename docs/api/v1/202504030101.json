@@ -1,0 +1,56 @@
+{
+  "race_id": "202504030101",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-08-23 10:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103698",
+      "horse_name": "ソニックキャット",
+      "score": -0.16093330347993562,
+      "horse_number": 6,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102477",
+      "horse_name": "ストロングエース",
+      "score": -0.1613136604214735,
+      "horse_number": 4,
+      "odds": 1.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102442",
+      "horse_name": "ウールヴヘジン",
+      "score": -0.4994565194375846,
+      "horse_number": 2,
+      "odds": 6.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104164",
+      "horse_name": "メープルタフィー",
+      "score": -0.5786035042363445,
+      "horse_number": 1,
+      "odds": 14.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101798",
+      "horse_name": "ブルージェネシス",
+      "score": -0.6016625315578266,
+      "horse_number": 5,
+      "odds": 20.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106586",
+      "horse_name": "ロット",
+      "score": -0.6336370845533565,
+      "horse_number": 3,
+      "odds": 21.7
+    }
+  ]
+}

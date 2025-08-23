@@ -1,0 +1,72 @@
+{
+  "race_id": "202501020101",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-08-23 10:00",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106887",
+      "horse_name": "ストロベリーツリー",
+      "score": 0.2585575020310818,
+      "horse_number": 8,
+      "odds": 1.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102489",
+      "horse_name": "ペプチドエレノア",
+      "score": 0.1316306027411842,
+      "horse_number": 4,
+      "odds": 21.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105200",
+      "horse_name": "カデナボニータ",
+      "score": 0.05688636892382777,
+      "horse_number": 3,
+      "odds": 30.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107206",
+      "horse_name": "オーシャンステラ",
+      "score": -0.0677478670462829,
+      "horse_number": 1,
+      "odds": 14.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105738",
+      "horse_name": "モズプリフォール",
+      "score": -0.11112481446208974,
+      "horse_number": 5,
+      "odds": 27.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106577",
+      "horse_name": "ユイノカタリベ",
+      "score": -0.49308647014558815,
+      "horse_number": 7,
+      "odds": 127.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102439",
+      "horse_name": "サザンテイオー",
+      "score": -0.5711745149872408,
+      "horse_number": 2,
+      "odds": 54.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100337",
+      "horse_name": "トーセンライティア",
+      "score": -0.7216065912265887,
+      "horse_number": 6,
+      "odds": 184.8
+    }
+  ]
+}

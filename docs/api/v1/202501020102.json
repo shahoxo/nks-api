@@ -1,0 +1,104 @@
+{
+  "race_id": "202501020102",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-23 10:35",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102267",
+      "horse_name": "ジョイナーテソーロ",
+      "score": 0.0705170985008755,
+      "horse_number": 11,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102103",
+      "horse_name": "レイアポポ",
+      "score": 0.0700824936291313,
+      "horse_number": 3,
+      "odds": 8.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107411",
+      "horse_name": "コッコラーレ",
+      "score": -0.004759022814054388,
+      "horse_number": 4,
+      "odds": 11.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101204",
+      "horse_name": "サツキレジーナ",
+      "score": -0.13888441837744633,
+      "horse_number": 7,
+      "odds": 8.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103930",
+      "horse_name": "ハイエンドモデル",
+      "score": -0.14968638265550843,
+      "horse_number": 6,
+      "odds": 3.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103105",
+      "horse_name": "ブギウギウギ",
+      "score": -0.24273886071212902,
+      "horse_number": 10,
+      "odds": 22.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102208",
+      "horse_name": "テーオーテバルディ",
+      "score": -0.3560462129501719,
+      "horse_number": 1,
+      "odds": 35.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104505",
+      "horse_name": "タマゴ",
+      "score": -0.39650126347015524,
+      "horse_number": 5,
+      "odds": 5.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100635",
+      "horse_name": "ファイブエム",
+      "score": -0.4887957490884798,
+      "horse_number": 8,
+      "odds": 21.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104131",
+      "horse_name": "グランヴァルール",
+      "score": -0.5359135476892024,
+      "horse_number": 12,
+      "odds": 193.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102530",
+      "horse_name": "ディクシーヴォーグ",
+      "score": -0.5617560676165196,
+      "horse_number": 2,
+      "odds": 24.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100301",
+      "horse_name": "エスシーボニー",
+      "score": -0.7344997899121097,
+      "horse_number": 9,
+      "odds": 178.7
+    }
+  ]
+}
