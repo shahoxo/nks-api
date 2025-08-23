@@ -10,7 +10,7 @@
       "horse_name": "リーゼノアール",
       "score": 0.24101901620268243,
       "horse_number": 2,
-      "odds": 3.3
+      "odds": 3.0
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "ハミルトン",
       "score": 0.1738741347722436,
       "horse_number": 1,
-      "odds": 6.0
+      "odds": 6.6
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "レイワサンサン",
       "score": 0.1351388759155196,
       "horse_number": 4,
-      "odds": 7.3
+      "odds": 6.4
     },
     {
       "rank": 4,
@@ -42,7 +42,7 @@
       "horse_name": "ロードスカイブルー",
       "score": 0.030138596963798954,
       "horse_number": 5,
-      "odds": 3.5
+      "odds": 3.7
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "メレサンク",
       "score": -0.2759761524058391,
       "horse_number": 6,
-      "odds": 40.2
+      "odds": 87.3
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "ミッションルース",
       "score": -0.5660636130201097,
       "horse_number": 3,
-      "odds": 9.4
+      "odds": 9.9
     }
   ]
 }

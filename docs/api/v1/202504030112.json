@@ -6,19 +6,19 @@
   "predictions": [
     {
       "rank": 1,
-      "horse_id": "2022104844",
-      "horse_name": "ブルスカメンテ",
-      "score": 0.131821676742659,
-      "horse_number": 5,
-      "odds": 9.1
+      "horse_id": "2019105187",
+      "horse_name": "ヴァンガーズハート",
+      "score": 0.09054291217201847,
+      "horse_number": 6,
+      "odds": 12.7
     },
     {
       "rank": 2,
-      "horse_id": "2019105187",
-      "horse_name": "ヴァンガーズハート",
-      "score": 0.022524340152501966,
-      "horse_number": 6,
-      "odds": 12.7
+      "horse_id": "2022104844",
+      "horse_name": "ブルスカメンテ",
+      "score": 0.08520545971988779,
+      "horse_number": 5,
+      "odds": 9.1
     },
     {
       "rank": 3,
@@ -30,22 +30,6 @@
     },
     {
       "rank": 4,
-      "horse_id": "2022104750",
-      "horse_name": "レイニング",
-      "score": -0.06221299539175053,
-      "horse_number": 7,
-      "odds": 2.0
-    },
-    {
-      "rank": 5,
-      "horse_id": "2022102920",
-      "horse_name": "ギフテッド",
-      "score": -0.06955581687624933,
-      "horse_number": 11,
-      "odds": 5.2
-    },
-    {
-      "rank": 6,
       "horse_id": "2022104815",
       "horse_name": "ブルーベリーフィズ",
       "score": -0.07028742668576543,
@@ -53,10 +37,26 @@
       "odds": 6.6
     },
     {
+      "rank": 5,
+      "horse_id": "2022104750",
+      "horse_name": "レイニング",
+      "score": -0.10143005857970548,
+      "horse_number": 7,
+      "odds": 2.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102920",
+      "horse_name": "ギフテッド",
+      "score": -0.1479554558243952,
+      "horse_number": 11,
+      "odds": 5.2
+    },
+    {
       "rank": 7,
       "horse_id": "2022100700",
       "horse_name": "ポッドロルフ",
-      "score": -0.09230795409427935,
+      "score": -0.17364000836271495,
       "horse_number": 3,
       "odds": 19.4
     },
