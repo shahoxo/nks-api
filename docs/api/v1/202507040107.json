@@ -1,0 +1,136 @@
+{
+  "race_id": "202507040107",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-23 13:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104323",
+      "horse_name": "アイルトンバローズ",
+      "score": 0.46115039876724406,
+      "horse_number": 4,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107200",
+      "horse_name": "ロイヤルウィル",
+      "score": 0.24181989000536191,
+      "horse_number": 7,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101656",
+      "horse_name": "チムニーパイプ",
+      "score": 0.027698753458698117,
+      "horse_number": 12,
+      "odds": 6.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101126",
+      "horse_name": "ルクスコスモス",
+      "score": -0.09176817793693207,
+      "horse_number": 9,
+      "odds": 11.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103056",
+      "horse_name": "ムギトルナ",
+      "score": -0.12581596837853515,
+      "horse_number": 1,
+      "odds": 6.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104091",
+      "horse_name": "スリアント",
+      "score": -0.1757686714744377,
+      "horse_number": 10,
+      "odds": 19.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103627",
+      "horse_name": "オーウェンズバレー",
+      "score": -0.2811522905880506,
+      "horse_number": 8,
+      "odds": 28.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105736",
+      "horse_name": "ヴァルドグラース",
+      "score": -0.28864002682295475,
+      "horse_number": 6,
+      "odds": 40.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100102",
+      "horse_name": "クライスラー",
+      "score": -0.2895139066766418,
+      "horse_number": 2,
+      "odds": 16.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102800",
+      "horse_name": "サファリ",
+      "score": -0.29791303258766993,
+      "horse_number": 5,
+      "odds": 16.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101482",
+      "horse_name": "ノヴァエスペランサ",
+      "score": -0.32627865757729657,
+      "horse_number": 14,
+      "odds": 45.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103282",
+      "horse_name": "トップレジェンド",
+      "score": -0.3862504016778465,
+      "horse_number": 15,
+      "odds": 20.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104021",
+      "horse_name": "エルピーゾ",
+      "score": -0.4380757983464477,
+      "horse_number": 11,
+      "odds": 28.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100021",
+      "horse_name": "ダンツトラバース",
+      "score": -0.45724584968912907,
+      "horse_number": 3,
+      "odds": 10.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101045",
+      "horse_name": "キタノアルテミス",
+      "score": -0.7181108710791474,
+      "horse_number": 16,
+      "odds": 50.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022100192",
+      "horse_name": "ココナッツリゾート",
+      "score": -0.7560238565797833,
+      "horse_number": 13,
+      "odds": 52.8
+    }
+  ]
+}

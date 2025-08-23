@@ -1,0 +1,96 @@
+{
+  "race_id": "202504030107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-23 13:35",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106950",
+      "horse_name": "シャンクス",
+      "score": 0.22628784530664042,
+      "horse_number": 9,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105030",
+      "horse_name": "エリーナストーム",
+      "score": 0.22229500889294176,
+      "horse_number": 1,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101620",
+      "horse_name": "トラストモアリズム",
+      "score": -0.052432829222569345,
+      "horse_number": 6,
+      "odds": 8.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106691",
+      "horse_name": "エンペラーズソード",
+      "score": -0.05571411339817331,
+      "horse_number": 8,
+      "odds": 3.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101781",
+      "horse_name": "アウローラシエル",
+      "score": -0.08266618240930076,
+      "horse_number": 5,
+      "odds": 35.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105580",
+      "horse_name": "クラッシファイド",
+      "score": -0.09206422696894233,
+      "horse_number": 11,
+      "odds": 12.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020110123",
+      "horse_name": "レッドアーバイン",
+      "score": -0.10817448997721985,
+      "horse_number": 7,
+      "odds": 24.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105746",
+      "horse_name": "コスモバラタ",
+      "score": -0.28701667954767585,
+      "horse_number": 4,
+      "odds": 66.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101749",
+      "horse_name": "ブルバンビーナ",
+      "score": -0.47991645940256267,
+      "horse_number": 10,
+      "odds": 22.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106840",
+      "horse_name": "パーセルペーパー",
+      "score": -0.554379886904884,
+      "horse_number": 2,
+      "odds": 40.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105294",
+      "horse_name": "ウェルキン",
+      "score": -0.7344997899121097,
+      "horse_number": 3,
+      "odds": 139.2
+    }
+  ]
+}

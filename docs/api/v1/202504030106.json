@@ -8,60 +8,52 @@
       "rank": 1,
       "horse_id": "2022103725",
       "horse_name": "ロッカバイベイビー",
-      "score": 0.04785703566965418,
+      "score": 0.00746785358503192,
       "horse_number": 9,
       "odds": 6.4
     },
     {
       "rank": 2,
-      "horse_id": "2022103926",
-      "horse_name": "スイートロータス",
-      "score": 0.04123742031634661,
-      "horse_number": 7,
-      "odds": 5.9
-    },
-    {
-      "rank": 3,
       "horse_id": "2022100088",
       "horse_name": "トッレブランカ",
-      "score": -0.009515735814528864,
+      "score": 0.003180948537563486,
       "horse_number": 2,
       "odds": 14.7
     },
     {
-      "rank": 4,
+      "rank": 3,
       "horse_id": "2022105196",
       "horse_name": "ラッキークラウン",
-      "score": -0.030522237282150116,
+      "score": -0.017825552930057765,
       "horse_number": 10,
       "odds": 16.9
     },
     {
-      "rank": 5,
-      "horse_id": "2022101005",
-      "horse_name": "マロンカラノテガミ",
-      "score": -0.06943736240797287,
-      "horse_number": 12,
-      "odds": 9.0
+      "rank": 4,
+      "horse_id": "2022103926",
+      "horse_name": "スイートロータス",
+      "score": -0.04226044774065521,
+      "horse_number": 7,
+      "odds": 5.9
     },
     {
-      "rank": 6,
+      "rank": 5,
       "horse_id": "2022104110",
       "horse_name": "コンパクトファイト",
-      "score": -0.10883650030945106,
+      "score": -0.08900031383262876,
       "horse_number": 11,
       "odds": 15.0
     },
     {
-      "rank": 7,
-      "horse_id": "2022101076",
-      "horse_name": "サンマルレーヴ",
-      "score": -0.29280623667685124,
-      "horse_number": 1,
-      "odds": 51.5
+      "rank": 6,
+      "horse_id": "2022101005",
+      "horse_name": "マロンカラノテガミ",
+      "score": -0.293325923217334,
+      "horse_number": 12,
+      "odds": 9.0
     },
     {
-      "rank": 8,
+      "rank": 7,
       "horse_id": "2022104402",
       "horse_name": "2022104402",
       "score": -0.35697899905018715,
@@ -69,15 +61,15 @@
       "odds": 97.9
     },
     {
-      "rank": 9,
-      "horse_id": "2022101984",
-      "horse_name": "マグノリアロード",
-      "score": -0.3762495482367316,
-      "horse_number": 4,
-      "odds": 44.7
+      "rank": 8,
+      "horse_id": "2022101076",
+      "horse_name": "サンマルレーヴ",
+      "score": -0.3820493236201057,
+      "horse_number": 1,
+      "odds": 51.5
     },
     {
-      "rank": 10,
+      "rank": 9,
       "horse_id": "2022101722",
       "horse_name": "ベルトネ",
       "score": -0.40542317867269717,
@@ -85,12 +77,20 @@
       "odds": 5.6
     },
     {
-      "rank": 11,
+      "rank": 10,
       "horse_id": "2022100539",
       "horse_name": "ニジノカナタニ",
       "score": -0.41509034367944386,
       "horse_number": 13,
       "odds": 8.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101984",
+      "horse_name": "マグノリアロード",
+      "score": -0.46549263517998596,
+      "horse_number": 4,
+      "odds": 44.7
     },
     {
       "rank": 12,

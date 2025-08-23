@@ -1,0 +1,120 @@
+{
+  "race_id": "202501020107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-23 13:25",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100564",
+      "horse_name": "エフォートレス",
+      "score": 0.3585490875772185,
+      "horse_number": 4,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100905",
+      "horse_name": "メリディアンスター",
+      "score": 0.2049010541119747,
+      "horse_number": 10,
+      "odds": 2.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101896",
+      "horse_name": "デアリングエア",
+      "score": 0.17425478844026762,
+      "horse_number": 12,
+      "odds": 6.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101304",
+      "horse_name": "サンウリエル",
+      "score": 0.09047982601000415,
+      "horse_number": 9,
+      "odds": 14.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103493",
+      "horse_name": "イリスアスール",
+      "score": -0.020702032831210276,
+      "horse_number": 5,
+      "odds": 8.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105668",
+      "horse_name": "バスターコール",
+      "score": -0.07990912042922775,
+      "horse_number": 1,
+      "odds": 17.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100165",
+      "horse_name": "フォルテフィオーレ",
+      "score": -0.1289295543873122,
+      "horse_number": 14,
+      "odds": 16.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100864",
+      "horse_name": "パヴァーヌ",
+      "score": -0.1793190995760353,
+      "horse_number": 2,
+      "odds": 45.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106647",
+      "horse_name": "テイクイットオール",
+      "score": -0.3266048649634072,
+      "horse_number": 7,
+      "odds": 43.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101409",
+      "horse_name": "オランジェロ",
+      "score": -0.34038255834934694,
+      "horse_number": 3,
+      "odds": 77.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103316",
+      "horse_name": "キタノクニカラ",
+      "score": -0.3874729967522659,
+      "horse_number": 8,
+      "odds": 29.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100074",
+      "horse_name": "サンピアノソナタ",
+      "score": -0.4370614292452941,
+      "horse_number": 11,
+      "odds": 82.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104918",
+      "horse_name": "シャーリーゴールド",
+      "score": -0.4745503273588474,
+      "horse_number": 13,
+      "odds": 31.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102709",
+      "horse_name": "ニシノルアノーヴァ",
+      "score": -0.6053512024827115,
+      "horse_number": 6,
+      "odds": 54.1
+    }
+  ]
+}
