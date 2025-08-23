@@ -1,0 +1,96 @@
+{
+  "race_id": "202504030108",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-23 14:05",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102446",
+      "horse_name": "ノアヴィヴァーチェ",
+      "score": 0.26523139804431495,
+      "horse_number": 10,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103376",
+      "horse_name": "ブレードサクセス",
+      "score": 0.23667325172477816,
+      "horse_number": 2,
+      "odds": 9.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104321",
+      "horse_name": "カレンワッツアップ",
+      "score": 0.1259362055778982,
+      "horse_number": 5,
+      "odds": 4.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100621",
+      "horse_name": "ロードフロリゼル",
+      "score": 0.023376964367392734,
+      "horse_number": 7,
+      "odds": 21.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106631",
+      "horse_name": "バシリス",
+      "score": -0.03131551882971803,
+      "horse_number": 4,
+      "odds": 6.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102062",
+      "horse_name": "ミライヘノカギ",
+      "score": -0.10299368428474528,
+      "horse_number": 11,
+      "odds": 4.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101305",
+      "horse_name": "サンカルミア",
+      "score": -0.13455375709520326,
+      "horse_number": 3,
+      "odds": 18.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102933",
+      "horse_name": "カルツァクライン",
+      "score": -0.45148711863448177,
+      "horse_number": 1,
+      "odds": 84.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101041",
+      "horse_name": "トモジャシャトー",
+      "score": -0.5719778936462864,
+      "horse_number": 9,
+      "odds": 116.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021110138",
+      "horse_name": "グランエシェゾー",
+      "score": -0.5907216745266844,
+      "horse_number": 6,
+      "odds": 143.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103574",
+      "horse_name": "ウォーハンマー",
+      "score": -0.5970618435386312,
+      "horse_number": 8,
+      "odds": 22.6
+    }
+  ]
+}

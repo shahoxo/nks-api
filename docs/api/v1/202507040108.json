@@ -1,0 +1,72 @@
+{
+  "race_id": "202507040108",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-23 13:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104840",
+      "horse_name": "フルレゾン",
+      "score": 0.2235806234299842,
+      "horse_number": 2,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101400",
+      "horse_name": "マーゴットレジーナ",
+      "score": 0.1803468254108463,
+      "horse_number": 4,
+      "odds": 2.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101116",
+      "horse_name": "エコテーラー",
+      "score": 0.05726722582301116,
+      "horse_number": 1,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102295",
+      "horse_name": "マドモアゼルアスク",
+      "score": 0.011872194212726613,
+      "horse_number": 3,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104755",
+      "horse_name": "ルミエールドゥース",
+      "score": -0.16182430848110396,
+      "horse_number": 5,
+      "odds": 10.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106663",
+      "horse_name": "バレンシア",
+      "score": -0.4565204174174825,
+      "horse_number": 8,
+      "odds": 30.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103006",
+      "horse_name": "ヒルノセビリア",
+      "score": -0.4593754416824123,
+      "horse_number": 6,
+      "odds": 14.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102219",
+      "horse_name": "ノーランサンライズ",
+      "score": -0.5165369900540892,
+      "horse_number": 7,
+      "odds": 7.5
+    }
+  ]
+}

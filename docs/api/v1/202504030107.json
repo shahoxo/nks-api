@@ -6,59 +6,59 @@
   "predictions": [
     {
       "rank": 1,
-      "horse_id": "2022106950",
-      "horse_name": "シャンクス",
-      "score": 0.22628784530664042,
-      "horse_number": 9,
-      "odds": 3.1
-    },
-    {
-      "rank": 2,
       "horse_id": "2022105030",
       "horse_name": "エリーナストーム",
-      "score": 0.22229500889294176,
+      "score": 0.2929885744207199,
       "horse_number": 1,
       "odds": 3.6
     },
     {
+      "rank": 2,
+      "horse_id": "2022106950",
+      "horse_name": "シャンクス",
+      "score": 0.2837787326323234,
+      "horse_number": 9,
+      "odds": 3.1
+    },
+    {
       "rank": 3,
-      "horse_id": "2022101620",
-      "horse_name": "トラストモアリズム",
-      "score": -0.052432829222569345,
-      "horse_number": 6,
-      "odds": 8.4
+      "horse_id": "2022106691",
+      "horse_name": "エンペラーズソード",
+      "score": -0.0010154101676936858,
+      "horse_number": 8,
+      "odds": 3.3
     },
     {
       "rank": 4,
-      "horse_id": "2022106691",
-      "horse_name": "エンペラーズソード",
-      "score": -0.05571411339817331,
-      "horse_number": 8,
-      "odds": 3.3
+      "horse_id": "2021105580",
+      "horse_name": "クラッシファイド",
+      "score": -0.06397915997302077,
+      "horse_number": 11,
+      "odds": 12.3
     },
     {
       "rank": 5,
       "horse_id": "2020101781",
       "horse_name": "アウローラシエル",
-      "score": -0.08266618240930076,
+      "score": -0.07645244311483536,
       "horse_number": 5,
       "odds": 35.8
     },
     {
       "rank": 6,
-      "horse_id": "2021105580",
-      "horse_name": "クラッシファイド",
-      "score": -0.09206422696894233,
-      "horse_number": 11,
-      "odds": 12.3
-    },
-    {
-      "rank": 7,
       "horse_id": "2020110123",
       "horse_name": "レッドアーバイン",
       "score": -0.10817448997721985,
       "horse_number": 7,
       "odds": 24.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101620",
+      "horse_name": "トラストモアリズム",
+      "score": -0.15244182402963644,
+      "horse_number": 6,
+      "odds": 8.4
     },
     {
       "rank": 8,
@@ -72,7 +72,7 @@
       "rank": 9,
       "horse_id": "2022101749",
       "horse_name": "ブルバンビーナ",
-      "score": -0.47991645940256267,
+      "score": -0.5287703642611947,
       "horse_number": 10,
       "odds": 22.4
     },
