@@ -1,0 +1,64 @@
+{
+  "race_id": "202501020112",
+  "race_name": "ニセコ特別",
+  "race_time": "2025-08-23 16:15",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020104750",
+      "horse_name": "リーゼノアール",
+      "score": 0.24101901620268243,
+      "horse_number": 2,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102896",
+      "horse_name": "ハミルトン",
+      "score": 0.1738741347722436,
+      "horse_number": 1,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102406",
+      "horse_name": "レイワサンサン",
+      "score": 0.1351388759155196,
+      "horse_number": 4,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100255",
+      "horse_name": "アーロンイメル",
+      "score": 0.0998013234277469,
+      "horse_number": 7,
+      "odds": 4.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100557",
+      "horse_name": "ロードスカイブルー",
+      "score": 0.030138596963798954,
+      "horse_number": 5,
+      "odds": 3.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105168",
+      "horse_name": "メレサンク",
+      "score": -0.2759761524058391,
+      "horse_number": 6,
+      "odds": 40.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101464",
+      "horse_name": "ミッションルース",
+      "score": -0.5660636130201097,
+      "horse_number": 3,
+      "odds": 9.4
+    }
+  ]
+}
