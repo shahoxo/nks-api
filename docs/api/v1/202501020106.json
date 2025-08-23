@@ -1,0 +1,120 @@
+{
+  "race_id": "202501020106",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-23 12:55",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103268",
+      "horse_name": "パルティキュリエ",
+      "score": 0.4620771045374036,
+      "horse_number": 3,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105144",
+      "horse_name": "トレミニョン",
+      "score": 0.14849701085470032,
+      "horse_number": 9,
+      "odds": 7.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103705",
+      "horse_name": "エレガンシア",
+      "score": 0.12953022213386178,
+      "horse_number": 11,
+      "odds": 8.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102785",
+      "horse_name": "イゾレエオリア",
+      "score": 0.060087340402798214,
+      "horse_number": 12,
+      "odds": 12.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103236",
+      "horse_name": "コンバットペスカ",
+      "score": 0.020112288740435993,
+      "horse_number": 4,
+      "odds": 19.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105060",
+      "horse_name": "サウンドサンライズ",
+      "score": -0.026074890688836692,
+      "horse_number": 1,
+      "odds": 3.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103655",
+      "horse_name": "ダークブロンド",
+      "score": -0.05502448036149815,
+      "horse_number": 5,
+      "odds": 13.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105525",
+      "horse_name": "モルビド",
+      "score": -0.06908143843554042,
+      "horse_number": 14,
+      "odds": 15.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102802",
+      "horse_name": "イリスレーン",
+      "score": -0.164517509166653,
+      "horse_number": 10,
+      "odds": 24.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103441",
+      "horse_name": "フラッシングレート",
+      "score": -0.26539842256920887,
+      "horse_number": 6,
+      "odds": 37.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102574",
+      "horse_name": "トゥルブレンツ",
+      "score": -0.44762655806248863,
+      "horse_number": 8,
+      "odds": 37.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102550",
+      "horse_name": "メイショウピリカ",
+      "score": -0.5252412836314015,
+      "horse_number": 7,
+      "odds": 24.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104778",
+      "horse_name": "チャイボーグ",
+      "score": -0.6256682283707391,
+      "horse_number": 2,
+      "odds": 108.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105131",
+      "horse_name": "ザハーフェル",
+      "score": -0.6318373387288261,
+      "horse_number": 13,
+      "odds": 212.0
+    }
+  ]
+}
