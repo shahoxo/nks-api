@@ -1,0 +1,136 @@
+{
+  "race_id": "202507040111",
+  "race_name": "伊賀S",
+  "race_time": "2025-08-23 15:25",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110137",
+      "horse_name": "ドラゴンウェルズ",
+      "score": 0.25336820887879075,
+      "horse_number": 14,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103325",
+      "horse_name": "プロトポロス",
+      "score": 0.19124434661385425,
+      "horse_number": 8,
+      "odds": 8.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106587",
+      "horse_name": "エストレヤデベレン",
+      "score": 0.17918627824949535,
+      "horse_number": 11,
+      "odds": 8.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103005",
+      "horse_name": "ナイトアクアリウム",
+      "score": 0.04188301398038766,
+      "horse_number": 9,
+      "odds": 8.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020110100",
+      "horse_name": "シゲルソロソロ",
+      "score": -0.05491097654964159,
+      "horse_number": 6,
+      "odds": 12.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102275",
+      "horse_name": "スタンリーテソーロ",
+      "score": -0.07007637227789174,
+      "horse_number": 15,
+      "odds": 6.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105929",
+      "horse_name": "スターペスカオリ",
+      "score": -0.07298975654447698,
+      "horse_number": 10,
+      "odds": 51.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102045",
+      "horse_name": "フェルヴェンテ",
+      "score": -0.08342955580999724,
+      "horse_number": 13,
+      "odds": 17.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103033",
+      "horse_name": "グレノークス",
+      "score": -0.11777664187694778,
+      "horse_number": 5,
+      "odds": 60.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019100110",
+      "horse_name": "ナッカーフェイス",
+      "score": -0.12097753570739711,
+      "horse_number": 16,
+      "odds": 50.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105950",
+      "horse_name": "カマチョクイン",
+      "score": -0.13680544172325435,
+      "horse_number": 4,
+      "odds": 15.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104910",
+      "horse_name": "フラムリンガム",
+      "score": -0.15232512777172183,
+      "horse_number": 7,
+      "odds": 21.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103643",
+      "horse_name": "エレガントムーン",
+      "score": -0.20077130373328034,
+      "horse_number": 3,
+      "odds": 38.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103812",
+      "horse_name": "ワイワイレジェンド",
+      "score": -0.22478960573394943,
+      "horse_number": 12,
+      "odds": 10.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106611",
+      "horse_name": "アロットドリーム",
+      "score": -0.46514361215432454,
+      "horse_number": 1,
+      "odds": 44.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020102831",
+      "horse_name": "ワレハウミノコ",
+      "score": -0.6086297501894841,
+      "horse_number": 2,
+      "odds": 34.9
+    }
+  ]
+}

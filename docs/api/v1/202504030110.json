@@ -1,0 +1,144 @@
+{
+  "race_id": "202504030110",
+  "race_name": "飯豊特別",
+  "race_time": "2025-08-23 15:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019105526",
+      "horse_name": "ミッキーチャレンジ",
+      "score": 0.16781440059259986,
+      "horse_number": 10,
+      "odds": 14.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020101557",
+      "horse_name": "パルティクラール",
+      "score": 0.08940919736089488,
+      "horse_number": 16,
+      "odds": 8.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104200",
+      "horse_name": "サクセスカラー",
+      "score": 0.06531702871400656,
+      "horse_number": 15,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105807",
+      "horse_name": "パワースナッチ",
+      "score": 0.05485303305595406,
+      "horse_number": 14,
+      "odds": 6.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104588",
+      "horse_name": "タイセイカレント",
+      "score": -0.025257451358056994,
+      "horse_number": 7,
+      "odds": 5.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100879",
+      "horse_name": "ハクサンイーグル",
+      "score": -0.026299599876791917,
+      "horse_number": 6,
+      "odds": 6.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104753",
+      "horse_name": "サトノヴィレ",
+      "score": -0.039164107254185516,
+      "horse_number": 3,
+      "odds": 32.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105232",
+      "horse_name": "イブニングタイド",
+      "score": -0.04010974900524686,
+      "horse_number": 4,
+      "odds": 12.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105591",
+      "horse_name": "ジュンゴールド",
+      "score": -0.040792610451802665,
+      "horse_number": 17,
+      "odds": 11.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105485",
+      "horse_name": "エリカカリーナ",
+      "score": -0.05299929170365508,
+      "horse_number": 8,
+      "odds": 12.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100152",
+      "horse_name": "ベストオブユー",
+      "score": -0.06960515884123505,
+      "horse_number": 5,
+      "odds": 37.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103634",
+      "horse_name": "ミスヨコハマ",
+      "score": -0.15583236396410075,
+      "horse_number": 1,
+      "odds": 18.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021110021",
+      "horse_name": "スピリットガイド",
+      "score": -0.21881985610906676,
+      "horse_number": 2,
+      "odds": 67.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106923",
+      "horse_name": "ソーニャシュニク",
+      "score": -0.28047285016200774,
+      "horse_number": 12,
+      "odds": 36.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102861",
+      "horse_name": "ラテラルシンキング",
+      "score": -0.34018867065934405,
+      "horse_number": 11,
+      "odds": 26.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020107036",
+      "horse_name": "マイネルビジョン",
+      "score": -0.45096689472385276,
+      "horse_number": 13,
+      "odds": 57.9
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020102784",
+      "horse_name": "タリエシン",
+      "score": -0.5086134871472094,
+      "horse_number": 9,
+      "odds": 106.6
+    }
+  ]
+}
