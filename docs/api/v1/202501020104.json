@@ -1,0 +1,120 @@
+{
+  "race_id": "202501020104",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-23 11:35",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103149",
+      "horse_name": "タイキインドラ",
+      "score": 0.07689197820665347,
+      "horse_number": 5,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104949",
+      "horse_name": "ヴァルチャースター",
+      "score": -0.04085615724523302,
+      "horse_number": 10,
+      "odds": 8.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105688",
+      "horse_name": "ドバイミッション",
+      "score": -0.050393089798573557,
+      "horse_number": 11,
+      "odds": 8.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110084",
+      "horse_name": "ダノンラッセル",
+      "score": -0.14266944976768758,
+      "horse_number": 1,
+      "odds": 17.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110068",
+      "horse_name": "リドルトリガー",
+      "score": -0.19005071156045927,
+      "horse_number": 4,
+      "odds": 15.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022107145",
+      "horse_name": "キタノホウセキ",
+      "score": -0.2559841916507416,
+      "horse_number": 12,
+      "odds": 3.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103176",
+      "horse_name": "アイルビリーヴ",
+      "score": -0.3278324145082562,
+      "horse_number": 6,
+      "odds": 10.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101217",
+      "horse_name": "ハッピールンナ",
+      "score": -0.3445741969948549,
+      "horse_number": 9,
+      "odds": 9.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103887",
+      "horse_name": "サンライズミモザ",
+      "score": -0.3760391104910795,
+      "horse_number": 2,
+      "odds": 88.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106924",
+      "horse_name": "ハイクオリティ",
+      "score": -0.48733214678684666,
+      "horse_number": 8,
+      "odds": 7.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103336",
+      "horse_name": "ニコ",
+      "score": -0.5216494872280928,
+      "horse_number": 3,
+      "odds": 34.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107313",
+      "horse_name": "ブリスディーシャ",
+      "score": -0.5290746390114524,
+      "horse_number": 14,
+      "odds": 60.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102356",
+      "horse_name": "ニッシンゲッポ",
+      "score": -0.5557632924749767,
+      "horse_number": 7,
+      "odds": 101.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102984",
+      "horse_name": "ビスケットマリー",
+      "score": -0.6532949560977823,
+      "horse_number": 13,
+      "odds": 69.3
+    }
+  ]
+}

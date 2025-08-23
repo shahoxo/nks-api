@@ -1,0 +1,136 @@
+{
+  "race_id": "202504030104",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-23 11:45",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104875",
+      "horse_name": "オルグジェシダ",
+      "score": 0.26366752664353077,
+      "horse_number": 7,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102064",
+      "horse_name": "ミエノフェアリー",
+      "score": 0.2175342284978461,
+      "horse_number": 8,
+      "odds": 3.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104882",
+      "horse_name": "ジェノヴィーノ",
+      "score": 0.04904037323688777,
+      "horse_number": 14,
+      "odds": 18.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103987",
+      "horse_name": "ルックフォラスター",
+      "score": -0.1253389610428288,
+      "horse_number": 16,
+      "odds": 20.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106347",
+      "horse_name": "テンドリームガール",
+      "score": -0.1464968472595742,
+      "horse_number": 9,
+      "odds": 14.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101272",
+      "horse_name": "スタニングヴュー",
+      "score": -0.21576627008538918,
+      "horse_number": 4,
+      "odds": 7.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105451",
+      "horse_name": "ヴィクトリアランド",
+      "score": -0.23891832891170525,
+      "horse_number": 3,
+      "odds": 121.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100960",
+      "horse_name": "ソランチャン",
+      "score": -0.2838657665187127,
+      "horse_number": 11,
+      "odds": 15.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106831",
+      "horse_name": "エキゾチックガール",
+      "score": -0.3719347062815555,
+      "horse_number": 6,
+      "odds": 21.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103559",
+      "horse_name": "ロワゾブルー",
+      "score": -0.43733276622812467,
+      "horse_number": 5,
+      "odds": 19.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105001",
+      "horse_name": "2022105001",
+      "score": -0.47293600501096866,
+      "horse_number": 10,
+      "odds": 24.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101087",
+      "horse_name": "ディフューズ",
+      "score": -0.500642436346285,
+      "horse_number": 2,
+      "odds": 27.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106116",
+      "horse_name": "ラッキーダンス",
+      "score": -0.5378831339165749,
+      "horse_number": 13,
+      "odds": 41.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106798",
+      "horse_name": "ヒオウギ",
+      "score": -0.5476500042014676,
+      "horse_number": 15,
+      "odds": 78.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105861",
+      "horse_name": "アットザホップ",
+      "score": -0.6518943205472477,
+      "horse_number": 1,
+      "odds": 65.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022100053",
+      "horse_name": "ゴダルティチェコ",
+      "score": -0.6698417018919627,
+      "horse_number": 12,
+      "odds": 91.7
+    }
+  ]
+}

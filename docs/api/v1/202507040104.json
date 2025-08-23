@@ -1,0 +1,152 @@
+{
+  "race_id": "202507040104",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-23 11:25",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102746",
+      "horse_name": "パープルパライソ",
+      "score": 0.4466838561268557,
+      "horse_number": 15,
+      "odds": 11.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101434",
+      "horse_name": "ダノンプリマ",
+      "score": 0.2213427597266785,
+      "horse_number": 14,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103102",
+      "horse_name": "マローソ",
+      "score": 0.21005199598287588,
+      "horse_number": 6,
+      "odds": 5.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106605",
+      "horse_name": "ヤマニンレセディ",
+      "score": 0.20535126132843146,
+      "horse_number": 12,
+      "odds": 4.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102122",
+      "horse_name": "モズレイラココナ",
+      "score": 0.16194340347119573,
+      "horse_number": 4,
+      "odds": 8.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105440",
+      "horse_name": "タイプツービー",
+      "score": 0.05501527128427504,
+      "horse_number": 11,
+      "odds": 14.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104439",
+      "horse_name": "メイショウハダル",
+      "score": 0.040251640865438615,
+      "horse_number": 5,
+      "odds": 9.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102917",
+      "horse_name": "モズアカトンボ",
+      "score": -0.013016909478264213,
+      "horse_number": 2,
+      "odds": 16.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105879",
+      "horse_name": "ショウナンナスカ",
+      "score": -0.21462289762166958,
+      "horse_number": 13,
+      "odds": 75.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103101",
+      "horse_name": "メイショウマサツラ",
+      "score": -0.2550414035393211,
+      "horse_number": 16,
+      "odds": 37.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104464",
+      "horse_name": "アニュレス",
+      "score": -0.27027876219664,
+      "horse_number": 18,
+      "odds": 167.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022110046",
+      "horse_name": "レーヌデプレ",
+      "score": -0.3008666188703172,
+      "horse_number": 9,
+      "odds": 91.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100043",
+      "horse_name": "アミラジオネ",
+      "score": -0.3017410895063727,
+      "horse_number": 10,
+      "odds": 76.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101198",
+      "horse_name": "シャオシンユン",
+      "score": -0.372779901706098,
+      "horse_number": 3,
+      "odds": 38.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101748",
+      "horse_name": "ワンチャン",
+      "score": -0.39121127939556577,
+      "horse_number": 1,
+      "odds": 128.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022105887",
+      "horse_name": "ツリートップムーン",
+      "score": -0.4270160790595151,
+      "horse_number": 17,
+      "odds": 99.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022103275",
+      "horse_name": "ゴッドペイズリー",
+      "score": -0.5187611974628605,
+      "horse_number": 8,
+      "odds": 246.2
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022105379",
+      "horse_name": "マギームーン",
+      "score": -0.5187611974628605,
+      "horse_number": 7,
+      "odds": 43.7
+    }
+  ]
+}
