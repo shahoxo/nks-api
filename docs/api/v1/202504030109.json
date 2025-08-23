@@ -1,0 +1,128 @@
+{
+  "race_id": "202504030109",
+  "race_name": "岩室温泉特別",
+  "race_time": "2025-08-23 14:35",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104839",
+      "horse_name": "プレアデスグループ",
+      "score": 0.11408573775512534,
+      "horse_number": 8,
+      "odds": 36.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104862",
+      "horse_name": "パラサイコロジー",
+      "score": 0.11111786591102452,
+      "horse_number": 9,
+      "odds": 1.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105957",
+      "horse_name": "ダズリングダンス",
+      "score": 0.09015417478504996,
+      "horse_number": 1,
+      "odds": 8.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106307",
+      "horse_name": "モリノセピア",
+      "score": -0.0073287644955503965,
+      "horse_number": 14,
+      "odds": 18.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105974",
+      "horse_name": "バロン",
+      "score": -0.029013028290105963,
+      "horse_number": 13,
+      "odds": 13.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101864",
+      "horse_name": "ドナレア",
+      "score": -0.03479839372646313,
+      "horse_number": 3,
+      "odds": 19.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021109069",
+      "horse_name": "サンダーアリュール",
+      "score": -0.056562902689840655,
+      "horse_number": 15,
+      "odds": 30.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110161",
+      "horse_name": "セントラルヴァレー",
+      "score": -0.059605290704054965,
+      "horse_number": 7,
+      "odds": 12.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101567",
+      "horse_name": "サトノガレオン",
+      "score": -0.062406201644045894,
+      "horse_number": 11,
+      "odds": 19.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103876",
+      "horse_name": "モンドプリューム",
+      "score": -0.08889875475971903,
+      "horse_number": 5,
+      "odds": 12.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105794",
+      "horse_name": "ホワイトターフ",
+      "score": -0.12973460628783873,
+      "horse_number": 4,
+      "odds": 27.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106101",
+      "horse_name": "シュヴァルツリーベ",
+      "score": -0.14872403809077187,
+      "horse_number": 2,
+      "odds": 26.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106673",
+      "horse_name": "エチャケナ",
+      "score": -0.22443391159601528,
+      "horse_number": 12,
+      "odds": 17.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106939",
+      "horse_name": "タイセイフェスタ",
+      "score": -0.25786900622196507,
+      "horse_number": 6,
+      "odds": 89.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019109138",
+      "horse_name": "ベルウッドウズメ",
+      "score": -0.49719498283670327,
+      "horse_number": 10,
+      "odds": 52.1
+    }
+  ]
+}

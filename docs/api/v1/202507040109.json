@@ -1,0 +1,56 @@
+{
+  "race_id": "202507040109",
+  "race_name": "長良川特別",
+  "race_time": "2025-08-23 14:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102988",
+      "horse_name": "スズカミエール",
+      "score": 0.4596215850313514,
+      "horse_number": 3,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106100",
+      "horse_name": "パフュームセント",
+      "score": 0.08466053285617388,
+      "horse_number": 1,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104719",
+      "horse_name": "ダノンカゼルタ",
+      "score": 0.05127753696929346,
+      "horse_number": 4,
+      "odds": 6.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105982",
+      "horse_name": "サンライズガッツ",
+      "score": -0.002033372426632915,
+      "horse_number": 5,
+      "odds": 15.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105384",
+      "horse_name": "スパイラルビジョン",
+      "score": -0.027548873312667043,
+      "horse_number": 6,
+      "odds": 5.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101003",
+      "horse_name": "ラブカ",
+      "score": -0.09858077136605467,
+      "horse_number": 2,
+      "odds": 3.1
+    }
+  ]
+}
