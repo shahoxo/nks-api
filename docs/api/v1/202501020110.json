@@ -1,0 +1,120 @@
+{
+  "race_id": "202501020110",
+  "race_name": "WASJ1",
+  "race_time": "2025-08-23 15:01",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110006",
+      "horse_name": "カラヴァジェスティ",
+      "score": 0.3296258166633691,
+      "horse_number": 10,
+      "odds": 6.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103561",
+      "horse_name": "ゴールドスター",
+      "score": 0.18625199412126653,
+      "horse_number": 5,
+      "odds": 8.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103592",
+      "horse_name": "ルシード",
+      "score": 0.14677577849383325,
+      "horse_number": 4,
+      "odds": 2.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019104675",
+      "horse_name": "アップストローク",
+      "score": 0.0939881861987859,
+      "horse_number": 8,
+      "odds": 14.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104083",
+      "horse_name": "テラステラ",
+      "score": 0.08345117865560882,
+      "horse_number": 1,
+      "odds": 18.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105619",
+      "horse_name": "スミレファースト",
+      "score": 0.06345136707683433,
+      "horse_number": 9,
+      "odds": 36.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104163",
+      "horse_name": "オンザブルースカイ",
+      "score": -0.0333326014657263,
+      "horse_number": 7,
+      "odds": 19.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019109096",
+      "horse_name": "ダイヤモンドフジ",
+      "score": -0.1090469628946236,
+      "horse_number": 3,
+      "odds": 33.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018103485",
+      "horse_name": "ジャガード",
+      "score": -0.1694700151486364,
+      "horse_number": 6,
+      "odds": 15.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104983",
+      "horse_name": "マルプリ",
+      "score": -0.17664565662565263,
+      "horse_number": 2,
+      "odds": 17.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019106179",
+      "horse_name": "ハートホイップ",
+      "score": -0.18167142430738084,
+      "horse_number": 14,
+      "odds": 7.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100151",
+      "horse_name": "スクルプトーリス",
+      "score": -0.3093781522221386,
+      "horse_number": 12,
+      "odds": 36.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102535",
+      "horse_name": "トーセントラム",
+      "score": -0.33505510189062176,
+      "horse_number": 13,
+      "odds": 44.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104780",
+      "horse_name": "ラホーヤストーム",
+      "score": -0.42311019650629034,
+      "horse_number": 11,
+      "odds": 16.5
+    }
+  ]
+}

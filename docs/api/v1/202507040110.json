@@ -1,0 +1,112 @@
+{
+  "race_id": "202507040110",
+  "race_name": "有松特別",
+  "race_time": "2025-08-23 14:50",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105127",
+      "horse_name": "テラメリタ",
+      "score": 0.3952427442024049,
+      "horse_number": 13,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102727",
+      "horse_name": "オトコギアンパン",
+      "score": 0.22027604638341328,
+      "horse_number": 6,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106306",
+      "horse_name": "ゼンダンハヤブサ",
+      "score": 0.15052183713980877,
+      "horse_number": 10,
+      "odds": 9.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105108",
+      "horse_name": "モンテシート",
+      "score": 0.13121456333477172,
+      "horse_number": 7,
+      "odds": 3.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101106",
+      "horse_name": "スマートスピア",
+      "score": -0.02646039909159742,
+      "horse_number": 5,
+      "odds": 5.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101228",
+      "horse_name": "クリノアドバンス",
+      "score": -0.03349471829155067,
+      "horse_number": 11,
+      "odds": 24.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103538",
+      "horse_name": "オーシャントライブ",
+      "score": -0.062072309437989186,
+      "horse_number": 3,
+      "odds": 10.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102561",
+      "horse_name": "キーウェーブ",
+      "score": -0.2266711620194386,
+      "horse_number": 9,
+      "odds": 61.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102329",
+      "horse_name": "エーデルサンライズ",
+      "score": -0.24800070201755284,
+      "horse_number": 2,
+      "odds": 45.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106131",
+      "horse_name": "ジオパーククラウン",
+      "score": -0.26798284054491495,
+      "horse_number": 1,
+      "odds": 94.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019106280",
+      "horse_name": "サクラオーラ",
+      "score": -0.32389792033591314,
+      "horse_number": 4,
+      "odds": 41.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018101951",
+      "horse_name": "タガノスペルノヴァ",
+      "score": -0.4292588744838946,
+      "horse_number": 8,
+      "odds": 107.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101386",
+      "horse_name": "コールミーメイビー",
+      "score": -0.7344997899121097,
+      "horse_number": 12,
+      "odds": 217.5
+    }
+  ]
+}
