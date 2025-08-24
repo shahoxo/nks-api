@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2022101987",
       "horse_name": "シルバードン",
-      "score": 0.0901754592831606,
+      "score": 0.1374785323729294,
       "horse_number": 12,
       "odds": 7.9
     },
@@ -16,12 +16,20 @@
       "rank": 2,
       "horse_id": "2021102745",
       "horse_name": "ペッパーミル",
-      "score": 0.07806977226618343,
+      "score": 0.12510557214209225,
       "horse_number": 7,
       "odds": 7.0
     },
     {
       "rank": 3,
+      "horse_id": "2022107163",
+      "horse_name": "アシャカトベ",
+      "score": 0.06727330889783986,
+      "horse_number": 9,
+      "odds": 5.5
+    },
+    {
+      "rank": 4,
       "horse_id": "2020100617",
       "horse_name": "ブリングライト",
       "score": -0.031061967897938976,
@@ -29,20 +37,12 @@
       "odds": 10.7
     },
     {
-      "rank": 4,
-      "horse_id": "2022107163",
-      "horse_name": "アシャカトベ",
-      "score": -0.03379449790937432,
-      "horse_number": 9,
-      "odds": 5.5
-    },
-    {
       "rank": 5,
-      "horse_id": "2022101398",
-      "horse_name": "リクエイ",
-      "score": -0.08245791880937314,
-      "horse_number": 4,
-      "odds": 4.7
+      "horse_id": "2021103257",
+      "horse_name": "チャコール",
+      "score": -0.03541890460621278,
+      "horse_number": 8,
+      "odds": 9.4
     },
     {
       "rank": 6,
@@ -54,25 +54,25 @@
     },
     {
       "rank": 7,
-      "horse_id": "2021103257",
-      "horse_name": "チャコール",
-      "score": -0.144883735857763,
-      "horse_number": 8,
-      "odds": 9.4
+      "horse_id": "2022102423",
+      "horse_name": "ヒルビリーエレジー",
+      "score": -0.20604290162298708,
+      "horse_number": 13,
+      "odds": 16.6
     },
     {
       "rank": 8,
-      "horse_id": "2022102423",
-      "horse_name": "ヒルビリーエレジー",
-      "score": -0.1768700359183494,
-      "horse_number": 13,
-      "odds": 16.6
+      "horse_id": "2022101398",
+      "horse_name": "リクエイ",
+      "score": -0.2536273446759346,
+      "horse_number": 4,
+      "odds": 4.7
     },
     {
       "rank": 9,
       "horse_id": "2022103326",
       "horse_name": "ガールネクストドア",
-      "score": -0.22800270598750594,
+      "score": -0.2683918880721282,
       "horse_number": 15,
       "odds": 29.1
     },
