@@ -1,0 +1,120 @@
+{
+  "race_id": "202501020201",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-08-24 10:00",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103351",
+      "horse_name": "グレーヌドジョワ",
+      "score": 0.2044436457259481,
+      "horse_number": 12,
+      "odds": 6.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102592",
+      "horse_name": "ミヤエスケープ",
+      "score": 0.12706795784997657,
+      "horse_number": 13,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105139",
+      "horse_name": "ティブロン",
+      "score": 0.09933555889812894,
+      "horse_number": 9,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105748",
+      "horse_name": "リフレックス",
+      "score": 0.06478854040768856,
+      "horse_number": 5,
+      "odds": 4.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105329",
+      "horse_name": "エクストラプッシュ",
+      "score": -0.02250219504447882,
+      "horse_number": 14,
+      "odds": 21.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102476",
+      "horse_name": "ロードベルファスト",
+      "score": -0.060833465620024195,
+      "horse_number": 10,
+      "odds": 17.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104275",
+      "horse_name": "ハグレジョー",
+      "score": -0.21712950039898413,
+      "horse_number": 3,
+      "odds": 12.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100586",
+      "horse_name": "ユニゾン",
+      "score": -0.2375680815623663,
+      "horse_number": 11,
+      "odds": 7.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103696",
+      "horse_name": "マーゴットサンズ",
+      "score": -0.2558666955982379,
+      "horse_number": 7,
+      "odds": 15.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104933",
+      "horse_name": "ブラックジャック",
+      "score": -0.37812409562152394,
+      "horse_number": 2,
+      "odds": 20.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101374",
+      "horse_name": "レッドファイブ",
+      "score": -0.4249940662785844,
+      "horse_number": 1,
+      "odds": 177.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102485",
+      "horse_name": "イッスンボウシ",
+      "score": -0.4902615336747692,
+      "horse_number": 4,
+      "odds": 207.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023107412",
+      "horse_name": "リピース",
+      "score": -0.6085816212588883,
+      "horse_number": 8,
+      "odds": 45.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106170",
+      "horse_name": "ウルヴァリン",
+      "score": -0.6998670045316765,
+      "horse_number": 6,
+      "odds": 178.2
+    }
+  ]
+}

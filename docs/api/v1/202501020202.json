@@ -1,0 +1,104 @@
+{
+  "race_id": "202501020202",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-08-24 10:35",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101112",
+      "horse_name": "ロイヤルスパイア",
+      "score": 0.48602968280716363,
+      "horse_number": 4,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105279",
+      "horse_name": "アニマレイ",
+      "score": 0.4078314701401329,
+      "horse_number": 12,
+      "odds": 5.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100169",
+      "horse_name": "スミッコディスコ",
+      "score": 0.39281333161746634,
+      "horse_number": 11,
+      "odds": 2.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106619",
+      "horse_name": "レッドスティンガー",
+      "score": 0.14241028421580035,
+      "horse_number": 7,
+      "odds": 4.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101459",
+      "horse_name": "シャルムグリーン",
+      "score": -0.2297913235176275,
+      "horse_number": 3,
+      "odds": 17.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104838",
+      "horse_name": "マルモリラピダス",
+      "score": -0.30725922875234346,
+      "horse_number": 10,
+      "odds": 20.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100344",
+      "horse_name": "オンマイビート",
+      "score": -0.3425027476969271,
+      "horse_number": 5,
+      "odds": 146.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023110026",
+      "horse_name": "スカイピア",
+      "score": -0.3767222630648452,
+      "horse_number": 6,
+      "odds": 14.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102457",
+      "horse_name": "オッハッピー",
+      "score": -0.4123715168198818,
+      "horse_number": 1,
+      "odds": 130.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100690",
+      "horse_name": "ルーセントムーン",
+      "score": -0.49672908171961005,
+      "horse_number": 9,
+      "odds": 79.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101078",
+      "horse_name": "ウインロズパレード",
+      "score": -0.5926964683908803,
+      "horse_number": 2,
+      "odds": 0.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104598",
+      "horse_name": "ニシノガンリキ",
+      "score": -0.6486332408541884,
+      "horse_number": 8,
+      "odds": 49.3
+    }
+  ]
+}

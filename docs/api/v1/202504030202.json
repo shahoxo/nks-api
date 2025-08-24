@@ -1,0 +1,128 @@
+{
+  "race_id": "202504030202",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-08-24 10:45",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105174",
+      "horse_name": "フェアゴー",
+      "score": 0.2119665034734921,
+      "horse_number": 11,
+      "odds": 5.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105043",
+      "horse_name": "ジュンビクトワール",
+      "score": 0.1206999914807396,
+      "horse_number": 8,
+      "odds": 2.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103994",
+      "horse_name": "ブラザービート",
+      "score": 0.09857731818148469,
+      "horse_number": 9,
+      "odds": 9.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105940",
+      "horse_name": "メイショウコウベ",
+      "score": 0.002053548532854499,
+      "horse_number": 2,
+      "odds": 5.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102540",
+      "horse_name": "アストラン",
+      "score": -0.12867743269438914,
+      "horse_number": 10,
+      "odds": 9.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104074",
+      "horse_name": "サクラコーラル",
+      "score": -0.2504613495070218,
+      "horse_number": 4,
+      "odds": 53.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106304",
+      "horse_name": "ナックエルドラド",
+      "score": -0.5115861408259113,
+      "horse_number": 1,
+      "odds": 21.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101548",
+      "horse_name": "ヴァルトバーデン",
+      "score": -0.5450442950922436,
+      "horse_number": 15,
+      "odds": 17.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102662",
+      "horse_name": "フラッシュタイム",
+      "score": -0.5679670300894952,
+      "horse_number": 5,
+      "odds": 20.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105728",
+      "horse_name": "メモリードライブ",
+      "score": -0.5692455389635925,
+      "horse_number": 13,
+      "odds": 25.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104287",
+      "horse_name": "ショージージョ",
+      "score": -0.6016625315578266,
+      "horse_number": 12,
+      "odds": 123.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105691",
+      "horse_name": "グランダイト",
+      "score": -0.6074640145017944,
+      "horse_number": 7,
+      "odds": 102.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100378",
+      "horse_name": "ネバーランドリーム",
+      "score": -0.6081684870695403,
+      "horse_number": 14,
+      "odds": 149.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022107086",
+      "horse_name": "ニシノプライム",
+      "score": -0.652504176447676,
+      "horse_number": 6,
+      "odds": 49.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105307",
+      "horse_name": "ナックシュバリエ",
+      "score": -0.7075174874823592,
+      "horse_number": 3,
+      "odds": 107.4
+    }
+  ]
+}

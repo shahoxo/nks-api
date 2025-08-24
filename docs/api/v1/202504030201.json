@@ -1,0 +1,64 @@
+{
+  "race_id": "202504030201",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-08-24 10:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103733",
+      "horse_name": "ラプランセス",
+      "score": 0.14202376350563709,
+      "horse_number": 2,
+      "odds": 1.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100681",
+      "horse_name": "ガリレア",
+      "score": 0.04085524058798791,
+      "horse_number": 1,
+      "odds": 10.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102843",
+      "horse_name": "ムーングレイル",
+      "score": -0.08568174739103616,
+      "horse_number": 5,
+      "odds": 7.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100626",
+      "horse_name": "マルターズドン",
+      "score": -0.3466841807466058,
+      "horse_number": 6,
+      "odds": 26.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102360",
+      "horse_name": "スターオブブライト",
+      "score": -0.5505853893722259,
+      "horse_number": 7,
+      "odds": 32.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100795",
+      "horse_name": "クラウンプレゼンタ",
+      "score": -0.6016625315578266,
+      "horse_number": 4,
+      "odds": 86.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104288",
+      "horse_name": "イントゥゴールデン",
+      "score": -0.7560238565797833,
+      "horse_number": 3,
+      "odds": 84.9
+    }
+  ]
+}
