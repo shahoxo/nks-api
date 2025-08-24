@@ -1,0 +1,88 @@
+{
+  "race_id": "202504030208",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-24 14:05",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105738",
+      "horse_name": "ロフティストーリー",
+      "score": 0.14037263548813333,
+      "horse_number": 6,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103676",
+      "horse_name": "ミラクルキャッツ",
+      "score": 0.09668462780383394,
+      "horse_number": 1,
+      "odds": 3.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104432",
+      "horse_name": "レイバックスピン",
+      "score": -0.10770676309505502,
+      "horse_number": 4,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102785",
+      "horse_name": "ラーナローザ",
+      "score": -0.19061903209773695,
+      "horse_number": 8,
+      "odds": 5.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104744",
+      "horse_name": "ノーブルアクト",
+      "score": -0.3391382520929397,
+      "horse_number": 7,
+      "odds": 9.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105123",
+      "horse_name": "グランコネクシオン",
+      "score": -0.3638034596694848,
+      "horse_number": 2,
+      "odds": 10.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019100844",
+      "horse_name": "ミツカネヴィーナス",
+      "score": -0.4331680972063978,
+      "horse_number": 10,
+      "odds": 31.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106172",
+      "horse_name": "ビーコ",
+      "score": -0.4908696235031679,
+      "horse_number": 9,
+      "odds": 10.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104699",
+      "horse_name": "スノークルーズ",
+      "score": -0.4973476684582902,
+      "horse_number": 5,
+      "odds": 14.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106654",
+      "horse_name": "ラブリーウィザード",
+      "score": -0.671212993402232,
+      "horse_number": 3,
+      "odds": 20.4
+    }
+  ]
+}

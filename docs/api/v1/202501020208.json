@@ -1,0 +1,96 @@
+{
+  "race_id": "202501020208",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-24 13:55",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101649",
+      "horse_name": "ウィンターサン",
+      "score": 0.09455024523497542,
+      "horse_number": 11,
+      "odds": 7.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104317",
+      "horse_name": "ミサビスケッツ",
+      "score": 0.058915477181467155,
+      "horse_number": 6,
+      "odds": 1.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105167",
+      "horse_name": "スナークメモリー",
+      "score": -0.09476653181669892,
+      "horse_number": 7,
+      "odds": 10.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104850",
+      "horse_name": "セージグリーン",
+      "score": -0.11535959537240129,
+      "horse_number": 9,
+      "odds": 15.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106851",
+      "horse_name": "レディゴディヴァ",
+      "score": -0.15859199402323546,
+      "horse_number": 3,
+      "odds": 7.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022107254",
+      "horse_name": "エンプレスフレーム",
+      "score": -0.2891763458633271,
+      "horse_number": 10,
+      "odds": 9.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101533",
+      "horse_name": "シンボリノエル",
+      "score": -0.3459488130765188,
+      "horse_number": 5,
+      "odds": 20.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102303",
+      "horse_name": "カンカール",
+      "score": -0.5768133336183507,
+      "horse_number": 4,
+      "odds": 134.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105954",
+      "horse_name": "コンテナライン",
+      "score": -0.5805237794651537,
+      "horse_number": 1,
+      "odds": 29.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100070",
+      "horse_name": "ネクストヒロイン",
+      "score": -0.6122514963428539,
+      "horse_number": 8,
+      "odds": 81.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100216",
+      "horse_name": "アルマグラース",
+      "score": -0.7344997899121097,
+      "horse_number": 2,
+      "odds": 116.2
+    }
+  ]
+}

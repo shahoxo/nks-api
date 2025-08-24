@@ -16,7 +16,7 @@
       "rank": 2,
       "horse_id": "2022103324",
       "horse_name": "シュラフ",
-      "score": -0.08399682241975519,
+      "score": -0.08303313731867053,
       "horse_number": 5,
       "odds": 6.6
     },
@@ -24,20 +24,12 @@
       "rank": 3,
       "horse_id": "2020106587",
       "horse_name": "レオプルミエール",
-      "score": -0.09422834544407295,
+      "score": -0.1527096055238102,
       "horse_number": 8,
       "odds": 5.6
     },
     {
       "rank": 4,
-      "horse_id": "2021103325",
-      "horse_name": "カレンナオトメ",
-      "score": -0.1091161058840203,
-      "horse_number": 4,
-      "odds": 37.0
-    },
-    {
-      "rank": 5,
       "horse_id": "2021105373",
       "horse_name": "パレスドフィーヌ",
       "score": -0.2098012767980437,
@@ -45,12 +37,20 @@
       "odds": 12.4
     },
     {
-      "rank": 6,
+      "rank": 5,
       "horse_id": "2020100997",
       "horse_name": "マルモリディライト",
       "score": -0.24207104251444866,
       "horse_number": 7,
       "odds": 22.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103325",
+      "horse_name": "カレンナオトメ",
+      "score": -0.25146830480161475,
+      "horse_number": 4,
+      "odds": 37.0
     },
     {
       "rank": 7,
@@ -70,6 +70,14 @@
     },
     {
       "rank": 9,
+      "horse_id": "2019102510",
+      "horse_name": "アップフルーク",
+      "score": -0.4307242212460366,
+      "horse_number": 16,
+      "odds": 10.1
+    },
+    {
+      "rank": 10,
       "horse_id": "2020100084",
       "horse_name": "レッドカメリア",
       "score": -0.4607523980429541,
@@ -77,31 +85,15 @@
       "odds": 98.7
     },
     {
-      "rank": 10,
-      "horse_id": "2019102510",
-      "horse_name": "アップフルーク",
-      "score": -0.4669215084010411,
-      "horse_number": 16,
-      "odds": 10.1
-    },
-    {
       "rank": 11,
       "horse_id": "2022106190",
       "horse_name": "ラインパシオン",
-      "score": -0.5190892230528099,
+      "score": -0.5594784051374321,
       "horse_number": 12,
       "odds": 23.4
     },
     {
       "rank": 12,
-      "horse_id": "2021100121",
-      "horse_name": "ザブルース",
-      "score": -0.5614264817921469,
-      "horse_number": 1,
-      "odds": 91.7
-    },
-    {
-      "rank": 13,
       "horse_id": "2020105525",
       "horse_name": "カツノテンス",
       "score": -0.5707140942884151,
@@ -109,12 +101,20 @@
       "odds": 59.5
     },
     {
-      "rank": 14,
+      "rank": 13,
       "horse_id": "2021106994",
       "horse_name": "ニシノルミリオン",
       "score": -0.5945546677764488,
       "horse_number": 17,
       "odds": 15.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100121",
+      "horse_name": "ザブルース",
+      "score": -0.6018156638767691,
+      "horse_number": 1,
+      "odds": 91.7
     },
     {
       "rank": 15,
