@@ -1,0 +1,128 @@
+{
+  "race_id": "202504030212",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-24 16:30",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101987",
+      "horse_name": "シルバードン",
+      "score": 0.0901754592831606,
+      "horse_number": 12,
+      "odds": 7.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102745",
+      "horse_name": "ペッパーミル",
+      "score": 0.07806977226618343,
+      "horse_number": 7,
+      "odds": 7.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020100617",
+      "horse_name": "ブリングライト",
+      "score": -0.031061967897938976,
+      "horse_number": 5,
+      "odds": 10.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022107163",
+      "horse_name": "アシャカトベ",
+      "score": -0.03379449790937432,
+      "horse_number": 9,
+      "odds": 5.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101398",
+      "horse_name": "リクエイ",
+      "score": -0.08245791880937314,
+      "horse_number": 4,
+      "odds": 4.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103710",
+      "horse_name": "ホウオウジュビリー",
+      "score": -0.12454977937834164,
+      "horse_number": 3,
+      "odds": 37.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103257",
+      "horse_name": "チャコール",
+      "score": -0.144883735857763,
+      "horse_number": 8,
+      "odds": 9.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102423",
+      "horse_name": "ヒルビリーエレジー",
+      "score": -0.1768700359183494,
+      "horse_number": 13,
+      "odds": 16.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103326",
+      "horse_name": "ガールネクストドア",
+      "score": -0.22800270598750594,
+      "horse_number": 15,
+      "odds": 29.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100289",
+      "horse_name": "シルバーダイヤ",
+      "score": -0.32541966725024096,
+      "horse_number": 11,
+      "odds": 15.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106429",
+      "horse_name": "ノーブルミステリー",
+      "score": -0.32774673934373444,
+      "horse_number": 14,
+      "odds": 29.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106788",
+      "horse_name": "ティーラミレス",
+      "score": -0.3364257527833444,
+      "horse_number": 1,
+      "odds": 23.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104271",
+      "horse_name": "スマイルディシー",
+      "score": -0.4118261707553055,
+      "horse_number": 2,
+      "odds": 15.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104382",
+      "horse_name": "ノーブルニードル",
+      "score": -0.7080136536659949,
+      "horse_number": 6,
+      "odds": 27.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106837",
+      "horse_name": "ウィンウッドテール",
+      "score": -0.7344997899121097,
+      "horse_number": 10,
+      "odds": 38.1
+    }
+  ]
+}

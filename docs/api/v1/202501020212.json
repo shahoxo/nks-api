@@ -1,0 +1,120 @@
+{
+  "race_id": "202501020212",
+  "race_name": "WASJ4",
+  "race_time": "2025-08-24 16:15",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020100177",
+      "horse_name": "ロードマンハイム",
+      "score": 0.2474096475156342,
+      "horse_number": 2,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104748",
+      "horse_name": "ウィルサヴァイブ",
+      "score": 0.170532792452397,
+      "horse_number": 12,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103168",
+      "horse_name": "トーアライデン",
+      "score": 0.1423403903754567,
+      "horse_number": 11,
+      "odds": 16.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102744",
+      "horse_name": "キングメーカー",
+      "score": 0.09838504283550874,
+      "horse_number": 13,
+      "odds": 12.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021107085",
+      "horse_name": "ウインアクトゥール",
+      "score": 0.04320578628848595,
+      "horse_number": 14,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103033",
+      "horse_name": "ハイラント",
+      "score": -0.03433229317679475,
+      "horse_number": 5,
+      "odds": 17.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106993",
+      "horse_name": "サクソンジェンヌ",
+      "score": -0.04873077087803103,
+      "horse_number": 9,
+      "odds": 12.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106766",
+      "horse_name": "マイネルオーシャン",
+      "score": -0.057565534958565166,
+      "horse_number": 8,
+      "odds": 8.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104259",
+      "horse_name": "ミヤビブレイブ",
+      "score": -0.10477856429089843,
+      "horse_number": 6,
+      "odds": 23.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019103816",
+      "horse_name": "リッチブラック",
+      "score": -0.15449253004301108,
+      "horse_number": 7,
+      "odds": 48.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106966",
+      "horse_name": "ピンクジン",
+      "score": -0.17151169636460747,
+      "horse_number": 1,
+      "odds": 10.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105908",
+      "horse_name": "グランドゴールド",
+      "score": -0.21451680367922585,
+      "horse_number": 4,
+      "odds": 28.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100084",
+      "horse_name": "ジェットマグナム",
+      "score": -0.2666930426056965,
+      "horse_number": 10,
+      "odds": 5.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101284",
+      "horse_name": "ルクスドヌーヴ",
+      "score": -0.35270981128556056,
+      "horse_number": 3,
+      "odds": 38.9
+    }
+  ]
+}
