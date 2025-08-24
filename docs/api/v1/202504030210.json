@@ -1,0 +1,112 @@
+{
+  "race_id": "202504030210",
+  "race_name": "朱鷺S",
+  "race_time": "2025-08-24 15:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104830",
+      "horse_name": "グロリアラウス",
+      "score": 0.2891277222794708,
+      "horse_number": 3,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100494",
+      "horse_name": "ガロンヌ",
+      "score": 0.22006852783376996,
+      "horse_number": 4,
+      "odds": 7.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2018105454",
+      "horse_name": "グレイイングリーン",
+      "score": 0.20231309840703177,
+      "horse_number": 12,
+      "odds": 7.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102853",
+      "horse_name": "シャドウフューリー",
+      "score": 0.14357573941408674,
+      "horse_number": 8,
+      "odds": 4.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103063",
+      "horse_name": "マルディランダ",
+      "score": 0.09203504498768705,
+      "horse_number": 2,
+      "odds": 17.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101382",
+      "horse_name": "ブリックワーク",
+      "score": 0.07533179203358727,
+      "horse_number": 7,
+      "odds": 16.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019110102",
+      "horse_name": "デュガ",
+      "score": 0.053753378748949115,
+      "horse_number": 10,
+      "odds": 14.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100792",
+      "horse_name": "ハクサンバード",
+      "score": -0.033481741603154744,
+      "horse_number": 1,
+      "odds": 12.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103482",
+      "horse_name": "スカイロケット",
+      "score": -0.03507914442391953,
+      "horse_number": 11,
+      "odds": 32.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020110155",
+      "horse_name": "レイベリング",
+      "score": -0.10217115075997514,
+      "horse_number": 13,
+      "odds": 4.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102564",
+      "horse_name": "ムーンプローブ",
+      "score": -0.3972955584498741,
+      "horse_number": 5,
+      "odds": 70.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105400",
+      "horse_name": "タマモブラックタイ",
+      "score": -0.5091252338973246,
+      "horse_number": 6,
+      "odds": 19.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106967",
+      "horse_name": "キタウイング",
+      "score": -0.5277376566411078,
+      "horse_number": 9,
+      "odds": 28.2
+    }
+  ]
+}

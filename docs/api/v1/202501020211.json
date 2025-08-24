@@ -1,0 +1,136 @@
+{
+  "race_id": "202501020211",
+  "race_name": "キーンランド",
+  "race_time": "2025-08-24 15:35",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019102273",
+      "horse_name": "モリノドリーム",
+      "score": 0.3952427442024049,
+      "horse_number": 9,
+      "odds": 11.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104960",
+      "horse_name": "カルプスペルシュ",
+      "score": 0.3517037491506134,
+      "horse_number": 16,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019105859",
+      "horse_name": "エーティーマクフィ",
+      "score": 0.30473588482979835,
+      "horse_number": 4,
+      "odds": 9.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101732",
+      "horse_name": "パンジャタワー",
+      "score": 0.29398452532987374,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103066",
+      "horse_name": "レイピア",
+      "score": 0.2611928432651227,
+      "horse_number": 3,
+      "odds": 9.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103356",
+      "horse_name": "クファシル",
+      "score": 0.1665875779045553,
+      "horse_number": 7,
+      "odds": 30.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2017101429",
+      "horse_name": "ウインカーネリアン",
+      "score": 0.15457620572430336,
+      "horse_number": 10,
+      "odds": 5.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100522",
+      "horse_name": "ジョーメッドヴィン",
+      "score": 0.07164018534221449,
+      "horse_number": 13,
+      "odds": 66.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102887",
+      "horse_name": "ナムラクララ",
+      "score": 0.04812472591981715,
+      "horse_number": 15,
+      "odds": 14.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103434",
+      "horse_name": "カルロヴェローチェ",
+      "score": 0.016631133465066048,
+      "horse_number": 14,
+      "odds": 15.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021110027",
+      "horse_name": "エトヴプレ",
+      "score": -0.01781716948655684,
+      "horse_number": 2,
+      "odds": 51.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018101343",
+      "horse_name": "ゾンニッヒ",
+      "score": -0.0230680315424764,
+      "horse_number": 8,
+      "odds": 23.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101924",
+      "horse_name": "フィオライア",
+      "score": -0.04134243224005797,
+      "horse_number": 12,
+      "odds": 23.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102320",
+      "horse_name": "ペアポルックス",
+      "score": -0.0617890063039206,
+      "horse_number": 6,
+      "odds": 9.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019104911",
+      "horse_name": "プルパレイ",
+      "score": -0.1423740746092563,
+      "horse_number": 11,
+      "odds": 64.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103915",
+      "horse_name": "ツインクルトーズ",
+      "score": -0.2818052800816444,
+      "horse_number": 1,
+      "odds": 112.6
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "race_id": "202507040211",
+  "race_name": "長篠S",
+  "race_time": "2025-08-24 15:25",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019102458",
+      "horse_name": "ワンダーキサラ",
+      "score": 0.09727402527087711,
+      "horse_number": 1,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102016",
+      "horse_name": "エコロマーズ",
+      "score": 0.07359356402694617,
+      "horse_number": 9,
+      "odds": 7.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102461",
+      "horse_name": "バンドシェル",
+      "score": 0.07312347905611068,
+      "horse_number": 6,
+      "odds": 4.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020110039",
+      "horse_name": "ユハンヌス",
+      "score": 0.04491464179106577,
+      "horse_number": 7,
+      "odds": 4.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106661",
+      "horse_name": "ヒーローインチーフ",
+      "score": -0.11622334675524308,
+      "horse_number": 5,
+      "odds": 17.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100157",
+      "horse_name": "ロードトレイル",
+      "score": -0.19769646657680875,
+      "horse_number": 8,
+      "odds": 6.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019107016",
+      "horse_name": "ウナギノボリ",
+      "score": -0.5238326284046987,
+      "horse_number": 3,
+      "odds": 22.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019104260",
+      "horse_name": "メイショウクリフト",
+      "score": -0.5529378849583312,
+      "horse_number": 2,
+      "odds": 33.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106534",
+      "horse_name": "メイショウカゼマチ",
+      "score": -0.6970415147616792,
+      "horse_number": 4,
+      "odds": 15.5
+    }
+  ]
+}
