@@ -1,0 +1,120 @@
+{
+  "race_id": "202507040209",
+  "race_name": "賢島特別",
+  "race_time": "2025-08-24 14:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020106698",
+      "horse_name": "バンディート",
+      "score": 0.21098081158365223,
+      "horse_number": 2,
+      "odds": 19.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103991",
+      "horse_name": "ジーティーエスピ",
+      "score": 0.2026901937497617,
+      "horse_number": 1,
+      "odds": 10.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103060",
+      "horse_name": "ホーリーブラッサム",
+      "score": 0.13813158595718913,
+      "horse_number": 10,
+      "odds": 2.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103488",
+      "horse_name": "ジャンヌローサ",
+      "score": 0.09191744056552689,
+      "horse_number": 3,
+      "odds": 11.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104106",
+      "horse_name": "ロンティケチャップ",
+      "score": 0.07370331947072567,
+      "horse_number": 11,
+      "odds": 20.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105561",
+      "horse_name": "ケイアイクビラ",
+      "score": 0.027865765334088265,
+      "horse_number": 4,
+      "odds": 16.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106206",
+      "horse_name": "ウインラウダ",
+      "score": 0.023380443624854884,
+      "horse_number": 12,
+      "odds": 21.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104694",
+      "horse_name": "ブルクトーア",
+      "score": -0.054833446722062175,
+      "horse_number": 8,
+      "odds": 9.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102950",
+      "horse_name": "テクノデザイン",
+      "score": -0.057896989468769915,
+      "horse_number": 7,
+      "odds": 29.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101369",
+      "horse_name": "モンタルチーノ",
+      "score": -0.18527215624493554,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105141",
+      "horse_name": "パシフィックハイ",
+      "score": -0.20127805081181227,
+      "horse_number": 14,
+      "odds": 19.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100795",
+      "horse_name": "ベルタソ",
+      "score": -0.20933838698180532,
+      "horse_number": 5,
+      "odds": 49.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019100249",
+      "horse_name": "ツッチーフェイス",
+      "score": -0.31230390642684397,
+      "horse_number": 9,
+      "odds": 78.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022107258",
+      "horse_name": "ラブアイミー",
+      "score": -0.5731733109185368,
+      "horse_number": 13,
+      "odds": 113.5
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "race_id": "202501020209",
+  "race_name": "ルスツ特別",
+  "race_time": "2025-08-24 14:25",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102338",
+      "horse_name": "コア",
+      "score": 0.22708413612503525,
+      "horse_number": 12,
+      "odds": 17.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101061",
+      "horse_name": "プロフェータ",
+      "score": 0.18537810099604046,
+      "horse_number": 2,
+      "odds": 22.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106828",
+      "horse_name": "マイネルゼウス",
+      "score": 0.15734033723239804,
+      "horse_number": 1,
+      "odds": 4.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103251",
+      "horse_name": "メイショウビストロ",
+      "score": 0.040542465642349354,
+      "horse_number": 13,
+      "odds": 10.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020102864",
+      "horse_name": "サングラデーション",
+      "score": 0.01134863349598559,
+      "horse_number": 9,
+      "odds": 13.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105773",
+      "horse_name": "リアライズオーラム",
+      "score": 0.007982726253281378,
+      "horse_number": 11,
+      "odds": 4.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105766",
+      "horse_name": "ドーギッド",
+      "score": -0.02550852788519635,
+      "horse_number": 5,
+      "odds": 12.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105345",
+      "horse_name": "シンゼンカガ",
+      "score": -0.03422961739882472,
+      "horse_number": 8,
+      "odds": 3.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101337",
+      "horse_name": "コスモアバンサ",
+      "score": -0.3436186624191447,
+      "horse_number": 6,
+      "odds": 13.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100621",
+      "horse_name": "マイバラード",
+      "score": -0.4202842329919897,
+      "horse_number": 7,
+      "odds": 21.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021110079",
+      "horse_name": "ヴァイタルピース",
+      "score": -0.4936945441292122,
+      "horse_number": 3,
+      "odds": 114.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103517",
+      "horse_name": "シュエットアムール",
+      "score": -0.500573403716333,
+      "horse_number": 10,
+      "odds": 48.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103586",
+      "horse_name": "オラリオン",
+      "score": -0.5281472790578463,
+      "horse_number": 4,
+      "odds": 65.9
+    }
+  ]
+}
