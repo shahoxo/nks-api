@@ -1,0 +1,64 @@
+{
+  "race_id": "202507040207",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-08-24 13:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105055",
+      "horse_name": "レッドボブ",
+      "score": 0.05466492916894073,
+      "horse_number": 7,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107133",
+      "horse_name": "タガノマルアフ",
+      "score": -0.15048328564903915,
+      "horse_number": 6,
+      "odds": 13.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100335",
+      "horse_name": "アクルクス",
+      "score": -0.16685703783895803,
+      "horse_number": 5,
+      "odds": 13.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105719",
+      "horse_name": "ダノンウィルヘルム",
+      "score": -0.20497786960345726,
+      "horse_number": 2,
+      "odds": 8.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105868",
+      "horse_name": "バーケンティン",
+      "score": -0.2083414979791624,
+      "horse_number": 4,
+      "odds": 8.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102728",
+      "horse_name": "ポルトドール",
+      "score": -0.24838310068226058,
+      "horse_number": 1,
+      "odds": 5.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101585",
+      "horse_name": "パワーアイガー",
+      "score": -0.6429742738712003,
+      "horse_number": 3,
+      "odds": 34.0
+    }
+  ]
+}
