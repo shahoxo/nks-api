@@ -1,0 +1,136 @@
+{
+  "race_id": "202507040210",
+  "race_name": "大府特別",
+  "race_time": "2025-08-24 14:50",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104176",
+      "horse_name": "キングブルー",
+      "score": 0.37939723991468777,
+      "horse_number": 7,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106164",
+      "horse_name": "キングオブフジ",
+      "score": -0.006157867738823565,
+      "horse_number": 4,
+      "odds": 8.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105885",
+      "horse_name": "ショーダンサー",
+      "score": -0.03168442662535989,
+      "horse_number": 16,
+      "odds": 5.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105073",
+      "horse_name": "パカーラン",
+      "score": -0.07202798796472573,
+      "horse_number": 15,
+      "odds": 10.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103225",
+      "horse_name": "チカミリオン",
+      "score": -0.21991651377319887,
+      "horse_number": 11,
+      "odds": 14.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020100771",
+      "horse_name": "ジョータルマエ",
+      "score": -0.2445662035782203,
+      "horse_number": 8,
+      "odds": 12.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106399",
+      "horse_name": "ユメハハテシナク",
+      "score": -0.24750376400571936,
+      "horse_number": 1,
+      "odds": 15.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100677",
+      "horse_name": "ヴォルスター",
+      "score": -0.2959338211861103,
+      "horse_number": 10,
+      "odds": 15.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105542",
+      "horse_name": "ドンアチェカ",
+      "score": -0.31644977258892937,
+      "horse_number": 12,
+      "odds": 73.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103255",
+      "horse_name": "メイショウソウセキ",
+      "score": -0.3475537520546783,
+      "horse_number": 3,
+      "odds": 17.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105670",
+      "horse_name": "タッチャブル",
+      "score": -0.38735870096335634,
+      "horse_number": 2,
+      "odds": 26.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104399",
+      "horse_name": "ラヴオントップ",
+      "score": -0.46148455806584365,
+      "horse_number": 9,
+      "odds": 17.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2016104152",
+      "horse_name": "トーアシオン",
+      "score": -0.4724375172538021,
+      "horse_number": 13,
+      "odds": 56.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020107081",
+      "horse_name": "クリノクリスタル",
+      "score": -0.5088637868849478,
+      "horse_number": 14,
+      "odds": 47.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018100858",
+      "horse_name": "メイショウマントル",
+      "score": -0.5115355242747993,
+      "horse_number": 5,
+      "odds": 33.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019102265",
+      "horse_name": "ショウサンキズナ",
+      "score": -0.5494931663403189,
+      "horse_number": 6,
+      "odds": 32.6
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202501020210",
+  "race_name": "WASJ3",
+  "race_time": "2025-08-24 15:01",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105849",
+      "horse_name": "オコタンペ",
+      "score": 0.13466193009034735,
+      "horse_number": 3,
+      "odds": 6.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102280",
+      "horse_name": "チュウワクリスエス",
+      "score": 0.08357226256221818,
+      "horse_number": 6,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019104592",
+      "horse_name": "カプラローラ",
+      "score": 0.07082574147220035,
+      "horse_number": 12,
+      "odds": 9.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105262",
+      "horse_name": "ラオラシオン",
+      "score": 0.049831258519813265,
+      "horse_number": 2,
+      "odds": 6.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100098",
+      "horse_name": "ベルギューン",
+      "score": 0.012711785147833516,
+      "horse_number": 10,
+      "odds": 5.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100260",
+      "horse_name": "エイブラムス",
+      "score": -0.05570818241329857,
+      "horse_number": 14,
+      "odds": 10.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102949",
+      "horse_name": "ツインビスケッツ",
+      "score": -0.14268530807527485,
+      "horse_number": 8,
+      "odds": 15.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106776",
+      "horse_name": "トゥピ",
+      "score": -0.14270171976789375,
+      "horse_number": 13,
+      "odds": 13.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101219",
+      "horse_name": "マフィン",
+      "score": -0.1864181170816691,
+      "horse_number": 4,
+      "odds": 20.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101258",
+      "horse_name": "コスモオピニオン",
+      "score": -0.241538069974694,
+      "horse_number": 7,
+      "odds": 17.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102794",
+      "horse_name": "スカンジナビア",
+      "score": -0.40992715546533964,
+      "horse_number": 1,
+      "odds": 44.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105779",
+      "horse_name": "レッドセニョール",
+      "score": -0.41161396713429843,
+      "horse_number": 5,
+      "odds": 31.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103967",
+      "horse_name": "グレイスオブゴッド",
+      "score": -0.4902286463750992,
+      "horse_number": 11,
+      "odds": 19.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017106722",
+      "horse_name": "サイモンルモンド",
+      "score": -0.49758142422830764,
+      "horse_number": 9,
+      "odds": 85.9
+    }
+  ]
+}

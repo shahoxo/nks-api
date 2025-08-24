@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2021105837",
       "horse_name": "レッドアトレーヴ",
-      "score": 0.2704295600363783,
+      "score": 0.33752522755687403,
       "horse_number": 7,
       "odds": 6.0
     },
@@ -16,65 +16,65 @@
       "rank": 2,
       "horse_id": "2021105255",
       "horse_name": "ハワイアンティアレ",
-      "score": 0.18339775150873389,
+      "score": 0.15473781024882044,
       "horse_number": 8,
       "odds": 13.8
     },
     {
       "rank": 3,
-      "horse_id": "2020103517",
-      "horse_name": "レッドシュヴェルト",
-      "score": 0.07702537002527916,
-      "horse_number": 16,
-      "odds": 7.6
-    },
-    {
-      "rank": 4,
-      "horse_id": "2020106900",
-      "horse_name": "アームテイル",
-      "score": 0.07312347905611068,
-      "horse_number": 3,
-      "odds": 14.0
-    },
-    {
-      "rank": 5,
       "horse_id": "2021104893",
       "horse_name": "ファーヴェント",
-      "score": 0.06420601855654218,
+      "score": 0.13542313858218746,
       "horse_number": 18,
       "odds": 5.5
     },
     {
-      "rank": 6,
-      "horse_id": "2020110081",
-      "horse_name": "テーオーグランビル",
-      "score": 0.017303401304592063,
-      "horse_number": 6,
-      "odds": 22.3
+      "rank": 4,
+      "horse_id": "2020103517",
+      "horse_name": "レッドシュヴェルト",
+      "score": 0.09450574119651575,
+      "horse_number": 16,
+      "odds": 7.6
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "horse_id": "2020106900",
+      "horse_name": "アームテイル",
+      "score": 0.07021049359835445,
+      "horse_number": 3,
+      "odds": 14.0
+    },
+    {
+      "rank": 6,
       "horse_id": "2020103688",
       "horse_name": "ダズリングブレイヴ",
-      "score": 0.013251543222395077,
+      "score": 0.06510531533442623,
       "horse_number": 13,
       "odds": 15.7
     },
     {
-      "rank": 8,
-      "horse_id": "2020103428",
-      "horse_name": "スイープアワーズ",
-      "score": -0.006851272834795079,
-      "horse_number": 9,
-      "odds": 13.7
+      "rank": 7,
+      "horse_id": "2020110081",
+      "horse_name": "テーオーグランビル",
+      "score": 0.02690818149940484,
+      "horse_number": 6,
+      "odds": 22.3
     },
     {
-      "rank": 9,
+      "rank": 8,
       "horse_id": "2020105203",
       "horse_name": "ウインアイオライト",
       "score": -0.026759172601081162,
       "horse_number": 2,
       "odds": 15.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103428",
+      "horse_name": "スイープアワーズ",
+      "score": -0.047555892407866486,
+      "horse_number": 9,
+      "odds": 13.7
     },
     {
       "rank": 10,
@@ -94,14 +94,6 @@
     },
     {
       "rank": 12,
-      "horse_id": "2020110133",
-      "horse_name": "フロムダスク",
-      "score": -0.2794284912999197,
-      "horse_number": 17,
-      "odds": 27.1
-    },
-    {
-      "rank": 13,
       "horse_id": "2020103373",
       "horse_name": "オープンファイア",
       "score": -0.28111213702090554,
@@ -109,7 +101,7 @@
       "odds": 29.3
     },
     {
-      "rank": 14,
+      "rank": 13,
       "horse_id": "2019104112",
       "horse_name": "メイショウウネビ",
       "score": -0.3279522458046503,
@@ -117,10 +109,18 @@
       "odds": 92.8
     },
     {
+      "rank": 14,
+      "horse_id": "2020110133",
+      "horse_name": "フロムダスク",
+      "score": -0.33197625769902417,
+      "horse_number": 17,
+      "odds": 27.1
+    },
+    {
       "rank": 15,
       "horse_id": "2021105601",
       "horse_name": "ショーマンフリート",
-      "score": -0.34840400774447755,
+      "score": -0.3454323970243296,
       "horse_number": 1,
       "odds": 60.7
     },
@@ -128,7 +128,7 @@
       "rank": 16,
       "horse_id": "2021103559",
       "horse_name": "オメガウインク",
-      "score": -0.35453524912336554,
+      "score": -0.3773860433120639,
       "horse_number": 5,
       "odds": 35.4
     },
