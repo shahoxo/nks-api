@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040212",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-07 16:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110020",
+      "horse_name": "ロジカルワーズ",
+      "score": 0.3355777517694428,
+      "horse_number": 5,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101402",
+      "horse_name": "キャナルクルーズ",
+      "score": 0.18483661135026017,
+      "horse_number": 9,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110037",
+      "horse_name": "フォルトレス",
+      "score": 0.1578589486518082,
+      "horse_number": 11,
+      "odds": 11.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104316",
+      "horse_name": "ユキノエミリオ",
+      "score": 0.15369873981693763,
+      "horse_number": 12,
+      "odds": 9.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103155",
+      "horse_name": "タイキオーベロン",
+      "score": 0.02448953624528334,
+      "horse_number": 16,
+      "odds": 20.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103325",
+      "horse_name": "カレンナオトメ",
+      "score": -0.04714240163314309,
+      "horse_number": 7,
+      "odds": 23.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100084",
+      "horse_name": "レッドカメリア",
+      "score": -0.20083784409269748,
+      "horse_number": 10,
+      "odds": 33.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104340",
+      "horse_name": "ハッピーパンニャ",
+      "score": -0.20713888482423962,
+      "horse_number": 15,
+      "odds": 21.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103030",
+      "horse_name": "グリームスター",
+      "score": -0.25484610722536294,
+      "horse_number": 1,
+      "odds": 47.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102749",
+      "horse_name": "ヴィヴァラリス",
+      "score": -0.306581748183829,
+      "horse_number": 13,
+      "odds": 53.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101464",
+      "horse_name": "レイユール",
+      "score": -0.35113541208335886,
+      "horse_number": 6,
+      "odds": 3.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103885",
+      "horse_name": "クリノゴッホ",
+      "score": -0.35235708574047064,
+      "horse_number": 8,
+      "odds": 28.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101587",
+      "horse_name": "クリアクォーツ",
+      "score": -0.41067438259628974,
+      "horse_number": 2,
+      "odds": 63.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105689",
+      "horse_name": "ヴァリアントマーチ",
+      "score": -0.42306597894755604,
+      "horse_number": 14,
+      "odds": 50.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101278",
+      "horse_name": "クラウンウルル",
+      "score": -0.5703027850675314,
+      "horse_number": 3,
+      "odds": 18.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020102269",
+      "horse_name": "ツィスカリーゼ",
+      "score": -0.6318373387288261,
+      "horse_number": 4,
+      "odds": 88.7
+    }
+  ]
+}

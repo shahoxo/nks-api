@@ -1,0 +1,104 @@
+{
+  "race_id": "202509040212",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-09-07 16:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104749",
+      "horse_name": "ソリスクラヴィス",
+      "score": 0.26282729101149765,
+      "horse_number": 11,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102493",
+      "horse_name": "トリリオンボーイ",
+      "score": 0.13581490744470234,
+      "horse_number": 2,
+      "odds": 15.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2018104030",
+      "horse_name": "ワーズワース",
+      "score": 0.09659095774114247,
+      "horse_number": 5,
+      "odds": 5.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104514",
+      "horse_name": "ハリウッドブルース",
+      "score": 0.09212430854418939,
+      "horse_number": 12,
+      "odds": 24.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103002",
+      "horse_name": "アラナコア",
+      "score": 0.0340137587533676,
+      "horse_number": 10,
+      "odds": 10.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105598",
+      "horse_name": "ダノンスウィッチ",
+      "score": -0.0006656133722046818,
+      "horse_number": 4,
+      "odds": 4.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100665",
+      "horse_name": "ジャスパーバローズ",
+      "score": -0.021166189945373948,
+      "horse_number": 3,
+      "odds": 36.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101023",
+      "horse_name": "アイファーバトル",
+      "score": -0.03369800432886796,
+      "horse_number": 7,
+      "odds": 42.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106699",
+      "horse_name": "ダイシンリンク",
+      "score": -0.13229457001531256,
+      "horse_number": 9,
+      "odds": 22.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104561",
+      "horse_name": "タイガースパーク",
+      "score": -0.21866086488335235,
+      "horse_number": 1,
+      "odds": 10.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104911",
+      "horse_name": "ルミッキ",
+      "score": -0.36142242276391806,
+      "horse_number": 6,
+      "odds": 37.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103088",
+      "horse_name": "ピックアップライン",
+      "score": -0.42865943304011556,
+      "horse_number": 8,
+      "odds": 11.2
+    }
+  ]
+}
