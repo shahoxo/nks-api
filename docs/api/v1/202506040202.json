@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040202",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-09-07 10:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104853",
+      "horse_name": "スターリーナイト",
+      "score": 0.4652065360050853,
+      "horse_number": 14,
+      "odds": 7.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105864",
+      "horse_name": "キアラメンテ",
+      "score": 0.4058250863509647,
+      "horse_number": 11,
+      "odds": 3.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104275",
+      "horse_name": "ノーブルライナー",
+      "score": 0.16105519541459734,
+      "horse_number": 7,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101315",
+      "horse_name": "スタンピー",
+      "score": 0.16105519541459734,
+      "horse_number": 9,
+      "odds": 4.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101467",
+      "horse_name": "レッドキリアン",
+      "score": 0.09320807922355283,
+      "horse_number": 1,
+      "odds": 13.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106326",
+      "horse_name": "ウィアステーラ",
+      "score": 0.029714406439486814,
+      "horse_number": 10,
+      "odds": 30.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103579",
+      "horse_name": "ノースタンダード",
+      "score": -0.05931968650504789,
+      "horse_number": 12,
+      "odds": 26.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105278",
+      "horse_name": "アリアルブラック",
+      "score": -0.10644384812004494,
+      "horse_number": 6,
+      "odds": 22.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100765",
+      "horse_name": "リケアキャンディ",
+      "score": -0.1115499352552972,
+      "horse_number": 8,
+      "odds": 29.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103144",
+      "horse_name": "タイキブライトン",
+      "score": -0.21311564137293432,
+      "horse_number": 3,
+      "odds": 14.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101898",
+      "horse_name": "ノブノリオウ",
+      "score": -0.27085332570498594,
+      "horse_number": 4,
+      "odds": 59.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022109084",
+      "horse_name": "ママアリガトー",
+      "score": -0.3718085110192141,
+      "horse_number": 5,
+      "odds": 30.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105781",
+      "horse_name": "バレドラパン",
+      "score": -0.3951772602184396,
+      "horse_number": 13,
+      "odds": 52.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104905",
+      "horse_name": "チリーゴールド",
+      "score": -0.3978957319839096,
+      "horse_number": 2,
+      "odds": 25.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104891",
+      "horse_name": "ダノンカローネ",
+      "score": -0.5165348854423936,
+      "horse_number": 15,
+      "odds": 97.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106435",
+      "horse_name": "オッスイレブン",
+      "score": -0.5201293139657402,
+      "horse_number": 16,
+      "odds": 111.4
+    }
+  ]
+}
