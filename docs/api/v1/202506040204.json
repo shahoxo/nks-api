@@ -1,0 +1,88 @@
+{
+  "race_id": "202506040204",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-09-07 11:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105362",
+      "horse_name": "ジャストマイウェイ",
+      "score": 0.28489696090367045,
+      "horse_number": 4,
+      "odds": 2.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104485",
+      "horse_name": "マイネルリーヒム",
+      "score": 0.061652229681361234,
+      "horse_number": 7,
+      "odds": 5.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106439",
+      "horse_name": "マイネルマスター",
+      "score": -0.0459734524262982,
+      "horse_number": 6,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106609",
+      "horse_name": "ユーゲットミー",
+      "score": -0.3650118996417733,
+      "horse_number": 3,
+      "odds": 16.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104487",
+      "horse_name": "アイドクレース",
+      "score": -0.43170083764693806,
+      "horse_number": 9,
+      "odds": 12.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103506",
+      "horse_name": "レイランディ",
+      "score": -0.45033524156023985,
+      "horse_number": 8,
+      "odds": 30.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106603",
+      "horse_name": "ハロングロットル",
+      "score": -0.5587930761583654,
+      "horse_number": 2,
+      "odds": 105.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104563",
+      "horse_name": "マイネルモンテュス",
+      "score": -0.5844092227108343,
+      "horse_number": 10,
+      "odds": 34.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106582",
+      "horse_name": "モリインビクタス",
+      "score": -0.703836440672674,
+      "horse_number": 5,
+      "odds": 8.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106452",
+      "horse_name": "コスモラムバック",
+      "score": -0.7212483613895885,
+      "horse_number": 1,
+      "odds": 39.9
+    }
+  ]
+}

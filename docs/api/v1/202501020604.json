@@ -1,0 +1,136 @@
+{
+  "race_id": "202501020604",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-09-07 11:25",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106835",
+      "horse_name": "セガンティーニ",
+      "score": 0.2796294354294116,
+      "horse_number": 3,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110035",
+      "horse_name": "サマースピリット",
+      "score": 0.2161905148214296,
+      "horse_number": 4,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100998",
+      "horse_name": "ジョーブラック",
+      "score": 0.21183911111050802,
+      "horse_number": 13,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100277",
+      "horse_name": "タイヨウノキセツ",
+      "score": 0.15861215701609716,
+      "horse_number": 8,
+      "odds": 4.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105119",
+      "horse_name": "ベルヴィヴァン",
+      "score": 0.09718160011550768,
+      "horse_number": 12,
+      "odds": 33.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103702",
+      "horse_name": "アイスヴィレッジ",
+      "score": 0.03907105068801771,
+      "horse_number": 2,
+      "odds": 15.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103899",
+      "horse_name": "グリフォン",
+      "score": 0.02504199093865161,
+      "horse_number": 10,
+      "odds": 16.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101198",
+      "horse_name": "シャオシンユン",
+      "score": -0.030084761863125038,
+      "horse_number": 11,
+      "odds": 5.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100538",
+      "horse_name": "リーサイェイ",
+      "score": -0.19256319635687638,
+      "horse_number": 14,
+      "odds": 87.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103530",
+      "horse_name": "ホウオウライダイ",
+      "score": -0.24449892731514367,
+      "horse_number": 1,
+      "odds": 31.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103199",
+      "horse_name": "アメリータ",
+      "score": -0.2868684351419368,
+      "horse_number": 15,
+      "odds": 77.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100129",
+      "horse_name": "ピースオブライツ",
+      "score": -0.33948319641646263,
+      "horse_number": 7,
+      "odds": 25.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104122",
+      "horse_name": "スカイダイバー",
+      "score": -0.3506086533532945,
+      "horse_number": 6,
+      "odds": 30.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102225",
+      "horse_name": "テーオーリップマン",
+      "score": -0.4291303994193456,
+      "horse_number": 16,
+      "odds": 171.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100836",
+      "horse_name": "ライラックダンサー",
+      "score": -0.47124464223308027,
+      "horse_number": 9,
+      "odds": 46.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103225",
+      "horse_name": "モモイロカタオモイ",
+      "score": -0.622384537432268,
+      "horse_number": 5,
+      "odds": 116.6
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202501020605",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-09-07 12:15",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102722",
+      "horse_name": "ドゥラエテルノ",
+      "score": 0.1980590057883433,
+      "horse_number": 8,
+      "odds": 4.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104969",
+      "horse_name": "ホウオウサムレット",
+      "score": 0.19522960098821993,
+      "horse_number": 13,
+      "odds": 3.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102713",
+      "horse_name": "エンジョイドライブ",
+      "score": 0.012078828832813415,
+      "horse_number": 5,
+      "odds": 7.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110061",
+      "horse_name": "ブレスドナイル",
+      "score": -0.10902446023850802,
+      "horse_number": 6,
+      "odds": 8.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110068",
+      "horse_name": "リドルトリガー",
+      "score": -0.13958285125909511,
+      "horse_number": 4,
+      "odds": 7.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104724",
+      "horse_name": "ハルフロンティア",
+      "score": -0.27124511888168645,
+      "horse_number": 12,
+      "odds": 17.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022110124",
+      "horse_name": "キャットデイ",
+      "score": -0.27180125756771367,
+      "horse_number": 3,
+      "odds": 39.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102860",
+      "horse_name": "エンドレスバンカー",
+      "score": -0.30093549894847094,
+      "horse_number": 7,
+      "odds": 47.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100368",
+      "horse_name": "ジーティーファラオ",
+      "score": -0.3307377999401627,
+      "horse_number": 2,
+      "odds": 11.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104486",
+      "horse_name": "アシャカルーク",
+      "score": -0.3951772602184396,
+      "horse_number": 10,
+      "odds": 17.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103575",
+      "horse_name": "ホウオウハナビ",
+      "score": -0.49364262464416697,
+      "horse_number": 11,
+      "odds": 45.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105092",
+      "horse_name": "ベレーザフィン",
+      "score": -0.5023712376217963,
+      "horse_number": 1,
+      "odds": 41.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103551",
+      "horse_name": "ボールドハーテッド",
+      "score": -0.5359135476892024,
+      "horse_number": 14,
+      "odds": 21.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104513",
+      "horse_name": "タマモスノーダンス",
+      "score": -0.6650915093414816,
+      "horse_number": 9,
+      "odds": 67.7
+    }
+  ]
+}

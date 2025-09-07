@@ -1,0 +1,136 @@
+{
+  "race_id": "202509040204",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-09-07 11:35",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105367",
+      "horse_name": "パイオニアスクエア",
+      "score": 0.48602968280716363,
+      "horse_number": 14,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102303",
+      "horse_name": "アスクコモンタレヴ",
+      "score": 0.1889030975844216,
+      "horse_number": 10,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105822",
+      "horse_name": "ヴォイスオブゼウス",
+      "score": 0.18779509969576996,
+      "horse_number": 4,
+      "odds": 10.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105759",
+      "horse_name": "アドラビーレ",
+      "score": 0.0974719617768548,
+      "horse_number": 15,
+      "odds": 14.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100626",
+      "horse_name": "フィオレストラーダ",
+      "score": 0.04297757857536828,
+      "horse_number": 9,
+      "odds": 9.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103748",
+      "horse_name": "キーチファイター",
+      "score": 0.02772828172374315,
+      "horse_number": 8,
+      "odds": 8.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105169",
+      "horse_name": "トロワヴァレー",
+      "score": -0.1117529872602911,
+      "horse_number": 11,
+      "odds": 5.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105814",
+      "horse_name": "サイモンノーブル",
+      "score": -0.11478488181380313,
+      "horse_number": 2,
+      "odds": 12.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105360",
+      "horse_name": "アロガントシェイム",
+      "score": -0.17045464598110344,
+      "horse_number": 7,
+      "odds": 20.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102407",
+      "horse_name": "ルージュサンセール",
+      "score": -0.2295892902708157,
+      "horse_number": 12,
+      "odds": 30.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105851",
+      "horse_name": "ホースワン",
+      "score": -0.2587801072748327,
+      "horse_number": 16,
+      "odds": 62.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102961",
+      "horse_name": "シックスパック",
+      "score": -0.27971111724264186,
+      "horse_number": 1,
+      "odds": 33.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105446",
+      "horse_name": "マットーネロッソ",
+      "score": -0.2838657665187127,
+      "horse_number": 3,
+      "odds": 16.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100525",
+      "horse_name": "オゴオゴ",
+      "score": -0.37357602571599036,
+      "horse_number": 5,
+      "odds": 32.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103050",
+      "horse_name": "キングベル",
+      "score": -0.4182508373997982,
+      "horse_number": 13,
+      "odds": 48.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102609",
+      "horse_name": "ジュリアナガール",
+      "score": -0.503907160160415,
+      "horse_number": 6,
+      "odds": 103.7
+    }
+  ]
+}
