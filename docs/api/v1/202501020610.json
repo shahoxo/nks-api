@@ -1,0 +1,120 @@
+{
+  "race_id": "202501020610",
+  "race_name": "HTB賞",
+  "race_time": "2025-09-07 14:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104784",
+      "horse_name": "ルクスジニア",
+      "score": 0.12644940559030354,
+      "horse_number": 4,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105144",
+      "horse_name": "トレミニョン",
+      "score": 0.08305232566478891,
+      "horse_number": 13,
+      "odds": 22.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101485",
+      "horse_name": "カテリーナ",
+      "score": 0.043824844613561086,
+      "horse_number": 6,
+      "odds": 5.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106793",
+      "horse_name": "コスモアンソロジー",
+      "score": 0.011231927982529456,
+      "horse_number": 1,
+      "odds": 8.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104590",
+      "horse_name": "ショウナンバルドル",
+      "score": -0.01797179125612624,
+      "horse_number": 5,
+      "odds": 7.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105777",
+      "horse_name": "ドゥカート",
+      "score": -0.02066445470563604,
+      "horse_number": 3,
+      "odds": 11.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106811",
+      "horse_name": "タイキラフター",
+      "score": -0.03034351030389379,
+      "horse_number": 12,
+      "odds": 10.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106827",
+      "horse_name": "マイネルバーテクス",
+      "score": -0.0589109077645637,
+      "horse_number": 7,
+      "odds": 44.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101337",
+      "horse_name": "コスモアバンサ",
+      "score": -0.08438020016369317,
+      "horse_number": 9,
+      "odds": 23.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021107085",
+      "horse_name": "ウインアクトゥール",
+      "score": -0.1452088716659733,
+      "horse_number": 8,
+      "odds": 10.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105018",
+      "horse_name": "バルティカ",
+      "score": -0.21795359141417647,
+      "horse_number": 14,
+      "odds": 28.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104167",
+      "horse_name": "エイムフォーエース",
+      "score": -0.3784839258175644,
+      "horse_number": 10,
+      "odds": 20.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103158",
+      "horse_name": "セイウンガレオン",
+      "score": -0.5064975027510035,
+      "horse_number": 2,
+      "odds": 41.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101284",
+      "horse_name": "ルクスドヌーヴ",
+      "score": -0.5786317696138015,
+      "horse_number": 11,
+      "odds": 112.3
+    }
+  ]
+}

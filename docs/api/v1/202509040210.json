@@ -1,0 +1,104 @@
+{
+  "race_id": "202509040210",
+  "race_name": "オークランド",
+  "race_time": "2025-09-07 15:01",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110081",
+      "horse_name": "テーオーエルビス",
+      "score": 0.3293060853503217,
+      "horse_number": 5,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106658",
+      "horse_name": "ストレングス",
+      "score": 0.23025527399480572,
+      "horse_number": 2,
+      "odds": 7.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102718",
+      "horse_name": "ノボリショウリュウ",
+      "score": 0.15196596356335396,
+      "horse_number": 1,
+      "odds": 11.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103061",
+      "horse_name": "ムーム",
+      "score": 0.08096550814058265,
+      "horse_number": 7,
+      "odds": 6.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105625",
+      "horse_name": "ローズバルサム",
+      "score": 0.03657110581060152,
+      "horse_number": 4,
+      "odds": 35.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019104660",
+      "horse_name": "フラップシグナス",
+      "score": -0.08363256327200361,
+      "horse_number": 6,
+      "odds": 87.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105929",
+      "horse_name": "スターペスカオリ",
+      "score": -0.10189598428591569,
+      "horse_number": 12,
+      "odds": 69.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019101055",
+      "horse_name": "カネコメシスター",
+      "score": -0.19206666848685014,
+      "horse_number": 11,
+      "odds": 76.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104169",
+      "horse_name": "メイショウタイゲイ",
+      "score": -0.2307061712503291,
+      "horse_number": 9,
+      "odds": 23.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018104332",
+      "horse_name": "タマモダイジョッキ",
+      "score": -0.2307061712503291,
+      "horse_number": 3,
+      "odds": 30.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103214",
+      "horse_name": "ネグレスコ",
+      "score": -0.28068369633954243,
+      "horse_number": 10,
+      "odds": 9.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104260",
+      "horse_name": "メイショウクリフト",
+      "score": -0.46468391856818647,
+      "horse_number": 8,
+      "odds": 41.6
+    }
+  ]
+}

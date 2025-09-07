@@ -10,7 +10,7 @@
       "horse_name": "ワンダーカモン",
       "score": 0.12903436408717966,
       "horse_number": 14,
-      "odds": 13.0
+      "odds": 13.8
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "オンザスクエア",
       "score": 0.08362003831870034,
       "horse_number": 5,
-      "odds": 5.6
+      "odds": 4.1
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "トーセンサウダージ",
       "score": -0.012060737423087203,
       "horse_number": 4,
-      "odds": 8.6
+      "odds": 7.3
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "チュウワクリスエス",
       "score": -0.10352774827904475,
       "horse_number": 13,
-      "odds": 4.8
+      "odds": 4.7
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "エンプレスフレーム",
       "score": -0.10486293596477139,
       "horse_number": 10,
-      "odds": 6.3
+      "odds": 5.1
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "メイショウタムシバ",
       "score": -0.18705078070299372,
       "horse_number": 6,
-      "odds": 10.2
+      "odds": 8.6
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "アイウィル",
       "score": -0.23743700146822255,
       "horse_number": 1,
-      "odds": 18.6
+      "odds": 24.4
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "アースイオス",
       "score": -0.24362258037794404,
       "horse_number": 8,
-      "odds": 35.9
+      "odds": 45.9
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "エイブラムス",
       "score": -0.2979499152082339,
       "horse_number": 2,
-      "odds": 9.1
+      "odds": 17.6
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "ブルーペクトライト",
       "score": -0.3067009292159538,
       "horse_number": 7,
-      "odds": 46.0
+      "odds": 67.0
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "クリノグローリー",
       "score": -0.3471440514208072,
       "horse_number": 12,
-      "odds": 20.5
+      "odds": 31.4
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "トゥルブレンシア",
       "score": -0.3495488196315868,
       "horse_number": 11,
-      "odds": 25.0
+      "odds": 35.3
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "メジャーデビュー",
       "score": -0.4342783310646978,
       "horse_number": 3,
-      "odds": 9.6
+      "odds": 12.8
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "サヴァビアン",
       "score": -0.5970618435386312,
       "horse_number": 9,
-      "odds": 81.5
+      "odds": 124.5
     }
   ]
 }
