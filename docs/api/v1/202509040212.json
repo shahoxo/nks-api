@@ -10,7 +10,7 @@
       "horse_name": "ソリスクラヴィス",
       "score": 0.26282729101149765,
       "horse_number": 11,
-      "odds": 3.0
+      "odds": 2.4
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "トリリオンボーイ",
       "score": 0.13581490744470234,
       "horse_number": 2,
-      "odds": 15.6
+      "odds": 10.0
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "ワーズワース",
       "score": 0.09659095774114247,
       "horse_number": 5,
-      "odds": 5.3
+      "odds": 3.7
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "ハリウッドブルース",
       "score": 0.09212430854418939,
       "horse_number": 12,
-      "odds": 24.2
+      "odds": 39.5
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "アラナコア",
       "score": 0.0340137587533676,
       "horse_number": 10,
-      "odds": 10.1
+      "odds": 16.6
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "ダノンスウィッチ",
       "score": -0.0006656133722046818,
       "horse_number": 4,
-      "odds": 4.4
+      "odds": 7.5
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "ジャスパーバローズ",
       "score": -0.021166189945373948,
       "horse_number": 3,
-      "odds": 36.7
+      "odds": 35.8
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "アイファーバトル",
       "score": -0.03369800432886796,
       "horse_number": 7,
-      "odds": 42.5
+      "odds": 52.7
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "ダイシンリンク",
       "score": -0.13229457001531256,
       "horse_number": 9,
-      "odds": 22.2
+      "odds": 30.4
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "タイガースパーク",
       "score": -0.21866086488335235,
       "horse_number": 1,
-      "odds": 10.3
+      "odds": 14.3
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "ルミッキ",
       "score": -0.36142242276391806,
       "horse_number": 6,
-      "odds": 37.0
+      "odds": 53.2
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "ピックアップライン",
       "score": -0.42865943304011556,
       "horse_number": 8,
-      "odds": 11.2
+      "odds": 10.4
     }
   ]
 }

@@ -8,31 +8,31 @@
       "rank": 1,
       "horse_id": "2021110020",
       "horse_name": "ロジカルワーズ",
-      "score": 0.3355777517694428,
+      "score": 0.38449126539793055,
       "horse_number": 5,
       "odds": 3.5
     },
     {
       "rank": 2,
-      "horse_id": "2022101402",
-      "horse_name": "キャナルクルーズ",
-      "score": 0.18483661135026017,
-      "horse_number": 9,
-      "odds": 5.4
+      "horse_id": "2022110037",
+      "horse_name": "フォルトレス",
+      "score": 0.2612806498636661,
+      "horse_number": 11,
+      "odds": 11.4
     },
     {
       "rank": 3,
-      "horse_id": "2022110037",
-      "horse_name": "フォルトレス",
-      "score": 0.1578589486518082,
-      "horse_number": 11,
-      "odds": 11.4
+      "horse_id": "2022101402",
+      "horse_name": "キャナルクルーズ",
+      "score": 0.17545536711278895,
+      "horse_number": 9,
+      "odds": 5.4
     },
     {
       "rank": 4,
       "horse_id": "2022104316",
       "horse_name": "ユキノエミリオ",
-      "score": 0.15369873981693763,
+      "score": 0.13751601829147647,
       "horse_number": 12,
       "odds": 9.6
     },
@@ -48,25 +48,25 @@
       "rank": 6,
       "horse_id": "2021103325",
       "horse_name": "カレンナオトメ",
-      "score": -0.04714240163314309,
+      "score": -0.11638844513875037,
       "horse_number": 7,
       "odds": 23.0
     },
     {
       "rank": 7,
+      "horse_id": "2020104340",
+      "horse_name": "ハッピーパンニャ",
+      "score": -0.19444220047214728,
+      "horse_number": 15,
+      "odds": 21.5
+    },
+    {
+      "rank": 8,
       "horse_id": "2020100084",
       "horse_name": "レッドカメリア",
       "score": -0.20083784409269748,
       "horse_number": 10,
       "odds": 33.9
-    },
-    {
-      "rank": 8,
-      "horse_id": "2020104340",
-      "horse_name": "ハッピーパンニャ",
-      "score": -0.20713888482423962,
-      "horse_number": 15,
-      "odds": 21.5
     },
     {
       "rank": 9,
@@ -80,25 +80,25 @@
       "rank": 10,
       "horse_id": "2022102749",
       "horse_name": "ヴィヴァラリス",
-      "score": -0.306581748183829,
+      "score": -0.3447022395600017,
       "horse_number": 13,
       "odds": 53.0
     },
     {
       "rank": 11,
-      "horse_id": "2022101464",
-      "horse_name": "レイユール",
-      "score": -0.35113541208335886,
-      "horse_number": 6,
-      "odds": 3.9
-    },
-    {
-      "rank": 12,
       "horse_id": "2020103885",
       "horse_name": "クリノゴッホ",
       "score": -0.35235708574047064,
       "horse_number": 8,
       "odds": 28.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101464",
+      "horse_name": "レイユール",
+      "score": -0.37398620627205714,
+      "horse_number": 6,
+      "odds": 3.9
     },
     {
       "rank": 13,
