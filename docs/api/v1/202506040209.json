@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040209",
+  "race_name": "浦安特別",
+  "race_time": "2025-09-07 14:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100899",
+      "horse_name": "ビッグドリーム",
+      "score": 0.3234980865342395,
+      "horse_number": 14,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106261",
+      "horse_name": "タッカージーティー",
+      "score": 0.15705147849514767,
+      "horse_number": 4,
+      "odds": 6.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103711",
+      "horse_name": "ロサンゼルス",
+      "score": 0.13725173665059318,
+      "horse_number": 5,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105429",
+      "horse_name": "アグラード",
+      "score": 0.04994988555811255,
+      "horse_number": 16,
+      "odds": 11.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101241",
+      "horse_name": "ランタナヒルズ",
+      "score": 0.0034884113131231015,
+      "horse_number": 13,
+      "odds": 30.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103876",
+      "horse_name": "モンドプリューム",
+      "score": -0.007946933658729047,
+      "horse_number": 15,
+      "odds": 5.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102790",
+      "horse_name": "カネショウレジェン",
+      "score": -0.05405498737915117,
+      "horse_number": 12,
+      "odds": 6.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020107095",
+      "horse_name": "メモリーグラス",
+      "score": -0.09059092846734798,
+      "horse_number": 11,
+      "odds": 29.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104676",
+      "horse_name": "マイレーヌ",
+      "score": -0.10915042348823767,
+      "horse_number": 3,
+      "odds": 84.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019102186",
+      "horse_name": "オーロラアーク",
+      "score": -0.1533280841467777,
+      "horse_number": 7,
+      "odds": 49.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106805",
+      "horse_name": "マイネルディレクト",
+      "score": -0.24216275218145625,
+      "horse_number": 8,
+      "odds": 28.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103000",
+      "horse_name": "ヴァルドルチャ",
+      "score": -0.25961358817725233,
+      "horse_number": 9,
+      "odds": 13.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019101351",
+      "horse_name": "セキテイオー",
+      "score": -0.5129184402660855,
+      "horse_number": 10,
+      "odds": 50.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100639",
+      "horse_name": "サイモンギフト",
+      "score": -0.533595420936236,
+      "horse_number": 1,
+      "odds": 79.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106353",
+      "horse_name": "リリージェーン",
+      "score": -0.5488449115467254,
+      "horse_number": 2,
+      "odds": 45.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019103887",
+      "horse_name": "シックザイン",
+      "score": -0.6318373387288261,
+      "horse_number": 6,
+      "odds": 155.6
+    }
+  ]
+}

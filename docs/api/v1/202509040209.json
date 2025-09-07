@@ -1,0 +1,112 @@
+{
+  "race_id": "202509040209",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-07 14:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103991",
+      "horse_name": "ジーティーエスピ",
+      "score": 0.3318350944299643,
+      "horse_number": 10,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104648",
+      "horse_name": "フランクスピード",
+      "score": 0.2377753435899489,
+      "horse_number": 6,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105098",
+      "horse_name": "ディーエストッキー",
+      "score": 0.11390730206366975,
+      "horse_number": 8,
+      "odds": 10.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100357",
+      "horse_name": "デボラ",
+      "score": 0.040277689623839964,
+      "horse_number": 2,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102433",
+      "horse_name": "アートフォーム",
+      "score": -0.038462017367783034,
+      "horse_number": 11,
+      "odds": 36.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100791",
+      "horse_name": "ブラックケリー",
+      "score": -0.0734546736812243,
+      "horse_number": 7,
+      "odds": 6.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102465",
+      "horse_name": "ブライティアブーケ",
+      "score": -0.14411556876750956,
+      "horse_number": 1,
+      "odds": 7.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103750",
+      "horse_name": "スピリットライズ",
+      "score": -0.16234811741708424,
+      "horse_number": 5,
+      "odds": 19.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103057",
+      "horse_name": "メイショウタザワコ",
+      "score": -0.24497306217304474,
+      "horse_number": 12,
+      "odds": 36.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100583",
+      "horse_name": "レディエンス",
+      "score": -0.3864505444160705,
+      "horse_number": 9,
+      "odds": 42.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106915",
+      "horse_name": "セサンパ",
+      "score": -0.4603333704442626,
+      "horse_number": 3,
+      "odds": 29.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106438",
+      "horse_name": "タマモブラウンタイ",
+      "score": -0.5400730144379176,
+      "horse_number": 13,
+      "odds": 22.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104082",
+      "horse_name": "アーチボールド",
+      "score": -0.6508542296343173,
+      "horse_number": 4,
+      "odds": 197.0
+    }
+  ]
+}

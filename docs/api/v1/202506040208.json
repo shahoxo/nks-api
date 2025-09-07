@@ -14,19 +14,19 @@
     },
     {
       "rank": 2,
-      "horse_id": "2022103708",
-      "horse_name": "ロンパイア",
-      "score": 0.12620066519465808,
-      "horse_number": 14,
-      "odds": 9.1
+      "horse_id": "2022105556",
+      "horse_name": "ラストレガシー",
+      "score": 0.2130904043756889,
+      "horse_number": 2,
+      "odds": 3.8
     },
     {
       "rank": 3,
-      "horse_id": "2022105556",
-      "horse_name": "ラストレガシー",
-      "score": 0.12228927276967902,
-      "horse_number": 2,
-      "odds": 3.8
+      "horse_id": "2022103708",
+      "horse_name": "ロンパイア",
+      "score": 0.13889734954675045,
+      "horse_number": 14,
+      "odds": 9.1
     },
     {
       "rank": 4,
@@ -46,14 +46,6 @@
     },
     {
       "rank": 6,
-      "horse_id": "2021103342",
-      "horse_name": "カルフ",
-      "score": -0.3930662454936853,
-      "horse_number": 8,
-      "odds": 70.3
-    },
-    {
-      "rank": 7,
       "horse_id": "2022105824",
       "horse_name": "フィーチャリング",
       "score": -0.4011148344965171,
@@ -61,10 +53,18 @@
       "odds": 10.0
     },
     {
+      "rank": 7,
+      "horse_id": "2021103342",
+      "horse_name": "カルフ",
+      "score": -0.4093449899432179,
+      "horse_number": 8,
+      "odds": 70.3
+    },
+    {
       "rank": 8,
       "horse_id": "2021100328",
       "horse_name": "グリントリッター",
-      "score": -0.4476126703991108,
+      "score": -0.46621248389855285,
       "horse_number": 9,
       "odds": 32.9
     },
