@@ -1,0 +1,112 @@
+{
+  "race_id": "202506040210",
+  "race_name": "セプテンバー",
+  "race_time": "2025-09-07 15:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110014",
+      "horse_name": "マックアルイーン",
+      "score": 0.42100289173491867,
+      "horse_number": 2,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102434",
+      "horse_name": "ルージュラナキラ",
+      "score": 0.13420303297758374,
+      "horse_number": 6,
+      "odds": 7.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101654",
+      "horse_name": "トーラスシャイン",
+      "score": 0.03804495979089115,
+      "horse_number": 3,
+      "odds": 8.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020110039",
+      "horse_name": "ユハンヌス",
+      "score": -0.040001394523789674,
+      "horse_number": 10,
+      "odds": 21.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104194",
+      "horse_name": "ルーフ",
+      "score": -0.08693276185437326,
+      "horse_number": 9,
+      "odds": 9.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100157",
+      "horse_name": "ロードトレイル",
+      "score": -0.15297744778272412,
+      "horse_number": 4,
+      "odds": 22.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105242",
+      "horse_name": "シカゴスティング",
+      "score": -0.17367940032821397,
+      "horse_number": 7,
+      "odds": 13.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102761",
+      "horse_name": "グレタ",
+      "score": -0.21481354521712356,
+      "horse_number": 13,
+      "odds": 63.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018103926",
+      "horse_name": "ショウナンラスボス",
+      "score": -0.3139316632027166,
+      "horse_number": 5,
+      "odds": 42.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104613",
+      "horse_name": "タツダイヤモンド",
+      "score": -0.34562414952810594,
+      "horse_number": 12,
+      "odds": 83.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104088",
+      "horse_name": "ランドオブラヴ",
+      "score": -0.37120297434912314,
+      "horse_number": 8,
+      "odds": 13.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102299",
+      "horse_name": "アシャカタカ",
+      "score": -0.5336501376088142,
+      "horse_number": 1,
+      "odds": 19.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019107016",
+      "horse_name": "ウナギノボリ",
+      "score": -0.5469380119107339,
+      "horse_number": 11,
+      "odds": 63.9
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202501020611",
+  "race_name": "丹頂S",
+  "race_time": "2025-09-07 15:25",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105104",
+      "horse_name": "サンライズソレイユ",
+      "score": 0.10053527176818844,
+      "horse_number": 11,
+      "odds": 11.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020105798",
+      "horse_name": "マイネルカンパーナ",
+      "score": 0.08644838419142244,
+      "horse_number": 12,
+      "odds": 8.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104427",
+      "horse_name": "ランスオブクイーン",
+      "score": 0.0836342060210873,
+      "horse_number": 9,
+      "odds": 6.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106909",
+      "horse_name": "ゴールデンスナップ",
+      "score": 0.06953509323121027,
+      "horse_number": 6,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2018104638",
+      "horse_name": "ミステリーウェイ",
+      "score": 0.04043647085456918,
+      "horse_number": 7,
+      "odds": 14.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105656",
+      "horse_name": "フルール",
+      "score": -0.048622944469124865,
+      "horse_number": 2,
+      "odds": 6.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019103888",
+      "horse_name": "エンドウノハナ",
+      "score": -0.056508950374976316,
+      "horse_number": 10,
+      "odds": 15.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102873",
+      "horse_name": "キミノナハマリア",
+      "score": -0.24028841105289675,
+      "horse_number": 5,
+      "odds": 10.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103111",
+      "horse_name": "アスターブジエ",
+      "score": -0.31625742355775804,
+      "horse_number": 1,
+      "odds": 19.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019101507",
+      "horse_name": "ディナースタ",
+      "score": -0.3447496790136134,
+      "horse_number": 8,
+      "odds": 22.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2016102175",
+      "horse_name": "ダンディズム",
+      "score": -0.4089411292516698,
+      "horse_number": 3,
+      "odds": 24.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100254",
+      "horse_name": "ニシノレヴナント",
+      "score": -0.5144145684863236,
+      "horse_number": 4,
+      "odds": 12.1
+    }
+  ]
+}
