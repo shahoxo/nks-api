@@ -1,0 +1,136 @@
+{
+  "race_id": "202501020608",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-07 13:45",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104998",
+      "horse_name": "ブルーアイドガール",
+      "score": 0.22668056260526337,
+      "horse_number": 15,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104197",
+      "horse_name": "カウンターセブン",
+      "score": 0.2210657374111017,
+      "horse_number": 3,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105398",
+      "horse_name": "セゾンデフィーユ",
+      "score": 0.16019354910074307,
+      "horse_number": 10,
+      "odds": 12.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020100707",
+      "horse_name": "クレセントウイング",
+      "score": 0.11547343219899235,
+      "horse_number": 12,
+      "odds": 13.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106320",
+      "horse_name": "ルブリアン",
+      "score": 0.06240895746374568,
+      "horse_number": 1,
+      "odds": 29.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101039",
+      "horse_name": "オーケーダイナ",
+      "score": 0.054159708318612956,
+      "horse_number": 7,
+      "odds": 14.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101259",
+      "horse_name": "ショウナンマリーナ",
+      "score": -0.02755449705096687,
+      "horse_number": 4,
+      "odds": 24.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102993",
+      "horse_name": "ヒラボクカレラ",
+      "score": -0.05343607184655272,
+      "horse_number": 9,
+      "odds": 8.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102717",
+      "horse_name": "ジャグアール",
+      "score": -0.329057545906753,
+      "horse_number": 16,
+      "odds": 68.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105312",
+      "horse_name": "ルージュレベッカ",
+      "score": -0.33041477720430473,
+      "horse_number": 13,
+      "odds": 30.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102312",
+      "horse_name": "ストレイトアスク",
+      "score": -0.34241415611793125,
+      "horse_number": 11,
+      "odds": 32.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103039",
+      "horse_name": "スネーフリンガ",
+      "score": -0.40256991181861823,
+      "horse_number": 14,
+      "odds": 7.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106224",
+      "horse_name": "ウインアリス",
+      "score": -0.4908696235031679,
+      "horse_number": 6,
+      "odds": 48.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104415",
+      "horse_name": "スピニングマーリン",
+      "score": -0.5400784528428353,
+      "horse_number": 2,
+      "odds": 94.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103755",
+      "horse_name": "ジーティーエンジン",
+      "score": -0.5672749854715552,
+      "horse_number": 8,
+      "odds": 106.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103192",
+      "horse_name": "オイランブチ",
+      "score": -0.5907216745266844,
+      "horse_number": 5,
+      "odds": 56.3
+    }
+  ]
+}

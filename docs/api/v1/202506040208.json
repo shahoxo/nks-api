@@ -1,0 +1,128 @@
+{
+  "race_id": "202506040208",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-07 14:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105198",
+      "horse_name": "ヘリオトロープ",
+      "score": 0.4042322150269938,
+      "horse_number": 11,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103708",
+      "horse_name": "ロンパイア",
+      "score": 0.12620066519465808,
+      "horse_number": 14,
+      "odds": 9.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105556",
+      "horse_name": "ラストレガシー",
+      "score": 0.12228927276967902,
+      "horse_number": 2,
+      "odds": 3.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101814",
+      "horse_name": "ナムラジミー",
+      "score": -0.12566838016555004,
+      "horse_number": 5,
+      "odds": 27.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101195",
+      "horse_name": "コーリンカルベラ",
+      "score": -0.2348820267407734,
+      "horse_number": 6,
+      "odds": 33.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103342",
+      "horse_name": "カルフ",
+      "score": -0.3930662454936853,
+      "horse_number": 8,
+      "odds": 70.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105824",
+      "horse_name": "フィーチャリング",
+      "score": -0.4011148344965171,
+      "horse_number": 4,
+      "odds": 10.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100328",
+      "horse_name": "グリントリッター",
+      "score": -0.4476126703991108,
+      "horse_number": 9,
+      "odds": 32.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104135",
+      "horse_name": "トルズイーガー",
+      "score": -0.46840152377575983,
+      "horse_number": 15,
+      "odds": 61.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102058",
+      "horse_name": "スマートクオーレ",
+      "score": -0.49181324890504685,
+      "horse_number": 13,
+      "odds": 34.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106070",
+      "horse_name": "ブリスフル",
+      "score": -0.5520003421025013,
+      "horse_number": 1,
+      "odds": 72.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106057",
+      "horse_name": "タニセンドリーム",
+      "score": -0.5939243532281903,
+      "horse_number": 12,
+      "odds": 18.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021110138",
+      "horse_name": "グランエシェゾー",
+      "score": -0.5970618435386312,
+      "horse_number": 3,
+      "odds": 136.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102229",
+      "horse_name": "グラスビジョン",
+      "score": -0.6318373387288261,
+      "horse_number": 10,
+      "odds": 90.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102148",
+      "horse_name": "サウンドバッハ",
+      "score": -0.6997242947219148,
+      "horse_number": 7,
+      "odds": 117.5
+    }
+  ]
+}

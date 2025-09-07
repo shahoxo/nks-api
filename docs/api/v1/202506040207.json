@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2022101660",
       "horse_name": "タッチダウン",
-      "score": 0.17810148135024956,
+      "score": 0.1756395171511711,
       "horse_number": 14,
       "odds": 5.8
     },
@@ -46,27 +46,27 @@
     },
     {
       "rank": 6,
+      "horse_id": "2022109023",
+      "horse_name": "ブルンツヴィーク",
+      "score": -0.1256779698486459,
+      "horse_number": 2,
+      "odds": 24.7
+    },
+    {
+      "rank": 7,
       "horse_id": "2022103526",
       "horse_name": "ホウオウブライツ",
-      "score": -0.13786784469205934,
+      "score": -0.13489623397191147,
       "horse_number": 5,
       "odds": 9.6
     },
     {
-      "rank": 7,
+      "rank": 8,
       "horse_id": "2022102237",
       "horse_name": "ダイメイナガス",
       "score": -0.16372899233990518,
       "horse_number": 8,
       "odds": 12.8
-    },
-    {
-      "rank": 8,
-      "horse_id": "2022109023",
-      "horse_name": "ブルンツヴィーク",
-      "score": -0.16886784957674286,
-      "horse_number": 2,
-      "odds": 24.7
     },
     {
       "rank": 9,
@@ -96,7 +96,7 @@
       "rank": 12,
       "horse_id": "2022102832",
       "horse_name": "ヤマタケトップガン",
-      "score": -0.6019904973327082,
+      "score": -0.5727819223744657,
       "horse_number": 4,
       "odds": 110.8
     },

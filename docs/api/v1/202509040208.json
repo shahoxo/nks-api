@@ -1,0 +1,48 @@
+{
+  "race_id": "202509040208",
+  "race_name": "武田尾特別",
+  "race_time": "2025-09-07 13:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101603",
+      "horse_name": "ナイトスラッガー",
+      "score": 0.46563219978733844,
+      "horse_number": 4,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104145",
+      "horse_name": "インヴォーグ",
+      "score": 0.1802026842628301,
+      "horse_number": 3,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020106399",
+      "horse_name": "ユメハハテシナク",
+      "score": -0.25396279536067373,
+      "horse_number": 2,
+      "odds": 12.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019103742",
+      "horse_name": "ムガ",
+      "score": -0.2979261888709034,
+      "horse_number": 5,
+      "odds": 6.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019105544",
+      "horse_name": "レッドベルアーム",
+      "score": -0.3820671241462154,
+      "horse_number": 1,
+      "odds": 8.2
+    }
+  ]
+}
