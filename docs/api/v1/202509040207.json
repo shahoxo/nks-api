@@ -1,0 +1,80 @@
+{
+  "race_id": "202509040207",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-07 13:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102123",
+      "horse_name": "モズカトレア",
+      "score": 0.26772855352559,
+      "horse_number": 4,
+      "odds": 9.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102710",
+      "horse_name": "エイユーファイヤー",
+      "score": 0.06274961361529953,
+      "horse_number": 2,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105695",
+      "horse_name": "ディニテ",
+      "score": 0.053344374408402916,
+      "horse_number": 3,
+      "odds": 11.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105583",
+      "horse_name": "ストーンズ",
+      "score": 0.008696389763508824,
+      "horse_number": 5,
+      "odds": 2.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106617",
+      "horse_name": "サルタール",
+      "score": -0.0031531041205382733,
+      "horse_number": 9,
+      "odds": 9.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021107052",
+      "horse_name": "マテンロウノカゼ",
+      "score": -0.23828308848795607,
+      "horse_number": 7,
+      "odds": 12.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105857",
+      "horse_name": "サーティファイド",
+      "score": -0.5714169627056976,
+      "horse_number": 8,
+      "odds": 56.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101585",
+      "horse_name": "パワーアイガー",
+      "score": -0.6533614053964997,
+      "horse_number": 6,
+      "odds": 52.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105889",
+      "horse_name": "ミッドナイトホーク",
+      "score": -0.6546627932857848,
+      "horse_number": 1,
+      "odds": 18.8
+    }
+  ]
+}

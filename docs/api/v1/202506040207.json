@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040207",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-09-07 13:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101660",
+      "horse_name": "タッチダウン",
+      "score": 0.17810148135024956,
+      "horse_number": 14,
+      "odds": 5.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100105",
+      "horse_name": "タッカーバリアント",
+      "score": 0.08096490927472554,
+      "horse_number": 9,
+      "odds": 10.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106471",
+      "horse_name": "キタノライブリー",
+      "score": 0.019674591144808455,
+      "horse_number": 16,
+      "odds": 2.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106302",
+      "horse_name": "フェスティヴルキナ",
+      "score": -0.0481928379469629,
+      "horse_number": 3,
+      "odds": 33.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103932",
+      "horse_name": "キャンディブーケ",
+      "score": -0.10212822298618282,
+      "horse_number": 6,
+      "odds": 12.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103526",
+      "horse_name": "ホウオウブライツ",
+      "score": -0.13786784469205934,
+      "horse_number": 5,
+      "odds": 9.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102237",
+      "horse_name": "ダイメイナガス",
+      "score": -0.16372899233990518,
+      "horse_number": 8,
+      "odds": 12.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022109023",
+      "horse_name": "ブルンツヴィーク",
+      "score": -0.16886784957674286,
+      "horse_number": 2,
+      "odds": 24.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102937",
+      "horse_name": "アオイハナミチ",
+      "score": -0.354337199378263,
+      "horse_number": 15,
+      "odds": 6.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103369",
+      "horse_name": "ベルレオーネ",
+      "score": -0.4642094906577303,
+      "horse_number": 13,
+      "odds": 19.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100278",
+      "horse_name": "ハーレムシャフル",
+      "score": -0.5681019979501689,
+      "horse_number": 11,
+      "odds": 43.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102832",
+      "horse_name": "ヤマタケトップガン",
+      "score": -0.6019904973327082,
+      "horse_number": 4,
+      "odds": 110.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100958",
+      "horse_name": "マミーブルー",
+      "score": -0.6139034835592895,
+      "horse_number": 10,
+      "odds": 88.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104139",
+      "horse_name": "ロベルタカリーナ",
+      "score": -0.6512286197002828,
+      "horse_number": 7,
+      "odds": 40.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105357",
+      "horse_name": "ケノファニース",
+      "score": -0.6518943205472477,
+      "horse_number": 12,
+      "odds": 106.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106268",
+      "horse_name": "イタリックタイプ",
+      "score": -0.7560238565797833,
+      "horse_number": 1,
+      "odds": 118.0
+    }
+  ]
+}

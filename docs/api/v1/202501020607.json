@@ -1,0 +1,112 @@
+{
+  "race_id": "202501020607",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-07 13:15",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105577",
+      "horse_name": "ダイヤモンドレイン",
+      "score": 0.1430392767603374,
+      "horse_number": 6,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102802",
+      "horse_name": "イリスレーン",
+      "score": -0.01863615956705771,
+      "horse_number": 9,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104931",
+      "horse_name": "ルージュカエラ",
+      "score": -0.20213910550266195,
+      "horse_number": 2,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102965",
+      "horse_name": "マルカシャルマン",
+      "score": -0.20576577193760995,
+      "horse_number": 12,
+      "odds": 22.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103772",
+      "horse_name": "エイトスターズ",
+      "score": -0.25595600866093465,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104657",
+      "horse_name": "スマイルラッシュ",
+      "score": -0.29931406666115373,
+      "horse_number": 1,
+      "odds": 40.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100724",
+      "horse_name": "ニシノエピカリ",
+      "score": -0.30669250902231765,
+      "horse_number": 13,
+      "odds": 4.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102574",
+      "horse_name": "トゥルブレンツ",
+      "score": -0.41628646353202303,
+      "horse_number": 11,
+      "odds": 13.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103236",
+      "horse_name": "コンバットペスカ",
+      "score": -0.5690094148609111,
+      "horse_number": 7,
+      "odds": 9.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104131",
+      "horse_name": "グランヴァルール",
+      "score": -0.5700902351846729,
+      "horse_number": 3,
+      "odds": 105.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021107101",
+      "horse_name": "イズジョーノヒカリ",
+      "score": -0.5970618435386312,
+      "horse_number": 8,
+      "odds": 69.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104778",
+      "horse_name": "チャイボーグ",
+      "score": -0.6231610526085567,
+      "horse_number": 5,
+      "odds": 49.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100216",
+      "horse_name": "アルマグラース",
+      "score": -0.6815536661455034,
+      "horse_number": 4,
+      "odds": 37.0
+    }
+  ]
+}
