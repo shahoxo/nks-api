@@ -1,0 +1,136 @@
+{
+  "race_id": "202509040211",
+  "race_name": "セントウルS",
+  "race_time": "2025-09-07 15:35",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019105394",
+      "horse_name": "ママコチャ",
+      "score": 0.3264411712943838,
+      "horse_number": 3,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019106526",
+      "horse_name": "トウシンマカオ",
+      "score": 0.30196856534999267,
+      "horse_number": 14,
+      "odds": 2.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101503",
+      "horse_name": "カンチェンジュンガ",
+      "score": 0.26551888052943917,
+      "horse_number": 7,
+      "odds": 22.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110108",
+      "horse_name": "エコロジーク",
+      "score": 0.23372035849161493,
+      "horse_number": 4,
+      "odds": 10.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2018106055",
+      "horse_name": "ヨシノイースター",
+      "score": 0.21201811846422636,
+      "horse_number": 5,
+      "odds": 8.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105512",
+      "horse_name": "ジャスティンスカイ",
+      "score": 0.20386344341928875,
+      "horse_number": 9,
+      "odds": 50.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020110090",
+      "horse_name": "ティニア",
+      "score": 0.13087021409601085,
+      "horse_number": 12,
+      "odds": 111.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102458",
+      "horse_name": "ワンダーキサラ",
+      "score": 0.10072503140939099,
+      "horse_number": 11,
+      "odds": 44.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104556",
+      "horse_name": "カルチャーデイ",
+      "score": 0.06347467716286341,
+      "horse_number": 13,
+      "odds": 16.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101623",
+      "horse_name": "アブキールベイ",
+      "score": 0.016132232294254253,
+      "horse_number": 6,
+      "odds": 17.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101543",
+      "horse_name": "グランテスト",
+      "score": -0.12109285130261595,
+      "horse_number": 16,
+      "odds": 65.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019103594",
+      "horse_name": "レッドアヴァンティ",
+      "score": -0.14303190846819344,
+      "horse_number": 8,
+      "odds": 180.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105071",
+      "horse_name": "ショウナンザナドゥ",
+      "score": -0.19992455378250742,
+      "horse_number": 1,
+      "odds": 19.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103422",
+      "horse_name": "テイエムスパーダ",
+      "score": -0.22567848655480094,
+      "horse_number": 2,
+      "odds": 11.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2017101423",
+      "horse_name": "ウイングレイテスト",
+      "score": -0.23584150391536726,
+      "horse_number": 10,
+      "odds": 47.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020102764",
+      "horse_name": "モズメイメイ",
+      "score": -0.32647026543000623,
+      "horse_number": 15,
+      "odds": 49.3
+    }
+  ]
+}

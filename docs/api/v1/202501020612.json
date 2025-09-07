@@ -1,0 +1,120 @@
+{
+  "race_id": "202501020612",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-07 16:05",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104039",
+      "horse_name": "ジュンラトゥール",
+      "score": 0.04229070750157388,
+      "horse_number": 2,
+      "odds": 7.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100997",
+      "horse_name": "ジョードリウム",
+      "score": 0.01455813742755771,
+      "horse_number": 13,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106937",
+      "horse_name": "ピストルスター",
+      "score": -0.12832056727744678,
+      "horse_number": 12,
+      "odds": 10.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020110051",
+      "horse_name": "ザングウィル",
+      "score": -0.2193164695979787,
+      "horse_number": 6,
+      "odds": 30.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103198",
+      "horse_name": "ゴッドテソロ",
+      "score": -0.22558966199613187,
+      "horse_number": 1,
+      "odds": 26.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102813",
+      "horse_name": "ハイケンス",
+      "score": -0.29890071208372826,
+      "horse_number": 8,
+      "odds": 15.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105755",
+      "horse_name": "グロリアスヒーロー",
+      "score": -0.36252666717480075,
+      "horse_number": 3,
+      "odds": 28.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100387",
+      "horse_name": "マーベリックシチー",
+      "score": -0.4153018450033067,
+      "horse_number": 10,
+      "odds": 9.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102735",
+      "horse_name": "スマートカイロス",
+      "score": -0.43461257592381347,
+      "horse_number": 5,
+      "odds": 6.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019106972",
+      "horse_name": "ロストボール",
+      "score": -0.5178485720417467,
+      "horse_number": 7,
+      "odds": 71.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106217",
+      "horse_name": "ウインサマースノー",
+      "score": -0.5377362182146077,
+      "horse_number": 14,
+      "odds": 3.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106011",
+      "horse_name": "ホウオウゴールド",
+      "score": -0.5450442950922436,
+      "horse_number": 4,
+      "odds": 21.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019102320",
+      "horse_name": "サイモンカーチス",
+      "score": -0.5833309696314021,
+      "horse_number": 11,
+      "odds": 90.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100076",
+      "horse_name": "ダイチラポール",
+      "score": -0.7344997899121097,
+      "horse_number": 9,
+      "odds": 46.4
+    }
+  ]
+}

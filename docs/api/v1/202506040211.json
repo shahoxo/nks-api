@@ -1,0 +1,112 @@
+{
+  "race_id": "202506040211",
+  "race_name": "紫苑S",
+  "race_time": "2025-09-07 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104767",
+      "horse_name": "ジョスラン",
+      "score": 0.4535377019714854,
+      "horse_number": 5,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105815",
+      "horse_name": "リンクスティップ",
+      "score": 0.28204520068146577,
+      "horse_number": 1,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105087",
+      "horse_name": "ダノンフェアレディ",
+      "score": 0.2623163754273104,
+      "horse_number": 9,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101192",
+      "horse_name": "エストゥペンダ",
+      "score": 0.10652752353090338,
+      "horse_number": 4,
+      "odds": 6.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105849",
+      "horse_name": "マイスターヴェルク",
+      "score": 0.04161618093009642,
+      "horse_number": 10,
+      "odds": 23.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105977",
+      "horse_name": "ロートホルン",
+      "score": -0.0019141506083204763,
+      "horse_number": 6,
+      "odds": 9.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104850",
+      "horse_name": "セイキュート",
+      "score": -0.013493175386123907,
+      "horse_number": 3,
+      "odds": 40.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102296",
+      "horse_name": "ケリフレッドアスク",
+      "score": -0.021503998439749858,
+      "horse_number": 7,
+      "odds": 21.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105131",
+      "horse_name": "キューティリップ",
+      "score": -0.058864903326634285,
+      "horse_number": 12,
+      "odds": 127.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105696",
+      "horse_name": "サヴォンリンナ",
+      "score": -0.06099287933466052,
+      "horse_number": 11,
+      "odds": 22.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103271",
+      "horse_name": "ドマーネ",
+      "score": -0.13200405054471442,
+      "horse_number": 2,
+      "odds": 46.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101411",
+      "horse_name": "サタデーサンライズ",
+      "score": -0.139949142778327,
+      "horse_number": 8,
+      "odds": 84.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104812",
+      "horse_name": "テリオスララ",
+      "score": -0.14269797798351364,
+      "horse_number": 13,
+      "odds": 13.9
+    }
+  ]
+}
