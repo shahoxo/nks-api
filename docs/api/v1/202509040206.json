@@ -1,0 +1,128 @@
+{
+  "race_id": "202509040206",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-07 12:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104644",
+      "horse_name": "ペンテリコン",
+      "score": 0.23709985255528465,
+      "horse_number": 2,
+      "odds": 19.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103274",
+      "horse_name": "ロンシャンクイーン",
+      "score": 0.036433524977367425,
+      "horse_number": 5,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100416",
+      "horse_name": "ヴァカンツァ",
+      "score": -0.08375571735874952,
+      "horse_number": 3,
+      "odds": 11.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100630",
+      "horse_name": "フルドド",
+      "score": -0.09261451165737115,
+      "horse_number": 15,
+      "odds": 31.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105963",
+      "horse_name": "ポートデラメール",
+      "score": -0.1282645200377578,
+      "horse_number": 4,
+      "odds": 7.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020100716",
+      "horse_name": "カネトシフラム",
+      "score": -0.19790266376804988,
+      "horse_number": 1,
+      "odds": 16.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106332",
+      "horse_name": "ミルミナーヴァ",
+      "score": -0.21842521596108583,
+      "horse_number": 13,
+      "odds": 4.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105011",
+      "horse_name": "リンゲルブルーメ",
+      "score": -0.2988983285336133,
+      "horse_number": 10,
+      "odds": 18.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100652",
+      "horse_name": "ラピダリア",
+      "score": -0.3249716252676067,
+      "horse_number": 14,
+      "odds": 56.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103723",
+      "horse_name": "アンリーベイビー",
+      "score": -0.3755584406722726,
+      "horse_number": 7,
+      "odds": 22.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104900",
+      "horse_name": "クロユキ",
+      "score": -0.38696501515399573,
+      "horse_number": 8,
+      "odds": 26.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102388",
+      "horse_name": "ヒミノエトワール",
+      "score": -0.4135112105140001,
+      "horse_number": 12,
+      "odds": 5.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100200",
+      "horse_name": "ワンダーイロネ",
+      "score": -0.4883624477409855,
+      "horse_number": 11,
+      "odds": 10.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106942",
+      "horse_name": "レイム",
+      "score": -0.5535478197214566,
+      "horse_number": 6,
+      "odds": 28.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019101620",
+      "horse_name": "リノアラ",
+      "score": -0.5714169627056976,
+      "horse_number": 9,
+      "odds": 140.5
+    }
+  ]
+}
