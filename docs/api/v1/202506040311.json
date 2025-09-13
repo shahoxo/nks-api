@@ -1,0 +1,88 @@
+{
+  "race_id": "202506040311",
+  "race_name": "初風S",
+  "race_time": "2025-09-13 15:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020104597",
+      "horse_name": "ショウナンアビアス",
+      "score": 0.3576307456728558,
+      "horse_number": 5,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019100553",
+      "horse_name": "ドンレパルス",
+      "score": 0.24534106780618936,
+      "horse_number": 6,
+      "odds": 5.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101654",
+      "horse_name": "トーラスシャイン",
+      "score": 0.06517282511167949,
+      "horse_number": 1,
+      "odds": 7.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019104385",
+      "horse_name": "カンパニョーラ",
+      "score": -0.0703474755014531,
+      "horse_number": 8,
+      "odds": 9.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100114",
+      "horse_name": "ブレーザー",
+      "score": -0.07092103761207405,
+      "horse_number": 9,
+      "odds": 12.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103092",
+      "horse_name": "ナムラローズマリー",
+      "score": -0.0947523154372734,
+      "horse_number": 3,
+      "odds": 7.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101174",
+      "horse_name": "ユキマル",
+      "score": -0.10548316105360578,
+      "horse_number": 4,
+      "odds": 4.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101303",
+      "horse_name": "グランフォーブル",
+      "score": -0.3382436459013398,
+      "horse_number": 10,
+      "odds": 22.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106908",
+      "horse_name": "メイショウコバト",
+      "score": -0.36959472873160815,
+      "horse_number": 2,
+      "odds": 25.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018103551",
+      "horse_name": "ユスティニアン",
+      "score": -0.3769557738308722,
+      "horse_number": 7,
+      "odds": 28.5
+    }
+  ]
+}
