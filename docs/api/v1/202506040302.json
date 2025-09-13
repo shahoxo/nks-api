@@ -1,0 +1,96 @@
+{
+  "race_id": "202506040302",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-09-13 10:15",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105561",
+      "horse_name": "シャインフォーミー",
+      "score": 0.029596589953819533,
+      "horse_number": 7,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103178",
+      "horse_name": "テンユウ",
+      "score": 0.021287917614196652,
+      "horse_number": 3,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101443",
+      "horse_name": "フィーユレアル",
+      "score": -0.1582547751306019,
+      "horse_number": 11,
+      "odds": 8.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100776",
+      "horse_name": "シャオママル",
+      "score": -0.1992676170456338,
+      "horse_number": 5,
+      "odds": 9.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100626",
+      "horse_name": "マルターズドン",
+      "score": -0.2803036236520253,
+      "horse_number": 8,
+      "odds": 5.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100831",
+      "horse_name": "ミスターマーボー",
+      "score": -0.3892961108437511,
+      "horse_number": 9,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105356",
+      "horse_name": "マーゴットブロー",
+      "score": -0.5796196276057406,
+      "horse_number": 1,
+      "odds": 41.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106586",
+      "horse_name": "ロット",
+      "score": -0.5844092227108343,
+      "horse_number": 2,
+      "odds": 66.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101675",
+      "horse_name": "チェリーブルーム",
+      "score": -0.6189377148771659,
+      "horse_number": 6,
+      "odds": 113.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105138",
+      "horse_name": "ニシノシャルム",
+      "score": -0.6360304043193064,
+      "horse_number": 10,
+      "odds": 7.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102677",
+      "horse_name": "シシリアンフラッグ",
+      "score": -0.673620836622227,
+      "horse_number": 4,
+      "odds": 17.8
+    }
+  ]
+}
