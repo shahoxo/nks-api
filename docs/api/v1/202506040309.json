@@ -1,0 +1,96 @@
+{
+  "race_id": "202506040309",
+  "race_name": "松戸特別",
+  "race_time": "2025-09-13 14:15",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102700",
+      "horse_name": "トゥーザムーン",
+      "score": 0.16625722081830793,
+      "horse_number": 4,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100162",
+      "horse_name": "ロードブレイズ",
+      "score": 0.10272660798665027,
+      "horse_number": 7,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103059",
+      "horse_name": "ベルベルコンパス",
+      "score": -0.05394479143095286,
+      "horse_number": 11,
+      "odds": 3.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105929",
+      "horse_name": "デフィニティーボ",
+      "score": -0.3505865644552265,
+      "horse_number": 2,
+      "odds": 22.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100606",
+      "horse_name": "タナサンブラック",
+      "score": -0.45745472759673067,
+      "horse_number": 8,
+      "odds": 6.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104889",
+      "horse_name": "ラファールドール",
+      "score": -0.46729600788936687,
+      "horse_number": 5,
+      "odds": 12.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100409",
+      "horse_name": "エアロソニック",
+      "score": -0.5353517092168495,
+      "horse_number": 10,
+      "odds": 11.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102163",
+      "horse_name": "フォーワンセルフ",
+      "score": -0.5485661685169994,
+      "horse_number": 3,
+      "odds": 29.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022109038",
+      "horse_name": "クリノラピダス",
+      "score": -0.5808237938692197,
+      "horse_number": 6,
+      "odds": 57.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106549",
+      "horse_name": "イデアユウシン",
+      "score": -0.6293301629666437,
+      "horse_number": 9,
+      "odds": 31.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103574",
+      "horse_name": "インジケーター",
+      "score": -0.678792003108387,
+      "horse_number": 1,
+      "odds": 42.9
+    }
+  ]
+}

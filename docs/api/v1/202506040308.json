@@ -1,7 +1,7 @@
 {
   "race_id": "202506040308",
   "race_name": "3歳以上1勝クラス",
-  "race_time": "2025-09-13 13:40",
+  "race_time": "2025-09-13 13:45",
   "race_place": "中山",
   "predictions": [
     {
@@ -10,7 +10,7 @@
       "horse_name": "サンタアニタ",
       "score": 0.250792974818104,
       "horse_number": 13,
-      "odds": 3.9
+      "odds": 2.5
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "ペッパーミル",
       "score": 0.1829035299356162,
       "horse_number": 3,
-      "odds": 6.7
+      "odds": 8.5
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "アシャカトベ",
       "score": 0.043585477823854496,
       "horse_number": 11,
-      "odds": 3.8
+      "odds": 3.6
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "ブリングライト",
       "score": 0.017445095236331205,
       "horse_number": 7,
-      "odds": 13.1
+      "odds": 16.3
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "ゲキザル",
       "score": 0.008873751696285834,
       "horse_number": 6,
-      "odds": 12.6
+      "odds": 9.9
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "ビーコング",
       "score": -0.1687490705466786,
       "horse_number": 8,
-      "odds": 6.6
+      "odds": 12.7
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "グラニットピーク",
       "score": -0.17633252073750114,
       "horse_number": 15,
-      "odds": 42.6
+      "odds": 37.0
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "ガールネクストドア",
       "score": -0.24092921754891986,
       "horse_number": 2,
-      "odds": 15.6
+      "odds": 18.8
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "タッカー",
       "score": -0.24859880437678827,
       "horse_number": 12,
-      "odds": 59.4
+      "odds": 89.6
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "カツノテンス",
       "score": -0.3956504205182313,
       "horse_number": 10,
-      "odds": 71.3
+      "odds": 76.3
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "アイスブレイカー",
       "score": -0.4245899050264751,
       "horse_number": 9,
-      "odds": 22.1
+      "odds": 52.0
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "ルーフオブヘヴン",
       "score": -0.44296633410545283,
       "horse_number": 16,
-      "odds": 15.1
+      "odds": 13.6
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "ベニシア",
       "score": -0.48512116369810954,
       "horse_number": 5,
-      "odds": 53.0
+      "odds": 115.1
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "サノノアメリカン",
       "score": -0.5336275327955337,
       "horse_number": 14,
-      "odds": 58.9
+      "odds": 69.0
     },
     {
       "rank": 15,
@@ -122,7 +122,7 @@
       "horse_name": "シウン",
       "score": -0.5529378849583312,
       "horse_number": 4,
-      "odds": 94.9
+      "odds": 210.3
     },
     {
       "rank": 16,
@@ -130,7 +130,7 @@
       "horse_name": "ブラックトルネード",
       "score": -0.6112760577772646,
       "horse_number": 1,
-      "odds": 86.7
+      "odds": 156.2
     }
   ]
 }
