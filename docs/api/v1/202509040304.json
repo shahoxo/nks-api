@@ -1,0 +1,136 @@
+{
+  "race_id": "202509040304",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-09-13 11:35",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105061",
+      "horse_name": "エスタンシア",
+      "score": 0.22978350133743536,
+      "horse_number": 5,
+      "odds": 4.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104787",
+      "horse_name": "リアルサファリ",
+      "score": 0.19456950854683408,
+      "horse_number": 6,
+      "odds": 14.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104636",
+      "horse_name": "エポエポサン",
+      "score": 0.10191444573621179,
+      "horse_number": 15,
+      "odds": 4.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104658",
+      "horse_name": "スピントロニクス",
+      "score": 0.049269949539596555,
+      "horse_number": 14,
+      "odds": 7.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103249",
+      "horse_name": "メイショウアボット",
+      "score": -0.020151400522786796,
+      "horse_number": 4,
+      "odds": 13.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103678",
+      "horse_name": "テイエムダイタカ",
+      "score": -0.0658698367684065,
+      "horse_number": 10,
+      "odds": 11.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102848",
+      "horse_name": "メイショウヨリキリ",
+      "score": -0.08962044892470887,
+      "horse_number": 8,
+      "odds": 17.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106177",
+      "horse_name": "バルミラクル",
+      "score": -0.11861888944715171,
+      "horse_number": 13,
+      "odds": 6.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105834",
+      "horse_name": "エールラヴィクトワ",
+      "score": -0.21855434665838133,
+      "horse_number": 12,
+      "odds": 35.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104436",
+      "horse_name": "2022104436",
+      "score": -0.34970128718241045,
+      "horse_number": 7,
+      "odds": 50.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102236",
+      "horse_name": "クリノバーグマン",
+      "score": -0.3874960198577009,
+      "horse_number": 9,
+      "odds": 24.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103065",
+      "horse_name": "ローズゴジャール",
+      "score": -0.42407856133728206,
+      "horse_number": 11,
+      "odds": 16.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103216",
+      "horse_name": "ミッキーサークル",
+      "score": -0.567539982023708,
+      "horse_number": 16,
+      "odds": 19.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101177",
+      "horse_name": "メメテラステラ",
+      "score": -0.5986377336224872,
+      "horse_number": 2,
+      "odds": 92.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100753",
+      "horse_name": "タンバリュー",
+      "score": -0.6518943205472477,
+      "horse_number": 1,
+      "odds": 159.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101785",
+      "horse_name": "テーオーウィルソン",
+      "score": -0.6549668083730071,
+      "horse_number": 3,
+      "odds": 120.8
+    }
+  ]
+}
