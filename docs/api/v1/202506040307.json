@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2022100223",
       "horse_name": "アルデラックス",
-      "score": 0.2601393891226318,
+      "score": 0.29573566730776235,
       "horse_number": 15,
       "odds": 2.0
     },
@@ -16,7 +16,7 @@
       "rank": 2,
       "horse_id": "2022105179",
       "horse_name": "セラドピラール",
-      "score": 0.16963588276353692,
+      "score": 0.1794271333500817,
       "horse_number": 1,
       "odds": 13.7
     },
@@ -30,62 +30,22 @@
     },
     {
       "rank": 4,
-      "horse_id": "2022105337",
-      "horse_name": "カサビセンス",
-      "score": 0.09081930484807166,
-      "horse_number": 9,
-      "odds": 28.0
-    },
-    {
-      "rank": 5,
-      "horse_id": "2022101212",
-      "horse_name": "エリュテイア",
-      "score": 0.08584011254167194,
-      "horse_number": 8,
-      "odds": 18.7
-    },
-    {
-      "rank": 6,
-      "horse_id": "2022107126",
-      "horse_name": "タマモクリーガー",
-      "score": 0.04849765002366959,
-      "horse_number": 13,
-      "odds": 8.4
-    },
-    {
-      "rank": 7,
       "horse_id": "2022100348",
       "horse_name": "ヨドノタイヨウ",
-      "score": 0.029777945641181976,
+      "score": -0.015532213935541613,
       "horse_number": 11,
       "odds": 18.5
     },
     {
-      "rank": 8,
-      "horse_id": "2022105523",
-      "horse_name": "アドマイヤコーク",
-      "score": 0.02757341832437919,
-      "horse_number": 10,
-      "odds": 11.7
+      "rank": 5,
+      "horse_id": "2022107126",
+      "horse_name": "タマモクリーガー",
+      "score": -0.026120541587334865,
+      "horse_number": 13,
+      "odds": 8.4
     },
     {
-      "rank": 9,
-      "horse_id": "2022100163",
-      "horse_name": "メイショウニトベ",
-      "score": -0.012017231336835712,
-      "horse_number": 16,
-      "odds": 20.1
-    },
-    {
-      "rank": 10,
-      "horse_id": "2022101248",
-      "horse_name": "アルマリカシバ",
-      "score": -0.013598514908126809,
-      "horse_number": 7,
-      "odds": 13.4
-    },
-    {
-      "rank": 11,
+      "rank": 6,
       "horse_id": "2022105174",
       "horse_name": "フェアゴー",
       "score": -0.03517689690576315,
@@ -93,12 +53,52 @@
       "odds": 26.7
     },
     {
-      "rank": 12,
+      "rank": 7,
+      "horse_id": "2022105523",
+      "horse_name": "アドマイヤコーク",
+      "score": -0.03772381917400794,
+      "horse_number": 10,
+      "odds": 11.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101212",
+      "horse_name": "エリュテイア",
+      "score": -0.05651208637592251,
+      "horse_number": 8,
+      "odds": 18.7
+    },
+    {
+      "rank": 9,
       "horse_id": "2022105448",
       "horse_name": "エマージェンス",
       "score": -0.07008927297951766,
       "horse_number": 5,
       "odds": 14.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105337",
+      "horse_name": "カサビセンス",
+      "score": -0.11354857808455887,
+      "horse_number": 9,
+      "odds": 28.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100163",
+      "horse_name": "メイショウニトベ",
+      "score": -0.13373846768989353,
+      "horse_number": 16,
+      "odds": 20.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101248",
+      "horse_name": "アルマリカシバ",
+      "score": -0.21359598764519588,
+      "horse_number": 7,
+      "odds": 13.4
     },
     {
       "rank": 13,
@@ -128,7 +128,7 @@
       "rank": 16,
       "horse_id": "2022106987",
       "horse_name": "ピチクリ",
-      "score": -0.6727526863679565,
+      "score": -0.7216065912265887,
       "horse_number": 12,
       "odds": 187.6
     }

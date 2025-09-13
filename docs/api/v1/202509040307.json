@@ -1,0 +1,152 @@
+{
+  "race_id": "202509040307",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-09-13 13:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106343",
+      "horse_name": "ルージュシークエル",
+      "score": 0.37429101428939027,
+      "horse_number": 18,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105250",
+      "horse_name": "エアビッグマム",
+      "score": 0.37387635367381405,
+      "horse_number": 5,
+      "odds": 16.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101767",
+      "horse_name": "アズユーライク",
+      "score": 0.24165929842175576,
+      "horse_number": 7,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105534",
+      "horse_name": "シャンパンライフ",
+      "score": 0.23194695824331513,
+      "horse_number": 10,
+      "odds": 11.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104126",
+      "horse_name": "ルクスフレンジー",
+      "score": 0.21277071767327183,
+      "horse_number": 3,
+      "odds": 8.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022107399",
+      "horse_name": "コンタンゴ",
+      "score": 0.21267438373568942,
+      "horse_number": 2,
+      "odds": 6.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104706",
+      "horse_name": "セリオヴェローチェ",
+      "score": 0.203646102760225,
+      "horse_number": 4,
+      "odds": 12.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104824",
+      "horse_name": "エンベッカ",
+      "score": 0.2011711706541381,
+      "horse_number": 14,
+      "odds": 11.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105334",
+      "horse_name": "ダノンブランニュー",
+      "score": 0.12471482556509328,
+      "horse_number": 15,
+      "odds": 16.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104679",
+      "horse_name": "ジュヌフィーユ",
+      "score": 0.012911562738496637,
+      "horse_number": 11,
+      "odds": 9.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104611",
+      "horse_name": "ジュンライトニング",
+      "score": -0.025951312377090394,
+      "horse_number": 6,
+      "odds": 26.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100429",
+      "horse_name": "ドンファーラウェイ",
+      "score": -0.15758131722572144,
+      "horse_number": 12,
+      "odds": 69.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103068",
+      "horse_name": "スピードイエロー",
+      "score": -0.19377218906680901,
+      "horse_number": 1,
+      "odds": 84.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105150",
+      "horse_name": "ラミントン",
+      "score": -0.23131586682193842,
+      "horse_number": 17,
+      "odds": 86.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106439",
+      "horse_name": "タマモチャオ",
+      "score": -0.2706106303470677,
+      "horse_number": 13,
+      "odds": 147.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022110139",
+      "horse_name": "アスクアットバット",
+      "score": -0.2732669990473123,
+      "horse_number": 9,
+      "odds": 94.1
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022100346",
+      "horse_name": "サフランクイン",
+      "score": -0.4983056401229752,
+      "horse_number": 8,
+      "odds": 142.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022102863",
+      "horse_name": "プライムクオリティ",
+      "score": -0.6997242947219148,
+      "horse_number": 16,
+      "odds": 72.8
+    }
+  ]
+}

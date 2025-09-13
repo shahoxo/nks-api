@@ -94,19 +94,19 @@
     },
     {
       "rank": 12,
-      "horse_id": "2023100213",
-      "horse_name": "2023100213",
-      "score": -0.6543632925823613,
-      "horse_number": 7,
-      "odds": 55.2
-    },
-    {
-      "rank": 12,
       "horse_id": "2023106222",
       "horse_name": "2023106222",
       "score": -0.6543632925823613,
       "horse_number": 11,
       "odds": 57.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100213",
+      "horse_name": "2023100213",
+      "score": -0.6543632925823613,
+      "horse_number": 7,
+      "odds": 55.2
     }
   ]
 }
