@@ -1,0 +1,128 @@
+{
+  "race_id": "202509040311",
+  "race_name": "チャレンジC",
+  "race_time": "2025-09-13 15:45",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103522",
+      "horse_name": "グランヴィノス",
+      "score": 0.5038941300333148,
+      "horse_number": 12,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104846",
+      "horse_name": "オールナット",
+      "score": 0.3513030087596658,
+      "horse_number": 11,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019100792",
+      "horse_name": "マイネルクリソーラ",
+      "score": 0.2818482370336909,
+      "horse_number": 2,
+      "odds": 11.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106449",
+      "horse_name": "サブマリーナ",
+      "score": 0.25676710765360383,
+      "horse_number": 13,
+      "odds": 5.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105236",
+      "horse_name": "アスクカムオンモア",
+      "score": 0.1611286972465357,
+      "horse_number": 1,
+      "odds": 15.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103060",
+      "horse_name": "ヴェルテンベルク",
+      "score": 0.15212409049052822,
+      "horse_number": 5,
+      "odds": 17.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020110085",
+      "horse_name": "イングランドアイズ",
+      "score": 0.12370418853301948,
+      "horse_number": 3,
+      "odds": 13.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106548",
+      "horse_name": "タガノデュード",
+      "score": 0.09594956293293551,
+      "horse_number": 14,
+      "odds": 18.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103025",
+      "horse_name": "ドクタードリトル",
+      "score": -0.0839436055874953,
+      "horse_number": 8,
+      "odds": 29.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100913",
+      "horse_name": "ジューンテイク",
+      "score": -0.1437070641994653,
+      "horse_number": 9,
+      "odds": 15.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2017110138",
+      "horse_name": "エアファンディタ",
+      "score": -0.2242229732114633,
+      "horse_number": 6,
+      "odds": 77.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104756",
+      "horse_name": "オニャンコポン",
+      "score": -0.24871824358994707,
+      "horse_number": 15,
+      "odds": 29.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105623",
+      "horse_name": "ホウオウプロサンゲ",
+      "score": -0.2554868775538796,
+      "horse_number": 4,
+      "odds": 11.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020103082",
+      "horse_name": "カネフラ",
+      "score": -0.3450854665240781,
+      "horse_number": 10,
+      "odds": 39.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019104998",
+      "horse_name": "ショウナンマグマ",
+      "score": -0.34724633736007265,
+      "horse_number": 7,
+      "odds": 101.5
+    }
+  ]
+}
