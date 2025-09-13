@@ -10,7 +10,7 @@
       "horse_name": "グランヴィノス",
       "score": 0.5038941300333148,
       "horse_number": 12,
-      "odds": 4.0
+      "odds": 3.1
     },
     {
       "rank": 2,
@@ -26,7 +26,7 @@
       "horse_name": "マイネルクリソーラ",
       "score": 0.2818482370336909,
       "horse_number": 2,
-      "odds": 11.6
+      "odds": 11.5
     },
     {
       "rank": 4,
@@ -42,7 +42,7 @@
       "horse_name": "アスクカムオンモア",
       "score": 0.1611286972465357,
       "horse_number": 1,
-      "odds": 15.5
+      "odds": 15.7
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "ヴェルテンベルク",
       "score": 0.15212409049052822,
       "horse_number": 5,
-      "odds": 17.3
+      "odds": 20.2
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "イングランドアイズ",
       "score": 0.12370418853301948,
       "horse_number": 3,
-      "odds": 13.7
+      "odds": 15.1
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "タガノデュード",
       "score": 0.09594956293293551,
       "horse_number": 14,
-      "odds": 18.0
+      "odds": 19.3
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "ドクタードリトル",
       "score": -0.0839436055874953,
       "horse_number": 8,
-      "odds": 29.7
+      "odds": 37.8
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "ジューンテイク",
       "score": -0.1437070641994653,
       "horse_number": 9,
-      "odds": 15.8
+      "odds": 16.2
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "エアファンディタ",
       "score": -0.2242229732114633,
       "horse_number": 6,
-      "odds": 77.9
+      "odds": 101.7
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "オニャンコポン",
       "score": -0.24871824358994707,
       "horse_number": 15,
-      "odds": 29.3
+      "odds": 35.6
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "ホウオウプロサンゲ",
       "score": -0.2554868775538796,
       "horse_number": 4,
-      "odds": 11.0
+      "odds": 14.5
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "カネフラ",
       "score": -0.3450854665240781,
       "horse_number": 10,
-      "odds": 39.2
+      "odds": 43.4
     },
     {
       "rank": 15,
@@ -122,7 +122,7 @@
       "horse_name": "ショウナンマグマ",
       "score": -0.34724633736007265,
       "horse_number": 7,
-      "odds": 101.5
+      "odds": 164.1
     }
   ]
 }
