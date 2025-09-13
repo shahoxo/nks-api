@@ -1,0 +1,56 @@
+{
+  "race_id": "202509040308",
+  "race_name": "生田特別",
+  "race_time": "2025-09-13 13:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105030",
+      "horse_name": "エリーナストーム",
+      "score": 0.4027203367957739,
+      "horse_number": 2,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104103",
+      "horse_name": "サンセットビュー",
+      "score": 0.36292603540974677,
+      "horse_number": 1,
+      "odds": 5.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102379",
+      "horse_name": "テイクザクラウン",
+      "score": 0.012331316491661963,
+      "horse_number": 6,
+      "odds": 11.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104733",
+      "horse_name": "コーチェラバレー",
+      "score": 0.000745070991527914,
+      "horse_number": 3,
+      "odds": 2.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100284",
+      "horse_name": "ヤマニンアラクリア",
+      "score": -0.312302817320937,
+      "horse_number": 4,
+      "odds": 47.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105985",
+      "horse_name": "ヘルツアス",
+      "score": -0.5211882169836481,
+      "horse_number": 5,
+      "odds": 18.0
+    }
+  ]
+}

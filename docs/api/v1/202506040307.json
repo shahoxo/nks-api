@@ -1,7 +1,7 @@
 {
   "race_id": "202506040307",
   "race_name": "3歳未勝利",
-  "race_time": "2025-09-13 13:10",
+  "race_time": "2025-09-13 13:15",
   "race_place": "中山",
   "predictions": [
     {
@@ -18,7 +18,7 @@
       "horse_name": "セラドピラール",
       "score": 0.1794271333500817,
       "horse_number": 1,
-      "odds": 13.7
+      "odds": 18.0
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "ヴィーナスゼファー",
       "score": 0.09201338368485232,
       "horse_number": 14,
-      "odds": 17.7
+      "odds": 26.0
     },
     {
       "rank": 4,
@@ -42,7 +42,7 @@
       "horse_name": "タマモクリーガー",
       "score": -0.026120541587334865,
       "horse_number": 13,
-      "odds": 8.4
+      "odds": 4.7
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "フェアゴー",
       "score": -0.03517689690576315,
       "horse_number": 2,
-      "odds": 26.7
+      "odds": 23.8
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "アドマイヤコーク",
       "score": -0.03772381917400794,
       "horse_number": 10,
-      "odds": 11.7
+      "odds": 11.8
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "エリュテイア",
       "score": -0.05651208637592251,
       "horse_number": 8,
-      "odds": 18.7
+      "odds": 24.7
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "エマージェンス",
       "score": -0.07008927297951766,
       "horse_number": 5,
-      "odds": 14.2
+      "odds": 16.3
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "カサビセンス",
       "score": -0.11354857808455887,
       "horse_number": 9,
-      "odds": 28.0
+      "odds": 29.8
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "メイショウニトベ",
       "score": -0.13373846768989353,
       "horse_number": 16,
-      "odds": 20.1
+      "odds": 30.7
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "アルマリカシバ",
       "score": -0.21359598764519588,
       "horse_number": 7,
-      "odds": 13.4
+      "odds": 13.6
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "テソリーノ",
       "score": -0.4582326289734219,
       "horse_number": 3,
-      "odds": 46.1
+      "odds": 75.3
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "ナックエルドラド",
       "score": -0.5115861408259113,
       "horse_number": 4,
-      "odds": 44.5
+      "odds": 72.0
     },
     {
       "rank": 15,
@@ -122,7 +122,7 @@
       "horse_name": "スーパーチャージ",
       "score": -0.655340765651042,
       "horse_number": 6,
-      "odds": 62.0
+      "odds": 142.3
     },
     {
       "rank": 16,
@@ -130,7 +130,7 @@
       "horse_name": "ピチクリ",
       "score": -0.7216065912265887,
       "horse_number": 12,
-      "odds": 187.6
+      "odds": 271.7
     }
   ]
 }
