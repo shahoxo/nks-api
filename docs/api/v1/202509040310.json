@@ -1,0 +1,80 @@
+{
+  "race_id": "202509040310",
+  "race_name": "鳥取特別",
+  "race_time": "2025-09-13 15:05",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103186",
+      "horse_name": "テーオーライマン",
+      "score": 0.12840017997130032,
+      "horse_number": 9,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105885",
+      "horse_name": "ショーダンサー",
+      "score": 0.10494563946516718,
+      "horse_number": 6,
+      "odds": 5.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104411",
+      "horse_name": "マイノワール",
+      "score": 0.09960546999408106,
+      "horse_number": 5,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104176",
+      "horse_name": "キングブルー",
+      "score": 0.043829220603824076,
+      "horse_number": 7,
+      "odds": 11.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103388",
+      "horse_name": "フェイト",
+      "score": 0.019264510689924005,
+      "horse_number": 8,
+      "odds": 8.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022107134",
+      "horse_name": "タガノマカシヤ",
+      "score": -0.015043395350276344,
+      "horse_number": 4,
+      "odds": 4.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100771",
+      "horse_name": "ジョータルマエ",
+      "score": -0.04689137386720547,
+      "horse_number": 3,
+      "odds": 7.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104399",
+      "horse_name": "ラヴオントップ",
+      "score": -0.20573219800466336,
+      "horse_number": 2,
+      "odds": 26.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021109125",
+      "horse_name": "ブリッツクリーク",
+      "score": -0.2640388230646433,
+      "horse_number": 1,
+      "odds": 20.9
+    }
+  ]
+}

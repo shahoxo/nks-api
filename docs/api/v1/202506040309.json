@@ -10,7 +10,7 @@
       "horse_name": "トゥーザムーン",
       "score": 0.16625722081830793,
       "horse_number": 4,
-      "odds": 4.2
+      "odds": 3.4
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "ロードブレイズ",
       "score": 0.10272660798665027,
       "horse_number": 7,
-      "odds": 4.1
+      "odds": 3.5
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "ベルベルコンパス",
       "score": -0.05394479143095286,
       "horse_number": 11,
-      "odds": 3.3
+      "odds": 4.5
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "デフィニティーボ",
       "score": -0.3505865644552265,
       "horse_number": 2,
-      "odds": 22.5
+      "odds": 19.3
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "タナサンブラック",
       "score": -0.45745472759673067,
       "horse_number": 8,
-      "odds": 6.1
+      "odds": 5.4
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "ラファールドール",
       "score": -0.46729600788936687,
       "horse_number": 5,
-      "odds": 12.7
+      "odds": 12.4
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "エアロソニック",
       "score": -0.5353517092168495,
       "horse_number": 10,
-      "odds": 11.7
+      "odds": 12.7
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "フォーワンセルフ",
       "score": -0.5485661685169994,
       "horse_number": 3,
-      "odds": 29.2
+      "odds": 45.7
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "クリノラピダス",
       "score": -0.5808237938692197,
       "horse_number": 6,
-      "odds": 57.5
+      "odds": 91.0
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "イデアユウシン",
       "score": -0.6293301629666437,
       "horse_number": 9,
-      "odds": 31.6
+      "odds": 58.3
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "インジケーター",
       "score": -0.678792003108387,
       "horse_number": 1,
-      "odds": 42.9
+      "odds": 71.5
     }
   ]
 }

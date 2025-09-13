@@ -14,54 +14,46 @@
     },
     {
       "rank": 2,
-      "horse_id": "2022106912",
-      "horse_name": "ヴァージル",
-      "score": 0.3225342535177045,
-      "horse_number": 18,
-      "odds": 5.2
-    },
-    {
-      "rank": 3,
       "horse_id": "2021106237",
       "horse_name": "サーナーティオン",
-      "score": 0.22721798551357902,
+      "score": 0.3293446934986083,
       "horse_number": 6,
       "odds": 8.5
     },
     {
+      "rank": 3,
+      "horse_id": "2022106912",
+      "horse_name": "ヴァージル",
+      "score": 0.2941473547499911,
+      "horse_number": 18,
+      "odds": 5.2
+    },
+    {
       "rank": 4,
-      "horse_id": "2022110010",
-      "horse_name": "ワイルデンウーリー",
-      "score": 0.0944507687358077,
-      "horse_number": 11,
-      "odds": 13.1
+      "horse_id": "2022101369",
+      "horse_name": "モンタルチーノ",
+      "score": 0.1253519118861162,
+      "horse_number": 7,
+      "odds": 8.1
     },
     {
       "rank": 5,
-      "horse_id": "2022101369",
-      "horse_name": "モンタルチーノ",
-      "score": 0.08604159129946579,
-      "horse_number": 7,
-      "odds": 8.1
+      "horse_id": "2022110010",
+      "horse_name": "ワイルデンウーリー",
+      "score": 0.11384679951716525,
+      "horse_number": 11,
+      "odds": 13.1
     },
     {
       "rank": 6,
       "horse_id": "2022106016",
       "horse_name": "ブライアーヒル",
-      "score": 0.025735493537902242,
+      "score": 0.0928460305177631,
       "horse_number": 4,
       "odds": 16.8
     },
     {
       "rank": 7,
-      "horse_id": "2021104242",
-      "horse_name": "ショウナンラウール",
-      "score": 0.023213655568371613,
-      "horse_number": 13,
-      "odds": 31.7
-    },
-    {
-      "rank": 8,
       "horse_id": "2022104910",
       "horse_name": "レイザリオ",
       "score": -0.015340557441806705,
@@ -69,31 +61,23 @@
       "odds": 88.7
     },
     {
-      "rank": 9,
-      "horse_id": "2022104392",
-      "horse_name": "シャインベック",
-      "score": -0.0775484603645867,
-      "horse_number": 10,
-      "odds": 54.1
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "horse_id": "2022110077",
       "horse_name": "イリフィ",
-      "score": -0.07769749329098992,
+      "score": -0.08415652464594427,
       "horse_number": 17,
       "odds": 27.6
     },
     {
-      "rank": 11,
-      "horse_id": "2021100683",
-      "horse_name": "ビーグラッド",
-      "score": -0.09107040274745024,
-      "horse_number": 14,
-      "odds": 20.2
+      "rank": 9,
+      "horse_id": "2021104242",
+      "horse_name": "ショウナンラウール",
+      "score": -0.1085152980215505,
+      "horse_number": 13,
+      "odds": 31.7
     },
     {
-      "rank": 12,
+      "rank": 10,
       "horse_id": "2020102326",
       "horse_name": "サンライズプルート",
       "score": -0.14064691438724097,
@@ -101,15 +85,23 @@
       "odds": 19.2
     },
     {
-      "rank": 13,
-      "horse_id": "2021105528",
-      "horse_name": "サトノエンパイア",
-      "score": -0.16504414704930134,
-      "horse_number": 16,
-      "odds": 115.7
+      "rank": 11,
+      "horse_id": "2021100683",
+      "horse_name": "ビーグラッド",
+      "score": -0.14955166282718746,
+      "horse_number": 14,
+      "odds": 20.2
     },
     {
-      "rank": 14,
+      "rank": 12,
+      "horse_id": "2022104392",
+      "horse_name": "シャインベック",
+      "score": -0.18488362530295607,
+      "horse_number": 10,
+      "odds": 54.1
+    },
+    {
+      "rank": 13,
       "horse_id": "2021110081",
       "horse_name": "リーサムギニー",
       "score": -0.19508387414167516,
@@ -117,7 +109,31 @@
       "odds": 38.5
     },
     {
+      "rank": 14,
+      "horse_id": "2020105561",
+      "horse_name": "ケイアイクビラ",
+      "score": -0.2530834555457453,
+      "horse_number": 5,
+      "odds": 52.0
+    },
+    {
       "rank": 15,
+      "horse_id": "2021105528",
+      "horse_name": "サトノエンパイア",
+      "score": -0.2825041276443616,
+      "horse_number": 16,
+      "odds": 115.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106798",
+      "horse_name": "メイショウオオミネ",
+      "score": -0.31155163326798585,
+      "horse_number": 3,
+      "odds": 63.6
+    },
+    {
+      "rank": 17,
       "horse_id": "2021102952",
       "horse_name": "オベイユアマスター",
       "score": -0.3116628778758328,
@@ -125,26 +141,10 @@
       "odds": 66.5
     },
     {
-      "rank": 16,
-      "horse_id": "2020105561",
-      "horse_name": "ケイアイクビラ",
-      "score": -0.31848931765899235,
-      "horse_number": 5,
-      "odds": 52.0
-    },
-    {
-      "rank": 17,
-      "horse_id": "2020106798",
-      "horse_name": "メイショウオオミネ",
-      "score": -0.32127599948838703,
-      "horse_number": 3,
-      "odds": 63.6
-    },
-    {
       "rank": 18,
       "horse_id": "2022104514",
       "horse_name": "ウィンビュー",
-      "score": -0.5321616921100607,
+      "score": -0.572550874194683,
       "horse_number": 8,
       "odds": 205.2
     }

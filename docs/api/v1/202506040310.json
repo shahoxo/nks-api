@@ -1,0 +1,96 @@
+{
+  "race_id": "202506040310",
+  "race_name": "汐留特別",
+  "race_time": "2025-09-13 14:50",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103556",
+      "horse_name": "キープサインオン",
+      "score": 0.17911754349922956,
+      "horse_number": 10,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104771",
+      "horse_name": "スターウェーブ",
+      "score": 0.15802680955214643,
+      "horse_number": 1,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105492",
+      "horse_name": "ニシノピウモッソ",
+      "score": 0.13128833519089284,
+      "horse_number": 2,
+      "odds": 8.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105054",
+      "horse_name": "モンシュマン",
+      "score": 0.1240110485350659,
+      "horse_number": 5,
+      "odds": 5.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110026",
+      "horse_name": "コウセキ",
+      "score": 0.0644887140634717,
+      "horse_number": 6,
+      "odds": 7.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102633",
+      "horse_name": "フーコサンライズ",
+      "score": 0.05169771315146963,
+      "horse_number": 7,
+      "odds": 9.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101992",
+      "horse_name": "ライクアフラワー",
+      "score": -0.005547449967231611,
+      "horse_number": 8,
+      "odds": 25.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106777",
+      "horse_name": "セレッソデアモール",
+      "score": -0.11914906962446081,
+      "horse_number": 9,
+      "odds": 12.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104675",
+      "horse_name": "アップストローク",
+      "score": -0.18071034916112022,
+      "horse_number": 3,
+      "odds": 11.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020107036",
+      "horse_name": "マイネルビジョン",
+      "score": -0.4264346952793613,
+      "horse_number": 4,
+      "odds": 42.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019106269",
+      "horse_name": "アバンダンス",
+      "score": -0.7560238565797833,
+      "horse_number": 11,
+      "odds": 155.0
+    }
+  ]
+}
