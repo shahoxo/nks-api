@@ -16,7 +16,7 @@
       "rank": 2,
       "horse_id": "2021110055",
       "horse_name": "ブシン",
-      "score": 0.20483640394242386,
+      "score": 0.19545515970495264,
       "horse_number": 16,
       "odds": 3.6
     },
@@ -24,7 +24,7 @@
       "rank": 3,
       "horse_id": "2019105761",
       "horse_name": "エティエンヌ",
-      "score": 0.04618201020031358,
+      "score": 0.06012517931290022,
       "horse_number": 8,
       "odds": 19.4
     },
@@ -32,36 +32,20 @@
       "rank": 4,
       "horse_id": "2021110056",
       "horse_name": "エコロガイア",
-      "score": 0.0009398381308924073,
+      "score": -0.017504448357876377,
       "horse_number": 9,
       "odds": 24.2
     },
     {
       "rank": 5,
-      "horse_id": "2020102751",
-      "horse_name": "エミサキホコル",
-      "score": -0.012845702710428435,
-      "horse_number": 10,
-      "odds": 18.0
-    },
-    {
-      "rank": 6,
-      "horse_id": "2019105741",
-      "horse_name": "イスラアネーロ",
-      "score": -0.029791761042546078,
-      "horse_number": 12,
-      "odds": 25.7
-    },
-    {
-      "rank": 7,
       "horse_id": "2020102186",
       "horse_name": "ルクスメテオール",
-      "score": -0.036466373103264914,
+      "score": -0.041744804369226306,
       "horse_number": 1,
       "odds": 48.2
     },
     {
-      "rank": 8,
+      "rank": 6,
       "horse_id": "2020109102",
       "horse_name": "サウザンサニー",
       "score": -0.050819847801518665,
@@ -69,44 +53,60 @@
       "odds": 24.0
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "horse_id": "2020102751",
+      "horse_name": "エミサキホコル",
+      "score": -0.0620583710495522,
+      "horse_number": 10,
+      "odds": 18.0
+    },
+    {
+      "rank": 8,
       "horse_id": "2021110069",
       "horse_name": "エスカル",
-      "score": -0.065646505933498,
+      "score": -0.0778997207191213,
       "horse_number": 11,
       "odds": 8.9
     },
     {
-      "rank": 10,
+      "rank": 9,
       "horse_id": "2022105244",
       "horse_name": "ポッドベイダー",
-      "score": -0.07347356365350285,
+      "score": -0.09632435784220121,
       "horse_number": 3,
       "odds": 13.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105741",
+      "horse_name": "イスラアネーロ",
+      "score": -0.15292426981835153,
+      "horse_number": 12,
+      "odds": 25.7
     },
     {
       "rank": 11,
       "horse_id": "2020106015",
       "horse_name": "バグラダス",
-      "score": -0.11476468844844821,
+      "score": -0.22049981195099586,
       "horse_number": 13,
       "odds": 16.0
     },
     {
       "rank": 12,
-      "horse_id": "2018110126",
-      "horse_name": "ジャスパーゴールド",
-      "score": -0.24841311946205544,
-      "horse_number": 2,
-      "odds": 20.9
+      "horse_id": "2019106214",
+      "horse_name": "フルム",
+      "score": -0.2700025086788003,
+      "horse_number": 6,
+      "odds": 28.0
     },
     {
       "rank": 13,
-      "horse_id": "2019106214",
-      "horse_name": "フルム",
-      "score": -0.2957761917999099,
-      "horse_number": 6,
-      "odds": 28.0
+      "horse_id": "2018110126",
+      "horse_name": "ジャスパーゴールド",
+      "score": -0.286533610838228,
+      "horse_number": 2,
+      "odds": 20.9
     },
     {
       "rank": 14,

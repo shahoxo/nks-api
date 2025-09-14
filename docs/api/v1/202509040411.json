@@ -1,0 +1,152 @@
+{
+  "race_id": "202509040411",
+  "race_name": "ローズS",
+  "race_time": "2025-09-14 15:45",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105078",
+      "horse_name": "ミッキーマドンナ",
+      "score": 0.46673670969619635,
+      "horse_number": 2,
+      "odds": 7.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105402",
+      "horse_name": "カムニャック",
+      "score": 0.45141052638089807,
+      "horse_number": 11,
+      "odds": 3.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105778",
+      "horse_name": "チェルビアット",
+      "score": 0.43486307655665213,
+      "horse_number": 8,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106562",
+      "horse_name": "タガノアビー",
+      "score": 0.3323311650629024,
+      "horse_number": 9,
+      "odds": 12.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103546",
+      "horse_name": "パラディレーヌ",
+      "score": 0.2794948428636276,
+      "horse_number": 5,
+      "odds": 7.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103245",
+      "horse_name": "ミッキージュエリー",
+      "score": 0.23620794115219437,
+      "horse_number": 7,
+      "odds": 9.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105157",
+      "horse_name": "ルージュソリテール",
+      "score": 0.21120062525909566,
+      "horse_number": 1,
+      "odds": 9.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106322",
+      "horse_name": "フェアリーライク",
+      "score": 0.15506523738112876,
+      "horse_number": 4,
+      "odds": 27.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104885",
+      "horse_name": "テレサ",
+      "score": 0.1407083101471554,
+      "horse_number": 10,
+      "odds": 18.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105014",
+      "horse_name": "タイセイプランセス",
+      "score": 0.06383383259648404,
+      "horse_number": 15,
+      "odds": 18.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105433",
+      "horse_name": "セナスタイル",
+      "score": 0.05490295337684167,
+      "horse_number": 14,
+      "odds": 28.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103875",
+      "horse_name": "アイサンサン",
+      "score": 0.05424849427453677,
+      "horse_number": 13,
+      "odds": 104.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105291",
+      "horse_name": "ランフォーヴァウ",
+      "score": 0.01936876100992279,
+      "horse_number": 17,
+      "odds": 72.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105192",
+      "horse_name": "ビップデイジー",
+      "score": -0.04513941044496055,
+      "horse_number": 18,
+      "odds": 61.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104617",
+      "horse_name": "ヴーレヴー",
+      "score": -0.054450072228514376,
+      "horse_number": 6,
+      "odds": 92.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102500",
+      "horse_name": "マトラコーニッシュ",
+      "score": -0.13261554265417608,
+      "horse_number": 12,
+      "odds": 77.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022100201",
+      "horse_name": "コンドゥイア",
+      "score": -0.14074569940163947,
+      "horse_number": 16,
+      "odds": 104.8
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022103304",
+      "horse_name": "ダンツエラン",
+      "score": -0.23390502632319748,
+      "horse_number": 3,
+      "odds": 166.8
+    }
+  ]
+}
