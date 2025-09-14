@@ -1,0 +1,136 @@
+{
+  "race_id": "202509040412",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-14 16:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022107278",
+      "horse_name": "ゼットエール",
+      "score": 0.14713679372635433,
+      "horse_number": 16,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107147",
+      "horse_name": "キョラムン",
+      "score": 0.05476753709109804,
+      "horse_number": 5,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104729",
+      "horse_name": "サマーナイト",
+      "score": 0.027818008766664962,
+      "horse_number": 6,
+      "odds": 37.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105748",
+      "horse_name": "リードプリンシパル",
+      "score": 0.010703783048752281,
+      "horse_number": 1,
+      "odds": 11.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101443",
+      "horse_name": "エブライト",
+      "score": -0.09008847340788378,
+      "horse_number": 11,
+      "odds": 13.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103339",
+      "horse_name": "ナゲットモンスター",
+      "score": -0.103429159817615,
+      "horse_number": 13,
+      "odds": 65.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100696",
+      "horse_name": "ドナポンド",
+      "score": -0.1889755525441495,
+      "horse_number": 14,
+      "odds": 17.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106182",
+      "horse_name": "メイショウホウセン",
+      "score": -0.19554931021994557,
+      "horse_number": 4,
+      "odds": 19.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100660",
+      "horse_name": "ロードヴァルカン",
+      "score": -0.22101553346741568,
+      "horse_number": 3,
+      "odds": 11.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103575",
+      "horse_name": "アイスリンディ",
+      "score": -0.29118113931101813,
+      "horse_number": 7,
+      "odds": 88.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104326",
+      "horse_name": "コパノマロン",
+      "score": -0.315438593888557,
+      "horse_number": 2,
+      "odds": 42.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103550",
+      "horse_name": "キープライジング",
+      "score": -0.37153853216064747,
+      "horse_number": 9,
+      "odds": 48.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102003",
+      "horse_name": "スレッドザニードル",
+      "score": -0.4120583635717391,
+      "horse_number": 10,
+      "odds": 42.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105077",
+      "horse_name": "ワイルドブッター",
+      "score": -0.4602093092196741,
+      "horse_number": 12,
+      "odds": 20.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102702",
+      "horse_name": "ヨシノサプライズ",
+      "score": -0.6558506860683125,
+      "horse_number": 15,
+      "odds": 51.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103195",
+      "horse_name": "ヴェントインコーダ",
+      "score": -0.7265140734648036,
+      "horse_number": 8,
+      "odds": 30.0
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040412",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-14 16:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104953",
+      "horse_name": "モティスフォント",
+      "score": 0.3281082238029638,
+      "horse_number": 12,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101663",
+      "horse_name": "ザカート",
+      "score": 0.2075025297557287,
+      "horse_number": 8,
+      "odds": 23.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105077",
+      "horse_name": "レイククレセント",
+      "score": 0.13505435343259536,
+      "horse_number": 14,
+      "odds": 9.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104137",
+      "horse_name": "ミエノブラボー",
+      "score": 0.09472755638925548,
+      "horse_number": 11,
+      "odds": 16.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106691",
+      "horse_name": "エンペラーズソード",
+      "score": 0.08346807088552964,
+      "horse_number": 1,
+      "odds": 3.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104811",
+      "horse_name": "アセンブリールーム",
+      "score": 0.0713081061014567,
+      "horse_number": 5,
+      "odds": 13.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102741",
+      "horse_name": "アサクサヴィーナス",
+      "score": 0.05448749578786167,
+      "horse_number": 10,
+      "odds": 13.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106741",
+      "horse_name": "メイリー",
+      "score": 0.04748648863102644,
+      "horse_number": 4,
+      "odds": 19.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100511",
+      "horse_name": "サザンティスプーン",
+      "score": 0.012195441840278862,
+      "horse_number": 16,
+      "odds": 28.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101517",
+      "horse_name": "マニス",
+      "score": -0.26299434672796934,
+      "horse_number": 9,
+      "odds": 48.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101425",
+      "horse_name": "エナジーショット",
+      "score": -0.26404119127165715,
+      "horse_number": 3,
+      "odds": 5.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100700",
+      "horse_name": "ポッドロルフ",
+      "score": -0.35257550170905516,
+      "horse_number": 2,
+      "odds": 31.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101574",
+      "horse_name": "オーケースマイル",
+      "score": -0.36736176253960684,
+      "horse_number": 15,
+      "odds": 86.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101598",
+      "horse_name": "マジカルワード",
+      "score": -0.36851495341582363,
+      "horse_number": 7,
+      "odds": 143.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100678",
+      "horse_name": "ニシノヒナアラレ",
+      "score": -0.5766429540794782,
+      "horse_number": 6,
+      "odds": 78.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104533",
+      "horse_name": "チョングク",
+      "score": -0.5938962629264705,
+      "horse_number": 13,
+      "odds": 39.6
+    }
+  ]
+}
