@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2022105108",
       "horse_name": "モンテシート",
-      "score": 0.42505326427252615,
+      "score": 0.41280004948690285,
       "horse_number": 4,
       "odds": 4.5
     },
@@ -32,33 +32,33 @@
       "rank": 4,
       "horse_id": "2022106768",
       "horse_name": "マイネルチケット",
-      "score": 0.223212131180692,
+      "score": 0.21383088694322072,
       "horse_number": 10,
       "odds": 6.4
     },
     {
       "rank": 5,
-      "horse_id": "2020104013",
-      "horse_name": "プッシュオン",
-      "score": 0.18807785429777274,
-      "horse_number": 3,
-      "odds": 8.1
-    },
-    {
-      "rank": 6,
       "horse_id": "2021107098",
       "horse_name": "ラヴァンダ",
-      "score": 0.17904176667871152,
+      "score": 0.1984328479856216,
       "horse_number": 8,
       "odds": 2.6
     },
     {
+      "rank": 6,
+      "horse_id": "2020104013",
+      "horse_name": "プッシュオン",
+      "score": 0.16988153165451797,
+      "horse_number": 3,
+      "odds": 8.1
+    },
+    {
       "rank": 7,
-      "horse_id": "2021105746",
-      "horse_name": "アルトゥーム",
-      "score": -0.06890351664427657,
-      "horse_number": 11,
-      "odds": 27.2
+      "horse_id": "2021100143",
+      "horse_name": "メルトユアハート",
+      "score": -0.014672214650860861,
+      "horse_number": 5,
+      "odds": 31.5
     },
     {
       "rank": 8,
@@ -70,17 +70,17 @@
     },
     {
       "rank": 9,
-      "horse_id": "2021100143",
-      "horse_name": "メルトユアハート",
-      "score": -0.08143766227523176,
-      "horse_number": 5,
-      "odds": 31.5
+      "horse_id": "2021105746",
+      "horse_name": "アルトゥーム",
+      "score": -0.12134039100538326,
+      "horse_number": 11,
+      "odds": 27.2
     },
     {
       "rank": 10,
       "horse_id": "2020105354",
       "horse_name": "サクセスアイ",
-      "score": -0.08910040612236285,
+      "score": -0.19928428676060345,
       "horse_number": 6,
       "odds": 40.3
     },
