@@ -1,0 +1,112 @@
+{
+  "race_id": "202509040408",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-14 13:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105562",
+      "horse_name": "シャンパンポップ",
+      "score": 0.5072979847336645,
+      "horse_number": 2,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105055",
+      "horse_name": "レッドボブ",
+      "score": 0.35506820279575735,
+      "horse_number": 8,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103433",
+      "horse_name": "ヴァリージア",
+      "score": 0.20840726439191462,
+      "horse_number": 12,
+      "odds": 17.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102196",
+      "horse_name": "サンライズシュガー",
+      "score": -0.019593630880108317,
+      "horse_number": 1,
+      "odds": 13.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104496",
+      "horse_name": "スコーピオンイメル",
+      "score": -0.033252813535033635,
+      "horse_number": 10,
+      "odds": 9.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110051",
+      "horse_name": "チムニートップス",
+      "score": -0.04477743751142195,
+      "horse_number": 3,
+      "odds": 8.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021110097",
+      "horse_name": "ブルーワール",
+      "score": -0.1384955208168409,
+      "horse_number": 6,
+      "odds": 20.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105719",
+      "horse_name": "ダノンウィルヘルム",
+      "score": -0.3332569335773385,
+      "horse_number": 4,
+      "odds": 64.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104936",
+      "horse_name": "ワーキングアセット",
+      "score": -0.39544833931975076,
+      "horse_number": 11,
+      "odds": 36.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102383",
+      "horse_name": "ニヒトツーゼーア",
+      "score": -0.429699593461517,
+      "horse_number": 7,
+      "odds": 46.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104311",
+      "horse_name": "ヤングアメリカンズ",
+      "score": -0.4466772174656731,
+      "horse_number": 5,
+      "odds": 68.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105727",
+      "horse_name": "メリトーリアス",
+      "score": -0.5222423449511203,
+      "horse_number": 9,
+      "odds": 61.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022110071",
+      "horse_name": "ジーティーララバイ",
+      "score": -0.5586599667319991,
+      "horse_number": 13,
+      "odds": 81.7
+    }
+  ]
+}

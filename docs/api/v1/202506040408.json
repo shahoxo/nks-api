@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2022105863",
       "horse_name": "ルシャルムール",
-      "score": -0.03853181788720428,
+      "score": -0.08628524809355932,
       "horse_number": 14,
       "odds": 8.7
     },
@@ -22,14 +22,6 @@
     },
     {
       "rank": 3,
-      "horse_id": "2022107011",
-      "horse_name": "ニシノブレイゼスト",
-      "score": -0.17702577972058325,
-      "horse_number": 8,
-      "odds": 14.5
-    },
-    {
-      "rank": 4,
       "horse_id": "2022100306",
       "horse_name": "フジレイメイ",
       "score": -0.1875345409365416,
@@ -37,15 +29,15 @@
       "odds": 10.1
     },
     {
-      "rank": 5,
-      "horse_id": "2022106545",
-      "horse_name": "カンレイスキー",
-      "score": -0.19643549351281595,
-      "horse_number": 11,
-      "odds": 7.5
+      "rank": 4,
+      "horse_id": "2022107011",
+      "horse_name": "ニシノブレイゼスト",
+      "score": -0.18927899450620653,
+      "horse_number": 8,
+      "odds": 14.5
     },
     {
-      "rank": 6,
+      "rank": 5,
       "horse_id": "2021101533",
       "horse_name": "シンボリノエル",
       "score": -0.19671545449463398,
@@ -53,20 +45,28 @@
       "odds": 18.9
     },
     {
-      "rank": 7,
-      "horse_id": "2019103219",
-      "horse_name": "ブレイクザアイス",
-      "score": -0.20136389273751068,
-      "horse_number": 6,
-      "odds": 52.5
+      "rank": 6,
+      "horse_id": "2022106545",
+      "horse_name": "カンレイスキー",
+      "score": -0.2032369708008059,
+      "horse_number": 11,
+      "odds": 7.5
     },
     {
-      "rank": 8,
+      "rank": 7,
       "horse_id": "2022106099",
       "horse_name": "ハルノアラシ",
       "score": -0.2490960103496017,
       "horse_number": 9,
       "odds": 5.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019103219",
+      "horse_name": "ブレイクザアイス",
+      "score": -0.2580318192716655,
+      "horse_number": 6,
+      "odds": 52.5
     },
     {
       "rank": 9,
@@ -96,7 +96,7 @@
       "rank": 12,
       "horse_id": "2022100083",
       "horse_name": "ソラノキャンバス",
-      "score": -0.4331680972063978,
+      "score": -0.5006218155644719,
       "horse_number": 7,
       "odds": 27.9
     },
