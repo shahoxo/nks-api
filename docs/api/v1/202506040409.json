@@ -1,0 +1,72 @@
+{
+  "race_id": "202506040409",
+  "race_name": "御宿特別",
+  "race_time": "2025-09-14 14:15",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104864",
+      "horse_name": "スマートミストラル",
+      "score": 0.23612453989560594,
+      "horse_number": 7,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105556",
+      "horse_name": "ガルサブランカ",
+      "score": 0.19449265300519142,
+      "horse_number": 2,
+      "odds": 3.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103241",
+      "horse_name": "ケイデンシーマーク",
+      "score": 0.0822571605949587,
+      "horse_number": 8,
+      "odds": 11.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101580",
+      "horse_name": "メイショウヨゾラ",
+      "score": 0.0393938769257518,
+      "horse_number": 4,
+      "odds": 4.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101765",
+      "horse_name": "ピコローズ",
+      "score": 0.021038693640450308,
+      "horse_number": 3,
+      "odds": 8.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105802",
+      "horse_name": "ミスティア",
+      "score": 0.0031873779261159243,
+      "horse_number": 1,
+      "odds": 14.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105477",
+      "horse_name": "ロムネヤ",
+      "score": -0.03552745412204798,
+      "horse_number": 5,
+      "odds": 32.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105783",
+      "horse_name": "ネーヴェフレスカ",
+      "score": -0.11127966737240703,
+      "horse_number": 6,
+      "odds": 13.2
+    }
+  ]
+}

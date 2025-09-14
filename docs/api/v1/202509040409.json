@@ -1,0 +1,80 @@
+{
+  "race_id": "202509040409",
+  "race_name": "能勢特別",
+  "race_time": "2025-09-14 14:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105073",
+      "horse_name": "エコロディノス",
+      "score": 0.4367397960190848,
+      "horse_number": 5,
+      "odds": 1.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105585",
+      "horse_name": "カリーニョ",
+      "score": 0.2319491346087526,
+      "horse_number": 8,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019100606",
+      "horse_name": "ヤマニンループ",
+      "score": 0.008518296544798612,
+      "horse_number": 4,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020105542",
+      "horse_name": "ドンアチェカ",
+      "score": -0.08066788849269431,
+      "horse_number": 9,
+      "odds": 45.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019105824",
+      "horse_name": "アレナリア",
+      "score": -0.09301021704624321,
+      "horse_number": 6,
+      "odds": 21.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105330",
+      "horse_name": "パーサヴィアランス",
+      "score": -0.17623508752085965,
+      "horse_number": 3,
+      "odds": 47.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101121",
+      "horse_name": "ハッピーアズラリー",
+      "score": -0.2010781567585711,
+      "horse_number": 2,
+      "odds": 28.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104050",
+      "horse_name": "2022104050",
+      "score": -0.45891119626304044,
+      "horse_number": 1,
+      "odds": 66.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019100326",
+      "horse_name": "イーサンアイ",
+      "score": -0.5534149531436641,
+      "horse_number": 7,
+      "odds": 94.5
+    }
+  ]
+}
