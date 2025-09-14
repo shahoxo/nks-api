@@ -1,0 +1,152 @@
+{
+  "race_id": "202506040407",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-09-14 13:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105038",
+      "horse_name": "シャンソンドール",
+      "score": 0.4147763945548313,
+      "horse_number": 2,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100979",
+      "horse_name": "マイネルトラオム",
+      "score": 0.21973410572462065,
+      "horse_number": 12,
+      "odds": 20.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106811",
+      "horse_name": "マイネルアウルム",
+      "score": 0.18065292357121648,
+      "horse_number": 14,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104187",
+      "horse_name": "ムーンストラック",
+      "score": 0.15696887114144303,
+      "horse_number": 11,
+      "odds": 8.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105111",
+      "horse_name": "ミッキーラサルダン",
+      "score": 0.0833468684247569,
+      "horse_number": 10,
+      "odds": 12.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106098",
+      "horse_name": "イサムダイヤモンド",
+      "score": 0.015058443136138452,
+      "horse_number": 3,
+      "odds": 11.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101718",
+      "horse_name": "ピコラ",
+      "score": -0.04659787236596541,
+      "horse_number": 7,
+      "odds": 26.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106347",
+      "horse_name": "テンドリームガール",
+      "score": -0.11478488181380313,
+      "horse_number": 5,
+      "odds": 13.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103353",
+      "horse_name": "ストレートブラック",
+      "score": -0.11520082869652849,
+      "horse_number": 1,
+      "odds": 8.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102779",
+      "horse_name": "グラツィオーソ",
+      "score": -0.16842371917392346,
+      "horse_number": 15,
+      "odds": 63.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101455",
+      "horse_name": "ピュルテ",
+      "score": -0.24017388692798824,
+      "horse_number": 13,
+      "odds": 29.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100860",
+      "horse_name": "クラシカルカイザー",
+      "score": -0.2534150550611274,
+      "horse_number": 6,
+      "odds": 18.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104911",
+      "horse_name": "レガーロカリーノ",
+      "score": -0.2697946447709103,
+      "horse_number": 8,
+      "odds": 61.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101966",
+      "horse_name": "デルマサターン",
+      "score": -0.3875667214046711,
+      "horse_number": 9,
+      "odds": 96.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105414",
+      "horse_name": "テンミラージュ",
+      "score": -0.3995339379600354,
+      "horse_number": 17,
+      "odds": 26.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106054",
+      "horse_name": "ケイツーブル",
+      "score": -0.4249209256250126,
+      "horse_number": 4,
+      "odds": 33.2
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022103537",
+      "horse_name": "スピアッジャローザ",
+      "score": -0.5290613227045523,
+      "horse_number": 18,
+      "odds": 19.8
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022103159",
+      "horse_name": "テーオービースト",
+      "score": -0.5538876305273018,
+      "horse_number": 16,
+      "odds": 107.5
+    }
+  ]
+}

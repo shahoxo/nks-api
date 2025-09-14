@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040408",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-14 13:40",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105863",
+      "horse_name": "ルシャルムール",
+      "score": -0.03853181788720428,
+      "horse_number": 14,
+      "odds": 8.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105474",
+      "horse_name": "シャドウキャッスル",
+      "score": -0.09580002710227951,
+      "horse_number": 12,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107011",
+      "horse_name": "ニシノブレイゼスト",
+      "score": -0.17702577972058325,
+      "horse_number": 8,
+      "odds": 14.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100306",
+      "horse_name": "フジレイメイ",
+      "score": -0.1875345409365416,
+      "horse_number": 16,
+      "odds": 10.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106545",
+      "horse_name": "カンレイスキー",
+      "score": -0.19643549351281595,
+      "horse_number": 11,
+      "odds": 7.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101533",
+      "horse_name": "シンボリノエル",
+      "score": -0.19671545449463398,
+      "horse_number": 2,
+      "odds": 18.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019103219",
+      "horse_name": "ブレイクザアイス",
+      "score": -0.20136389273751068,
+      "horse_number": 6,
+      "odds": 52.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106099",
+      "horse_name": "ハルノアラシ",
+      "score": -0.2490960103496017,
+      "horse_number": 9,
+      "odds": 5.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104354",
+      "horse_name": "ジャクソン",
+      "score": -0.29890071208372826,
+      "horse_number": 13,
+      "odds": 61.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103115",
+      "horse_name": "キョウキランブ",
+      "score": -0.3808697302958518,
+      "horse_number": 3,
+      "odds": 5.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104831",
+      "horse_name": "マーゴットソラーレ",
+      "score": -0.41988730454135614,
+      "horse_number": 15,
+      "odds": 11.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100083",
+      "horse_name": "ソラノキャンバス",
+      "score": -0.4331680972063978,
+      "horse_number": 7,
+      "odds": 27.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100045",
+      "horse_name": "レイズサンライズ",
+      "score": -0.5485661685169994,
+      "horse_number": 4,
+      "odds": 116.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100307",
+      "horse_name": "オブシディアン",
+      "score": -0.5833309696314021,
+      "horse_number": 1,
+      "odds": 74.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106195",
+      "horse_name": "アンガアヴィス",
+      "score": -0.6533614053964997,
+      "horse_number": 5,
+      "odds": 87.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104382",
+      "horse_name": "ノーブルニードル",
+      "score": -0.6997242947219148,
+      "horse_number": 10,
+      "odds": 114.9
+    }
+  ]
+}
