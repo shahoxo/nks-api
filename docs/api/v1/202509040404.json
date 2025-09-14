@@ -1,0 +1,136 @@
+{
+  "race_id": "202509040404",
+  "race_name": "3歳未勝利",
+  "race_time": "2025-09-14 11:35",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103482",
+      "horse_name": "ステラノヴァ",
+      "score": 0.2522753177818744,
+      "horse_number": 14,
+      "odds": 4.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100361",
+      "horse_name": "オオデンタ",
+      "score": 0.24190663391560568,
+      "horse_number": 6,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103056",
+      "horse_name": "ムギトルナ",
+      "score": 0.11004683860354585,
+      "horse_number": 13,
+      "odds": 11.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104408",
+      "horse_name": "トップレディー",
+      "score": 0.09569723896812929,
+      "horse_number": 16,
+      "odds": 10.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104391",
+      "horse_name": "ヴィヴァシャス",
+      "score": -0.0002833290561882508,
+      "horse_number": 9,
+      "odds": 6.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102490",
+      "horse_name": "ニネンエフグミ",
+      "score": -0.01804967722366157,
+      "horse_number": 3,
+      "odds": 12.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103627",
+      "horse_name": "オーウェンズバレー",
+      "score": -0.04683071164378384,
+      "horse_number": 1,
+      "odds": 22.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105533",
+      "horse_name": "ニーナバイリッカ",
+      "score": -0.06926152855119219,
+      "horse_number": 5,
+      "odds": 68.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102210",
+      "horse_name": "テーオーヴァルナイ",
+      "score": -0.08562480530964055,
+      "horse_number": 2,
+      "odds": 13.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102208",
+      "horse_name": "テーオーテバルディ",
+      "score": -0.09011636562034715,
+      "horse_number": 4,
+      "odds": 47.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106007",
+      "horse_name": "リリードリーマー",
+      "score": -0.1321040091331451,
+      "horse_number": 8,
+      "odds": 19.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102917",
+      "horse_name": "モズアカトンボ",
+      "score": -0.13517928603401033,
+      "horse_number": 15,
+      "odds": 17.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105736",
+      "horse_name": "ヴァルドグラース",
+      "score": -0.25860337634075115,
+      "horse_number": 7,
+      "odds": 83.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100329",
+      "horse_name": "テイエムタワードン",
+      "score": -0.42645890171997225,
+      "horse_number": 11,
+      "odds": 25.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103134",
+      "horse_name": "メイショウアイク",
+      "score": -0.44064854615654564,
+      "horse_number": 12,
+      "odds": 23.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022100359",
+      "horse_name": "ラヴィングユー",
+      "score": -0.6518943205472477,
+      "horse_number": 10,
+      "odds": 156.6
+    }
+  ]
+}
