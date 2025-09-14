@@ -24,7 +24,7 @@
       "rank": 3,
       "horse_id": "2019100606",
       "horse_name": "ヤマニンループ",
-      "score": 0.008518296544798612,
+      "score": -0.02333505201135117,
       "horse_number": 4,
       "odds": 7.3
     },
@@ -32,33 +32,33 @@
       "rank": 4,
       "horse_id": "2020105542",
       "horse_name": "ドンアチェカ",
-      "score": -0.08066788849269431,
+      "score": -0.030724826516336633,
       "horse_number": 9,
       "odds": 45.8
     },
     {
       "rank": 5,
-      "horse_id": "2019105824",
-      "horse_name": "アレナリア",
-      "score": -0.09301021704624321,
-      "horse_number": 6,
-      "odds": 21.8
-    },
-    {
-      "rank": 6,
       "horse_id": "2019105330",
       "horse_name": "パーサヴィアランス",
-      "score": -0.17623508752085965,
+      "score": -0.1635384031687673,
       "horse_number": 3,
       "odds": 47.1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "horse_id": "2020101121",
       "horse_name": "ハッピーアズラリー",
-      "score": -0.2010781567585711,
+      "score": -0.19147337656375835,
       "horse_number": 2,
       "odds": 28.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105824",
+      "horse_name": "アレナリア",
+      "score": -0.2291972083544176,
+      "horse_number": 6,
+      "odds": 21.8
     },
     {
       "rank": 8,

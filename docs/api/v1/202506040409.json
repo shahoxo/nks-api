@@ -18,7 +18,7 @@
       "horse_name": "ガルサブランカ",
       "score": 0.19449265300519142,
       "horse_number": 2,
-      "odds": 3.1
+      "odds": 3.8
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "ケイデンシーマーク",
       "score": 0.0822571605949587,
       "horse_number": 8,
-      "odds": 11.9
+      "odds": 14.1
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "メイショウヨゾラ",
       "score": 0.0393938769257518,
       "horse_number": 4,
-      "odds": 4.6
+      "odds": 3.4
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "ピコローズ",
       "score": 0.021038693640450308,
       "horse_number": 3,
-      "odds": 8.6
+      "odds": 7.1
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "ミスティア",
       "score": 0.0031873779261159243,
       "horse_number": 1,
-      "odds": 14.3
+      "odds": 15.1
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "ロムネヤ",
       "score": -0.03552745412204798,
       "horse_number": 5,
-      "odds": 32.8
+      "odds": 65.1
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "ネーヴェフレスカ",
       "score": -0.11127966737240703,
       "horse_number": 6,
-      "odds": 13.2
+      "odds": 17.3
     }
   ]
 }

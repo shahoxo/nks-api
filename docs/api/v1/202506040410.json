@@ -1,0 +1,120 @@
+{
+  "race_id": "202506040410",
+  "race_name": "レインボーS",
+  "race_time": "2025-09-14 14:50",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021106954",
+      "horse_name": "アスクナイスショー",
+      "score": 0.268526794820312,
+      "horse_number": 13,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103947",
+      "horse_name": "ホウオウムサシ",
+      "score": -0.03295374635205946,
+      "horse_number": 9,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019105462",
+      "horse_name": "ソリダリティ",
+      "score": -0.05155178713836233,
+      "horse_number": 6,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100225",
+      "horse_name": "モズマーヴェリック",
+      "score": -0.1228016292903783,
+      "horse_number": 5,
+      "odds": 16.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2018105162",
+      "horse_name": "レッドヴェロシティ",
+      "score": -0.1674162376316569,
+      "horse_number": 14,
+      "odds": 32.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020100809",
+      "horse_name": "アマイ",
+      "score": -0.18244734549959674,
+      "horse_number": 12,
+      "odds": 14.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105197",
+      "horse_name": "ブラックシールド",
+      "score": -0.2526381865486643,
+      "horse_number": 1,
+      "odds": 7.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103590",
+      "horse_name": "ココクレーター",
+      "score": -0.3280573872211055,
+      "horse_number": 8,
+      "odds": 18.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105004",
+      "horse_name": "ホークフィールド",
+      "score": -0.3424736810034771,
+      "horse_number": 3,
+      "odds": 36.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019100768",
+      "horse_name": "マイネルニコラス",
+      "score": -0.42123602202136773,
+      "horse_number": 4,
+      "odds": 42.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103920",
+      "horse_name": "フェミナフォルテ",
+      "score": -0.5102294594693619,
+      "horse_number": 11,
+      "odds": 34.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103679",
+      "horse_name": "ダニーデン",
+      "score": -0.5120976133231862,
+      "horse_number": 7,
+      "odds": 9.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103049",
+      "horse_name": "ミカッテヨンデイイ",
+      "score": -0.5766429540794782,
+      "horse_number": 2,
+      "odds": 24.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018103507",
+      "horse_name": "イヤサカ",
+      "score": -0.5836065190735424,
+      "horse_number": 10,
+      "odds": 21.4
+    }
+  ]
+}
