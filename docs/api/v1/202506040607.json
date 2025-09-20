@@ -1,0 +1,152 @@
+{
+  "race_id": "202506040607",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-20 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100781",
+      "horse_name": "ルールーリマ",
+      "score": 0.2742469019651417,
+      "horse_number": 5,
+      "odds": 5.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103310",
+      "horse_name": "レイヤードレッド",
+      "score": 0.13486278751853414,
+      "horse_number": 2,
+      "odds": 14.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104560",
+      "horse_name": "ルトンワージ",
+      "score": 0.10610941788355278,
+      "horse_number": 15,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106811",
+      "horse_name": "マイネルモメンタム",
+      "score": 0.07966718347817028,
+      "horse_number": 11,
+      "odds": 13.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104092",
+      "horse_name": "サクラアドリア",
+      "score": 0.07221281275560838,
+      "horse_number": 17,
+      "odds": 13.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103410",
+      "horse_name": "ディバイングレース",
+      "score": 0.03364887779507994,
+      "horse_number": 14,
+      "odds": 18.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106825",
+      "horse_name": "コスモイシュタル",
+      "score": 0.019418060278352835,
+      "horse_number": 8,
+      "odds": 3.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106051",
+      "horse_name": "セザンワールド",
+      "score": -0.06704262894184614,
+      "horse_number": 4,
+      "odds": 29.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105866",
+      "horse_name": "ティティナ",
+      "score": -0.07096328407939853,
+      "horse_number": 6,
+      "odds": 10.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105214",
+      "horse_name": "モアナフリューゲル",
+      "score": -0.23670877815588257,
+      "horse_number": 7,
+      "odds": 37.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106102",
+      "horse_name": "エコロライジン",
+      "score": -0.2494423024225347,
+      "horse_number": 3,
+      "odds": 79.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103514",
+      "horse_name": "ピジョンポイント",
+      "score": -0.297128474506474,
+      "horse_number": 1,
+      "odds": 22.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106832",
+      "horse_name": "コスモキャバリエ",
+      "score": -0.41417695948410643,
+      "horse_number": 10,
+      "odds": 95.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022107149",
+      "horse_name": "ヴォラヴィア",
+      "score": -0.4785262819175887,
+      "horse_number": 12,
+      "odds": 21.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100456",
+      "horse_name": "ヴェネチアンマスク",
+      "score": -0.48493943829655606,
+      "horse_number": 13,
+      "odds": 189.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022105395",
+      "horse_name": "オロスコピオ",
+      "score": -0.512261084241787,
+      "horse_number": 18,
+      "odds": 58.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2021101801",
+      "horse_name": "ケイツールピア",
+      "score": -0.5506325049144988,
+      "horse_number": 16,
+      "odds": 100.5
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021103198",
+      "horse_name": "ハルノドゥミプリエ",
+      "score": -0.5907216745266844,
+      "horse_number": 9,
+      "odds": 103.7
+    }
+  ]
+}
