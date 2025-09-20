@@ -1,0 +1,96 @@
+{
+  "race_id": "202506040606",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-20 12:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104859",
+      "horse_name": "プレシャスデイ",
+      "score": 0.07489238360104108,
+      "horse_number": 3,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105449",
+      "horse_name": "コンテソレーラ",
+      "score": -0.08406168365961583,
+      "horse_number": 4,
+      "odds": 8.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105197",
+      "horse_name": "マウントバーノン",
+      "score": -0.1897874134663241,
+      "horse_number": 7,
+      "odds": 4.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101201",
+      "horse_name": "ロードインフェルノ",
+      "score": -0.22389518929651323,
+      "horse_number": 8,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101255",
+      "horse_name": "ステイアンビシャス",
+      "score": -0.24413963751877318,
+      "horse_number": 1,
+      "odds": 6.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104376",
+      "horse_name": "ユイノレクター",
+      "score": -0.28871171637522075,
+      "horse_number": 5,
+      "odds": 6.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019103204",
+      "horse_name": "クールシェルタ",
+      "score": -0.4419512209304478,
+      "horse_number": 2,
+      "odds": 44.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104155",
+      "horse_name": "サトノリアン",
+      "score": -0.5129500387260524,
+      "horse_number": 10,
+      "odds": 17.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104574",
+      "horse_name": "ジーティーアグリム",
+      "score": -0.5915594667031606,
+      "horse_number": 6,
+      "odds": 29.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106921",
+      "horse_name": "ユウオウマイシン",
+      "score": -0.6043228396389515,
+      "horse_number": 9,
+      "odds": 88.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101572",
+      "horse_name": "スペシャリスト",
+      "score": -0.6997242947219148,
+      "horse_number": 11,
+      "odds": 78.9
+    }
+  ]
+}
