@@ -16,36 +16,28 @@
       "rank": 2,
       "horse_id": "2023100398",
       "horse_name": "ランドスター",
-      "score": 0.15552424394706588,
+      "score": 0.18158198881549775,
       "horse_number": 11,
       "odds": 6.3
     },
     {
       "rank": 3,
-      "horse_id": "2023105128",
-      "horse_name": "ヤマメライズ",
-      "score": 0.07205594206507099,
-      "horse_number": 4,
-      "odds": 18.5
-    },
-    {
-      "rank": 4,
       "horse_id": "2023102897",
       "horse_name": "プリティーミズホ",
-      "score": 0.01612357056734339,
+      "score": 0.04885170625142316,
       "horse_number": 5,
       "odds": 7.6
     },
     {
-      "rank": 5,
-      "horse_id": "2023103355",
-      "horse_name": "クリエープキー",
-      "score": -0.021480485892463992,
-      "horse_number": 13,
-      "odds": 6.4
+      "rank": 4,
+      "horse_id": "2023105128",
+      "horse_name": "ヤマメライズ",
+      "score": 0.013359514075260107,
+      "horse_number": 4,
+      "odds": 18.5
     },
     {
-      "rank": 6,
+      "rank": 5,
       "horse_id": "2023100214",
       "horse_name": "シーグルロス",
       "score": -0.0397635610443935,
@@ -53,18 +45,26 @@
       "odds": 39.1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "horse_id": "2023110040",
       "horse_name": "エンヴィーミー",
-      "score": -0.07058253399179866,
+      "score": -0.04249746699587707,
       "horse_number": 7,
       "odds": 8.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103355",
+      "horse_name": "クリエープキー",
+      "score": -0.04881800589279298,
+      "horse_number": 13,
+      "odds": 6.4
     },
     {
       "rank": 8,
       "horse_id": "2023106665",
       "horse_name": "ウチュウノセカイ",
-      "score": -0.12702414175364013,
+      "score": -0.11786465946019768,
       "horse_number": 6,
       "odds": 35.7
     },
@@ -72,7 +72,7 @@
       "rank": 9,
       "horse_id": "2023110065",
       "horse_name": "ユウファラオ",
-      "score": -0.15814481583956325,
+      "score": -0.14132243019155002,
       "horse_number": 2,
       "odds": 10.8
     },
@@ -80,7 +80,7 @@
       "rank": 10,
       "horse_id": "2023106823",
       "horse_name": "マイオウンウェイ",
-      "score": -0.15885694087179333,
+      "score": -0.18101797316966645,
       "horse_number": 1,
       "odds": 10.5
     },
@@ -88,7 +88,7 @@
       "rank": 11,
       "horse_id": "2023106912",
       "horse_name": "ジュジュドール",
-      "score": -0.2258353404304858,
+      "score": -0.26505240361844085,
       "horse_number": 12,
       "odds": 38.4
     },

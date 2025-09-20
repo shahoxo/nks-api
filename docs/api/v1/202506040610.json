@@ -1,0 +1,80 @@
+{
+  "race_id": "202506040610",
+  "race_name": "九十九里特別",
+  "race_time": "2025-09-20 15:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104902",
+      "horse_name": "マイユニバース",
+      "score": 0.10848382084565462,
+      "horse_number": 1,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103070",
+      "horse_name": "レイデラティエラ",
+      "score": 0.028682907965841734,
+      "horse_number": 3,
+      "odds": 8.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103976",
+      "horse_name": "エコロレイズ",
+      "score": -0.013798607601243847,
+      "horse_number": 2,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103731",
+      "horse_name": "ミントマーク",
+      "score": -0.0772727332474694,
+      "horse_number": 4,
+      "odds": 7.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020102725",
+      "horse_name": "ソワドリヨン",
+      "score": -0.1753532875645285,
+      "horse_number": 6,
+      "odds": 19.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018110086",
+      "horse_name": "バニシングポイント",
+      "score": -0.3868426849049326,
+      "horse_number": 9,
+      "odds": 15.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104722",
+      "horse_name": "ネイサン",
+      "score": -0.5938962629264705,
+      "horse_number": 5,
+      "odds": 57.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105737",
+      "horse_name": "ワイズゴールド",
+      "score": -0.612245741194358,
+      "horse_number": 7,
+      "odds": 101.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105350",
+      "horse_name": "コスモマルーン",
+      "score": -0.6533614053964997,
+      "horse_number": 8,
+      "odds": 94.1
+    }
+  ]
+}

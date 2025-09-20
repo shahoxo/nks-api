@@ -1,0 +1,64 @@
+{
+  "race_id": "202509040610",
+  "race_name": "夕月特別",
+  "race_time": "2025-09-20 14:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104748",
+      "horse_name": "ウィルサヴァイブ",
+      "score": 0.4123660169797055,
+      "horse_number": 5,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101448",
+      "horse_name": "グローリーリンク",
+      "score": 0.2728383164063337,
+      "horse_number": 1,
+      "odds": 1.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106642",
+      "horse_name": "ファミリーツリー",
+      "score": 0.08223717278463362,
+      "horse_number": 4,
+      "odds": 12.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106667",
+      "horse_name": "ヴォワラクテ",
+      "score": 0.06153503196150899,
+      "horse_number": 2,
+      "odds": 12.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105102",
+      "horse_name": "スターリングアップ",
+      "score": -0.16251691908872024,
+      "horse_number": 7,
+      "odds": 13.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101121",
+      "horse_name": "ハッピーアズラリー",
+      "score": -0.28965287672187623,
+      "horse_number": 3,
+      "odds": 43.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100446",
+      "horse_name": "イトカワサクラ",
+      "score": -0.6007874329134409,
+      "horse_number": 6,
+      "odds": 10.8
+    }
+  ]
+}
