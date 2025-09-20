@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040608",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-20 13:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103257",
+      "horse_name": "チャコール",
+      "score": 0.07276251540231014,
+      "horse_number": 9,
+      "odds": 8.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105138",
+      "horse_name": "ダノンリュラ",
+      "score": 0.06836146645837074,
+      "horse_number": 3,
+      "odds": 10.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106648",
+      "horse_name": "アルデショワ",
+      "score": 0.056914319525839925,
+      "horse_number": 14,
+      "odds": 3.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100547",
+      "horse_name": "アサクサグレース",
+      "score": -0.002393870763172732,
+      "horse_number": 6,
+      "odds": 3.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100574",
+      "horse_name": "ルイステソーロ",
+      "score": -0.08806325928954016,
+      "horse_number": 4,
+      "odds": 13.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103710",
+      "horse_name": "ホウオウジュビリー",
+      "score": -0.12454977937834164,
+      "horse_number": 16,
+      "odds": 22.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100918",
+      "horse_name": "ケイツーギルダー",
+      "score": -0.24632239455468335,
+      "horse_number": 10,
+      "odds": 11.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106243",
+      "horse_name": "サヨノジャンボリー",
+      "score": -0.2492691117529514,
+      "horse_number": 12,
+      "odds": 5.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105689",
+      "horse_name": "ヴァリアントマーチ",
+      "score": -0.4364982135183656,
+      "horse_number": 13,
+      "odds": 62.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101636",
+      "horse_name": "サブアトミック",
+      "score": -0.44723489385122506,
+      "horse_number": 1,
+      "odds": 16.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103739",
+      "horse_name": "ゲクウ",
+      "score": -0.4687040075237972,
+      "horse_number": 8,
+      "odds": 68.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102784",
+      "horse_name": "ノアスペシャル",
+      "score": -0.4692098253006828,
+      "horse_number": 7,
+      "odds": 49.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102774",
+      "horse_name": "フォクシー",
+      "score": -0.5594784051374321,
+      "horse_number": 11,
+      "odds": 211.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104141",
+      "horse_name": "ハジメテノチュウ",
+      "score": -0.5604919038970706,
+      "horse_number": 15,
+      "odds": 148.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102599",
+      "horse_name": "リトルミム",
+      "score": -0.6534423250362207,
+      "horse_number": 5,
+      "odds": 109.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020100551",
+      "horse_name": "ディーン",
+      "score": -0.7344997899121097,
+      "horse_number": 2,
+      "odds": 120.5
+    }
+  ]
+}
