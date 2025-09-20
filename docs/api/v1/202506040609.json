@@ -1,0 +1,112 @@
+{
+  "race_id": "202506040609",
+  "race_name": "カンナS",
+  "race_time": "2025-09-20 14:31",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103361",
+      "horse_name": "ミスバレンシア",
+      "score": 0.4827533595370429,
+      "horse_number": 10,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100398",
+      "horse_name": "ランドスター",
+      "score": 0.15552424394706588,
+      "horse_number": 11,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105128",
+      "horse_name": "ヤマメライズ",
+      "score": 0.07205594206507099,
+      "horse_number": 4,
+      "odds": 18.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102897",
+      "horse_name": "プリティーミズホ",
+      "score": 0.01612357056734339,
+      "horse_number": 5,
+      "odds": 7.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103355",
+      "horse_name": "クリエープキー",
+      "score": -0.021480485892463992,
+      "horse_number": 13,
+      "odds": 6.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100214",
+      "horse_name": "シーグルロス",
+      "score": -0.0397635610443935,
+      "horse_number": 9,
+      "odds": 39.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023110040",
+      "horse_name": "エンヴィーミー",
+      "score": -0.07058253399179866,
+      "horse_number": 7,
+      "odds": 8.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106665",
+      "horse_name": "ウチュウノセカイ",
+      "score": -0.12702414175364013,
+      "horse_number": 6,
+      "odds": 35.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023110065",
+      "horse_name": "ユウファラオ",
+      "score": -0.15814481583956325,
+      "horse_number": 2,
+      "odds": 10.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106823",
+      "horse_name": "マイオウンウェイ",
+      "score": -0.15885694087179333,
+      "horse_number": 1,
+      "odds": 10.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106912",
+      "horse_name": "ジュジュドール",
+      "score": -0.2258353404304858,
+      "horse_number": 12,
+      "odds": 38.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106197",
+      "horse_name": "フレンドモナコ",
+      "score": -0.4669215084010411,
+      "horse_number": 8,
+      "odds": 15.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106256",
+      "horse_name": "セイウンアインス",
+      "score": -0.5222423449511203,
+      "horse_number": 3,
+      "odds": 45.2
+    }
+  ]
+}
