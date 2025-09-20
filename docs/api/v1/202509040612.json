@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2022106186",
       "horse_name": "ゴッドエスパーダ",
-      "score": 0.30630090022219025,
+      "score": 0.2746076453452677,
       "horse_number": 2,
       "odds": 4.1
     },
@@ -16,7 +16,7 @@
       "rank": 2,
       "horse_id": "2021100471",
       "horse_name": "シンコーナホチャン",
-      "score": 0.1534551246503616,
+      "score": 0.14398886815274042,
       "horse_number": 16,
       "odds": 15.0
     },
@@ -24,7 +24,7 @@
       "rank": 3,
       "horse_id": "2022104550",
       "horse_name": "カミノレアル",
-      "score": 0.11548477842114169,
+      "score": 0.12026846524028592,
       "horse_number": 1,
       "odds": 6.7
     },
@@ -32,71 +32,71 @@
       "rank": 4,
       "horse_id": "2020101913",
       "horse_name": "タカサンフェイス",
-      "score": 0.06956450175788453,
+      "score": 0.04189455199562318,
       "horse_number": 15,
       "odds": 11.0
     },
     {
       "rank": 5,
-      "horse_id": "2021101419",
-      "horse_name": "オーシンハーフ",
-      "score": -0.005285598498665366,
-      "horse_number": 14,
-      "odds": 6.1
+      "horse_id": "2021103065",
+      "horse_name": "レイドデザート",
+      "score": 0.01327894740841342,
+      "horse_number": 13,
+      "odds": 21.8
     },
     {
       "rank": 6,
       "horse_id": "2020103697",
       "horse_name": "ロイガヴェーグル",
-      "score": -0.00957320797883289,
+      "score": -0.005088487569337472,
       "horse_number": 6,
       "odds": 48.6
     },
     {
       "rank": 7,
-      "horse_id": "2021109027",
-      "horse_name": "テーオールビー",
-      "score": -0.016990417444298533,
-      "horse_number": 3,
-      "odds": 9.2
-    },
-    {
-      "rank": 8,
       "horse_id": "2022100664",
       "horse_name": "グランキングオー",
-      "score": -0.018779941352444412,
+      "score": -0.0279391187303223,
       "horse_number": 11,
       "odds": 6.1
     },
     {
+      "rank": 8,
+      "horse_id": "2021101419",
+      "horse_name": "オーシンハーフ",
+      "score": -0.04656878113771207,
+      "horse_number": 14,
+      "odds": 6.1
+    },
+    {
       "rank": 9,
-      "horse_id": "2021103065",
-      "horse_name": "レイドデザート",
-      "score": -0.029240438862211157,
-      "horse_number": 13,
-      "odds": 21.8
+      "horse_id": "2021109027",
+      "horse_name": "テーオールビー",
+      "score": -0.07974828698452888,
+      "horse_number": 3,
+      "odds": 9.2
     },
     {
       "rank": 10,
-      "horse_id": "2017103184",
-      "horse_name": "トゥルブレンシア",
-      "score": -0.16088589407620876,
-      "horse_number": 4,
-      "odds": 33.1
+      "horse_id": "2021104581",
+      "horse_name": "ハリウッドパーク",
+      "score": -0.16879943027419134,
+      "horse_number": 7,
+      "odds": 18.7
     },
     {
       "rank": 11,
-      "horse_id": "2021104581",
-      "horse_name": "ハリウッドパーク",
-      "score": -0.218742492250549,
-      "horse_number": 7,
-      "odds": 18.7
+      "horse_id": "2017103184",
+      "horse_name": "トゥルブレンシア",
+      "score": -0.2337849414414486,
+      "horse_number": 4,
+      "odds": 33.1
     },
     {
       "rank": 12,
       "horse_id": "2019103983",
       "horse_name": "リジン",
-      "score": -0.24734877586151868,
+      "score": -0.2587517805845115,
       "horse_number": 12,
       "odds": 24.9
     },
@@ -120,7 +120,7 @@
       "rank": 15,
       "horse_id": "2020102664",
       "horse_name": "ウォーターハウス",
-      "score": -0.6372508725688705,
+      "score": -0.6558506860683125,
       "horse_number": 5,
       "odds": 24.6
     },

@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040612",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-09-20 16:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019101399",
+      "horse_name": "ザウリ",
+      "score": 0.2704696786635224,
+      "horse_number": 8,
+      "odds": 17.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102315",
+      "horse_name": "シュヴァルボヌール",
+      "score": 0.2343000795347952,
+      "horse_number": 15,
+      "odds": 2.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100245",
+      "horse_name": "ヤマメキング",
+      "score": 0.1282026837627174,
+      "horse_number": 12,
+      "odds": 4.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020107095",
+      "horse_name": "メモリーグラス",
+      "score": -0.0458461757278907,
+      "horse_number": 7,
+      "odds": 24.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100956",
+      "horse_name": "スーパーマン",
+      "score": -0.08270351868441721,
+      "horse_number": 9,
+      "odds": 16.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110104",
+      "horse_name": "エコロエイト",
+      "score": -0.09507559458953337,
+      "horse_number": 11,
+      "odds": 25.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103198",
+      "horse_name": "メイデンタワー",
+      "score": -0.21424347068776337,
+      "horse_number": 5,
+      "odds": 7.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110109",
+      "horse_name": "グランオルカ",
+      "score": -0.2725507598204547,
+      "horse_number": 10,
+      "odds": 21.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106777",
+      "horse_name": "クリスタルウエイ",
+      "score": -0.2752712088253957,
+      "horse_number": 13,
+      "odds": 40.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019102736",
+      "horse_name": "イルザ",
+      "score": -0.30931483358578366,
+      "horse_number": 6,
+      "odds": 63.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104864",
+      "horse_name": "タマモヴェナトル",
+      "score": -0.35146108494824646,
+      "horse_number": 4,
+      "odds": 30.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019106118",
+      "horse_name": "ミヤビクライ",
+      "score": -0.4190305020567964,
+      "horse_number": 14,
+      "odds": 39.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104903",
+      "horse_name": "ヴェルトラウム",
+      "score": -0.4817538441546665,
+      "horse_number": 3,
+      "odds": 37.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103710",
+      "horse_name": "ヘルメース",
+      "score": -0.505694468665794,
+      "horse_number": 16,
+      "odds": 56.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100892",
+      "horse_name": "サニーサフラン",
+      "score": -0.5488310238833476,
+      "horse_number": 2,
+      "odds": 79.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018106610",
+      "horse_name": "ビヨンドザシーン",
+      "score": -0.6746403448295699,
+      "horse_number": 1,
+      "odds": 142.2
+    }
+  ]
+}
