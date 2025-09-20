@@ -1,0 +1,112 @@
+{
+  "race_id": "202506040601",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-09-20 10:00",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105317",
+      "horse_name": "ウィングブルー",
+      "score": 0.1064169032208016,
+      "horse_number": 6,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100647",
+      "horse_name": "ブルーミーティア",
+      "score": 0.09552044592733903,
+      "horse_number": 1,
+      "odds": 2.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106193",
+      "horse_name": "ソウルサヴァイヴ",
+      "score": -0.2297913235176275,
+      "horse_number": 13,
+      "odds": 27.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105111",
+      "horse_name": "ラシューバ",
+      "score": -0.262326901207568,
+      "horse_number": 8,
+      "odds": 18.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102352",
+      "horse_name": "タイセツナヒ",
+      "score": -0.4840669479109302,
+      "horse_number": 2,
+      "odds": 14.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103291",
+      "horse_name": "ドレドレ",
+      "score": -0.5139978928314399,
+      "horse_number": 12,
+      "odds": 15.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105664",
+      "horse_name": "ラフレードピエル",
+      "score": -0.5277213288714689,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104932",
+      "horse_name": "テンバコウクウ",
+      "score": -0.5641607127905538,
+      "horse_number": 4,
+      "odds": 115.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023109058",
+      "horse_name": "マツリダシリウス",
+      "score": -0.6102348234670399,
+      "horse_number": 9,
+      "odds": 37.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101774",
+      "horse_name": "グレースチャクラ",
+      "score": -0.7212483613895885,
+      "horse_number": 11,
+      "odds": 86.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106434",
+      "horse_name": "フラクタル",
+      "score": -0.7212483613895885,
+      "horse_number": 5,
+      "odds": 27.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104706",
+      "horse_name": "ニシノロッドマン",
+      "score": -0.7334327562287062,
+      "horse_number": 3,
+      "odds": 66.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023109103",
+      "horse_name": "カシノユメミヅキ",
+      "score": -0.7344997899121097,
+      "horse_number": 7,
+      "odds": 132.5
+    }
+  ]
+}

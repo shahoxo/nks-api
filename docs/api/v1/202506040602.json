@@ -1,0 +1,120 @@
+{
+  "race_id": "202506040602",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-09-20 10:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100021",
+      "horse_name": "キンググローリー",
+      "score": 0.3032215895371352,
+      "horse_number": 11,
+      "odds": 5.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100067",
+      "horse_name": "ニシノマグノリア",
+      "score": 0.16643249500298857,
+      "horse_number": 13,
+      "odds": 16.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104576",
+      "horse_name": "カンティーナ",
+      "score": 0.12779021907392263,
+      "horse_number": 14,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107289",
+      "horse_name": "ポルフュロゲネトス",
+      "score": 0.07639971995111612,
+      "horse_number": 12,
+      "odds": 2.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104721",
+      "horse_name": "シルバーゴールド",
+      "score": -0.15429549603225184,
+      "horse_number": 6,
+      "odds": 10.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103483",
+      "horse_name": "クールフィデル",
+      "score": -0.2273951740315069,
+      "horse_number": 2,
+      "odds": 4.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104043",
+      "horse_name": "ハデステソーロ",
+      "score": -0.3008056471634094,
+      "horse_number": 8,
+      "odds": 27.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106098",
+      "horse_name": "ピコマーキス",
+      "score": -0.42399638195866846,
+      "horse_number": 9,
+      "odds": 54.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106582",
+      "horse_name": "モリインビクタス",
+      "score": -0.4938481670671474,
+      "horse_number": 5,
+      "odds": 85.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105589",
+      "horse_name": "スターオブアダム",
+      "score": -0.5547077446669563,
+      "horse_number": 10,
+      "odds": 41.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104563",
+      "horse_name": "マイネルモンテュス",
+      "score": -0.5844092227108343,
+      "horse_number": 1,
+      "odds": 75.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102160",
+      "horse_name": "アルデキングダム",
+      "score": -0.6665961087376128,
+      "horse_number": 7,
+      "odds": 73.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106452",
+      "horse_name": "コスモラムバック",
+      "score": -0.6997242947219148,
+      "horse_number": 3,
+      "odds": 85.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102170",
+      "horse_name": "ビレッジルイーザ",
+      "score": -0.7295377203336686,
+      "horse_number": 4,
+      "odds": 72.0
+    }
+  ]
+}

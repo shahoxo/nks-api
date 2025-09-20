@@ -1,0 +1,64 @@
+{
+  "race_id": "202509040602",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-09-20 10:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102810",
+      "horse_name": "エチゴドラゴン",
+      "score": 0.2769537591569821,
+      "horse_number": 3,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104690",
+      "horse_name": "ネッタイヤライ",
+      "score": 0.24560527996984588,
+      "horse_number": 5,
+      "odds": 1.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103201",
+      "horse_name": "タイセイパルス",
+      "score": 0.19951618451647826,
+      "horse_number": 2,
+      "odds": 9.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103501",
+      "horse_name": "シンゼンイセ",
+      "score": 0.08382515435750175,
+      "horse_number": 7,
+      "odds": 9.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106414",
+      "horse_name": "ライツェントライゼ",
+      "score": -0.35932820063554516,
+      "horse_number": 4,
+      "odds": 16.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102642",
+      "horse_name": "シャインヴィーラ",
+      "score": -0.47052103788697786,
+      "horse_number": 1,
+      "odds": 60.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103622",
+      "horse_name": "ティアーズクィーン",
+      "score": -0.536781697943473,
+      "horse_number": 6,
+      "odds": 53.3
+    }
+  ]
+}
