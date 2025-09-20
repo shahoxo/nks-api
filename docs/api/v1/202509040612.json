@@ -1,0 +1,136 @@
+{
+  "race_id": "202509040612",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-09-20 16:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106186",
+      "horse_name": "ゴッドエスパーダ",
+      "score": 0.30630090022219025,
+      "horse_number": 2,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100471",
+      "horse_name": "シンコーナホチャン",
+      "score": 0.1534551246503616,
+      "horse_number": 16,
+      "odds": 15.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104550",
+      "horse_name": "カミノレアル",
+      "score": 0.11548477842114169,
+      "horse_number": 1,
+      "odds": 6.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101913",
+      "horse_name": "タカサンフェイス",
+      "score": 0.06956450175788453,
+      "horse_number": 15,
+      "odds": 11.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101419",
+      "horse_name": "オーシンハーフ",
+      "score": -0.005285598498665366,
+      "horse_number": 14,
+      "odds": 6.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103697",
+      "horse_name": "ロイガヴェーグル",
+      "score": -0.00957320797883289,
+      "horse_number": 6,
+      "odds": 48.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021109027",
+      "horse_name": "テーオールビー",
+      "score": -0.016990417444298533,
+      "horse_number": 3,
+      "odds": 9.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100664",
+      "horse_name": "グランキングオー",
+      "score": -0.018779941352444412,
+      "horse_number": 11,
+      "odds": 6.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103065",
+      "horse_name": "レイドデザート",
+      "score": -0.029240438862211157,
+      "horse_number": 13,
+      "odds": 21.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2017103184",
+      "horse_name": "トゥルブレンシア",
+      "score": -0.16088589407620876,
+      "horse_number": 4,
+      "odds": 33.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104581",
+      "horse_name": "ハリウッドパーク",
+      "score": -0.218742492250549,
+      "horse_number": 7,
+      "odds": 18.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019103983",
+      "horse_name": "リジン",
+      "score": -0.24734877586151868,
+      "horse_number": 12,
+      "odds": 24.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018100858",
+      "horse_name": "メイショウマントル",
+      "score": -0.48380914849236456,
+      "horse_number": 9,
+      "odds": 103.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104215",
+      "horse_name": "ケイアイメキラ",
+      "score": -0.5129184402660855,
+      "horse_number": 8,
+      "odds": 60.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102664",
+      "horse_name": "ウォーターハウス",
+      "score": -0.6372508725688705,
+      "horse_number": 5,
+      "odds": 24.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019102794",
+      "horse_name": "スカンジナビア",
+      "score": -0.6997242947219148,
+      "horse_number": 10,
+      "odds": 66.7
+    }
+  ]
+}
