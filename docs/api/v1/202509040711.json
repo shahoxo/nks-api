@@ -1,0 +1,88 @@
+{
+  "race_id": "202509040711",
+  "race_name": "神戸新聞杯",
+  "race_time": "2025-09-21 15:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104714",
+      "horse_name": "ショウヘイ",
+      "score": 0.38529394446947174,
+      "horse_number": 5,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102199",
+      "horse_name": "アルマデオロ",
+      "score": 0.3403894549027294,
+      "horse_number": 3,
+      "odds": 13.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103995",
+      "horse_name": "ジョバンニ",
+      "score": 0.30979849944352955,
+      "horse_number": 2,
+      "odds": 5.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105099",
+      "horse_name": "エリキング",
+      "score": 0.2897902846256061,
+      "horse_number": 10,
+      "odds": 2.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110054",
+      "horse_name": "デルアヴァー",
+      "score": 0.18863551486198932,
+      "horse_number": 9,
+      "odds": 21.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103787",
+      "horse_name": "ジョイボーイ",
+      "score": 0.142123838720807,
+      "horse_number": 4,
+      "odds": 15.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105580",
+      "horse_name": "ライトトラック",
+      "score": 0.06895060662772422,
+      "horse_number": 1,
+      "odds": 13.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105390",
+      "horse_name": "パッションリッチ",
+      "score": 0.009437338833776315,
+      "horse_number": 8,
+      "odds": 62.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105485",
+      "horse_name": "ボンドロア",
+      "score": 0.003662843204334687,
+      "horse_number": 7,
+      "odds": 25.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102604",
+      "horse_name": "サンライズバブル",
+      "score": -0.038708495508404765,
+      "horse_number": 6,
+      "odds": 22.9
+    }
+  ]
+}
