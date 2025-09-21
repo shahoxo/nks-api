@@ -1,0 +1,112 @@
+{
+  "race_id": "202509040708",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-21 13:40",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021106621",
+      "horse_name": "ハイウェイスター",
+      "score": 0.21596918011753555,
+      "horse_number": 5,
+      "odds": 6.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100439",
+      "horse_name": "ハギノコラソン",
+      "score": 0.1343644339015646,
+      "horse_number": 1,
+      "odds": 1.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105238",
+      "horse_name": "アリストクラシア",
+      "score": -0.058523911039940535,
+      "horse_number": 7,
+      "odds": 15.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102906",
+      "horse_name": "オリジナルファイン",
+      "score": -0.060682328354010905,
+      "horse_number": 8,
+      "odds": 8.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105394",
+      "horse_name": "ヒヒーン",
+      "score": -0.22434393958881957,
+      "horse_number": 6,
+      "odds": 7.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105954",
+      "horse_name": "コンテナライン",
+      "score": -0.24615023976754846,
+      "horse_number": 4,
+      "odds": 58.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106995",
+      "horse_name": "アイスリーディング",
+      "score": -0.2749828813049709,
+      "horse_number": 2,
+      "odds": 30.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104292",
+      "horse_name": "フクキタテーラー",
+      "score": -0.351290022240367,
+      "horse_number": 9,
+      "odds": 18.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100217",
+      "horse_name": "アルマヴィーナス",
+      "score": -0.4106165963437848,
+      "horse_number": 13,
+      "odds": 50.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103463",
+      "horse_name": "サラサラヘアー",
+      "score": -0.6318373387288261,
+      "horse_number": 11,
+      "odds": 80.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101391",
+      "horse_name": "ブラックドレス",
+      "score": -0.6318373387288261,
+      "horse_number": 12,
+      "odds": 30.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100450",
+      "horse_name": "ラブアンドラッキー",
+      "score": -0.6732626067852269,
+      "horse_number": 3,
+      "odds": 85.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101920",
+      "horse_name": "メラヴィリオーザ",
+      "score": -0.6997242947219148,
+      "horse_number": 10,
+      "odds": 9.8
+    }
+  ]
+}
