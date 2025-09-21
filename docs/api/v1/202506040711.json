@@ -1,0 +1,96 @@
+{
+  "race_id": "202506040711",
+  "race_name": "オールカマー",
+  "race_time": "2025-09-21 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2017105074",
+      "horse_name": "クロミナンス",
+      "score": 0.5538375461953782,
+      "horse_number": 3,
+      "odds": 11.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019105556",
+      "horse_name": "ドゥラドーレス",
+      "score": 0.5038941300333148,
+      "horse_number": 9,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104855",
+      "horse_name": "ホーエリート",
+      "score": 0.16083696565005196,
+      "horse_number": 5,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020105795",
+      "horse_name": "フェアエールング",
+      "score": 0.05916625267950009,
+      "horse_number": 10,
+      "odds": 24.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105898",
+      "horse_name": "レガレイラ",
+      "score": 0.017609368689474606,
+      "horse_number": 4,
+      "odds": 3.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104882",
+      "horse_name": "シュバルツクーゲル",
+      "score": -0.034305424614726195,
+      "horse_number": 6,
+      "odds": 57.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018105012",
+      "horse_name": "ヨーホーレイク",
+      "score": -0.05256545560803688,
+      "horse_number": 7,
+      "odds": 7.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106787",
+      "horse_name": "コスモキュランダ",
+      "score": -0.08695885998938531,
+      "horse_number": 1,
+      "odds": 8.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105633",
+      "horse_name": "リビアングラス",
+      "score": -0.09521242614110641,
+      "horse_number": 2,
+      "odds": 12.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019103823",
+      "horse_name": "リカンカブール",
+      "score": -0.15784613226643038,
+      "horse_number": 8,
+      "odds": 68.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018101660",
+      "horse_name": "ワイドエンペラー",
+      "score": -0.1928041622263284,
+      "horse_number": 11,
+      "odds": 117.2
+    }
+  ]
+}
