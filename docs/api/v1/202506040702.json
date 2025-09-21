@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040702",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-09-21 10:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105751",
+      "horse_name": "ラウンドヒル",
+      "score": 0.05519586109260638,
+      "horse_number": 15,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100792",
+      "horse_name": "イーリスアスター",
+      "score": 0.04649981564923937,
+      "horse_number": 4,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105932",
+      "horse_name": "リバテイー",
+      "score": 0.014383675766921799,
+      "horse_number": 13,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101676",
+      "horse_name": "ファンシーフリル",
+      "score": -0.1398173109945262,
+      "horse_number": 8,
+      "odds": 5.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102803",
+      "horse_name": "ケイベエ",
+      "score": -0.38271528995232573,
+      "horse_number": 12,
+      "odds": 10.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102342",
+      "horse_name": "コンフィアンサ",
+      "score": -0.45308250533870775,
+      "horse_number": 7,
+      "odds": 11.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023109039",
+      "horse_name": "カイトヴァイター",
+      "score": -0.5374981215909022,
+      "horse_number": 16,
+      "odds": 12.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104074",
+      "horse_name": "エクスプレスナイト",
+      "score": -0.6119974059069686,
+      "horse_number": 6,
+      "odds": 13.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106258",
+      "horse_name": "ニシノランペイジ",
+      "score": -0.6150561413541251,
+      "horse_number": 11,
+      "odds": 38.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102819",
+      "horse_name": "マーシャルアン",
+      "score": -0.6518943205472477,
+      "horse_number": 3,
+      "odds": 24.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105713",
+      "horse_name": "ホーリーデイ",
+      "score": -0.6829148837393448,
+      "horse_number": 9,
+      "odds": 100.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106601",
+      "horse_name": "メイポール",
+      "score": -0.7212483613895885,
+      "horse_number": 1,
+      "odds": 72.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101471",
+      "horse_name": "カンタベリービーム",
+      "score": -0.7498547462216962,
+      "horse_number": 2,
+      "odds": 69.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105542",
+      "horse_name": "トモエナゲ",
+      "score": -0.7560238565797833,
+      "horse_number": 5,
+      "odds": 120.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100888",
+      "horse_name": "セントリアン",
+      "score": -0.7560238565797833,
+      "horse_number": 10,
+      "odds": 44.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100723",
+      "horse_name": "ハナムラサキ",
+      "score": -0.7560238565797833,
+      "horse_number": 14,
+      "odds": 148.6
+    }
+  ]
+}

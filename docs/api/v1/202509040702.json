@@ -1,0 +1,112 @@
+{
+  "race_id": "202509040702",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-09-21 10:20",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106188",
+      "horse_name": "ビッグヒーロー",
+      "score": 0.470013032966317,
+      "horse_number": 4,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103160",
+      "horse_name": "メイクワンズデイ",
+      "score": 0.37907725784566926,
+      "horse_number": 13,
+      "odds": 7.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107113",
+      "horse_name": "アルヴァンドルード",
+      "score": 0.30753354912535374,
+      "horse_number": 12,
+      "odds": 4.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104960",
+      "horse_name": "アスミル",
+      "score": 0.2686291027296329,
+      "horse_number": 8,
+      "odds": 20.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105084",
+      "horse_name": "コルテオソレイユ",
+      "score": 0.26590143073217193,
+      "horse_number": 7,
+      "odds": 14.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100281",
+      "horse_name": "クールドリオン",
+      "score": 0.13150256291399362,
+      "horse_number": 9,
+      "odds": 3.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106931",
+      "horse_name": "パトローナス",
+      "score": -0.23505157555573292,
+      "horse_number": 6,
+      "odds": 16.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104325",
+      "horse_name": "パンサーズ",
+      "score": -0.3739025193547566,
+      "horse_number": 2,
+      "odds": 20.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104192",
+      "horse_name": "クライナリーゼ",
+      "score": -0.4188386497810222,
+      "horse_number": 3,
+      "odds": 71.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105253",
+      "horse_name": "リアンマカ",
+      "score": -0.5128497880558042,
+      "horse_number": 11,
+      "odds": 110.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023109040",
+      "horse_name": "メイショウメゴヒメ",
+      "score": -0.5586027805619938,
+      "horse_number": 10,
+      "odds": 110.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103532",
+      "horse_name": "シーミハットク",
+      "score": -0.6887521558175991,
+      "horse_number": 1,
+      "odds": 47.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106169",
+      "horse_name": "セイカンサンラン",
+      "score": -0.7560238565797833,
+      "horse_number": 5,
+      "odds": 239.0
+    }
+  ]
+}
