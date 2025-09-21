@@ -1,0 +1,112 @@
+{
+  "race_id": "202509040707",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-21 13:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105543",
+      "horse_name": "フララナキラ",
+      "score": 0.22199471642346028,
+      "horse_number": 1,
+      "odds": 14.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104638",
+      "horse_name": "アラベラ",
+      "score": 0.21947087621907407,
+      "horse_number": 5,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103910",
+      "horse_name": "レジェンドシップ",
+      "score": 0.21476587997101831,
+      "horse_number": 8,
+      "odds": 4.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105558",
+      "horse_name": "ロケベンドラ",
+      "score": 0.20160198053954345,
+      "horse_number": 2,
+      "odds": 3.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104948",
+      "horse_name": "キーパフォーマー",
+      "score": 0.08972420232633273,
+      "horse_number": 13,
+      "odds": 8.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104717",
+      "horse_name": "ダノンジャガー",
+      "score": 0.08909934962711978,
+      "horse_number": 7,
+      "odds": 34.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104491",
+      "horse_name": "ファームツエンティ",
+      "score": 0.018370660355459364,
+      "horse_number": 3,
+      "odds": 8.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100655",
+      "horse_name": "レーヌマロン",
+      "score": -0.03081820124236545,
+      "horse_number": 12,
+      "odds": 23.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102919",
+      "horse_name": "ワイドモヒート",
+      "score": -0.042105562540721043,
+      "horse_number": 9,
+      "odds": 31.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105422",
+      "horse_name": "フォーキャンドルズ",
+      "score": -0.10446824992417902,
+      "horse_number": 10,
+      "odds": 20.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104755",
+      "horse_name": "ルミエールドゥース",
+      "score": -0.3966907551330507,
+      "horse_number": 4,
+      "odds": 20.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100094",
+      "horse_name": "スワローサプライズ",
+      "score": -0.4384384085448756,
+      "horse_number": 11,
+      "odds": 107.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101430",
+      "horse_name": "プロスペクト",
+      "score": -0.4973580838166946,
+      "horse_number": 6,
+      "odds": 85.4
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040706",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-21 12:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105158",
+      "horse_name": "チャロ",
+      "score": 0.20477759252727049,
+      "horse_number": 14,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103670",
+      "horse_name": "ショウナンハクウン",
+      "score": 0.06955625148922315,
+      "horse_number": 11,
+      "odds": 14.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104637",
+      "horse_name": "ホウオウブースター",
+      "score": -0.023193353354581215,
+      "horse_number": 13,
+      "odds": 18.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106119",
+      "horse_name": "タイセイピューマ",
+      "score": -0.04022540317775143,
+      "horse_number": 10,
+      "odds": 9.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103595",
+      "horse_name": "ビーコング",
+      "score": -0.1687490705466786,
+      "horse_number": 6,
+      "odds": 12.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103918",
+      "horse_name": "アツキヤマト",
+      "score": -0.27324282152526264,
+      "horse_number": 7,
+      "odds": 9.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102639",
+      "horse_name": "ペイシャスウィフト",
+      "score": -0.2977754808503755,
+      "horse_number": 5,
+      "odds": 25.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101015",
+      "horse_name": "スーパーバイザー",
+      "score": -0.42506755027818754,
+      "horse_number": 15,
+      "odds": 32.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105420",
+      "horse_name": "シウン",
+      "score": -0.4885157619647531,
+      "horse_number": 3,
+      "odds": 132.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022107167",
+      "horse_name": "リュキア",
+      "score": -0.5165369900540892,
+      "horse_number": 4,
+      "odds": 9.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106677",
+      "horse_name": "カガバベル",
+      "score": -0.5572084606249346,
+      "horse_number": 1,
+      "odds": 55.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2017104266",
+      "horse_name": "カップッチョ",
+      "score": -0.569470717884104,
+      "horse_number": 8,
+      "odds": 104.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019101340",
+      "horse_name": "ブルーデイジー",
+      "score": -0.5833309696314021,
+      "horse_number": 12,
+      "odds": 197.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101265",
+      "horse_name": "オコジュ",
+      "score": -0.5970618435386312,
+      "horse_number": 9,
+      "odds": 33.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100475",
+      "horse_name": "ボエーム",
+      "score": -0.6318373387288261,
+      "horse_number": 16,
+      "odds": 80.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021101385",
+      "horse_name": "レリッシュ",
+      "score": -0.7344997899121097,
+      "horse_number": 2,
+      "odds": 197.9
+    }
+  ]
+}
