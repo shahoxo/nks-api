@@ -78,19 +78,19 @@
     },
     {
       "rank": 10,
-      "horse_id": "2022103463",
-      "horse_name": "サラサラヘアー",
-      "score": -0.6318373387288261,
-      "horse_number": 11,
-      "odds": 80.1
-    },
-    {
-      "rank": 10,
       "horse_id": "2021101391",
       "horse_name": "ブラックドレス",
       "score": -0.6318373387288261,
       "horse_number": 12,
       "odds": 30.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103463",
+      "horse_name": "サラサラヘアー",
+      "score": -0.6318373387288261,
+      "horse_number": 11,
+      "odds": 80.1
     },
     {
       "rank": 12,

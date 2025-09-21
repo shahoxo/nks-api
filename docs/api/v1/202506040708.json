@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040708",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-21 13:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100248",
+      "horse_name": "セイウンデセオ",
+      "score": 0.2410753359332522,
+      "horse_number": 10,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101402",
+      "horse_name": "キャナルクルーズ",
+      "score": 0.23422907684744798,
+      "horse_number": 12,
+      "odds": 3.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105623",
+      "horse_name": "タマカヅラ",
+      "score": 0.04305279705187566,
+      "horse_number": 13,
+      "odds": 10.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103530",
+      "horse_name": "イコノスタシス",
+      "score": 0.020468712149701012,
+      "horse_number": 1,
+      "odds": 13.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106818",
+      "horse_name": "マイネルステラート",
+      "score": -0.030523987941226044,
+      "horse_number": 15,
+      "odds": 10.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105996",
+      "horse_name": "ルシェロアズーリ",
+      "score": -0.07717646209580598,
+      "horse_number": 3,
+      "odds": 14.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105269",
+      "horse_name": "ナリノエンブレム",
+      "score": -0.18008730275318194,
+      "horse_number": 8,
+      "odds": 38.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100084",
+      "horse_name": "レッドカメリア",
+      "score": -0.20524630709701,
+      "horse_number": 4,
+      "odds": 9.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103885",
+      "horse_name": "クリノゴッホ",
+      "score": -0.3060692652459605,
+      "horse_number": 11,
+      "odds": 36.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100454",
+      "horse_name": "アストラッド",
+      "score": -0.3445381847664681,
+      "horse_number": 6,
+      "odds": 40.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103121",
+      "horse_name": "ダノンゴーイチ",
+      "score": -0.3620897434475009,
+      "horse_number": 2,
+      "odds": 13.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102153",
+      "horse_name": "ダガーリング",
+      "score": -0.39373577303036267,
+      "horse_number": 9,
+      "odds": 39.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104874",
+      "horse_name": "ホウオウガイア",
+      "score": -0.400792166005966,
+      "horse_number": 5,
+      "odds": 19.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105057",
+      "horse_name": "オンザヴィーナス",
+      "score": -0.40370074237329484,
+      "horse_number": 7,
+      "odds": 60.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022109125",
+      "horse_name": "ムゾラシカ",
+      "score": -0.6048092845604391,
+      "horse_number": 16,
+      "odds": 222.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021106178",
+      "horse_name": "シュシュトディエス",
+      "score": -0.6293301629666437,
+      "horse_number": 14,
+      "odds": 21.7
+    }
+  ]
+}
