@@ -1,0 +1,80 @@
+{
+  "race_id": "202506040709",
+  "race_name": "木更津特別",
+  "race_time": "2025-09-21 14:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104594",
+      "horse_name": "ヒシアマン",
+      "score": 0.41567251210368494,
+      "horse_number": 3,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104942",
+      "horse_name": "シルバーレイン",
+      "score": 0.3579900773165123,
+      "horse_number": 9,
+      "odds": 6.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105564",
+      "horse_name": "カズミクラーシュ",
+      "score": 0.06850318015895343,
+      "horse_number": 6,
+      "odds": 15.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101772",
+      "horse_name": "メタルスピード",
+      "score": 0.05200384210143661,
+      "horse_number": 8,
+      "odds": 5.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102106",
+      "horse_name": "ツルマウカタチ",
+      "score": -0.024800673177737192,
+      "horse_number": 1,
+      "odds": 17.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021107220",
+      "horse_name": "グレイトクラウン",
+      "score": -0.25230546538081705,
+      "horse_number": 7,
+      "odds": 73.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103000",
+      "horse_name": "ヴァルドルチャ",
+      "score": -0.2605257846305104,
+      "horse_number": 2,
+      "odds": 31.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103799",
+      "horse_name": "ケイケイ",
+      "score": -0.3393525531230953,
+      "horse_number": 5,
+      "odds": 36.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106415",
+      "horse_name": "ロゼル",
+      "score": -0.36020043078613695,
+      "horse_number": 4,
+      "odds": 27.6
+    }
+  ]
+}
