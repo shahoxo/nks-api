@@ -1,0 +1,80 @@
+{
+  "race_id": "202509040710",
+  "race_name": "ムーンライト",
+  "race_time": "2025-09-21 14:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110077",
+      "horse_name": "シャイニングソード",
+      "score": 0.47442291084674987,
+      "horse_number": 5,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100789",
+      "horse_name": "ハニーコム",
+      "score": 0.40106611189033853,
+      "horse_number": 2,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100651",
+      "horse_name": "ファミリータイム",
+      "score": 0.18280937215541856,
+      "horse_number": 9,
+      "odds": 5.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020100593",
+      "horse_name": "ヴォランテ",
+      "score": -0.009131606575808499,
+      "horse_number": 1,
+      "odds": 17.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105206",
+      "horse_name": "ウインルーティン",
+      "score": -0.0687685399281411,
+      "horse_number": 8,
+      "odds": 10.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105642",
+      "horse_name": "レミージュ",
+      "score": -0.10526955494672734,
+      "horse_number": 6,
+      "odds": 4.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103713",
+      "horse_name": "タイセイフェリーク",
+      "score": -0.1637543769513166,
+      "horse_number": 3,
+      "odds": 21.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105384",
+      "horse_name": "チルカーノ",
+      "score": -0.1773975054545369,
+      "horse_number": 7,
+      "odds": 13.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103193",
+      "horse_name": "シャンデルナゴル",
+      "score": -0.33046511820434155,
+      "horse_number": 4,
+      "odds": 34.8
+    }
+  ]
+}
