@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2022100623",
       "horse_name": "ダノンフィーゴ",
-      "score": 0.35601525547024104,
+      "score": 0.38874339115432077,
       "horse_number": 15,
       "odds": 3.5
     },
@@ -16,20 +16,28 @@
       "rank": 2,
       "horse_id": "2021103287",
       "horse_name": "アレ",
-      "score": 0.27744263448129586,
+      "score": 0.33543951565698166,
       "horse_number": 5,
       "odds": 14.0
     },
     {
       "rank": 3,
+      "horse_id": "2022106689",
+      "horse_name": "アンズアメ",
+      "score": 0.2511885981132857,
+      "horse_number": 12,
+      "odds": 9.4
+    },
+    {
+      "rank": 4,
       "horse_id": "2022103047",
       "horse_name": "ホウショウマリス",
-      "score": 0.18726951318328305,
+      "score": 0.22165191447906413,
       "horse_number": 6,
       "odds": 7.1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "horse_id": "2020103189",
       "horse_name": "レッドダンルース",
       "score": 0.17730241550648593,
@@ -37,7 +45,7 @@
       "odds": 18.3
     },
     {
-      "rank": 5,
+      "rank": 6,
       "horse_id": "2021105849",
       "horse_name": "オコタンペ",
       "score": 0.17691507186410527,
@@ -45,18 +53,10 @@
       "odds": 13.6
     },
     {
-      "rank": 6,
-      "horse_id": "2022106689",
-      "horse_name": "アンズアメ",
-      "score": 0.17138137678133247,
-      "horse_number": 12,
-      "odds": 9.4
-    },
-    {
       "rank": 7,
       "horse_id": "2021103002",
       "horse_name": "アラナコア",
-      "score": 0.05902581414293853,
+      "score": 0.12022064520205446,
       "horse_number": 3,
       "odds": 15.5
     },
@@ -64,7 +64,7 @@
       "rank": 8,
       "horse_id": "2022100321",
       "horse_name": "リメンバーヒム",
-      "score": 0.04612574155937085,
+      "score": 0.11323627853923171,
       "horse_number": 8,
       "odds": 9.8
     },
@@ -72,57 +72,57 @@
       "rank": 9,
       "horse_id": "2022104120",
       "horse_name": "コスモストーム",
-      "score": -0.04247827929144864,
+      "score": 0.022392240360761095,
       "horse_number": 13,
       "odds": 4.7
     },
     {
-      "rank": 9,
-      "horse_id": "2020106816",
-      "horse_name": "ディクレアブルーム",
-      "score": -0.04247827929144864,
-      "horse_number": 1,
-      "odds": 0.0
+      "rank": 10,
+      "horse_id": "2020104123",
+      "horse_name": "エリカドリーム",
+      "score": -0.019630604703154184,
+      "horse_number": 10,
+      "odds": 37.6
     },
     {
       "rank": 11,
       "horse_id": "2021106757",
       "horse_name": "リネアグローリア",
-      "score": -0.05146335332186726,
+      "score": -0.049552643186193734,
       "horse_number": 16,
       "odds": 19.9
     },
     {
       "rank": 12,
-      "horse_id": "2020104123",
-      "horse_name": "エリカドリーム",
-      "score": -0.05426945052290748,
-      "horse_number": 10,
-      "odds": 37.6
+      "horse_id": "2020106816",
+      "horse_name": "ディクレアブルーム",
+      "score": -0.1095351450516049,
+      "horse_number": 1,
+      "odds": 0.0
     },
     {
       "rank": 13,
       "horse_id": "2020106737",
       "horse_name": "メイショウコギク",
-      "score": -0.21975742330400524,
+      "score": -0.1835601361490008,
       "horse_number": 9,
       "odds": 36.9
     },
     {
       "rank": 14,
+      "horse_id": "2020106409",
+      "horse_name": "ペプチドハドソン",
+      "score": -0.29305170701903616,
+      "horse_number": 7,
+      "odds": 76.8
+    },
+    {
+      "rank": 15,
       "horse_id": "2021105939",
       "horse_name": "メイショウザンゲツ",
       "score": -0.3156582795516206,
       "horse_number": 14,
       "odds": 55.9
-    },
-    {
-      "rank": 15,
-      "horse_id": "2020106409",
-      "horse_name": "ペプチドハドソン",
-      "score": -0.3322206048941885,
-      "horse_number": 7,
-      "odds": 76.8
     },
     {
       "rank": 16,

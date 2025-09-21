@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040712",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-09-21 16:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104917",
+      "horse_name": "エターナルプロミス",
+      "score": 0.29013556546028646,
+      "horse_number": 12,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102607",
+      "horse_name": "ロフティーイデアル",
+      "score": 0.2737725462737115,
+      "horse_number": 16,
+      "odds": 7.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102123",
+      "horse_name": "モズカトレア",
+      "score": 0.2549217444099849,
+      "horse_number": 7,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101457",
+      "horse_name": "アンドリーナ",
+      "score": 0.14463726153277354,
+      "horse_number": 15,
+      "odds": 10.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105787",
+      "horse_name": "コンアフェット",
+      "score": 0.14006681061096493,
+      "horse_number": 5,
+      "odds": 17.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105516",
+      "horse_name": "イゾラフェリーチェ",
+      "score": 0.11455421371574188,
+      "horse_number": 2,
+      "odds": 9.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102753",
+      "horse_name": "サンセットブライト",
+      "score": -0.17576633757006288,
+      "horse_number": 13,
+      "odds": 18.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105085",
+      "horse_name": "ゴヴェルナーレリコ",
+      "score": -0.17689008934087727,
+      "horse_number": 4,
+      "odds": 21.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104687",
+      "horse_name": "ラヴァブル",
+      "score": -0.17973774385713584,
+      "horse_number": 9,
+      "odds": 15.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105789",
+      "horse_name": "サツキノジョウ",
+      "score": -0.22087332791267558,
+      "horse_number": 1,
+      "odds": 12.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103939",
+      "horse_name": "スマートプレシャス",
+      "score": -0.2655451174762549,
+      "horse_number": 6,
+      "odds": 22.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103246",
+      "horse_name": "ウィンターダフネ",
+      "score": -0.289889431282525,
+      "horse_number": 10,
+      "odds": 24.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100005",
+      "horse_name": "アパイシュナール",
+      "score": -0.48545050101913356,
+      "horse_number": 8,
+      "odds": 21.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103480",
+      "horse_name": "ミレニアムヒロイン",
+      "score": -0.5223693359466597,
+      "horse_number": 3,
+      "odds": 66.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101219",
+      "horse_name": "マフィン",
+      "score": -0.5836065190735424,
+      "horse_number": 14,
+      "odds": 69.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103355",
+      "horse_name": "エイシンナデシコ",
+      "score": -0.6997242947219148,
+      "horse_number": 11,
+      "odds": 63.9
+    }
+  ]
+}
