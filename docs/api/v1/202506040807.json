@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040807",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-27 13:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105984",
+      "horse_name": "ディヴァインスター",
+      "score": 0.21469694035303077,
+      "horse_number": 6,
+      "odds": 8.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102708",
+      "horse_name": "アドミラルシップ",
+      "score": 0.11368438934242218,
+      "horse_number": 12,
+      "odds": 3.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106830",
+      "horse_name": "サンカシグレ",
+      "score": 0.09493075190176961,
+      "horse_number": 4,
+      "odds": 15.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106645",
+      "horse_name": "グランセゾン",
+      "score": 0.0745088935877433,
+      "horse_number": 1,
+      "odds": 9.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101620",
+      "horse_name": "トラストモアリズム",
+      "score": 0.013718027879827527,
+      "horse_number": 10,
+      "odds": 13.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105597",
+      "horse_name": "ゲンジ",
+      "score": -0.005437999871720785,
+      "horse_number": 3,
+      "odds": 3.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105076",
+      "horse_name": "フォーグッド",
+      "score": -0.02617756923594749,
+      "horse_number": 15,
+      "odds": 33.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105763",
+      "horse_name": "ビップチェイス",
+      "score": -0.073972652923429,
+      "horse_number": 2,
+      "odds": 22.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105227",
+      "horse_name": "バーケンヘッド",
+      "score": -0.24719339657759237,
+      "horse_number": 9,
+      "odds": 40.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101701",
+      "horse_name": "クリフハンガー",
+      "score": -0.36619325987590434,
+      "horse_number": 14,
+      "odds": 13.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101088",
+      "horse_name": "テイキットイージー",
+      "score": -0.4276780983175291,
+      "horse_number": 8,
+      "odds": 50.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102788",
+      "horse_name": "ベラトール",
+      "score": -0.5766429540794782,
+      "horse_number": 16,
+      "odds": 54.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102570",
+      "horse_name": "ディアマイサン",
+      "score": -0.5945546677764488,
+      "horse_number": 5,
+      "odds": 99.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102984",
+      "horse_name": "ビスケットマリー",
+      "score": -0.6003488323311762,
+      "horse_number": 13,
+      "odds": 82.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104778",
+      "horse_name": "チャイボーグ",
+      "score": -0.6293301629666437,
+      "horse_number": 11,
+      "odds": 39.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103504",
+      "horse_name": "スノーディーヴァ",
+      "score": -0.648322624273838,
+      "horse_number": 7,
+      "odds": 57.4
+    }
+  ]
+}
