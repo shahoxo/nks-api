@@ -1,0 +1,112 @@
+{
+  "race_id": "202509040806",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-27 12:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102202",
+      "horse_name": "ヨリノレジェンド",
+      "score": 0.41988243000853726,
+      "horse_number": 7,
+      "odds": 5.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105987",
+      "horse_name": "アートレスマインド",
+      "score": 0.3742198403633956,
+      "horse_number": 2,
+      "odds": 2.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102691",
+      "horse_name": "マナエトレ",
+      "score": 0.21651639341870293,
+      "horse_number": 9,
+      "odds": 11.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104496",
+      "horse_name": "スコーピオンイメル",
+      "score": 0.027471063348890042,
+      "horse_number": 12,
+      "odds": 9.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102710",
+      "horse_name": "エイユーファイヤー",
+      "score": 0.0023620233776072566,
+      "horse_number": 8,
+      "odds": 5.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022107306",
+      "horse_name": "ストップヤーニング",
+      "score": -0.13216610932173753,
+      "horse_number": 4,
+      "odds": 4.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101400",
+      "horse_name": "マックスセレナーデ",
+      "score": -0.14150903144582697,
+      "horse_number": 13,
+      "odds": 89.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100166",
+      "horse_name": "ワンダーリズム",
+      "score": -0.3325605165140181,
+      "horse_number": 10,
+      "odds": 172.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102735",
+      "horse_name": "スマートカイロス",
+      "score": -0.3847973430824829,
+      "horse_number": 3,
+      "odds": 14.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100083",
+      "horse_name": "ソラノキャンバス",
+      "score": -0.39561402568541365,
+      "horse_number": 5,
+      "odds": 150.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106628",
+      "horse_name": "レグロスヴァーグ",
+      "score": -0.5520003421025013,
+      "horse_number": 1,
+      "odds": 70.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102959",
+      "horse_name": "テンカオーライ",
+      "score": -0.5520003421025013,
+      "horse_number": 6,
+      "odds": 121.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105857",
+      "horse_name": "サーティファイド",
+      "score": -0.5714169627056976,
+      "horse_number": 11,
+      "odds": 84.4
+    }
+  ]
+}
