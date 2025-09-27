@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040811",
+  "race_name": "秋風S",
+  "race_time": "2025-09-27 15:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105837",
+      "horse_name": "レッドアトレーヴ",
+      "score": 0.3361633395215831,
+      "horse_number": 11,
+      "odds": 7.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105807",
+      "horse_name": "ニュージーズ",
+      "score": 0.30963227125378845,
+      "horse_number": 13,
+      "odds": 19.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105618",
+      "horse_name": "スマートワイス",
+      "score": 0.3015712277703888,
+      "horse_number": 7,
+      "odds": 12.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102391",
+      "horse_name": "グーテンベルク",
+      "score": 0.2726599654928335,
+      "horse_number": 1,
+      "odds": 5.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105326",
+      "horse_name": "コートアリシアン",
+      "score": 0.21173232904041595,
+      "horse_number": 10,
+      "odds": 3.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104326",
+      "horse_name": "ユキノロイヤル",
+      "score": 0.13909449007675512,
+      "horse_number": 15,
+      "odds": 35.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102488",
+      "horse_name": "トーセンエスクード",
+      "score": 0.1361068405888486,
+      "horse_number": 4,
+      "odds": 45.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019106925",
+      "horse_name": "ムーンリットナイト",
+      "score": 0.11659054656751787,
+      "horse_number": 9,
+      "odds": 39.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105808",
+      "horse_name": "ガイアメンテ",
+      "score": 0.09421844720679905,
+      "horse_number": 8,
+      "odds": 12.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101134",
+      "horse_name": "ピースワンデュック",
+      "score": 0.08871590742549283,
+      "horse_number": 16,
+      "odds": 22.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103577",
+      "horse_name": "ポルカリズム",
+      "score": 0.04541431241165542,
+      "horse_number": 6,
+      "odds": 29.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103521",
+      "horse_name": "セブンマジシャン",
+      "score": 0.01238597177482862,
+      "horse_number": 5,
+      "odds": 8.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105121",
+      "horse_name": "ピックアチェリー",
+      "score": 0.007855457386139686,
+      "horse_number": 3,
+      "odds": 21.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105185",
+      "horse_name": "ウインレイアー",
+      "score": 0.006530374140555002,
+      "horse_number": 14,
+      "odds": 23.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103129",
+      "horse_name": "ワンダイレクト",
+      "score": -0.020380618698451945,
+      "horse_number": 2,
+      "odds": 30.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104005",
+      "horse_name": "トワイライトシティ",
+      "score": -0.28794472388529985,
+      "horse_number": 12,
+      "odds": 69.8
+    }
+  ]
+}

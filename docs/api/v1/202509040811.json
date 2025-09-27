@@ -1,0 +1,120 @@
+{
+  "race_id": "202509040811",
+  "race_name": "シリウスS",
+  "race_time": "2025-09-27 15:45",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019105523",
+      "horse_name": "メイプルリッジ",
+      "score": 0.4789110859659511,
+      "horse_number": 4,
+      "odds": 10.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104646",
+      "horse_name": "ジンセイ",
+      "score": 0.4126332266319944,
+      "horse_number": 7,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102750",
+      "horse_name": "タイトニット",
+      "score": 0.2870683898561753,
+      "horse_number": 14,
+      "odds": 7.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102236",
+      "horse_name": "テーオーパスワード",
+      "score": 0.22167790896964681,
+      "horse_number": 6,
+      "odds": 2.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104497",
+      "horse_name": "サイモンザナドゥ",
+      "score": 0.05484229886197564,
+      "horse_number": 8,
+      "odds": 30.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105746",
+      "horse_name": "ホウオウルーレット",
+      "score": 0.035767351704076786,
+      "horse_number": 13,
+      "odds": 20.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106565",
+      "horse_name": "ブライアンセンス",
+      "score": 0.01212495939254744,
+      "horse_number": 11,
+      "odds": 15.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100912",
+      "horse_name": "ジューンアヲニヨシ",
+      "score": -0.02690073874297557,
+      "horse_number": 3,
+      "odds": 14.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104474",
+      "horse_name": "ルクスフロンティア",
+      "score": -0.030340802271637993,
+      "horse_number": 1,
+      "odds": 12.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105308",
+      "horse_name": "タイセイドレフォン",
+      "score": -0.18811482714239738,
+      "horse_number": 10,
+      "odds": 110.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105416",
+      "horse_name": "グーデンドラーク",
+      "score": -0.2681236295701414,
+      "horse_number": 2,
+      "odds": 70.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105623",
+      "horse_name": "ホウオウプロサンゲ",
+      "score": -0.30664606099433106,
+      "horse_number": 12,
+      "odds": 41.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105993",
+      "horse_name": "ラインオブソウル",
+      "score": -0.4353567540872485,
+      "horse_number": 5,
+      "odds": 51.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019100094",
+      "horse_name": "エナハツホ",
+      "score": -0.5278218302213901,
+      "horse_number": 9,
+      "odds": 101.2
+    }
+  ]
+}
