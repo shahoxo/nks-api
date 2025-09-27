@@ -118,19 +118,19 @@
     },
     {
       "rank": 15,
-      "horse_id": "2021104432",
-      "horse_name": "グローリアミノル",
-      "score": -0.5970618435386312,
-      "horse_number": 11,
-      "odds": 149.6
-    },
-    {
-      "rank": 15,
       "horse_id": "2021103490",
       "horse_name": "リヴァイデント",
       "score": -0.5970618435386312,
       "horse_number": 15,
       "odds": 171.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104432",
+      "horse_name": "グローリアミノル",
+      "score": -0.5970618435386312,
+      "horse_number": 11,
+      "odds": 149.6
     }
   ]
 }
