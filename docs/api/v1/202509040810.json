@@ -8,7 +8,7 @@
       "rank": 1,
       "horse_id": "2021105880",
       "horse_name": "レッドエヴァンス",
-      "score": 0.42068614072651334,
+      "score": 0.40843292594089003,
       "horse_number": 9,
       "odds": 3.4
     },
@@ -16,49 +16,49 @@
       "rank": 2,
       "horse_id": "2021102016",
       "horse_name": "エコロマーズ",
-      "score": 0.16843444556549883,
+      "score": 0.19651951256142045,
       "horse_number": 10,
       "odds": 11.9
     },
     {
       "rank": 3,
-      "horse_id": "2021104941",
-      "horse_name": "セシリエプラージュ",
-      "score": 0.14915862512842049,
-      "horse_number": 4,
-      "odds": 13.8
-    },
-    {
-      "rank": 4,
       "horse_id": "2021105771",
       "horse_name": "ミルテンベルク",
-      "score": 0.1376577485876474,
+      "score": 0.16574281558356896,
       "horse_number": 7,
       "odds": 9.4
     },
     {
-      "rank": 5,
-      "horse_id": "2020103061",
-      "horse_name": "シュタールヴィント",
-      "score": 0.07554652315734589,
-      "horse_number": 11,
-      "odds": 5.8
+      "rank": 4,
+      "horse_id": "2021104941",
+      "horse_name": "セシリエプラージュ",
+      "score": 0.13977738089094927,
+      "horse_number": 4,
+      "odds": 13.8
     },
     {
-      "rank": 6,
+      "rank": 5,
       "horse_id": "2021102461",
       "horse_name": "バンドシェル",
-      "score": 0.04044533991422176,
+      "score": 0.06625036751280755,
       "horse_number": 3,
       "odds": 7.8
     },
     {
-      "rank": 7,
+      "rank": 6,
       "horse_id": "2021105054",
       "horse_name": "モンシュマン",
       "score": 0.029022869835759184,
       "horse_number": 6,
       "odds": 17.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103061",
+      "horse_name": "シュタールヴィント",
+      "score": 0.017919491480086532,
+      "horse_number": 11,
+      "odds": 5.8
     },
     {
       "rank": 8,
@@ -72,7 +72,7 @@
       "rank": 9,
       "horse_id": "2021106594",
       "horse_name": "ヤマニンアストロン",
-      "score": -0.07740158449175324,
+      "score": -0.04931651749583165,
       "horse_number": 2,
       "odds": 10.1
     },
@@ -102,19 +102,19 @@
     },
     {
       "rank": 13,
-      "horse_id": "2020104332",
-      "horse_name": "ルミノメテオール",
-      "score": -0.2689158520610615,
-      "horse_number": 13,
-      "odds": 33.1
-    },
-    {
-      "rank": 14,
       "horse_id": "2019105191",
       "horse_name": "コナブラック",
       "score": -0.2691822118554656,
       "horse_number": 8,
       "odds": 60.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104332",
+      "horse_name": "ルミノメテオール",
+      "score": -0.2935793654269987,
+      "horse_number": 13,
+      "odds": 33.1
     },
     {
       "rank": 15,
