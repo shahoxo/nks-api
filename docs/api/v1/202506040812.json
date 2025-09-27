@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040812",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-09-27 16:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100899",
+      "horse_name": "ビッグドリーム",
+      "score": 0.3174311199760511,
+      "horse_number": 15,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106298",
+      "horse_name": "モリノレッドスター",
+      "score": 0.20147260609279022,
+      "horse_number": 7,
+      "odds": 6.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100071",
+      "horse_name": "ワンダラー",
+      "score": 0.1859379416252429,
+      "horse_number": 4,
+      "odds": 3.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106568",
+      "horse_name": "ドナカルナバル",
+      "score": 0.1806017684908078,
+      "horse_number": 11,
+      "odds": 10.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022107359",
+      "horse_name": "サマースイートピー",
+      "score": 0.14757137853559466,
+      "horse_number": 6,
+      "odds": 19.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106261",
+      "horse_name": "タッカージーティー",
+      "score": 0.06631213058427632,
+      "horse_number": 3,
+      "odds": 15.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104145",
+      "horse_name": "オセアエクスプレス",
+      "score": 0.06147316831262735,
+      "horse_number": 12,
+      "odds": 33.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019101753",
+      "horse_name": "アオカミ",
+      "score": -0.032024856479300395,
+      "horse_number": 10,
+      "odds": 127.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103588",
+      "horse_name": "グラスブランシュ",
+      "score": -0.08962817811427166,
+      "horse_number": 8,
+      "odds": 31.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103706",
+      "horse_name": "アルジェンタージョ",
+      "score": -0.2630839475145338,
+      "horse_number": 9,
+      "odds": 58.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105619",
+      "horse_name": "スミレファースト",
+      "score": -0.2678842410651405,
+      "horse_number": 16,
+      "odds": 41.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104960",
+      "horse_name": "トロピカルヒーロー",
+      "score": -0.4573947879156749,
+      "horse_number": 2,
+      "odds": 71.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102995",
+      "horse_name": "フレッシュラン",
+      "score": -0.46283256750105883,
+      "horse_number": 13,
+      "odds": 6.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100187",
+      "horse_name": "ニシノクラウン",
+      "score": -0.4719701189112512,
+      "horse_number": 14,
+      "odds": 34.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019109138",
+      "horse_name": "ベルウッドウズメ",
+      "score": -0.5288413384287328,
+      "horse_number": 5,
+      "odds": 88.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105361",
+      "horse_name": "エリンアキレウス",
+      "score": -0.6256682283707391,
+      "horse_number": 1,
+      "odds": 147.0
+    }
+  ]
+}
