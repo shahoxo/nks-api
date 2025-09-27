@@ -1,0 +1,128 @@
+{
+  "race_id": "202509040801",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-09-27 10:01",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102889",
+      "horse_name": "エボニードール",
+      "score": 0.01800951890568182,
+      "horse_number": 3,
+      "odds": 10.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023110087",
+      "horse_name": "ウェイヨー",
+      "score": -0.001772350633276614,
+      "horse_number": 10,
+      "odds": 9.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105708",
+      "horse_name": "バトゥカーダ",
+      "score": -0.026669213063019635,
+      "horse_number": 5,
+      "odds": 7.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102208",
+      "horse_name": "ワイズギャング",
+      "score": -0.11587853740544724,
+      "horse_number": 8,
+      "odds": 4.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106220",
+      "horse_name": "キャストアイズミー",
+      "score": -0.12558873486062963,
+      "horse_number": 15,
+      "odds": 16.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103163",
+      "horse_name": "キープシャイニング",
+      "score": -0.16652117633644004,
+      "horse_number": 9,
+      "odds": 4.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104752",
+      "horse_name": "ブロンテス",
+      "score": -0.19484587078633517,
+      "horse_number": 11,
+      "odds": 3.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101231",
+      "horse_name": "フリッシュ",
+      "score": -0.25965598163106207,
+      "horse_number": 6,
+      "odds": 39.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104561",
+      "horse_name": "ジェム",
+      "score": -0.2961466416448548,
+      "horse_number": 14,
+      "odds": 74.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104768",
+      "horse_name": "アメジストブルー",
+      "score": -0.3912411676039156,
+      "horse_number": 2,
+      "odds": 133.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023110092",
+      "horse_name": "ユウトザイノセント",
+      "score": -0.552407544410178,
+      "horse_number": 1,
+      "odds": 18.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102610",
+      "horse_name": "テイエムパイロダン",
+      "score": -0.5817419874124277,
+      "horse_number": 12,
+      "odds": 26.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104941",
+      "horse_name": "ジャストアダッシュ",
+      "score": -0.622384537432268,
+      "horse_number": 13,
+      "odds": 49.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106222",
+      "horse_name": "ナムラソラン",
+      "score": -0.7212483613895885,
+      "horse_number": 4,
+      "odds": 185.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104972",
+      "horse_name": "コパノルーカス",
+      "score": -0.7212483613895885,
+      "horse_number": 7,
+      "odds": 81.3
+    }
+  ]
+}
