@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040902",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-09-28 10:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107103",
+      "horse_name": "ダノンルミエール",
+      "score": 0.4009605896160915,
+      "horse_number": 13,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106932",
+      "horse_name": "サトノエスケープ",
+      "score": 0.29559053256631584,
+      "horse_number": 12,
+      "odds": 6.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105777",
+      "horse_name": "ノブピースオブラブ",
+      "score": -0.07509687422839177,
+      "horse_number": 16,
+      "odds": 87.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106613",
+      "horse_name": "カレンデュラ",
+      "score": -0.16598343484653574,
+      "horse_number": 9,
+      "odds": 4.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106605",
+      "horse_name": "フェイスリフト",
+      "score": -0.1852227594257756,
+      "horse_number": 10,
+      "odds": 9.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102941",
+      "horse_name": "フォーエバーラブ",
+      "score": -0.1863025202350806,
+      "horse_number": 14,
+      "odds": 103.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104425",
+      "horse_name": "リーデレクオーレ",
+      "score": -0.2820284365945056,
+      "horse_number": 1,
+      "odds": 34.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101448",
+      "horse_name": "スラッシュコード",
+      "score": -0.3554352663500215,
+      "horse_number": 4,
+      "odds": 46.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100935",
+      "horse_name": "トラスコンガーデン",
+      "score": -0.37496180629292725,
+      "horse_number": 5,
+      "odds": 12.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102803",
+      "horse_name": "ケイベエ",
+      "score": -0.37591974906465603,
+      "horse_number": 2,
+      "odds": 25.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101910",
+      "horse_name": "2023101910",
+      "score": -0.47293600501096866,
+      "horse_number": 6,
+      "odds": 15.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105934",
+      "horse_name": "サフィニア",
+      "score": -0.5465142732912798,
+      "horse_number": 15,
+      "odds": 328.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106441",
+      "horse_name": "インザライムライト",
+      "score": -0.6336370845533565,
+      "horse_number": 11,
+      "odds": 163.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103934",
+      "horse_name": "ルディドゥゲンジ",
+      "score": -0.6336370845533565,
+      "horse_number": 8,
+      "odds": 177.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103137",
+      "horse_name": "ハッピーラッキー",
+      "score": -0.7092892104133881,
+      "horse_number": 7,
+      "odds": 81.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023101306",
+      "horse_name": "コパノセビリア",
+      "score": -0.7295377203336686,
+      "horse_number": 3,
+      "odds": 91.1
+    }
+  ]
+}

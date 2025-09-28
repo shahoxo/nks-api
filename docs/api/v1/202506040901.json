@@ -1,0 +1,104 @@
+{
+  "race_id": "202506040901",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-09-28 10:00",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105381",
+      "horse_name": "ハイライトニング",
+      "score": 0.1282690386249762,
+      "horse_number": 8,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105980",
+      "horse_name": "ジーモンスター",
+      "score": -0.018426611287482658,
+      "horse_number": 3,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100586",
+      "horse_name": "ユニゾン",
+      "score": -0.05587545774088255,
+      "horse_number": 5,
+      "odds": 4.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100655",
+      "horse_name": "タイセイモノリス",
+      "score": -0.07142035842275647,
+      "horse_number": 1,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105387",
+      "horse_name": "マシン",
+      "score": -0.20293248432412073,
+      "horse_number": 11,
+      "odds": 28.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105748",
+      "horse_name": "リフレックス",
+      "score": -0.21655898746035698,
+      "horse_number": 12,
+      "odds": 3.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102964",
+      "horse_name": "タイガーゲイト",
+      "score": -0.4044921617220456,
+      "horse_number": 9,
+      "odds": 65.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100531",
+      "horse_name": "ショウナンタヅナ",
+      "score": -0.41255412783233636,
+      "horse_number": 6,
+      "odds": 50.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106264",
+      "horse_name": "ニシノガウェイン",
+      "score": -0.6300216468967684,
+      "horse_number": 7,
+      "odds": 68.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100739",
+      "horse_name": "ヤマタケボニータ",
+      "score": -0.6518943205472477,
+      "horse_number": 4,
+      "odds": 14.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101227",
+      "horse_name": "チャーミングアイ",
+      "score": -0.7265140734648036,
+      "horse_number": 2,
+      "odds": 31.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106174",
+      "horse_name": "ルージュノヴァ",
+      "score": -0.7344997899121097,
+      "horse_number": 10,
+      "odds": 163.8
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202509040902",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-09-28 10:20",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107262",
+      "horse_name": "ミティリーニ",
+      "score": 0.1865840248620586,
+      "horse_number": 3,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104047",
+      "horse_name": "ノアールビーナス",
+      "score": 0.06749795233249935,
+      "horse_number": 4,
+      "odds": 7.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106228",
+      "horse_name": "ナムラティアラ",
+      "score": 0.039044144329779686,
+      "horse_number": 7,
+      "odds": 17.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106226",
+      "horse_name": "ナムラヒナギク",
+      "score": -0.06718875806435572,
+      "horse_number": 11,
+      "odds": 4.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106191",
+      "horse_name": "ムルーデ",
+      "score": -0.21571473808457456,
+      "horse_number": 8,
+      "odds": 21.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100053",
+      "horse_name": "タケウチビー",
+      "score": -0.25516570492000884,
+      "horse_number": 9,
+      "odds": 44.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102577",
+      "horse_name": "アンジュプロミス",
+      "score": -0.2729477639107385,
+      "horse_number": 1,
+      "odds": 11.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103981",
+      "horse_name": "リトゥリア",
+      "score": -0.3143999226318689,
+      "horse_number": 10,
+      "odds": 14.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023109140",
+      "horse_name": "コウユーネロガ",
+      "score": -0.3153731270892065,
+      "horse_number": 13,
+      "odds": 46.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104397",
+      "horse_name": "エバイダンス",
+      "score": -0.3258093827486016,
+      "horse_number": 6,
+      "odds": 8.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104839",
+      "horse_name": "マルモリキャスター",
+      "score": -0.3349450341766308,
+      "horse_number": 14,
+      "odds": 22.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103999",
+      "horse_name": "カッサンドラ",
+      "score": -0.45657126917405794,
+      "horse_number": 2,
+      "odds": 66.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105185",
+      "horse_name": "ミトノリン",
+      "score": -0.5396410951313636,
+      "horse_number": 5,
+      "odds": 99.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101086",
+      "horse_name": "ステラソレラ",
+      "score": -0.6336370845533565,
+      "horse_number": 12,
+      "odds": 201.4
+    }
+  ]
+}
