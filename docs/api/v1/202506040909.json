@@ -1,0 +1,72 @@
+{
+  "race_id": "202506040909",
+  "race_name": "サフラン賞",
+  "race_time": "2025-09-28 14:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105327",
+      "horse_name": "アルバンヌ",
+      "score": 0.5139613958707764,
+      "horse_number": 3,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107146",
+      "horse_name": "ドリームコア",
+      "score": 0.4827533595370429,
+      "horse_number": 4,
+      "odds": 1.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106477",
+      "horse_name": "ベレーバスク",
+      "score": 0.2530642597469851,
+      "horse_number": 7,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102694",
+      "horse_name": "トワニ",
+      "score": 0.237932215067871,
+      "horse_number": 1,
+      "odds": 7.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106985",
+      "horse_name": "クールフラン",
+      "score": 0.20153697737269086,
+      "horse_number": 8,
+      "odds": 7.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103595",
+      "horse_name": "ルージュカルデア",
+      "score": 0.06357420703461504,
+      "horse_number": 2,
+      "odds": 18.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100214",
+      "horse_name": "シーグルロス",
+      "score": -0.11637317983668286,
+      "horse_number": 5,
+      "odds": 65.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103528",
+      "horse_name": "ツルノマイハシ",
+      "score": -0.3877498023174121,
+      "horse_number": 6,
+      "odds": 89.4
+    }
+  ]
+}
