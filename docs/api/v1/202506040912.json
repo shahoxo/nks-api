@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040912",
+  "race_name": "外房S",
+  "race_time": "2025-09-28 16:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020104597",
+      "horse_name": "ショウナンアビアス",
+      "score": 0.41567251210368494,
+      "horse_number": 10,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100627",
+      "horse_name": "カウスリップ",
+      "score": 0.09687152107365868,
+      "horse_number": 14,
+      "odds": 7.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103876",
+      "horse_name": "モンドプリューム",
+      "score": 0.06928572373292521,
+      "horse_number": 2,
+      "odds": 13.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100114",
+      "horse_name": "ブレーザー",
+      "score": 0.06691419635201772,
+      "horse_number": 3,
+      "odds": 13.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019102011",
+      "horse_name": "サザンエルフ",
+      "score": -0.052749195290750825,
+      "horse_number": 1,
+      "odds": 13.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106421",
+      "horse_name": "キタノソワレ",
+      "score": -0.06691302342705191,
+      "horse_number": 13,
+      "odds": 6.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020110079",
+      "horse_name": "アマルナ",
+      "score": -0.07456608408690789,
+      "horse_number": 16,
+      "odds": 20.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020110136",
+      "horse_name": "エコロアレス",
+      "score": -0.07980101585076128,
+      "horse_number": 4,
+      "odds": 36.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019102654",
+      "horse_name": "コブラ",
+      "score": -0.16811760016772903,
+      "horse_number": 5,
+      "odds": 13.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101737",
+      "horse_name": "エンヤラヴフェイス",
+      "score": -0.19066463985702806,
+      "horse_number": 8,
+      "odds": 17.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105608",
+      "horse_name": "カズゴルティス",
+      "score": -0.21924275703029367,
+      "horse_number": 6,
+      "odds": 9.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104561",
+      "horse_name": "ダルダヌス",
+      "score": -0.31990924741542665,
+      "horse_number": 7,
+      "odds": 59.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018105860",
+      "horse_name": "メイショウフジタカ",
+      "score": -0.38176366774518855,
+      "horse_number": 9,
+      "odds": 53.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019101295",
+      "horse_name": "ホワイトガーベラ",
+      "score": -0.4558966686837912,
+      "horse_number": 15,
+      "odds": 42.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103393",
+      "horse_name": "ダルエスサラーム",
+      "score": -0.530380260927545,
+      "horse_number": 11,
+      "odds": 45.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020102565",
+      "horse_name": "スクーバー",
+      "score": -0.6970415147616792,
+      "horse_number": 12,
+      "odds": 10.2
+    }
+  ]
+}
