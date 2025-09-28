@@ -1,0 +1,104 @@
+{
+  "race_id": "202509040911",
+  "race_name": "ポートアイS",
+  "race_time": "2025-09-28 15:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105283",
+      "horse_name": "ブルーミンデザイン",
+      "score": 0.1669185889362249,
+      "horse_number": 7,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102853",
+      "horse_name": "シャドウフューリー",
+      "score": 0.16113284770169012,
+      "horse_number": 3,
+      "odds": 6.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103639",
+      "horse_name": "セッション",
+      "score": 0.11196124320749781,
+      "horse_number": 2,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103640",
+      "horse_name": "ミッキーゴージャス",
+      "score": 0.07992333530949508,
+      "horse_number": 5,
+      "odds": 10.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101784",
+      "horse_name": "ラケマーダ",
+      "score": 0.028302862812183145,
+      "horse_number": 4,
+      "odds": 17.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019100628",
+      "horse_name": "トゥデイイズザデイ",
+      "score": 0.022728396853816897,
+      "horse_number": 12,
+      "odds": 7.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100909",
+      "horse_name": "ジューンオレンジ",
+      "score": 0.020372246572130676,
+      "horse_number": 6,
+      "odds": 4.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018102020",
+      "horse_name": "ヤマニンサンパ",
+      "score": 0.016993313748793936,
+      "horse_number": 9,
+      "odds": 16.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2017105194",
+      "horse_name": "ラインベック",
+      "score": -0.04276302204035699,
+      "horse_number": 1,
+      "odds": 18.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104971",
+      "horse_name": "トータルクラリティ",
+      "score": -0.32918907078892756,
+      "horse_number": 11,
+      "odds": 20.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103043",
+      "horse_name": "コレペティトール",
+      "score": -0.5240571361974563,
+      "horse_number": 10,
+      "odds": 48.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019101348",
+      "horse_name": "ビーアストニッシド",
+      "score": -0.5476500042014676,
+      "horse_number": 8,
+      "odds": 49.5
+    }
+  ]
+}
