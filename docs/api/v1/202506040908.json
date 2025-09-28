@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040908",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-09-28 13:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104732",
+      "horse_name": "アパッシメント",
+      "score": 0.4398714826370015,
+      "horse_number": 10,
+      "odds": 9.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102167",
+      "horse_name": "アールプロスト",
+      "score": 0.2277920618773498,
+      "horse_number": 8,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101045",
+      "horse_name": "タイセイミッション",
+      "score": 0.15038586336320775,
+      "horse_number": 13,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102409",
+      "horse_name": "ホレーショ",
+      "score": 0.04217801613139119,
+      "horse_number": 16,
+      "odds": 8.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104107",
+      "horse_name": "ショウナンカブト",
+      "score": 0.021632135399132654,
+      "horse_number": 9,
+      "odds": 19.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110147",
+      "horse_name": "オルゴーリオ",
+      "score": -0.060400025266333326,
+      "horse_number": 1,
+      "odds": 10.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102280",
+      "horse_name": "チュウワクリスエス",
+      "score": -0.10423025755257478,
+      "horse_number": 7,
+      "odds": 3.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103502",
+      "horse_name": "アイウィル",
+      "score": -0.17454647615820748,
+      "horse_number": 11,
+      "odds": 28.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021110130",
+      "horse_name": "ドッビアーコ",
+      "score": -0.22115377537967257,
+      "horse_number": 6,
+      "odds": 31.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100329",
+      "horse_name": "プルナチャンドラ",
+      "score": -0.2881129458672206,
+      "horse_number": 4,
+      "odds": 22.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105147",
+      "horse_name": "ユイノマチブセ",
+      "score": -0.5336767784007973,
+      "horse_number": 14,
+      "odds": 27.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101412",
+      "horse_name": "パープルナイト",
+      "score": -0.569470717884104,
+      "horse_number": 12,
+      "odds": 49.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100060",
+      "horse_name": "オセアバトルプラン",
+      "score": -0.5945546677764488,
+      "horse_number": 3,
+      "odds": 112.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100631",
+      "horse_name": "ブレイゼスト",
+      "score": -0.5945546677764488,
+      "horse_number": 2,
+      "odds": 33.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104099",
+      "horse_name": "マーシヴィガラス",
+      "score": -0.5970618435386312,
+      "horse_number": 5,
+      "odds": 57.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104464",
+      "horse_name": "テンクウジョー",
+      "score": -0.5970618435386312,
+      "horse_number": 15,
+      "odds": 84.0
+    }
+  ]
+}
