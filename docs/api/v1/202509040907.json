@@ -1,0 +1,136 @@
+{
+  "race_id": "202509040907",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-28 13:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103684",
+      "horse_name": "ゲイルライダー",
+      "score": 0.2712970965469963,
+      "horse_number": 1,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105774",
+      "horse_name": "セレジェイラ",
+      "score": 0.04662632254848694,
+      "horse_number": 2,
+      "odds": 5.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102153",
+      "horse_name": "プレゼンティーア",
+      "score": -0.011884635809631606,
+      "horse_number": 12,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101062",
+      "horse_name": "インディゴ",
+      "score": -0.10028026095080445,
+      "horse_number": 8,
+      "odds": 14.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106705",
+      "horse_name": "テーオーミリカン",
+      "score": -0.1494374377906395,
+      "horse_number": 3,
+      "odds": 11.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105503",
+      "horse_name": "カルドウェル",
+      "score": -0.21865483586366738,
+      "horse_number": 16,
+      "odds": 28.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105773",
+      "horse_name": "リアライズオーラム",
+      "score": -0.23258516082217293,
+      "horse_number": 6,
+      "odds": 4.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104673",
+      "horse_name": "ダディーズアイル",
+      "score": -0.2554729469616832,
+      "horse_number": 7,
+      "odds": 92.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102164",
+      "horse_name": "ドランクマン",
+      "score": -0.270044982271914,
+      "horse_number": 14,
+      "odds": 15.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100044",
+      "horse_name": "ディープサミット",
+      "score": -0.3457993354540271,
+      "horse_number": 9,
+      "odds": 17.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106368",
+      "horse_name": "テーオーニコラス",
+      "score": -0.4151901633577858,
+      "horse_number": 4,
+      "odds": 70.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101548",
+      "horse_name": "アスタールテニウム",
+      "score": -0.4293413636245168,
+      "horse_number": 13,
+      "odds": 12.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103286",
+      "horse_name": "エナジーガンツ",
+      "score": -0.5114137112262032,
+      "horse_number": 5,
+      "odds": 31.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105839",
+      "horse_name": "サンダーユニバンス",
+      "score": -0.5164231727128572,
+      "horse_number": 11,
+      "odds": 151.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021106820",
+      "horse_name": "マイネルトゥルネー",
+      "score": -0.6265296610350282,
+      "horse_number": 10,
+      "odds": 184.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101597",
+      "horse_name": "サンライズタイソン",
+      "score": -0.6732626067852269,
+      "horse_number": 15,
+      "odds": 137.2
+    }
+  ]
+}
