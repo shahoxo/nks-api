@@ -1,0 +1,120 @@
+{
+  "race_id": "202509040912",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-09-28 16:05",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104745",
+      "horse_name": "シャルクハフト",
+      "score": 0.04604130515136344,
+      "horse_number": 1,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020105228",
+      "horse_name": "ジョウショーパワー",
+      "score": -0.007543479692164244,
+      "horse_number": 5,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105929",
+      "horse_name": "デフィニティーボ",
+      "score": -0.15365436207922767,
+      "horse_number": 3,
+      "odds": 21.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019100615",
+      "horse_name": "シャンバラ",
+      "score": -0.21010685076045904,
+      "horse_number": 10,
+      "odds": 9.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106694",
+      "horse_name": "ソウルアンドジャズ",
+      "score": -0.2133257217209662,
+      "horse_number": 13,
+      "odds": 5.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020100987",
+      "horse_name": "セレクティオ",
+      "score": -0.24600008389698388,
+      "horse_number": 8,
+      "odds": 14.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102993",
+      "horse_name": "ポルポラジール",
+      "score": -0.4689610581056327,
+      "horse_number": 11,
+      "odds": 7.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102265",
+      "horse_name": "ショウサンキズナ",
+      "score": -0.5431529973283721,
+      "horse_number": 4,
+      "odds": 29.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019102163",
+      "horse_name": "フォーワンセルフ",
+      "score": -0.5608928190058183,
+      "horse_number": 12,
+      "odds": 50.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2017103267",
+      "horse_name": "エクストラノート",
+      "score": -0.569470717884104,
+      "horse_number": 9,
+      "odds": 50.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103045",
+      "horse_name": "マサハヤウォルズ",
+      "score": -0.5867758372926961,
+      "horse_number": 7,
+      "odds": 32.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100413",
+      "horse_name": "ディオスパーダ",
+      "score": -0.5983374002860244,
+      "horse_number": 14,
+      "odds": 21.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101216",
+      "horse_name": "テイエムヒショウ",
+      "score": -0.6318373387288261,
+      "horse_number": 2,
+      "odds": 41.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018106610",
+      "horse_name": "ビヨンドザシーン",
+      "score": -0.6997242947219148,
+      "horse_number": 6,
+      "odds": 74.8
+    }
+  ]
+}

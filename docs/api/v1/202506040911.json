@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040911",
+  "race_name": "スプリンター",
+  "race_time": "2025-09-28 15:40",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019106526",
+      "horse_name": "トウシンマカオ",
+      "score": 0.33931474741695233,
+      "horse_number": 11,
+      "odds": 12.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019103753",
+      "horse_name": "ナムラクレア",
+      "score": 0.3139872159698782,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019105394",
+      "horse_name": "ママコチャ",
+      "score": 0.31146489650111037,
+      "horse_number": 4,
+      "odds": 7.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021107058",
+      "horse_name": "ピューロマジック",
+      "score": 0.27200500819230544,
+      "horse_number": 1,
+      "odds": 10.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019101700",
+      "horse_name": "サトノレーヴ",
+      "score": 0.2679371018697317,
+      "horse_number": 7,
+      "odds": 2.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110099",
+      "horse_name": "ジューンブレア",
+      "score": 0.23645248632844726,
+      "horse_number": 13,
+      "odds": 16.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104073",
+      "horse_name": "カピリナ",
+      "score": 0.2103805111213434,
+      "horse_number": 14,
+      "odds": 30.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2017101429",
+      "horse_name": "ウインカーネリアン",
+      "score": 0.1854550439684038,
+      "horse_number": 16,
+      "odds": 47.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106601",
+      "horse_name": "ヤマニンアルリフラ",
+      "score": 0.1654597579340539,
+      "horse_number": 12,
+      "odds": 106.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101503",
+      "horse_name": "カンチェンジュンガ",
+      "score": 0.132533167926192,
+      "horse_number": 5,
+      "odds": 22.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106851",
+      "horse_name": "ルガル",
+      "score": 0.10010954458353974,
+      "horse_number": 15,
+      "odds": 8.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105774",
+      "horse_name": "ダノンマッキンリー",
+      "score": 0.07123280630094703,
+      "horse_number": 3,
+      "odds": 71.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018106055",
+      "horse_name": "ヨシノイースター",
+      "score": 0.03547680787876985,
+      "horse_number": 2,
+      "odds": 65.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019105806",
+      "horse_name": "ドロップオブライト",
+      "score": 0.006803485998324799,
+      "horse_number": 9,
+      "odds": 122.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018190006",
+      "horse_name": "2018190006",
+      "score": -0.09927079108980588,
+      "horse_number": 10,
+      "odds": 29.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021102320",
+      "horse_name": "ペアポルックス",
+      "score": -0.15020951956210402,
+      "horse_number": 8,
+      "odds": 45.5
+    }
+  ]
+}
