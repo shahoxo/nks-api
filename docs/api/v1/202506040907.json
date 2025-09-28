@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040907",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-28 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105144",
+      "horse_name": "リバーバレイト",
+      "score": 0.4827533595370429,
+      "horse_number": 5,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105501",
+      "horse_name": "プリムツァール",
+      "score": 0.3252246161063163,
+      "horse_number": 16,
+      "odds": 9.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101230",
+      "horse_name": "インパクトシー",
+      "score": 0.31176155696126906,
+      "horse_number": 15,
+      "odds": 8.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110130",
+      "horse_name": "ベラジオワールド",
+      "score": 0.24481456339557617,
+      "horse_number": 6,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103705",
+      "horse_name": "レッドロスタム",
+      "score": 0.21838454847348485,
+      "horse_number": 8,
+      "odds": 15.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105293",
+      "horse_name": "キャトルエピス",
+      "score": 0.1740603030005919,
+      "horse_number": 14,
+      "odds": 16.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020110082",
+      "horse_name": "エアグリフォン",
+      "score": 0.07102156500004946,
+      "horse_number": 12,
+      "odds": 145.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104137",
+      "horse_name": "ミエノブラボー",
+      "score": -0.022889040409827255,
+      "horse_number": 10,
+      "odds": 37.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103394",
+      "horse_name": "ドルビナ",
+      "score": -0.023910774339728116,
+      "horse_number": 4,
+      "odds": 38.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102135",
+      "horse_name": "ゴーゴータカシ",
+      "score": -0.06386102497530066,
+      "horse_number": 3,
+      "odds": 32.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105353",
+      "horse_name": "アウフヴィント",
+      "score": -0.4701959355890377,
+      "horse_number": 11,
+      "odds": 83.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103416",
+      "horse_name": "ソルエパトリオット",
+      "score": -0.5571203828274278,
+      "horse_number": 13,
+      "odds": 233.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106701",
+      "horse_name": "ルミナスピラー",
+      "score": -0.5798563085514588,
+      "horse_number": 7,
+      "odds": 180.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104920",
+      "horse_name": "ジーティーポライト",
+      "score": -0.6143151523856235,
+      "horse_number": 1,
+      "odds": 214.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103012",
+      "horse_name": "グルナルーフス",
+      "score": -0.6205993143628646,
+      "horse_number": 2,
+      "odds": 89.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019109053",
+      "horse_name": "グランシャーク",
+      "score": -0.6467781709553085,
+      "horse_number": 9,
+      "odds": 236.8
+    }
+  ]
+}

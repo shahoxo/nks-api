@@ -1,0 +1,136 @@
+{
+  "race_id": "202506040906",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-09-28 12:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103288",
+      "horse_name": "ヤコブセン",
+      "score": 0.055997427840774404,
+      "horse_number": 8,
+      "odds": 8.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105556",
+      "horse_name": "ラストレガシー",
+      "score": 0.029363606090776435,
+      "horse_number": 11,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100182",
+      "horse_name": "ティアップドライブ",
+      "score": 0.024805090837170488,
+      "horse_number": 16,
+      "odds": 27.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105730",
+      "horse_name": "コッレヴェッキオ",
+      "score": -0.038309809423886114,
+      "horse_number": 4,
+      "odds": 13.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106209",
+      "horse_name": "プレジール",
+      "score": -0.10280693313502466,
+      "horse_number": 7,
+      "odds": 8.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101195",
+      "horse_name": "コーリンカルベラ",
+      "score": -0.18627261320627617,
+      "horse_number": 9,
+      "odds": 11.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100306",
+      "horse_name": "フジレイメイ",
+      "score": -0.1875345409365416,
+      "horse_number": 2,
+      "odds": 6.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105548",
+      "horse_name": "プロスペクトパーク",
+      "score": -0.21556488421224995,
+      "horse_number": 14,
+      "odds": 4.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100838",
+      "horse_name": "ポンサン",
+      "score": -0.2872785742927701,
+      "horse_number": 5,
+      "odds": 46.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104748",
+      "horse_name": "ファルコンミノル",
+      "score": -0.315438593888557,
+      "horse_number": 13,
+      "odds": 17.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019106972",
+      "horse_name": "ロストボール",
+      "score": -0.4242845480386366,
+      "horse_number": 6,
+      "odds": 83.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104354",
+      "horse_name": "ジャクソン",
+      "score": -0.4492230975417921,
+      "horse_number": 3,
+      "odds": 52.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102058",
+      "horse_name": "スマートクオーレ",
+      "score": -0.4511838694496758,
+      "horse_number": 1,
+      "odds": 20.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102991",
+      "horse_name": "カイトヴィント",
+      "score": -0.532592974213936,
+      "horse_number": 10,
+      "odds": 31.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101256",
+      "horse_name": "クラウングスタフ",
+      "score": -0.5503654050964065,
+      "horse_number": 12,
+      "odds": 112.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021110138",
+      "horse_name": "グランエシェゾー",
+      "score": -0.5970618435386312,
+      "horse_number": 15,
+      "odds": 153.5
+    }
+  ]
+}
