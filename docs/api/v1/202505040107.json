@@ -1,0 +1,88 @@
+{
+  "race_id": "202505040107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-04 13:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104620",
+      "horse_name": "エポナ",
+      "score": 0.4220167675958699,
+      "horse_number": 8,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105139",
+      "horse_name": "サラスヴァティー",
+      "score": 0.3103074056872608,
+      "horse_number": 7,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105338",
+      "horse_name": "リポサンテ",
+      "score": 0.2323842535234407,
+      "horse_number": 6,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105486",
+      "horse_name": "トロピカルティー",
+      "score": 0.2159411038458498,
+      "horse_number": 3,
+      "odds": 8.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105131",
+      "horse_name": "キューティリップ",
+      "score": 0.21377967504153167,
+      "horse_number": 2,
+      "odds": 3.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105365",
+      "horse_name": "オプレントジュエル",
+      "score": 0.18121613387067406,
+      "horse_number": 9,
+      "odds": 10.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105203",
+      "horse_name": "アビッサルスター",
+      "score": -0.044293789370951187,
+      "horse_number": 10,
+      "odds": 15.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100724",
+      "horse_name": "ニシノエピカリ",
+      "score": -0.2852442089068623,
+      "horse_number": 5,
+      "odds": 15.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105089",
+      "horse_name": "ヒロインズクレスト",
+      "score": -0.44815301385547934,
+      "horse_number": 1,
+      "odds": 61.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101969",
+      "horse_name": "デルマジュテーム",
+      "score": -0.522207725190991,
+      "horse_number": 4,
+      "odds": 72.6
+    }
+  ]
+}

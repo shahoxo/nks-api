@@ -1,0 +1,152 @@
+{
+  "race_id": "202508030107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-04 13:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101369",
+      "horse_name": "モンタルチーノ",
+      "score": 0.30709903759142476,
+      "horse_number": 10,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105985",
+      "horse_name": "セナマリン",
+      "score": 0.21506223643660527,
+      "horse_number": 12,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102770",
+      "horse_name": "セディバン",
+      "score": 0.14258118427400013,
+      "horse_number": 6,
+      "odds": 16.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101456",
+      "horse_name": "ダイヤモンド",
+      "score": 0.07047657325342074,
+      "horse_number": 1,
+      "odds": 20.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105529",
+      "horse_name": "ルクスノア",
+      "score": 0.0629584031877667,
+      "horse_number": 9,
+      "odds": 17.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105098",
+      "horse_name": "ディーエストッキー",
+      "score": 0.03224870637290313,
+      "horse_number": 7,
+      "odds": 25.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102796",
+      "horse_name": "ウォーターエルピス",
+      "score": 0.007932112602516,
+      "horse_number": 11,
+      "odds": 19.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104501",
+      "horse_name": "パリコレジェンヌ",
+      "score": -0.015586869743172783,
+      "horse_number": 8,
+      "odds": 16.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106433",
+      "horse_name": "アーサーズウェイン",
+      "score": -0.10381759510986933,
+      "horse_number": 15,
+      "odds": 39.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103932",
+      "horse_name": "ジェニファー",
+      "score": -0.10977591680377057,
+      "horse_number": 5,
+      "odds": 13.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101064",
+      "horse_name": "ノイヤー",
+      "score": -0.2213324778041613,
+      "horse_number": 14,
+      "odds": 122.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022110112",
+      "horse_name": "ジャスパーディビネ",
+      "score": -0.22997611526131614,
+      "horse_number": 16,
+      "odds": 6.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102465",
+      "horse_name": "ブライティアブーケ",
+      "score": -0.23505215653382483,
+      "horse_number": 3,
+      "odds": 15.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102312",
+      "horse_name": "ストレイトアスク",
+      "score": -0.24840344934141678,
+      "horse_number": 2,
+      "odds": 13.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103256",
+      "horse_name": "カフジキアッキエレ",
+      "score": -0.3959066368440864,
+      "horse_number": 17,
+      "odds": 25.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022100583",
+      "horse_name": "レディエンス",
+      "score": -0.40938503981849805,
+      "horse_number": 18,
+      "odds": 45.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2021102641",
+      "horse_name": "グランルーチェ",
+      "score": -0.5377078171256005,
+      "horse_number": 4,
+      "odds": 126.2
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021101306",
+      "horse_name": "サンウイキョウ",
+      "score": -0.5970618435386312,
+      "horse_number": 13,
+      "odds": 98.7
+    }
+  ]
+}
