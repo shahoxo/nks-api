@@ -1,0 +1,104 @@
+{
+  "race_id": "202508030108",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-10-04 13:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105769",
+      "horse_name": "ヴァリディシームス",
+      "score": 0.5038941300333148,
+      "horse_number": 10,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104207",
+      "horse_name": "キングスコール",
+      "score": 0.39154925442673777,
+      "horse_number": 6,
+      "odds": 2.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106193",
+      "horse_name": "ウイントレメンデス",
+      "score": 0.24835652160360708,
+      "horse_number": 2,
+      "odds": 12.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101454",
+      "horse_name": "ステラクラウン",
+      "score": 0.20325413268966064,
+      "horse_number": 1,
+      "odds": 12.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102500",
+      "horse_name": "マトラコーニッシュ",
+      "score": 0.12152539294429658,
+      "horse_number": 12,
+      "odds": 9.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105552",
+      "horse_name": "ナグルファル",
+      "score": 0.04586550233081498,
+      "horse_number": 4,
+      "odds": 16.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022110054",
+      "horse_name": "デルアヴァー",
+      "score": 0.03970319597353109,
+      "horse_number": 7,
+      "odds": 4.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105018",
+      "horse_name": "バルティカ",
+      "score": -0.1781852264540091,
+      "horse_number": 3,
+      "odds": 63.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103696",
+      "horse_name": "ラレーヌデリス",
+      "score": -0.19513076764578044,
+      "horse_number": 5,
+      "odds": 58.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104590",
+      "horse_name": "ショウナンバルドル",
+      "score": -0.23905474886173064,
+      "horse_number": 11,
+      "odds": 47.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105733",
+      "horse_name": "キャリーハピネス",
+      "score": -0.29681388239974094,
+      "horse_number": 8,
+      "odds": 61.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101925",
+      "horse_name": "オデット",
+      "score": -0.4710412687760908,
+      "horse_number": 9,
+      "odds": 46.5
+    }
+  ]
+}

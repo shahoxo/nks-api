@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040108",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-04 13:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102378",
+      "horse_name": "ファンタイムギフト",
+      "score": 0.23964101997004134,
+      "horse_number": 7,
+      "odds": 12.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105962",
+      "horse_name": "エドワードバローズ",
+      "score": 0.23139772976496248,
+      "horse_number": 13,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101818",
+      "horse_name": "ジェイエルマスター",
+      "score": 0.22271257435699512,
+      "horse_number": 2,
+      "odds": 2.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105990",
+      "horse_name": "クニノハッピー",
+      "score": -0.0693189844438799,
+      "horse_number": 11,
+      "odds": 10.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101227",
+      "horse_name": "ヴォンフレ",
+      "score": -0.07147609789611566,
+      "horse_number": 12,
+      "odds": 13.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100650",
+      "horse_name": "ロードソルスティス",
+      "score": -0.15470020625767267,
+      "horse_number": 15,
+      "odds": 26.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103129",
+      "horse_name": "マリンバンカー",
+      "score": -0.17561763989147636,
+      "horse_number": 4,
+      "odds": 28.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103044",
+      "horse_name": "ユニヴェール",
+      "score": -0.25562567068811837,
+      "horse_number": 6,
+      "odds": 41.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101438",
+      "horse_name": "レッドルイナール",
+      "score": -0.26482274890317803,
+      "horse_number": 14,
+      "odds": 27.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106132",
+      "horse_name": "ロジリッキー",
+      "score": -0.3350580877640411,
+      "horse_number": 16,
+      "odds": 28.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105871",
+      "horse_name": "ソニックライン",
+      "score": -0.3505210004789315,
+      "horse_number": 8,
+      "odds": 7.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103763",
+      "horse_name": "ブラーブデシジョン",
+      "score": -0.49520296974444644,
+      "horse_number": 10,
+      "odds": 58.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2017105392",
+      "horse_name": "スパークインザアイ",
+      "score": -0.5003410234931139,
+      "horse_number": 5,
+      "odds": 119.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105628",
+      "horse_name": "アーチーテソーロ",
+      "score": -0.7212483613895885,
+      "horse_number": 1,
+      "odds": 35.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104285",
+      "horse_name": "リーゼントジェイド",
+      "score": -0.735775346659503,
+      "horse_number": 9,
+      "odds": 68.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105914",
+      "horse_name": "ヒロピアーナ",
+      "score": -0.7498547462216962,
+      "horse_number": 3,
+      "odds": 116.3
+    }
+  ]
+}
