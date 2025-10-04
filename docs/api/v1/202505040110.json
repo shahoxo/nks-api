@@ -1,0 +1,128 @@
+{
+  "race_id": "202505040110",
+  "race_name": "白秋S",
+  "race_time": "2025-10-04 15:05",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105599",
+      "horse_name": "シンバーシア",
+      "score": 0.3622705886031354,
+      "horse_number": 1,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105752",
+      "horse_name": "レディマリオン",
+      "score": 0.22913847888617278,
+      "horse_number": 15,
+      "odds": 7.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101412",
+      "horse_name": "スカイハイ",
+      "score": 0.21838703332586437,
+      "horse_number": 7,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106900",
+      "horse_name": "アームテイル",
+      "score": 0.12721563547223508,
+      "horse_number": 8,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101019",
+      "horse_name": "コト",
+      "score": 0.061679258342087144,
+      "horse_number": 12,
+      "odds": 22.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103364",
+      "horse_name": "ペリファーニア",
+      "score": 0.03270815761546816,
+      "horse_number": 10,
+      "odds": 4.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103517",
+      "horse_name": "レッドシュヴェルト",
+      "score": 0.021739421160564966,
+      "horse_number": 2,
+      "odds": 13.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104401",
+      "horse_name": "ヴェサリウス",
+      "score": 0.005674663063927733,
+      "horse_number": 6,
+      "odds": 21.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020110039",
+      "horse_name": "ユハンヌス",
+      "score": -0.05570586623832867,
+      "horse_number": 13,
+      "odds": 10.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104088",
+      "horse_name": "ランドオブラヴ",
+      "score": -0.07502311954880682,
+      "horse_number": 9,
+      "odds": 62.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102734",
+      "horse_name": "エリーズダイヤ",
+      "score": -0.13125591213204804,
+      "horse_number": 11,
+      "odds": 35.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101429",
+      "horse_name": "サトミノキラリ",
+      "score": -0.22139855689890722,
+      "horse_number": 3,
+      "odds": 19.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100557",
+      "horse_name": "オーサムストローク",
+      "score": -0.2824817695184981,
+      "horse_number": 14,
+      "odds": 53.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019105760",
+      "horse_name": "シュヴェルトライテ",
+      "score": -0.3790824033419284,
+      "horse_number": 5,
+      "odds": 40.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018104757",
+      "horse_name": "ジュノー",
+      "score": -0.47232165211588384,
+      "horse_number": 4,
+      "odds": 71.3
+    }
+  ]
+}

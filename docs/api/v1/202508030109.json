@@ -10,7 +10,7 @@
       "horse_name": "アイニードユー",
       "score": 0.3260993861176679,
       "horse_number": 4,
-      "odds": 7.8
+      "odds": 5.4
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "ファムマルキーズ",
       "score": 0.27613149914206675,
       "horse_number": 8,
-      "odds": 2.6
+      "odds": 2.9
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "ルージュサウダージ",
       "score": 0.26772855352559,
       "horse_number": 7,
-      "odds": 6.7
+      "odds": 8.0
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "カイショー",
       "score": 0.2165575193329784,
       "horse_number": 2,
-      "odds": 4.8
+      "odds": 4.2
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "メイショウハッケイ",
       "score": 0.20783666939233303,
       "horse_number": 5,
-      "odds": 4.1
+      "odds": 4.3
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "ラスティングスノー",
       "score": 0.17246875494969974,
       "horse_number": 6,
-      "odds": 21.7
+      "odds": 23.0
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "ベルフラム",
       "score": 0.1354749478344107,
       "horse_number": 1,
-      "odds": 17.8
+      "odds": 28.2
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "フルールジェンヌ",
       "score": 0.08183268439577995,
       "horse_number": 3,
-      "odds": 20.3
+      "odds": 16.5
     }
   ]
 }
