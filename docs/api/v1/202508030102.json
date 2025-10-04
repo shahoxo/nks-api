@@ -1,0 +1,72 @@
+{
+  "race_id": "202508030102",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-04 10:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106874",
+      "horse_name": "ジャスティンルマン",
+      "score": 0.3313093883299183,
+      "horse_number": 3,
+      "odds": 1.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103417",
+      "horse_name": "ウィズクィーン",
+      "score": 0.07389613153593473,
+      "horse_number": 4,
+      "odds": 9.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107118",
+      "horse_name": "マイコンチェルト",
+      "score": -0.053099851416572114,
+      "horse_number": 8,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103379",
+      "horse_name": "ホールドミーワンス",
+      "score": -0.28536134249119816,
+      "horse_number": 1,
+      "odds": 30.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101946",
+      "horse_name": "キーテーマ",
+      "score": -0.49689361013682,
+      "horse_number": 6,
+      "odds": 52.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102078",
+      "horse_name": "ニュートラ",
+      "score": -0.4981553841534626,
+      "horse_number": 2,
+      "odds": 176.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106242",
+      "horse_name": "ナムラライラック",
+      "score": -0.5067283039950538,
+      "horse_number": 7,
+      "odds": 108.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104662",
+      "horse_name": "ファインマン",
+      "score": -0.7560238565797833,
+      "horse_number": 5,
+      "odds": 131.1
+    }
+  ]
+}

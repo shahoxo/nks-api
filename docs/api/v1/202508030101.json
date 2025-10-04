@@ -1,0 +1,120 @@
+{
+  "race_id": "202508030101",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-04 09:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103689",
+      "horse_name": "オラヴィンリンナ",
+      "score": 0.1281967357926598,
+      "horse_number": 4,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103822",
+      "horse_name": "フルールドール",
+      "score": 0.10574343351586973,
+      "horse_number": 7,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105032",
+      "horse_name": "メイショウコシュウ",
+      "score": -0.046458757315802804,
+      "horse_number": 3,
+      "odds": 10.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104417",
+      "horse_name": "アンリミテッド",
+      "score": -0.12291393108933926,
+      "horse_number": 12,
+      "odds": 10.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105187",
+      "horse_name": "アドフランマム",
+      "score": -0.20292902482027939,
+      "horse_number": 10,
+      "odds": 5.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102981",
+      "horse_name": "ヒロノスカイ",
+      "score": -0.3772399143325157,
+      "horse_number": 13,
+      "odds": 4.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101713",
+      "horse_name": "イサギ",
+      "score": -0.4187752371905552,
+      "horse_number": 6,
+      "odds": 23.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104157",
+      "horse_name": "ウルトラハート",
+      "score": -0.4313676828517412,
+      "horse_number": 2,
+      "odds": 18.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105052",
+      "horse_name": "メイショウバンサン",
+      "score": -0.5936516828434119,
+      "horse_number": 8,
+      "odds": 37.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107465",
+      "horse_name": "ゴーゴーパワー",
+      "score": -0.6275899775217947,
+      "horse_number": 14,
+      "odds": 126.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103502",
+      "horse_name": "ファントムヴォルト",
+      "score": -0.6668471881249025,
+      "horse_number": 9,
+      "odds": 150.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101694",
+      "horse_name": "ケンフィールド",
+      "score": -0.7027672696550227,
+      "horse_number": 5,
+      "odds": 38.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101374",
+      "horse_name": "レッドファイブ",
+      "score": -0.703836440672674,
+      "horse_number": 1,
+      "odds": 123.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105835",
+      "horse_name": "ユーアーフラワー",
+      "score": -0.7334327562287062,
+      "horse_number": 11,
+      "odds": 110.4
+    }
+  ]
+}
