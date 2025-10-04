@@ -1,0 +1,104 @@
+{
+  "race_id": "202505040109",
+  "race_name": "八ヶ岳特別",
+  "race_time": "2025-10-04 14:31",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105442",
+      "horse_name": "ラブリージャブリー",
+      "score": 0.2653269973164627,
+      "horse_number": 1,
+      "odds": 2.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019105497",
+      "horse_name": "アルゲンテウス",
+      "score": 0.24975129000471352,
+      "horse_number": 2,
+      "odds": 9.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105032",
+      "horse_name": "エバーグルーヴ",
+      "score": 0.1402681972636151,
+      "horse_number": 8,
+      "odds": 5.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106793",
+      "horse_name": "コスモアンソロジー",
+      "score": 0.06530665189194418,
+      "horse_number": 10,
+      "odds": 10.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101422",
+      "horse_name": "マテンロウブラボー",
+      "score": -0.00971810137399395,
+      "horse_number": 7,
+      "odds": 10.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104899",
+      "horse_name": "ドリームクルーズ",
+      "score": -0.03489443540872429,
+      "horse_number": 5,
+      "odds": 10.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106803",
+      "horse_name": "ミラーダカリエンテ",
+      "score": -0.1253744724693836,
+      "horse_number": 4,
+      "odds": 12.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104753",
+      "horse_name": "サトノヴィレ",
+      "score": -0.13058345401385738,
+      "horse_number": 6,
+      "odds": 57.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105375",
+      "horse_name": "バードウォッチャー",
+      "score": -0.1709488483297414,
+      "horse_number": 11,
+      "odds": 35.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2017110086",
+      "horse_name": "ジッピーレーサー",
+      "score": -0.3840869458369852,
+      "horse_number": 9,
+      "odds": 56.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103803",
+      "horse_name": "アヴニールドブリエ",
+      "score": -0.46747337660544097,
+      "horse_number": 3,
+      "odds": 39.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101322",
+      "horse_name": "イサチルカゼニタツ",
+      "score": -0.6006809329273097,
+      "horse_number": 12,
+      "odds": 116.1
+    }
+  ]
+}
