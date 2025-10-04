@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040112",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-10-04 16:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101626",
+      "horse_name": "フウセツ",
+      "score": 0.16868199871578662,
+      "horse_number": 1,
+      "odds": 7.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101543",
+      "horse_name": "ルークススペイ",
+      "score": 0.11994204990889183,
+      "horse_number": 5,
+      "odds": 7.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019105041",
+      "horse_name": "ホウオウプレミア",
+      "score": 0.11750778305404816,
+      "horse_number": 13,
+      "odds": 8.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105429",
+      "horse_name": "アグラード",
+      "score": 0.11018692015286125,
+      "horse_number": 6,
+      "odds": 21.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106328",
+      "horse_name": "クインズデネブ",
+      "score": 0.029490045414169507,
+      "horse_number": 16,
+      "odds": 7.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102790",
+      "horse_name": "カネショウレジェン",
+      "score": -0.002027922903071122,
+      "horse_number": 14,
+      "odds": 4.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102493",
+      "horse_name": "トリリオンボーイ",
+      "score": -0.038738777707842856,
+      "horse_number": 3,
+      "odds": 10.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104627",
+      "horse_name": "シホノペルフェット",
+      "score": -0.05593550545629587,
+      "horse_number": 11,
+      "odds": 11.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106639",
+      "horse_name": "ベルブリエ",
+      "score": -0.08291514753532027,
+      "horse_number": 8,
+      "odds": 43.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020105246",
+      "horse_name": "トモジャミ",
+      "score": -0.18075056131186668,
+      "horse_number": 4,
+      "odds": 56.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105086",
+      "horse_name": "フクチャントウメイ",
+      "score": -0.22770563675611732,
+      "horse_number": 10,
+      "odds": 16.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021109096",
+      "horse_name": "モナコブル",
+      "score": -0.24707972666423716,
+      "horse_number": 12,
+      "odds": 42.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103088",
+      "horse_name": "ピックアップライン",
+      "score": -0.2536037936559369,
+      "horse_number": 2,
+      "odds": 11.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102552",
+      "horse_name": "ジューンポンポン",
+      "score": -0.29452857269496974,
+      "horse_number": 7,
+      "odds": 55.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2017105634",
+      "horse_name": "メラーキ",
+      "score": -0.5273411516624705,
+      "horse_number": 9,
+      "odds": 134.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021107080",
+      "horse_name": "セイウンマカロン",
+      "score": -0.5408132975348673,
+      "horse_number": 15,
+      "odds": 38.7
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "race_id": "202508030112",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-10-04 16:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103262",
+      "horse_name": "メイショウツヨキ",
+      "score": 0.27663598239692866,
+      "horse_number": 7,
+      "odds": 16.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103614",
+      "horse_name": "ヒルノハンブルク",
+      "score": 0.24823526905261772,
+      "horse_number": 2,
+      "odds": 1.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103746",
+      "horse_name": "マキシマムビスタ",
+      "score": 0.08223332011656237,
+      "horse_number": 1,
+      "odds": 21.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106164",
+      "horse_name": "キングオブフジ",
+      "score": 0.03831275497329353,
+      "horse_number": 8,
+      "odds": 27.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100061",
+      "horse_name": "モックモック",
+      "score": -0.02638876668392013,
+      "horse_number": 4,
+      "odds": 4.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103161",
+      "horse_name": "トーレ",
+      "score": -0.27347624767652734,
+      "horse_number": 6,
+      "odds": 13.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101226",
+      "horse_name": "クリノフィガロ",
+      "score": -0.2893343073470279,
+      "horse_number": 9,
+      "odds": 11.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101419",
+      "horse_name": "オーシンハーフ",
+      "score": -0.3903812385456381,
+      "horse_number": 5,
+      "odds": 13.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102360",
+      "horse_name": "クリノグローリー",
+      "score": -0.4460033956130455,
+      "horse_number": 11,
+      "odds": 34.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020105542",
+      "horse_name": "ドンアチェカ",
+      "score": -0.48347649094379974,
+      "horse_number": 10,
+      "odds": 116.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102705",
+      "horse_name": "ヒデノレインボー",
+      "score": -0.48950671513679844,
+      "horse_number": 13,
+      "odds": 46.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022109038",
+      "horse_name": "クリノラピダス",
+      "score": -0.5619855808996145,
+      "horse_number": 12,
+      "odds": 98.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018106220",
+      "horse_name": "メイショウシロガネ",
+      "score": -0.5706001556019433,
+      "horse_number": 3,
+      "odds": 95.8
+    }
+  ]
+}
