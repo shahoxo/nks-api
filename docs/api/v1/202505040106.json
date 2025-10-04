@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040106",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-04 12:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110132",
+      "horse_name": "ピコテンダー",
+      "score": 0.3600069713880533,
+      "horse_number": 13,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100702",
+      "horse_name": "ポッドベル",
+      "score": 0.22676428555621525,
+      "horse_number": 5,
+      "odds": 15.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100623",
+      "horse_name": "スプランドゥール",
+      "score": 0.045260477667055106,
+      "horse_number": 9,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106759",
+      "horse_name": "サンロレンツォ",
+      "score": 0.020585149589986366,
+      "horse_number": 1,
+      "odds": 33.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019105745",
+      "horse_name": "フレイムジョーカー",
+      "score": -0.001993966982773804,
+      "horse_number": 15,
+      "odds": 28.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106011",
+      "horse_name": "ホウオウゴールド",
+      "score": -0.0939217076337683,
+      "horse_number": 6,
+      "odds": 24.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101964",
+      "horse_name": "デルマムーン",
+      "score": -0.12628020248759592,
+      "horse_number": 11,
+      "odds": 52.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102102",
+      "horse_name": "ゲキザル",
+      "score": -0.1408185814602674,
+      "horse_number": 10,
+      "odds": 18.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101081",
+      "horse_name": "ラッキーヤース",
+      "score": -0.23202870860173178,
+      "horse_number": 2,
+      "odds": 24.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105300",
+      "horse_name": "ブリックンクリック",
+      "score": -0.25307312839322993,
+      "horse_number": 3,
+      "odds": 35.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105917",
+      "horse_name": "アルナイル",
+      "score": -0.2799735474392069,
+      "horse_number": 7,
+      "odds": 21.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104177",
+      "horse_name": "シュガーハイ",
+      "score": -0.4461424009341076,
+      "horse_number": 16,
+      "odds": 21.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018104598",
+      "horse_name": "メレカリキマカ",
+      "score": -0.4657432576154973,
+      "horse_number": 14,
+      "odds": 117.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103051",
+      "horse_name": "グアラニア",
+      "score": -0.5080720269119559,
+      "horse_number": 8,
+      "odds": 94.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021106411",
+      "horse_name": "パッセアジル",
+      "score": -0.5434337893997301,
+      "horse_number": 12,
+      "odds": 18.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101796",
+      "horse_name": "2022101796",
+      "score": -0.594723969342671,
+      "horse_number": 4,
+      "odds": 64.3
+    }
+  ]
+}

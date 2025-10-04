@@ -1,0 +1,136 @@
+{
+  "race_id": "202508030106",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-04 12:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105439",
+      "horse_name": "ドラゴン",
+      "score": 0.3107722995326301,
+      "horse_number": 8,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107082",
+      "horse_name": "タイセイディアマン",
+      "score": 0.16419572923078352,
+      "horse_number": 11,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102127",
+      "horse_name": "モズケイスター",
+      "score": 0.06660307911555519,
+      "horse_number": 14,
+      "odds": 6.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104945",
+      "horse_name": "ポンピエ",
+      "score": 0.044407127154063725,
+      "horse_number": 16,
+      "odds": 5.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101445",
+      "horse_name": "マテンロウカナロア",
+      "score": 0.04305964317912811,
+      "horse_number": 7,
+      "odds": 10.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102388",
+      "horse_name": "ヒミノエトワール",
+      "score": -0.10502031374697236,
+      "horse_number": 5,
+      "odds": 11.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102966",
+      "horse_name": "サンダーロード",
+      "score": -0.12319583657180962,
+      "horse_number": 13,
+      "odds": 19.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103229",
+      "horse_name": "ウォーターパラディ",
+      "score": -0.20261536277552614,
+      "horse_number": 6,
+      "odds": 11.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019103285",
+      "horse_name": "クリノミニスター",
+      "score": -0.209979419762144,
+      "horse_number": 1,
+      "odds": 34.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103775",
+      "horse_name": "テイエムパイロット",
+      "score": -0.4233865928816998,
+      "horse_number": 15,
+      "odds": 65.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106003",
+      "horse_name": "ファイヤーウィップ",
+      "score": -0.46514361215432454,
+      "horse_number": 12,
+      "odds": 83.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103527",
+      "horse_name": "ライツユーアップ",
+      "score": -0.47108734550539033,
+      "horse_number": 3,
+      "odds": 19.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105677",
+      "horse_name": "ローガンパス",
+      "score": -0.5378588849790319,
+      "horse_number": 2,
+      "odds": 46.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106585",
+      "horse_name": "キアヌ",
+      "score": -0.5424908548714008,
+      "horse_number": 4,
+      "odds": 84.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106438",
+      "horse_name": "タマモブラウンタイ",
+      "score": -0.5539252883210777,
+      "horse_number": 9,
+      "odds": 29.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021102813",
+      "horse_name": "ハイケンス",
+      "score": -0.6213444465193375,
+      "horse_number": 10,
+      "odds": 22.0
+    }
+  ]
+}
