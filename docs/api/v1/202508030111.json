@@ -1,0 +1,152 @@
+{
+  "race_id": "202508030111",
+  "race_name": "オパールS",
+  "race_time": "2025-10-04 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102887",
+      "horse_name": "ナムラクララ",
+      "score": 0.2090188211230018,
+      "horse_number": 11,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106394",
+      "horse_name": "クラスペディア",
+      "score": 0.19653350019608107,
+      "horse_number": 7,
+      "odds": 8.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100522",
+      "horse_name": "ジョーメッドヴィン",
+      "score": 0.19508883204065064,
+      "horse_number": 9,
+      "odds": 30.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103589",
+      "horse_name": "ブトンドール",
+      "score": 0.19091102675986196,
+      "horse_number": 13,
+      "odds": 49.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106062",
+      "horse_name": "ジュンウィンダム",
+      "score": 0.15693527349849995,
+      "horse_number": 2,
+      "odds": 19.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019110001",
+      "horse_name": "ショウナンハクラク",
+      "score": 0.1362730008357518,
+      "horse_number": 5,
+      "odds": 26.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104915",
+      "horse_name": "バンデルオーラ",
+      "score": 0.1268185455858159,
+      "horse_number": 17,
+      "odds": 41.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100497",
+      "horse_name": "ベガリス",
+      "score": 0.10010859678450018,
+      "horse_number": 15,
+      "odds": 10.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018102155",
+      "horse_name": "マイネルジェロディ",
+      "score": 0.08374280533372455,
+      "horse_number": 18,
+      "odds": 47.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019104911",
+      "horse_name": "プルパレイ",
+      "score": 0.06412167531257296,
+      "horse_number": 4,
+      "odds": 23.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101924",
+      "horse_name": "フィオライア",
+      "score": 0.04096275399276805,
+      "horse_number": 6,
+      "odds": 9.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100815",
+      "horse_name": "ミルトクレイモー",
+      "score": -0.005987154150821655,
+      "horse_number": 16,
+      "odds": 32.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103714",
+      "horse_name": "メイショウソラフネ",
+      "score": -0.03507914442391953,
+      "horse_number": 3,
+      "odds": 7.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101419",
+      "horse_name": "ブーケファロス",
+      "score": -0.09362136884799031,
+      "horse_number": 10,
+      "odds": 22.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021110056",
+      "horse_name": "エコロガイア",
+      "score": -0.1627964333284124,
+      "horse_number": 14,
+      "odds": 58.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2016104668",
+      "horse_name": "カリボール",
+      "score": -0.2030621422430977,
+      "horse_number": 12,
+      "odds": 27.5
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020101543",
+      "horse_name": "グランテスト",
+      "score": -0.22062579024539214,
+      "horse_number": 1,
+      "odds": 14.3
+    },
+    {
+      "rank": 18,
+      "horse_id": "2020105400",
+      "horse_name": "タマモブラックタイ",
+      "score": -0.5091252338973246,
+      "horse_number": 8,
+      "odds": 14.8
+    }
+  ]
+}
