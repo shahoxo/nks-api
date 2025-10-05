@@ -10,7 +10,7 @@
       "horse_name": "レディーヴァリュー",
       "score": 0.3012835025463427,
       "horse_number": 1,
-      "odds": 3.3
+      "odds": 3.1
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "バッデレイト",
       "score": 0.2669480077948243,
       "horse_number": 8,
-      "odds": 2.8
+      "odds": 2.2
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "キュクヌス",
       "score": 0.12913766331338156,
       "horse_number": 6,
-      "odds": 6.7
+      "odds": 7.0
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "タイキラフター",
       "score": 0.012608637838086093,
       "horse_number": 2,
-      "odds": 11.2
+      "odds": 14.1
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "アイスグリーン",
       "score": -0.031224839097266095,
       "horse_number": 3,
-      "odds": 6.0
+      "odds": 9.5
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "キャントウェイト",
       "score": -0.07278406505413175,
       "horse_number": 9,
-      "odds": 12.0
+      "odds": 12.3
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "サトノクローク",
       "score": -0.11663834869173559,
       "horse_number": 4,
-      "odds": 12.7
+      "odds": 18.0
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "マイネルニコラス",
       "score": -0.2789157099971158,
       "horse_number": 7,
-      "odds": 56.0
+      "odds": 114.7
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "ベント",
       "score": -0.4883624477409855,
       "horse_number": 5,
-      "odds": 48.1
+      "odds": 58.6
     }
   ]
 }

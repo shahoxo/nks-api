@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040210",
+  "race_name": "赤富士S",
+  "race_time": "2025-10-05 15:05",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110127",
+      "horse_name": "テリフィックプラン",
+      "score": 0.21906233949982196,
+      "horse_number": 2,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019102143",
+      "horse_name": "フルオール",
+      "score": 0.1415597536877144,
+      "horse_number": 7,
+      "odds": 8.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100170",
+      "horse_name": "ヴァンドーム",
+      "score": 0.09800024808549546,
+      "horse_number": 5,
+      "odds": 13.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105750",
+      "horse_name": "アルゴナヴィス",
+      "score": 0.08301955578919883,
+      "horse_number": 6,
+      "odds": 10.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101235",
+      "horse_name": "ゴールデンオスカー",
+      "score": -0.015544729354965169,
+      "horse_number": 1,
+      "odds": 7.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019106691",
+      "horse_name": "ビーアイオラクル",
+      "score": -0.09387309637391135,
+      "horse_number": 3,
+      "odds": 40.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018101989",
+      "horse_name": "ジョディーズマロン",
+      "score": -0.10063372884531392,
+      "horse_number": 10,
+      "odds": 7.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020110120",
+      "horse_name": "ガンウルフ",
+      "score": -0.1684435872059858,
+      "horse_number": 15,
+      "odds": 5.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105120",
+      "horse_name": "グラウンドビート",
+      "score": -0.1947228420622103,
+      "horse_number": 8,
+      "odds": 21.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105831",
+      "horse_name": "グラヴィス",
+      "score": -0.20257647141403845,
+      "horse_number": 16,
+      "odds": 50.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104708",
+      "horse_name": "ウィステリアリヴァ",
+      "score": -0.22532647718264226,
+      "horse_number": 12,
+      "odds": 20.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106873",
+      "horse_name": "オウギノカナメ",
+      "score": -0.26362482894559847,
+      "horse_number": 13,
+      "odds": 15.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018110117",
+      "horse_name": "フランスゴデイナ",
+      "score": -0.29700310783165,
+      "horse_number": 4,
+      "odds": 72.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102161",
+      "horse_name": "サノノエスポ",
+      "score": -0.35678666818108584,
+      "horse_number": 9,
+      "odds": 66.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103566",
+      "horse_name": "シェットランド",
+      "score": -0.449277048590045,
+      "horse_number": 11,
+      "odds": 59.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106552",
+      "horse_name": "ルーンファクター",
+      "score": -0.6533614053964997,
+      "horse_number": 14,
+      "odds": 197.8
+    }
+  ]
+}

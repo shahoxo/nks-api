@@ -1,0 +1,136 @@
+{
+  "race_id": "202508030210",
+  "race_name": "藤森S",
+  "race_time": "2025-10-05 14:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110105",
+      "horse_name": "アメリカンステージ",
+      "score": 0.3669552393939601,
+      "horse_number": 9,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104991",
+      "horse_name": "スターターン",
+      "score": 0.3057399846835907,
+      "horse_number": 4,
+      "odds": 7.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020110105",
+      "horse_name": "マニバドラ",
+      "score": 0.1878191189953976,
+      "horse_number": 1,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100505",
+      "horse_name": "キタノズエッジ",
+      "score": 0.0843844509444201,
+      "horse_number": 3,
+      "odds": 11.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106554",
+      "horse_name": "タガノミスト",
+      "score": 0.062144301759448205,
+      "horse_number": 12,
+      "odds": 17.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103325",
+      "horse_name": "プロトポロス",
+      "score": 0.04277481683984053,
+      "horse_number": 2,
+      "odds": 13.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105459",
+      "horse_name": "ソウテン",
+      "score": 0.016010485583581792,
+      "horse_number": 5,
+      "odds": 66.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106782",
+      "horse_name": "ニットウバジル",
+      "score": -0.021486748237493594,
+      "horse_number": 13,
+      "odds": 18.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101707",
+      "horse_name": "スマートフォルス",
+      "score": -0.03577134385653813,
+      "horse_number": 11,
+      "odds": 33.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104304",
+      "horse_name": "スマートサニー",
+      "score": -0.08831891417650858,
+      "horse_number": 16,
+      "odds": 20.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100768",
+      "horse_name": "ジョーローリット",
+      "score": -0.10833714384281114,
+      "horse_number": 14,
+      "odds": 17.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100168",
+      "horse_name": "ロードラディウス",
+      "score": -0.13357387429032128,
+      "horse_number": 10,
+      "odds": 50.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020110131",
+      "horse_name": "メタマックス",
+      "score": -0.1406107570031296,
+      "horse_number": 7,
+      "odds": 67.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019101894",
+      "horse_name": "メズメライザー",
+      "score": -0.1787262259160318,
+      "horse_number": 15,
+      "odds": 46.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018106147",
+      "horse_name": "メイショウミツヤス",
+      "score": -0.42252841255850127,
+      "horse_number": 8,
+      "odds": 103.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019102454",
+      "horse_name": "サクセスローレル",
+      "score": -0.48074803106901065,
+      "horse_number": 6,
+      "odds": 140.1
+    }
+  ]
+}
