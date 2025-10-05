@@ -1,0 +1,152 @@
+{
+  "race_id": "202505040209",
+  "race_name": "tvk賞",
+  "race_time": "2025-10-05 14:30",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105807",
+      "horse_name": "パワースナッチ",
+      "score": 0.19308741984169575,
+      "horse_number": 12,
+      "odds": 7.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110023",
+      "horse_name": "エクストラバック",
+      "score": 0.1918153789607032,
+      "horse_number": 8,
+      "odds": 13.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104918",
+      "horse_name": "チューラワンサ",
+      "score": 0.12004995166042763,
+      "horse_number": 5,
+      "odds": 4.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104200",
+      "horse_name": "サクセスカラー",
+      "score": 0.10873610683143602,
+      "horse_number": 7,
+      "odds": 7.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021110039",
+      "horse_name": "コーティアスマナー",
+      "score": 0.1027689919687536,
+      "horse_number": 9,
+      "odds": 28.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110056",
+      "horse_name": "フードマン",
+      "score": 0.05090717598031328,
+      "horse_number": 13,
+      "odds": 7.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021110003",
+      "horse_name": "アンドアイラヴハー",
+      "score": 0.017635993923972054,
+      "horse_number": 4,
+      "odds": 22.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101629",
+      "horse_name": "クレオズニードル",
+      "score": -0.04723452572823766,
+      "horse_number": 3,
+      "odds": 15.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101573",
+      "horse_name": "ポッドロワール",
+      "score": -0.05045404492375298,
+      "horse_number": 18,
+      "odds": 9.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102631",
+      "horse_name": "ラッジオ",
+      "score": -0.06935129818275827,
+      "horse_number": 1,
+      "odds": 17.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104818",
+      "horse_name": "メイケイバートン",
+      "score": -0.1239496962502885,
+      "horse_number": 6,
+      "odds": 26.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104588",
+      "horse_name": "タイセイカレント",
+      "score": -0.12419228518720918,
+      "horse_number": 10,
+      "odds": 12.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103486",
+      "horse_name": "ホウオウシェリー",
+      "score": -0.14536230455382587,
+      "horse_number": 11,
+      "odds": 14.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104163",
+      "horse_name": "オンザブルースカイ",
+      "score": -0.17276844734024469,
+      "horse_number": 17,
+      "odds": 100.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105951",
+      "horse_name": "ヴェンチュラムーン",
+      "score": -0.29826019339726595,
+      "horse_number": 14,
+      "odds": 105.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103534",
+      "horse_name": "ジュドー",
+      "score": -0.34148847155790996,
+      "horse_number": 16,
+      "odds": 123.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020103634",
+      "horse_name": "ミスヨコハマ",
+      "score": -0.3801589109039292,
+      "horse_number": 15,
+      "odds": 45.2
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022104050",
+      "horse_name": "プチプラージュ",
+      "score": -0.6471922950384126,
+      "horse_number": 2,
+      "odds": 159.7
+    }
+  ]
+}
