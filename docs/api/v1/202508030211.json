@@ -1,0 +1,152 @@
+{
+  "race_id": "202508030211",
+  "race_name": "京都大賞典",
+  "race_time": "2025-10-05 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105369",
+      "horse_name": "アドマイヤテラ",
+      "score": 0.5344170416541819,
+      "horse_number": 4,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106449",
+      "horse_name": "サブマリーナ",
+      "score": 0.25166295054588295,
+      "horse_number": 14,
+      "odds": 14.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103060",
+      "horse_name": "ヴェルテンベルク",
+      "score": 0.12037882125431106,
+      "horse_number": 11,
+      "odds": 106.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2018104475",
+      "horse_name": "ディープモンスター",
+      "score": 0.11993185500432325,
+      "horse_number": 3,
+      "odds": 8.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105104",
+      "horse_name": "サンライズソレイユ",
+      "score": 0.09727601584525064,
+      "horse_number": 1,
+      "odds": 29.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105195",
+      "horse_name": "ショウナンラプンタ",
+      "score": 0.00880846048274922,
+      "horse_number": 18,
+      "odds": 5.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103650",
+      "horse_name": "ドゥレッツァ",
+      "score": -0.029273054233144812,
+      "horse_number": 7,
+      "odds": 5.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019105252",
+      "horse_name": "アルナシーム",
+      "score": -0.04280030393013905,
+      "horse_number": 17,
+      "odds": 53.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105560",
+      "horse_name": "サンライズアース",
+      "score": -0.07689910865829847,
+      "horse_number": 5,
+      "odds": 6.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103945",
+      "horse_name": "ヴェルミセル",
+      "score": -0.10467972806415597,
+      "horse_number": 8,
+      "odds": 58.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102870",
+      "horse_name": "ブレイヴロッカー",
+      "score": -0.14870426547510254,
+      "horse_number": 10,
+      "odds": 56.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019100109",
+      "horse_name": "プラダリア",
+      "score": -0.24699384912398945,
+      "horse_number": 6,
+      "odds": 23.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100913",
+      "horse_name": "ジューンテイク",
+      "score": -0.2568555876118462,
+      "horse_number": 15,
+      "odds": 31.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019101847",
+      "horse_name": "ミクソロジー",
+      "score": -0.29089151577711647,
+      "horse_number": 9,
+      "odds": 147.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019105312",
+      "horse_name": "ワープスピード",
+      "score": -0.3198596553791728,
+      "horse_number": 12,
+      "odds": 68.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103082",
+      "horse_name": "カネフラ",
+      "score": -0.3215868063364459,
+      "horse_number": 2,
+      "odds": 165.4
+    },
+    {
+      "rank": 17,
+      "horse_id": "2019104909",
+      "horse_name": "ボルドグフーシュ",
+      "score": -0.4497373358429979,
+      "horse_number": 16,
+      "odds": 22.3
+    },
+    {
+      "rank": 18,
+      "horse_id": "2019104091",
+      "horse_name": "メイショウブレゲ",
+      "score": -0.5059365718104147,
+      "horse_number": 13,
+      "odds": 30.7
+    }
+  ]
+}
