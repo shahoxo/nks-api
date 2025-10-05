@@ -1,0 +1,136 @@
+{
+  "race_id": "202508030208",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-10-05 13:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103708",
+      "horse_name": "マイティマイティー",
+      "score": 0.18081180042937303,
+      "horse_number": 10,
+      "odds": 10.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104120",
+      "horse_name": "コスモストーム",
+      "score": 0.13745169369619176,
+      "horse_number": 8,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104398",
+      "horse_name": "タマモティーカップ",
+      "score": 0.13014898864632413,
+      "horse_number": 14,
+      "odds": 15.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100204",
+      "horse_name": "ピエマンソン",
+      "score": 0.07496479408217556,
+      "horse_number": 5,
+      "odds": 3.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106734",
+      "horse_name": "フラーハ",
+      "score": -0.016908958117813448,
+      "horse_number": 3,
+      "odds": 11.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106105",
+      "horse_name": "クアトロジャック",
+      "score": -0.041832500561197826,
+      "horse_number": 16,
+      "odds": 9.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018104030",
+      "horse_name": "ワーズワース",
+      "score": -0.05419439415029827,
+      "horse_number": 13,
+      "odds": 9.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106757",
+      "horse_name": "リネアグローリア",
+      "score": -0.06364284662280828,
+      "horse_number": 1,
+      "odds": 8.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101241",
+      "horse_name": "ランタナヒルズ",
+      "score": -0.09181310257726384,
+      "horse_number": 9,
+      "odds": 55.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105973",
+      "horse_name": "ワイノナオミ",
+      "score": -0.15137288499654572,
+      "horse_number": 11,
+      "odds": 18.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102845",
+      "horse_name": "モズナイスバディー",
+      "score": -0.24552707191824497,
+      "horse_number": 12,
+      "odds": 30.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019109106",
+      "horse_name": "バイファーザベスト",
+      "score": -0.26718999973657526,
+      "horse_number": 15,
+      "odds": 63.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103819",
+      "horse_name": "ストームバンガード",
+      "score": -0.4607579073897877,
+      "horse_number": 7,
+      "odds": 65.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102993",
+      "horse_name": "シンゼンイズモ",
+      "score": -0.5178690697828191,
+      "horse_number": 6,
+      "odds": 142.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104669",
+      "horse_name": "サマーアゲイン",
+      "score": -0.5233574322932912,
+      "horse_number": 2,
+      "odds": 117.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103598",
+      "horse_name": "ブライトルピナス",
+      "score": -0.6435674426738079,
+      "horse_number": 4,
+      "odds": 20.0
+    }
+  ]
+}
