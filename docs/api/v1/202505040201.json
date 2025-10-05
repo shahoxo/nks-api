@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040201",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-05 10:05",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101146",
+      "horse_name": "アンプイットアップ",
+      "score": 0.3129353620875037,
+      "horse_number": 12,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103365",
+      "horse_name": "ヘリテージブルーム",
+      "score": -0.014750885668966698,
+      "horse_number": 10,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105162",
+      "horse_name": "コパノエイダン",
+      "score": -0.05705345627730132,
+      "horse_number": 1,
+      "odds": 12.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023110008",
+      "horse_name": "モーゲンセン",
+      "score": -0.08674617771480045,
+      "horse_number": 14,
+      "odds": 33.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023110051",
+      "horse_name": "ドナシェーン",
+      "score": -0.11199540437520508,
+      "horse_number": 5,
+      "odds": 6.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023110104",
+      "horse_name": "エコロシード",
+      "score": -0.17080045550544243,
+      "horse_number": 7,
+      "odds": 5.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104150",
+      "horse_name": "カセノアステリア",
+      "score": -0.2208784201584217,
+      "horse_number": 8,
+      "odds": 17.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105578",
+      "horse_name": "ワールドブレイヴ",
+      "score": -0.23383917686963213,
+      "horse_number": 11,
+      "odds": 139.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104534",
+      "horse_name": "カナデライド",
+      "score": -0.4427245004638528,
+      "horse_number": 2,
+      "odds": 102.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102486",
+      "horse_name": "フィールドアピール",
+      "score": -0.4643044706167978,
+      "horse_number": 13,
+      "odds": 14.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023110047",
+      "horse_name": "ホワイトナイル",
+      "score": -0.546418385722876,
+      "horse_number": 3,
+      "odds": 20.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102699",
+      "horse_name": "トコシエノヒトミ",
+      "score": -0.5566139541043796,
+      "horse_number": 9,
+      "odds": 44.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105015",
+      "horse_name": "タマコロリン",
+      "score": -0.651785207148711,
+      "horse_number": 15,
+      "odds": 124.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105996",
+      "horse_name": "ビップレオン",
+      "score": -0.6650915093414816,
+      "horse_number": 16,
+      "odds": 110.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106357",
+      "horse_name": "ビースタニング",
+      "score": -0.7212483613895885,
+      "horse_number": 4,
+      "odds": 135.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104309",
+      "horse_name": "エスシーレイジュ",
+      "score": -0.7265140734648036,
+      "horse_number": 6,
+      "odds": 185.2
+    }
+  ]
+}
