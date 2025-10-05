@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040212",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-10-05 16:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105716",
+      "horse_name": "アージェント",
+      "score": 0.33303266943139614,
+      "horse_number": 1,
+      "odds": 11.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105564",
+      "horse_name": "ファリーザ",
+      "score": 0.14795938910825723,
+      "horse_number": 14,
+      "odds": 2.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102711",
+      "horse_name": "ノルドヴェスト",
+      "score": 0.09671187039257163,
+      "horse_number": 6,
+      "odds": 20.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105776",
+      "horse_name": "グレイスザクラウン",
+      "score": 0.09202159909144064,
+      "horse_number": 9,
+      "odds": 4.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101106",
+      "horse_name": "スマートスピア",
+      "score": 0.060664319653558445,
+      "horse_number": 2,
+      "odds": 10.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104605",
+      "horse_name": "ショウナンヤッホー",
+      "score": -0.00975292827319911,
+      "horse_number": 7,
+      "odds": 19.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104365",
+      "horse_name": "リュウノタブーク",
+      "score": -0.041161878448371096,
+      "horse_number": 12,
+      "odds": 14.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102982",
+      "horse_name": "ベルダイナフェロー",
+      "score": -0.18326288771545707,
+      "horse_number": 4,
+      "odds": 42.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102896",
+      "horse_name": "ロミオボス",
+      "score": -0.24630235787107038,
+      "horse_number": 3,
+      "odds": 73.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105798",
+      "horse_name": "オンザスクエア",
+      "score": -0.27974181611616916,
+      "horse_number": 11,
+      "odds": 13.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101764",
+      "horse_name": "トーホウキザン",
+      "score": -0.3212867693267452,
+      "horse_number": 15,
+      "odds": 18.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102280",
+      "horse_name": "デビッドテソーロ",
+      "score": -0.37791994704666687,
+      "horse_number": 8,
+      "odds": 84.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104777",
+      "horse_name": "クォーツァイト",
+      "score": -0.4150882986237425,
+      "horse_number": 16,
+      "odds": 27.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102724",
+      "horse_name": "クールブロン",
+      "score": -0.4748336405192387,
+      "horse_number": 10,
+      "odds": 62.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2017105433",
+      "horse_name": "ヤウガウ",
+      "score": -0.5311741449122349,
+      "horse_number": 13,
+      "odds": 66.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104126",
+      "horse_name": "サラサハウプリティ",
+      "score": -0.5970618435386312,
+      "horse_number": 5,
+      "odds": 40.1
+    }
+  ]
+}
