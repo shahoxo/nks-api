@@ -1,0 +1,136 @@
+{
+  "race_id": "202508030212",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-10-05 16:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021107180",
+      "horse_name": "ジュンヴァンケット",
+      "score": 0.23825016522219178,
+      "horse_number": 13,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103146",
+      "horse_name": "カンシン",
+      "score": 0.22975888876488443,
+      "horse_number": 9,
+      "odds": 7.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100933",
+      "horse_name": "エルサトアナ",
+      "score": 0.14865648770646622,
+      "horse_number": 1,
+      "odds": 8.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105092",
+      "horse_name": "ソングオブライフ",
+      "score": 0.1277311459307819,
+      "horse_number": 5,
+      "odds": 13.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104698",
+      "horse_name": "ブルーサンセット",
+      "score": 0.10540427973061685,
+      "horse_number": 11,
+      "odds": 20.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100791",
+      "horse_name": "ブラックケリー",
+      "score": 0.08649552977320822,
+      "horse_number": 2,
+      "odds": 5.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100476",
+      "horse_name": "ファイツオン",
+      "score": 0.05293250448584955,
+      "horse_number": 14,
+      "odds": 18.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100365",
+      "horse_name": "トウカイエルデ",
+      "score": 0.029888838930931867,
+      "horse_number": 8,
+      "odds": 5.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102421",
+      "horse_name": "ビービーエフォート",
+      "score": 0.020148308438676415,
+      "horse_number": 6,
+      "odds": 19.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105833",
+      "horse_name": "カリーシ",
+      "score": -0.03497956553242736,
+      "horse_number": 10,
+      "odds": 35.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106777",
+      "horse_name": "セレッソデアモール",
+      "score": -0.05060925845121983,
+      "horse_number": 4,
+      "odds": 20.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105793",
+      "horse_name": "マゴイチタ",
+      "score": -0.09843982994269963,
+      "horse_number": 12,
+      "odds": 37.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105873",
+      "horse_name": "シュブロンレーヴル",
+      "score": -0.26770981013599365,
+      "horse_number": 15,
+      "odds": 40.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018104534",
+      "horse_name": "アスクキングコング",
+      "score": -0.2715036220684499,
+      "horse_number": 7,
+      "odds": 68.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020107036",
+      "horse_name": "マイネルビジョン",
+      "score": -0.33635777002126155,
+      "horse_number": 16,
+      "odds": 87.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020102140",
+      "horse_name": "アンビバレント",
+      "score": -0.48339627476808833,
+      "horse_number": 3,
+      "odds": 18.4
+    }
+  ]
+}
