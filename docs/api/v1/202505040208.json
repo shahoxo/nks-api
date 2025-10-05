@@ -1,0 +1,120 @@
+{
+  "race_id": "202505040208",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-05 13:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105070",
+      "horse_name": "ジャサルディア",
+      "score": 0.35006358879321103,
+      "horse_number": 9,
+      "odds": 2.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101388",
+      "horse_name": "ベストシーン",
+      "score": 0.20264399513982623,
+      "horse_number": 2,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106757",
+      "horse_name": "ベストレーサー",
+      "score": 0.20176170086007467,
+      "horse_number": 7,
+      "odds": 35.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104093",
+      "horse_name": "ガラク",
+      "score": 0.09140754601241861,
+      "horse_number": 4,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103160",
+      "horse_name": "ケイツークローン",
+      "score": -0.00607712237392083,
+      "horse_number": 14,
+      "odds": 26.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104666",
+      "horse_name": "カザンラク",
+      "score": -0.11758460370256499,
+      "horse_number": 8,
+      "odds": 10.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105168",
+      "horse_name": "クイーンズワーフ",
+      "score": -0.1565674289997734,
+      "horse_number": 12,
+      "odds": 27.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100765",
+      "horse_name": "リケアキャンディ",
+      "score": -0.2067078260956745,
+      "horse_number": 13,
+      "odds": 39.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105499",
+      "horse_name": "プリンセスロロ",
+      "score": -0.21795359141417647,
+      "horse_number": 6,
+      "odds": 73.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102552",
+      "horse_name": "クラウドセイル",
+      "score": -0.30456038316955536,
+      "horse_number": 3,
+      "odds": 68.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101569",
+      "horse_name": "ハットメリリー",
+      "score": -0.30815763054545986,
+      "horse_number": 11,
+      "odds": 111.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106840",
+      "horse_name": "パーセルペーパー",
+      "score": -0.44482949988030673,
+      "horse_number": 5,
+      "odds": 42.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106683",
+      "horse_name": "ジーティームテキ",
+      "score": -0.5278590742634348,
+      "horse_number": 1,
+      "odds": 92.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100466",
+      "horse_name": "ディナーラッシュ",
+      "score": -0.6248759352187088,
+      "horse_number": 10,
+      "odds": 7.1
+    }
+  ]
+}
