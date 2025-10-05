@@ -1,0 +1,104 @@
+{
+  "race_id": "202508030207",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-05 13:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100099",
+      "horse_name": "クラウディアイ",
+      "score": 0.0581330429809167,
+      "horse_number": 6,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105399",
+      "horse_name": "ダノンジャイアン",
+      "score": 0.046797140012709106,
+      "horse_number": 2,
+      "odds": 8.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101783",
+      "horse_name": "プレミアシップ",
+      "score": 0.04177591660549849,
+      "horse_number": 1,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104138",
+      "horse_name": "ディスパラール",
+      "score": 0.015311320303670743,
+      "horse_number": 10,
+      "odds": 10.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100655",
+      "horse_name": "レーヌマロン",
+      "score": -0.055607444973432445,
+      "horse_number": 8,
+      "odds": 12.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103520",
+      "horse_name": "デルシエロ",
+      "score": -0.06193534959897415,
+      "horse_number": 9,
+      "odds": 7.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105422",
+      "horse_name": "フォーキャンドルズ",
+      "score": -0.2396771003743389,
+      "horse_number": 4,
+      "odds": 32.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022107149",
+      "horse_name": "ヴォラヴィア",
+      "score": -0.43374000795483325,
+      "horse_number": 11,
+      "odds": 18.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102801",
+      "horse_name": "ドゥラシェーナ",
+      "score": -0.4701959355890377,
+      "horse_number": 7,
+      "odds": 62.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105536",
+      "horse_name": "ルージュサリナス",
+      "score": -0.5268719660996359,
+      "horse_number": 5,
+      "odds": 33.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103845",
+      "horse_name": "ニホンピロゴルディ",
+      "score": -0.5604919038970706,
+      "horse_number": 12,
+      "odds": 50.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103909",
+      "horse_name": "ショウナンアトレ",
+      "score": -0.5970618435386312,
+      "horse_number": 3,
+      "odds": 122.9
+    }
+  ]
+}

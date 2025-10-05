@@ -1,0 +1,120 @@
+{
+  "race_id": "202508030206",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-05 12:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105602",
+      "horse_name": "エコロスパーダ",
+      "score": 0.17390490813325266,
+      "horse_number": 14,
+      "odds": 6.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110104",
+      "horse_name": "アメリカンビヨンド",
+      "score": 0.17359263704190714,
+      "horse_number": 12,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105695",
+      "horse_name": "ディニテ",
+      "score": 0.12846468585156534,
+      "horse_number": 7,
+      "odds": 10.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105021",
+      "horse_name": "マテンロウブレイブ",
+      "score": 0.06274961361529953,
+      "horse_number": 11,
+      "odds": 3.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110051",
+      "horse_name": "チムニートップス",
+      "score": 0.013415865249485747,
+      "horse_number": 13,
+      "odds": 5.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100736",
+      "horse_name": "ポッドフォルク",
+      "score": -0.1256691101490942,
+      "horse_number": 6,
+      "odds": 23.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021110097",
+      "horse_name": "ブルーワール",
+      "score": -0.13504998306799143,
+      "horse_number": 9,
+      "odds": 9.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110106",
+      "horse_name": "エリカヴェネチア",
+      "score": -0.146479113845562,
+      "horse_number": 5,
+      "odds": 18.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103433",
+      "horse_name": "ヴァリージア",
+      "score": -0.15326227429791592,
+      "horse_number": 4,
+      "odds": 18.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022107299",
+      "horse_name": "クレスコドルフィン",
+      "score": -0.3158119513945177,
+      "horse_number": 10,
+      "odds": 46.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101429",
+      "horse_name": "ブーディガ",
+      "score": -0.5131200397228557,
+      "horse_number": 3,
+      "odds": 41.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103135",
+      "horse_name": "コウジョリョウゾク",
+      "score": -0.5580351539432811,
+      "horse_number": 8,
+      "odds": 63.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100181",
+      "horse_name": "アイムアクイーン",
+      "score": -0.5849205848667771,
+      "horse_number": 2,
+      "odds": 86.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100719",
+      "horse_name": "キャロルビアンカ",
+      "score": -0.7344997899121097,
+      "horse_number": 1,
+      "odds": 148.4
+    }
+  ]
+}
