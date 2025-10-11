@@ -1,0 +1,136 @@
+{
+  "race_id": "202508030311",
+  "race_name": "御陵S",
+  "race_time": "2025-10-11 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106553",
+      "horse_name": "タガノバビロン",
+      "score": 0.37638517099819513,
+      "horse_number": 14,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100154",
+      "horse_name": "メイショウズイウン",
+      "score": 0.3162470649794166,
+      "horse_number": 8,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104092",
+      "horse_name": "ペンナヴェローチェ",
+      "score": 0.20860362808656513,
+      "horse_number": 16,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019104805",
+      "horse_name": "デコラシオン",
+      "score": 0.12563336333161906,
+      "horse_number": 1,
+      "odds": 10.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103096",
+      "horse_name": "イデアイゴッソウ",
+      "score": 0.11352319683395991,
+      "horse_number": 13,
+      "odds": 5.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102905",
+      "horse_name": "ホルトバージ",
+      "score": 0.09794870207292837,
+      "horse_number": 6,
+      "odds": 15.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105272",
+      "horse_name": "タンゴバイラリン",
+      "score": 0.06107495273219153,
+      "horse_number": 9,
+      "odds": 18.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104745",
+      "horse_name": "シャルクハフト",
+      "score": -2.4095814055775933e-05,
+      "horse_number": 7,
+      "odds": 14.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019102983",
+      "horse_name": "キュールエフウジン",
+      "score": -0.04016293399266862,
+      "horse_number": 12,
+      "odds": 44.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102988",
+      "horse_name": "オメガタキシード",
+      "score": -0.09962821617358021,
+      "horse_number": 15,
+      "odds": 25.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105477",
+      "horse_name": "ハーバーライト",
+      "score": -0.13008898400989216,
+      "horse_number": 10,
+      "odds": 40.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022110115",
+      "horse_name": "シンビリーブ",
+      "score": -0.19456385796644796,
+      "horse_number": 5,
+      "odds": 19.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104793",
+      "horse_name": "サンライズグルーヴ",
+      "score": -0.274668473304061,
+      "horse_number": 11,
+      "odds": 46.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104861",
+      "horse_name": "スズノテレサ",
+      "score": -0.36588783230120536,
+      "horse_number": 4,
+      "odds": 68.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021102083",
+      "horse_name": "スマートリアファル",
+      "score": -0.3774349723948104,
+      "horse_number": 3,
+      "odds": 39.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101919",
+      "horse_name": "ダイメイセブン",
+      "score": -0.5756208026262363,
+      "horse_number": 2,
+      "odds": 119.4
+    }
+  ]
+}
