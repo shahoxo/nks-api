@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040312",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-11 16:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104490",
+      "horse_name": "トニケンサンバ",
+      "score": 0.24702913201041002,
+      "horse_number": 8,
+      "odds": 5.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100620",
+      "horse_name": "シルフレイ",
+      "score": 0.23446333929406327,
+      "horse_number": 9,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100050",
+      "horse_name": "ガンハンマー",
+      "score": 0.22663883350653366,
+      "horse_number": 5,
+      "odds": 12.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022107272",
+      "horse_name": "ピコレッド",
+      "score": 0.11686695270750695,
+      "horse_number": 15,
+      "odds": 5.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104009",
+      "horse_name": "トラヴェリンバンド",
+      "score": 0.037630609650576796,
+      "horse_number": 3,
+      "odds": 8.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102681",
+      "horse_name": "マイネルブリオン",
+      "score": -0.03323356696878561,
+      "horse_number": 7,
+      "odds": 17.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101660",
+      "horse_name": "アンクエンチャブル",
+      "score": -0.03627009335490873,
+      "horse_number": 2,
+      "odds": 4.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103472",
+      "horse_name": "キョウエイスレーヴ",
+      "score": -0.08101841020121787,
+      "horse_number": 12,
+      "odds": 10.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105745",
+      "horse_name": "フレイムジョーカー",
+      "score": -0.21240068854270489,
+      "horse_number": 1,
+      "odds": 32.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104101",
+      "horse_name": "タイセイブロウ",
+      "score": -0.27997914797192336,
+      "horse_number": 14,
+      "odds": 26.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105598",
+      "horse_name": "リアルショット",
+      "score": -0.35973705941050954,
+      "horse_number": 11,
+      "odds": 60.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106243",
+      "horse_name": "サヨノジャンボリー",
+      "score": -0.5133790228752532,
+      "horse_number": 13,
+      "odds": 47.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101733",
+      "horse_name": "ダイタエリュシオン",
+      "score": -0.5352261545840771,
+      "horse_number": 10,
+      "odds": 86.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104135",
+      "horse_name": "トルズイーガー",
+      "score": -0.5485661685169994,
+      "horse_number": 4,
+      "odds": 108.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100307",
+      "horse_name": "オブシディアン",
+      "score": -0.5833309696314021,
+      "horse_number": 6,
+      "odds": 98.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021100759",
+      "horse_name": "セッカチドラゴン",
+      "score": -0.6318373387288261,
+      "horse_number": 16,
+      "odds": 44.4
+    }
+  ]
+}

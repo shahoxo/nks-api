@@ -1,0 +1,136 @@
+{
+  "race_id": "202508030312",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-11 16:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110129",
+      "horse_name": "ゴールデンカイト",
+      "score": 0.39634936713885893,
+      "horse_number": 2,
+      "odds": 2.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106010",
+      "horse_name": "モズタチアガレ",
+      "score": 0.15123612144348758,
+      "horse_number": 7,
+      "odds": 10.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021107255",
+      "horse_name": "ゼットスパンキー",
+      "score": 0.09081374427487096,
+      "horse_number": 5,
+      "odds": 16.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105848",
+      "horse_name": "ステイクオール",
+      "score": 0.05742317310411481,
+      "horse_number": 8,
+      "odds": 6.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021110137",
+      "horse_name": "ピカリ",
+      "score": 0.055903075762586546,
+      "horse_number": 4,
+      "odds": 68.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110152",
+      "horse_name": "レーティッシュ",
+      "score": 0.04765875601218202,
+      "horse_number": 10,
+      "odds": 10.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105773",
+      "horse_name": "リアライズオーラム",
+      "score": 0.016569750918403472,
+      "horse_number": 11,
+      "odds": 8.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104900",
+      "horse_name": "クロユキ",
+      "score": 0.01327269761185063,
+      "horse_number": 9,
+      "odds": 17.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102716",
+      "horse_name": "サンマルノヴェル",
+      "score": -0.14650698070963772,
+      "horse_number": 15,
+      "odds": 13.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103586",
+      "horse_name": "ガウラスパーク",
+      "score": -0.1847719023050872,
+      "horse_number": 3,
+      "odds": 70.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022110117",
+      "horse_name": "チュウワチーフ",
+      "score": -0.20478257650742035,
+      "horse_number": 12,
+      "odds": 20.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101396",
+      "horse_name": "サンライズブレイク",
+      "score": -0.23260346265607054,
+      "horse_number": 13,
+      "odds": 33.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021110123",
+      "horse_name": "アメリカンチーフ",
+      "score": -0.4043235918701584,
+      "horse_number": 6,
+      "odds": 42.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022110157",
+      "horse_name": "レーヴドアンジュ",
+      "score": -0.4887739083474144,
+      "horse_number": 16,
+      "odds": 61.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022110113",
+      "horse_name": "ジャスパーノベル",
+      "score": -0.49016299979153,
+      "horse_number": 1,
+      "odds": 24.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101936",
+      "horse_name": "テイオームサシ",
+      "score": -0.5246669418211128,
+      "horse_number": 14,
+      "odds": 80.7
+    }
+  ]
+}
