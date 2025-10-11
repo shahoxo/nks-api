@@ -1,0 +1,64 @@
+{
+  "race_id": "202508030308",
+  "race_name": "紫菊賞",
+  "race_time": "2025-10-11 13:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105796",
+      "horse_name": "ロードラヴォール",
+      "score": 0.33900038122595744,
+      "horse_number": 1,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106921",
+      "horse_name": "ブルースカイブルー",
+      "score": 0.3189728680009745,
+      "horse_number": 4,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105380",
+      "horse_name": "サトノアイボリー",
+      "score": 0.2784390304175274,
+      "horse_number": 7,
+      "odds": 5.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106412",
+      "horse_name": "ユメシルベ",
+      "score": -0.035385473597371694,
+      "horse_number": 2,
+      "odds": 10.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102457",
+      "horse_name": "オッハッピー",
+      "score": -0.5185826071555558,
+      "horse_number": 3,
+      "odds": 58.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104662",
+      "horse_name": "ファインマン",
+      "score": -0.6256682283707391,
+      "horse_number": 6,
+      "odds": 43.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106169",
+      "horse_name": "セイカンサンラン",
+      "score": -0.7560238565797833,
+      "horse_number": 5,
+      "odds": 73.7
+    }
+  ]
+}
