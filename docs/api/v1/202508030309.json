@@ -10,7 +10,7 @@
       "horse_name": "ドゥラエテルノ",
       "score": 0.138813799079259,
       "horse_number": 2,
-      "odds": 6.3
+      "odds": 5.5
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "ドラゴン",
       "score": 0.08381368018169293,
       "horse_number": 9,
-      "odds": 2.1
+      "odds": 2.0
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "スマートカイロス",
       "score": -0.10893638249875741,
       "horse_number": 4,
-      "odds": 5.0
+      "odds": 4.4
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "スコーピオンイメル",
       "score": -0.2631286326557164,
       "horse_number": 8,
-      "odds": 13.3
+      "odds": 11.6
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "ゴールドダイアー",
       "score": -0.28851639447876276,
       "horse_number": 3,
-      "odds": 4.8
+      "odds": 6.0
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "ナムラブーニン",
       "score": -0.2935033967862886,
       "horse_number": 10,
-      "odds": 24.8
+      "odds": 26.2
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "テーオーニコラス",
       "score": -0.4324989553188068,
       "horse_number": 12,
-      "odds": 88.7
+      "odds": 115.4
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "ウイングスオブラヴ",
       "score": -0.43473690833145184,
       "horse_number": 5,
-      "odds": 48.5
+      "odds": 91.0
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "サンダーユニバンス",
       "score": -0.5164231727128572,
       "horse_number": 1,
-      "odds": 64.1
+      "odds": 107.2
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "サーティファイド",
       "score": -0.5511684527854172,
       "horse_number": 7,
-      "odds": 58.8
+      "odds": 75.1
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "イエスウィズキャン",
       "score": -0.5728380774219135,
       "horse_number": 6,
-      "odds": 27.1
+      "odds": 42.8
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "サンピノン",
       "score": -0.7212483613895885,
       "horse_number": 11,
-      "odds": 97.4
+      "odds": 149.6
     }
   ]
 }
