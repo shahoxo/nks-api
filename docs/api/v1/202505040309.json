@@ -1,0 +1,88 @@
+{
+  "race_id": "202505040309",
+  "race_name": "陣馬特別",
+  "race_time": "2025-10-11 14:31",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105838",
+      "horse_name": "モルトマエストーソ",
+      "score": 0.3110076893672337,
+      "horse_number": 3,
+      "odds": 19.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104845",
+      "horse_name": "ホウオウアートマン",
+      "score": 0.08686788941422971,
+      "horse_number": 1,
+      "odds": 1.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020100233",
+      "horse_name": "セイウンパシュート",
+      "score": 0.08297270586138442,
+      "horse_number": 7,
+      "odds": 28.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105048",
+      "horse_name": "ゴージョニーゴー",
+      "score": 0.03791077963987087,
+      "horse_number": 5,
+      "odds": 12.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105639",
+      "horse_name": "ダノンホイットニー",
+      "score": -0.022999978179955794,
+      "horse_number": 8,
+      "odds": 7.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100597",
+      "horse_name": "ズイウンゴサイ",
+      "score": -0.05127202782944064,
+      "horse_number": 4,
+      "odds": 8.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103731",
+      "horse_name": "ミントマーク",
+      "score": -0.06284853521456084,
+      "horse_number": 2,
+      "odds": 8.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102577",
+      "horse_name": "バレンタインガール",
+      "score": -0.11294762696835632,
+      "horse_number": 6,
+      "odds": 10.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102738",
+      "horse_name": "エーオーキング",
+      "score": -0.11868949604187033,
+      "horse_number": 9,
+      "odds": 19.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102725",
+      "horse_name": "ソワドリヨン",
+      "score": -0.27780294610656314,
+      "horse_number": 10,
+      "odds": 35.5
+    }
+  ]
+}
