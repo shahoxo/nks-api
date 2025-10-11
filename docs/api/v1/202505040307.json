@@ -1,0 +1,88 @@
+{
+  "race_id": "202505040307",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-11 13:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105002",
+      "horse_name": "ボウウィンドウ",
+      "score": 0.48202225956352246,
+      "horse_number": 1,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106344",
+      "horse_name": "エテルニータ",
+      "score": 0.20684171839624022,
+      "horse_number": 7,
+      "odds": 5.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105014",
+      "horse_name": "タイセイプランセス",
+      "score": 0.13827966247729329,
+      "horse_number": 9,
+      "odds": 2.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105506",
+      "horse_name": "シドニーホバート",
+      "score": 0.11477952650001431,
+      "horse_number": 10,
+      "odds": 10.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105382",
+      "horse_name": "シンドリームシン",
+      "score": 0.10455609706700524,
+      "horse_number": 2,
+      "odds": 15.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106150",
+      "horse_name": "スワローシチー",
+      "score": -0.07159732146982258,
+      "horse_number": 5,
+      "odds": 5.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104820",
+      "horse_name": "メアヴィア",
+      "score": -0.11686993903340111,
+      "horse_number": 3,
+      "odds": 35.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104686",
+      "horse_name": "エバーステイ",
+      "score": -0.11911576897017674,
+      "horse_number": 6,
+      "odds": 57.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102918",
+      "horse_name": "オルソビアンコ",
+      "score": -0.5505394959797906,
+      "horse_number": 8,
+      "odds": 19.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101385",
+      "horse_name": "レリッシュ",
+      "score": -0.7344997899121097,
+      "horse_number": 4,
+      "odds": 111.8
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "race_id": "202508030307",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-11 13:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105098",
+      "horse_name": "マディソンガール",
+      "score": 0.4152068481353521,
+      "horse_number": 10,
+      "odds": 2.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105250",
+      "horse_name": "エアビッグマム",
+      "score": 0.33235494397179155,
+      "horse_number": 11,
+      "odds": 11.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105988",
+      "horse_name": "ジーティードレス",
+      "score": 0.19838863671076745,
+      "horse_number": 4,
+      "odds": 5.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104638",
+      "horse_name": "アラベラ",
+      "score": 0.11555130135102117,
+      "horse_number": 2,
+      "odds": 4.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105190",
+      "horse_name": "ブルーミングローズ",
+      "score": 0.060833338491722094,
+      "horse_number": 9,
+      "odds": 22.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105739",
+      "horse_name": "オリーボーレン",
+      "score": 0.049140203883010186,
+      "horse_number": 1,
+      "odds": 10.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019101985",
+      "horse_name": "ダイシンビヨンド",
+      "score": -0.23895280822878304,
+      "horse_number": 7,
+      "odds": 54.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022107342",
+      "horse_name": "ザラタン",
+      "score": -0.2569675949230505,
+      "horse_number": 3,
+      "odds": 15.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106634",
+      "horse_name": "アンビアンス",
+      "score": -0.25990983803765383,
+      "horse_number": 8,
+      "odds": 40.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104710",
+      "horse_name": "ムーンライトラガー",
+      "score": -0.260350237686579,
+      "horse_number": 6,
+      "odds": 15.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105484",
+      "horse_name": "ベランジェール",
+      "score": -0.27955111334322735,
+      "horse_number": 5,
+      "odds": 40.0
+    }
+  ]
+}
