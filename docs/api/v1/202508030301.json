@@ -1,0 +1,136 @@
+{
+  "race_id": "202508030301",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-11 09:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106320",
+      "horse_name": "ワイドカクゲン",
+      "score": 0.14811578078526305,
+      "horse_number": 1,
+      "odds": 8.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106572",
+      "horse_name": "メイショウボンテン",
+      "score": 0.10966632481565532,
+      "horse_number": 13,
+      "odds": 17.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101130",
+      "horse_name": "ハルイチバン",
+      "score": 0.08426749010333277,
+      "horse_number": 10,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104798",
+      "horse_name": "ランスオブキング",
+      "score": 0.04012848904744763,
+      "horse_number": 14,
+      "odds": 3.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103685",
+      "horse_name": "リーガルスプレンダ",
+      "score": -0.08082908619969628,
+      "horse_number": 7,
+      "odds": 22.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105265",
+      "horse_name": "マジックアロマ",
+      "score": -0.1196374095450261,
+      "horse_number": 8,
+      "odds": 60.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106359",
+      "horse_name": "ワイドアルバ",
+      "score": -0.2328473919652289,
+      "horse_number": 11,
+      "odds": 18.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103218",
+      "horse_name": "グラスゴー",
+      "score": -0.2619174065049383,
+      "horse_number": 12,
+      "odds": 8.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104539",
+      "horse_name": "フレンズプラス",
+      "score": -0.3404785745401442,
+      "horse_number": 2,
+      "odds": 4.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106234",
+      "horse_name": "ナムラマフィン",
+      "score": -0.37460905831743563,
+      "horse_number": 5,
+      "odds": 18.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101065",
+      "horse_name": "リアルアルバ",
+      "score": -0.48052101324904506,
+      "horse_number": 15,
+      "odds": 30.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106634",
+      "horse_name": "テーオーエリーナ",
+      "score": -0.5093406434624808,
+      "horse_number": 6,
+      "odds": 108.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103862",
+      "horse_name": "ミヤラティーニ",
+      "score": -0.6336370845533565,
+      "horse_number": 9,
+      "odds": 28.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100841",
+      "horse_name": "サンリナリア",
+      "score": -0.7092892104133881,
+      "horse_number": 3,
+      "odds": 24.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102859",
+      "horse_name": "テリオスヒナ",
+      "score": -0.7212483613895885,
+      "horse_number": 16,
+      "odds": 175.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105219",
+      "horse_name": "クイーンズステート",
+      "score": -0.738611935862869,
+      "horse_number": 4,
+      "odds": 173.6
+    }
+  ]
+}

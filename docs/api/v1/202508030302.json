@@ -1,0 +1,72 @@
+{
+  "race_id": "202508030302",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-11 10:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104386",
+      "horse_name": "カムアップローゼス",
+      "score": 0.3478427430234246,
+      "horse_number": 1,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103894",
+      "horse_name": "サトノリシャール",
+      "score": 0.02429038807611008,
+      "horse_number": 7,
+      "odds": 7.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103783",
+      "horse_name": "ヴォーカライズ",
+      "score": 0.004953200250346786,
+      "horse_number": 6,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105708",
+      "horse_name": "バトゥカーダ",
+      "score": -0.12912260029214767,
+      "horse_number": 3,
+      "odds": 6.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102021",
+      "horse_name": "ゴールドアイリーン",
+      "score": -0.3877553435121228,
+      "horse_number": 2,
+      "odds": 25.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102903",
+      "horse_name": "スナークホクサイ",
+      "score": -0.458730036007273,
+      "horse_number": 4,
+      "odds": 25.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023109125",
+      "horse_name": "テーオールーラー",
+      "score": -0.6252455348358027,
+      "horse_number": 5,
+      "odds": 83.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104972",
+      "horse_name": "コパノルーカス",
+      "score": -0.7295377203336686,
+      "horse_number": 8,
+      "odds": 57.7
+    }
+  ]
+}
