@@ -1,0 +1,72 @@
+{
+  "race_id": "202505040311",
+  "race_name": "サウジRC",
+  "race_time": "2025-10-11 15:45",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106850",
+      "horse_name": "ゾロアストロ",
+      "score": 0.3743801370926963,
+      "horse_number": 5,
+      "odds": 2.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103184",
+      "horse_name": "エコロアルバ",
+      "score": 0.27536098810148607,
+      "horse_number": 6,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103895",
+      "horse_name": "チュウワカーネギー",
+      "score": 0.2521599948907676,
+      "horse_number": 8,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106400",
+      "horse_name": "アスクエジンバラ",
+      "score": 0.11084401162694148,
+      "horse_number": 3,
+      "odds": 7.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100681",
+      "horse_name": "ガリレア",
+      "score": 0.017320418536172406,
+      "horse_number": 1,
+      "odds": 31.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106277",
+      "horse_name": "ニシノエースサマ",
+      "score": -0.04075990193865736,
+      "horse_number": 7,
+      "odds": 12.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023110065",
+      "horse_name": "ユウファラオ",
+      "score": -0.12256871680661145,
+      "horse_number": 4,
+      "odds": 30.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105356",
+      "horse_name": "マーゴットブロー",
+      "score": -0.17326346383839164,
+      "horse_number": 2,
+      "odds": 46.2
+    }
+  ]
+}
