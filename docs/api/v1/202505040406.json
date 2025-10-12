@@ -1,0 +1,128 @@
+{
+  "race_id": "202505040406",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-12 12:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103594",
+      "horse_name": "サンタアニタ",
+      "score": 0.33199821390198736,
+      "horse_number": 2,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106639",
+      "horse_name": "モーニングマジック",
+      "score": 0.12524819276798152,
+      "horse_number": 13,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105162",
+      "horse_name": "ルージュナリッシュ",
+      "score": 0.08979113439542755,
+      "horse_number": 10,
+      "odds": 3.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106328",
+      "horse_name": "モリノアミーゴ",
+      "score": 0.03832211242278684,
+      "horse_number": 12,
+      "odds": 15.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103226",
+      "horse_name": "ウエヲムイテゴラン",
+      "score": 0.0034627761824524393,
+      "horse_number": 9,
+      "odds": 17.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105832",
+      "horse_name": "セギレエルビエント",
+      "score": -0.0022908663885428957,
+      "horse_number": 14,
+      "odds": 5.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105749",
+      "horse_name": "ルージュベルベット",
+      "score": -0.09092724896386781,
+      "horse_number": 8,
+      "odds": 18.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105364",
+      "horse_name": "メルシージュテーム",
+      "score": -0.1178396762753766,
+      "horse_number": 6,
+      "odds": 11.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100547",
+      "horse_name": "アサクサグレース",
+      "score": -0.23625904314339538,
+      "horse_number": 3,
+      "odds": 15.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102756",
+      "horse_name": "アンビシュー",
+      "score": -0.25948229285534186,
+      "horse_number": 5,
+      "odds": 160.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104052",
+      "horse_name": "テンホワイトラブ",
+      "score": -0.29566687400735636,
+      "horse_number": 1,
+      "odds": 64.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107300",
+      "horse_name": "シンガソング",
+      "score": -0.30796886403161217,
+      "horse_number": 15,
+      "odds": 53.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100558",
+      "horse_name": "グレイスカリヨン",
+      "score": -0.3681359214283567,
+      "horse_number": 11,
+      "odds": 125.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022109052",
+      "horse_name": "キカオクベシ",
+      "score": -0.4076189229182152,
+      "horse_number": 7,
+      "odds": 64.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021102784",
+      "horse_name": "ノアスペシャル",
+      "score": -0.542537669472957,
+      "horse_number": 4,
+      "odds": 59.3
+    }
+  ]
+}

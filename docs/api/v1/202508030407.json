@@ -1,0 +1,112 @@
+{
+  "race_id": "202508030407",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-12 13:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105322",
+      "horse_name": "ホウオウレイヴン",
+      "score": 0.2882244535422582,
+      "horse_number": 8,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102209",
+      "horse_name": "サイモンベローチェ",
+      "score": 0.07653274224413982,
+      "horse_number": 7,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103910",
+      "horse_name": "レジェンドシップ",
+      "score": 0.060147466960021184,
+      "horse_number": 10,
+      "odds": 7.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104491",
+      "horse_name": "ファームツエンティ",
+      "score": 0.033048414702944076,
+      "horse_number": 11,
+      "odds": 11.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102379",
+      "horse_name": "テイクザクラウン",
+      "score": 0.011593586857381998,
+      "horse_number": 2,
+      "odds": 7.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104899",
+      "horse_name": "ジュンライデン",
+      "score": 0.00850743407084804,
+      "horse_number": 4,
+      "odds": 7.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104103",
+      "horse_name": "サンセットビュー",
+      "score": -0.10980099948649251,
+      "horse_number": 1,
+      "odds": 12.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103237",
+      "horse_name": "ジャスティンライズ",
+      "score": -0.13480624040713696,
+      "horse_number": 3,
+      "odds": 65.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105577",
+      "horse_name": "ランツフート",
+      "score": -0.20281488990634736,
+      "horse_number": 5,
+      "odds": 43.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106180",
+      "horse_name": "シャインバオバブ",
+      "score": -0.23895280822878304,
+      "horse_number": 9,
+      "odds": 26.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101323",
+      "horse_name": "アットアブラスト",
+      "score": -0.3537846640521536,
+      "horse_number": 12,
+      "odds": 50.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105985",
+      "horse_name": "ヘルツアス",
+      "score": -0.3807744261287063,
+      "horse_number": 6,
+      "odds": 17.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102294",
+      "horse_name": "ボナペティアスク",
+      "score": -0.4914075461636208,
+      "horse_number": 13,
+      "odds": 45.2
+    }
+  ]
+}
