@@ -1,0 +1,120 @@
+{
+  "race_id": "202508030409",
+  "race_name": "円山特別",
+  "race_time": "2025-10-12 14:15",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102427",
+      "horse_name": "パールフロント",
+      "score": 0.33820773859991005,
+      "horse_number": 6,
+      "odds": 10.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104957",
+      "horse_name": "アメリカンビキニ",
+      "score": 0.30744524743128704,
+      "horse_number": 11,
+      "odds": 2.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103630",
+      "horse_name": "ウルスクローム",
+      "score": 0.16214085370401202,
+      "horse_number": 14,
+      "odds": 5.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104839",
+      "horse_name": "プレアデスグループ",
+      "score": 0.13821121547847204,
+      "horse_number": 5,
+      "odds": 14.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101557",
+      "horse_name": "アスタールフナ",
+      "score": 0.1228816687877136,
+      "horse_number": 8,
+      "odds": 5.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020104287",
+      "horse_name": "サンガネーブ",
+      "score": 0.007361220484421113,
+      "horse_number": 4,
+      "odds": 31.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106305",
+      "horse_name": "ランウインディ",
+      "score": -0.14832347121133924,
+      "horse_number": 12,
+      "odds": 32.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019103825",
+      "horse_name": "スペシャルナンバー",
+      "score": -0.22986990334280927,
+      "horse_number": 9,
+      "odds": 30.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100371",
+      "horse_name": "セントールビースト",
+      "score": -0.28503436862918463,
+      "horse_number": 13,
+      "odds": 7.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100673",
+      "horse_name": "ヒルノピレネー",
+      "score": -0.30159250717653086,
+      "horse_number": 10,
+      "odds": 26.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102736",
+      "horse_name": "イルザ",
+      "score": -0.30931483358578366,
+      "horse_number": 7,
+      "odds": 65.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101461",
+      "horse_name": "カツラノキサノキ",
+      "score": -0.42601421958169544,
+      "horse_number": 1,
+      "odds": 50.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103819",
+      "horse_name": "ストームバンガード",
+      "score": -0.5294911959032019,
+      "horse_number": 2,
+      "odds": 55.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105711",
+      "horse_name": "ズバットマサムネ",
+      "score": -0.5305704358270888,
+      "horse_number": 3,
+      "odds": 47.9
+    }
+  ]
+}

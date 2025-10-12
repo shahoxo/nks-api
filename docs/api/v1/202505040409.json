@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040409",
+  "race_name": "鷹巣山特別",
+  "race_time": "2025-10-12 14:30",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104959",
+      "horse_name": "キングノジョー",
+      "score": 0.4708466243801098,
+      "horse_number": 3,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105415",
+      "horse_name": "ドーンコーラス",
+      "score": 0.38413757927786485,
+      "horse_number": 6,
+      "odds": 10.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101669",
+      "horse_name": "ストレイトトーカー",
+      "score": 0.11110397366758111,
+      "horse_number": 16,
+      "odds": 11.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106691",
+      "horse_name": "エンペラーズソード",
+      "score": 0.10156065892201062,
+      "horse_number": 10,
+      "odds": 12.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102920",
+      "horse_name": "ギフテッド",
+      "score": 0.09239626209773465,
+      "horse_number": 2,
+      "odds": 9.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103875",
+      "horse_name": "アイサンサン",
+      "score": 0.023757673348222055,
+      "horse_number": 7,
+      "odds": 5.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022107042",
+      "horse_name": "マテンロウバローズ",
+      "score": 0.01224506317069659,
+      "horse_number": 12,
+      "odds": 8.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105783",
+      "horse_name": "ネーヴェフレスカ",
+      "score": -0.025502428055461834,
+      "horse_number": 14,
+      "odds": 29.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101772",
+      "horse_name": "メタルスピード",
+      "score": -0.03398191954952633,
+      "horse_number": 9,
+      "odds": 23.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100152",
+      "horse_name": "ベストオブユー",
+      "score": -0.0599035722092878,
+      "horse_number": 5,
+      "odds": 76.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103744",
+      "horse_name": "マンウォル",
+      "score": -0.059987565063093995,
+      "horse_number": 13,
+      "odds": 44.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104395",
+      "horse_name": "サンドオブエテル",
+      "score": -0.12279705973240918,
+      "horse_number": 1,
+      "odds": 58.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105318",
+      "horse_name": "コムユンプリュム",
+      "score": -0.12537566635681538,
+      "horse_number": 8,
+      "odds": 22.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105317",
+      "horse_name": "ミーントゥビー",
+      "score": -0.15108416561002713,
+      "horse_number": 15,
+      "odds": 21.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102907",
+      "horse_name": "ステラバルセロナ",
+      "score": -0.31948947877085027,
+      "horse_number": 11,
+      "odds": 48.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106415",
+      "horse_name": "ロゼル",
+      "score": -0.3966907551330507,
+      "horse_number": 4,
+      "odds": 41.7
+    }
+  ]
+}
