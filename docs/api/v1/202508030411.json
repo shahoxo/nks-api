@@ -1,0 +1,80 @@
+{
+  "race_id": "202508030411",
+  "race_name": "太秦S",
+  "race_time": "2025-10-12 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104646",
+      "horse_name": "ジンセイ",
+      "score": 0.35184596353953174,
+      "horse_number": 6,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103941",
+      "horse_name": "ルヴァンユニベール",
+      "score": 0.29727662833483803,
+      "horse_number": 9,
+      "odds": 9.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100294",
+      "horse_name": "ネバーモア",
+      "score": 0.2725342308618995,
+      "horse_number": 1,
+      "odds": 5.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100561",
+      "horse_name": "ハビレ",
+      "score": 0.1411813834772212,
+      "horse_number": 2,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020102688",
+      "horse_name": "サーマルソアリング",
+      "score": -0.18164157250023297,
+      "horse_number": 3,
+      "odds": 13.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105308",
+      "horse_name": "タイセイドレフォン",
+      "score": -0.22858299219336173,
+      "horse_number": 7,
+      "odds": 18.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100709",
+      "horse_name": "カネトシゴウト",
+      "score": -0.26512214246500565,
+      "horse_number": 5,
+      "odds": 25.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019100630",
+      "horse_name": "ハピ",
+      "score": -0.27907311274635926,
+      "horse_number": 8,
+      "odds": 8.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019100094",
+      "horse_name": "エナハツホ",
+      "score": -0.5278218302213901,
+      "horse_number": 4,
+      "odds": 46.7
+    }
+  ]
+}
