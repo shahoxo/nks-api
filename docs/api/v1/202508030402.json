@@ -1,0 +1,64 @@
+{
+  "race_id": "202508030402",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-12 10:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107300",
+      "horse_name": "ジーティースティア",
+      "score": 0.12713024514514148,
+      "horse_number": 6,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105838",
+      "horse_name": "ロードステラート",
+      "score": 0.0005178601795885951,
+      "horse_number": 5,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105387",
+      "horse_name": "マシン",
+      "score": -0.07209100252882387,
+      "horse_number": 1,
+      "odds": 4.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106866",
+      "horse_name": "サイン",
+      "score": -0.16017353469359077,
+      "horse_number": 2,
+      "odds": 3.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103677",
+      "horse_name": "ヴィエントデコラ",
+      "score": -0.24514576967135102,
+      "horse_number": 7,
+      "odds": 6.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102891",
+      "horse_name": "グロリアス",
+      "score": -0.2942056219456233,
+      "horse_number": 4,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101994",
+      "horse_name": "マクローリン",
+      "score": -0.6726782910953287,
+      "horse_number": 3,
+      "odds": 42.2
+    }
+  ]
+}

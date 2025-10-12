@@ -1,0 +1,88 @@
+{
+  "race_id": "202505040402",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-12 10:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107353",
+      "horse_name": "コズミックボックス",
+      "score": 0.49124410739993496,
+      "horse_number": 3,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100021",
+      "horse_name": "キンググローリー",
+      "score": 0.27056124576677304,
+      "horse_number": 4,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103875",
+      "horse_name": "マカナアネラ",
+      "score": 0.21874379295113916,
+      "horse_number": 10,
+      "odds": 6.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101443",
+      "horse_name": "フィーユレアル",
+      "score": 0.10909152655757133,
+      "horse_number": 6,
+      "odds": 10.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103178",
+      "horse_name": "テンユウ",
+      "score": 0.06291596612869768,
+      "horse_number": 1,
+      "odds": 13.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105888",
+      "horse_name": "ウインラファーガ",
+      "score": 0.05213676672320822,
+      "horse_number": 2,
+      "odds": 12.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103099",
+      "horse_name": "イヌボウノユウヒ",
+      "score": -0.27624286923495955,
+      "horse_number": 7,
+      "odds": 96.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103047",
+      "horse_name": "エーデルハイ",
+      "score": -0.3174751485294929,
+      "horse_number": 8,
+      "odds": 76.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100160",
+      "horse_name": "トレニアムーン",
+      "score": -0.43718391946065926,
+      "horse_number": 9,
+      "odds": 69.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102439",
+      "horse_name": "サザンテイオー",
+      "score": -0.4395679155078532,
+      "horse_number": 5,
+      "odds": 31.3
+    }
+  ]
+}
