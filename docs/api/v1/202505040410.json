@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040410",
+  "race_name": "テレビ静岡賞",
+  "race_time": "2025-10-12 15:05",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103462",
+      "horse_name": "ノットファウンド",
+      "score": 0.40528483487318734,
+      "horse_number": 16,
+      "odds": 6.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103288",
+      "horse_name": "カフェニクス",
+      "score": 0.2644155511421799,
+      "horse_number": 3,
+      "odds": 7.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020106408",
+      "horse_name": "ペプチドタイガー",
+      "score": 0.1799159692170817,
+      "horse_number": 7,
+      "odds": 3.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105646",
+      "horse_name": "タイセイレスポンス",
+      "score": 0.14905616713190892,
+      "horse_number": 8,
+      "odds": 21.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100406",
+      "horse_name": "トクシーカイザー",
+      "score": 0.004185807806078287,
+      "horse_number": 4,
+      "odds": 9.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103812",
+      "horse_name": "ワイワイレジェンド",
+      "score": -0.02053675906813418,
+      "horse_number": 14,
+      "odds": 5.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106637",
+      "horse_name": "アンシール",
+      "score": -0.029224898193319034,
+      "horse_number": 5,
+      "odds": 31.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102468",
+      "horse_name": "トーセンサウダージ",
+      "score": -0.06195906824557199,
+      "horse_number": 10,
+      "odds": 30.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021110084",
+      "horse_name": "マーブルマウンテン",
+      "score": -0.06686558916169331,
+      "horse_number": 2,
+      "odds": 18.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105347",
+      "horse_name": "アバンチュリエ",
+      "score": -0.07179074591270841,
+      "horse_number": 1,
+      "odds": 41.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018106597",
+      "horse_name": "キュムロンニンバス",
+      "score": -0.0753884961314594,
+      "horse_number": 9,
+      "odds": 31.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100583",
+      "horse_name": "レイズカイザー",
+      "score": -0.1688022732260474,
+      "horse_number": 15,
+      "odds": 17.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105888",
+      "horse_name": "スティールブルー",
+      "score": -0.18367557109693441,
+      "horse_number": 12,
+      "odds": 18.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101639",
+      "horse_name": "ハッピーロンドン",
+      "score": -0.22496401999742863,
+      "horse_number": 6,
+      "odds": 20.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019103815",
+      "horse_name": "スマイルアップ",
+      "score": -0.310367126033134,
+      "horse_number": 13,
+      "odds": 67.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020102814",
+      "horse_name": "ジャスリー",
+      "score": -0.4741069898431828,
+      "horse_number": 11,
+      "odds": 29.9
+    }
+  ]
+}
