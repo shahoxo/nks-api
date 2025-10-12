@@ -1,0 +1,152 @@
+{
+  "race_id": "202508030412",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-12 16:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105194",
+      "horse_name": "ラトラース",
+      "score": 0.422622728475083,
+      "horse_number": 15,
+      "odds": 6.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104985",
+      "horse_name": "シャイフ",
+      "score": 0.26379477753255987,
+      "horse_number": 13,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105590",
+      "horse_name": "ワンモアスマイル",
+      "score": 0.20085505571614132,
+      "horse_number": 17,
+      "odds": 10.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105868",
+      "horse_name": "レベルスルール",
+      "score": 0.19653190743779425,
+      "horse_number": 5,
+      "odds": 5.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104992",
+      "horse_name": "フェイトライン",
+      "score": 0.11837895183701636,
+      "horse_number": 1,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105022",
+      "horse_name": "グローブアマランス",
+      "score": 4.065728131310599e-06,
+      "horse_number": 8,
+      "odds": 24.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105765",
+      "horse_name": "ミッキースターダム",
+      "score": -0.029802579520773427,
+      "horse_number": 4,
+      "odds": 13.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022107106",
+      "horse_name": "デリュージョン",
+      "score": -0.04516104540606014,
+      "horse_number": 16,
+      "odds": 42.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104715",
+      "horse_name": "ジーティーマン",
+      "score": -0.0484684365021542,
+      "horse_number": 14,
+      "odds": 7.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022110066",
+      "horse_name": "ラージギャラリー",
+      "score": -0.09165454402240433,
+      "horse_number": 3,
+      "odds": 10.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105694",
+      "horse_name": "ホウオウペトリュス",
+      "score": -0.10728765135500007,
+      "horse_number": 7,
+      "odds": 38.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105729",
+      "horse_name": "ミッキーストライク",
+      "score": -0.22893633155121973,
+      "horse_number": 18,
+      "odds": 21.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022107012",
+      "horse_name": "ニシノイツキムスメ",
+      "score": -0.2517604888443393,
+      "horse_number": 9,
+      "odds": 28.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020106798",
+      "horse_name": "メイショウオオミネ",
+      "score": -0.2542045733135641,
+      "horse_number": 11,
+      "odds": 88.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103292",
+      "horse_name": "ハレアカラフラ",
+      "score": -0.299245553692801,
+      "horse_number": 12,
+      "odds": 63.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020102950",
+      "horse_name": "テクノデザイン",
+      "score": -0.3670187093639277,
+      "horse_number": 10,
+      "odds": 78.1
+    },
+    {
+      "rank": 17,
+      "horse_id": "2021101155",
+      "horse_name": "ピエナオルフェ",
+      "score": -0.6087731493607471,
+      "horse_number": 2,
+      "odds": 94.8
+    },
+    {
+      "rank": 18,
+      "horse_id": "2020105472",
+      "horse_name": "オレノアイバ",
+      "score": -0.6533614053964997,
+      "horse_number": 6,
+      "odds": 93.7
+    }
+  ]
+}

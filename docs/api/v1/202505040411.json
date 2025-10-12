@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040411",
+  "race_name": "アイルランド",
+  "race_time": "2025-10-12 15:45",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021107179",
+      "horse_name": "ボンドガール",
+      "score": 0.4708466243801098,
+      "horse_number": 8,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021107098",
+      "horse_name": "ラヴァンダ",
+      "score": 0.27238114992051676,
+      "horse_number": 15,
+      "odds": 9.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102836",
+      "horse_name": "セフィロ",
+      "score": 0.25831947700317676,
+      "horse_number": 6,
+      "odds": 38.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103519",
+      "horse_name": "リラボニート",
+      "score": 0.1875963631025777,
+      "horse_number": 5,
+      "odds": 40.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101549",
+      "horse_name": "アドマイヤマツリ",
+      "score": 0.16310038920630304,
+      "horse_number": 1,
+      "odds": 4.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103975",
+      "horse_name": "セキトバイースト",
+      "score": 0.1481395352963653,
+      "horse_number": 11,
+      "odds": 5.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105293",
+      "horse_name": "カナテープ",
+      "score": 0.11986843078817547,
+      "horse_number": 7,
+      "odds": 6.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105738",
+      "horse_name": "アンゴラブラック",
+      "score": 0.11568590394721504,
+      "horse_number": 2,
+      "odds": 11.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105541",
+      "horse_name": "サフィラ",
+      "score": 0.06047710775960434,
+      "horse_number": 13,
+      "odds": 14.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103304",
+      "horse_name": "アンリーロード",
+      "score": 0.053710521109981625,
+      "horse_number": 16,
+      "odds": 73.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103732",
+      "horse_name": "ドゥアイズ",
+      "score": -0.06580455719056544,
+      "horse_number": 12,
+      "odds": 40.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018103535",
+      "horse_name": "ホウオウラスカーズ",
+      "score": -0.09610161680888311,
+      "horse_number": 14,
+      "odds": 41.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101685",
+      "horse_name": "キャットファイト",
+      "score": -0.19290169778590305,
+      "horse_number": 3,
+      "odds": 56.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103588",
+      "horse_name": "ライラック",
+      "score": -0.3075634107804303,
+      "horse_number": 10,
+      "odds": 14.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101024",
+      "horse_name": "ピースオブザライフ",
+      "score": -0.32766104516327654,
+      "horse_number": 9,
+      "odds": 157.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019105768",
+      "horse_name": "フィールシンパシー",
+      "score": -0.4919595159353912,
+      "horse_number": 4,
+      "odds": 114.5
+    }
+  ]
+}
