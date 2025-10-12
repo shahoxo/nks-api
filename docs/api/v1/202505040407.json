@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040407",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-12 13:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102846",
+      "horse_name": "カフェロワドール",
+      "score": 0.07302080218772392,
+      "horse_number": 2,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106718",
+      "horse_name": "ボルトテソーロ",
+      "score": 0.05517022820329724,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106545",
+      "horse_name": "カンレイスキー",
+      "score": -0.017480223518081255,
+      "horse_number": 14,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106656",
+      "horse_name": "ハッピーウィズユー",
+      "score": -0.054482998232010416,
+      "horse_number": 9,
+      "odds": 21.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105076",
+      "horse_name": "スクレイピング",
+      "score": -0.09054000489114013,
+      "horse_number": 13,
+      "odds": 27.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102260",
+      "horse_name": "ジェシーテソーロ",
+      "score": -0.15111823235337016,
+      "horse_number": 12,
+      "odds": 43.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100582",
+      "horse_name": "プルシャプラ",
+      "score": -0.25708239341418904,
+      "horse_number": 8,
+      "odds": 31.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104394",
+      "horse_name": "ヒットミー",
+      "score": -0.2663006896720977,
+      "horse_number": 3,
+      "odds": 14.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103710",
+      "horse_name": "ホウオウジュビリー",
+      "score": -0.2670402696842723,
+      "horse_number": 11,
+      "odds": 73.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106974",
+      "horse_name": "サムワンライクユー",
+      "score": -0.2867920166367198,
+      "horse_number": 6,
+      "odds": 31.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104897",
+      "horse_name": "レッドベルダンス",
+      "score": -0.33508389948864903,
+      "horse_number": 4,
+      "odds": 23.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103901",
+      "horse_name": "ウインドワンピース",
+      "score": -0.4657238516210369,
+      "horse_number": 1,
+      "odds": 94.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101739",
+      "horse_name": "ピコブルー",
+      "score": -0.5298230640536297,
+      "horse_number": 15,
+      "odds": 56.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102676",
+      "horse_name": "コーカサスゴールド",
+      "score": -0.5514166126947248,
+      "horse_number": 16,
+      "odds": 5.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103525",
+      "horse_name": "アデランテ",
+      "score": -0.6081860174232525,
+      "horse_number": 7,
+      "odds": 5.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021102707",
+      "horse_name": "ツマヤ",
+      "score": -0.6838037801093824,
+      "horse_number": 5,
+      "odds": 42.9
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202508030408",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-10-12 13:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104883",
+      "horse_name": "オーケアニス",
+      "score": 0.2670859727746136,
+      "horse_number": 8,
+      "odds": 2.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103881",
+      "horse_name": "ツキノアカリ",
+      "score": 0.16868199871578662,
+      "horse_number": 9,
+      "odds": 6.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106177",
+      "horse_name": "タマモナポリ",
+      "score": -0.05673206651196605,
+      "horse_number": 12,
+      "odds": 14.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102435",
+      "horse_name": "ルージュミラージュ",
+      "score": -0.11498840319219558,
+      "horse_number": 4,
+      "odds": 14.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104292",
+      "horse_name": "フクキタテーラー",
+      "score": -0.12003015448426557,
+      "horse_number": 14,
+      "odds": 18.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020106579",
+      "horse_name": "ルナビス",
+      "score": -0.1981426028224455,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104791",
+      "horse_name": "プウスカンドゥール",
+      "score": -0.23573081009121555,
+      "horse_number": 10,
+      "odds": 75.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103209",
+      "horse_name": "メイショウリリー",
+      "score": -0.27579222253879726,
+      "horse_number": 7,
+      "odds": 13.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103268",
+      "horse_name": "メイショウタムシバ",
+      "score": -0.30796886403161217,
+      "horse_number": 3,
+      "odds": 12.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103480",
+      "horse_name": "ミレニアムヒロイン",
+      "score": -0.3390045458907495,
+      "horse_number": 13,
+      "odds": 80.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103246",
+      "horse_name": "ウィンターダフネ",
+      "score": -0.34881385001542387,
+      "horse_number": 11,
+      "odds": 29.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102380",
+      "horse_name": "オーケーカルメン",
+      "score": -0.4406207277976042,
+      "horse_number": 1,
+      "odds": 80.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100471",
+      "horse_name": "シンコーナホチャン",
+      "score": -0.5336275327955337,
+      "horse_number": 2,
+      "odds": 7.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020106174",
+      "horse_name": "キタノブライド",
+      "score": -0.5612044721624347,
+      "horse_number": 5,
+      "odds": 91.9
+    }
+  ]
+}
