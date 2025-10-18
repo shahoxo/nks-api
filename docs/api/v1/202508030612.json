@@ -1,0 +1,128 @@
+{
+  "race_id": "202508030612",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-18 16:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021106237",
+      "horse_name": "サーナーティオン",
+      "score": 0.3045940588309145,
+      "horse_number": 11,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104929",
+      "horse_name": "バニーラビット",
+      "score": 0.10132909457205545,
+      "horse_number": 13,
+      "odds": 13.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105299",
+      "horse_name": "リアライズ",
+      "score": 0.08548755833067286,
+      "horse_number": 6,
+      "odds": 12.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102675",
+      "horse_name": "ダノンクロム",
+      "score": 0.07690266161879093,
+      "horse_number": 15,
+      "odds": 9.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106912",
+      "horse_name": "ヴァージル",
+      "score": 0.07038132576076936,
+      "horse_number": 2,
+      "odds": 7.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103729",
+      "horse_name": "セクシーマージュ",
+      "score": 0.0013281954240408865,
+      "horse_number": 9,
+      "odds": 5.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105715",
+      "horse_name": "アルバニー",
+      "score": -0.05326461150254945,
+      "horse_number": 3,
+      "odds": 14.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104633",
+      "horse_name": "アーデルリーベ",
+      "score": -0.08207666186526663,
+      "horse_number": 7,
+      "odds": 18.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105171",
+      "horse_name": "タンテドヴィーヴル",
+      "score": -0.10758658803923861,
+      "horse_number": 4,
+      "odds": 17.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104242",
+      "horse_name": "ショウナンラウール",
+      "score": -0.1085152980215505,
+      "horse_number": 10,
+      "odds": 11.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100683",
+      "horse_name": "ビーグラッド",
+      "score": -0.20319409768448382,
+      "horse_number": 12,
+      "odds": 11.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102796",
+      "horse_name": "ウォーターエルピス",
+      "score": -0.28114865804026834,
+      "horse_number": 14,
+      "odds": 14.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101064",
+      "horse_name": "ノイヤー",
+      "score": -0.3870877894182546,
+      "horse_number": 1,
+      "odds": 89.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102641",
+      "horse_name": "グランルーチェ",
+      "score": -0.5523412463158096,
+      "horse_number": 5,
+      "odds": 74.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102561",
+      "horse_name": "インペリアルコート",
+      "score": -0.6028440267205291,
+      "horse_number": 8,
+      "odds": 43.3
+    }
+  ]
+}

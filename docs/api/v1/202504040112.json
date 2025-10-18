@@ -1,0 +1,152 @@
+{
+  "race_id": "202504040112",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-18 16:01",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104609",
+      "horse_name": "フラッシュポイント",
+      "score": 0.3052617849111817,
+      "horse_number": 6,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104197",
+      "horse_name": "カウンターセブン",
+      "score": 0.1352291438593213,
+      "horse_number": 7,
+      "odds": 8.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105373",
+      "horse_name": "パレスドフィーヌ",
+      "score": 0.004783140901706365,
+      "horse_number": 15,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100528",
+      "horse_name": "ノーブルオリンポス",
+      "score": -0.003861280726906163,
+      "horse_number": 12,
+      "odds": 18.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102755",
+      "horse_name": "ジョウゲンノツキ",
+      "score": -0.07849317742649176,
+      "horse_number": 2,
+      "odds": 25.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103324",
+      "horse_name": "シュラフ",
+      "score": -0.08399682241975519,
+      "horse_number": 14,
+      "odds": 5.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104340",
+      "horse_name": "ハッピーパンニャ",
+      "score": -0.15372774927320942,
+      "horse_number": 8,
+      "odds": 9.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100851",
+      "horse_name": "マオノボルケーノ",
+      "score": -0.18992503642821387,
+      "horse_number": 11,
+      "odds": 36.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106586",
+      "horse_name": "ラブカムーン",
+      "score": -0.27117474912972267,
+      "horse_number": 5,
+      "odds": 43.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019101794",
+      "horse_name": "ヒメカミノイタダキ",
+      "score": -0.3509131223774606,
+      "horse_number": 4,
+      "odds": 52.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104091",
+      "horse_name": "アーコレード",
+      "score": -0.393739342143655,
+      "horse_number": 3,
+      "odds": 90.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100121",
+      "horse_name": "ザブルース",
+      "score": -0.5065136855316473,
+      "horse_number": 16,
+      "odds": 13.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102701",
+      "horse_name": "サイコウダネ",
+      "score": -0.5175048170162598,
+      "horse_number": 13,
+      "odds": 56.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106190",
+      "horse_name": "ラインパシオン",
+      "score": -0.5302136154553458,
+      "horse_number": 1,
+      "odds": 43.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101571",
+      "horse_name": "ハッピーダンシング",
+      "score": -0.5315860437089933,
+      "horse_number": 10,
+      "odds": 35.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021106942",
+      "horse_name": "レイム",
+      "score": -0.5647678097093728,
+      "horse_number": 9,
+      "odds": 43.9
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020101434",
+      "horse_name": "シャトーボビー",
+      "score": -0.5707140942884151,
+      "horse_number": 18,
+      "odds": 23.1
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022104499",
+      "horse_name": "リアンエターナル",
+      "score": -0.6970415147616792,
+      "horse_number": 17,
+      "odds": 12.6
+    }
+  ]
+}
