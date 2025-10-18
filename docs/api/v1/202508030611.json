@@ -1,0 +1,136 @@
+{
+  "race_id": "202508030611",
+  "race_name": "トルマリンS",
+  "race_time": "2025-10-18 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103361",
+      "horse_name": "パルクリチュード",
+      "score": 0.22194302477728872,
+      "horse_number": 6,
+      "odds": 6.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102868",
+      "horse_name": "ピクシレーション",
+      "score": 0.1294010039919542,
+      "horse_number": 14,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102703",
+      "horse_name": "リバートゥルー",
+      "score": 0.08553858166739357,
+      "horse_number": 4,
+      "odds": 7.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102317",
+      "horse_name": "サイモンブーケ",
+      "score": -0.0053405160429093506,
+      "horse_number": 8,
+      "odds": 69.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103247",
+      "horse_name": "メテオールライト",
+      "score": -0.013069519503554264,
+      "horse_number": 3,
+      "odds": 27.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103553",
+      "horse_name": "バロッサヴァレー",
+      "score": -0.017350642834979182,
+      "horse_number": 15,
+      "odds": 8.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104628",
+      "horse_name": "レイナデアルシーラ",
+      "score": -0.023055174101151807,
+      "horse_number": 5,
+      "odds": 3.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101143",
+      "horse_name": "イージーオンミー",
+      "score": -0.024372675291721494,
+      "horse_number": 7,
+      "odds": 17.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106604",
+      "horse_name": "スミ",
+      "score": -0.06640616250044405,
+      "horse_number": 11,
+      "odds": 13.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104912",
+      "horse_name": "アグラシアド",
+      "score": -0.15236343002418157,
+      "horse_number": 13,
+      "odds": 51.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105058",
+      "horse_name": "ルージュアベリア",
+      "score": -0.1537586009338684,
+      "horse_number": 9,
+      "odds": 13.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103593",
+      "horse_name": "タマモプルメリア",
+      "score": -0.22112979416226453,
+      "horse_number": 16,
+      "odds": 22.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105533",
+      "horse_name": "タガノチョコラータ",
+      "score": -0.2560075542176377,
+      "horse_number": 10,
+      "odds": 18.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020106896",
+      "horse_name": "メイショウポペット",
+      "score": -0.4826784698906029,
+      "horse_number": 2,
+      "odds": 38.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105627",
+      "horse_name": "クレメダンジュ",
+      "score": -0.5051252835614182,
+      "horse_number": 1,
+      "odds": 37.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020109096",
+      "horse_name": "ライジングラパス",
+      "score": -0.5768133336183507,
+      "horse_number": 12,
+      "odds": 106.7
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "race_id": "202504040111",
+  "race_name": "北陸S",
+  "race_time": "2025-10-18 15:15",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105880",
+      "horse_name": "レッドエヴァンス",
+      "score": 0.17971554910848508,
+      "horse_number": 6,
+      "odds": 16.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102020",
+      "horse_name": "フリッカージャブ",
+      "score": 0.13033119622456582,
+      "horse_number": 12,
+      "odds": 1.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105358",
+      "horse_name": "アスティスプマンテ",
+      "score": 0.1148544597193949,
+      "horse_number": 11,
+      "odds": 15.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102013",
+      "horse_name": "ソルトクィーン",
+      "score": 0.10831529847593599,
+      "horse_number": 18,
+      "odds": 14.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104616",
+      "horse_name": "パクスロマーナ",
+      "score": 0.03655133409950262,
+      "horse_number": 3,
+      "odds": 21.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020104194",
+      "horse_name": "ルーフ",
+      "score": 0.006564890040065711,
+      "horse_number": 13,
+      "odds": 18.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103280",
+      "horse_name": "エマヌエーレ",
+      "score": -0.04524121149616597,
+      "horse_number": 16,
+      "odds": 12.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105242",
+      "horse_name": "シカゴスティング",
+      "score": -0.05469701722801889,
+      "horse_number": 15,
+      "odds": 15.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102670",
+      "horse_name": "イサチルシーサイド",
+      "score": -0.08005502218475131,
+      "horse_number": 1,
+      "odds": 17.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103284",
+      "horse_name": "トールキン",
+      "score": -0.10555829989320904,
+      "horse_number": 17,
+      "odds": 63.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022110108",
+      "horse_name": "エコロジーク",
+      "score": -0.17967703620313377,
+      "horse_number": 9,
+      "odds": 9.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101517",
+      "horse_name": "ソノママソノママ",
+      "score": -0.1799363693590647,
+      "horse_number": 10,
+      "odds": 35.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103897",
+      "horse_name": "ハピネスアゲン",
+      "score": -0.19709205520650638,
+      "horse_number": 14,
+      "odds": 53.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019105449",
+      "horse_name": "アルトシュタット",
+      "score": -0.25004046955903836,
+      "horse_number": 2,
+      "odds": 82.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018102091",
+      "horse_name": "ウルトラソニック",
+      "score": -0.36855703493099745,
+      "horse_number": 4,
+      "odds": 57.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021109043",
+      "horse_name": "テイエムタリスマ",
+      "score": -0.37207092222847826,
+      "horse_number": 5,
+      "odds": 63.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2019102761",
+      "horse_name": "グレタ",
+      "score": -0.42123602202136773,
+      "horse_number": 8,
+      "odds": 45.2
+    },
+    {
+      "rank": 18,
+      "horse_id": "2018103926",
+      "horse_name": "ショウナンラスボス",
+      "score": -0.5184805309142059,
+      "horse_number": 7,
+      "odds": 54.9
+    }
+  ]
+}
