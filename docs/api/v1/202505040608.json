@@ -1,0 +1,72 @@
+{
+  "race_id": "202505040608",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-10-18 13:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105769",
+      "horse_name": "ヴァリディシームス",
+      "score": 0.4904395606875965,
+      "horse_number": 2,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105580",
+      "horse_name": "クラッシファイド",
+      "score": 0.2698926352127221,
+      "horse_number": 1,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105453",
+      "horse_name": "エラン",
+      "score": 0.21626922783059352,
+      "horse_number": 3,
+      "odds": 4.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105454",
+      "horse_name": "シャドウメテオ",
+      "score": 0.17930702351048686,
+      "horse_number": 4,
+      "odds": 0.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106475",
+      "horse_name": "ピンキープロミス",
+      "score": -0.002797236734632183,
+      "horse_number": 6,
+      "odds": 18.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104781",
+      "horse_name": "ゴーソーファー",
+      "score": -0.1489525847334,
+      "horse_number": 7,
+      "odds": 6.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105183",
+      "horse_name": "ウインルピナス",
+      "score": -0.451096635261355,
+      "horse_number": 5,
+      "odds": 15.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105737",
+      "horse_name": "ワイズゴールド",
+      "score": -0.6358392190532971,
+      "horse_number": 8,
+      "odds": 75.7
+    }
+  ]
+}

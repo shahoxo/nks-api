@@ -1,0 +1,64 @@
+{
+  "race_id": "202508030608",
+  "race_name": "なでしこ賞",
+  "race_time": "2025-10-18 13:45",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023110036",
+      "horse_name": "キーンセンス",
+      "score": 0.32704421297991376,
+      "horse_number": 4,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104562",
+      "horse_name": "テーオーグレーザー",
+      "score": 0.28651933375379757,
+      "horse_number": 7,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023110091",
+      "horse_name": "イダテンシャチョウ",
+      "score": 0.2317674118670462,
+      "horse_number": 2,
+      "odds": 4.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106989",
+      "horse_name": "キンダープンシュ",
+      "score": 0.18055045294938388,
+      "horse_number": 1,
+      "odds": 15.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102991",
+      "horse_name": "ローズカリス",
+      "score": 0.1776477351358683,
+      "horse_number": 3,
+      "odds": 6.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104752",
+      "horse_name": "ブロンテス",
+      "score": 0.09165092051710491,
+      "horse_number": 6,
+      "odds": 3.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023109117",
+      "horse_name": "カラクニダケ",
+      "score": -0.12292329774738353,
+      "horse_number": 5,
+      "odds": 19.5
+    }
+  ]
+}
