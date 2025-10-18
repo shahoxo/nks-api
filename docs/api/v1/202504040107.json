@@ -1,0 +1,152 @@
+{
+  "race_id": "202504040107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-18 13:05",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105394",
+      "horse_name": "ハニードレス",
+      "score": 0.20726886702294817,
+      "horse_number": 13,
+      "odds": 14.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102064",
+      "horse_name": "ミエノフェアリー",
+      "score": 0.0921829758584035,
+      "horse_number": 2,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103100",
+      "horse_name": "リオンプライム",
+      "score": 0.07602756053297631,
+      "horse_number": 12,
+      "odds": 20.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104723",
+      "horse_name": "カレンラップスター",
+      "score": 0.07218442643853042,
+      "horse_number": 3,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105911",
+      "horse_name": "アンドローゼス",
+      "score": 0.06310721679862849,
+      "horse_number": 15,
+      "odds": 7.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101639",
+      "horse_name": "ソルトブリーズ",
+      "score": 0.02560855075603998,
+      "horse_number": 14,
+      "odds": 9.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105062",
+      "horse_name": "2022105062",
+      "score": -0.005227315959920018,
+      "horse_number": 4,
+      "odds": 26.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103227",
+      "horse_name": "レッドイステル",
+      "score": -0.049817821492392264,
+      "horse_number": 8,
+      "odds": 6.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106224",
+      "horse_name": "ウインリベラシオン",
+      "score": -0.07442694191119283,
+      "horse_number": 7,
+      "odds": 16.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101191",
+      "horse_name": "ポタリング",
+      "score": -0.09723170010777449,
+      "horse_number": 10,
+      "odds": 22.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101783",
+      "horse_name": "プレミアシップ",
+      "score": -0.12169829221654017,
+      "horse_number": 16,
+      "odds": 28.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105552",
+      "horse_name": "ロジルーラー",
+      "score": -0.2295783892491728,
+      "horse_number": 18,
+      "odds": 36.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104148",
+      "horse_name": "オーサムピクチャ",
+      "score": -0.30142190952833614,
+      "horse_number": 6,
+      "odds": 41.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103512",
+      "horse_name": "ツインクルステージ",
+      "score": -0.42979596220832317,
+      "horse_number": 11,
+      "odds": 70.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022107149",
+      "horse_name": "ヴォラヴィア",
+      "score": -0.49113544888198457,
+      "horse_number": 9,
+      "odds": 77.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106846",
+      "horse_name": "ゴールドジェスター",
+      "score": -0.5016047259333939,
+      "horse_number": 5,
+      "odds": 104.4
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022103537",
+      "horse_name": "スピアッジャローザ",
+      "score": -0.5972723922739653,
+      "horse_number": 1,
+      "odds": 22.3
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022109125",
+      "horse_name": "ムゾラシカ",
+      "score": -0.6746403448295699,
+      "horse_number": 17,
+      "odds": 150.4
+    }
+  ]
+}

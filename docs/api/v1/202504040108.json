@@ -1,0 +1,128 @@
+{
+  "race_id": "202504040108",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-18 13:35",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105737",
+      "horse_name": "ミッキーマカパ",
+      "score": 0.1382304173603389,
+      "horse_number": 1,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104004",
+      "horse_name": "ディニトーソ",
+      "score": 0.09339510420992382,
+      "horse_number": 10,
+      "odds": 3.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101431",
+      "horse_name": "ダニエルバローズ",
+      "score": -0.02482423399261612,
+      "horse_number": 6,
+      "odds": 22.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101432",
+      "horse_name": "2021101432",
+      "score": -0.22204839417448202,
+      "horse_number": 12,
+      "odds": 34.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100786",
+      "horse_name": "ゲーベル",
+      "score": -0.25274921192135846,
+      "horse_number": 2,
+      "odds": 9.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102841",
+      "horse_name": "メイショウハボマイ",
+      "score": -0.25688667071630933,
+      "horse_number": 4,
+      "odds": 47.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2017103155",
+      "horse_name": "トモジャアルマンド",
+      "score": -0.29518989662062706,
+      "horse_number": 14,
+      "odds": 54.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103918",
+      "horse_name": "アツキヤマト",
+      "score": -0.3894813101601443,
+      "horse_number": 15,
+      "odds": 17.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102091",
+      "horse_name": "ノビル",
+      "score": -0.5211234313724431,
+      "horse_number": 8,
+      "odds": 24.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102639",
+      "horse_name": "ペイシャスウィフト",
+      "score": -0.5211908554780501,
+      "horse_number": 11,
+      "odds": 12.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105609",
+      "horse_name": "ライヴドライバー",
+      "score": -0.5232404012702343,
+      "horse_number": 3,
+      "odds": 23.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103739",
+      "horse_name": "ゲクウ",
+      "score": -0.5391202450462443,
+      "horse_number": 5,
+      "odds": 55.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103307",
+      "horse_name": "サンライズジュピタ",
+      "score": -0.5450442950922436,
+      "horse_number": 13,
+      "odds": 3.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019105830",
+      "horse_name": "エスグラシア",
+      "score": -0.5945546677764488,
+      "horse_number": 9,
+      "odds": 72.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019102950",
+      "horse_name": "アイファーリーベン",
+      "score": -0.6997242947219148,
+      "horse_number": 7,
+      "odds": 210.5
+    }
+  ]
+}
