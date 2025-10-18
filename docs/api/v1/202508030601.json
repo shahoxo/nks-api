@@ -1,0 +1,80 @@
+{
+  "race_id": "202508030601",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-18 09:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103755",
+      "horse_name": "エシェックオロワ",
+      "score": 0.03811003730493529,
+      "horse_number": 9,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101973",
+      "horse_name": "デルニエジョイ",
+      "score": -0.05651208637592251,
+      "horse_number": 2,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106284",
+      "horse_name": "リーグナイト",
+      "score": -0.18205042264778729,
+      "horse_number": 3,
+      "odds": 2.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103374",
+      "horse_name": "カレンショー",
+      "score": -0.19134533645309929,
+      "horse_number": 4,
+      "odds": 8.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100452",
+      "horse_name": "マクアケ",
+      "score": -0.2890173965151784,
+      "horse_number": 1,
+      "odds": 39.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104339",
+      "horse_name": "ルファーダ",
+      "score": -0.4998103691628575,
+      "horse_number": 8,
+      "odds": 8.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102903",
+      "horse_name": "スナークホクサイ",
+      "score": -0.50604040600718,
+      "horse_number": 5,
+      "odds": 44.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101721",
+      "horse_name": "ノリノドラゴン",
+      "score": -0.7027672696550227,
+      "horse_number": 6,
+      "odds": 41.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104888",
+      "horse_name": "ジャカルタバオ",
+      "score": -0.7265140734648036,
+      "horse_number": 7,
+      "odds": 17.3
+    }
+  ]
+}

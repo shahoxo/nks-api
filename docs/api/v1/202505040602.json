@@ -1,0 +1,80 @@
+{
+  "race_id": "202505040602",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-18 10:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106895",
+      "horse_name": "イヌボウノアサヒ",
+      "score": 0.29565053240828076,
+      "horse_number": 5,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105817",
+      "horse_name": "バレンタインビスタ",
+      "score": 0.11912663762538746,
+      "horse_number": 7,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102592",
+      "horse_name": "ミヤエスケープ",
+      "score": 0.09112125639596955,
+      "horse_number": 9,
+      "odds": 2.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104150",
+      "horse_name": "カセノアステリア",
+      "score": -0.09134443653480638,
+      "horse_number": 3,
+      "odds": 4.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103692",
+      "horse_name": "ラヴィングリー",
+      "score": -0.44881219127024086,
+      "horse_number": 4,
+      "odds": 38.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105702",
+      "horse_name": "レディアエラ",
+      "score": -0.4631591302512439,
+      "horse_number": 8,
+      "odds": 44.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101306",
+      "horse_name": "コパノセビリア",
+      "score": -0.4973382957394451,
+      "horse_number": 1,
+      "odds": 53.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100888",
+      "horse_name": "セントリアン",
+      "score": -0.5013698082694291,
+      "horse_number": 2,
+      "odds": 26.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106741",
+      "horse_name": "ジェイドテソーロ",
+      "score": -0.61710575473712,
+      "horse_number": 6,
+      "odds": 12.5
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "race_id": "202505040601",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-18 10:05",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100433",
+      "horse_name": "サンデーパーティー",
+      "score": 0.28302231036807973,
+      "horse_number": 8,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103793",
+      "horse_name": "サイモフェーン",
+      "score": 0.1910388527843764,
+      "horse_number": 1,
+      "odds": 2.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105727",
+      "horse_name": "モズジェネラル",
+      "score": 0.14477197822985746,
+      "horse_number": 11,
+      "odds": 5.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103701",
+      "horse_name": "マッドゲイル",
+      "score": 0.05304279446601584,
+      "horse_number": 7,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101323",
+      "horse_name": "ラインジーク",
+      "score": 0.030884008744850932,
+      "horse_number": 9,
+      "odds": 5.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105392",
+      "horse_name": "マテンロウストーム",
+      "score": -0.09203926993347099,
+      "horse_number": 4,
+      "odds": 12.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102281",
+      "horse_name": "フクスケ",
+      "score": -0.5636716945698683,
+      "horse_number": 2,
+      "odds": 34.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100204",
+      "horse_name": "キタイノホシ",
+      "score": -0.5780690536988875,
+      "horse_number": 5,
+      "odds": 111.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105454",
+      "horse_name": "ファイヤサラマンダ",
+      "score": -0.6283169124073185,
+      "horse_number": 10,
+      "odds": 39.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023109103",
+      "horse_name": "カシノユメミヅキ",
+      "score": -0.7344997899121097,
+      "horse_number": 6,
+      "odds": 152.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101471",
+      "horse_name": "カンタベリービーム",
+      "score": -0.7344997899121097,
+      "horse_number": 3,
+      "odds": 78.0
+    }
+  ]
+}
