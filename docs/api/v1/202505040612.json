@@ -1,0 +1,120 @@
+{
+  "race_id": "202505040612",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-10-18 16:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103736",
+      "horse_name": "ハリケーンリッジ",
+      "score": 0.2486918274099466,
+      "horse_number": 11,
+      "odds": 10.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100328",
+      "horse_name": "ハクサンアイリス",
+      "score": 0.12793271655568939,
+      "horse_number": 12,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106699",
+      "horse_name": "ダイシンリンク",
+      "score": 0.11011632817729321,
+      "horse_number": 7,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103711",
+      "horse_name": "ロサンゼルス",
+      "score": 0.06406347905994071,
+      "horse_number": 1,
+      "odds": 7.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101035",
+      "horse_name": "スズカコーズ",
+      "score": 0.002247770894380563,
+      "horse_number": 13,
+      "odds": 6.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022107069",
+      "horse_name": "コシュデリ",
+      "score": -0.0053696949198448335,
+      "horse_number": 3,
+      "odds": 10.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104576",
+      "horse_name": "クレイヴィンオナー",
+      "score": -0.059534386492988034,
+      "horse_number": 6,
+      "odds": 26.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104365",
+      "horse_name": "リュウノタブーク",
+      "score": -0.11583403813270389,
+      "horse_number": 14,
+      "odds": 13.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019102082",
+      "horse_name": "トルーマンテソーロ",
+      "score": -0.1254397450144618,
+      "horse_number": 10,
+      "odds": 32.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021110109",
+      "horse_name": "グランオルカ",
+      "score": -0.20229025723333444,
+      "horse_number": 2,
+      "odds": 10.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106673",
+      "horse_name": "エチャケナ",
+      "score": -0.27905548626948057,
+      "horse_number": 9,
+      "odds": 15.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021109069",
+      "horse_name": "サンダーアリュール",
+      "score": -0.2873585561730523,
+      "horse_number": 4,
+      "odds": 45.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103517",
+      "horse_name": "ディージェーサン",
+      "score": -0.4478528768036747,
+      "horse_number": 8,
+      "odds": 97.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019101351",
+      "horse_name": "セキテイオー",
+      "score": -0.5129184402660855,
+      "horse_number": 5,
+      "odds": 70.9
+    }
+  ]
+}
