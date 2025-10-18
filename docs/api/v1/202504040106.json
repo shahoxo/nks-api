@@ -1,0 +1,128 @@
+{
+  "race_id": "202504040106",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-18 12:35",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110121",
+      "horse_name": "ゴールデンクラウド",
+      "score": 0.2550188113503348,
+      "horse_number": 6,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110115",
+      "horse_name": "イスタンテ",
+      "score": -0.033432488717125945,
+      "horse_number": 14,
+      "odds": 13.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102406",
+      "horse_name": "レイワサンサン",
+      "score": -0.14480138519586014,
+      "horse_number": 10,
+      "odds": 8.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100749",
+      "horse_name": "キャストロププ",
+      "score": -0.20002042046220048,
+      "horse_number": 8,
+      "odds": 14.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021107279",
+      "horse_name": "トクシージェネラル",
+      "score": -0.25976030057737554,
+      "horse_number": 2,
+      "odds": 17.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106924",
+      "horse_name": "ハイクオリティ",
+      "score": -0.31789308871130223,
+      "horse_number": 13,
+      "odds": 18.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103946",
+      "horse_name": "スマートクラビ",
+      "score": -0.3724112490008931,
+      "horse_number": 9,
+      "odds": 27.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105592",
+      "horse_name": "ブレイクバウンズ",
+      "score": -0.38777358462893585,
+      "horse_number": 11,
+      "odds": 22.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104951",
+      "horse_name": "ブルーゴールド",
+      "score": -0.4616917199936399,
+      "horse_number": 7,
+      "odds": 60.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102037",
+      "horse_name": "ルクスメンデス",
+      "score": -0.46863733459487344,
+      "horse_number": 12,
+      "odds": 37.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100730",
+      "horse_name": "コスモフレディ",
+      "score": -0.48512116369810954,
+      "horse_number": 5,
+      "odds": 23.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021110007",
+      "horse_name": "イーブンナウ",
+      "score": -0.5488310238833476,
+      "horse_number": 15,
+      "odds": 59.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106370",
+      "horse_name": "チェイスザウィンド",
+      "score": -0.5773477075261569,
+      "horse_number": 4,
+      "odds": 84.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021110138",
+      "horse_name": "グランエシェゾー",
+      "score": -0.588214498764502,
+      "horse_number": 3,
+      "odds": 91.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021106070",
+      "horse_name": "ブリスフル",
+      "score": -0.5970618435386312,
+      "horse_number": 1,
+      "odds": 70.6
+    }
+  ]
+}
