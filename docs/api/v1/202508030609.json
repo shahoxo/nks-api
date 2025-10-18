@@ -10,7 +10,7 @@
       "horse_name": "アンズアメ",
       "score": 0.19485645081245584,
       "horse_number": 5,
-      "odds": 3.1
+      "odds": 3.2
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "ヴェロクオーレ",
       "score": 0.11823128319324948,
       "horse_number": 10,
-      "odds": 4.5
+      "odds": 2.7
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "ディクレアブルーム",
       "score": 0.05217909842783711,
       "horse_number": 8,
-      "odds": 31.0
+      "odds": 31.8
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "ラヴオントップ",
       "score": 0.026491445122060326,
       "horse_number": 4,
-      "odds": 9.6
+      "odds": 9.8
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "ワイノナオミ",
       "score": -0.1276358031107742,
       "horse_number": 13,
-      "odds": 5.0
+      "odds": 7.6
     },
     {
       "rank": 6,
@@ -58,7 +58,7 @@
       "horse_name": "ブリーズオンチーク",
       "score": -0.16504502062188925,
       "horse_number": 3,
-      "odds": 23.7
+      "odds": 27.5
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "ジューンポンポン",
       "score": -0.23822953882420259,
       "horse_number": 7,
-      "odds": 13.3
+      "odds": 15.0
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "ミロワール",
       "score": -0.2415125601587792,
       "horse_number": 9,
-      "odds": 11.1
+      "odds": 14.8
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "アルタビスタ",
       "score": -0.3340224418891703,
       "horse_number": 2,
-      "odds": 40.0
+      "odds": 61.6
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "フレッシュラン",
       "score": -0.4102848282110265,
       "horse_number": 12,
-      "odds": 9.2
+      "odds": 9.5
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "ブライトルピナス",
       "score": -0.41782581233203475,
       "horse_number": 11,
-      "odds": 44.5
+      "odds": 72.7
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "クリノクリスタル",
       "score": -0.502523617873001,
       "horse_number": 6,
-      "odds": 45.9
+      "odds": 63.1
     }
   ]
 }

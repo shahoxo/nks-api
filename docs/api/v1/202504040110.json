@@ -1,0 +1,128 @@
+{
+  "race_id": "202504040110",
+  "race_name": "妙高特別",
+  "race_time": "2025-10-18 14:40",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019101399",
+      "horse_name": "ザウリ",
+      "score": 0.10626105262543907,
+      "horse_number": 5,
+      "odds": 17.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110142",
+      "horse_name": "ファムエレガンテ",
+      "score": 0.10488933051755961,
+      "horse_number": 10,
+      "odds": 3.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105957",
+      "horse_name": "ダズリングダンス",
+      "score": 0.05891021274328426,
+      "horse_number": 6,
+      "odds": 3.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020100665",
+      "horse_name": "ジャスパーバローズ",
+      "score": 0.05253763532477148,
+      "horse_number": 11,
+      "odds": 6.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106986",
+      "horse_name": "ミスエル",
+      "score": -0.021197676631518537,
+      "horse_number": 12,
+      "odds": 20.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106307",
+      "horse_name": "モリノセピア",
+      "score": -0.0341613437495532,
+      "horse_number": 2,
+      "odds": 10.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101833",
+      "horse_name": "イナフセド",
+      "score": -0.0632757906137895,
+      "horse_number": 1,
+      "odds": 31.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102702",
+      "horse_name": "ストリンジェンド",
+      "score": -0.07779077272363286,
+      "horse_number": 14,
+      "odds": 10.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019102186",
+      "horse_name": "オーロラアーク",
+      "score": -0.20620135137272172,
+      "horse_number": 15,
+      "odds": 31.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105821",
+      "horse_name": "サンディブロンド",
+      "score": -0.2471318608508509,
+      "horse_number": 3,
+      "odds": 26.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103316",
+      "horse_name": "スペキオサレジーナ",
+      "score": -0.28858701264877484,
+      "horse_number": 13,
+      "odds": 26.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105794",
+      "horse_name": "ホワイトターフ",
+      "score": -0.3051675226845198,
+      "horse_number": 8,
+      "odds": 23.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100656",
+      "horse_name": "ダークンストーミー",
+      "score": -0.49428221542780704,
+      "horse_number": 4,
+      "odds": 60.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103172",
+      "horse_name": "ヴェラリーシャ",
+      "score": -0.5260432391822301,
+      "horse_number": 9,
+      "odds": 98.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106562",
+      "horse_name": "バンブトンプロ",
+      "score": -0.6293301629666437,
+      "horse_number": 7,
+      "odds": 62.6
+    }
+  ]
+}

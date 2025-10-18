@@ -1,0 +1,88 @@
+{
+  "race_id": "202508030610",
+  "race_name": "清滝特別",
+  "race_time": "2025-10-18 14:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103787",
+      "horse_name": "ジョイボーイ",
+      "score": 0.16699453645821663,
+      "horse_number": 2,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105160",
+      "horse_name": "カエルム",
+      "score": 0.15436241390774977,
+      "horse_number": 8,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106624",
+      "horse_name": "リギーロ",
+      "score": 0.060421859191749125,
+      "horse_number": 6,
+      "odds": 5.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104887",
+      "horse_name": "シュバルツマサムネ",
+      "score": -0.07899622802687538,
+      "horse_number": 4,
+      "odds": 4.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105285",
+      "horse_name": "ライフセービング",
+      "score": -0.22848320311382253,
+      "horse_number": 7,
+      "odds": 14.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105330",
+      "horse_name": "パーサヴィアランス",
+      "score": -0.2914258093499661,
+      "horse_number": 3,
+      "odds": 37.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105877",
+      "horse_name": "デルマグレムリン",
+      "score": -0.401073560280802,
+      "horse_number": 1,
+      "odds": 20.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103329",
+      "horse_name": "ローレルキャニオン",
+      "score": -0.4758084657529835,
+      "horse_number": 10,
+      "odds": 0.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105867",
+      "horse_name": "ショウナンハウル",
+      "score": -0.49711138103285657,
+      "horse_number": 9,
+      "odds": 33.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018100961",
+      "horse_name": "スカイドゥエラー",
+      "score": -0.693384125709968,
+      "horse_number": 5,
+      "odds": 88.6
+    }
+  ]
+}
