@@ -1,0 +1,112 @@
+{
+  "race_id": "202508030609",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-10-18 14:15",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106689",
+      "horse_name": "アンズアメ",
+      "score": 0.19485645081245584,
+      "horse_number": 5,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101397",
+      "horse_name": "ヴェロクオーレ",
+      "score": 0.11823128319324948,
+      "horse_number": 10,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020106816",
+      "horse_name": "ディクレアブルーム",
+      "score": 0.05217909842783711,
+      "horse_number": 8,
+      "odds": 31.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104399",
+      "horse_name": "ラヴオントップ",
+      "score": 0.026491445122060326,
+      "horse_number": 4,
+      "odds": 9.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105973",
+      "horse_name": "ワイノナオミ",
+      "score": -0.1276358031107742,
+      "horse_number": 13,
+      "odds": 5.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104581",
+      "horse_name": "ハリウッドパーク",
+      "score": -0.1587015976458817,
+      "horse_number": 1,
+      "odds": 0.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105958",
+      "horse_name": "ブリーズオンチーク",
+      "score": -0.16504502062188925,
+      "horse_number": 3,
+      "odds": 23.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102552",
+      "horse_name": "ジューンポンポン",
+      "score": -0.23822953882420259,
+      "horse_number": 7,
+      "odds": 13.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019100566",
+      "horse_name": "ミロワール",
+      "score": -0.2415125601587792,
+      "horse_number": 9,
+      "odds": 11.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103579",
+      "horse_name": "アルタビスタ",
+      "score": -0.3340224418891703,
+      "horse_number": 2,
+      "odds": 40.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102995",
+      "horse_name": "フレッシュラン",
+      "score": -0.4102848282110265,
+      "horse_number": 12,
+      "odds": 9.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103598",
+      "horse_name": "ブライトルピナス",
+      "score": -0.41782581233203475,
+      "horse_number": 11,
+      "odds": 44.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020107081",
+      "horse_name": "クリノクリスタル",
+      "score": -0.502523617873001,
+      "horse_number": 6,
+      "odds": 45.9
+    }
+  ]
+}
