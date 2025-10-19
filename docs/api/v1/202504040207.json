@@ -1,0 +1,152 @@
+{
+  "race_id": "202504040207",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-19 13:00",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100168",
+      "horse_name": "ラコルネータ",
+      "score": 0.2394949754492791,
+      "horse_number": 15,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102962",
+      "horse_name": "アンダーザライト",
+      "score": 0.19923390323922782,
+      "horse_number": 10,
+      "odds": 6.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101690",
+      "horse_name": "グレゴリオ",
+      "score": -0.045930774702333414,
+      "horse_number": 2,
+      "odds": 11.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105123",
+      "horse_name": "デビューフライト",
+      "score": -0.08778048975750612,
+      "horse_number": 11,
+      "odds": 15.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105857",
+      "horse_name": "ラウルベア",
+      "score": -0.09198848445189532,
+      "horse_number": 8,
+      "odds": 13.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101315",
+      "horse_name": "スタンピー",
+      "score": -0.12323481077770827,
+      "horse_number": 7,
+      "odds": 34.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105729",
+      "horse_name": "ミッキーストライク",
+      "score": -0.12759394893115011,
+      "horse_number": 14,
+      "odds": 16.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022107106",
+      "horse_name": "デリュージョン",
+      "score": -0.15840427690017544,
+      "horse_number": 5,
+      "odds": 11.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100081",
+      "horse_name": "ゴールドブレス",
+      "score": -0.17465640773537625,
+      "horse_number": 4,
+      "odds": 8.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105431",
+      "horse_name": "ネーブルオレンジ",
+      "score": -0.2656661471967413,
+      "horse_number": 16,
+      "odds": 17.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106817",
+      "horse_name": "タイキバルドル",
+      "score": -0.30470179209740716,
+      "horse_number": 12,
+      "odds": 16.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105927",
+      "horse_name": "ユナホークパワー",
+      "score": -0.3414566499057388,
+      "horse_number": 6,
+      "odds": 23.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105713",
+      "horse_name": "ヴィントシュティレ",
+      "score": -0.48608631590019724,
+      "horse_number": 1,
+      "odds": 29.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104555",
+      "horse_name": "ゴッドヴァレー",
+      "score": -0.4950115130017877,
+      "horse_number": 18,
+      "odds": 25.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101702",
+      "horse_name": "チャージドアップ",
+      "score": -0.6075415303459579,
+      "horse_number": 13,
+      "odds": 71.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104920",
+      "horse_name": "ジーティーポライト",
+      "score": -0.6143151523856235,
+      "horse_number": 17,
+      "odds": 104.3
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022107268",
+      "horse_name": "シャトーホークビル",
+      "score": -0.6318373387288261,
+      "horse_number": 3,
+      "odds": 85.0
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021103490",
+      "horse_name": "リヴァイデント",
+      "score": -0.6699374366548387,
+      "horse_number": 9,
+      "odds": 109.2
+    }
+  ]
+}

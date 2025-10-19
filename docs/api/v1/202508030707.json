@@ -1,0 +1,104 @@
+{
+  "race_id": "202508030707",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-19 13:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106923",
+      "horse_name": "バッハアルプゼー",
+      "score": 0.1744008379340971,
+      "horse_number": 2,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110111",
+      "horse_name": "ジャスパーソレイユ",
+      "score": 0.14166458693470022,
+      "horse_number": 12,
+      "odds": 8.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102745",
+      "horse_name": "ペッパーミル",
+      "score": 0.10475544498526351,
+      "horse_number": 10,
+      "odds": 12.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022107279",
+      "horse_name": "ミトノキャット",
+      "score": 0.07775803120886458,
+      "horse_number": 6,
+      "odds": 20.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110087",
+      "horse_name": "ララアヴリル",
+      "score": 0.06512538211369218,
+      "horse_number": 8,
+      "odds": 4.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110077",
+      "horse_name": "イリフィ",
+      "score": 0.00013014555293712135,
+      "horse_number": 9,
+      "odds": 22.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021110081",
+      "horse_name": "リーサムギニー",
+      "score": -0.02841274307959881,
+      "horse_number": 7,
+      "odds": 29.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106123",
+      "horse_name": "ガンマジーティーピ",
+      "score": -0.2119953394852412,
+      "horse_number": 5,
+      "odds": 13.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103586",
+      "horse_name": "ガウラスパーク",
+      "score": -0.24993113489094637,
+      "horse_number": 1,
+      "odds": 31.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021110002",
+      "horse_name": "ワールドシリーズ",
+      "score": -0.4212294012826645,
+      "horse_number": 3,
+      "odds": 34.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103451",
+      "horse_name": "2021103451",
+      "score": -0.5744754594223906,
+      "horse_number": 11,
+      "odds": 38.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100134",
+      "horse_name": "マキシマムレーヴ",
+      "score": -0.6343610267235286,
+      "horse_number": 4,
+      "odds": 131.5
+    }
+  ]
+}

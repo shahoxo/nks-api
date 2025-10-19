@@ -1,0 +1,112 @@
+{
+  "race_id": "202505040707",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-19 13:10",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104818",
+      "horse_name": "クライスレリアーナ",
+      "score": 0.34612233406630305,
+      "horse_number": 9,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105520",
+      "horse_name": "ミッキーソルジャー",
+      "score": 0.2923096341318865,
+      "horse_number": 5,
+      "odds": 7.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105501",
+      "horse_name": "プリムツァール",
+      "score": 0.27537476454461973,
+      "horse_number": 1,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104095",
+      "horse_name": "フェンスブレイカー",
+      "score": 0.21600042736596364,
+      "horse_number": 10,
+      "odds": 10.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106068",
+      "horse_name": "パストラーレ",
+      "score": 0.10086378631116176,
+      "horse_number": 7,
+      "odds": 28.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100190",
+      "horse_name": "ニシノインヴィクタ",
+      "score": -0.00026592403950012524,
+      "horse_number": 4,
+      "odds": 40.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104592",
+      "horse_name": "スモーキーゴッド",
+      "score": -0.17600656122735384,
+      "horse_number": 11,
+      "odds": 31.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105499",
+      "horse_name": "プリンセスロロ",
+      "score": -0.24473364045398072,
+      "horse_number": 6,
+      "odds": 147.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105083",
+      "horse_name": "フェアリーグレン",
+      "score": -0.3243476495154044,
+      "horse_number": 2,
+      "odds": 50.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106840",
+      "horse_name": "パーセルペーパー",
+      "score": -0.44482949988030673,
+      "horse_number": 8,
+      "odds": 110.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104179",
+      "horse_name": "ツインピークス",
+      "score": -0.5494931663403189,
+      "horse_number": 3,
+      "odds": 23.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101963",
+      "horse_name": "サツキスマイル",
+      "score": -0.5506325049144988,
+      "horse_number": 13,
+      "odds": 240.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106965",
+      "horse_name": "アルヴィア",
+      "score": -0.5833309696314021,
+      "horse_number": 12,
+      "odds": 207.1
+    }
+  ]
+}

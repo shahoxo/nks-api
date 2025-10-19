@@ -1,0 +1,128 @@
+{
+  "race_id": "202504040208",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-19 13:30",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101234",
+      "horse_name": "オオタチ",
+      "score": 0.013996431830565769,
+      "horse_number": 3,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105887",
+      "horse_name": "リエータメンテ",
+      "score": -0.001414468433849637,
+      "horse_number": 15,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104311",
+      "horse_name": "ヤングアメリカンズ",
+      "score": -0.2079147754100627,
+      "horse_number": 11,
+      "odds": 23.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102956",
+      "horse_name": "エンマ",
+      "score": -0.22708243181270044,
+      "horse_number": 13,
+      "odds": 3.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105449",
+      "horse_name": "コンテソレーラ",
+      "score": -0.24674229423872104,
+      "horse_number": 10,
+      "odds": 12.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104640",
+      "horse_name": "ルシタニア",
+      "score": -0.2735125850559759,
+      "horse_number": 1,
+      "odds": 9.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101201",
+      "horse_name": "ロードインフェルノ",
+      "score": -0.38840069370751107,
+      "horse_number": 2,
+      "odds": 19.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105488",
+      "horse_name": "ピスタ",
+      "score": -0.47136167127672723,
+      "horse_number": 6,
+      "odds": 32.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105209",
+      "horse_name": "チビノシエラザード",
+      "score": -0.4742634564514996,
+      "horse_number": 8,
+      "odds": 46.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106628",
+      "horse_name": "レグロスヴァーグ",
+      "score": -0.506521003168805,
+      "horse_number": 5,
+      "odds": 23.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106180",
+      "horse_name": "シーリュウシー",
+      "score": -0.5258104828345365,
+      "horse_number": 14,
+      "odds": 12.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102498",
+      "horse_name": "ディアスポラ",
+      "score": -0.5647678097093728,
+      "horse_number": 9,
+      "odds": 15.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104574",
+      "horse_name": "ジーティーアグリム",
+      "score": -0.594066642465343,
+      "horse_number": 4,
+      "odds": 34.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101210",
+      "horse_name": "ジェンマ",
+      "score": -0.6318373387288261,
+      "horse_number": 7,
+      "odds": 92.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103487",
+      "horse_name": "ホウオウラムセス",
+      "score": -0.7295377203336686,
+      "horse_number": 12,
+      "odds": 61.4
+    }
+  ]
+}
