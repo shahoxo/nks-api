@@ -1,0 +1,120 @@
+{
+  "race_id": "202504040211",
+  "race_name": "新潟牝馬S",
+  "race_time": "2025-10-19 15:15",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105581",
+      "horse_name": "フレミングフープ",
+      "score": 0.23390494165017395,
+      "horse_number": 12,
+      "odds": 9.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104839",
+      "horse_name": "カネラフィーナ",
+      "score": 0.18122538780930483,
+      "horse_number": 5,
+      "odds": 2.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020109027",
+      "horse_name": "ロジシルバー",
+      "score": 0.14786803581316854,
+      "horse_number": 6,
+      "odds": 7.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102873",
+      "horse_name": "キミノナハマリア",
+      "score": 0.10120937305001379,
+      "horse_number": 11,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105384",
+      "horse_name": "チルカーノ",
+      "score": 0.09581410013863413,
+      "horse_number": 9,
+      "odds": 13.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105801",
+      "horse_name": "ミアネーロ",
+      "score": 0.07423857406528031,
+      "horse_number": 10,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105642",
+      "horse_name": "レミージュ",
+      "score": 0.07047089679108265,
+      "horse_number": 2,
+      "odds": 14.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019105370",
+      "horse_name": "ファンタジア",
+      "score": -0.019657532901898818,
+      "horse_number": 8,
+      "odds": 57.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106966",
+      "horse_name": "ピンクジン",
+      "score": -0.023527985811824883,
+      "horse_number": 4,
+      "odds": 44.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100809",
+      "horse_name": "アマイ",
+      "score": -0.02395131232085436,
+      "horse_number": 7,
+      "odds": 42.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105448",
+      "horse_name": "エリカヴィータ",
+      "score": -0.13834720642268694,
+      "horse_number": 1,
+      "odds": 14.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105760",
+      "horse_name": "エリダヌス",
+      "score": -0.1947568746538751,
+      "horse_number": 3,
+      "odds": 26.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019104159",
+      "horse_name": "カヨウネンカ",
+      "score": -0.350552912849831,
+      "horse_number": 14,
+      "odds": 63.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018103507",
+      "horse_name": "イヤサカ",
+      "score": -0.5393606452573874,
+      "horse_number": 13,
+      "odds": 66.8
+    }
+  ]
+}

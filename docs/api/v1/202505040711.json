@@ -1,0 +1,104 @@
+{
+  "race_id": "202505040711",
+  "race_name": "ブラジルC",
+  "race_time": "2025-10-19 15:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021106611",
+      "horse_name": "カゼノランナー",
+      "score": 0.30574723426981537,
+      "horse_number": 11,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103387",
+      "horse_name": "クールミラボー",
+      "score": 0.29215016158627466,
+      "horse_number": 3,
+      "odds": 3.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021107001",
+      "horse_name": "ピュアキアン",
+      "score": 0.18936377126927445,
+      "horse_number": 10,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019106748",
+      "horse_name": "リチュアル",
+      "score": 0.18329120885008732,
+      "horse_number": 8,
+      "odds": 9.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019105604",
+      "horse_name": "ブレイクフォース",
+      "score": 0.1821265501462192,
+      "horse_number": 9,
+      "odds": 10.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104914",
+      "horse_name": "アピーリングルック",
+      "score": 0.14926038540349046,
+      "horse_number": 2,
+      "odds": 33.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105264",
+      "horse_name": "アムールドパリ",
+      "score": 0.0998973055889813,
+      "horse_number": 7,
+      "odds": 8.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104760",
+      "horse_name": "ゼットリアン",
+      "score": 0.06325576220847623,
+      "horse_number": 12,
+      "odds": 6.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105271",
+      "horse_name": "サトノエピック",
+      "score": -0.05667350260517955,
+      "horse_number": 1,
+      "odds": 25.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105496",
+      "horse_name": "リアレスト",
+      "score": -0.05831612230832023,
+      "horse_number": 5,
+      "odds": 17.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102665",
+      "horse_name": "フタイテンロック",
+      "score": -0.11314187993744947,
+      "horse_number": 4,
+      "odds": 31.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019101422",
+      "horse_name": "サンストックトン",
+      "score": -0.39894440263009767,
+      "horse_number": 6,
+      "odds": 41.5
+    }
+  ]
+}
