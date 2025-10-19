@@ -1,0 +1,128 @@
+{
+  "race_id": "202504040206",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-19 12:30",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100949",
+      "horse_name": "カフェノーチェ",
+      "score": 0.15802372283025307,
+      "horse_number": 4,
+      "odds": 10.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104176",
+      "horse_name": "チャチャピンク",
+      "score": 0.13833592705086584,
+      "horse_number": 10,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103741",
+      "horse_name": "ロミヒ",
+      "score": 0.07950540791152709,
+      "horse_number": 7,
+      "odds": 9.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102624",
+      "horse_name": "エイシンマールス",
+      "score": 0.07519327110526197,
+      "horse_number": 11,
+      "odds": 14.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106054",
+      "horse_name": "ケーヴァラ",
+      "score": 0.008503489389476933,
+      "horse_number": 15,
+      "odds": 8.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106566",
+      "horse_name": "ダイシンレアレア",
+      "score": -0.0005915221935424422,
+      "horse_number": 5,
+      "odds": 14.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105217",
+      "horse_name": "ヴァイオパイシーズ",
+      "score": -0.05309006999152169,
+      "horse_number": 1,
+      "odds": 35.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104879",
+      "horse_name": "テーオーシュタイン",
+      "score": -0.07098223898770091,
+      "horse_number": 3,
+      "odds": 6.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101062",
+      "horse_name": "インディゴ",
+      "score": -0.11010526235798132,
+      "horse_number": 2,
+      "odds": 27.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019102777",
+      "horse_name": "ヤマニンクイッカー",
+      "score": -0.22426201259169484,
+      "horse_number": 6,
+      "odds": 16.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022107233",
+      "horse_name": "エポカリーナ",
+      "score": -0.25363749257318335,
+      "horse_number": 14,
+      "odds": 25.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102294",
+      "horse_name": "チュウワダイオウ",
+      "score": -0.3723719292482141,
+      "horse_number": 9,
+      "odds": 27.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019106972",
+      "horse_name": "ロストボール",
+      "score": -0.5288413384287328,
+      "horse_number": 12,
+      "odds": 58.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104738",
+      "horse_name": "マシュー",
+      "score": -0.5907216745266844,
+      "horse_number": 8,
+      "odds": 13.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105628",
+      "horse_name": "アーチーテソーロ",
+      "score": -0.7212483613895885,
+      "horse_number": 13,
+      "odds": 103.6
+    }
+  ]
+}
