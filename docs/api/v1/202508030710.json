@@ -1,0 +1,136 @@
+{
+  "race_id": "202508030710",
+  "race_name": "京開設100",
+  "race_time": "2025-10-19 15:01",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100623",
+      "horse_name": "ダノンフィーゴ",
+      "score": 0.40913415336292547,
+      "horse_number": 13,
+      "odds": 2.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106587",
+      "horse_name": "エストレヤデベレン",
+      "score": 0.3154495603941757,
+      "horse_number": 10,
+      "odds": 10.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102718",
+      "horse_name": "ノボリショウリュウ",
+      "score": 0.22668057594085922,
+      "horse_number": 4,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104745",
+      "horse_name": "イノセントキャット",
+      "score": 0.14811821276910053,
+      "horse_number": 14,
+      "odds": 14.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104893",
+      "horse_name": "セミマル",
+      "score": 0.09161674341625124,
+      "horse_number": 9,
+      "odds": 18.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103073",
+      "horse_name": "プロミシングスター",
+      "score": -0.02263962992228268,
+      "horse_number": 5,
+      "odds": 8.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103902",
+      "horse_name": "ジャーヴィス",
+      "score": -0.06150474169028598,
+      "horse_number": 15,
+      "odds": 17.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020107082",
+      "horse_name": "ライジン",
+      "score": -0.10191653080365211,
+      "horse_number": 6,
+      "odds": 66.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100734",
+      "horse_name": "レーウィン",
+      "score": -0.1360040194336638,
+      "horse_number": 16,
+      "odds": 31.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018104332",
+      "horse_name": "タマモダイジョッキ",
+      "score": -0.24046114859870174,
+      "horse_number": 3,
+      "odds": 26.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019106632",
+      "horse_name": "テイエムランウェイ",
+      "score": -0.27471129148229645,
+      "horse_number": 11,
+      "odds": 39.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018104775",
+      "horse_name": "パルデンス",
+      "score": -0.2851194098647129,
+      "horse_number": 2,
+      "odds": 110.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105250",
+      "horse_name": "ビルカール",
+      "score": -0.3036832097458344,
+      "horse_number": 7,
+      "odds": 51.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104982",
+      "horse_name": "ヘンリー",
+      "score": -0.3775569825959975,
+      "horse_number": 1,
+      "odds": 17.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102831",
+      "horse_name": "ワレハウミノコ",
+      "score": -0.483646230518412,
+      "horse_number": 8,
+      "odds": 45.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101303",
+      "horse_name": "グランフォーブル",
+      "score": -0.5291168878708733,
+      "horse_number": 12,
+      "odds": 52.4
+    }
+  ]
+}

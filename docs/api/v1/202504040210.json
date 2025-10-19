@@ -1,0 +1,152 @@
+{
+  "race_id": "202504040210",
+  "race_name": "飛翼特別",
+  "race_time": "2025-10-19 14:40",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100226",
+      "horse_name": "ディーエスショウマ",
+      "score": 0.07164977897276634,
+      "horse_number": 1,
+      "odds": 17.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019106503",
+      "horse_name": "ソレントフレイバー",
+      "score": 0.03131263883043794,
+      "horse_number": 13,
+      "odds": 32.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102514",
+      "horse_name": "ベイビーキッス",
+      "score": -0.0013616514011332292,
+      "horse_number": 7,
+      "odds": 10.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105445",
+      "horse_name": "イスラコラソン",
+      "score": -0.023392324898438267,
+      "horse_number": 8,
+      "odds": 7.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101469",
+      "horse_name": "ヴェナートル",
+      "score": -0.05679236482984235,
+      "horse_number": 3,
+      "odds": 69.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100297",
+      "horse_name": "ブルボンクイーン",
+      "score": -0.05699253456017944,
+      "horse_number": 5,
+      "odds": 52.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022110112",
+      "horse_name": "ジャスパーディビネ",
+      "score": -0.057436141457188054,
+      "horse_number": 10,
+      "odds": 4.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100614",
+      "horse_name": "ミルフルール",
+      "score": -0.0623503431853293,
+      "horse_number": 17,
+      "odds": 9.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104190",
+      "horse_name": "ラトルシェ",
+      "score": -0.07661937704057276,
+      "horse_number": 11,
+      "odds": 8.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102439",
+      "horse_name": "ニジュウダンサー",
+      "score": -0.10011309275141488,
+      "horse_number": 16,
+      "odds": 13.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103971",
+      "horse_name": "ハッピーデービー",
+      "score": -0.10947568697945373,
+      "horse_number": 14,
+      "odds": 23.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101052",
+      "horse_name": "ルーラルハピネス",
+      "score": -0.22256605888876102,
+      "horse_number": 15,
+      "odds": 6.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104751",
+      "horse_name": "ゼットカレン",
+      "score": -0.3390743783223037,
+      "horse_number": 4,
+      "odds": 125.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100236",
+      "horse_name": "ニシノトキメキ",
+      "score": -0.3563054565119943,
+      "horse_number": 18,
+      "odds": 14.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103636",
+      "horse_name": "インテンソ",
+      "score": -0.37158181611115626,
+      "horse_number": 2,
+      "odds": 18.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106187",
+      "horse_name": "ゼンダンタカ",
+      "score": -0.4394277613605809,
+      "horse_number": 9,
+      "odds": 20.2
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020106384",
+      "horse_name": "カイザーブリッツ",
+      "score": -0.5970618435386312,
+      "horse_number": 12,
+      "odds": 91.8
+    },
+    {
+      "rank": 18,
+      "horse_id": "2020100131",
+      "horse_name": "ジェイエルバルカー",
+      "score": -0.6053512024827115,
+      "horse_number": 6,
+      "odds": 162.8
+    }
+  ]
+}
