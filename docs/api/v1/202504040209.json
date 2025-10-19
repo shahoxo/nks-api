@@ -1,0 +1,128 @@
+{
+  "race_id": "202504040209",
+  "race_name": "松浜特別",
+  "race_time": "2025-10-19 14:05",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101480",
+      "horse_name": "キャピタルリッチ",
+      "score": 0.18142497191115942,
+      "horse_number": 5,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102573",
+      "horse_name": "メイショウアイル",
+      "score": 0.12491889227821788,
+      "horse_number": 2,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100588",
+      "horse_name": "ホワイトビーチ",
+      "score": 0.027865765334088265,
+      "horse_number": 14,
+      "odds": 11.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019100915",
+      "horse_name": "ゼンノインヴォーク",
+      "score": 0.02742369454479899,
+      "horse_number": 11,
+      "odds": 8.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106354",
+      "horse_name": "オーバースタンド",
+      "score": -0.03602774198880813,
+      "horse_number": 6,
+      "odds": 12.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105614",
+      "horse_name": "ポッポノフェスタ",
+      "score": -0.05833613658568391,
+      "horse_number": 4,
+      "odds": 12.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105113",
+      "horse_name": "ダノンアトラス",
+      "score": -0.12270113719128778,
+      "horse_number": 12,
+      "odds": 12.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105147",
+      "horse_name": "ヴィルナタール",
+      "score": -0.15007463104766472,
+      "horse_number": 3,
+      "odds": 8.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102864",
+      "horse_name": "サングラデーション",
+      "score": -0.3155695668334975,
+      "horse_number": 8,
+      "odds": 20.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103037",
+      "horse_name": "デリシュー",
+      "score": -0.34918305406682476,
+      "horse_number": 9,
+      "odds": 11.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103517",
+      "horse_name": "シュエットアムール",
+      "score": -0.517468482726325,
+      "horse_number": 10,
+      "odds": 44.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103416",
+      "horse_name": "ソルエパトリオット",
+      "score": -0.5190441658162716,
+      "horse_number": 7,
+      "odds": 54.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101801",
+      "horse_name": "ケイツールピア",
+      "score": -0.5481253291523164,
+      "horse_number": 15,
+      "odds": 67.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102337",
+      "horse_name": "パナランギン",
+      "score": -0.58109934331136,
+      "horse_number": 13,
+      "odds": 76.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103878",
+      "horse_name": "ジャンビ",
+      "score": -0.6815536661455034,
+      "horse_number": 1,
+      "odds": 16.5
+    }
+  ]
+}

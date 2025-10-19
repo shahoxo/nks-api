@@ -1,0 +1,88 @@
+{
+  "race_id": "202508030708",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-10-19 13:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106322",
+      "horse_name": "フェアリーライク",
+      "score": 0.14189727592575588,
+      "horse_number": 2,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104988",
+      "horse_name": "ロンドボス",
+      "score": 0.13184301981994884,
+      "horse_number": 8,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105230",
+      "horse_name": "ミニトランザット",
+      "score": 0.1080592474570339,
+      "horse_number": 4,
+      "odds": 3.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102727",
+      "horse_name": "オトコギアンパン",
+      "score": 0.10655698676334634,
+      "horse_number": 9,
+      "odds": 8.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106682",
+      "horse_name": "アンジョルラス",
+      "score": 0.020798274418863415,
+      "horse_number": 7,
+      "odds": 11.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105459",
+      "horse_name": "ヴィスマール",
+      "score": 0.015669846718976577,
+      "horse_number": 5,
+      "odds": 9.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018103368",
+      "horse_name": "メイショウカイト",
+      "score": -0.08554162325177644,
+      "horse_number": 1,
+      "odds": 14.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019106280",
+      "horse_name": "サクラオーラ",
+      "score": -0.20940727570089124,
+      "horse_number": 10,
+      "odds": 21.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105542",
+      "horse_name": "ドンアチェカ",
+      "score": -0.24845686876282502,
+      "horse_number": 3,
+      "odds": 87.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102329",
+      "horse_name": "エーデルサンライズ",
+      "score": -0.2923142850690144,
+      "horse_number": 6,
+      "odds": 51.2
+    }
+  ]
+}
