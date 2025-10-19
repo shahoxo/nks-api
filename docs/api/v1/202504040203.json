@@ -1,0 +1,152 @@
+{
+  "race_id": "202504040203",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-19 10:40",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110037",
+      "horse_name": "フォルトレス",
+      "score": 0.19680300458916727,
+      "horse_number": 14,
+      "odds": 14.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110001",
+      "horse_name": "キングズブレス",
+      "score": 0.15025354952583184,
+      "horse_number": 3,
+      "odds": 12.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105376",
+      "horse_name": "ティピティーナ",
+      "score": 0.08379373531810522,
+      "horse_number": 2,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106698",
+      "horse_name": "バンディート",
+      "score": 0.06266589083930098,
+      "horse_number": 5,
+      "odds": 3.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103932",
+      "horse_name": "ジェニファー",
+      "score": 0.04047238866567387,
+      "horse_number": 1,
+      "odds": 11.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106818",
+      "horse_name": "マイネルステラート",
+      "score": 0.032978710742153514,
+      "horse_number": 17,
+      "odds": 7.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100594",
+      "horse_name": "アンバーニードル",
+      "score": 0.03148099284224428,
+      "horse_number": 16,
+      "odds": 33.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101651",
+      "horse_name": "クリーンエア",
+      "score": -0.040560300868053206,
+      "horse_number": 4,
+      "odds": 20.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103261",
+      "horse_name": "アウクソー",
+      "score": -0.06253842052126864,
+      "horse_number": 6,
+      "odds": 11.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105138",
+      "horse_name": "ダノンリュラ",
+      "score": -0.08394492364136691,
+      "horse_number": 9,
+      "odds": 20.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100084",
+      "horse_name": "レッドカメリア",
+      "score": -0.20524630709701,
+      "horse_number": 12,
+      "odds": 10.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105057",
+      "horse_name": "オンザヴィーナス",
+      "score": -0.2291972083544176,
+      "horse_number": 10,
+      "odds": 26.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104404",
+      "horse_name": "シュークリーム",
+      "score": -0.28400643916206264,
+      "horse_number": 11,
+      "odds": 46.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103041",
+      "horse_name": "アルヴァレス",
+      "score": -0.32625264732090375,
+      "horse_number": 7,
+      "odds": 85.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102729",
+      "horse_name": "インフローレ",
+      "score": -0.33831135756708197,
+      "horse_number": 13,
+      "odds": 13.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020102269",
+      "horse_name": "ツィスカリーゼ",
+      "score": -0.5808237938692197,
+      "horse_number": 8,
+      "odds": 44.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022103549",
+      "horse_name": "コムーネ",
+      "score": -0.5945546677764488,
+      "horse_number": 15,
+      "odds": 175.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2020101171",
+      "horse_name": "ビスケット",
+      "score": -0.7344997899121097,
+      "horse_number": 18,
+      "odds": 181.4
+    }
+  ]
+}

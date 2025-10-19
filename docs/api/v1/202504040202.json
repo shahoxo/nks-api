@@ -1,0 +1,128 @@
+{
+  "race_id": "202504040202",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-19 10:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104044",
+      "horse_name": "モンサンゴールデン",
+      "score": 0.20205092673246033,
+      "horse_number": 7,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023110051",
+      "horse_name": "ドナシェーン",
+      "score": -0.08240882644040937,
+      "horse_number": 13,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101676",
+      "horse_name": "ファンシーフリル",
+      "score": -0.10604047196241355,
+      "horse_number": 4,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107535",
+      "horse_name": "ムテキシャチョウ",
+      "score": -0.14324589279633643,
+      "horse_number": 5,
+      "odds": 5.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023109174",
+      "horse_name": "ラムールデュヴォン",
+      "score": -0.17861245328374986,
+      "horse_number": 2,
+      "odds": 129.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103016",
+      "horse_name": "ボールドタワー",
+      "score": -0.3822441284962226,
+      "horse_number": 10,
+      "odds": 14.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106594",
+      "horse_name": "シンデレラリバティ",
+      "score": -0.47846498043107,
+      "horse_number": 9,
+      "odds": 72.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106789",
+      "horse_name": "クレインヴォイス",
+      "score": -0.503907160160415,
+      "horse_number": 12,
+      "odds": 57.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023110089",
+      "horse_name": "アドバンスモダン",
+      "score": -0.5051915245412376,
+      "horse_number": 1,
+      "odds": 21.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102540",
+      "horse_name": "ミルトハッピー",
+      "score": -0.5098484460813154,
+      "horse_number": 14,
+      "odds": 21.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101975",
+      "horse_name": "グリーンスリーヴス",
+      "score": -0.5487249194209747,
+      "horse_number": 3,
+      "odds": 20.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023110048",
+      "horse_name": "オスロクィーン",
+      "score": -0.557439498482435,
+      "horse_number": 15,
+      "odds": 9.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100949",
+      "horse_name": "マジンタクシー",
+      "score": -0.6570273942603189,
+      "horse_number": 11,
+      "odds": 56.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104598",
+      "horse_name": "ニシノガンリキ",
+      "score": -0.7149081923776417,
+      "horse_number": 8,
+      "odds": 106.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102029",
+      "horse_name": "カイトアザリー",
+      "score": -0.7560238565797833,
+      "horse_number": 6,
+      "odds": 114.6
+    }
+  ]
+}
