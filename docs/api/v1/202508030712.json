@@ -1,0 +1,120 @@
+{
+  "race_id": "202508030712",
+  "race_name": "聚楽第特別",
+  "race_time": "2025-10-19 16:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104448",
+      "horse_name": "アンバードール",
+      "score": 0.28437934904004025,
+      "horse_number": 12,
+      "odds": 7.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100736",
+      "horse_name": "ポッドフォルク",
+      "score": 0.1421957633858732,
+      "horse_number": 3,
+      "odds": 16.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101468",
+      "horse_name": "アリエスキング",
+      "score": 0.06099883340781059,
+      "horse_number": 10,
+      "odds": 6.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102516",
+      "horse_name": "バッケンレコード",
+      "score": 0.042065003501281895,
+      "horse_number": 6,
+      "odds": 9.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022107133",
+      "horse_name": "タガノマルアフ",
+      "score": 0.022852716411809467,
+      "horse_number": 7,
+      "odds": 39.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100255",
+      "horse_name": "アーロンイメル",
+      "score": 0.006948650207637483,
+      "horse_number": 8,
+      "odds": 18.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103686",
+      "horse_name": "テスティモーネ",
+      "score": -0.011433526465362037,
+      "horse_number": 9,
+      "odds": 3.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022107306",
+      "horse_name": "ストップヤーニング",
+      "score": -0.02045470217084616,
+      "horse_number": 4,
+      "odds": 6.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104953",
+      "horse_name": "インペリアルライン",
+      "score": -0.0930495466653043,
+      "horse_number": 11,
+      "odds": 32.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101226",
+      "horse_name": "クリノフィガロ",
+      "score": -0.24327693281352894,
+      "horse_number": 1,
+      "odds": 10.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100329",
+      "horse_name": "プルナチャンドラ",
+      "score": -0.2923838237631805,
+      "horse_number": 2,
+      "odds": 25.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100677",
+      "horse_name": "ヴォルスター",
+      "score": -0.3262750740394972,
+      "horse_number": 13,
+      "odds": 43.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103161",
+      "horse_name": "トーレ",
+      "score": -0.39724331188976947,
+      "horse_number": 14,
+      "odds": 22.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018100858",
+      "horse_name": "メイショウマントル",
+      "score": -0.48380914849236456,
+      "horse_number": 5,
+      "odds": 52.9
+    }
+  ]
+}
