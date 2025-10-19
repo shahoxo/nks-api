@@ -1,0 +1,64 @@
+{
+  "race_id": "202508030709",
+  "race_name": "もみじS",
+  "race_time": "2025-10-19 14:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105312",
+      "horse_name": "リリージョワ",
+      "score": 0.4323280078850566,
+      "horse_number": 7,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105685",
+      "horse_name": "ダイヤモンドノット",
+      "score": 0.4188464267158056,
+      "horse_number": 2,
+      "odds": 2.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107110",
+      "horse_name": "シルバーナイツ",
+      "score": 0.3608607997323115,
+      "horse_number": 6,
+      "odds": 4.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101847",
+      "horse_name": "ナオミライトニング",
+      "score": 0.13058307064708224,
+      "horse_number": 4,
+      "odds": 6.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105277",
+      "horse_name": "ファニーバニー",
+      "score": 0.10038316292270598,
+      "horse_number": 1,
+      "odds": 20.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105806",
+      "horse_name": "ロードヴィゴラス",
+      "score": -0.017985526119623015,
+      "horse_number": 3,
+      "odds": 21.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106185",
+      "horse_name": "コラルリーフ",
+      "score": -0.07199872864061496,
+      "horse_number": 5,
+      "odds": 14.2
+    }
+  ]
+}
