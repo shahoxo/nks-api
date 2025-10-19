@@ -1,0 +1,120 @@
+{
+  "race_id": "202504040212",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-19 16:01",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101675",
+      "horse_name": "スノーサイレンス",
+      "score": 0.16485030916825483,
+      "horse_number": 10,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101077",
+      "horse_name": "ベンダバール",
+      "score": 0.12041894134441726,
+      "horse_number": 6,
+      "odds": 9.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106513",
+      "horse_name": "キーガッツ",
+      "score": 0.11847480395193591,
+      "horse_number": 13,
+      "odds": 12.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019103285",
+      "horse_name": "クリノミニスター",
+      "score": -0.022859335560335436,
+      "horse_number": 14,
+      "odds": 11.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100617",
+      "horse_name": "ブリングライト",
+      "score": -0.031061967897938976,
+      "horse_number": 2,
+      "odds": 15.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100918",
+      "horse_name": "ケイツーギルダー",
+      "score": -0.08386881856078009,
+      "horse_number": 7,
+      "odds": 9.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019100234",
+      "horse_name": "セイゲン",
+      "score": -0.22187128485320567,
+      "horse_number": 1,
+      "odds": 50.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105905",
+      "horse_name": "トーアジョウトウ",
+      "score": -0.2559895126782704,
+      "horse_number": 3,
+      "odds": 29.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100136",
+      "horse_name": "スカイブルー",
+      "score": -0.3103877041361076,
+      "horse_number": 12,
+      "odds": 5.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019102469",
+      "horse_name": "ダイチラファール",
+      "score": -0.4419512209304478,
+      "horse_number": 11,
+      "odds": 22.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100466",
+      "horse_name": "ディナーラッシュ",
+      "score": -0.5068347833928372,
+      "horse_number": 4,
+      "odds": 9.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105347",
+      "horse_name": "ジロラータ",
+      "score": -0.5176987294602504,
+      "horse_number": 9,
+      "odds": 82.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101409",
+      "horse_name": "レーヴレジェンド",
+      "score": -0.5222423449511203,
+      "horse_number": 5,
+      "odds": 28.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100837",
+      "horse_name": "ヒデノブルースカイ",
+      "score": -0.6439256725108081,
+      "horse_number": 8,
+      "odds": 29.8
+    }
+  ]
+}
