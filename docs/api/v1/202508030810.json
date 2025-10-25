@@ -1,0 +1,112 @@
+{
+  "race_id": "202508030810",
+  "race_name": "長岡京S",
+  "race_time": "2025-10-25 14:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105752",
+      "horse_name": "レディマリオン",
+      "score": 0.20112972140010688,
+      "horse_number": 9,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105755",
+      "horse_name": "スリールミニョン",
+      "score": 0.13279338076106778,
+      "horse_number": 5,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102310",
+      "horse_name": "キタサンダムール",
+      "score": 0.06860298178412946,
+      "horse_number": 3,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105618",
+      "horse_name": "スマートワイス",
+      "score": 0.061598843261211914,
+      "horse_number": 13,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105161",
+      "horse_name": "ケーブパール",
+      "score": 0.05444020764390388,
+      "horse_number": 4,
+      "odds": 7.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018101989",
+      "horse_name": "ジョディーズマロン",
+      "score": -0.08106395608545779,
+      "horse_number": 8,
+      "odds": 32.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106594",
+      "horse_name": "ヤマニンアストロン",
+      "score": -0.08119810487822439,
+      "horse_number": 2,
+      "odds": 7.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105354",
+      "horse_name": "サクセスアイ",
+      "score": -0.13538524896467863,
+      "horse_number": 1,
+      "odds": 6.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100906",
+      "horse_name": "フライングブレード",
+      "score": -0.31041552743775014,
+      "horse_number": 11,
+      "odds": 32.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104332",
+      "horse_name": "ルミノメテオール",
+      "score": -0.31937171912885615,
+      "horse_number": 12,
+      "odds": 24.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105347",
+      "horse_name": "アバンチュリエ",
+      "score": -0.345543563667687,
+      "horse_number": 10,
+      "odds": 41.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105198",
+      "horse_name": "ウインスノーライト",
+      "score": -0.4386029053941841,
+      "horse_number": 7,
+      "odds": 25.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105489",
+      "horse_name": "シークレットキー",
+      "score": -0.5361573133709966,
+      "horse_number": 6,
+      "odds": 50.4
+    }
+  ]
+}

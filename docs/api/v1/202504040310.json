@@ -1,0 +1,128 @@
+{
+  "race_id": "202504040310",
+  "race_name": "菅名岳特別",
+  "race_time": "2025-10-25 14:40",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102167",
+      "horse_name": "アールプロスト",
+      "score": 0.3089028579269716,
+      "horse_number": 1,
+      "odds": 6.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103703",
+      "horse_name": "ブルータス",
+      "score": 0.08644560434021116,
+      "horse_number": 6,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100161",
+      "horse_name": "アスクシュタイン",
+      "score": 0.007512970901173372,
+      "horse_number": 2,
+      "odds": 4.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106164",
+      "horse_name": "キングオブフジ",
+      "score": 0.006546767114306494,
+      "horse_number": 3,
+      "odds": 18.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102062",
+      "horse_name": "ミライヘノカギ",
+      "score": -0.004650327124785163,
+      "horse_number": 8,
+      "odds": 6.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103197",
+      "horse_name": "タマモキャリコ",
+      "score": -0.021302936783398806,
+      "horse_number": 14,
+      "odds": 7.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103502",
+      "horse_name": "アイウィル",
+      "score": -0.09260873915996826,
+      "horse_number": 10,
+      "odds": 16.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105262",
+      "horse_name": "ラオラシオン",
+      "score": -0.16775359456137243,
+      "horse_number": 15,
+      "odds": 13.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103007",
+      "horse_name": "エンファサイズ",
+      "score": -0.2096713036475274,
+      "horse_number": 4,
+      "odds": 65.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021107192",
+      "horse_name": "アラレタバシル",
+      "score": -0.23133239172158995,
+      "horse_number": 11,
+      "odds": 11.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100260",
+      "horse_name": "エイブラムス",
+      "score": -0.509222016721948,
+      "horse_number": 9,
+      "odds": 21.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106399",
+      "horse_name": "ユメハハテシナク",
+      "score": -0.5140225595417626,
+      "horse_number": 12,
+      "odds": 53.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103318",
+      "horse_name": "コルサファターレ",
+      "score": -0.5285825139630671,
+      "horse_number": 7,
+      "odds": 38.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102840",
+      "horse_name": "ブーバー",
+      "score": -0.5571203828274278,
+      "horse_number": 13,
+      "odds": 40.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106549",
+      "horse_name": "イデアユウシン",
+      "score": -0.5833309696314021,
+      "horse_number": 5,
+      "odds": 71.3
+    }
+  ]
+}
