@@ -1,0 +1,128 @@
+{
+  "race_id": "202504040306",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-25 12:35",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103901",
+      "horse_name": "マーシーラン",
+      "score": 0.12657573355517795,
+      "horse_number": 14,
+      "odds": 7.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105911",
+      "horse_name": "アンドローゼス",
+      "score": 0.10737530717683767,
+      "horse_number": 15,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103537",
+      "horse_name": "トゥルーサクセサー",
+      "score": -0.007910603435744738,
+      "horse_number": 12,
+      "odds": 5.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105123",
+      "horse_name": "デビューフライト",
+      "score": -0.07302099602781346,
+      "horse_number": 4,
+      "odds": 12.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104117",
+      "horse_name": "レインオンミー",
+      "score": -0.09354920566037125,
+      "horse_number": 1,
+      "odds": 29.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106045",
+      "horse_name": "ウィズマスタング",
+      "score": -0.16090872325701625,
+      "horse_number": 6,
+      "odds": 33.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105421",
+      "horse_name": "コンフォルツァ",
+      "score": -0.17795655131114937,
+      "horse_number": 13,
+      "odds": 5.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106180",
+      "horse_name": "シャインバオバブ",
+      "score": -0.2027555210737786,
+      "horse_number": 10,
+      "odds": 24.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105400",
+      "horse_name": "ピティロディア",
+      "score": -0.225465194131681,
+      "horse_number": 7,
+      "odds": 51.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106591",
+      "horse_name": "スプリンクルソルト",
+      "score": -0.26539842256920887,
+      "horse_number": 9,
+      "odds": 34.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106051",
+      "horse_name": "セザンワールド",
+      "score": -0.3302390757588125,
+      "horse_number": 8,
+      "odds": 79.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105484",
+      "horse_name": "ベランジェール",
+      "score": -0.3405392164228133,
+      "horse_number": 5,
+      "odds": 4.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105652",
+      "horse_name": "トリオンファルマン",
+      "score": -0.4676562419753675,
+      "horse_number": 2,
+      "odds": 30.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103537",
+      "horse_name": "スピアッジャローザ",
+      "score": -0.4934798063865913,
+      "horse_number": 11,
+      "odds": 12.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104778",
+      "horse_name": "チャイボーグ",
+      "score": -0.5938962629264705,
+      "horse_number": 3,
+      "odds": 62.4
+    }
+  ]
+}
