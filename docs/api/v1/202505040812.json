@@ -1,0 +1,112 @@
+{
+  "race_id": "202505040812",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-10-25 16:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105736",
+      "horse_name": "カルパ",
+      "score": 0.37709255940364445,
+      "horse_number": 12,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2018104030",
+      "horse_name": "ワーズワース",
+      "score": 0.2896150882578704,
+      "horse_number": 9,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101626",
+      "horse_name": "フウセツ",
+      "score": 0.19034060040397424,
+      "horse_number": 1,
+      "odds": 3.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022107130",
+      "horse_name": "マサノユニコーン",
+      "score": 0.05569674027738612,
+      "horse_number": 2,
+      "odds": 4.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104145",
+      "horse_name": "オセアエクスプレス",
+      "score": -0.00042115943877883266,
+      "horse_number": 3,
+      "odds": 11.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020107095",
+      "horse_name": "メモリーグラス",
+      "score": -0.11964812559197534,
+      "horse_number": 7,
+      "odds": 36.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103706",
+      "horse_name": "アルジェンタージョ",
+      "score": -0.18331065095453927,
+      "horse_number": 6,
+      "odds": 27.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019101753",
+      "horse_name": "アオカミ",
+      "score": -0.2492691117529514,
+      "horse_number": 5,
+      "odds": 81.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019109106",
+      "horse_name": "バイファーザベスト",
+      "score": -0.3017843512690182,
+      "horse_number": 4,
+      "odds": 34.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019102082",
+      "horse_name": "トルーマンテソーロ",
+      "score": -0.30525482195956033,
+      "horse_number": 8,
+      "odds": 38.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021107259",
+      "horse_name": "レヴィテーション",
+      "score": -0.4866865088360762,
+      "horse_number": 10,
+      "odds": 16.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104960",
+      "horse_name": "トロピカルヒーロー",
+      "score": -0.5530974180867849,
+      "horse_number": 13,
+      "odds": 81.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018101894",
+      "horse_name": "ターニングアップ",
+      "score": -0.5604919038970706,
+      "horse_number": 11,
+      "odds": 87.8
+    }
+  ]
+}
