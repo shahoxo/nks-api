@@ -1,0 +1,88 @@
+{
+  "race_id": "202508030811",
+  "race_name": "カシオペアS",
+  "race_time": "2025-10-25 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101387",
+      "horse_name": "オーロラエックス",
+      "score": 0.28980777253468787,
+      "horse_number": 7,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101648",
+      "horse_name": "センツブラッド",
+      "score": 0.2772542936959652,
+      "horse_number": 1,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102895",
+      "horse_name": "ナムラエイハブ",
+      "score": 0.25725974880829133,
+      "horse_number": 3,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101134",
+      "horse_name": "ピースワンデュック",
+      "score": 0.16295415720606435,
+      "horse_number": 10,
+      "odds": 4.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019104850",
+      "horse_name": "バレエマスター",
+      "score": 0.13665336080075258,
+      "horse_number": 2,
+      "odds": 10.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103025",
+      "horse_name": "ドクタードリトル",
+      "score": -0.004544986945678044,
+      "horse_number": 4,
+      "odds": 16.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105424",
+      "horse_name": "シルトホルン",
+      "score": -0.09157511498929694,
+      "horse_number": 6,
+      "odds": 7.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019106933",
+      "horse_name": "ダンテスヴュー",
+      "score": -0.11194993872595664,
+      "horse_number": 5,
+      "odds": 51.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105750",
+      "horse_name": "マイネルメモリー",
+      "score": -0.1671743451172422,
+      "horse_number": 8,
+      "odds": 20.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019104998",
+      "horse_name": "ショウナンマグマ",
+      "score": -0.28036004232459816,
+      "horse_number": 9,
+      "odds": 31.0
+    }
+  ]
+}

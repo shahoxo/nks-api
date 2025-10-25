@@ -1,0 +1,152 @@
+{
+  "race_id": "202504040311",
+  "race_name": "魚沼S",
+  "race_time": "2025-10-25 15:15",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102231",
+      "horse_name": "シルキーガール",
+      "score": 0.23880224766757668,
+      "horse_number": 8,
+      "odds": 11.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105574",
+      "horse_name": "シンハナーダ",
+      "score": 0.16419574733929315,
+      "horse_number": 3,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106954",
+      "horse_name": "アスクナイスショー",
+      "score": 0.13963357627887926,
+      "horse_number": 15,
+      "odds": 8.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106548",
+      "horse_name": "タガノデュード",
+      "score": 0.11367716230093262,
+      "horse_number": 13,
+      "odds": 5.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106738",
+      "horse_name": "ヴィレム",
+      "score": 0.03135351680416798,
+      "horse_number": 2,
+      "odds": 8.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020106811",
+      "horse_name": "タイキラフター",
+      "score": -0.058294852496951356,
+      "horse_number": 6,
+      "odds": 20.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105217",
+      "horse_name": "ウインオーディン",
+      "score": -0.07148948311909231,
+      "horse_number": 9,
+      "odds": 7.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105474",
+      "horse_name": "サダムオプシス",
+      "score": -0.0747259210543794,
+      "horse_number": 7,
+      "odds": 23.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105203",
+      "horse_name": "ウインアイオライト",
+      "score": -0.08540145177407087,
+      "horse_number": 12,
+      "odds": 24.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103456",
+      "horse_name": "ナヴォーナ",
+      "score": -0.10747151938131617,
+      "horse_number": 14,
+      "odds": 46.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102800",
+      "horse_name": "キャントウェイト",
+      "score": -0.11824648159900947,
+      "horse_number": 17,
+      "odds": 26.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100225",
+      "horse_name": "モズマーヴェリック",
+      "score": -0.11880631967303414,
+      "horse_number": 4,
+      "odds": 29.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018102178",
+      "horse_name": "マイネルエニグマ",
+      "score": -0.12178966488729327,
+      "horse_number": 10,
+      "odds": 64.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104080",
+      "horse_name": "ダノンフロイデ",
+      "score": -0.12803065445971318,
+      "horse_number": 16,
+      "odds": 67.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103049",
+      "horse_name": "ミカッテヨンデイイ",
+      "score": -0.25103155062926574,
+      "horse_number": 18,
+      "odds": 19.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106535",
+      "horse_name": "モズロックンロール",
+      "score": -0.28377130256235994,
+      "horse_number": 1,
+      "odds": 13.0
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020100495",
+      "horse_name": "ドラゴンヘッド",
+      "score": -0.4161913466686628,
+      "horse_number": 5,
+      "odds": 24.3
+    },
+    {
+      "rank": 18,
+      "horse_id": "2020103193",
+      "horse_name": "シャンデルナゴル",
+      "score": -0.4415162896607694,
+      "horse_number": 11,
+      "odds": 113.2
+    }
+  ]
+}
