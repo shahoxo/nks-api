@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040807",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-25 13:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100905",
+      "horse_name": "メリディアンスター",
+      "score": 0.23672957274481762,
+      "horse_number": 14,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102262",
+      "horse_name": "マルセルテソーロ",
+      "score": 0.07780026082841689,
+      "horse_number": 9,
+      "odds": 12.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100704",
+      "horse_name": "2022100704",
+      "score": 0.006887960715359728,
+      "horse_number": 13,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106011",
+      "horse_name": "ホウオウゴールド",
+      "score": 0.0028159009200603193,
+      "horse_number": 7,
+      "odds": 11.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100623",
+      "horse_name": "スプランドゥール",
+      "score": -0.006199808557075277,
+      "horse_number": 11,
+      "odds": 11.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102276",
+      "horse_name": "マクミランテソーロ",
+      "score": -0.10751054277016173,
+      "horse_number": 16,
+      "odds": 6.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106771",
+      "horse_name": "トモジャシーマ",
+      "score": -0.137952390987092,
+      "horse_number": 10,
+      "odds": 15.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102681",
+      "horse_name": "マイネルブリオン",
+      "score": -0.19861713175876125,
+      "horse_number": 4,
+      "odds": 55.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022109052",
+      "horse_name": "キカオクベシ",
+      "score": -0.24413963751877318,
+      "horse_number": 2,
+      "odds": 37.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100337",
+      "horse_name": "ゼンカイパイロ",
+      "score": -0.25707442288205745,
+      "horse_number": 8,
+      "odds": 10.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103332",
+      "horse_name": "アイスブレイカー",
+      "score": -0.46521928448184624,
+      "horse_number": 5,
+      "odds": 77.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100604",
+      "horse_name": "ジェイエルバース",
+      "score": -0.5076415561189244,
+      "horse_number": 3,
+      "odds": 15.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105805",
+      "horse_name": "アルシミスト",
+      "score": -0.5272300991657247,
+      "horse_number": 1,
+      "odds": 32.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105516",
+      "horse_name": "メリーサウンド",
+      "score": -0.5424908548714008,
+      "horse_number": 12,
+      "odds": 64.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022109033",
+      "horse_name": "ミツカネリブラ",
+      "score": -0.5945546677764488,
+      "horse_number": 15,
+      "odds": 95.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103755",
+      "horse_name": "ジーティーエンジン",
+      "score": -0.5970618435386312,
+      "horse_number": 6,
+      "odds": 95.3
+    }
+  ]
+}
