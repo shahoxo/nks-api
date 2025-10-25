@@ -1,0 +1,96 @@
+{
+  "race_id": "202508030802",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-25 10:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104417",
+      "horse_name": "アンリミテッド",
+      "score": 0.10529646418823885,
+      "horse_number": 5,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105008",
+      "horse_name": "ゴールデンスラム",
+      "score": 0.08337138705498884,
+      "horse_number": 11,
+      "odds": 3.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106018",
+      "horse_name": "リフラ",
+      "score": -0.0027325672300237257,
+      "horse_number": 7,
+      "odds": 8.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105124",
+      "horse_name": "キングズテイル",
+      "score": -0.019828442423830136,
+      "horse_number": 1,
+      "odds": 10.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106546",
+      "horse_name": "サンライズケヴィン",
+      "score": -0.271089559108988,
+      "horse_number": 10,
+      "odds": 10.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104972",
+      "horse_name": "コパノルーカス",
+      "score": -0.309185009743173,
+      "horse_number": 8,
+      "odds": 39.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102981",
+      "horse_name": "ヒロノスカイ",
+      "score": -0.3480313393742731,
+      "horse_number": 9,
+      "odds": 5.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101894",
+      "horse_name": "マルーンドライブ",
+      "score": -0.542853539586849,
+      "horse_number": 4,
+      "odds": 22.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104319",
+      "horse_name": "タガノニューデリー",
+      "score": -0.5650305604640254,
+      "horse_number": 2,
+      "odds": 26.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106565",
+      "horse_name": "メイショウハチマキ",
+      "score": -0.5703889114273121,
+      "horse_number": 3,
+      "odds": 112.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104662",
+      "horse_name": "ファインマン",
+      "score": -0.7344997899121097,
+      "horse_number": 6,
+      "odds": 65.8
+    }
+  ]
+}

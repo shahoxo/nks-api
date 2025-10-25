@@ -1,0 +1,88 @@
+{
+  "race_id": "202505040802",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-25 10:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107068",
+      "horse_name": "サンセリテ",
+      "score": 0.4607518161456371,
+      "horse_number": 9,
+      "odds": 1.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103437",
+      "horse_name": "ジュラトリー",
+      "score": 0.1427027037944705,
+      "horse_number": 2,
+      "odds": 11.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105714",
+      "horse_name": "ヒズマスターピース",
+      "score": -0.16633650422077956,
+      "horse_number": 8,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106285",
+      "horse_name": "ボーントゥラブユー",
+      "score": -0.18225360267879126,
+      "horse_number": 3,
+      "odds": 16.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103843",
+      "horse_name": "セルリア",
+      "score": -0.18796648145609005,
+      "horse_number": 1,
+      "odds": 17.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105102",
+      "horse_name": "ダイユウヴェンティ",
+      "score": -0.2566542396103167,
+      "horse_number": 5,
+      "odds": 25.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100160",
+      "horse_name": "トレニアムーン",
+      "score": -0.46351797807579276,
+      "horse_number": 7,
+      "odds": 70.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101392",
+      "horse_name": "ノアシルヴィ",
+      "score": -0.524475735717119,
+      "horse_number": 10,
+      "odds": 156.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100421",
+      "horse_name": "カシノリアーナ",
+      "score": -0.6518943205472477,
+      "horse_number": 6,
+      "odds": 112.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104221",
+      "horse_name": "アビエーション",
+      "score": -0.7560238565797833,
+      "horse_number": 4,
+      "odds": 72.0
+    }
+  ]
+}

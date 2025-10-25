@@ -1,0 +1,120 @@
+{
+  "race_id": "202508030801",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-25 09:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105216",
+      "horse_name": "リアライズガイザー",
+      "score": 0.33620616760752986,
+      "horse_number": 3,
+      "odds": 2.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107299",
+      "horse_name": "ホールオブミラーズ",
+      "score": 0.256311618211362,
+      "horse_number": 14,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104988",
+      "horse_name": "メイショウシンガン",
+      "score": -0.03182531689891749,
+      "horse_number": 10,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103163",
+      "horse_name": "キープシャイニング",
+      "score": -0.11116899225465747,
+      "horse_number": 8,
+      "odds": 11.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103406",
+      "horse_name": "サクライロマウコロ",
+      "score": -0.14703197900257292,
+      "horse_number": 6,
+      "odds": 22.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105012",
+      "horse_name": "アイク",
+      "score": -0.27372364935586047,
+      "horse_number": 13,
+      "odds": 48.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102131",
+      "horse_name": "ラヴネヴァーダイズ",
+      "score": -0.3425765380332199,
+      "horse_number": 12,
+      "odds": 35.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105474",
+      "horse_name": "トワイライトビュー",
+      "score": -0.415708911797641,
+      "horse_number": 1,
+      "odds": 35.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103344",
+      "horse_name": "エコロガルダ",
+      "score": -0.4273977690157097,
+      "horse_number": 2,
+      "odds": 11.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103746",
+      "horse_name": "メイワキラリ",
+      "score": -0.4519086427853414,
+      "horse_number": 5,
+      "odds": 24.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102476",
+      "horse_name": "ロードベルファスト",
+      "score": -0.5378012061508157,
+      "horse_number": 11,
+      "odds": 60.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105187",
+      "horse_name": "アドフランマム",
+      "score": -0.5473179154554859,
+      "horse_number": 4,
+      "odds": 28.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104941",
+      "horse_name": "ジャストアダッシュ",
+      "score": -0.622384537432268,
+      "horse_number": 9,
+      "odds": 31.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100342",
+      "horse_name": "ジョイフルサンデー",
+      "score": -0.6711891672472533,
+      "horse_number": 7,
+      "odds": 179.0
+    }
+  ]
+}
