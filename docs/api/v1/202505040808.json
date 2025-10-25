@@ -1,0 +1,72 @@
+{
+  "race_id": "202505040808",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-25 13:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105338",
+      "horse_name": "リポサンテ",
+      "score": 0.3597129373211795,
+      "horse_number": 7,
+      "odds": 2.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102708",
+      "horse_name": "アドミラルシップ",
+      "score": 0.2880295020587704,
+      "horse_number": 3,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103243",
+      "horse_name": "プルミエソルティ",
+      "score": 0.2315549673614587,
+      "horse_number": 1,
+      "odds": 11.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104750",
+      "horse_name": "レイニング",
+      "score": 0.23091532002433124,
+      "horse_number": 5,
+      "odds": 2.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104313",
+      "horse_name": "ドーバーブライト",
+      "score": 0.08114113943921207,
+      "horse_number": 4,
+      "odds": 12.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104855",
+      "horse_name": "エンジェルマーク",
+      "score": 0.04508727444783231,
+      "horse_number": 2,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104722",
+      "horse_name": "ネイサン",
+      "score": -0.6293301629666437,
+      "horse_number": 6,
+      "odds": 83.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022109125",
+      "horse_name": "ムゾラシカ",
+      "score": -0.7344997899121097,
+      "horse_number": 8,
+      "odds": 50.3
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "race_id": "202504040309",
+  "race_name": "稲光特別",
+  "race_time": "2025-10-25 14:05",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020104174",
+      "horse_name": "レジーナローズ",
+      "score": 0.18815770074404792,
+      "horse_number": 12,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105373",
+      "horse_name": "パレスドフィーヌ",
+      "score": 0.18198258586953628,
+      "horse_number": 5,
+      "odds": 10.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101920",
+      "horse_name": "マグネシアブリック",
+      "score": 0.13578288013162593,
+      "horse_number": 17,
+      "odds": 5.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110014",
+      "horse_name": "ブライトアゲイン",
+      "score": 0.0208028971780815,
+      "horse_number": 7,
+      "odds": 23.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106320",
+      "horse_name": "ルブリアン",
+      "score": -0.025913871434834333,
+      "horse_number": 4,
+      "odds": 36.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106016",
+      "horse_name": "ブライアーヒル",
+      "score": -0.028085693021329856,
+      "horse_number": 10,
+      "odds": 11.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100851",
+      "horse_name": "マオノボルケーノ",
+      "score": -0.04177025352774593,
+      "horse_number": 1,
+      "odds": 51.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106586",
+      "horse_name": "ラブカムーン",
+      "score": -0.14196528237753972,
+      "horse_number": 16,
+      "odds": 9.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021110075",
+      "horse_name": "スターチスブーケ",
+      "score": -0.1490737644843524,
+      "horse_number": 18,
+      "odds": 15.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102674",
+      "horse_name": "スペルキャスター",
+      "score": -0.1642108874510657,
+      "horse_number": 9,
+      "odds": 35.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019101428",
+      "horse_name": "ローズブルーム",
+      "score": -0.3546842141809551,
+      "horse_number": 11,
+      "odds": 78.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103256",
+      "horse_name": "カフジキアッキエレ",
+      "score": -0.3820437652502101,
+      "horse_number": 8,
+      "odds": 29.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103325",
+      "horse_name": "カレンナオトメ",
+      "score": -0.4151547587578115,
+      "horse_number": 15,
+      "odds": 8.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102510",
+      "horse_name": "アップフルーク",
+      "score": -0.4978308974665173,
+      "horse_number": 2,
+      "odds": 78.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019110122",
+      "horse_name": "ブラヴィーノ",
+      "score": -0.5733349819749088,
+      "horse_number": 14,
+      "odds": 71.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022107258",
+      "horse_name": "ラブアイミー",
+      "score": -0.5760881389063693,
+      "horse_number": 3,
+      "odds": 36.4
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022100076",
+      "horse_name": "ダイチラポール",
+      "score": -0.5836065190735424,
+      "horse_number": 6,
+      "odds": 58.8
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021106178",
+      "horse_name": "シュシュトディエス",
+      "score": -0.6318373387288261,
+      "horse_number": 13,
+      "odds": 61.9
+    }
+  ]
+}
