@@ -1,0 +1,120 @@
+{
+  "race_id": "202504040305",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-25 12:05",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105585",
+      "horse_name": "クラリネットソナタ",
+      "score": 0.14762994805021,
+      "horse_number": 9,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102131",
+      "horse_name": "ショウサンジョージ",
+      "score": 0.13833592705086584,
+      "horse_number": 10,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105432",
+      "horse_name": "ダイオジェナイト",
+      "score": 0.10857762737850486,
+      "horse_number": 2,
+      "odds": 9.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105021",
+      "horse_name": "マテンロウブレイブ",
+      "score": 0.05295836302875471,
+      "horse_number": 14,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105156",
+      "horse_name": "レッドシュトラール",
+      "score": 0.00730910181215361,
+      "horse_number": 11,
+      "odds": 18.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104840",
+      "horse_name": "カーフキック",
+      "score": -0.05808561175098055,
+      "horse_number": 4,
+      "odds": 10.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106663",
+      "horse_name": "バレンシア",
+      "score": -0.14382446408435196,
+      "horse_number": 5,
+      "odds": 21.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104740",
+      "horse_name": "コズミックダンサー",
+      "score": -0.21455162141841658,
+      "horse_number": 1,
+      "odds": 17.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101651",
+      "horse_name": "デルタフォー",
+      "score": -0.43461257592381347,
+      "horse_number": 12,
+      "odds": 47.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101635",
+      "horse_name": "ルクルス",
+      "score": -0.45148711863448177,
+      "horse_number": 13,
+      "odds": 54.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105283",
+      "horse_name": "レヴァントリ",
+      "score": -0.47076361067342887,
+      "horse_number": 7,
+      "odds": 64.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106583",
+      "horse_name": "ユイノコキュウ",
+      "score": -0.5037695224472176,
+      "horse_number": 8,
+      "odds": 24.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100838",
+      "horse_name": "ポンサン",
+      "score": -0.5094440263516602,
+      "horse_number": 3,
+      "odds": 49.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103592",
+      "horse_name": "ベイビールビオ",
+      "score": -0.5152536302997025,
+      "horse_number": 6,
+      "odds": 104.4
+    }
+  ]
+}
