@@ -1,0 +1,88 @@
+{
+  "race_id": "202504040403",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-26 10:40",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104700",
+      "horse_name": "カナタコナタ",
+      "score": 0.25216037256347906,
+      "horse_number": 6,
+      "odds": 5.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103701",
+      "horse_name": "マッドゲイル",
+      "score": -0.05967166854167774,
+      "horse_number": 4,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105708",
+      "horse_name": "バトゥカーダ",
+      "score": -0.10058753865587755,
+      "horse_number": 7,
+      "odds": 1.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103626",
+      "horse_name": "スノースコール",
+      "score": -0.1691055291393188,
+      "horse_number": 8,
+      "odds": 11.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100586",
+      "horse_name": "ユニゾン",
+      "score": -0.23615744743610867,
+      "horse_number": 5,
+      "odds": 8.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102579",
+      "horse_name": "ディアギレフ",
+      "score": -0.3795343913964301,
+      "horse_number": 3,
+      "odds": 32.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105455",
+      "horse_name": "ディープエフェクト",
+      "score": -0.4302123777707988,
+      "horse_number": 10,
+      "odds": 24.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106547",
+      "horse_name": "サンライズアーサー",
+      "score": -0.48041305708578486,
+      "horse_number": 9,
+      "odds": 25.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105995",
+      "horse_name": "ビップルーク",
+      "score": -0.6327621980277083,
+      "horse_number": 2,
+      "odds": 81.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106061",
+      "horse_name": "ユイノディスタンス",
+      "score": -0.6546627932857848,
+      "horse_number": 1,
+      "odds": 93.0
+    }
+  ]
+}

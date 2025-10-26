@@ -1,0 +1,112 @@
+{
+  "race_id": "202504040402",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-26 10:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101792",
+      "horse_name": "ジャスフォール",
+      "score": 0.3221510807173475,
+      "horse_number": 11,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104960",
+      "horse_name": "アスミル",
+      "score": 0.20205092673246033,
+      "horse_number": 8,
+      "odds": 3.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102577",
+      "horse_name": "アンジュプロミス",
+      "score": 0.11580140338781848,
+      "horse_number": 3,
+      "odds": 4.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100831",
+      "horse_name": "ミスターマーボー",
+      "score": 0.07767314783147931,
+      "horse_number": 7,
+      "odds": 6.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102357",
+      "horse_name": "ブランチアウト",
+      "score": 0.03273350940585931,
+      "horse_number": 10,
+      "odds": 14.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102896",
+      "horse_name": "カラーオブサクセス",
+      "score": -0.0016368289062839861,
+      "horse_number": 2,
+      "odds": 11.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105516",
+      "horse_name": "エイシンティザー",
+      "score": -0.22302472767447443,
+      "horse_number": 1,
+      "odds": 36.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023110026",
+      "horse_name": "スカイピア",
+      "score": -0.27831975651783813,
+      "horse_number": 4,
+      "odds": 37.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107078",
+      "horse_name": "スマイルカーブ",
+      "score": -0.43974382587323024,
+      "horse_number": 13,
+      "odds": 57.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101268",
+      "horse_name": "ドナベーネ",
+      "score": -0.5058325246709073,
+      "horse_number": 6,
+      "odds": 134.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104505",
+      "horse_name": "ゴールドパレード",
+      "score": -0.5184038940737431,
+      "horse_number": 12,
+      "odds": 72.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105549",
+      "horse_name": "グランフォワイエ",
+      "score": -0.5844092227108343,
+      "horse_number": 5,
+      "odds": 62.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105331",
+      "horse_name": "ベルバード",
+      "score": -0.6010386882078935,
+      "horse_number": 9,
+      "odds": 20.5
+    }
+  ]
+}

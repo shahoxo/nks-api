@@ -1,0 +1,88 @@
+{
+  "race_id": "202508030902",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-10-26 10:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105339",
+      "horse_name": "カルロット",
+      "score": 0.2686735669117239,
+      "horse_number": 1,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106785",
+      "horse_name": "マイリトルヒーロー",
+      "score": 0.2444657138910163,
+      "horse_number": 10,
+      "odds": 3.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105185",
+      "horse_name": "ミトノリン",
+      "score": 0.19266960818472278,
+      "horse_number": 9,
+      "odds": 13.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023110015",
+      "horse_name": "パーシャングレー",
+      "score": 0.12926025605411864,
+      "horse_number": 2,
+      "odds": 6.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103916",
+      "horse_name": "ナデシコザクラ",
+      "score": 0.09249600260022528,
+      "horse_number": 7,
+      "odds": 7.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107156",
+      "horse_name": "トランスマリーン",
+      "score": 0.03172375186983544,
+      "horse_number": 8,
+      "odds": 10.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101867",
+      "horse_name": "ウォーターブビンガ",
+      "score": -0.17148213223871275,
+      "horse_number": 4,
+      "odds": 24.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105103",
+      "horse_name": "ミライチケット",
+      "score": -0.3271284878682765,
+      "horse_number": 3,
+      "odds": 19.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104477",
+      "horse_name": "ジェイパック",
+      "score": -0.4522533236144082,
+      "horse_number": 6,
+      "odds": 26.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104391",
+      "horse_name": "クロワール",
+      "score": -0.6970415147616792,
+      "horse_number": 5,
+      "odds": 54.8
+    }
+  ]
+}
