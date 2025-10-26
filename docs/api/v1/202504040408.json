@@ -1,0 +1,104 @@
+{
+  "race_id": "202504040408",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-26 13:30",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102228",
+      "horse_name": "テーオーマルコーニ",
+      "score": 0.15956474805870174,
+      "horse_number": 8,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102347",
+      "horse_name": "シャンハイナイト",
+      "score": 0.04860371233471853,
+      "horse_number": 3,
+      "odds": 8.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104692",
+      "horse_name": "バースライト",
+      "score": -0.029453418061549722,
+      "horse_number": 11,
+      "odds": 5.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103741",
+      "horse_name": "ロミヒ",
+      "score": -0.13646102576868246,
+      "horse_number": 4,
+      "odds": 13.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106937",
+      "horse_name": "ピストルスター",
+      "score": -0.1652421465780071,
+      "horse_number": 7,
+      "odds": 21.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106132",
+      "horse_name": "ロジリッキー",
+      "score": -0.1663523282195371,
+      "horse_number": 2,
+      "odds": 28.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105201",
+      "horse_name": "ラマンシュ",
+      "score": -0.23204868173930118,
+      "horse_number": 10,
+      "odds": 47.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022107233",
+      "horse_name": "エポカリーナ",
+      "score": -0.2683918880721282,
+      "horse_number": 5,
+      "odds": 35.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101047",
+      "horse_name": "ショウナンサエッタ",
+      "score": -0.29210496168188166,
+      "horse_number": 1,
+      "odds": 10.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106070",
+      "horse_name": "ブリスフル",
+      "score": -0.5456601730905545,
+      "horse_number": 9,
+      "odds": 25.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102969",
+      "horse_name": "パッカパッカブー",
+      "score": -0.5786317696138015,
+      "horse_number": 6,
+      "odds": 19.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105451",
+      "horse_name": "オウケンヴィーナス",
+      "score": -0.6318373387288261,
+      "horse_number": 12,
+      "odds": 81.6
+    }
+  ]
+}

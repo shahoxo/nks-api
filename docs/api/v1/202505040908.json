@@ -1,0 +1,128 @@
+{
+  "race_id": "202505040908",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-26 13:40",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101230",
+      "horse_name": "インパクトシー",
+      "score": 0.3508903273105369,
+      "horse_number": 14,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101676",
+      "horse_name": "サンタンカ",
+      "score": 0.3235104380026151,
+      "horse_number": 3,
+      "odds": 12.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101134",
+      "horse_name": "テンミラクルスター",
+      "score": 0.2323842535234407,
+      "horse_number": 7,
+      "odds": 14.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104844",
+      "horse_name": "ブルスカメンテ",
+      "score": 0.2060178572783956,
+      "horse_number": 11,
+      "odds": 16.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104822",
+      "horse_name": "テンダールック",
+      "score": 0.1806017684908078,
+      "horse_number": 13,
+      "odds": 15.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103303",
+      "horse_name": "ドリーミングアップ",
+      "score": 0.1741401410449288,
+      "horse_number": 5,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105022",
+      "horse_name": "グローブアマランス",
+      "score": 0.043797798229004,
+      "horse_number": 4,
+      "odds": 27.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022110066",
+      "horse_name": "ラージギャラリー",
+      "score": -0.08877034243841903,
+      "horse_number": 1,
+      "odds": 20.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100190",
+      "horse_name": "ニシノインヴィクタ",
+      "score": -0.09783866704047989,
+      "horse_number": 15,
+      "odds": 41.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105415",
+      "horse_name": "ソードマスター",
+      "score": -0.27541879885840237,
+      "horse_number": 6,
+      "odds": 24.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103145",
+      "horse_name": "レッドレナート",
+      "score": -0.30828392299615026,
+      "horse_number": 10,
+      "odds": 13.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106065",
+      "horse_name": "ホリーアン",
+      "score": -0.37778221352706265,
+      "horse_number": 12,
+      "odds": 100.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104533",
+      "horse_name": "チョングク",
+      "score": -0.3990178272265442,
+      "horse_number": 2,
+      "odds": 28.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101362",
+      "horse_name": "シャルパンティエ",
+      "score": -0.4229605910254437,
+      "horse_number": 9,
+      "odds": 154.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021105713",
+      "horse_name": "ヴィントシュティレ",
+      "score": -0.5035046670808694,
+      "horse_number": 8,
+      "odds": 44.7
+    }
+  ]
+}
