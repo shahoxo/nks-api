@@ -1,0 +1,120 @@
+{
+  "race_id": "202504040409",
+  "race_name": "柏崎特別",
+  "race_time": "2025-10-26 14:05",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102962",
+      "horse_name": "アンダーザライト",
+      "score": 0.314323527072796,
+      "horse_number": 12,
+      "odds": 8.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101690",
+      "horse_name": "グレゴリオ",
+      "score": 0.10041217822624939,
+      "horse_number": 6,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103227",
+      "horse_name": "ジャズ",
+      "score": 0.07259889647604909,
+      "horse_number": 9,
+      "odds": 9.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105334",
+      "horse_name": "ダノンブランニュー",
+      "score": 0.030262632839419594,
+      "horse_number": 13,
+      "odds": 10.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106218",
+      "horse_name": "ウインファヴォリ",
+      "score": -0.03952539437431812,
+      "horse_number": 8,
+      "odds": 13.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101388",
+      "horse_name": "ベストシーン",
+      "score": -0.04885177572616594,
+      "horse_number": 10,
+      "odds": 6.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104121",
+      "horse_name": "カウンティフェア",
+      "score": -0.12328083541124629,
+      "horse_number": 2,
+      "odds": 8.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103288",
+      "horse_name": "ヤコブセン",
+      "score": -0.14659292961934148,
+      "horse_number": 14,
+      "odds": 24.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105843",
+      "horse_name": "ブドワールドール",
+      "score": -0.14909942150484978,
+      "horse_number": 4,
+      "odds": 11.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104990",
+      "horse_name": "マリーヌ",
+      "score": -0.1600127924625689,
+      "horse_number": 3,
+      "odds": 22.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102952",
+      "horse_name": "オベイユアマスター",
+      "score": -0.2730080025874132,
+      "horse_number": 7,
+      "odds": 8.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102642",
+      "horse_name": "パルメリータ",
+      "score": -0.3188002525885933,
+      "horse_number": 1,
+      "odds": 20.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105168",
+      "horse_name": "クイーンズワーフ",
+      "score": -0.33180146337824795,
+      "horse_number": 5,
+      "odds": 13.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106200",
+      "horse_name": "ウインオーブ",
+      "score": -0.5907216745266844,
+      "horse_number": 11,
+      "odds": 56.8
+    }
+  ]
+}

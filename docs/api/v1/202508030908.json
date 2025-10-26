@@ -1,0 +1,120 @@
+{
+  "race_id": "202508030908",
+  "race_name": "壬生特別",
+  "race_time": "2025-10-26 13:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110026",
+      "horse_name": "コウセキ",
+      "score": 0.4852595318493917,
+      "horse_number": 14,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102421",
+      "horse_name": "ビービーエフォート",
+      "score": 0.27010225972734725,
+      "horse_number": 11,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104387",
+      "horse_name": "キントラダンサー",
+      "score": 0.2587590566847924,
+      "horse_number": 4,
+      "odds": 7.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106603",
+      "horse_name": "モジャーリオ",
+      "score": 0.23022129116499906,
+      "horse_number": 9,
+      "odds": 6.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106821",
+      "horse_name": "ピースフルナイト",
+      "score": 0.10574179800068235,
+      "horse_number": 1,
+      "odds": 24.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105863",
+      "horse_name": "ルージュスエルテ",
+      "score": 0.10201586799407739,
+      "horse_number": 12,
+      "odds": 8.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022110056",
+      "horse_name": "フードマン",
+      "score": 0.034403180530650494,
+      "horse_number": 3,
+      "odds": 8.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103509",
+      "horse_name": "ドナウパール",
+      "score": -0.034309439726205454,
+      "horse_number": 10,
+      "odds": 34.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100356",
+      "horse_name": "クールベイビー",
+      "score": -0.06984283292695603,
+      "horse_number": 5,
+      "odds": 25.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101229",
+      "horse_name": "レディメローラ",
+      "score": -0.1736224497631328,
+      "horse_number": 2,
+      "odds": 50.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105873",
+      "horse_name": "シュブロンレーヴル",
+      "score": -0.18662249280903576,
+      "horse_number": 13,
+      "odds": 26.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102939",
+      "horse_name": "アオイレーギーナ",
+      "score": -0.2589990032083889,
+      "horse_number": 8,
+      "odds": 10.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100956",
+      "horse_name": "スーパーマン",
+      "score": -0.26819333958836433,
+      "horse_number": 6,
+      "odds": 39.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102140",
+      "horse_name": "アンビバレント",
+      "score": -0.3424454241841032,
+      "horse_number": 7,
+      "odds": 11.0
+    }
+  ]
+}
