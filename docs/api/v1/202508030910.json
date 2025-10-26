@@ -1,0 +1,120 @@
+{
+  "race_id": "202508030910",
+  "race_name": "カノープスS",
+  "race_time": "2025-10-26 15:01",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020102750",
+      "horse_name": "タイトニット",
+      "score": 0.3404546163852462,
+      "horse_number": 12,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103987",
+      "horse_name": "スナークラファエロ",
+      "score": 0.32245040313893003,
+      "horse_number": 3,
+      "odds": 9.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103306",
+      "horse_name": "コトホドサヨウニ",
+      "score": 0.23563271086670073,
+      "horse_number": 11,
+      "odds": 12.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105630",
+      "horse_name": "ルシュヴァルドール",
+      "score": 0.23240644982981934,
+      "horse_number": 9,
+      "odds": 6.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100912",
+      "horse_name": "ジューンアヲニヨシ",
+      "score": 0.23041388908106558,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101694",
+      "horse_name": "シゲルショウグン",
+      "score": 0.102068936707899,
+      "horse_number": 4,
+      "odds": 7.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100960",
+      "horse_name": "マーブルロック",
+      "score": 0.024713898242904927,
+      "horse_number": 14,
+      "odds": 12.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102688",
+      "horse_name": "サーマルソアリング",
+      "score": -0.12368593916972279,
+      "horse_number": 13,
+      "odds": 17.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019102044",
+      "horse_name": "エルゲルージ",
+      "score": -0.15457434058875047,
+      "horse_number": 2,
+      "odds": 18.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019100539",
+      "horse_name": "タガノエスコート",
+      "score": -0.277902782969072,
+      "horse_number": 1,
+      "odds": 21.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102437",
+      "horse_name": "ヴァルツァーシャル",
+      "score": -0.32133719887351214,
+      "horse_number": 6,
+      "odds": 21.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102737",
+      "horse_name": "マリアナトレンチ",
+      "score": -0.3256155469648663,
+      "horse_number": 10,
+      "odds": 46.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100836",
+      "horse_name": "レアンダー",
+      "score": -0.35126042779779987,
+      "horse_number": 7,
+      "odds": 30.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019100094",
+      "horse_name": "エナハツホ",
+      "score": -0.4966090194837833,
+      "horse_number": 8,
+      "odds": 57.1
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202504040410",
+  "race_name": "村上特別",
+  "race_time": "2025-10-26 14:40",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104840",
+      "horse_name": "フルレゾン",
+      "score": 0.2699463805464004,
+      "horse_number": 4,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102595",
+      "horse_name": "バルダンツァ",
+      "score": 0.023899238650842397,
+      "horse_number": 8,
+      "odds": 14.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105072",
+      "horse_name": "ディーガレジェンド",
+      "score": 0.008194839728607189,
+      "horse_number": 11,
+      "odds": 10.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105585",
+      "horse_name": "カリーニョ",
+      "score": -0.013496343345310201,
+      "horse_number": 12,
+      "odds": 8.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105626",
+      "horse_name": "ドゥレイクパセージ",
+      "score": -0.05079486512999576,
+      "horse_number": 14,
+      "odds": 30.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106766",
+      "horse_name": "マイネルオーシャン",
+      "score": -0.09528945012028572,
+      "horse_number": 9,
+      "odds": 13.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021107085",
+      "horse_name": "ウインアクトゥール",
+      "score": -0.1369858069502604,
+      "horse_number": 16,
+      "odds": 8.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105390",
+      "horse_name": "パッションリッチ",
+      "score": -0.1448993439168037,
+      "horse_number": 2,
+      "odds": 4.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105375",
+      "horse_name": "バードウォッチャー",
+      "score": -0.1451626634930692,
+      "horse_number": 5,
+      "odds": 11.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103560",
+      "horse_name": "ジェモロジー",
+      "score": -0.17997926584830953,
+      "horse_number": 1,
+      "odds": 30.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101337",
+      "horse_name": "コスモアバンサ",
+      "score": -0.25665592750092503,
+      "horse_number": 3,
+      "odds": 12.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105322",
+      "horse_name": "アルファヒディ",
+      "score": -0.3175507983102033,
+      "horse_number": 15,
+      "odds": 32.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019100774",
+      "horse_name": "マイネルシーマー",
+      "score": -0.39642303050551825,
+      "horse_number": 13,
+      "odds": 23.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018105462",
+      "horse_name": "アナレンマ",
+      "score": -0.4588173005037689,
+      "horse_number": 7,
+      "odds": 34.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103955",
+      "horse_name": "ルーチェロッサ",
+      "score": -0.5431529973283721,
+      "horse_number": 10,
+      "odds": 47.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104878",
+      "horse_name": "シルバープリペット",
+      "score": -0.569470717884104,
+      "horse_number": 6,
+      "odds": 56.5
+    }
+  ]
+}

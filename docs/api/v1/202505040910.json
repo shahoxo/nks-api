@@ -1,0 +1,96 @@
+{
+  "race_id": "202505040910",
+  "race_name": "山中湖特別",
+  "race_time": "2025-10-26 14:50",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020100934",
+      "horse_name": "クリニクラウン",
+      "score": 0.24971711697358712,
+      "horse_number": 6,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104815",
+      "horse_name": "ブルーベリーフィズ",
+      "score": 0.15040022978175716,
+      "horse_number": 10,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105802",
+      "horse_name": "ミスティア",
+      "score": 0.11878121982805946,
+      "horse_number": 4,
+      "odds": 7.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104421",
+      "horse_name": "デファイ",
+      "score": 0.08593930201547147,
+      "horse_number": 7,
+      "odds": 13.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105467",
+      "horse_name": "フォーザボーイズ",
+      "score": 0.021955044958365002,
+      "horse_number": 2,
+      "odds": 6.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104899",
+      "horse_name": "ドリームクルーズ",
+      "score": -0.03895407598168341,
+      "horse_number": 5,
+      "odds": 8.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105317",
+      "horse_name": "ミーントゥビー",
+      "score": -0.2309600766490295,
+      "horse_number": 3,
+      "odds": 9.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021107220",
+      "horse_name": "グレイトクラウン",
+      "score": -0.2466892691453136,
+      "horse_number": 11,
+      "odds": 39.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100446",
+      "horse_name": "イトカワサクラ",
+      "score": -0.4168680659533618,
+      "horse_number": 1,
+      "odds": 6.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101284",
+      "horse_name": "ルクスドヌーヴ",
+      "score": -0.5004038654775862,
+      "horse_number": 9,
+      "odds": 51.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106746",
+      "horse_name": "ベレザニーニャ",
+      "score": -0.5197063082732428,
+      "horse_number": 8,
+      "odds": 41.9
+    }
+  ]
+}

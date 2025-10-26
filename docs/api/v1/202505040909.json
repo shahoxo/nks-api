@@ -10,7 +10,7 @@
       "horse_name": "ゼロスネーク",
       "score": 0.19981091829491732,
       "horse_number": 7,
-      "odds": 4.5
+      "odds": 3.4
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "マッスルバック",
       "score": 0.0056235201563042585,
       "horse_number": 8,
-      "odds": 24.6
+      "odds": 31.7
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "クインズデネブ",
       "score": -0.0060543636401691765,
       "horse_number": 11,
-      "odds": 7.4
+      "odds": 6.3
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "ハリウッドブルース",
       "score": -0.028075912543725587,
       "horse_number": 10,
-      "odds": 7.1
+      "odds": 10.8
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "マンウォル",
       "score": -0.029743456779154857,
       "horse_number": 2,
-      "odds": 14.6
+      "odds": 14.3
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "ベルダイナフェロー",
       "score": -0.07053679007338295,
       "horse_number": 5,
-      "odds": 6.2
+      "odds": 4.8
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "アイファーバトル",
       "score": -0.15783364811783632,
       "horse_number": 12,
-      "odds": 19.5
+      "odds": 30.4
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "トーホウキザン",
       "score": -0.29717548957948886,
       "horse_number": 3,
-      "odds": 41.5
+      "odds": 53.1
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "タイヨウフレア",
       "score": -0.30200007027689013,
       "horse_number": 1,
-      "odds": 9.5
+      "odds": 8.7
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "ホレーショ",
       "score": -0.33599582231064307,
       "horse_number": 6,
-      "odds": 14.9
+      "odds": 14.1
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "クリノグローリー",
       "score": -0.46487265377782916,
       "horse_number": 13,
-      "odds": 9.8
+      "odds": 16.0
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "ベント",
       "score": -0.5111181334234484,
       "horse_number": 4,
-      "odds": 21.5
+      "odds": 32.3
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "パープルナイト",
       "score": -0.5945546677764488,
       "horse_number": 9,
-      "odds": 10.8
+      "odds": 13.8
     }
   ]
 }
