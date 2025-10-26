@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040911",
+  "race_name": "神無月S",
+  "race_time": "2025-10-26 15:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110126",
+      "horse_name": "インユアパレス",
+      "score": 0.2859947544204991,
+      "horse_number": 13,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019101759",
+      "horse_name": "ムーヴ",
+      "score": 0.22167790896964681,
+      "horse_number": 16,
+      "odds": 14.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103282",
+      "horse_name": "ジャスティンアース",
+      "score": 0.1890031082395512,
+      "horse_number": 3,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102868",
+      "horse_name": "モズミギカタアガリ",
+      "score": -0.007198103063804808,
+      "horse_number": 4,
+      "odds": 13.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020102625",
+      "horse_name": "アクートゥス",
+      "score": -0.057809971157760834,
+      "horse_number": 10,
+      "odds": 17.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110148",
+      "horse_name": "ノーブルロジャー",
+      "score": -0.1919973681893657,
+      "horse_number": 9,
+      "odds": 11.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106756",
+      "horse_name": "ハチメンロッピ",
+      "score": -0.20949820224417773,
+      "horse_number": 11,
+      "odds": 30.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101457",
+      "horse_name": "リジル",
+      "score": -0.250186818118139,
+      "horse_number": 6,
+      "odds": 8.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101444",
+      "horse_name": "サトノフェニックス",
+      "score": -0.25303124902548296,
+      "horse_number": 12,
+      "odds": 8.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020110106",
+      "horse_name": "アドバンスファラオ",
+      "score": -0.31312929516996285,
+      "horse_number": 1,
+      "odds": 7.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102343",
+      "horse_name": "サンライズパスカル",
+      "score": -0.3150430486175083,
+      "horse_number": 14,
+      "odds": 24.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018102969",
+      "horse_name": "タイセイブレイズ",
+      "score": -0.36545112232751265,
+      "horse_number": 2,
+      "odds": 71.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105622",
+      "horse_name": "パラシュラーマ",
+      "score": -0.37780278960986435,
+      "horse_number": 5,
+      "odds": 89.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102078",
+      "horse_name": "ジョージテソーロ",
+      "score": -0.3897460377395181,
+      "horse_number": 15,
+      "odds": 21.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019100252",
+      "horse_name": "マルモリスペシャル",
+      "score": -0.5335702681776715,
+      "horse_number": 7,
+      "odds": 107.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2016102663",
+      "horse_name": "ハギノアトラス",
+      "score": -0.5786317696138015,
+      "horse_number": 8,
+      "odds": 114.3
+    }
+  ]
+}

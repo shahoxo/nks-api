@@ -1,0 +1,144 @@
+{
+  "race_id": "202504040411",
+  "race_name": "ルミエAD",
+  "race_time": "2025-10-26 15:15",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020106914",
+      "horse_name": "イコサン",
+      "score": 0.256713561873138,
+      "horse_number": 17,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020101262",
+      "horse_name": "エコロレジーナ",
+      "score": 0.22475622400891948,
+      "horse_number": 5,
+      "odds": 7.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103434",
+      "horse_name": "カルロヴェローチェ",
+      "score": 0.17323772703785328,
+      "horse_number": 15,
+      "odds": 4.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101419",
+      "horse_name": "ブーケファロス",
+      "score": 0.08163831299487592,
+      "horse_number": 12,
+      "odds": 21.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019104911",
+      "horse_name": "プルパレイ",
+      "score": 0.006259814532664363,
+      "horse_number": 14,
+      "odds": 15.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020110114",
+      "horse_name": "スリーアイランド",
+      "score": -0.02831815303290268,
+      "horse_number": 3,
+      "odds": 36.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101924",
+      "horse_name": "フィオライア",
+      "score": -0.08844782326982781,
+      "horse_number": 4,
+      "odds": 14.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101678",
+      "horse_name": "リバーラ",
+      "score": -0.10210724042656281,
+      "horse_number": 13,
+      "odds": 11.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019100937",
+      "horse_name": "ニシノコニャック",
+      "score": -0.12049674875808229,
+      "horse_number": 10,
+      "odds": 17.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106015",
+      "horse_name": "バグラダス",
+      "score": -0.12312229647204738,
+      "horse_number": 6,
+      "odds": 20.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018103205",
+      "horse_name": "クムシラコ",
+      "score": -0.21092298556685557,
+      "horse_number": 1,
+      "odds": 37.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102079",
+      "horse_name": "サウンドアレグリア",
+      "score": -0.28709036998091986,
+      "horse_number": 16,
+      "odds": 21.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100792",
+      "horse_name": "スコーピオン",
+      "score": -0.35926479259066496,
+      "horse_number": 8,
+      "odds": 24.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102137",
+      "horse_name": "シロン",
+      "score": -0.37305918446870523,
+      "horse_number": 9,
+      "odds": 16.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104613",
+      "horse_name": "タツダイヤモンド",
+      "score": -0.42586430374237716,
+      "horse_number": 2,
+      "odds": 97.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019100450",
+      "horse_name": "ファロロジー",
+      "score": -0.4354557820671251,
+      "horse_number": 7,
+      "odds": 108.7
+    },
+    {
+      "rank": 17,
+      "horse_id": "2021103912",
+      "horse_name": "モデルハント",
+      "score": -0.5741361404475822,
+      "horse_number": 11,
+      "odds": 40.6
+    }
+  ]
+}
