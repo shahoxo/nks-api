@@ -1,0 +1,104 @@
+{
+  "race_id": "202504040412",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-26 16:01",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102745",
+      "horse_name": "ペッパーミル",
+      "score": 0.140278677836794,
+      "horse_number": 10,
+      "odds": 5.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104945",
+      "horse_name": "ポンピエ",
+      "score": 0.04109037772900005,
+      "horse_number": 3,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110001",
+      "horse_name": "シルフズミスチーフ",
+      "score": 0.027633024971365567,
+      "horse_number": 1,
+      "odds": 8.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101077",
+      "horse_name": "ベンダバール",
+      "score": 0.014608834801308798,
+      "horse_number": 2,
+      "odds": 14.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021110081",
+      "horse_name": "リーサムギニー",
+      "score": -0.13381888789706844,
+      "horse_number": 6,
+      "odds": 38.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110088",
+      "horse_name": "オトメナシャチョウ",
+      "score": -0.16597421519748076,
+      "horse_number": 8,
+      "odds": 5.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100329",
+      "horse_name": "テイエムタワードン",
+      "score": -0.27047859921483836,
+      "horse_number": 9,
+      "odds": 15.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019101794",
+      "horse_name": "ヒメカミノイタダキ",
+      "score": -0.33877220705254685,
+      "horse_number": 4,
+      "odds": 30.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021110063",
+      "horse_name": "メイプルギャング",
+      "score": -0.3506753653771105,
+      "horse_number": 11,
+      "odds": 21.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100158",
+      "horse_name": "ダノンモンテローザ",
+      "score": -0.5316622211464835,
+      "horse_number": 7,
+      "odds": 3.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101265",
+      "horse_name": "テンペストヒロイン",
+      "score": -0.5836065190735424,
+      "horse_number": 5,
+      "odds": 12.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101256",
+      "horse_name": "クラウングスタフ",
+      "score": -0.663154355080354,
+      "horse_number": 12,
+      "odds": 42.2
+    }
+  ]
+}

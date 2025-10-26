@@ -1,0 +1,152 @@
+{
+  "race_id": "202508030911",
+  "race_name": "菊花賞",
+  "race_time": "2025-10-26 15:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105099",
+      "horse_name": "エリキング",
+      "score": 0.42034056132281095,
+      "horse_number": 15,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104685",
+      "horse_name": "エネルジコ",
+      "score": 0.4065540877095572,
+      "horse_number": 9,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104615",
+      "horse_name": "アマキヒ",
+      "score": 0.25564729450986406,
+      "horse_number": 2,
+      "odds": 37.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104736",
+      "horse_name": "ゲルチュタール",
+      "score": 0.2538100152025192,
+      "horse_number": 12,
+      "odds": 9.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104902",
+      "horse_name": "マイユニバース",
+      "score": 0.24354687991677487,
+      "horse_number": 11,
+      "odds": 8.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105466",
+      "horse_name": "レッドバンデ",
+      "score": 0.22721798551357902,
+      "horse_number": 18,
+      "odds": 18.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104714",
+      "horse_name": "ショウヘイ",
+      "score": 0.21173079145966517,
+      "horse_number": 7,
+      "odds": 7.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022107282",
+      "horse_name": "レクスノヴァス",
+      "score": 0.177751099553167,
+      "horse_number": 8,
+      "odds": 20.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106611",
+      "horse_name": "ヤマニンブークリエ",
+      "score": 0.17741939846800509,
+      "horse_number": 4,
+      "odds": 14.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104614",
+      "horse_name": "エキサイトバイオ",
+      "score": 0.14117022530387244,
+      "horse_number": 14,
+      "odds": 65.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105109",
+      "horse_name": "ミラージュナイト",
+      "score": 0.12665040413933196,
+      "horse_number": 6,
+      "odds": 21.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103995",
+      "horse_name": "ジョバンニ",
+      "score": 0.1043589735611791,
+      "horse_number": 5,
+      "odds": 12.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101193",
+      "horse_name": "ジーティーアダマン",
+      "score": 0.061824215596297735,
+      "horse_number": 10,
+      "odds": 85.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105827",
+      "horse_name": "アロンディ",
+      "score": 0.04699024465678301,
+      "horse_number": 13,
+      "odds": 138.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104733",
+      "horse_name": "コーチェラバレー",
+      "score": -0.0013999796544325671,
+      "horse_number": 1,
+      "odds": 116.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103310",
+      "horse_name": "レイヤードレッド",
+      "score": -0.004740196453408112,
+      "horse_number": 17,
+      "odds": 184.3
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022105580",
+      "horse_name": "ライトトラック",
+      "score": -0.04267755448990702,
+      "horse_number": 3,
+      "odds": 46.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022103406",
+      "horse_name": "ラーシャローム",
+      "score": -0.11777258974727811,
+      "horse_number": 16,
+      "odds": 132.7
+    }
+  ]
+}

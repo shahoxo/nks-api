@@ -1,0 +1,136 @@
+{
+  "race_id": "202505040912",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-26 16:10",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105688",
+      "horse_name": "セブンマイスター",
+      "score": 0.21915659841267013,
+      "horse_number": 8,
+      "odds": 8.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101905",
+      "horse_name": "キョウエイカンセ",
+      "score": 0.17791283134874908,
+      "horse_number": 7,
+      "odds": 12.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102260",
+      "horse_name": "ジェシーテソーロ",
+      "score": 0.07992037570252886,
+      "horse_number": 1,
+      "odds": 14.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104976",
+      "horse_name": "エヌマエリシュ",
+      "score": 0.03854417098414763,
+      "horse_number": 16,
+      "odds": 16.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105962",
+      "horse_name": "エドワードバローズ",
+      "score": -0.016849056016215135,
+      "horse_number": 10,
+      "odds": 9.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110117",
+      "horse_name": "チュウワチーフ",
+      "score": -0.028642293793950314,
+      "horse_number": 5,
+      "odds": 4.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101195",
+      "horse_name": "コーリンカルベラ",
+      "score": -0.08055307768787008,
+      "horse_number": 14,
+      "odds": 20.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103129",
+      "horse_name": "マリンバンカー",
+      "score": -0.11373584450760185,
+      "horse_number": 15,
+      "odds": 19.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100182",
+      "horse_name": "ティアップドライブ",
+      "score": -0.2096960753240385,
+      "horse_number": 11,
+      "odds": 35.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105321",
+      "horse_name": "ハウリングウィンド",
+      "score": -0.22627442680986012,
+      "horse_number": 4,
+      "odds": 14.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105694",
+      "horse_name": "オリーブグリーン",
+      "score": -0.42286599625509536,
+      "horse_number": 2,
+      "odds": 6.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100582",
+      "horse_name": "プルシャプラ",
+      "score": -0.4298339924273953,
+      "horse_number": 12,
+      "odds": 35.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103051",
+      "horse_name": "グアラニア",
+      "score": -0.4714754886179592,
+      "horse_number": 13,
+      "odds": 14.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103636",
+      "horse_name": "キチロクキャップ",
+      "score": -0.5190892230528099,
+      "horse_number": 9,
+      "odds": 50.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105824",
+      "horse_name": "フィーチャリング",
+      "score": -0.5223693359466597,
+      "horse_number": 6,
+      "odds": 10.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102732",
+      "horse_name": "ユイノオールイン",
+      "score": -0.5974200733756314,
+      "horse_number": 3,
+      "odds": 57.0
+    }
+  ]
+}
