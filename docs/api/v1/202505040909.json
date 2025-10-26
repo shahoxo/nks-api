@@ -1,0 +1,112 @@
+{
+  "race_id": "202505040909",
+  "race_name": "三鷹特別",
+  "race_time": "2025-10-26 14:15",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105554",
+      "horse_name": "ゼロスネーク",
+      "score": 0.19981091829491732,
+      "horse_number": 7,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103809",
+      "horse_name": "マッスルバック",
+      "score": 0.0056235201563042585,
+      "horse_number": 8,
+      "odds": 24.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106328",
+      "horse_name": "クインズデネブ",
+      "score": -0.0060543636401691765,
+      "horse_number": 11,
+      "odds": 7.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104514",
+      "horse_name": "ハリウッドブルース",
+      "score": -0.028075912543725587,
+      "horse_number": 10,
+      "odds": 7.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103744",
+      "horse_name": "マンウォル",
+      "score": -0.029743456779154857,
+      "horse_number": 2,
+      "odds": 14.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102982",
+      "horse_name": "ベルダイナフェロー",
+      "score": -0.07053679007338295,
+      "horse_number": 5,
+      "odds": 6.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101023",
+      "horse_name": "アイファーバトル",
+      "score": -0.15783364811783632,
+      "horse_number": 12,
+      "odds": 19.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101764",
+      "horse_name": "トーホウキザン",
+      "score": -0.29717548957948886,
+      "horse_number": 3,
+      "odds": 41.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105844",
+      "horse_name": "タイヨウフレア",
+      "score": -0.30200007027689013,
+      "horse_number": 1,
+      "odds": 9.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102409",
+      "horse_name": "ホレーショ",
+      "score": -0.33599582231064307,
+      "horse_number": 6,
+      "odds": 14.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102360",
+      "horse_name": "クリノグローリー",
+      "score": -0.46487265377782916,
+      "horse_number": 13,
+      "odds": 9.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104504",
+      "horse_name": "ベント",
+      "score": -0.5111181334234484,
+      "horse_number": 4,
+      "odds": 21.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101412",
+      "horse_name": "パープルナイト",
+      "score": -0.5945546677764488,
+      "horse_number": 9,
+      "odds": 10.8
+    }
+  ]
+}

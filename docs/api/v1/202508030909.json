@@ -1,0 +1,72 @@
+{
+  "race_id": "202508030909",
+  "race_name": "萩S",
+  "race_time": "2025-10-26 14:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104996",
+      "horse_name": "キッコベッロ",
+      "score": 0.4451649262447098,
+      "horse_number": 2,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107288",
+      "horse_name": "オルネーロ",
+      "score": 0.4184452862587195,
+      "horse_number": 6,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100553",
+      "horse_name": "カレントゥルーシー",
+      "score": 0.40761711607338535,
+      "horse_number": 8,
+      "odds": 12.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107278",
+      "horse_name": "バドリナート",
+      "score": 0.33620616760752986,
+      "horse_number": 5,
+      "odds": 4.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100504",
+      "horse_name": "クールデイトナ",
+      "score": 0.3335033907423917,
+      "horse_number": 7,
+      "odds": 17.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100521",
+      "horse_name": "ディーリライズ",
+      "score": 0.2024186140343359,
+      "horse_number": 4,
+      "odds": 23.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100772",
+      "horse_name": "ストームサンダー",
+      "score": 0.09166080753779172,
+      "horse_number": 1,
+      "odds": 29.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106169",
+      "horse_name": "セイカンサンラン",
+      "score": -0.7560238565797833,
+      "horse_number": 3,
+      "odds": 87.9
+    }
+  ]
+}
