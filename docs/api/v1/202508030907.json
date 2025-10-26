@@ -1,0 +1,104 @@
+{
+  "race_id": "202508030907",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-26 13:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104788",
+      "horse_name": "ジュルナール",
+      "score": 0.3703804529794176,
+      "horse_number": 6,
+      "odds": 2.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107317",
+      "horse_name": "カルミアクラウン",
+      "score": 0.20669570935531592,
+      "horse_number": 9,
+      "odds": 9.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105053",
+      "horse_name": "スルーザナイト",
+      "score": 0.17252358489703348,
+      "horse_number": 1,
+      "odds": 9.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100439",
+      "horse_name": "ハギノコラソン",
+      "score": 0.08820144881162044,
+      "horse_number": 8,
+      "odds": 8.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101399",
+      "horse_name": "ルージュミステリオ",
+      "score": 0.013172278362548251,
+      "horse_number": 3,
+      "odds": 13.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105385",
+      "horse_name": "ステアハート",
+      "score": -0.14111018667900313,
+      "horse_number": 7,
+      "odds": 4.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103610",
+      "horse_name": "オースミライト",
+      "score": -0.28326416124055576,
+      "horse_number": 10,
+      "odds": 119.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105343",
+      "horse_name": "デルマサクラサク",
+      "score": -0.41511180425034755,
+      "horse_number": 5,
+      "odds": 49.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100604",
+      "horse_name": "ナムラルッコラ",
+      "score": -0.4722938472433872,
+      "horse_number": 12,
+      "odds": 15.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103841",
+      "horse_name": "ニホンピロマリンバ",
+      "score": -0.5192707342309725,
+      "horse_number": 2,
+      "odds": 55.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102986",
+      "horse_name": "シゲルオトヒメ",
+      "score": -0.5263802543611438,
+      "horse_number": 11,
+      "odds": 45.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102845",
+      "horse_name": "メイショウマヒロ",
+      "score": -0.5976740519205939,
+      "horse_number": 4,
+      "odds": 89.3
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "race_id": "202504040407",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-10-26 13:00",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100068",
+      "horse_name": "メイショウキンタイ",
+      "score": 0.13842669755233453,
+      "horse_number": 12,
+      "odds": 13.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105984",
+      "horse_name": "ディヴァインスター",
+      "score": 0.13242158893091202,
+      "horse_number": 14,
+      "odds": 7.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105868",
+      "horse_name": "レベルスルール",
+      "score": 0.12160149542458738,
+      "horse_number": 11,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105322",
+      "horse_name": "ホウオウレイヴン",
+      "score": 0.12084967205268184,
+      "horse_number": 7,
+      "odds": 5.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110125",
+      "horse_name": "ヤエギリ",
+      "score": 0.11661680466271189,
+      "horse_number": 1,
+      "odds": 6.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106829",
+      "horse_name": "コスモレオナルド",
+      "score": 0.07791044015879467,
+      "horse_number": 4,
+      "odds": 13.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106098",
+      "horse_name": "イサムダイヤモンド",
+      "score": -0.044767205212205056,
+      "horse_number": 15,
+      "odds": 20.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106792",
+      "horse_name": "コスモアチーブ",
+      "score": -0.07460155933950424,
+      "horse_number": 5,
+      "odds": 20.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105399",
+      "horse_name": "ダノンジャイアン",
+      "score": -0.09812989254707213,
+      "horse_number": 2,
+      "odds": 17.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104860",
+      "horse_name": "ウールデュボヌール",
+      "score": -0.2740431625760909,
+      "horse_number": 10,
+      "odds": 24.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100094",
+      "horse_name": "スワローサプライズ",
+      "score": -0.3564178878742385,
+      "horse_number": 6,
+      "odds": 5.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106561",
+      "horse_name": "コイヌール",
+      "score": -0.3999221942001956,
+      "horse_number": 9,
+      "odds": 34.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103263",
+      "horse_name": "メイショウアゴナス",
+      "score": -0.43966371351371203,
+      "horse_number": 3,
+      "odds": 54.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102283",
+      "horse_name": "トーマステソーロ",
+      "score": -0.5125572335768203,
+      "horse_number": 13,
+      "odds": 42.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101029",
+      "horse_name": "アスクメークシェア",
+      "score": -0.5445192997890923,
+      "horse_number": 8,
+      "odds": 20.9
+    }
+  ]
+}
