@@ -1,0 +1,104 @@
+{
+  "race_id": "202508031002",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-01 10:35",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107235",
+      "horse_name": "ハヤテノオジョー",
+      "score": 0.05307584619650803,
+      "horse_number": 7,
+      "odds": 7.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102720",
+      "horse_name": "ララクレアドルーン",
+      "score": -0.09789157986945843,
+      "horse_number": 2,
+      "odds": 4.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107269",
+      "horse_name": "ムーンリットアイル",
+      "score": -0.1023432728705356,
+      "horse_number": 11,
+      "odds": 3.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103218",
+      "horse_name": "グラスゴー",
+      "score": -0.10876341736384372,
+      "horse_number": 12,
+      "odds": 8.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104867",
+      "horse_name": "マティンデ",
+      "score": -0.23158251837311594,
+      "horse_number": 6,
+      "odds": 5.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103763",
+      "horse_name": "レガリアーナ",
+      "score": -0.2566542396103167,
+      "horse_number": 3,
+      "odds": 9.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103319",
+      "horse_name": "チャナッカレ",
+      "score": -0.39298049333136564,
+      "horse_number": 8,
+      "odds": 67.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104011",
+      "horse_name": "トモジャプレジール",
+      "score": -0.5200973728016403,
+      "horse_number": 10,
+      "odds": 10.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106105",
+      "horse_name": "ユナダイヤ",
+      "score": -0.5381427976869692,
+      "horse_number": 4,
+      "odds": 63.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107517",
+      "horse_name": "ジャスパーメルチェ",
+      "score": -0.554609210783717,
+      "horse_number": 9,
+      "odds": 15.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106092",
+      "horse_name": "キシュウサラトイロ",
+      "score": -0.5624665727050773,
+      "horse_number": 5,
+      "odds": 66.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103042",
+      "horse_name": "グリッタードール",
+      "score": -0.6079403941719252,
+      "horse_number": 1,
+      "odds": 69.3
+    }
+  ]
+}
