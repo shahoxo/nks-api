@@ -1,0 +1,136 @@
+{
+  "race_id": "202505041011",
+  "race_name": "ペルセウスS",
+  "race_time": "2025-11-01 15:30",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105661",
+      "horse_name": "レガーロデルシエロ",
+      "score": 0.357484572315972,
+      "horse_number": 10,
+      "odds": 8.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110060",
+      "horse_name": "ソニックスター",
+      "score": 0.09798579313121557,
+      "horse_number": 4,
+      "odds": 29.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105557",
+      "horse_name": "トロヴァトーレ",
+      "score": 0.06693086420836569,
+      "horse_number": 15,
+      "odds": 7.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110128",
+      "horse_name": "アッシュルバニパル",
+      "score": -0.00013788599080596757,
+      "horse_number": 16,
+      "odds": 5.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019103879",
+      "horse_name": "バトルクライ",
+      "score": -0.0036510551164557203,
+      "horse_number": 13,
+      "odds": 5.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110140",
+      "horse_name": "ポールセン",
+      "score": -0.016732953474400413,
+      "horse_number": 5,
+      "odds": 11.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102891",
+      "horse_name": "ユティタム",
+      "score": -0.04710401047826549,
+      "horse_number": 12,
+      "odds": 11.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103331",
+      "horse_name": "ジェイパームス",
+      "score": -0.09377378086374889,
+      "horse_number": 8,
+      "odds": 12.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019102869",
+      "horse_name": "カズプレスト",
+      "score": -0.11205113939778268,
+      "horse_number": 1,
+      "odds": 65.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100301",
+      "horse_name": "サルヴァトーレ",
+      "score": -0.12120948494884547,
+      "horse_number": 3,
+      "odds": 32.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104896",
+      "horse_name": "カラマティアノス",
+      "score": -0.127070721003582,
+      "horse_number": 7,
+      "odds": 15.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106873",
+      "horse_name": "オウギノカナメ",
+      "score": -0.17861307185177158,
+      "horse_number": 2,
+      "odds": 10.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102095",
+      "horse_name": "ペプチドソレイユ",
+      "score": -0.2126600940307144,
+      "horse_number": 6,
+      "odds": 26.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019105400",
+      "horse_name": "アスクドゥラメンテ",
+      "score": -0.3082911653551257,
+      "horse_number": 14,
+      "odds": 76.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103148",
+      "horse_name": "ショウナンライシン",
+      "score": -0.35630796050393365,
+      "horse_number": 9,
+      "odds": 25.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105545",
+      "horse_name": "アルムラトゥール",
+      "score": -0.4065795697173437,
+      "horse_number": 11,
+      "odds": 24.6
+    }
+  ]
+}
