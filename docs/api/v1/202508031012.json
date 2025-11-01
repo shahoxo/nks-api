@@ -1,0 +1,128 @@
+{
+  "race_id": "202508031012",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-01 16:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104985",
+      "horse_name": "シャイフ",
+      "score": 0.3953848700496466,
+      "horse_number": 11,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100382",
+      "horse_name": "ビップディラン",
+      "score": 0.31363774015636753,
+      "horse_number": 9,
+      "odds": 17.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104647",
+      "horse_name": "エーデルヴェーグ",
+      "score": 0.27409838484347426,
+      "horse_number": 10,
+      "odds": 1.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101650",
+      "horse_name": "サリュエ",
+      "score": 0.18931156740241467,
+      "horse_number": 8,
+      "odds": 14.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105334",
+      "horse_name": "ダノンブランニュー",
+      "score": 0.053394940852321916,
+      "horse_number": 12,
+      "odds": 22.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100381",
+      "horse_name": "オリバナム",
+      "score": -0.009998887240331506,
+      "horse_number": 15,
+      "odds": 21.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103292",
+      "horse_name": "ハレアカラフラ",
+      "score": -0.08153526888402636,
+      "horse_number": 2,
+      "odds": 40.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105765",
+      "horse_name": "ミッキースターダム",
+      "score": -0.08809264389551867,
+      "horse_number": 1,
+      "odds": 11.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101304",
+      "horse_name": "サンウリエル",
+      "score": -0.17324069748828305,
+      "horse_number": 14,
+      "odds": 60.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101562",
+      "horse_name": "ダイシンラー",
+      "score": -0.1857505765703891,
+      "horse_number": 13,
+      "odds": 19.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022107012",
+      "horse_name": "ニシノイツキムスメ",
+      "score": -0.21276439979349548,
+      "horse_number": 6,
+      "odds": 41.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106647",
+      "horse_name": "テイクイットオール",
+      "score": -0.22564243781564156,
+      "horse_number": 4,
+      "odds": 68.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022107342",
+      "horse_name": "ザラタン",
+      "score": -0.2775928408010451,
+      "horse_number": 7,
+      "odds": 28.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104148",
+      "horse_name": "オーサムピクチャ",
+      "score": -0.357586390537941,
+      "horse_number": 5,
+      "odds": 125.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104297",
+      "horse_name": "アトラクトラン",
+      "score": -0.5945546677764488,
+      "horse_number": 3,
+      "odds": 133.3
+    }
+  ]
+}
