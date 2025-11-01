@@ -1,0 +1,72 @@
+{
+  "race_id": "202505041009",
+  "race_name": "本栖湖特別",
+  "race_time": "2025-11-01 14:15",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105910",
+      "horse_name": "ローザサンリヴァル",
+      "score": 0.5012761816902382,
+      "horse_number": 8,
+      "odds": 7.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104925",
+      "horse_name": "トリプルコーク",
+      "score": 0.453635360795809,
+      "horse_number": 5,
+      "odds": 1.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103208",
+      "horse_name": "ジュンツバメガエシ",
+      "score": 0.29424523807507247,
+      "horse_number": 4,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106830",
+      "horse_name": "サンカシグレ",
+      "score": 0.1693831056863556,
+      "horse_number": 1,
+      "odds": 11.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104845",
+      "horse_name": "ホウオウアートマン",
+      "score": 0.14350128556666236,
+      "horse_number": 6,
+      "odds": 3.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100597",
+      "horse_name": "ズイウンゴサイ",
+      "score": -0.08554874893313748,
+      "horse_number": 2,
+      "odds": 14.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019103827",
+      "horse_name": "オウケンボルト",
+      "score": -0.4197906470810775,
+      "horse_number": 3,
+      "odds": 48.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102281",
+      "horse_name": "バナマンテソーロ",
+      "score": -0.5311741449122349,
+      "horse_number": 7,
+      "odds": 126.0
+    }
+  ]
+}

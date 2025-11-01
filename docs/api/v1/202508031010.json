@@ -1,0 +1,120 @@
+{
+  "race_id": "202508031010",
+  "race_name": "ハロウィンS",
+  "race_time": "2025-11-01 15:05",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102905",
+      "horse_name": "ホルトバージ",
+      "score": 0.21134649140825443,
+      "horse_number": 12,
+      "odds": 11.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105430",
+      "horse_name": "マルチャレアル",
+      "score": 0.20922525684374788,
+      "horse_number": 11,
+      "odds": 4.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101253",
+      "horse_name": "クラウンシエンタ",
+      "score": 0.1479931003956712,
+      "horse_number": 3,
+      "odds": 7.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020110081",
+      "horse_name": "テーオーグランビル",
+      "score": 0.02343250817193296,
+      "horse_number": 5,
+      "odds": 5.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105073",
+      "horse_name": "パカーラン",
+      "score": -0.025365290323171495,
+      "horse_number": 13,
+      "odds": 17.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104131",
+      "horse_name": "ヒロノラメール",
+      "score": -0.049524838935479924,
+      "horse_number": 10,
+      "odds": 5.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018104646",
+      "horse_name": "オンザライン",
+      "score": -0.12929236413503295,
+      "horse_number": 14,
+      "odds": 34.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102317",
+      "horse_name": "サイモンブーケ",
+      "score": -0.19093022233593432,
+      "horse_number": 1,
+      "odds": 67.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100709",
+      "horse_name": "カネトシゴウト",
+      "score": -0.22883572541239475,
+      "horse_number": 2,
+      "odds": 3.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100206",
+      "horse_name": "ニューステソーロ",
+      "score": -0.3044241216856997,
+      "horse_number": 6,
+      "odds": 44.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105627",
+      "horse_name": "クレメダンジュ",
+      "score": -0.34119320157212885,
+      "horse_number": 4,
+      "odds": 30.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019102983",
+      "horse_name": "キュールエフウジン",
+      "score": -0.5551563000727275,
+      "horse_number": 9,
+      "odds": 50.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018103828",
+      "horse_name": "ニホンピロハーバー",
+      "score": -0.5782988413797444,
+      "horse_number": 8,
+      "odds": 104.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019110053",
+      "horse_name": "ジュタロウ",
+      "score": -0.6435674426738079,
+      "horse_number": 7,
+      "odds": 31.1
+    }
+  ]
+}
