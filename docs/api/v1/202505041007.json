@@ -1,0 +1,136 @@
+{
+  "race_id": "202505041007",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-01 13:10",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105258",
+      "horse_name": "ホークライト",
+      "score": 0.3778219323497618,
+      "horse_number": 15,
+      "odds": 5.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104965",
+      "horse_name": "ミラクルダンサー",
+      "score": 0.2309223544006176,
+      "horse_number": 16,
+      "odds": 19.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106199",
+      "horse_name": "タマモトリノ",
+      "score": 0.20453535924336208,
+      "horse_number": 2,
+      "odds": 5.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101450",
+      "horse_name": "ブルージャイアント",
+      "score": 0.11897225514468397,
+      "horse_number": 5,
+      "odds": 9.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101634",
+      "horse_name": "ロングウェイホーム",
+      "score": 0.08619971231789354,
+      "horse_number": 12,
+      "odds": 17.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104378",
+      "horse_name": "ダカラフェスティヴ",
+      "score": 0.02806467877944346,
+      "horse_number": 3,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106359",
+      "horse_name": "ラントレイル",
+      "score": 0.01484020138014512,
+      "horse_number": 14,
+      "odds": 8.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103017",
+      "horse_name": "オウケンシルヴァー",
+      "score": -0.019394283050369252,
+      "horse_number": 4,
+      "odds": 8.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101341",
+      "horse_name": "ムーランブルー",
+      "score": -0.06131273782676145,
+      "horse_number": 8,
+      "odds": 23.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104766",
+      "horse_name": "トレインザマインド",
+      "score": -0.1528658341657638,
+      "horse_number": 7,
+      "odds": 31.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104062",
+      "horse_name": "カージオイド",
+      "score": -0.1897874134663241,
+      "horse_number": 11,
+      "odds": 13.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107021",
+      "horse_name": "ファミーユウルーズ",
+      "score": -0.2504026535119813,
+      "horse_number": 6,
+      "odds": 50.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106099",
+      "horse_name": "ハルノアラシ",
+      "score": -0.4826784698906029,
+      "horse_number": 10,
+      "odds": 20.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101481",
+      "horse_name": "アルデツヨシ",
+      "score": -0.5773477075261569,
+      "horse_number": 1,
+      "odds": 25.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104738",
+      "horse_name": "マシュー",
+      "score": -0.594912897613449,
+      "horse_number": 13,
+      "odds": 23.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020102570",
+      "horse_name": "ディアマイサン",
+      "score": -0.6118079766234411,
+      "horse_number": 9,
+      "odds": 118.7
+    }
+  ]
+}
