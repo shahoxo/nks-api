@@ -1,0 +1,128 @@
+{
+  "race_id": "202508031008",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-01 13:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104448",
+      "horse_name": "アンバードール",
+      "score": 0.26087561234041046,
+      "horse_number": 15,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103262",
+      "horse_name": "メイショウツヨキ",
+      "score": 0.07732901392446215,
+      "horse_number": 3,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100255",
+      "horse_name": "アーロンイメル",
+      "score": 0.04394454089847086,
+      "horse_number": 10,
+      "odds": 5.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102572",
+      "horse_name": "メイショウオオコ",
+      "score": 0.03942033103310355,
+      "horse_number": 8,
+      "odds": 27.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100529",
+      "horse_name": "ハッピーダンチャン",
+      "score": -0.05796635111770185,
+      "horse_number": 5,
+      "odds": 8.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101226",
+      "horse_name": "クリノフィガロ",
+      "score": -0.06132557562499791,
+      "horse_number": 1,
+      "odds": 6.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106521",
+      "horse_name": "キングツェッペリン",
+      "score": -0.10657818553945908,
+      "horse_number": 14,
+      "odds": 17.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105276",
+      "horse_name": "バロンドール",
+      "score": -0.13607022316858314,
+      "horse_number": 13,
+      "odds": 11.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105878",
+      "horse_name": "メイケイロゼッタ",
+      "score": -0.2380178013231817,
+      "horse_number": 12,
+      "odds": 30.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100329",
+      "horse_name": "プルナチャンドラ",
+      "score": -0.262010901021481,
+      "horse_number": 2,
+      "odds": 7.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100681",
+      "horse_name": "ジーニアスバローズ",
+      "score": -0.3264668662554038,
+      "horse_number": 4,
+      "odds": 48.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101554",
+      "horse_name": "アルベリック",
+      "score": -0.3920025687077546,
+      "horse_number": 7,
+      "odds": 46.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100631",
+      "horse_name": "ブレイゼスト",
+      "score": -0.42349280024683544,
+      "horse_number": 9,
+      "odds": 24.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019106148",
+      "horse_name": "シンリミテス",
+      "score": -0.5786341531639164,
+      "horse_number": 6,
+      "odds": 32.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018100961",
+      "horse_name": "スカイドゥエラー",
+      "score": -0.6143151523856235,
+      "horse_number": 11,
+      "odds": 78.5
+    }
+  ]
+}
