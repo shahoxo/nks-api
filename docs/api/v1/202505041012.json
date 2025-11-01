@@ -1,0 +1,128 @@
+{
+  "race_id": "202505041012",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-01 16:10",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105064",
+      "horse_name": "マリアイリダータ",
+      "score": 0.4123930217983454,
+      "horse_number": 8,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105670",
+      "horse_name": "ベストミーエヴァー",
+      "score": 0.2746338350460691,
+      "horse_number": 7,
+      "odds": 2.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105710",
+      "horse_name": "ジーティーダーリン",
+      "score": 0.07400017861156054,
+      "horse_number": 14,
+      "odds": 6.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104929",
+      "horse_name": "バニーラビット",
+      "score": 0.06334228852637741,
+      "horse_number": 4,
+      "odds": 35.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105584",
+      "horse_name": "ツーネサーン",
+      "score": 0.02372636592057862,
+      "horse_number": 2,
+      "odds": 6.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103160",
+      "horse_name": "ケイツークローン",
+      "score": 0.010795022056436496,
+      "horse_number": 11,
+      "odds": 29.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104786",
+      "horse_name": "サトノラポール",
+      "score": 0.0030783054681855493,
+      "horse_number": 1,
+      "odds": 25.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104179",
+      "horse_name": "ツインピークス",
+      "score": -0.12800377431859963,
+      "horse_number": 5,
+      "odds": 20.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104592",
+      "horse_name": "スモーキーゴッド",
+      "score": -0.1758696013883388,
+      "horse_number": 13,
+      "odds": 18.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106846",
+      "horse_name": "ゴールドジェスター",
+      "score": -0.20521929140536666,
+      "horse_number": 3,
+      "odds": 88.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104986",
+      "horse_name": "ロジウムエポック",
+      "score": -0.3006873790451928,
+      "horse_number": 12,
+      "odds": 77.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103150",
+      "horse_name": "タルタロス",
+      "score": -0.3989388442602021,
+      "horse_number": 10,
+      "odds": 83.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104533",
+      "horse_name": "チョングク",
+      "score": -0.5028104131139183,
+      "horse_number": 6,
+      "odds": 72.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101677",
+      "horse_name": "エーティータキオン",
+      "score": -0.532202430989669,
+      "horse_number": 15,
+      "odds": 161.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106654",
+      "horse_name": "ラブリーウィザード",
+      "score": -0.7212483613895885,
+      "horse_number": 9,
+      "odds": 110.4
+    }
+  ]
+}

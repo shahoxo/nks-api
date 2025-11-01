@@ -1,0 +1,104 @@
+{
+  "race_id": "202508031011",
+  "race_name": "ファンタジー",
+  "race_time": "2025-11-01 15:45",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107008",
+      "horse_name": "ブラックチャリス",
+      "score": 0.2123203599037005,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106477",
+      "horse_name": "ベレーバスク",
+      "score": 0.20788529955647603,
+      "horse_number": 6,
+      "odds": 9.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105035",
+      "horse_name": "メイショウハッケイ",
+      "score": 0.17589753308507908,
+      "horse_number": 7,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107265",
+      "horse_name": "フェスティバルヒル",
+      "score": 0.15158051539359602,
+      "horse_number": 2,
+      "odds": 2.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106375",
+      "horse_name": "メイプルハッピー",
+      "score": 0.11761247540026293,
+      "horse_number": 9,
+      "odds": 8.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103247",
+      "horse_name": "フルールジェンヌ",
+      "score": 0.0808624534288239,
+      "horse_number": 10,
+      "odds": 24.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023109164",
+      "horse_name": "アンヘリータス",
+      "score": 0.030011938559820768,
+      "horse_number": 11,
+      "odds": 35.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103980",
+      "horse_name": "ポペット",
+      "score": 0.012010214319858138,
+      "horse_number": 1,
+      "odds": 6.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105347",
+      "horse_name": "ショウナンカリス",
+      "score": -0.002949532054422604,
+      "horse_number": 8,
+      "odds": 40.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105203",
+      "horse_name": "マーブルパレス",
+      "score": -0.0053510653248189845,
+      "horse_number": 4,
+      "odds": 16.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101847",
+      "horse_name": "ナオミライトニング",
+      "score": -0.024463237251149163,
+      "horse_number": 3,
+      "odds": 54.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105668",
+      "horse_name": "シラヌイ",
+      "score": -0.04168751514464613,
+      "horse_number": 12,
+      "odds": 31.9
+    }
+  ]
+}
