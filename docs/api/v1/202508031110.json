@@ -1,0 +1,112 @@
+{
+  "race_id": "202508031110",
+  "race_name": "古都S",
+  "race_time": "2025-11-02 14:45",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100148",
+      "horse_name": "ロードオールライト",
+      "score": 0.17723291233933453,
+      "horse_number": 4,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105433",
+      "horse_name": "アクアヴァーナル",
+      "score": 0.16304454669589974,
+      "horse_number": 13,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020100593",
+      "horse_name": "ヴォランテ",
+      "score": -0.11222861391113752,
+      "horse_number": 2,
+      "odds": 9.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105455",
+      "horse_name": "アルマーザアミール",
+      "score": -0.12417406058778235,
+      "horse_number": 12,
+      "odds": 50.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103713",
+      "horse_name": "タイセイフェリーク",
+      "score": -0.16164622245777666,
+      "horse_number": 3,
+      "odds": 6.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020107121",
+      "horse_name": "イケイケドンドン",
+      "score": -0.24504331584673752,
+      "horse_number": 8,
+      "odds": 36.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105656",
+      "horse_name": "フルール",
+      "score": -0.2617834605581946,
+      "horse_number": 9,
+      "odds": 6.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105559",
+      "horse_name": "ギャンブルルーム",
+      "score": -0.3189281163735215,
+      "horse_number": 1,
+      "odds": 10.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018102576",
+      "horse_name": "ロードプレジール",
+      "score": -0.35257550170905516,
+      "horse_number": 6,
+      "odds": 11.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103111",
+      "horse_name": "アスターブジエ",
+      "score": -0.40557949346735456,
+      "horse_number": 5,
+      "odds": 13.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105811",
+      "horse_name": "アーマルコライト",
+      "score": -0.43948249278778617,
+      "horse_number": 7,
+      "odds": 45.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103920",
+      "horse_name": "フェミナフォルテ",
+      "score": -0.4923177457723914,
+      "horse_number": 11,
+      "odds": 12.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2017101436",
+      "horse_name": "ウインエアフォルク",
+      "score": -0.7344997899121097,
+      "horse_number": 10,
+      "odds": 26.4
+    }
+  ]
+}
