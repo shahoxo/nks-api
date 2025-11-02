@@ -1,0 +1,128 @@
+{
+  "race_id": "202508031111",
+  "race_name": "まほろばS",
+  "race_time": "2025-11-02 15:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020101967",
+      "horse_name": "ダイシンヤマト",
+      "score": 0.26143257111484247,
+      "horse_number": 2,
+      "odds": 7.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106550",
+      "horse_name": "タガノエルピーダ",
+      "score": 0.21773346438625502,
+      "horse_number": 9,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103102",
+      "horse_name": "セオ",
+      "score": 0.2069869134202038,
+      "horse_number": 15,
+      "odds": 7.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105454",
+      "horse_name": "ブエナオンダ",
+      "score": 0.20335739638078726,
+      "horse_number": 6,
+      "odds": 6.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2017105194",
+      "horse_name": "ラインベック",
+      "score": 0.17685923998210346,
+      "horse_number": 7,
+      "odds": 23.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110114",
+      "horse_name": "シンフォーエバー",
+      "score": 0.1410919303616243,
+      "horse_number": 3,
+      "odds": 8.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101784",
+      "horse_name": "ラケマーダ",
+      "score": 0.1345991136298314,
+      "horse_number": 8,
+      "odds": 11.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104564",
+      "horse_name": "ニホンピロキーフ",
+      "score": 0.02096514148750099,
+      "horse_number": 5,
+      "odds": 6.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102660",
+      "horse_name": "シングザットソング",
+      "score": -0.03436407743248492,
+      "horse_number": 1,
+      "odds": 13.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2017110138",
+      "horse_name": "エアファンディタ",
+      "score": -0.07975260563984098,
+      "horse_number": 10,
+      "odds": 20.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018106318",
+      "horse_name": "メイショウシンタケ",
+      "score": -0.08875632920062694,
+      "horse_number": 12,
+      "odds": 34.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103276",
+      "horse_name": "バルサムノート",
+      "score": -0.21243745619215257,
+      "horse_number": 4,
+      "odds": 57.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103304",
+      "horse_name": "ダンツエラン",
+      "score": -0.3899009181146966,
+      "horse_number": 14,
+      "odds": 20.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102564",
+      "horse_name": "ムーンプローブ",
+      "score": -0.3960070777197978,
+      "horse_number": 11,
+      "odds": 71.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104572",
+      "horse_name": "ペイシャフラワー",
+      "score": -0.536145303459624,
+      "horse_number": 13,
+      "odds": 39.5
+    }
+  ]
+}
