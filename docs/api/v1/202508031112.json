@@ -1,0 +1,104 @@
+{
+  "race_id": "202508031112",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-02 16:05",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103146",
+      "horse_name": "カンシン",
+      "score": 0.19455218992077855,
+      "horse_number": 9,
+      "odds": 7.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101422",
+      "horse_name": "マテンロウブラボー",
+      "score": 0.1431268255735012,
+      "horse_number": 3,
+      "odds": 9.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103977",
+      "horse_name": "リチャードバローズ",
+      "score": 0.11216413556972885,
+      "horse_number": 11,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104988",
+      "horse_name": "ロンドボス",
+      "score": 0.06518192944564306,
+      "horse_number": 4,
+      "odds": 5.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105299",
+      "horse_name": "リアライズ",
+      "score": 0.027331915626437657,
+      "horse_number": 12,
+      "odds": 11.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018105047",
+      "horse_name": "ホウオウサンデー",
+      "score": -0.02347201185036621,
+      "horse_number": 7,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106519",
+      "horse_name": "モズアンタレス",
+      "score": -0.07386851065545141,
+      "horse_number": 5,
+      "odds": 36.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105431",
+      "horse_name": "ネーブルオレンジ",
+      "score": -0.07893178002407955,
+      "horse_number": 8,
+      "odds": 11.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105833",
+      "horse_name": "カリーシ",
+      "score": -0.0810914892132268,
+      "horse_number": 2,
+      "odds": 11.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018103368",
+      "horse_name": "メイショウカイト",
+      "score": -0.33899992991554767,
+      "horse_number": 6,
+      "odds": 4.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101808",
+      "horse_name": "ハワイアンタイム",
+      "score": -0.5814417177400224,
+      "horse_number": 10,
+      "odds": 19.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101386",
+      "horse_name": "コールミーメイビー",
+      "score": -0.7344997899121097,
+      "horse_number": 1,
+      "odds": 112.1
+    }
+  ]
+}
