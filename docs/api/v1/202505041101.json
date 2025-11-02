@@ -1,0 +1,104 @@
+{
+  "race_id": "202505041101",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-02 10:00",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106986",
+      "horse_name": "グランマエストロ",
+      "score": 0.3364765998193392,
+      "horse_number": 9,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100953",
+      "horse_name": "グランセレスト",
+      "score": 0.12371475761544849,
+      "horse_number": 10,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100734",
+      "horse_name": "ウインドオブヘヴン",
+      "score": 0.09439803270738,
+      "horse_number": 2,
+      "odds": 11.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107206",
+      "horse_name": "オーシャンステラ",
+      "score": -0.015463399146686551,
+      "horse_number": 1,
+      "odds": 8.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102439",
+      "horse_name": "サザンテイオー",
+      "score": -0.03459973213967747,
+      "horse_number": 7,
+      "odds": 4.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106656",
+      "horse_name": "ニシノカルラ",
+      "score": -0.3548132836907797,
+      "horse_number": 3,
+      "odds": 34.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100794",
+      "horse_name": "マリノリュミエール",
+      "score": -0.5463673682050135,
+      "horse_number": 11,
+      "odds": 30.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103569",
+      "horse_name": "ツキノマバタキ",
+      "score": -0.5551289107622235,
+      "horse_number": 6,
+      "odds": 55.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106741",
+      "horse_name": "ジェイドテソーロ",
+      "score": -0.587318896670044,
+      "horse_number": 8,
+      "odds": 62.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100031",
+      "horse_name": "シュガームーン",
+      "score": -0.706985290822235,
+      "horse_number": 12,
+      "odds": 151.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106448",
+      "horse_name": "マイネルメテオーラ",
+      "score": -0.7212483613895885,
+      "horse_number": 4,
+      "odds": 57.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103270",
+      "horse_name": "ストロボエッジ",
+      "score": -0.745636725054484,
+      "horse_number": 5,
+      "odds": 187.5
+    }
+  ]
+}

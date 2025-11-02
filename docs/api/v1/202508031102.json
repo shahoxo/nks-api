@@ -1,0 +1,64 @@
+{
+  "race_id": "202508031102",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-02 10:15",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100288",
+      "horse_name": "ロングホリデー",
+      "score": 0.3413336399159548,
+      "horse_number": 4,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103737",
+      "horse_name": "ワンダフルボンド",
+      "score": 0.3100136638588765,
+      "horse_number": 3,
+      "odds": 1.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102923",
+      "horse_name": "インフィオラータ",
+      "score": 0.22375021696369918,
+      "horse_number": 1,
+      "odds": 4.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104675",
+      "horse_name": "ロゼア",
+      "score": 0.1365038873906733,
+      "horse_number": 2,
+      "odds": 16.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104315",
+      "horse_name": "タガノアルトゥーラ",
+      "score": 0.004891612693371745,
+      "horse_number": 7,
+      "odds": 14.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104257",
+      "horse_name": "ダイシンヨーク",
+      "score": -0.5028910457725329,
+      "horse_number": 6,
+      "odds": 47.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106942",
+      "horse_name": "オドワローズ",
+      "score": -0.5300080494461484,
+      "horse_number": 5,
+      "odds": 25.1
+    }
+  ]
+}

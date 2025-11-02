@@ -1,0 +1,120 @@
+{
+  "race_id": "202505041102",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-02 10:30",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105317",
+      "horse_name": "ウィングブルー",
+      "score": 0.48226024277132723,
+      "horse_number": 13,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103365",
+      "horse_name": "ヘリテージブルーム",
+      "score": 0.22967344551527114,
+      "horse_number": 14,
+      "odds": 1.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102399",
+      "horse_name": "アクロスメモリア",
+      "score": 0.17554873043193803,
+      "horse_number": 7,
+      "odds": 8.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106085",
+      "horse_name": "ホテルストリート",
+      "score": 0.007697370856107989,
+      "horse_number": 12,
+      "odds": 49.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104248",
+      "horse_name": "フォークスアップ",
+      "score": -0.1048712817929864,
+      "horse_number": 3,
+      "odds": 120.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106407",
+      "horse_name": "マイネルテオドロス",
+      "score": -0.12138266558856015,
+      "horse_number": 9,
+      "odds": 17.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105139",
+      "horse_name": "ティブロン",
+      "score": -0.3336972705096255,
+      "horse_number": 11,
+      "odds": 46.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104074",
+      "horse_name": "エクスプレスナイト",
+      "score": -0.5055096620140442,
+      "horse_number": 2,
+      "odds": 105.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106259",
+      "horse_name": "ニシノゲッパク",
+      "score": -0.5345408256050103,
+      "horse_number": 1,
+      "odds": 58.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100461",
+      "horse_name": "イーアンベ",
+      "score": -0.5345408256050103,
+      "horse_number": 10,
+      "odds": 64.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106577",
+      "horse_name": "ユイノカタリベ",
+      "score": -0.5750695508822783,
+      "horse_number": 4,
+      "odds": 145.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103632",
+      "horse_name": "ランニングビーチ",
+      "score": -0.630370253879574,
+      "horse_number": 6,
+      "odds": 65.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101191",
+      "horse_name": "リスペクトライト",
+      "score": -0.6825187597347423,
+      "horse_number": 5,
+      "odds": 276.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101206",
+      "horse_name": "スーパーチャイルド",
+      "score": -0.7560238565797833,
+      "horse_number": 8,
+      "odds": 98.9
+    }
+  ]
+}
