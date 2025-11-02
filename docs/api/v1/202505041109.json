@@ -1,0 +1,88 @@
+{
+  "race_id": "202505041109",
+  "race_name": "国立特別",
+  "race_time": "2025-11-02 14:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110030",
+      "horse_name": "アンパドゥ",
+      "score": 0.5139613958707764,
+      "horse_number": 2,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105590",
+      "horse_name": "ワンモアスマイル",
+      "score": 0.49492773580679766,
+      "horse_number": 3,
+      "odds": 8.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019105497",
+      "horse_name": "アルゲンテウス",
+      "score": 0.3258854764366387,
+      "horse_number": 9,
+      "odds": 12.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106691",
+      "horse_name": "エンペラーズソード",
+      "score": 0.17868529478915146,
+      "horse_number": 8,
+      "odds": 11.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101669",
+      "horse_name": "ストレイトトーカー",
+      "score": 0.16863258719355928,
+      "horse_number": 7,
+      "odds": 15.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022107042",
+      "horse_name": "マテンロウバローズ",
+      "score": 0.15322515366292308,
+      "horse_number": 4,
+      "odds": 5.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104623",
+      "horse_name": "コリカンチャ",
+      "score": 0.12184424448589198,
+      "horse_number": 5,
+      "odds": 15.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102106",
+      "horse_name": "ツルマウカタチ",
+      "score": -0.04974346344399273,
+      "horse_number": 10,
+      "odds": 28.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104761",
+      "horse_name": "ジルバーン",
+      "score": -0.11396613047249243,
+      "horse_number": 1,
+      "odds": 67.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019106700",
+      "horse_name": "ヒロノゴウカイ",
+      "score": -0.5204861020313714,
+      "horse_number": 6,
+      "odds": 164.3
+    }
+  ]
+}
