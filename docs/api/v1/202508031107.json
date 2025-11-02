@@ -1,0 +1,136 @@
+{
+  "race_id": "202508031107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-02 13:05",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021106100",
+      "horse_name": "パフュームセント",
+      "score": 0.31694711451944707,
+      "horse_number": 13,
+      "odds": 7.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105427",
+      "horse_name": "スカイサーベイ",
+      "score": 0.13822734498703157,
+      "horse_number": 4,
+      "odds": 12.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105247",
+      "horse_name": "オメガナビゲーター",
+      "score": 0.132982693894572,
+      "horse_number": 8,
+      "odds": 17.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104556",
+      "horse_name": "リガーレ",
+      "score": 0.05641851224798395,
+      "horse_number": 16,
+      "odds": 6.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104850",
+      "horse_name": "セイキュート",
+      "score": 0.020351751409221908,
+      "horse_number": 7,
+      "odds": 8.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100457",
+      "horse_name": "テレプシコーラ",
+      "score": -0.017607785642089695,
+      "horse_number": 10,
+      "odds": 10.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103280",
+      "horse_name": "バルデラマ",
+      "score": -0.09639306117782201,
+      "horse_number": 3,
+      "odds": 74.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100655",
+      "horse_name": "レーヌマロン",
+      "score": -0.16234811741708424,
+      "horse_number": 2,
+      "odds": 21.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106634",
+      "horse_name": "アンビアンス",
+      "score": -0.16419434466953983,
+      "horse_number": 5,
+      "odds": 10.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022110060",
+      "horse_name": "エリカアンディーヴ",
+      "score": -0.17487411472535166,
+      "horse_number": 1,
+      "odds": 8.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102604",
+      "horse_name": "サンライズバブル",
+      "score": -0.1792162082643637,
+      "horse_number": 9,
+      "odds": 3.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101323",
+      "horse_name": "アットアブラスト",
+      "score": -0.18054425359847948,
+      "horse_number": 11,
+      "odds": 35.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106768",
+      "horse_name": "コスモアミマネラ",
+      "score": -0.41234592866816555,
+      "horse_number": 12,
+      "odds": 96.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022110139",
+      "horse_name": "アスクアットバット",
+      "score": -0.4907527787988252,
+      "horse_number": 6,
+      "odds": 97.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101155",
+      "horse_name": "ピエナオルフェ",
+      "score": -0.5470385785443374,
+      "horse_number": 14,
+      "odds": 132.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103845",
+      "horse_name": "ニホンピロゴルディ",
+      "score": -0.5938962629264705,
+      "horse_number": 15,
+      "odds": 63.2
+    }
+  ]
+}

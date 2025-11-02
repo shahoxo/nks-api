@@ -1,0 +1,136 @@
+{
+  "race_id": "202505041106",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-02 12:50",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100702",
+      "horse_name": "ポッドベル",
+      "score": 0.25609606752217745,
+      "horse_number": 8,
+      "odds": 9.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103235",
+      "horse_name": "カフェブーケット",
+      "score": 0.21570726048967376,
+      "horse_number": 6,
+      "odds": 8.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101660",
+      "horse_name": "アンクエンチャブル",
+      "score": 0.14293244456002424,
+      "horse_number": 7,
+      "odds": 4.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105474",
+      "horse_name": "シャドウキャッスル",
+      "score": 0.09770762391678806,
+      "horse_number": 13,
+      "odds": 9.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105990",
+      "horse_name": "クニノハッピー",
+      "score": 0.09343971247254909,
+      "horse_number": 4,
+      "odds": 4.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105813",
+      "horse_name": "マーゴットレーヴ",
+      "score": 0.015450696572345109,
+      "horse_number": 2,
+      "odds": 14.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103472",
+      "horse_name": "キョウエイスレーヴ",
+      "score": -0.10912557639539541,
+      "horse_number": 5,
+      "odds": 6.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101651",
+      "horse_name": "クリーンエア",
+      "score": -0.19507689918513108,
+      "horse_number": 15,
+      "odds": 13.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105745",
+      "horse_name": "フレイムジョーカー",
+      "score": -0.21240068854270489,
+      "horse_number": 16,
+      "odds": 42.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106066",
+      "horse_name": "メッエフアパラ",
+      "score": -0.27146920927105184,
+      "horse_number": 11,
+      "odds": 23.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018104598",
+      "horse_name": "メレカリキマカ",
+      "score": -0.36406372979395496,
+      "horse_number": 14,
+      "odds": 94.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101278",
+      "horse_name": "クラウンウルル",
+      "score": -0.4122516552443086,
+      "horse_number": 9,
+      "odds": 62.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103577",
+      "horse_name": "リッキースタイル",
+      "score": -0.48724743977666496,
+      "horse_number": 10,
+      "odds": 45.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021107062",
+      "horse_name": "ニシノジーク",
+      "score": -0.5517293837260059,
+      "horse_number": 1,
+      "odds": 48.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019102320",
+      "horse_name": "サイモンカーチス",
+      "score": -0.5662145563411345,
+      "horse_number": 3,
+      "odds": 127.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103558",
+      "horse_name": "プライムブルー",
+      "score": -0.7560238565797833,
+      "horse_number": 12,
+      "odds": 127.3
+    }
+  ]
+}
