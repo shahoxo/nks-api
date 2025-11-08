@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-08 13:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104597",
+      "horse_name": "モンテディアーナ",
+      "score": 0.4496155499464919,
+      "horse_number": 9,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101127",
+      "horse_name": "ルクスデイジー",
+      "score": 0.4438034513682406,
+      "horse_number": 1,
+      "odds": 2.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103943",
+      "horse_name": "クインズセレネ",
+      "score": 0.06941775674068677,
+      "horse_number": 14,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102754",
+      "horse_name": "ランスオブセヘル",
+      "score": 0.03170580000959324,
+      "horse_number": 12,
+      "odds": 8.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020107214",
+      "horse_name": "コーリンラズベリー",
+      "score": -0.030993798693659556,
+      "horse_number": 6,
+      "odds": 20.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101068",
+      "horse_name": "オリージネアリア",
+      "score": -0.17174699453487552,
+      "horse_number": 13,
+      "odds": 15.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100680",
+      "horse_name": "ベレニーチェ",
+      "score": -0.26567478415012413,
+      "horse_number": 7,
+      "odds": 31.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104779",
+      "horse_name": "リトルスカーレット",
+      "score": -0.2793919287879809,
+      "horse_number": 15,
+      "odds": 16.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022107279",
+      "horse_name": "ミトノキャット",
+      "score": -0.31888495022275076,
+      "horse_number": 3,
+      "odds": 66.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103217",
+      "horse_name": "ジョセフィーナ",
+      "score": -0.35967465428479795,
+      "horse_number": 8,
+      "odds": 49.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105920",
+      "horse_name": "ゴーオンパーパス",
+      "score": -0.40498643851031335,
+      "horse_number": 11,
+      "odds": 76.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103193",
+      "horse_name": "メイショウバスク",
+      "score": -0.4617094385688225,
+      "horse_number": 4,
+      "odds": 128.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103550",
+      "horse_name": "キープライジング",
+      "score": -0.48797497016430913,
+      "horse_number": 10,
+      "odds": 40.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103723",
+      "horse_name": "アンリーベイビー",
+      "score": -0.5272300991657247,
+      "horse_number": 2,
+      "odds": 73.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021106942",
+      "horse_name": "レイム",
+      "score": -0.5488449115467254,
+      "horse_number": 16,
+      "odds": 91.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021102303",
+      "horse_name": "カンカール",
+      "score": -0.570473164606404,
+      "horse_number": 5,
+      "odds": 193.7
+    }
+  ]
+}

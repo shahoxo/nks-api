@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030108",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-08 13:40",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020106930",
+      "horse_name": "シャーンゴッセ",
+      "score": 0.16207034674999732,
+      "horse_number": 1,
+      "odds": 10.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100786",
+      "horse_name": "ゲーベル",
+      "score": 0.0706051883725581,
+      "horse_number": 9,
+      "odds": 12.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020100617",
+      "horse_name": "ブリングライト",
+      "score": 0.027236345822876012,
+      "horse_number": 7,
+      "odds": 12.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110111",
+      "horse_name": "ジャスパーソレイユ",
+      "score": 0.014608834801308798,
+      "horse_number": 10,
+      "odds": 9.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100660",
+      "horse_name": "ロードヴァルカン",
+      "score": -0.006099374155974149,
+      "horse_number": 14,
+      "odds": 2.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101624",
+      "horse_name": "キャンドルマス",
+      "score": -0.04366166027334624,
+      "horse_number": 5,
+      "odds": 15.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106312",
+      "horse_name": "キュードス",
+      "score": -0.04548695396039375,
+      "horse_number": 11,
+      "odds": 12.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101607",
+      "horse_name": "イチトゼロノアイダ",
+      "score": -0.05432921092415329,
+      "horse_number": 16,
+      "odds": 15.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100588",
+      "horse_name": "アイアンソリッド",
+      "score": -0.07795377530631249,
+      "horse_number": 12,
+      "odds": 24.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101891",
+      "horse_name": "スパークルジョイ",
+      "score": -0.1736040871337987,
+      "horse_number": 15,
+      "odds": 19.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102550",
+      "horse_name": "メイショウハッブル",
+      "score": -0.2407278110896389,
+      "horse_number": 3,
+      "odds": 50.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103425",
+      "horse_name": "サノノアメリカン",
+      "score": -0.2889353798213574,
+      "horse_number": 4,
+      "odds": 36.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103846",
+      "horse_name": "ショーモッシュ",
+      "score": -0.42852500479382694,
+      "horse_number": 2,
+      "odds": 30.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101597",
+      "horse_name": "サンライズタイソン",
+      "score": -0.5459409651619125,
+      "horse_number": 8,
+      "odds": 57.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106677",
+      "horse_name": "カガバベル",
+      "score": -0.6189430314413443,
+      "horse_number": 6,
+      "odds": 31.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104617",
+      "horse_name": "ブルーリヴァーサル",
+      "score": -0.7344997899121097,
+      "horse_number": 13,
+      "odds": 134.4
+    }
+  ]
+}
