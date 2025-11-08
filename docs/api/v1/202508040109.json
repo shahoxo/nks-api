@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040109",
+  "race_name": "亀岡特別",
+  "race_time": "2025-11-08 14:35",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105963",
+      "horse_name": "ポートデラメール",
+      "score": 0.43562880091606637,
+      "horse_number": 7,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110106",
+      "horse_name": "アメリカンポリス",
+      "score": 0.33979944528077893,
+      "horse_number": 8,
+      "odds": 8.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105808",
+      "horse_name": "トゥロン",
+      "score": 0.31855416926503166,
+      "horse_number": 13,
+      "odds": 17.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105718",
+      "horse_name": "リリーフィールド",
+      "score": 0.22728171514260342,
+      "horse_number": 11,
+      "odds": 4.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103630",
+      "horse_name": "ウルスクローム",
+      "score": 0.20582211459937677,
+      "horse_number": 9,
+      "odds": 4.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018106561",
+      "horse_name": "アルシオーネ",
+      "score": 0.17275196552527036,
+      "horse_number": 16,
+      "odds": 14.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105957",
+      "horse_name": "ダズリングダンス",
+      "score": 0.024309719306150945,
+      "horse_number": 15,
+      "odds": 25.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102633",
+      "horse_name": "フーコサンライズ",
+      "score": -0.01601354671268975,
+      "horse_number": 4,
+      "odds": 32.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105973",
+      "horse_name": "ワイノナオミ",
+      "score": -0.06312983244257336,
+      "horse_number": 14,
+      "odds": 13.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019100871",
+      "horse_name": "ブルーノート",
+      "score": -0.09260873915996826,
+      "horse_number": 5,
+      "odds": 97.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100665",
+      "horse_name": "ジャスパーバローズ",
+      "score": -0.19108923015403897,
+      "horse_number": 3,
+      "odds": 60.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019106368",
+      "horse_name": "サクラトップヒル",
+      "score": -0.23140310038408868,
+      "horse_number": 2,
+      "odds": 110.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021109125",
+      "horse_name": "ブリッツクリーク",
+      "score": -0.3442073821305842,
+      "horse_number": 10,
+      "odds": 52.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103679",
+      "horse_name": "クラップアンドチア",
+      "score": -0.3677248151908461,
+      "horse_number": 12,
+      "odds": 135.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103549",
+      "horse_name": "ホウオウフロイト",
+      "score": -0.5339103102736351,
+      "horse_number": 6,
+      "odds": 74.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104960",
+      "horse_name": "トロピカルヒーロー",
+      "score": -0.5530974180867849,
+      "horse_number": 1,
+      "odds": 167.5
+    }
+  ]
+}

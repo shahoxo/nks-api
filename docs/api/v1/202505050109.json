@@ -1,0 +1,112 @@
+{
+  "race_id": "202505050109",
+  "race_name": "神奈川新聞杯",
+  "race_time": "2025-11-08 14:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102228",
+      "horse_name": "テーオーマルコーニ",
+      "score": 0.21908961531735954,
+      "horse_number": 5,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103115",
+      "horse_name": "キョウキランブ",
+      "score": 0.17530684138518682,
+      "horse_number": 4,
+      "odds": 1.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105495",
+      "horse_name": "マーゴットゲイン",
+      "score": 0.16625722081830793,
+      "horse_number": 8,
+      "odds": 6.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102700",
+      "horse_name": "トゥーザムーン",
+      "score": 0.13403594531472426,
+      "horse_number": 2,
+      "odds": 9.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101305",
+      "horse_name": "サンカルミア",
+      "score": 0.0714711456982269,
+      "horse_number": 7,
+      "odds": 29.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105885",
+      "horse_name": "キャネル",
+      "score": -0.00555696693559354,
+      "horse_number": 3,
+      "odds": 32.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102805",
+      "horse_name": "クロックフォード",
+      "score": -0.04061689826359226,
+      "horse_number": 12,
+      "odds": 22.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102793",
+      "horse_name": "ルーラーリッチ",
+      "score": -0.2528940788461392,
+      "horse_number": 9,
+      "odds": 93.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101067",
+      "horse_name": "ファイアトリック",
+      "score": -0.26500641548701875,
+      "horse_number": 13,
+      "odds": 34.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100409",
+      "horse_name": "エアロソニック",
+      "score": -0.38553342966117954,
+      "horse_number": 10,
+      "odds": 20.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019106573",
+      "horse_name": "ヒルノデプラーツ",
+      "score": -0.4210825147579523,
+      "horse_number": 6,
+      "odds": 101.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102077",
+      "horse_name": "シゲルカミカゼ",
+      "score": -0.5190441658162716,
+      "horse_number": 1,
+      "odds": 58.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103574",
+      "horse_name": "インジケーター",
+      "score": -0.6703572214166967,
+      "horse_number": 11,
+      "odds": 69.2
+    }
+  ]
+}
