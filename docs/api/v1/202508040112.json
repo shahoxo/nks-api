@@ -1,0 +1,120 @@
+{
+  "race_id": "202508040112",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-08 16:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101601",
+      "horse_name": "ニュークレド",
+      "score": 0.3097791466540166,
+      "horse_number": 13,
+      "odds": 9.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100099",
+      "horse_name": "クラウディアイ",
+      "score": 0.26635746286752865,
+      "horse_number": 8,
+      "odds": 2.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103063",
+      "horse_name": "ルージュスティーズ",
+      "score": 0.2536248824944433,
+      "horse_number": 9,
+      "odds": 10.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100626",
+      "horse_name": "フィオレストラーダ",
+      "score": 0.1373975513169094,
+      "horse_number": 5,
+      "odds": 4.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105150",
+      "horse_name": "ラミントン",
+      "score": 0.10300588149490096,
+      "horse_number": 11,
+      "odds": 15.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103520",
+      "horse_name": "デルシエロ",
+      "score": 0.01673994987364792,
+      "horse_number": 1,
+      "odds": 19.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102219",
+      "horse_name": "ノーランサンライズ",
+      "score": -0.007788786755227738,
+      "horse_number": 14,
+      "odds": 21.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104598",
+      "horse_name": "ドルチェリターン",
+      "score": -0.00859371938984526,
+      "horse_number": 2,
+      "odds": 29.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106354",
+      "horse_name": "オーバースタンド",
+      "score": -0.05255030542453278,
+      "horse_number": 4,
+      "odds": 44.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106224",
+      "horse_name": "ウインリベラシオン",
+      "score": -0.07442694191119283,
+      "horse_number": 12,
+      "odds": 40.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100128",
+      "horse_name": "サラダ",
+      "score": -0.19114726283686156,
+      "horse_number": 7,
+      "odds": 35.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103053",
+      "horse_name": "ケイアイワイラーパ",
+      "score": -0.3537024320463373,
+      "horse_number": 3,
+      "odds": 27.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104164",
+      "horse_name": "サイモンイロハニー",
+      "score": -0.4545392200265467,
+      "horse_number": 10,
+      "odds": 55.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102168",
+      "horse_name": "クライミーアリバー",
+      "score": -0.5302939129776717,
+      "horse_number": 6,
+      "odds": 116.8
+    }
+  ]
+}
