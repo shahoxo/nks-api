@@ -1,0 +1,104 @@
+{
+  "race_id": "202508040104",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-08 11:35",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106874",
+      "horse_name": "ジャスティンルマン",
+      "score": 0.34360680798131615,
+      "horse_number": 11,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103596",
+      "horse_name": "ファイアスピリット",
+      "score": -0.06652642005496145,
+      "horse_number": 1,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105329",
+      "horse_name": "エクストラプッシュ",
+      "score": -0.12890205726589243,
+      "horse_number": 5,
+      "odds": 31.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103896",
+      "horse_name": "マーゴットデイズ",
+      "score": -0.13590665637646923,
+      "horse_number": 8,
+      "odds": 22.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104157",
+      "horse_name": "ウルトラハート",
+      "score": -0.15290643461327935,
+      "horse_number": 12,
+      "odds": 5.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104622",
+      "horse_name": "アポロンテソーロ",
+      "score": -0.36606464409254386,
+      "horse_number": 9,
+      "odds": 24.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100909",
+      "horse_name": "テイスティング",
+      "score": -0.4039330699968001,
+      "horse_number": 7,
+      "odds": 39.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102502",
+      "horse_name": "トシッキーセカンド",
+      "score": -0.4706309094698913,
+      "horse_number": 3,
+      "odds": 18.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105122",
+      "horse_name": "サラサダンディー",
+      "score": -0.5267897217018535,
+      "horse_number": 4,
+      "odds": 44.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106647",
+      "horse_name": "スギノダイナミック",
+      "score": -0.6546627932857848,
+      "horse_number": 2,
+      "odds": 97.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102708",
+      "horse_name": "クボウサマ",
+      "score": -0.700999851469308,
+      "horse_number": 10,
+      "odds": 95.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102610",
+      "horse_name": "テイエムパイロダン",
+      "score": -0.7034498840967245,
+      "horse_number": 6,
+      "odds": 22.0
+    }
+  ]
+}
