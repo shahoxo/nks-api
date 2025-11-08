@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-08 13:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105398",
+      "horse_name": "セゾンデフィーユ",
+      "score": 0.2245324611911091,
+      "horse_number": 7,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020104174",
+      "horse_name": "レジーナローズ",
+      "score": 0.18575945293896512,
+      "horse_number": 2,
+      "odds": 13.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106729",
+      "horse_name": "ウインレオネッサ",
+      "score": -0.05198456715531659,
+      "horse_number": 4,
+      "odds": 22.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019102215",
+      "horse_name": "サク",
+      "score": -0.08247220637808182,
+      "horse_number": 13,
+      "odds": 13.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104678",
+      "horse_name": "エルムラント",
+      "score": -0.09767219937473069,
+      "horse_number": 3,
+      "odds": 10.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104629",
+      "horse_name": "バシレイア",
+      "score": -0.18369350614887173,
+      "horse_number": 5,
+      "odds": 14.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103119",
+      "horse_name": "ニシノアヤカゼ",
+      "score": -0.2213324778041613,
+      "horse_number": 10,
+      "odds": 26.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106587",
+      "horse_name": "レオプルミエール",
+      "score": -0.25847457573890403,
+      "horse_number": 12,
+      "odds": 22.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103039",
+      "horse_name": "スネーフリンガ",
+      "score": -0.3158372914610299,
+      "horse_number": 1,
+      "odds": 8.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102537",
+      "horse_name": "チカポコ",
+      "score": -0.38148009541125805,
+      "horse_number": 15,
+      "odds": 63.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103549",
+      "horse_name": "コムーネ",
+      "score": -0.3921747540554563,
+      "horse_number": 16,
+      "odds": 41.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105073",
+      "horse_name": "ガットネロ",
+      "score": -0.4140423353237537,
+      "horse_number": 8,
+      "odds": 40.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102561",
+      "horse_name": "インペリアルコート",
+      "score": -0.4224045246850702,
+      "horse_number": 6,
+      "odds": 14.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102153",
+      "horse_name": "ダガーリング",
+      "score": -0.4874095276621221,
+      "horse_number": 11,
+      "odds": 74.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106018",
+      "horse_name": "モズリバーシャトー",
+      "score": -0.6068367102441051,
+      "horse_number": 14,
+      "odds": 41.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104933",
+      "horse_name": "カントゥータ",
+      "score": -0.7344997899121097,
+      "horse_number": 9,
+      "odds": 109.1
+    }
+  ]
+}
