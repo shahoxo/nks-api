@@ -1,0 +1,72 @@
+{
+  "race_id": "202505050108",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-08 13:50",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105580",
+      "horse_name": "クラッシファイド",
+      "score": 0.3970315107589554,
+      "horse_number": 5,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101192",
+      "horse_name": "エストゥペンダ",
+      "score": 0.3794977363475853,
+      "horse_number": 6,
+      "odds": 1.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101068",
+      "horse_name": "クロシェットノエル",
+      "score": 0.15407453262698828,
+      "horse_number": 1,
+      "odds": 13.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105388",
+      "horse_name": "ビーオンザカバー",
+      "score": -0.005406977139911764,
+      "horse_number": 7,
+      "odds": 7.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101337",
+      "horse_name": "コスモアバンサ",
+      "score": -0.30226093830248063,
+      "horse_number": 4,
+      "odds": 29.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020104878",
+      "horse_name": "シルバープリペット",
+      "score": -0.49448134940855626,
+      "horse_number": 3,
+      "odds": 97.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101284",
+      "horse_name": "ルクスドヌーヴ",
+      "score": -0.5604919038970706,
+      "horse_number": 8,
+      "odds": 78.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101219",
+      "horse_name": "マフィン",
+      "score": -0.6130743365699393,
+      "horse_number": 2,
+      "odds": 102.1
+    }
+  ]
+}
