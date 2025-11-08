@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040111",
+  "race_name": "室町S",
+  "race_time": "2025-11-08 15:45",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104991",
+      "horse_name": "スターターン",
+      "score": 0.4009721528458383,
+      "horse_number": 4,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020101292",
+      "horse_name": "ボナンザ",
+      "score": 0.2597487867030376,
+      "horse_number": 16,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105608",
+      "horse_name": "カズゴルティス",
+      "score": 0.10115157180259636,
+      "horse_number": 11,
+      "odds": 15.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019101975",
+      "horse_name": "ナムラフランク",
+      "score": 0.05473652954949846,
+      "horse_number": 5,
+      "odds": 56.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104876",
+      "horse_name": "エートラックス",
+      "score": 0.03382952701157986,
+      "horse_number": 3,
+      "odds": 13.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103716",
+      "horse_name": "メイショウホウレン",
+      "score": 0.00022919600005767704,
+      "horse_number": 1,
+      "odds": 7.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104751",
+      "horse_name": "アルテヴェローチェ",
+      "score": -0.0243945570048803,
+      "horse_number": 2,
+      "odds": 10.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019103605",
+      "horse_name": "ペプチドヤマト",
+      "score": -0.06726568150674474,
+      "horse_number": 6,
+      "odds": 54.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019103529",
+      "horse_name": "アルファマム",
+      "score": -0.0878508874619243,
+      "horse_number": 7,
+      "odds": 16.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100505",
+      "horse_name": "キタノズエッジ",
+      "score": -0.09100251164601607,
+      "horse_number": 10,
+      "odds": 7.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106877",
+      "horse_name": "スマートアイ",
+      "score": -0.09575397037350313,
+      "horse_number": 14,
+      "odds": 17.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105761",
+      "horse_name": "エティエンヌ",
+      "score": -0.13217549744161194,
+      "horse_number": 13,
+      "odds": 25.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100168",
+      "horse_name": "ロードラディウス",
+      "score": -0.2110576364879059,
+      "horse_number": 12,
+      "odds": 43.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018105998",
+      "horse_name": "ロードエクレール",
+      "score": -0.2126269919274655,
+      "horse_number": 8,
+      "odds": 71.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019105741",
+      "horse_name": "イスラアネーロ",
+      "score": -0.21961654711817163,
+      "horse_number": 9,
+      "odds": 26.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021102392",
+      "horse_name": "ナナオ",
+      "score": -0.41568424842067647,
+      "horse_number": 15,
+      "odds": 19.8
+    }
+  ]
+}

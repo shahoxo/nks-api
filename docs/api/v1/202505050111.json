@@ -1,0 +1,136 @@
+{
+  "race_id": "202505050111",
+  "race_name": "京王杯2歳S",
+  "race_time": "2025-11-08 15:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105685",
+      "horse_name": "ダイヤモンドノット",
+      "score": 0.4827533595370429,
+      "horse_number": 10,
+      "odds": 2.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103418",
+      "horse_name": "フクチャンショウ",
+      "score": 0.19939021371919094,
+      "horse_number": 12,
+      "odds": 20.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102542",
+      "horse_name": "ミルトベスト",
+      "score": 0.12525534002713493,
+      "horse_number": 4,
+      "odds": 14.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104450",
+      "horse_name": "シュペルリング",
+      "score": 0.1174873413291305,
+      "horse_number": 6,
+      "odds": 6.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106619",
+      "horse_name": "レッドスティンガー",
+      "score": 0.08248489366556155,
+      "horse_number": 16,
+      "odds": 8.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100776",
+      "horse_name": "シャオママル",
+      "score": 0.06872317963508548,
+      "horse_number": 2,
+      "odds": 12.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103782",
+      "horse_name": "ルートサーティーン",
+      "score": 0.01223814970101408,
+      "horse_number": 3,
+      "odds": 12.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103532",
+      "horse_name": "シーミハットク",
+      "score": -0.005992983165538175,
+      "horse_number": 5,
+      "odds": 32.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106405",
+      "horse_name": "コックオーヴァン",
+      "score": -0.06809844506524719,
+      "horse_number": 9,
+      "odds": 64.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102694",
+      "horse_name": "トワニ",
+      "score": -0.10331954043048469,
+      "horse_number": 14,
+      "odds": 55.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106325",
+      "horse_name": "ホットゥトロット",
+      "score": -0.11715728349247577,
+      "horse_number": 8,
+      "odds": 48.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023110065",
+      "horse_name": "ユウファラオ",
+      "score": -0.1459452927347787,
+      "horse_number": 7,
+      "odds": 29.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106484",
+      "horse_name": "フェーダーローター",
+      "score": -0.20736965814583466,
+      "horse_number": 13,
+      "odds": 43.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106184",
+      "horse_name": "ネネキリマル",
+      "score": -0.2480228343390057,
+      "horse_number": 1,
+      "odds": 19.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106479",
+      "horse_name": "フォトンゲイザー",
+      "score": -0.43715892018401503,
+      "horse_number": 11,
+      "odds": 151.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100728",
+      "horse_name": "リネンタイリン",
+      "score": -0.5456654432711868,
+      "horse_number": 15,
+      "odds": 225.0
+    }
+  ]
+}

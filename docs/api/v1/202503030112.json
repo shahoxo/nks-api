@@ -1,0 +1,128 @@
+{
+  "race_id": "202503030112",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-08 16:01",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104801",
+      "horse_name": "ハッコウイチウ",
+      "score": 0.05056269925626421,
+      "horse_number": 3,
+      "odds": 10.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102394",
+      "horse_name": "マーウォルス",
+      "score": -0.013598183967561753,
+      "horse_number": 1,
+      "odds": 7.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110135",
+      "horse_name": "ゼンエスポワール",
+      "score": -0.015748751305560933,
+      "horse_number": 14,
+      "odds": 8.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100320",
+      "horse_name": "タキノボリ",
+      "score": -0.14229850714983308,
+      "horse_number": 9,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102406",
+      "horse_name": "レイワサンサン",
+      "score": -0.15327456309596627,
+      "horse_number": 12,
+      "odds": 14.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110058",
+      "horse_name": "2021110058",
+      "score": -0.16503367692886572,
+      "horse_number": 7,
+      "odds": 8.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105133",
+      "horse_name": "タイセイマンボ",
+      "score": -0.16649766886947343,
+      "horse_number": 2,
+      "odds": 14.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105936",
+      "horse_name": "ウィテカービート",
+      "score": -0.2039016906279025,
+      "horse_number": 15,
+      "odds": 44.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101821",
+      "horse_name": "ロードヴォイジャー",
+      "score": -0.20856389551522453,
+      "horse_number": 11,
+      "odds": 2.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101059",
+      "horse_name": "バヤシーフェイス",
+      "score": -0.319654376013502,
+      "horse_number": 6,
+      "odds": 32.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104951",
+      "horse_name": "ブルーゴールド",
+      "score": -0.4123834539136575,
+      "horse_number": 5,
+      "odds": 22.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019101233",
+      "horse_name": "アイファーファイト",
+      "score": -0.41446750888633954,
+      "horse_number": 13,
+      "odds": 70.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104276",
+      "horse_name": "ガラスノブルース",
+      "score": -0.49134757204548496,
+      "horse_number": 8,
+      "odds": 43.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105868",
+      "horse_name": "バーケンティン",
+      "score": -0.5273411516624705,
+      "horse_number": 4,
+      "odds": 24.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021102359",
+      "horse_name": "ライクファーザー",
+      "score": -0.546058992754817,
+      "horse_number": 10,
+      "odds": 56.5
+    }
+  ]
+}

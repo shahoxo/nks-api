@@ -1,0 +1,120 @@
+{
+  "race_id": "202505050112",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-08 16:10",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104893",
+      "horse_name": "ダノンエンブレム",
+      "score": 0.49492773580679766,
+      "horse_number": 2,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106950",
+      "horse_name": "シャンクス",
+      "score": 0.27166415687647816,
+      "horse_number": 6,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103727",
+      "horse_name": "ゴールドシーン",
+      "score": 0.27165860831285443,
+      "horse_number": 4,
+      "odds": 14.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104811",
+      "horse_name": "アセンブリールーム",
+      "score": 0.16325165334959377,
+      "horse_number": 1,
+      "odds": 5.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105601",
+      "horse_name": "エルマーゴ",
+      "score": 0.12245287267783939,
+      "horse_number": 10,
+      "odds": 9.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104992",
+      "horse_name": "フェイトライン",
+      "score": 0.07308336837215686,
+      "horse_number": 11,
+      "odds": 9.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104126",
+      "horse_name": "ルクスフレンジー",
+      "score": 0.05848162102708427,
+      "horse_number": 7,
+      "odds": 17.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104954",
+      "horse_name": "ハーバードスクエア",
+      "score": -0.039177459778154095,
+      "horse_number": 3,
+      "odds": 18.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105069",
+      "horse_name": "デバッグ",
+      "score": -0.16647627840403417,
+      "horse_number": 9,
+      "odds": 37.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104611",
+      "horse_name": "ジュンライトニング",
+      "score": -0.1771076111467769,
+      "horse_number": 12,
+      "odds": 16.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106308",
+      "horse_name": "カイトグート",
+      "score": -0.1910465935061527,
+      "horse_number": 8,
+      "odds": 52.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105147",
+      "horse_name": "ヴィルナタール",
+      "score": -0.2847086491358966,
+      "horse_number": 14,
+      "odds": 17.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106817",
+      "horse_name": "タイキバルドル",
+      "score": -0.3208148554458033,
+      "horse_number": 5,
+      "odds": 98.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100076",
+      "horse_name": "ダイチラポール",
+      "score": -0.5836065190735424,
+      "horse_number": 13,
+      "odds": 188.3
+    }
+  ]
+}
