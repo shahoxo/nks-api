@@ -1,0 +1,128 @@
+{
+  "race_id": "202508040102",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-08 10:35",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106931",
+      "horse_name": "パトローナス",
+      "score": 0.38742106387923175,
+      "horse_number": 6,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106431",
+      "horse_name": "トライアンフパス",
+      "score": 0.305073649358161,
+      "horse_number": 5,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106569",
+      "horse_name": "メイショウトウコウ",
+      "score": 0.25739665870878575,
+      "horse_number": 1,
+      "odds": 11.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106227",
+      "horse_name": "ナムラコスモス",
+      "score": 0.24481456339557617,
+      "horse_number": 2,
+      "odds": 12.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106321",
+      "horse_name": "アパレイユ",
+      "score": 0.20135220677738402,
+      "horse_number": 11,
+      "odds": 3.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103101",
+      "horse_name": "トミーバローズ",
+      "score": 0.1470484493487843,
+      "horse_number": 10,
+      "odds": 10.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104388",
+      "horse_name": "トレッチェ",
+      "score": 0.05005318962293312,
+      "horse_number": 4,
+      "odds": 40.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102920",
+      "horse_name": "アイルトン",
+      "score": -0.06363828348902222,
+      "horse_number": 13,
+      "odds": 10.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101056",
+      "horse_name": "イズントイット",
+      "score": -0.1307361684558132,
+      "horse_number": 9,
+      "odds": 61.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105237",
+      "horse_name": "アスクウルトラモア",
+      "score": -0.2811648784907592,
+      "horse_number": 12,
+      "odds": 56.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105657",
+      "horse_name": "ラッキーヴォーグ",
+      "score": -0.3722143783525316,
+      "horse_number": 7,
+      "odds": 117.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103176",
+      "horse_name": "セイントホース",
+      "score": -0.3722987885352176,
+      "horse_number": 3,
+      "odds": 64.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023110097",
+      "horse_name": "ジャスパールビー",
+      "score": -0.6713402351006847,
+      "horse_number": 14,
+      "odds": 103.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106858",
+      "horse_name": "ベベペッパー",
+      "score": -0.6956034805566548,
+      "horse_number": 15,
+      "odds": 14.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102327",
+      "horse_name": "ウエスタンオレンジ",
+      "score": -0.7560238565797833,
+      "horse_number": 8,
+      "odds": 226.9
+    }
+  ]
+}

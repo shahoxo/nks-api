@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030102",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-08 10:15",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104628",
+      "horse_name": "ハーディジェナー",
+      "score": 0.19709328362925793,
+      "horse_number": 3,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102362",
+      "horse_name": "ブライトエアリー",
+      "score": 0.13996030767053297,
+      "horse_number": 8,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102544",
+      "horse_name": "ミルトメテオ",
+      "score": 0.10704983026754324,
+      "horse_number": 5,
+      "odds": 19.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106471",
+      "horse_name": "マイネルヴェーゼン",
+      "score": -0.027502135158121003,
+      "horse_number": 15,
+      "odds": 8.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105651",
+      "horse_name": "ベリンガム",
+      "score": -0.030295072141663562,
+      "horse_number": 14,
+      "odds": 16.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023109090",
+      "horse_name": "アクティングエリア",
+      "score": -0.05334395236245031,
+      "horse_number": 2,
+      "odds": 35.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105919",
+      "horse_name": "チェンドル",
+      "score": -0.126334594511466,
+      "horse_number": 12,
+      "odds": 23.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103620",
+      "horse_name": "ラングドシャ",
+      "score": -0.14008437004916008,
+      "horse_number": 11,
+      "odds": 13.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105822",
+      "horse_name": "ロードメルヴェイユ",
+      "score": -0.18788924240147317,
+      "horse_number": 6,
+      "odds": 17.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104838",
+      "horse_name": "マルモリラピダス",
+      "score": -0.19759974300849503,
+      "horse_number": 10,
+      "odds": 23.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100954",
+      "horse_name": "テルケンレンスキー",
+      "score": -0.2394614133942921,
+      "horse_number": 16,
+      "odds": 15.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106730",
+      "horse_name": "シトリンテソーロ",
+      "score": -0.352501273819425,
+      "horse_number": 7,
+      "odds": 33.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103311",
+      "horse_name": "ビリージェイ",
+      "score": -0.3940524953917979,
+      "horse_number": 13,
+      "odds": 71.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105138",
+      "horse_name": "ニシノシャルム",
+      "score": -0.45187691416095366,
+      "horse_number": 9,
+      "odds": 41.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102109",
+      "horse_name": "ヒコボシ",
+      "score": -0.546418385722876,
+      "horse_number": 4,
+      "odds": 61.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023102163",
+      "horse_name": "ソルトバーン",
+      "score": -0.7101912002832054,
+      "horse_number": 1,
+      "odds": 70.1
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202508040101",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-08 10:05",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105272",
+      "horse_name": "ショコラプリン",
+      "score": 0.2062390888762023,
+      "horse_number": 10,
+      "odds": 2.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107077",
+      "horse_name": "スマイルガーデン",
+      "score": 0.132076377984673,
+      "horse_number": 11,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107267",
+      "horse_name": "ジーティービキニ",
+      "score": 0.07406188445276655,
+      "horse_number": 5,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101139",
+      "horse_name": "ディヴァインボンド",
+      "score": 0.06698270671999071,
+      "horse_number": 6,
+      "odds": 6.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103852",
+      "horse_name": "コズミックフレア",
+      "score": 0.05682659927539664,
+      "horse_number": 2,
+      "odds": 9.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100063",
+      "horse_name": "ドリームキャリー",
+      "score": -0.2096929806163727,
+      "horse_number": 3,
+      "odds": 12.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102697",
+      "horse_name": "ビアリッツ",
+      "score": -0.2841880809049108,
+      "horse_number": 1,
+      "odds": 22.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103590",
+      "horse_name": "リーチグローリー",
+      "score": -0.2918031623478183,
+      "horse_number": 4,
+      "odds": 6.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102457",
+      "horse_name": "オッハッピー",
+      "score": -0.5185826071555558,
+      "horse_number": 8,
+      "odds": 181.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104549",
+      "horse_name": "ジャズホリック",
+      "score": -0.5781021345707935,
+      "horse_number": 9,
+      "odds": 102.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102831",
+      "horse_name": "シュネードリーム",
+      "score": -0.6376585761263767,
+      "horse_number": 7,
+      "odds": 56.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105611",
+      "horse_name": "ラブペイトー",
+      "score": -0.7498547462216962,
+      "horse_number": 12,
+      "odds": 212.9
+    }
+  ]
+}
