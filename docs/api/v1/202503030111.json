@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030111",
+  "race_name": "キビタキS",
+  "race_time": "2025-11-08 15:25",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103707",
+      "horse_name": "エスペシャリー",
+      "score": 0.16956427815741748,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102488",
+      "horse_name": "トーセンエスクード",
+      "score": 0.1615675519237259,
+      "horse_number": 14,
+      "odds": 11.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102514",
+      "horse_name": "ベイビーキッス",
+      "score": 0.10618432094605572,
+      "horse_number": 10,
+      "odds": 9.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102013",
+      "horse_name": "ソルトクィーン",
+      "score": 0.07647171815437037,
+      "horse_number": 13,
+      "odds": 5.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106901",
+      "horse_name": "メイショウピース",
+      "score": 0.06443890147683567,
+      "horse_number": 3,
+      "odds": 13.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103312",
+      "horse_name": "ロードマイライフ",
+      "score": 0.02883259079632912,
+      "horse_number": 7,
+      "odds": 7.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101654",
+      "horse_name": "トーラスシャイン",
+      "score": -0.0526937584729541,
+      "horse_number": 6,
+      "odds": 12.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102670",
+      "horse_name": "イサチルシーサイド",
+      "score": -0.13418765938985994,
+      "horse_number": 4,
+      "odds": 14.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106179",
+      "horse_name": "ハートホイップ",
+      "score": -0.17877442038525063,
+      "horse_number": 12,
+      "odds": 29.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105039",
+      "horse_name": "ゴールドサーベル",
+      "score": -0.1920084566818772,
+      "horse_number": 16,
+      "odds": 18.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102299",
+      "horse_name": "アシャカタカ",
+      "score": -0.21996268366566596,
+      "horse_number": 1,
+      "odds": 8.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018100406",
+      "horse_name": "ヴィントミューレ",
+      "score": -0.2536446315469,
+      "horse_number": 15,
+      "odds": 67.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021110132",
+      "horse_name": "ジャスパーノワール",
+      "score": -0.276787468496074,
+      "horse_number": 11,
+      "odds": 43.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100157",
+      "horse_name": "ロードトレイル",
+      "score": -0.29803242550248465,
+      "horse_number": 2,
+      "odds": 39.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103092",
+      "horse_name": "ナムラローズマリー",
+      "score": -0.3966907551330507,
+      "horse_number": 8,
+      "odds": 24.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018104757",
+      "horse_name": "ジュノー",
+      "score": -0.4172551067960957,
+      "horse_number": 9,
+      "odds": 44.7
+    }
+  ]
+}
