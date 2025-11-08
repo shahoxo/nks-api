@@ -18,7 +18,7 @@
       "horse_name": "コスモアチーブ",
       "score": -0.02055091416081297,
       "horse_number": 1,
-      "odds": 26.5
+      "odds": 29.5
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "ゼンノインヴォーク",
       "score": -0.05677133508695774,
       "horse_number": 9,
-      "odds": 15.2
+      "odds": 9.8
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "スイートオレンジ",
       "score": -0.07257482306558864,
       "horse_number": 2,
-      "odds": 8.0
+      "odds": 7.2
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "ムーンストラック",
       "score": -0.09837025275048211,
       "horse_number": 7,
-      "odds": 32.1
+      "odds": 42.8
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "ジェットブレード",
       "score": -0.10991271578772707,
       "horse_number": 5,
-      "odds": 28.2
+      "odds": 20.9
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "クラッチプレイヤー",
       "score": -0.13283264919194518,
       "horse_number": 3,
-      "odds": 23.3
+      "odds": 31.9
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "ポッポノフェスタ",
       "score": -0.1754979949105812,
       "horse_number": 10,
-      "odds": 30.2
+      "odds": 32.6
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "ピジョンポイント",
       "score": -0.18154603361189156,
       "horse_number": 15,
-      "odds": 35.9
+      "odds": 52.8
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "ピティロディア",
       "score": -0.18806188696910375,
       "horse_number": 6,
-      "odds": 71.5
+      "odds": 142.1
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "トレベルオール",
       "score": -0.18829007136855677,
       "horse_number": 16,
-      "odds": 25.4
+      "odds": 32.4
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "レッドベルダンス",
       "score": -0.22637942783021114,
       "horse_number": 4,
-      "odds": 20.9
+      "odds": 24.5
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "ユナホークパワー",
       "score": -0.32011126117395133,
       "horse_number": 8,
-      "odds": 70.8
+      "odds": 191.6
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "テイキットイージー",
       "score": -0.3530792926719946,
       "horse_number": 13,
-      "odds": 46.9
+      "odds": 76.3
     },
     {
       "rank": 15,
@@ -122,7 +122,7 @@
       "horse_name": "パナランギン",
       "score": -0.5645449839303281,
       "horse_number": 11,
-      "odds": 109.7
+      "odds": 211.9
     },
     {
       "rank": 16,
@@ -130,7 +130,7 @@
       "horse_name": "アスクメークシェア",
       "score": -0.5975315726926625,
       "horse_number": 14,
-      "odds": 65.3
+      "odds": 88.8
     }
   ]
 }

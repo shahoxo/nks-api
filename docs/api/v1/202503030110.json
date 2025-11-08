@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030110",
+  "race_name": "飯坂温泉特別",
+  "race_time": "2025-11-08 14:50",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110026",
+      "horse_name": "コウセキ",
+      "score": 0.15503747475711344,
+      "horse_number": 8,
+      "odds": 5.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101399",
+      "horse_name": "ヴァンヴィーヴ",
+      "score": 0.10824941043739025,
+      "horse_number": 6,
+      "odds": 7.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102674",
+      "horse_name": "スペルキャスター",
+      "score": 0.07471484355111954,
+      "horse_number": 11,
+      "odds": 46.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019106503",
+      "horse_name": "ソレントフレイバー",
+      "score": 0.03970455048540222,
+      "horse_number": 12,
+      "odds": 10.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103324",
+      "horse_name": "シュラフ",
+      "score": 0.016538922975481075,
+      "horse_number": 3,
+      "odds": 46.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101241",
+      "horse_name": "アジュマン",
+      "score": 0.012069505511791442,
+      "horse_number": 4,
+      "odds": 7.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103171",
+      "horse_name": "タイキヴァンクール",
+      "score": -0.009482214480631374,
+      "horse_number": 9,
+      "odds": 12.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021107063",
+      "horse_name": "イツモニコニコ",
+      "score": -0.018444416795139754,
+      "horse_number": 16,
+      "odds": 18.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021110165",
+      "horse_name": "ピコアーガイル",
+      "score": -0.035490644542961046,
+      "horse_number": 14,
+      "odds": 9.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019101643",
+      "horse_name": "バシレウスシチー",
+      "score": -0.054720537737505404,
+      "horse_number": 13,
+      "odds": 21.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022110112",
+      "horse_name": "ジャスパーディビネ",
+      "score": -0.057436141457188054,
+      "horse_number": 15,
+      "odds": 11.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104190",
+      "horse_name": "ラトルシェ",
+      "score": -0.07739606026159185,
+      "horse_number": 2,
+      "odds": 41.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100632",
+      "horse_name": "アイノセンシ",
+      "score": -0.08973209071105533,
+      "horse_number": 7,
+      "odds": 31.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022110056",
+      "horse_name": "フードマン",
+      "score": -0.10340876288764285,
+      "horse_number": 10,
+      "odds": 5.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103299",
+      "horse_name": "シアター",
+      "score": -0.14777918456955902,
+      "horse_number": 5,
+      "odds": 42.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103898",
+      "horse_name": "イグニション",
+      "score": -0.4224045246850702,
+      "horse_number": 1,
+      "odds": 23.7
+    }
+  ]
+}

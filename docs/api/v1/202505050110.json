@@ -1,0 +1,96 @@
+{
+  "race_id": "202505050110",
+  "race_name": "錦秋S",
+  "race_time": "2025-11-08 15:01",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100170",
+      "horse_name": "ヴァンドーム",
+      "score": 0.41567251210368494,
+      "horse_number": 7,
+      "odds": 2.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105775",
+      "horse_name": "ルグランヴァン",
+      "score": 0.18692496814015797,
+      "horse_number": 4,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105830",
+      "horse_name": "モンドデラモーレ",
+      "score": 0.1493006174159551,
+      "horse_number": 5,
+      "odds": 4.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103005",
+      "horse_name": "ナイトアクアリウム",
+      "score": 0.016734774085014795,
+      "horse_number": 2,
+      "odds": 9.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105750",
+      "horse_name": "アルゴナヴィス",
+      "score": 0.009885290930265278,
+      "horse_number": 3,
+      "odds": 8.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018101989",
+      "horse_name": "ジョディーズマロン",
+      "score": -0.07922831923348757,
+      "horse_number": 10,
+      "odds": 13.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102724",
+      "horse_name": "クールブロン",
+      "score": -0.08808008210821527,
+      "horse_number": 9,
+      "odds": 25.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018106458",
+      "horse_name": "メイショウミカワ",
+      "score": -0.1490265546486129,
+      "horse_number": 8,
+      "odds": 19.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105477",
+      "horse_name": "ハーバーライト",
+      "score": -0.44311190274179446,
+      "horse_number": 1,
+      "odds": 75.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101209",
+      "horse_name": "メイショウオーロラ",
+      "score": -0.4556636429520575,
+      "horse_number": 11,
+      "odds": 50.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103679",
+      "horse_name": "ダニーデン",
+      "score": -0.4937785918951021,
+      "horse_number": 6,
+      "odds": 40.5
+    }
+  ]
+}
