@@ -1,0 +1,144 @@
+{
+  "race_id": "202508040212",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-09 16:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101676",
+      "horse_name": "サンタンカ",
+      "score": 0.366274074665731,
+      "horse_number": 14,
+      "odds": 8.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104648",
+      "horse_name": "フランクスピード",
+      "score": 0.3168499980209126,
+      "horse_number": 16,
+      "odds": 8.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106237",
+      "horse_name": "サーナーティオン",
+      "score": 0.2787386683623435,
+      "horse_number": 3,
+      "odds": 13.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106912",
+      "horse_name": "ヴァージル",
+      "score": 0.2645263629719381,
+      "horse_number": 17,
+      "odds": 10.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103473",
+      "horse_name": "ベルサ",
+      "score": 0.25268118469582096,
+      "horse_number": 2,
+      "odds": 12.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102395",
+      "horse_name": "チムグクル",
+      "score": 0.24431228393750054,
+      "horse_number": 10,
+      "odds": 5.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102675",
+      "horse_name": "ダノンクロム",
+      "score": 0.2198767013511534,
+      "horse_number": 13,
+      "odds": 15.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103194",
+      "horse_name": "メイショウセイロウ",
+      "score": 0.14795938910825723,
+      "horse_number": 4,
+      "odds": 8.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105171",
+      "horse_name": "タンテドヴィーヴル",
+      "score": 0.09797543208535303,
+      "horse_number": 1,
+      "odds": 6.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104100",
+      "horse_name": "ホルンフェルス",
+      "score": -0.024407266424791275,
+      "horse_number": 5,
+      "odds": 41.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101048",
+      "horse_name": "ショウナンラフィネ",
+      "score": -0.1418319667885087,
+      "horse_number": 12,
+      "odds": 54.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103488",
+      "horse_name": "ジャンヌローサ",
+      "score": -0.2167621905223673,
+      "horse_number": 6,
+      "odds": 14.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100795",
+      "horse_name": "ベルタソ",
+      "score": -0.2771147800628551,
+      "horse_number": 15,
+      "odds": 52.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101414",
+      "horse_name": "ベルファスト",
+      "score": -0.31802989353902855,
+      "horse_number": 11,
+      "odds": 21.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100335",
+      "horse_name": "アクルクス",
+      "score": -0.35259205525317633,
+      "horse_number": 9,
+      "odds": 30.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104918",
+      "horse_name": "シャーリーゴールド",
+      "score": -0.5047800979884612,
+      "horse_number": 8,
+      "odds": 39.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020105472",
+      "horse_name": "オレノアイバ",
+      "score": -0.6331128954762193,
+      "horse_number": 7,
+      "odds": 73.5
+    }
+  ]
+}
