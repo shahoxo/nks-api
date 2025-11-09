@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040206",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-09 13:01",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105180",
+      "horse_name": "アカデミア",
+      "score": 0.41822004763634973,
+      "horse_number": 16,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110012",
+      "horse_name": "アークドール",
+      "score": 0.29331577954032184,
+      "horse_number": 9,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103433",
+      "horse_name": "ヴァリージア",
+      "score": 0.13412235831251063,
+      "horse_number": 8,
+      "odds": 9.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104267",
+      "horse_name": "レヴァンテシチー",
+      "score": 0.10317330782885718,
+      "horse_number": 7,
+      "odds": 13.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104982",
+      "horse_name": "サンディエゴ",
+      "score": 0.0808741831143797,
+      "horse_number": 4,
+      "odds": 58.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105238",
+      "horse_name": "アリストクラシア",
+      "score": -0.039033351145916446,
+      "horse_number": 12,
+      "odds": 29.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104654",
+      "horse_name": "ジーティーアメリカ",
+      "score": -0.10682358611214075,
+      "horse_number": 1,
+      "odds": 65.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110097",
+      "horse_name": "ブルーワール",
+      "score": -0.13053023468971192,
+      "horse_number": 14,
+      "odds": 22.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102133",
+      "horse_name": "ミライエイゴウ",
+      "score": -0.1646703027065138,
+      "horse_number": 6,
+      "odds": 17.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101464",
+      "horse_name": "ミッションルース",
+      "score": -0.20567717289764229,
+      "horse_number": 2,
+      "odds": 16.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101504",
+      "horse_name": "パーフェクト",
+      "score": -0.30417827299490696,
+      "horse_number": 5,
+      "odds": 62.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103316",
+      "horse_name": "リアルペガサス",
+      "score": -0.38794139522605203,
+      "horse_number": 3,
+      "odds": 36.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106924",
+      "horse_name": "ハイクオリティ",
+      "score": -0.42662153961167903,
+      "horse_number": 15,
+      "odds": 17.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102639",
+      "horse_name": "ロードシュヴァリエ",
+      "score": -0.44815301385547934,
+      "horse_number": 13,
+      "odds": 56.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021102894",
+      "horse_name": "ルルフィーユ",
+      "score": -0.5074959496969453,
+      "horse_number": 10,
+      "odds": 159.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102223",
+      "horse_name": "サイモンシュバリエ",
+      "score": -0.5206933324894615,
+      "horse_number": 11,
+      "odds": 32.9
+    }
+  ]
+}

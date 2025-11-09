@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030207",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-09 13:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104197",
+      "horse_name": "カウンターセブン",
+      "score": 0.19969404202843438,
+      "horse_number": 4,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101456",
+      "horse_name": "ダイヤモンド",
+      "score": 0.08872814686074484,
+      "horse_number": 13,
+      "odds": 12.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103624",
+      "horse_name": "ピアストイヤーズ",
+      "score": 0.04789817462202864,
+      "horse_number": 11,
+      "odds": 4.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101100",
+      "horse_name": "ルクスアドラー",
+      "score": -0.07519067924726303,
+      "horse_number": 14,
+      "odds": 15.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100084",
+      "horse_name": "レッドカメリア",
+      "score": -0.09850563465335824,
+      "horse_number": 6,
+      "odds": 8.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103530",
+      "horse_name": "イコノスタシス",
+      "score": -0.10122648033404426,
+      "horse_number": 9,
+      "odds": 10.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100460",
+      "horse_name": "スマッシュアウト",
+      "score": -0.3362794001517818,
+      "horse_number": 1,
+      "odds": 11.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104637",
+      "horse_name": "ホウオウブースター",
+      "score": -0.3574234807801298,
+      "horse_number": 7,
+      "odds": 24.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106065",
+      "horse_name": "ホリーアン",
+      "score": -0.37778221352706265,
+      "horse_number": 8,
+      "odds": 76.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103885",
+      "horse_name": "クリノゴッホ",
+      "score": -0.4019313102003809,
+      "horse_number": 5,
+      "odds": 43.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106519",
+      "horse_name": "カジカライズ",
+      "score": -0.46530229433613846,
+      "horse_number": 12,
+      "odds": 29.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104555",
+      "horse_name": "ゴッドヴァレー",
+      "score": -0.47293794587342186,
+      "horse_number": 15,
+      "odds": 26.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104672",
+      "horse_name": "ラストクリスマス",
+      "score": -0.4824902625871138,
+      "horse_number": 10,
+      "odds": 18.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100837",
+      "horse_name": "ヒデノブルースカイ",
+      "score": -0.5228331474026948,
+      "horse_number": 3,
+      "odds": 89.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102269",
+      "horse_name": "ツィスカリーゼ",
+      "score": -0.5808237938692197,
+      "horse_number": 16,
+      "odds": 68.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021106395",
+      "horse_name": "ハッピーサプライズ",
+      "score": -0.6000653732845574,
+      "horse_number": 2,
+      "odds": 44.2
+    }
+  ]
+}

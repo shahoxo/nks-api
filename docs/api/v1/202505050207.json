@@ -1,0 +1,136 @@
+{
+  "race_id": "202505050207",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-09 13:20",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105847",
+      "horse_name": "ディーズゴールド",
+      "score": 0.453635360795809,
+      "horse_number": 9,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105241",
+      "horse_name": "ソナタン",
+      "score": 0.35868696337497125,
+      "horse_number": 6,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103242",
+      "horse_name": "ダノンヴェステル",
+      "score": 0.26389628250986263,
+      "horse_number": 4,
+      "odds": 10.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105694",
+      "horse_name": "オリーブグリーン",
+      "score": 0.228252707111858,
+      "horse_number": 3,
+      "odds": 17.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102338",
+      "horse_name": "コア",
+      "score": 0.12045378675860842,
+      "horse_number": 14,
+      "odds": 35.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105584",
+      "horse_name": "ツーネサーン",
+      "score": 0.03648119757117787,
+      "horse_number": 12,
+      "odds": 5.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104967",
+      "horse_name": "サトノシャムロック",
+      "score": -0.004344340352792928,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105555",
+      "horse_name": "トラジェクトワール",
+      "score": -0.08640492756077889,
+      "horse_number": 13,
+      "odds": 33.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103720",
+      "horse_name": "カルネヴァーレ",
+      "score": -0.12832056727744678,
+      "horse_number": 1,
+      "odds": 63.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106063",
+      "horse_name": "ネオシルバー",
+      "score": -0.13410546338398135,
+      "horse_number": 8,
+      "odds": 30.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104181",
+      "horse_name": "ミルキープリンセス",
+      "score": -0.19537427263261323,
+      "horse_number": 2,
+      "odds": 93.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104314",
+      "horse_name": "ダンツティアラ",
+      "score": -0.24598531931837556,
+      "horse_number": 7,
+      "odds": 21.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102262",
+      "horse_name": "マルセルテソーロ",
+      "score": -0.4338379608614893,
+      "horse_number": 15,
+      "odds": 43.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105592",
+      "horse_name": "ブレイクバウンズ",
+      "score": -0.4752125507193372,
+      "horse_number": 11,
+      "odds": 40.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100678",
+      "horse_name": "ニシノヒナアラレ",
+      "score": -0.5970618435386312,
+      "horse_number": 5,
+      "odds": 119.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104285",
+      "horse_name": "リーゼントジェイド",
+      "score": -0.6294525198073403,
+      "horse_number": 16,
+      "odds": 87.2
+    }
+  ]
+}
