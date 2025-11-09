@@ -1,0 +1,56 @@
+{
+  "race_id": "202505050205",
+  "race_name": "2歳新馬",
+  "race_time": "2025-11-09 12:15",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107111",
+      "horse_name": "2023107111",
+      "score": 0.20551847472865373,
+      "horse_number": 4,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101050",
+      "horse_name": "2023101050",
+      "score": 0.013321661041568969,
+      "horse_number": 5,
+      "odds": 11.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104486",
+      "horse_name": "2023104486",
+      "score": -0.08940182747435721,
+      "horse_number": 6,
+      "odds": 4.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101116",
+      "horse_name": "2023101116",
+      "score": -0.1927052126800227,
+      "horse_number": 1,
+      "odds": 27.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106843",
+      "horse_name": "2023106843",
+      "score": -0.31032833876846144,
+      "horse_number": 3,
+      "odds": 5.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104597",
+      "horse_name": "2023104597",
+      "score": -0.6543632925823613,
+      "horse_number": 2,
+      "odds": 19.4
+    }
+  ]
+}
