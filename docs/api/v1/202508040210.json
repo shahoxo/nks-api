@@ -1,0 +1,104 @@
+{
+  "race_id": "202508040210",
+  "race_name": "貴船S",
+  "race_time": "2025-11-09 15:05",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106604",
+      "horse_name": "ヤマニンシュラ",
+      "score": 0.4708466243801098,
+      "horse_number": 6,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020104597",
+      "horse_name": "ショウナンアビアス",
+      "score": 0.35848587413372596,
+      "horse_number": 2,
+      "odds": 13.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021110008",
+      "horse_name": "ルディック",
+      "score": 0.34383101854190407,
+      "horse_number": 1,
+      "odds": 2.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102953",
+      "horse_name": "パドマ",
+      "score": 0.09576340048904435,
+      "horse_number": 10,
+      "odds": 16.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100653",
+      "horse_name": "アガシ",
+      "score": 0.027092617488352302,
+      "horse_number": 9,
+      "odds": 24.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101737",
+      "horse_name": "エンヤラヴフェイス",
+      "score": -0.06567198925892692,
+      "horse_number": 11,
+      "odds": 14.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100490",
+      "horse_name": "モズナナスター",
+      "score": -0.07377720476584736,
+      "horse_number": 8,
+      "odds": 10.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103061",
+      "horse_name": "ムーム",
+      "score": -0.09623451025343058,
+      "horse_number": 12,
+      "odds": 16.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105625",
+      "horse_name": "ローズバルサム",
+      "score": -0.10684223323257033,
+      "horse_number": 4,
+      "odds": 19.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106421",
+      "horse_name": "キタノソワレ",
+      "score": -0.11386837354512498,
+      "horse_number": 3,
+      "odds": 30.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020109094",
+      "horse_name": "ナスノカンゲツ",
+      "score": -0.16774399104137827,
+      "horse_number": 7,
+      "odds": 47.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019100110",
+      "horse_name": "ナッカーフェイス",
+      "score": -0.26046608545421684,
+      "horse_number": 5,
+      "odds": 68.8
+    }
+  ]
+}

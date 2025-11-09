@@ -1,0 +1,104 @@
+{
+  "race_id": "202505050210",
+  "race_name": "イクイノM",
+  "race_time": "2025-11-09 14:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104655",
+      "horse_name": "ウィクトルウェルス",
+      "score": 0.43470617216766366,
+      "horse_number": 12,
+      "odds": 1.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105453",
+      "horse_name": "エラン",
+      "score": 0.20775862560423608,
+      "horse_number": 10,
+      "odds": 20.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106816",
+      "horse_name": "マイネルブリックス",
+      "score": -0.10585361262559494,
+      "horse_number": 8,
+      "odds": 40.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106535",
+      "horse_name": "モズロックンロール",
+      "score": -0.19199176582529842,
+      "horse_number": 11,
+      "odds": 17.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105856",
+      "horse_name": "ミスタージーティー",
+      "score": -0.21351680159013703,
+      "horse_number": 4,
+      "odds": 10.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105609",
+      "horse_name": "スパークリシャール",
+      "score": -0.25759667684837145,
+      "horse_number": 6,
+      "odds": 36.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104800",
+      "horse_name": "エイカイマッケンロ",
+      "score": -0.29870818769488794,
+      "horse_number": 5,
+      "odds": 38.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105760",
+      "horse_name": "エリダヌス",
+      "score": -0.31614913572684933,
+      "horse_number": 2,
+      "odds": 68.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105138",
+      "horse_name": "エセルフリーダ",
+      "score": -0.34038255834934694,
+      "horse_number": 1,
+      "odds": 14.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019107025",
+      "horse_name": "クレバーテースト",
+      "score": -0.42965237196098727,
+      "horse_number": 7,
+      "odds": 26.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019107075",
+      "horse_name": "ブランデーロック",
+      "score": -0.47443674088362975,
+      "horse_number": 3,
+      "odds": 77.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019102937",
+      "horse_name": "コスモフロイデ",
+      "score": -0.5175048170162598,
+      "horse_number": 9,
+      "odds": 141.3
+    }
+  ]
+}
