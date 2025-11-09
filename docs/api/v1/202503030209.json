@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030209",
+  "race_name": "二本松特別",
+  "race_time": "2025-11-09 14:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100168",
+      "horse_name": "ラコルネータ",
+      "score": 0.18744428159593488,
+      "horse_number": 10,
+      "odds": 6.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104173",
+      "horse_name": "デイジー",
+      "score": 0.15122664208372705,
+      "horse_number": 5,
+      "odds": 7.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101108",
+      "horse_name": "ホウオウショコラ",
+      "score": 0.13122909977237962,
+      "horse_number": 12,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106209",
+      "horse_name": "ウインシャーガス",
+      "score": 0.12553248681085075,
+      "horse_number": 4,
+      "odds": 4.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103100",
+      "horse_name": "リオンプライム",
+      "score": 0.09031652015288223,
+      "horse_number": 14,
+      "odds": 13.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105694",
+      "horse_name": "ホウオウペトリュス",
+      "score": -0.11668845329750999,
+      "horse_number": 16,
+      "odds": 43.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102982",
+      "horse_name": "ハーエクセレンシー",
+      "score": -0.11970396637427189,
+      "horse_number": 6,
+      "odds": 11.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104170",
+      "horse_name": "マザーズウィル",
+      "score": -0.25126714957982815,
+      "horse_number": 13,
+      "odds": 25.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104820",
+      "horse_name": "メアヴィア",
+      "score": -0.26390941911726945,
+      "horse_number": 9,
+      "odds": 15.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104208",
+      "horse_name": "ニホンピロホリデー",
+      "score": -0.28623633413515565,
+      "horse_number": 8,
+      "odds": 16.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106116",
+      "horse_name": "ラッキーダンス",
+      "score": -0.36578675909722,
+      "horse_number": 3,
+      "odds": 40.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104664",
+      "horse_name": "マーゴットコマチ",
+      "score": -0.3875162152083615,
+      "horse_number": 1,
+      "odds": 31.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102803",
+      "horse_name": "エリム",
+      "score": -0.40303092414499747,
+      "horse_number": 7,
+      "odds": 14.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104570",
+      "horse_name": "ルージュクレセント",
+      "score": -0.47908861483914034,
+      "horse_number": 15,
+      "odds": 27.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104931",
+      "horse_name": "ルージュカエラ",
+      "score": -0.4909828918230674,
+      "horse_number": 11,
+      "odds": 12.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103517",
+      "horse_name": "シュエットアムール",
+      "score": -0.5860690505980017,
+      "horse_number": 2,
+      "odds": 40.1
+    }
+  ]
+}

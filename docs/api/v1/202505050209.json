@@ -1,0 +1,136 @@
+{
+  "race_id": "202505050209",
+  "race_name": "オキザリス賞",
+  "race_time": "2025-11-09 14:20",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106895",
+      "horse_name": "イヌボウノアサヒ",
+      "score": 0.3670605222403827,
+      "horse_number": 2,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100936",
+      "horse_name": "サトノボヤージュ",
+      "score": 0.28933497616678405,
+      "horse_number": 14,
+      "odds": 1.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101423",
+      "horse_name": "サノノアルペン",
+      "score": 0.2661870258885914,
+      "horse_number": 11,
+      "odds": 34.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101269",
+      "horse_name": "ドンエレクトス",
+      "score": 0.223893740466815,
+      "horse_number": 9,
+      "odds": 16.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106784",
+      "horse_name": "レイオブファイア",
+      "score": 0.20954919279431514,
+      "horse_number": 1,
+      "odds": 66.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105092",
+      "horse_name": "マジッククッキー",
+      "score": 0.20618147634182024,
+      "horse_number": 6,
+      "odds": 23.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023110104",
+      "horse_name": "エコロシード",
+      "score": 0.19929596901533922,
+      "horse_number": 8,
+      "odds": 12.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023110090",
+      "horse_name": "エコロレーヴ",
+      "score": 0.19359664206133653,
+      "horse_number": 15,
+      "odds": 20.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023110007",
+      "horse_name": "アンティミスト",
+      "score": 0.1920980180720381,
+      "horse_number": 13,
+      "odds": 81.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023110100",
+      "horse_name": "アスクケンタッキー",
+      "score": 0.1869107078773424,
+      "horse_number": 7,
+      "odds": 11.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106312",
+      "horse_name": "ジェイエルキャリア",
+      "score": 0.16697932090655257,
+      "horse_number": 3,
+      "odds": 134.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104540",
+      "horse_name": "エッジアキュート",
+      "score": 0.11487064846279899,
+      "horse_number": 5,
+      "odds": 103.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101285",
+      "horse_name": "ライフオブラクーン",
+      "score": 0.10908937632855933,
+      "horse_number": 10,
+      "odds": 40.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104352",
+      "horse_name": "マヴィ",
+      "score": 0.09430163468528625,
+      "horse_number": 12,
+      "odds": 80.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105748",
+      "horse_name": "リフレックス",
+      "score": -0.09390643848327943,
+      "horse_number": 16,
+      "odds": 61.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105106",
+      "horse_name": "アルデトップガン",
+      "score": -0.17646371781173537,
+      "horse_number": 4,
+      "odds": 26.7
+    }
+  ]
+}
