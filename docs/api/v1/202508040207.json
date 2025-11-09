@@ -1,0 +1,64 @@
+{
+  "race_id": "202508040207",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-09 13:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104799",
+      "horse_name": "ピックデムッシュ",
+      "score": 0.4708466243801098,
+      "horse_number": 2,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105796",
+      "horse_name": "サークルオブジョイ",
+      "score": 0.4336632677377726,
+      "horse_number": 1,
+      "odds": 7.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102199",
+      "horse_name": "アルマデオロ",
+      "score": 0.317767855517503,
+      "horse_number": 6,
+      "odds": 2.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105503",
+      "horse_name": "クルミナーレ",
+      "score": 0.25660494306418613,
+      "horse_number": 3,
+      "odds": 6.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019105051",
+      "horse_name": "アメジストブラック",
+      "score": -0.1688240466841019,
+      "horse_number": 5,
+      "odds": 25.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105330",
+      "horse_name": "パーサヴィアランス",
+      "score": -0.20963258715889949,
+      "horse_number": 4,
+      "odds": 45.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104636",
+      "horse_name": "シュプリンガー",
+      "score": -0.21667089539515882,
+      "horse_number": 7,
+      "odds": 42.7
+    }
+  ]
+}

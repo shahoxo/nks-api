@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030208",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-09 13:40",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104899",
+      "horse_name": "ジュンライデン",
+      "score": 0.08598403362677191,
+      "horse_number": 9,
+      "odds": 9.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103510",
+      "horse_name": "キングズトゥルー",
+      "score": -0.056353461859858275,
+      "horse_number": 6,
+      "odds": 3.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105687",
+      "horse_name": "ダノンアンチュラス",
+      "score": -0.0901917715962555,
+      "horse_number": 11,
+      "odds": 39.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106613",
+      "horse_name": "ストラニエーロ",
+      "score": -0.13063615197131315,
+      "horse_number": 14,
+      "odds": 28.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101270",
+      "horse_name": "ペプチドモガミ",
+      "score": -0.14516650708474893,
+      "horse_number": 8,
+      "odds": 13.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105687",
+      "horse_name": "オーサムユニバンス",
+      "score": -0.19366510069894488,
+      "horse_number": 15,
+      "odds": 10.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105274",
+      "horse_name": "サイレントグルーヴ",
+      "score": -0.2606231189221371,
+      "horse_number": 12,
+      "odds": 20.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100619",
+      "horse_name": "ロードガレリア",
+      "score": -0.26539842256920887,
+      "horse_number": 13,
+      "odds": 3.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105227",
+      "horse_name": "バーケンヘッド",
+      "score": -0.284511396684454,
+      "horse_number": 10,
+      "odds": 72.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106361",
+      "horse_name": "ボナーテソーロ",
+      "score": -0.31261311442526407,
+      "horse_number": 16,
+      "odds": 46.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104856",
+      "horse_name": "ブリヤディアマンテ",
+      "score": -0.38524433293320126,
+      "horse_number": 7,
+      "odds": 21.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105784",
+      "horse_name": "リアルファインド",
+      "score": -0.4502672491617765,
+      "horse_number": 5,
+      "odds": 54.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105796",
+      "horse_name": "ペリプルス",
+      "score": -0.4607523980429541,
+      "horse_number": 2,
+      "odds": 19.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104831",
+      "horse_name": "マーゴットソラーレ",
+      "score": -0.5472916750833359,
+      "horse_number": 3,
+      "odds": 17.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105092",
+      "horse_name": "ベレーザフィン",
+      "score": -0.5481253291523164,
+      "horse_number": 4,
+      "odds": 63.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106684",
+      "horse_name": "ドラギニャン",
+      "score": -0.5505394959797906,
+      "horse_number": 1,
+      "odds": 16.4
+    }
+  ]
+}

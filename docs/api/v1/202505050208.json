@@ -1,0 +1,136 @@
+{
+  "race_id": "202505050208",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-09 13:50",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106689",
+      "horse_name": "アンズアメ",
+      "score": 0.1601348077967757,
+      "horse_number": 5,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105381",
+      "horse_name": "エイプリルインパリ",
+      "score": 0.1243236850805121,
+      "horse_number": 15,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105619",
+      "horse_name": "スミレファースト",
+      "score": 0.11765582636754203,
+      "horse_number": 1,
+      "odds": 15.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103270",
+      "horse_name": "ダミエ",
+      "score": 0.07539394566448,
+      "horse_number": 11,
+      "odds": 41.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100418",
+      "horse_name": "ラストシャリナ",
+      "score": 0.00013247620416662834,
+      "horse_number": 12,
+      "odds": 26.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102516",
+      "horse_name": "マケズギライ",
+      "score": -0.014159114908150462,
+      "horse_number": 7,
+      "odds": 40.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021110161",
+      "horse_name": "セントラルヴァレー",
+      "score": -0.020980132512582794,
+      "horse_number": 10,
+      "odds": 5.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105949",
+      "horse_name": "ケンキョ",
+      "score": -0.07603478096545693,
+      "horse_number": 6,
+      "odds": 14.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106999",
+      "horse_name": "ニシノクードクール",
+      "score": -0.10245015422111607,
+      "horse_number": 16,
+      "odds": 25.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104217",
+      "horse_name": "ムチャスグラシアス",
+      "score": -0.11574832306801232,
+      "horse_number": 3,
+      "odds": 9.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018106612",
+      "horse_name": "オリアメンディ",
+      "score": -0.11581045777779818,
+      "horse_number": 14,
+      "odds": 110.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103316",
+      "horse_name": "スペキオサレジーナ",
+      "score": -0.1584869682993788,
+      "horse_number": 2,
+      "odds": 41.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021110131",
+      "horse_name": "エコロネオ",
+      "score": -0.16709021175672248,
+      "horse_number": 4,
+      "odds": 10.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020106987",
+      "horse_name": "スムースベルベット",
+      "score": -0.18556002390027104,
+      "horse_number": 13,
+      "odds": 45.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103710",
+      "horse_name": "ヘルメース",
+      "score": -0.505694468665794,
+      "horse_number": 8,
+      "odds": 30.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103931",
+      "horse_name": "ヴィクトリーロード",
+      "score": -0.5176497535651391,
+      "horse_number": 9,
+      "odds": 90.5
+    }
+  ]
+}

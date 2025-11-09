@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040208",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-09 14:01",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105616",
+      "horse_name": "エルフストラック",
+      "score": 0.26218827014303364,
+      "horse_number": 15,
+      "odds": 6.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102123",
+      "horse_name": "モズカトレア",
+      "score": 0.16805442769391502,
+      "horse_number": 13,
+      "odds": 3.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020106393",
+      "horse_name": "ノボリクレバー",
+      "score": -0.02201619069837552,
+      "horse_number": 16,
+      "odds": 8.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103556",
+      "horse_name": "ブルーペクトライト",
+      "score": -0.0633493876626374,
+      "horse_number": 9,
+      "odds": 31.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104857",
+      "horse_name": "フローラルセント",
+      "score": -0.08537969150308715,
+      "horse_number": 5,
+      "odds": 29.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103881",
+      "horse_name": "ツキノアカリ",
+      "score": -0.11039658740816628,
+      "horse_number": 12,
+      "odds": 22.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103268",
+      "horse_name": "メイショウタムシバ",
+      "score": -0.11254428932812777,
+      "horse_number": 8,
+      "odds": 6.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100471",
+      "horse_name": "シンコーナホチャン",
+      "score": -0.15199814811250145,
+      "horse_number": 3,
+      "odds": 11.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105789",
+      "horse_name": "サツキノジョウ",
+      "score": -0.22684167328432508,
+      "horse_number": 2,
+      "odds": 26.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103209",
+      "horse_name": "メイショウリリー",
+      "score": -0.2318289284395408,
+      "horse_number": 1,
+      "odds": 28.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106177",
+      "horse_name": "タマモナポリ",
+      "score": -0.25790142373203845,
+      "horse_number": 10,
+      "odds": 21.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106579",
+      "horse_name": "ルナビス",
+      "score": -0.29722731198889274,
+      "horse_number": 7,
+      "odds": 13.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103246",
+      "horse_name": "ウィンターダフネ",
+      "score": -0.2996547090994633,
+      "horse_number": 4,
+      "odds": 22.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022107288",
+      "horse_name": "リアルクィーン",
+      "score": -0.3737290312300001,
+      "horse_number": 6,
+      "odds": 42.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021102380",
+      "horse_name": "オーケーカルメン",
+      "score": -0.4406207277976042,
+      "horse_number": 14,
+      "odds": 23.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020100629",
+      "horse_name": "サイモンコーラル",
+      "score": -0.5434522213856353,
+      "horse_number": 11,
+      "odds": 112.7
+    }
+  ]
+}
