@@ -1,0 +1,128 @@
+{
+  "race_id": "202508040211",
+  "race_name": "みやこS",
+  "race_time": "2025-11-09 15:45",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020104497",
+      "horse_name": "サイモンザナドゥ",
+      "score": 0.43761871095496246,
+      "horse_number": 5,
+      "odds": 15.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106640",
+      "horse_name": "ラムジェット",
+      "score": 0.3614366527315272,
+      "horse_number": 4,
+      "odds": 9.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105621",
+      "horse_name": "アウトレンジ",
+      "score": 0.31642178279601463,
+      "horse_number": 9,
+      "odds": 3.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100169",
+      "horse_name": "ロードクロンヌ",
+      "score": 0.1893834961743928,
+      "horse_number": 6,
+      "odds": 7.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103717",
+      "horse_name": "レヴォントゥレット",
+      "score": 0.18211189357008276,
+      "horse_number": 11,
+      "odds": 26.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101874",
+      "horse_name": "ペリエール",
+      "score": 0.13549839037666098,
+      "horse_number": 14,
+      "odds": 8.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105700",
+      "horse_name": "ダブルハートボンド",
+      "score": 0.11849758231085473,
+      "horse_number": 12,
+      "odds": 6.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106565",
+      "horse_name": "ブライアンセンス",
+      "score": 0.1027287812608444,
+      "horse_number": 8,
+      "odds": 21.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101694",
+      "horse_name": "シゲルショウグン",
+      "score": 0.044231552251132844,
+      "horse_number": 7,
+      "odds": 10.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104628",
+      "horse_name": "レイナデアルシーラ",
+      "score": -0.004755618643546886,
+      "horse_number": 13,
+      "odds": 24.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103626",
+      "horse_name": "ドゥラエレーデ",
+      "score": -0.0143392640635528,
+      "horse_number": 3,
+      "odds": 16.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018102348",
+      "horse_name": "ノースブリッジ",
+      "score": -0.030416375320892267,
+      "horse_number": 2,
+      "odds": 27.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2017104685",
+      "horse_name": "エアロロノア",
+      "score": -0.14395335280129487,
+      "horse_number": 10,
+      "odds": 105.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102745",
+      "horse_name": "デルマソトガケ",
+      "score": -0.14721683214983286,
+      "horse_number": 15,
+      "odds": 52.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104136",
+      "horse_name": "サンデーファンデー",
+      "score": -0.20109152499125063,
+      "horse_number": 1,
+      "odds": 37.8
+    }
+  ]
+}

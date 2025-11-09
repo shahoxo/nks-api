@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030212",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-09 16:01",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103991",
+      "horse_name": "ジーティーエスピ",
+      "score": 0.27809948232479714,
+      "horse_number": 7,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105376",
+      "horse_name": "ティピティーナ",
+      "score": 0.22241690447384058,
+      "horse_number": 9,
+      "odds": 8.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106818",
+      "horse_name": "マイネルステラート",
+      "score": 0.06426368601385866,
+      "horse_number": 12,
+      "odds": 7.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106698",
+      "horse_name": "バンディート",
+      "score": -0.016333525834248665,
+      "horse_number": 13,
+      "odds": 9.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105857",
+      "horse_name": "ラウルベア",
+      "score": -0.09669821405526963,
+      "horse_number": 15,
+      "odds": 18.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105913",
+      "horse_name": "レインボーブリッジ",
+      "score": -0.10818597593010135,
+      "horse_number": 10,
+      "odds": 15.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102878",
+      "horse_name": "ナンナンプー",
+      "score": -0.14738577968588745,
+      "horse_number": 8,
+      "odds": 25.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110075",
+      "horse_name": "スターチスブーケ",
+      "score": -0.19196144531594803,
+      "horse_number": 16,
+      "odds": 47.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102767",
+      "horse_name": "テンプーシャオン",
+      "score": -0.3500922784955869,
+      "horse_number": 11,
+      "odds": 36.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019110122",
+      "horse_name": "ブラヴィーノ",
+      "score": -0.38961557851231465,
+      "horse_number": 1,
+      "odds": 35.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105905",
+      "horse_name": "トーアジョウトウ",
+      "score": -0.43715892018401503,
+      "horse_number": 4,
+      "odds": 18.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100121",
+      "horse_name": "ザブルース",
+      "score": -0.4394070093111665,
+      "horse_number": 6,
+      "odds": 12.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101595",
+      "horse_name": "ヴィヴァクラウン",
+      "score": -0.44482949988030673,
+      "horse_number": 5,
+      "odds": 20.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021110117",
+      "horse_name": "イェルマーク",
+      "score": -0.4587565463702284,
+      "horse_number": 14,
+      "odds": 46.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021102641",
+      "horse_name": "グランルーチェ",
+      "score": -0.4594643413672842,
+      "horse_number": 3,
+      "odds": 37.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021101306",
+      "horse_name": "サンウイキョウ",
+      "score": -0.5409515060713891,
+      "horse_number": 2,
+      "odds": 7.2
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "race_id": "202505050212",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-09 16:10",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022107340",
+      "horse_name": "ラパンチュール",
+      "score": 0.5233146345745111,
+      "horse_number": 12,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105367",
+      "horse_name": "コンテネレッツア",
+      "score": 0.27089670759549045,
+      "horse_number": 7,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107138",
+      "horse_name": "アタリダイキチ",
+      "score": 0.16979690453107554,
+      "horse_number": 18,
+      "odds": 20.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103556",
+      "horse_name": "キープサインオン",
+      "score": 0.11595082517723901,
+      "horse_number": 16,
+      "odds": 55.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104942",
+      "horse_name": "シルバーレイン",
+      "score": 0.0879678883796265,
+      "horse_number": 1,
+      "odds": 8.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104588",
+      "horse_name": "タイセイカレント",
+      "score": 0.06796654792351628,
+      "horse_number": 14,
+      "odds": 6.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105623",
+      "horse_name": "タマカヅラ",
+      "score": 0.02630891796280152,
+      "horse_number": 3,
+      "odds": 23.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104665",
+      "horse_name": "レザンノワール",
+      "score": -0.03912834285751381,
+      "horse_number": 11,
+      "odds": 36.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101573",
+      "horse_name": "ポッドロワール",
+      "score": -0.04169029273832296,
+      "horse_number": 15,
+      "odds": 7.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104983",
+      "horse_name": "マルプリ",
+      "score": -0.08030558219311316,
+      "horse_number": 4,
+      "odds": 39.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105485",
+      "horse_name": "エリカカリーナ",
+      "score": -0.10238428859800165,
+      "horse_number": 6,
+      "odds": 22.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102679",
+      "horse_name": "アニトラ",
+      "score": -0.2470137922538315,
+      "horse_number": 17,
+      "odds": 32.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105260",
+      "horse_name": "ラセーヌシュメール",
+      "score": -0.3205401996357611,
+      "horse_number": 10,
+      "odds": 94.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017101767",
+      "horse_name": "ベンガン",
+      "score": -0.34371607471266036,
+      "horse_number": 2,
+      "odds": 83.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021105150",
+      "horse_name": "ナファロア",
+      "score": -0.3814986938708682,
+      "horse_number": 9,
+      "odds": 57.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020100656",
+      "horse_name": "ダークンストーミー",
+      "score": -0.5341313769846037,
+      "horse_number": 8,
+      "odds": 121.9
+    },
+    {
+      "rank": 17,
+      "horse_id": "2021104908",
+      "horse_name": "ニコラウス",
+      "score": -0.5529868887808679,
+      "horse_number": 5,
+      "odds": 54.6
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021100008",
+      "horse_name": "ホークマン",
+      "score": -0.7344997899121097,
+      "horse_number": 13,
+      "odds": 172.9
+    }
+  ]
+}
