@@ -1,0 +1,152 @@
+{
+  "race_id": "202505050211",
+  "race_name": "AR共和国杯",
+  "race_time": "2025-11-09 15:30",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105829",
+      "horse_name": "スティンガーグラス",
+      "score": 0.3235028336925777,
+      "horse_number": 18,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104855",
+      "horse_name": "ホーエリート",
+      "score": 0.21741593010320973,
+      "horse_number": 11,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104324",
+      "horse_name": "ディマイザキッド",
+      "score": 0.15813429029405487,
+      "horse_number": 6,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020105798",
+      "horse_name": "マイネルカンパーナ",
+      "score": 0.039431288887436716,
+      "horse_number": 10,
+      "odds": 31.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2018104638",
+      "horse_name": "ミステリーウェイ",
+      "score": 0.0034906139849032874,
+      "horse_number": 13,
+      "odds": 24.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019104909",
+      "horse_name": "ボルドグフーシュ",
+      "score": -0.05335172684947967,
+      "horse_number": 14,
+      "odds": 12.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105168",
+      "horse_name": "セレシオン",
+      "score": -0.06910883741211638,
+      "horse_number": 5,
+      "odds": 27.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019103586",
+      "horse_name": "ギャラクシーナイト",
+      "score": -0.10144970891873306,
+      "horse_number": 2,
+      "odds": 110.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105239",
+      "horse_name": "ショウナンアデイブ",
+      "score": -0.10326508601348718,
+      "horse_number": 9,
+      "odds": 103.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018101660",
+      "horse_name": "ワイドエンペラー",
+      "score": -0.1086323076475337,
+      "horse_number": 1,
+      "odds": 36.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104658",
+      "horse_name": "ボーンディスウェイ",
+      "score": -0.13335898019783327,
+      "horse_number": 8,
+      "odds": 37.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104447",
+      "horse_name": "シュトルーヴェ",
+      "score": -0.15055293540643988,
+      "horse_number": 7,
+      "odds": 12.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019100109",
+      "horse_name": "プラダリア",
+      "score": -0.16185521490473173,
+      "horse_number": 12,
+      "odds": 48.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019105552",
+      "horse_name": "ローシャムパーク",
+      "score": -0.19764600826127082,
+      "horse_number": 3,
+      "odds": 15.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100976",
+      "horse_name": "ハギノアルデバラン",
+      "score": -0.1996442167603628,
+      "horse_number": 17,
+      "odds": 27.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020100254",
+      "horse_name": "ニシノレヴナント",
+      "score": -0.33008216858478895,
+      "horse_number": 16,
+      "odds": 13.5
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020103439",
+      "horse_name": "サスツルギ",
+      "score": -0.4333463692257229,
+      "horse_number": 4,
+      "odds": 121.0
+    },
+    {
+      "rank": 18,
+      "horse_id": "2019104091",
+      "horse_name": "メイショウブレゲ",
+      "score": -0.5404451554847673,
+      "horse_number": 15,
+      "odds": 125.8
+    }
+  ]
+}

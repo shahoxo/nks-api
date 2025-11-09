@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030211",
+  "race_name": "みちのくS",
+  "race_time": "2025-11-09 15:20",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103066",
+      "horse_name": "レイピア",
+      "score": 0.18248051044771946,
+      "horse_number": 6,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020110068",
+      "horse_name": "エイムインライフ",
+      "score": 0.08565481002009086,
+      "horse_number": 16,
+      "odds": 12.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100522",
+      "horse_name": "ジョーメッドヴィン",
+      "score": -0.002024350771438887,
+      "horse_number": 14,
+      "odds": 15.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102672",
+      "horse_name": "メイクアスナッチ",
+      "score": -0.032153261481365644,
+      "horse_number": 5,
+      "odds": 26.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103356",
+      "horse_name": "クファシル",
+      "score": -0.04425422612202867,
+      "horse_number": 7,
+      "odds": 19.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019104915",
+      "horse_name": "バンデルオーラ",
+      "score": -0.10616856918604772,
+      "horse_number": 1,
+      "odds": 19.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101827",
+      "horse_name": "バースクライ",
+      "score": -0.11045495016115099,
+      "horse_number": 10,
+      "odds": 8.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019103594",
+      "horse_name": "レッドアヴァンティ",
+      "score": -0.11764654058892036,
+      "horse_number": 13,
+      "odds": 17.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019110001",
+      "horse_name": "ショウナンハクラク",
+      "score": -0.13705189218644354,
+      "horse_number": 11,
+      "odds": 24.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102315",
+      "horse_name": "アスクワンタイム",
+      "score": -0.17788563781118402,
+      "horse_number": 3,
+      "odds": 27.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101897",
+      "horse_name": "レッドヒルシューズ",
+      "score": -0.19522096135334405,
+      "horse_number": 4,
+      "odds": 16.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106834",
+      "horse_name": "コラソンビート",
+      "score": -0.26024053956397675,
+      "horse_number": 2,
+      "odds": 6.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103063",
+      "horse_name": "マルディランダ",
+      "score": -0.2827269546593288,
+      "horse_number": 8,
+      "odds": 14.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102849",
+      "horse_name": "エイシンワンド",
+      "score": -0.2928590621777153,
+      "horse_number": 12,
+      "odds": 20.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105400",
+      "horse_name": "タマモブラックタイ",
+      "score": -0.3387701768639215,
+      "horse_number": 9,
+      "odds": 7.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103915",
+      "horse_name": "ツインクルトーズ",
+      "score": -0.4732650125261051,
+      "horse_number": 15,
+      "odds": 65.7
+    }
+  ]
+}
