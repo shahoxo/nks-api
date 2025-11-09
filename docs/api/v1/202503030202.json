@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030202",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-09 10:15",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102577",
+      "horse_name": "アンジュプロミス",
+      "score": 0.2588030534429728,
+      "horse_number": 10,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101122",
+      "horse_name": "ヒッグスボソン",
+      "score": 0.14478649010007524,
+      "horse_number": 15,
+      "odds": 10.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103137",
+      "horse_name": "ハッピーラッキー",
+      "score": 0.12697387588845754,
+      "horse_number": 1,
+      "odds": 3.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106721",
+      "horse_name": "ヴァルボナ",
+      "score": 0.05689810497186679,
+      "horse_number": 3,
+      "odds": 6.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103936",
+      "horse_name": "ハネマン",
+      "score": -0.09592153184877038,
+      "horse_number": 6,
+      "odds": 17.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106598",
+      "horse_name": "ドリーマーズ",
+      "score": -0.10847531704801561,
+      "horse_number": 5,
+      "odds": 15.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100143",
+      "horse_name": "マイネルユーゲント",
+      "score": -0.11021795294067825,
+      "horse_number": 8,
+      "odds": 13.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103256",
+      "horse_name": "ユキノサイエンス",
+      "score": -0.1381113834515119,
+      "horse_number": 2,
+      "odds": 17.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023109031",
+      "horse_name": "ココソラーレ",
+      "score": -0.30807014075137007,
+      "horse_number": 7,
+      "odds": 33.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104942",
+      "horse_name": "シャンペトルブーケ",
+      "score": -0.44944810155961695,
+      "horse_number": 9,
+      "odds": 11.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106441",
+      "horse_name": "インザライムライト",
+      "score": -0.5085000417529907,
+      "horse_number": 16,
+      "odds": 31.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100202",
+      "horse_name": "プレヒティヒ",
+      "score": -0.5362231549469464,
+      "horse_number": 12,
+      "odds": 53.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104900",
+      "horse_name": "ミツカネマルテ",
+      "score": -0.5367960309699856,
+      "horse_number": 14,
+      "odds": 87.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104699",
+      "horse_name": "ニシノコハルビヨリ",
+      "score": -0.5467766155598762,
+      "horse_number": 4,
+      "odds": 41.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104140",
+      "horse_name": "セイカユウヒ",
+      "score": -0.630370253879574,
+      "horse_number": 13,
+      "odds": 52.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106347",
+      "horse_name": "エルドラド",
+      "score": -0.6518943205472477,
+      "horse_number": 11,
+      "odds": 142.0
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202505050202",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-09 10:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107162",
+      "horse_name": "サンラザール",
+      "score": 0.39640683337444665,
+      "horse_number": 16,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100803",
+      "horse_name": "ジャックナダル",
+      "score": 0.3133248824298889,
+      "horse_number": 8,
+      "odds": 11.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102813",
+      "horse_name": "フィンガー",
+      "score": 0.2686735669117239,
+      "horse_number": 2,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100858",
+      "horse_name": "エコロガノン",
+      "score": 0.08416794382359337,
+      "horse_number": 13,
+      "odds": 14.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106803",
+      "horse_name": "ショウナンサイオウ",
+      "score": 0.07317276505904231,
+      "horse_number": 12,
+      "odds": 5.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100559",
+      "horse_name": "ビッキーセカンド",
+      "score": -0.13074627621035087,
+      "horse_number": 14,
+      "odds": 80.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104671",
+      "horse_name": "ブッチギレ",
+      "score": -0.14391159972478512,
+      "horse_number": 5,
+      "odds": 29.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107443",
+      "horse_name": "ダイコクヤタエモン",
+      "score": -0.22855886679839205,
+      "horse_number": 15,
+      "odds": 65.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104706",
+      "horse_name": "ニシノロッドマン",
+      "score": -0.5628851560431606,
+      "horse_number": 9,
+      "odds": 91.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101724",
+      "horse_name": "ヌクレオチド",
+      "score": -0.5681202214904204,
+      "horse_number": 3,
+      "odds": 65.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103610",
+      "horse_name": "モータリゼーション",
+      "score": -0.5703889114273121,
+      "horse_number": 10,
+      "odds": 75.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101644",
+      "horse_name": "オルブライト",
+      "score": -0.6552430327524972,
+      "horse_number": 4,
+      "odds": 67.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100204",
+      "horse_name": "キタイノホシ",
+      "score": -0.6956322148371195,
+      "horse_number": 11,
+      "odds": 219.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106170",
+      "horse_name": "ウルヴァリン",
+      "score": -0.6998670045316765,
+      "horse_number": 1,
+      "odds": 247.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106611",
+      "horse_name": "マジックショー",
+      "score": -0.700999851469308,
+      "horse_number": 7,
+      "odds": 194.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104627",
+      "horse_name": "トラストサン",
+      "score": -0.7212483613895885,
+      "horse_number": 6,
+      "odds": 140.0
+    }
+  ]
+}

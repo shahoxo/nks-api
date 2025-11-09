@@ -1,0 +1,72 @@
+{
+  "race_id": "202508040202",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-09 10:35",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103766",
+      "horse_name": "タイムレスキス",
+      "score": 0.36138719944804854,
+      "horse_number": 3,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100974",
+      "horse_name": "スマッシング",
+      "score": 0.343963265797566,
+      "horse_number": 8,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104373",
+      "horse_name": "グランドオーパス",
+      "score": 0.27096051758750594,
+      "horse_number": 6,
+      "odds": 6.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107366",
+      "horse_name": "ロサドラーダ",
+      "score": 0.2199064538303248,
+      "horse_number": 7,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103606",
+      "horse_name": "ルージュプルーヴ",
+      "score": 0.1596997444925738,
+      "horse_number": 1,
+      "odds": 6.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102025",
+      "horse_name": "フィラーエ",
+      "score": -0.1423093411437564,
+      "horse_number": 5,
+      "odds": 15.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106086",
+      "horse_name": "コマチチャン",
+      "score": -0.3241582555580178,
+      "horse_number": 4,
+      "odds": 15.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102487",
+      "horse_name": "ヒルノジェノヴァ",
+      "score": -0.4108213542822826,
+      "horse_number": 2,
+      "odds": 58.5
+    }
+  ]
+}

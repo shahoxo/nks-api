@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040201",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-09 10:05",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105116",
+      "horse_name": "ジュディーイメル",
+      "score": 0.24099136671240368,
+      "horse_number": 2,
+      "odds": 8.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105635",
+      "horse_name": "ナリタアーマー",
+      "score": 0.16496706403036546,
+      "horse_number": 4,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023110043",
+      "horse_name": "ラブインアクション",
+      "score": 0.10043493594150736,
+      "horse_number": 3,
+      "odds": 2.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106873",
+      "horse_name": "ホワイトフレイムス",
+      "score": 0.05163932372729206,
+      "horse_number": 15,
+      "odds": 5.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107535",
+      "horse_name": "ムテキシャチョウ",
+      "score": 0.032567168761110946,
+      "horse_number": 10,
+      "odds": 8.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100241",
+      "horse_name": "セイウンバジリスク",
+      "score": -0.012760593852174068,
+      "horse_number": 12,
+      "odds": 17.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023110063",
+      "horse_name": "エコロボルト",
+      "score": -0.02250219504447882,
+      "horse_number": 6,
+      "odds": 38.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104888",
+      "horse_name": "ジャカルタバオ",
+      "score": -0.08639118014647533,
+      "horse_number": 14,
+      "odds": 27.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101721",
+      "horse_name": "ノリノドラゴン",
+      "score": -0.2148611049080869,
+      "horse_number": 13,
+      "odds": 24.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105256",
+      "horse_name": "タイセイグローバル",
+      "score": -0.21867943306723348,
+      "horse_number": 5,
+      "odds": 71.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104734",
+      "horse_name": "タガノヒダマリ",
+      "score": -0.33996282667303684,
+      "horse_number": 1,
+      "odds": 40.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103284",
+      "horse_name": "メイショウナナシロ",
+      "score": -0.38165566536224516,
+      "horse_number": 7,
+      "odds": 42.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106943",
+      "horse_name": "レインボーステート",
+      "score": -0.4718982848938935,
+      "horse_number": 16,
+      "odds": 57.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102684",
+      "horse_name": "ニホンピロエール",
+      "score": -0.5844092227108343,
+      "horse_number": 11,
+      "odds": 138.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100672",
+      "horse_name": "ナムラシンジロー",
+      "score": -0.6669224377732801,
+      "horse_number": 9,
+      "odds": 184.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023101918",
+      "horse_name": "ピエナビバサンバ",
+      "score": -0.7560238565797833,
+      "horse_number": 8,
+      "odds": 228.5
+    }
+  ]
+}
