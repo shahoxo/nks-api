@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030307",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-15 13:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105163",
+      "horse_name": "ジョリーレーヌ",
+      "score": 0.1468766433319288,
+      "horse_number": 12,
+      "odds": 7.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100248",
+      "horse_name": "セイウンデセオ",
+      "score": 0.1349790762564462,
+      "horse_number": 1,
+      "odds": 5.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101053",
+      "horse_name": "ペガサスノース",
+      "score": 0.12174966261013333,
+      "horse_number": 13,
+      "odds": 10.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106433",
+      "horse_name": "アーサーズウェイン",
+      "score": 0.05382396738066506,
+      "horse_number": 14,
+      "odds": 6.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106320",
+      "horse_name": "ルブリアン",
+      "score": -0.0036013413239697973,
+      "horse_number": 11,
+      "odds": 19.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103261",
+      "horse_name": "アウクソー",
+      "score": -0.007707386889578658,
+      "horse_number": 15,
+      "odds": 18.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106756",
+      "horse_name": "ブルーレース",
+      "score": -0.042192779721430144,
+      "horse_number": 7,
+      "odds": 5.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103493",
+      "horse_name": "イリスアスール",
+      "score": -0.11719042765550369,
+      "horse_number": 2,
+      "odds": 13.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103932",
+      "horse_name": "ジェニファー",
+      "score": -0.14145214161315922,
+      "horse_number": 9,
+      "odds": 10.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106559",
+      "horse_name": "クインズスピカ",
+      "score": -0.15949683316780214,
+      "horse_number": 10,
+      "odds": 23.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104091",
+      "horse_name": "アーコレード",
+      "score": -0.2569277449352315,
+      "horse_number": 8,
+      "odds": 96.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103844",
+      "horse_name": "フリントロック",
+      "score": -0.38273648168981594,
+      "horse_number": 6,
+      "odds": 47.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100158",
+      "horse_name": "ダノンモンテローザ",
+      "score": -0.4545313913160878,
+      "horse_number": 5,
+      "odds": 9.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104499",
+      "horse_name": "リアンエターナル",
+      "score": -0.5350798717395971,
+      "horse_number": 4,
+      "odds": 53.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101702",
+      "horse_name": "チャージドアップ",
+      "score": -0.5611948012495082,
+      "horse_number": 16,
+      "odds": 71.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102749",
+      "horse_name": "ヴィヴァラリス",
+      "score": -0.5974200733756314,
+      "horse_number": 3,
+      "odds": 65.6
+    }
+  ]
+}

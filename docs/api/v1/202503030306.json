@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030306",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-15 12:35",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100688",
+      "horse_name": "セーデルマンランド",
+      "score": 0.07415946291455965,
+      "horse_number": 6,
+      "odds": 13.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105794",
+      "horse_name": "ラテライト",
+      "score": 0.040932515913502415,
+      "horse_number": 1,
+      "odds": 19.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101234",
+      "horse_name": "オオタチ",
+      "score": -0.06644195387786143,
+      "horse_number": 16,
+      "odds": 8.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105505",
+      "horse_name": "ベイラム",
+      "score": -0.0687580535032912,
+      "horse_number": 13,
+      "odds": 6.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106937",
+      "horse_name": "ピストルスター",
+      "score": -0.10117383558496121,
+      "horse_number": 10,
+      "odds": 6.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103237",
+      "horse_name": "ジャスティンライズ",
+      "score": -0.10882610396286126,
+      "horse_number": 15,
+      "odds": 35.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100749",
+      "horse_name": "キャストロププ",
+      "score": -0.15071215438221802,
+      "horse_number": 2,
+      "odds": 9.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104724",
+      "horse_name": "ハルフロンティア",
+      "score": -0.15648219458182533,
+      "horse_number": 3,
+      "odds": 12.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104640",
+      "horse_name": "ルシタニア",
+      "score": -0.2302917934799887,
+      "horse_number": 5,
+      "odds": 19.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105506",
+      "horse_name": "シドニーホバート",
+      "score": -0.2500092682164711,
+      "horse_number": 14,
+      "odds": 5.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100112",
+      "horse_name": "ダンツドール",
+      "score": -0.30669250902231765,
+      "horse_number": 12,
+      "odds": 22.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104780",
+      "horse_name": "プルーヴンウィナー",
+      "score": -0.3634987014191645,
+      "horse_number": 7,
+      "odds": 24.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106180",
+      "horse_name": "シーリュウシー",
+      "score": -0.4358728372991829,
+      "horse_number": 4,
+      "odds": 16.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105493",
+      "horse_name": "イエローブリック",
+      "score": -0.4415748132096512,
+      "horse_number": 9,
+      "odds": 40.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103293",
+      "horse_name": "リアンクトワ",
+      "score": -0.4720006931850854,
+      "horse_number": 8,
+      "odds": 22.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103487",
+      "horse_name": "ホウオウラムセス",
+      "score": -0.6185859102063048,
+      "horse_number": 11,
+      "odds": 55.7
+    }
+  ]
+}
