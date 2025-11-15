@@ -1,0 +1,128 @@
+{
+  "race_id": "202508040309",
+  "race_name": "深草特別",
+  "race_time": "2025-11-15 14:35",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100899",
+      "horse_name": "ビッグドリーム",
+      "score": 0.3318924846962126,
+      "horse_number": 11,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110077",
+      "horse_name": "イリフィ",
+      "score": 0.20352795944298152,
+      "horse_number": 7,
+      "odds": 6.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019101399",
+      "horse_name": "ザウリ",
+      "score": 0.18777408309790544,
+      "horse_number": 1,
+      "odds": 20.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100933",
+      "horse_name": "エルサトアナ",
+      "score": 0.02806467877944346,
+      "horse_number": 3,
+      "odds": 12.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021110153",
+      "horse_name": "ジェネラーレ",
+      "score": -0.08422426353993841,
+      "horse_number": 13,
+      "odds": 4.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019102321",
+      "horse_name": "キングクー",
+      "score": -0.1379964980508381,
+      "horse_number": 6,
+      "odds": 27.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104514",
+      "horse_name": "ハリウッドブルース",
+      "score": -0.14199624976917172,
+      "horse_number": 9,
+      "odds": 20.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019103825",
+      "horse_name": "スペシャルナンバー",
+      "score": -0.20109921009325263,
+      "horse_number": 4,
+      "odds": 45.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102336",
+      "horse_name": "ヨシノヤッタルデー",
+      "score": -0.24298620106404503,
+      "horse_number": 15,
+      "odds": 21.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106936",
+      "horse_name": "フレイミングパイ",
+      "score": -0.25878212147086477,
+      "horse_number": 10,
+      "odds": 44.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106854",
+      "horse_name": "ハピアーザンエバー",
+      "score": -0.3919401227931414,
+      "horse_number": 12,
+      "odds": 30.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103779",
+      "horse_name": "エンプレスペイ",
+      "score": -0.3985655002485241,
+      "horse_number": 8,
+      "odds": 33.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105711",
+      "horse_name": "ズバットマサムネ",
+      "score": -0.44288986006750153,
+      "horse_number": 5,
+      "odds": 22.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018104534",
+      "horse_name": "アスクキングコング",
+      "score": -0.4637014512823034,
+      "horse_number": 14,
+      "odds": 34.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105156",
+      "horse_name": "フェリ",
+      "score": -0.47461614385537176,
+      "horse_number": 2,
+      "odds": 71.7
+    }
+  ]
+}
