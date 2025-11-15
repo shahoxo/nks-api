@@ -1,0 +1,152 @@
+{
+  "race_id": "202508040312",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-15 16:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101650",
+      "horse_name": "サリュエ",
+      "score": 0.27105565302055923,
+      "horse_number": 5,
+      "odds": 15.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105988",
+      "horse_name": "ジーティードレス",
+      "score": 0.25609606752217745,
+      "horse_number": 10,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105765",
+      "horse_name": "ミッキースターダム",
+      "score": 0.18399232960740491,
+      "horse_number": 9,
+      "odds": 7.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103901",
+      "horse_name": "マーシーラン",
+      "score": 0.17499676312127188,
+      "horse_number": 13,
+      "odds": 10.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103655",
+      "horse_name": "ダークブロンド",
+      "score": 0.13471432490208826,
+      "horse_number": 17,
+      "odds": 18.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101304",
+      "horse_name": "サンウリエル",
+      "score": 0.09405733730208356,
+      "horse_number": 3,
+      "odds": 15.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106626",
+      "horse_name": "ロールザダイス",
+      "score": 0.06599286252003936,
+      "horse_number": 1,
+      "odds": 15.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105470",
+      "horse_name": "コスモグローリー",
+      "score": 0.03845195997363836,
+      "horse_number": 18,
+      "odds": 19.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103100",
+      "horse_name": "リオンプライム",
+      "score": 0.034760341872780716,
+      "horse_number": 6,
+      "odds": 34.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105558",
+      "horse_name": "ロケベンドラ",
+      "score": 0.0036619957972213978,
+      "horse_number": 2,
+      "odds": 3.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106206",
+      "horse_name": "ウインラウダ",
+      "score": -0.005960358303488347,
+      "horse_number": 8,
+      "odds": 15.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105865",
+      "horse_name": "エボルヴィング",
+      "score": -0.0637089833260607,
+      "horse_number": 16,
+      "odds": 21.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104121",
+      "horse_name": "カウンティフェア",
+      "score": -0.0756618776291256,
+      "horse_number": 7,
+      "odds": 51.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106647",
+      "horse_name": "テイクイットオール",
+      "score": -0.1643847251797877,
+      "horse_number": 12,
+      "odds": 63.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101783",
+      "horse_name": "プレミアシップ",
+      "score": -0.2433538261882229,
+      "horse_number": 4,
+      "odds": 43.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103495",
+      "horse_name": "マルクパージュ",
+      "score": -0.3957181321839735,
+      "horse_number": 11,
+      "odds": 97.4
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022104710",
+      "horse_name": "ムーンライトラガー",
+      "score": -0.4735489796721344,
+      "horse_number": 15,
+      "odds": 30.2
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022107325",
+      "horse_name": "レーンアジリティ",
+      "score": -0.6047234345483794,
+      "horse_number": 14,
+      "odds": 37.1
+    }
+  ]
+}
