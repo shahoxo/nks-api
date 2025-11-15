@@ -1,0 +1,104 @@
+{
+  "race_id": "202508040304",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-15 11:35",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103795",
+      "horse_name": "タイムレスフレアー",
+      "score": 0.3474709567615797,
+      "horse_number": 9,
+      "odds": 2.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106440",
+      "horse_name": "パーヴォ",
+      "score": 0.28238089358561186,
+      "horse_number": 3,
+      "odds": 2.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102806",
+      "horse_name": "ソルパッサーレ",
+      "score": 0.16103488822009038,
+      "horse_number": 6,
+      "odds": 8.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107197",
+      "horse_name": "クランズクラウン",
+      "score": 0.13114303670864716,
+      "horse_number": 7,
+      "odds": 7.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106855",
+      "horse_name": "ジュンドラドラ",
+      "score": -0.12755062498963063,
+      "horse_number": 8,
+      "odds": 19.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103196",
+      "horse_name": "フクチャンブラック",
+      "score": -0.29207734733478274,
+      "horse_number": 1,
+      "odds": 12.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101666",
+      "horse_name": "ウォーターコトノハ",
+      "score": -0.30187048198233124,
+      "horse_number": 5,
+      "odds": 24.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106636",
+      "horse_name": "ジェンティール",
+      "score": -0.36876876799017055,
+      "horse_number": 4,
+      "odds": 42.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105773",
+      "horse_name": "ジョウショーブリエ",
+      "score": -0.44126299589203943,
+      "horse_number": 2,
+      "odds": 51.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102752",
+      "horse_name": "スマートグロワール",
+      "score": -0.6349945228322167,
+      "horse_number": 11,
+      "odds": 49.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105050",
+      "horse_name": "ミトノテイオー",
+      "score": -0.7295377203336686,
+      "horse_number": 12,
+      "odds": 93.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106169",
+      "horse_name": "セイカンサンラン",
+      "score": -0.7560238565797833,
+      "horse_number": 10,
+      "odds": 123.9
+    }
+  ]
+}
