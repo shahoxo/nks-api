@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040310",
+  "race_name": "アンドロメダ",
+  "race_time": "2025-11-15 15:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103354",
+      "horse_name": "アイスグリーン",
+      "score": 0.3745755602118178,
+      "horse_number": 14,
+      "odds": 8.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019104742",
+      "horse_name": "レッドバリエンテ",
+      "score": 0.28616047705462316,
+      "horse_number": 4,
+      "odds": 16.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019104850",
+      "horse_name": "バレエマスター",
+      "score": 0.25268892156242007,
+      "horse_number": 7,
+      "odds": 13.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020105781",
+      "horse_name": "マイネルケレリウス",
+      "score": 0.23201888054784192,
+      "horse_number": 15,
+      "odds": 17.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103025",
+      "horse_name": "ドクタードリトル",
+      "score": 0.2225329500701011,
+      "horse_number": 1,
+      "odds": 12.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106782",
+      "horse_name": "コスモブッドレア",
+      "score": 0.16017815073322017,
+      "horse_number": 2,
+      "odds": 34.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018106314",
+      "horse_name": "エープラス",
+      "score": 0.1447271584866714,
+      "horse_number": 8,
+      "odds": 61.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105633",
+      "horse_name": "リビアングラス",
+      "score": 0.14042486710448432,
+      "horse_number": 6,
+      "odds": 4.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103101",
+      "horse_name": "シェイクユアハート",
+      "score": 0.121048152798201,
+      "horse_number": 9,
+      "odds": 5.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104882",
+      "horse_name": "シュバルツクーゲル",
+      "score": 0.01387484206989072,
+      "horse_number": 13,
+      "odds": 9.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105750",
+      "horse_name": "マイネルメモリー",
+      "score": -0.03506143375668906,
+      "horse_number": 10,
+      "odds": 20.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105225",
+      "horse_name": "スパイダーゴールド",
+      "score": -0.10697414505023538,
+      "horse_number": 12,
+      "odds": 33.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106645",
+      "horse_name": "ウエストナウ",
+      "score": -0.14376695315074337,
+      "horse_number": 16,
+      "odds": 9.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020107030",
+      "horse_name": "ウインエーデル",
+      "score": -0.16971033548750913,
+      "horse_number": 5,
+      "odds": 26.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102870",
+      "horse_name": "ブレイヴロッカー",
+      "score": -0.2838657665187127,
+      "horse_number": 3,
+      "odds": 18.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106883",
+      "horse_name": "2022106883",
+      "score": -0.47293600501096866,
+      "horse_number": 11,
+      "odds": 121.0
+    }
+  ]
+}

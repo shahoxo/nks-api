@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030311",
+  "race_name": "フルーツライ",
+  "race_time": "2025-11-15 15:25",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101237",
+      "horse_name": "シャカシャカシー",
+      "score": 0.2767289838682123,
+      "horse_number": 7,
+      "odds": 10.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102462",
+      "horse_name": "ワークソング",
+      "score": 0.11646932981512875,
+      "horse_number": 13,
+      "odds": 7.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100114",
+      "horse_name": "ブレーザー",
+      "score": 0.05758692567934144,
+      "horse_number": 8,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110142",
+      "horse_name": "ファムエレガンテ",
+      "score": -0.020067441884191635,
+      "horse_number": 1,
+      "odds": 2.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019102753",
+      "horse_name": "カフジエニアゴン",
+      "score": -0.0956245846774316,
+      "horse_number": 6,
+      "odds": 13.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103155",
+      "horse_name": "メイショウキルギス",
+      "score": -0.1284135439353287,
+      "horse_number": 11,
+      "odds": 12.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021110136",
+      "horse_name": "アメリカンマーチ",
+      "score": -0.13314228845645945,
+      "horse_number": 4,
+      "odds": 9.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020110079",
+      "horse_name": "アマルナ",
+      "score": -0.15445644303926326,
+      "horse_number": 16,
+      "odds": 17.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105058",
+      "horse_name": "ミユキアイラブユー",
+      "score": -0.16570626522614018,
+      "horse_number": 9,
+      "odds": 15.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019104660",
+      "horse_name": "フラップシグナス",
+      "score": -0.22813508207396974,
+      "horse_number": 14,
+      "odds": 56.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018103738",
+      "horse_name": "ミラバーグマン",
+      "score": -0.2522842410965484,
+      "horse_number": 15,
+      "odds": 61.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103367",
+      "horse_name": "ハンベルジャイト",
+      "score": -0.3258828237446829,
+      "horse_number": 5,
+      "odds": 28.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104613",
+      "horse_name": "タツダイヤモンド",
+      "score": -0.4068168349748753,
+      "horse_number": 2,
+      "odds": 68.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020106534",
+      "horse_name": "メイショウカゼマチ",
+      "score": -0.5198621601844773,
+      "horse_number": 10,
+      "odds": 65.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018103551",
+      "horse_name": "ユスティニアン",
+      "score": -0.5383061217726849,
+      "horse_number": 3,
+      "odds": 66.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021106510",
+      "horse_name": "オソレ",
+      "score": -0.7212483613895885,
+      "horse_number": 12,
+      "odds": 67.5
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202505050311",
+  "race_name": "武蔵野S",
+  "race_time": "2025-11-15 15:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103307",
+      "horse_name": "コスタノヴァ",
+      "score": 0.453635360795809,
+      "horse_number": 4,
+      "odds": 2.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105537",
+      "horse_name": "ビダーヤ",
+      "score": 0.3670605222403827,
+      "horse_number": 1,
+      "odds": 10.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110083",
+      "horse_name": "ルクソールカフェ",
+      "score": 0.34658656221457074,
+      "horse_number": 16,
+      "odds": 4.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110112",
+      "horse_name": "ウェットシーズン",
+      "score": 0.2926158989547026,
+      "horse_number": 13,
+      "odds": 16.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103622",
+      "horse_name": "マテンロウコマンド",
+      "score": 0.2862983378172453,
+      "horse_number": 9,
+      "odds": 27.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102009",
+      "horse_name": "ラタフォレスト",
+      "score": 0.28577449716365466,
+      "horse_number": 12,
+      "odds": 49.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104584",
+      "horse_name": "アドマイヤデイトナ",
+      "score": 0.26714117777541063,
+      "horse_number": 7,
+      "odds": 93.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018106084",
+      "horse_name": "ペプチドナイル",
+      "score": 0.1959833617389981,
+      "horse_number": 14,
+      "odds": 11.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100145",
+      "horse_name": "ロードフォンス",
+      "score": 0.1667716014606535,
+      "horse_number": 3,
+      "odds": 20.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102904",
+      "horse_name": "オメガギネス",
+      "score": 0.07134178266089557,
+      "horse_number": 11,
+      "odds": 4.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019103879",
+      "horse_name": "バトルクライ",
+      "score": 0.053599154826034945,
+      "horse_number": 5,
+      "odds": 38.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101599",
+      "horse_name": "サンライズフレイム",
+      "score": -0.050819847801518665,
+      "horse_number": 15,
+      "odds": 24.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105154",
+      "horse_name": "アサカラキング",
+      "score": -0.07068717238263614,
+      "horse_number": 6,
+      "odds": 52.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019101681",
+      "horse_name": "サンライズホーク",
+      "score": -0.2979121287029051,
+      "horse_number": 8,
+      "odds": 195.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019103034",
+      "horse_name": "ダノンスコーピオン",
+      "score": -0.342675306736863,
+      "horse_number": 10,
+      "odds": 71.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019102437",
+      "horse_name": "ヴァルツァーシャル",
+      "score": -0.37594031802064803,
+      "horse_number": 2,
+      "odds": 175.3
+    }
+  ]
+}
