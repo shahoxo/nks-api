@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030308",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-15 13:40",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105338",
+      "horse_name": "リポサンテ",
+      "score": 0.33498892581936823,
+      "horse_number": 7,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103345",
+      "horse_name": "マイファミリー",
+      "score": 0.20409809131567863,
+      "horse_number": 2,
+      "odds": 5.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020104491",
+      "horse_name": "ファームツエンティ",
+      "score": 0.13539181106740097,
+      "horse_number": 9,
+      "odds": 8.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103222",
+      "horse_name": "エオアリイ",
+      "score": 0.04152716916102904,
+      "horse_number": 15,
+      "odds": 19.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105189",
+      "horse_name": "ウインリュクス",
+      "score": -0.020348053890210684,
+      "horse_number": 12,
+      "odds": 10.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106811",
+      "horse_name": "マイネルアウルム",
+      "score": -0.09061125366994492,
+      "horse_number": 14,
+      "odds": 15.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104860",
+      "horse_name": "ウールデュボヌール",
+      "score": -0.11145651047919419,
+      "horse_number": 5,
+      "odds": 10.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104856",
+      "horse_name": "ブリヤディアマンテ",
+      "score": -0.1742989297276778,
+      "horse_number": 1,
+      "odds": 21.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100151",
+      "horse_name": "ロードアフェット",
+      "score": -0.30700782479455024,
+      "horse_number": 10,
+      "odds": 53.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103845",
+      "horse_name": "ニホンピロゴルディ",
+      "score": -0.3585496621755799,
+      "horse_number": 11,
+      "odds": 26.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104686",
+      "horse_name": "エバーステイ",
+      "score": -0.3803611907189469,
+      "horse_number": 6,
+      "odds": 41.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104831",
+      "horse_name": "マーゴットソラーレ",
+      "score": -0.4178542083630282,
+      "horse_number": 13,
+      "odds": 27.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101492",
+      "horse_name": "エリナ",
+      "score": -0.4367808742745154,
+      "horse_number": 16,
+      "odds": 119.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020106692",
+      "horse_name": "アオラキ",
+      "score": -0.4457188603709705,
+      "horse_number": 8,
+      "odds": 9.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106221",
+      "horse_name": "ウインイルネージュ",
+      "score": -0.5113929901287999,
+      "horse_number": 4,
+      "odds": 43.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104432",
+      "horse_name": "グローリアミノル",
+      "score": -0.5445192997890923,
+      "horse_number": 3,
+      "odds": 34.6
+    }
+  ]
+}

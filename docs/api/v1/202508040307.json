@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040307",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-15 13:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103267",
+      "horse_name": "ギュルヴィ",
+      "score": 0.44965319009360083,
+      "horse_number": 2,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105987",
+      "horse_name": "アートレスマインド",
+      "score": 0.372812674750265,
+      "horse_number": 8,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104556",
+      "horse_name": "リガーレ",
+      "score": 0.2732453590174798,
+      "horse_number": 1,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022107185",
+      "horse_name": "エテルノレガーメ",
+      "score": 0.17555071832354865,
+      "horse_number": 5,
+      "odds": 18.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101622",
+      "horse_name": "ポイントネモ",
+      "score": 0.1288855576593469,
+      "horse_number": 6,
+      "odds": 10.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106644",
+      "horse_name": "ロカヒ",
+      "score": 0.08252439853558474,
+      "horse_number": 16,
+      "odds": 6.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102882",
+      "horse_name": "タイセイカイザー",
+      "score": -0.10248348208811678,
+      "horse_number": 3,
+      "odds": 20.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104403",
+      "horse_name": "ニシノミチアキ",
+      "score": -0.19274038442231775,
+      "horse_number": 4,
+      "odds": 44.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100166",
+      "horse_name": "ワンダーリズム",
+      "score": -0.1944392616805239,
+      "horse_number": 7,
+      "odds": 60.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103682",
+      "horse_name": "マジックブルー",
+      "score": -0.26658735597090655,
+      "horse_number": 9,
+      "odds": 21.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102273",
+      "horse_name": "ムーンスカイ",
+      "score": -0.29099622102410616,
+      "horse_number": 12,
+      "odds": 207.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104879",
+      "horse_name": "テーオーシュタイン",
+      "score": -0.30931483358578366,
+      "horse_number": 11,
+      "odds": 85.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104295",
+      "horse_name": "トモジャザーン",
+      "score": -0.3249508181337791,
+      "horse_number": 14,
+      "odds": 28.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102986",
+      "horse_name": "シゲルオトヒメ",
+      "score": -0.507950180436314,
+      "horse_number": 10,
+      "odds": 87.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102037",
+      "horse_name": "ルクスメンデス",
+      "score": -0.5485661685169994,
+      "horse_number": 13,
+      "odds": 131.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106927",
+      "horse_name": "リュクスドレフォン",
+      "score": -0.5867758372926961,
+      "horse_number": 15,
+      "odds": 76.7
+    }
+  ]
+}
