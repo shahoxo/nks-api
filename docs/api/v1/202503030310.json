@@ -1,0 +1,128 @@
+{
+  "race_id": "202503030310",
+  "race_name": "西郷特別",
+  "race_time": "2025-11-15 14:50",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105931",
+      "horse_name": "ギマール",
+      "score": 0.053795553314415906,
+      "horse_number": 3,
+      "odds": 26.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103778",
+      "horse_name": "ライフゲート",
+      "score": 0.044524786286541544,
+      "horse_number": 10,
+      "odds": 2.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107287",
+      "horse_name": "アメージング",
+      "score": 0.0007602517816918328,
+      "horse_number": 2,
+      "odds": 8.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102828",
+      "horse_name": "メイショウタイピン",
+      "score": -0.03323620441850648,
+      "horse_number": 7,
+      "odds": 29.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101533",
+      "horse_name": "シンボリノエル",
+      "score": -0.06037132695242308,
+      "horse_number": 13,
+      "odds": 28.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102200",
+      "horse_name": "レッドライトニング",
+      "score": -0.07330059428610346,
+      "horse_number": 1,
+      "odds": 16.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101045",
+      "horse_name": "タイセイミッション",
+      "score": -0.12199820365621306,
+      "horse_number": 9,
+      "odds": 7.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102559",
+      "horse_name": "ナチュラルリバー",
+      "score": -0.2078824180861659,
+      "horse_number": 11,
+      "odds": 48.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100432",
+      "horse_name": "オーケーマヒナ",
+      "score": -0.2155588976501877,
+      "horse_number": 14,
+      "odds": 9.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021107262",
+      "horse_name": "サンキャメロン",
+      "score": -0.21706313119828247,
+      "horse_number": 12,
+      "odds": 65.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021109027",
+      "horse_name": "テーオールビー",
+      "score": -0.21857597498515807,
+      "horse_number": 15,
+      "odds": 5.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103225",
+      "horse_name": "チカミリオン",
+      "score": -0.29558402065668166,
+      "horse_number": 5,
+      "odds": 45.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105971",
+      "horse_name": "フラッシング",
+      "score": -0.3323702872014619,
+      "horse_number": 4,
+      "odds": 55.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104207",
+      "horse_name": "ビターゼノビア",
+      "score": -0.4816083370899754,
+      "horse_number": 8,
+      "odds": 47.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2017102043",
+      "horse_name": "ファイヴレター",
+      "score": -0.6143151523856235,
+      "horse_number": 6,
+      "odds": 139.6
+    }
+  ]
+}
