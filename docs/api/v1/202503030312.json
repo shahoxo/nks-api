@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030312",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-15 16:01",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106605",
+      "horse_name": "ヤマニンレセディ",
+      "score": 0.16230500274636103,
+      "horse_number": 2,
+      "odds": 7.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102492",
+      "horse_name": "グッバイウェーブ",
+      "score": 0.13194788166057514,
+      "horse_number": 14,
+      "odds": 13.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105212",
+      "horse_name": "エコロハート",
+      "score": 0.09460193998611871,
+      "horse_number": 9,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105563",
+      "horse_name": "シャドフ",
+      "score": 0.04304002431935804,
+      "horse_number": 7,
+      "odds": 15.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100492",
+      "horse_name": "マーゴットカーラ",
+      "score": -0.00510443169034593,
+      "horse_number": 12,
+      "odds": 21.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105747",
+      "horse_name": "プリュノワール",
+      "score": -0.10837302204446635,
+      "horse_number": 4,
+      "odds": 5.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104481",
+      "horse_name": "ビアフォーナウ",
+      "score": -0.118380621276384,
+      "horse_number": 1,
+      "odds": 13.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103073",
+      "horse_name": "サウンドレイラ",
+      "score": -0.19603697698384026,
+      "horse_number": 11,
+      "odds": 17.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106586",
+      "horse_name": "ラブカムーン",
+      "score": -0.22689720049111847,
+      "horse_number": 13,
+      "odds": 19.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102401",
+      "horse_name": "グランテレーズ",
+      "score": -0.24445414173478444,
+      "horse_number": 10,
+      "odds": 18.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101171",
+      "horse_name": "ニシノヒミチュ",
+      "score": -0.2483380713980093,
+      "horse_number": 5,
+      "odds": 13.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101290",
+      "horse_name": "マリノトニトゥルス",
+      "score": -0.2983020118129571,
+      "horse_number": 8,
+      "odds": 7.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100962",
+      "horse_name": "クイーンズデイ",
+      "score": -0.3911332280046571,
+      "horse_number": 3,
+      "odds": 18.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104920",
+      "horse_name": "ハイファイスピード",
+      "score": -0.4089409940416894,
+      "horse_number": 15,
+      "odds": 15.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103443",
+      "horse_name": "ポップグルーヴ",
+      "score": -0.5529868887808679,
+      "horse_number": 16,
+      "odds": 106.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021105794",
+      "horse_name": "レザンクレール",
+      "score": -0.6906017329490806,
+      "horse_number": 6,
+      "odds": 30.9
+    }
+  ]
+}

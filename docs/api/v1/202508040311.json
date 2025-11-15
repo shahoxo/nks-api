@@ -1,0 +1,72 @@
+{
+  "race_id": "202508040311",
+  "race_name": "デイリー2歳",
+  "race_time": "2025-11-15 15:45",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107153",
+      "horse_name": "カヴァレリッツォ",
+      "score": 0.36774387020415905,
+      "horse_number": 7,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103453",
+      "horse_name": "キャンディード",
+      "score": 0.3389876915201962,
+      "horse_number": 5,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105311",
+      "horse_name": "アドマイヤクワッズ",
+      "score": 0.3071425589325216,
+      "horse_number": 6,
+      "odds": 3.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105505",
+      "horse_name": "エイシンディード",
+      "score": 0.1486517121241036,
+      "horse_number": 1,
+      "odds": 17.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104856",
+      "horse_name": "マイケルバローズ",
+      "score": 0.1268640422472943,
+      "horse_number": 2,
+      "odds": 32.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103474",
+      "horse_name": "アイガーリー",
+      "score": 0.11439989586262912,
+      "horse_number": 4,
+      "odds": 22.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023110055",
+      "horse_name": "グッドピース",
+      "score": 0.09742344770939028,
+      "horse_number": 8,
+      "odds": 10.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100681",
+      "horse_name": "ガリレア",
+      "score": 0.06996286701008572,
+      "horse_number": 3,
+      "odds": 17.3
+    }
+  ]
+}
