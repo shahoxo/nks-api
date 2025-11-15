@@ -1,0 +1,64 @@
+{
+  "race_id": "202508040308",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-15 14:01",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101454",
+      "horse_name": "ステラクラウン",
+      "score": 0.15829926314132606,
+      "horse_number": 5,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104948",
+      "horse_name": "キーパフォーマー",
+      "score": 0.09908289267470699,
+      "horse_number": 6,
+      "odds": 2.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102308",
+      "horse_name": "エアニゲラ",
+      "score": 0.06550452580308597,
+      "horse_number": 4,
+      "odds": 15.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106667",
+      "horse_name": "ヴォワラクテ",
+      "score": 0.054138266921317645,
+      "horse_number": 3,
+      "odds": 10.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101434",
+      "horse_name": "ハミング",
+      "score": 0.010254483866066264,
+      "horse_number": 7,
+      "odds": 10.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105031",
+      "horse_name": "ジャルディニエ",
+      "score": 0.002559536205455952,
+      "horse_number": 2,
+      "odds": 6.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106993",
+      "horse_name": "サクソンジェンヌ",
+      "score": -0.033987599555377335,
+      "horse_number": 1,
+      "odds": 6.8
+    }
+  ]
+}
