@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030302",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-15 10:15",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106513",
+      "horse_name": "キーガッツ",
+      "score": 0.16927076522609058,
+      "horse_number": 7,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103704",
+      "horse_name": "アスゴッド",
+      "score": 0.08483035500564808,
+      "horse_number": 11,
+      "odds": 10.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102153",
+      "horse_name": "プレゼンティーア",
+      "score": 0.0633780544278675,
+      "horse_number": 4,
+      "odds": 5.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103448",
+      "horse_name": "ツーピース",
+      "score": -0.1058615766432559,
+      "horse_number": 8,
+      "odds": 3.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106150",
+      "horse_name": "ゴッドカインド",
+      "score": -0.12374825430202732,
+      "horse_number": 15,
+      "odds": 11.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106686",
+      "horse_name": "スターランウェイ",
+      "score": -0.13097477846490074,
+      "horse_number": 13,
+      "odds": 9.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106119",
+      "horse_name": "タイセイピューマ",
+      "score": -0.17869443990752346,
+      "horse_number": 14,
+      "odds": 21.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106759",
+      "horse_name": "サンロレンツォ",
+      "score": -0.19790996369620012,
+      "horse_number": 12,
+      "odds": 40.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103188",
+      "horse_name": "メイショウゴールド",
+      "score": -0.22716479740442408,
+      "horse_number": 1,
+      "odds": 10.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104411",
+      "horse_name": "シャインミラカナ",
+      "score": -0.24508806902987362,
+      "horse_number": 10,
+      "odds": 115.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019101428",
+      "horse_name": "ローズブルーム",
+      "score": -0.34795058803777,
+      "horse_number": 2,
+      "odds": 99.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104415",
+      "horse_name": "スピニングマーリン",
+      "score": -0.37328340440377583,
+      "horse_number": 16,
+      "odds": 53.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102701",
+      "horse_name": "サイコウダネ",
+      "score": -0.460896847510472,
+      "horse_number": 6,
+      "odds": 110.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100662",
+      "horse_name": "ベニシア",
+      "score": -0.47483016417401924,
+      "horse_number": 9,
+      "odds": 64.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101550",
+      "horse_name": "ファイブセンス",
+      "score": -0.6350390551900531,
+      "horse_number": 3,
+      "odds": 123.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020107018",
+      "horse_name": "レジェンダリーデイ",
+      "score": -0.6493194444052627,
+      "horse_number": 5,
+      "odds": 41.9
+    }
+  ]
+}

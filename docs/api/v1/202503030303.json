@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030303",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-15 10:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105807",
+      "horse_name": "アメティスタ",
+      "score": 0.2800774859343708,
+      "horse_number": 5,
+      "odds": 2.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107222",
+      "horse_name": "エオリアンリッジ",
+      "score": 0.22471096691557424,
+      "horse_number": 10,
+      "odds": 8.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105066",
+      "horse_name": "ヴルールドロワ",
+      "score": 0.21446763354971293,
+      "horse_number": 7,
+      "odds": 25.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101591",
+      "horse_name": "アストリル",
+      "score": 0.13539181106740097,
+      "horse_number": 12,
+      "odds": 15.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104933",
+      "horse_name": "ブラックジャック",
+      "score": -0.013764659733826953,
+      "horse_number": 2,
+      "odds": 31.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106475",
+      "horse_name": "ベルランコントル",
+      "score": -0.1704790340511296,
+      "horse_number": 15,
+      "odds": 5.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105888",
+      "horse_name": "ウインラファーガ",
+      "score": -0.22199759134761907,
+      "horse_number": 8,
+      "odds": 12.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106607",
+      "horse_name": "ブランニューホーム",
+      "score": -0.3150654861271311,
+      "horse_number": 6,
+      "odds": 36.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100615",
+      "horse_name": "ジャケットポケット",
+      "score": -0.3460907065844224,
+      "horse_number": 13,
+      "odds": 27.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106609",
+      "horse_name": "ユーゲットミー",
+      "score": -0.38574116536860426,
+      "horse_number": 9,
+      "odds": 20.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102442",
+      "horse_name": "ウールヴヘジン",
+      "score": -0.4063716288179224,
+      "horse_number": 1,
+      "odds": 22.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100730",
+      "horse_name": "ダーリンダーリン",
+      "score": -0.4137585314331973,
+      "horse_number": 3,
+      "odds": 26.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105874",
+      "horse_name": "ウインブリザード",
+      "score": -0.41580744568088024,
+      "horse_number": 14,
+      "odds": 10.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103155",
+      "horse_name": "エグジスタンス",
+      "score": -0.45797756280040036,
+      "horse_number": 4,
+      "odds": 73.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106151",
+      "horse_name": "ラスタリア",
+      "score": -0.5181818844440309,
+      "horse_number": 11,
+      "odds": 31.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106098",
+      "horse_name": "ピコマーキス",
+      "score": -0.5328258199304466,
+      "horse_number": 16,
+      "odds": 75.7
+    }
+  ]
+}

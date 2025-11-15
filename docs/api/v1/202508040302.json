@@ -1,0 +1,96 @@
+{
+  "race_id": "202508040302",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-15 10:35",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101452",
+      "horse_name": "スマートジュリアス",
+      "score": 0.2836420220001241,
+      "horse_number": 8,
+      "odds": 1.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105274",
+      "horse_name": "ミッキージャンプ",
+      "score": 0.15587056537589167,
+      "horse_number": 9,
+      "odds": 8.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103592",
+      "horse_name": "リリーサンライズ",
+      "score": 0.10779015852622671,
+      "horse_number": 11,
+      "odds": 24.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106018",
+      "horse_name": "リフラ",
+      "score": -0.13240253699158178,
+      "horse_number": 4,
+      "odds": 12.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106304",
+      "horse_name": "ファフロツキーズ",
+      "score": -0.13850260665766292,
+      "horse_number": 1,
+      "odds": 20.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102036",
+      "horse_name": "アイカンアズーラ",
+      "score": -0.1683758965445386,
+      "horse_number": 5,
+      "odds": 19.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106105",
+      "horse_name": "ユナダイヤ",
+      "score": -0.49374938291115944,
+      "horse_number": 6,
+      "odds": 35.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101854",
+      "horse_name": "タイムレスラブ",
+      "score": -0.5016879061937414,
+      "horse_number": 3,
+      "odds": 48.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107418",
+      "horse_name": "メロウアンバー",
+      "score": -0.6300216468967684,
+      "horse_number": 7,
+      "odds": 100.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103425",
+      "horse_name": "シャマレル",
+      "score": -0.6328810440846592,
+      "horse_number": 10,
+      "odds": 62.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105467",
+      "horse_name": "ショーンバローズ",
+      "score": -0.6668471881249025,
+      "horse_number": 2,
+      "odds": 44.3
+    }
+  ]
+}

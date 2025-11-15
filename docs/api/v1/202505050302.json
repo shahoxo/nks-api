@@ -1,0 +1,144 @@
+{
+  "race_id": "202505050302",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-15 10:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107352",
+      "horse_name": "スペルーチェ",
+      "score": 0.32560396608685016,
+      "horse_number": 5,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105771",
+      "horse_name": "ショウナンパトス",
+      "score": 0.29935110347250143,
+      "horse_number": 6,
+      "odds": 9.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106411",
+      "horse_name": "マンサニージャ",
+      "score": 0.26227729710560993,
+      "horse_number": 10,
+      "odds": 11.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107021",
+      "horse_name": "サンデースマッシュ",
+      "score": 0.15342503062456966,
+      "horse_number": 9,
+      "odds": 8.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107370",
+      "horse_name": "フレアリングベリー",
+      "score": 0.13780675155757988,
+      "horse_number": 13,
+      "odds": 7.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101165",
+      "horse_name": "プレイメイカー",
+      "score": 0.09171215461905691,
+      "horse_number": 4,
+      "odds": 14.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100629",
+      "horse_name": "ゴーフォアブローク",
+      "score": 0.007007721652923883,
+      "horse_number": 17,
+      "odds": 35.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104023",
+      "horse_name": "コスモアンタレス",
+      "score": -0.11710844775070305,
+      "horse_number": 16,
+      "odds": 122.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023110026",
+      "horse_name": "スカイピア",
+      "score": -0.14838035535882402,
+      "horse_number": 14,
+      "odds": 37.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104493",
+      "horse_name": "ベストバラディア",
+      "score": -0.16032314589975305,
+      "horse_number": 11,
+      "odds": 74.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106605",
+      "horse_name": "フェイスリフト",
+      "score": -0.24875741033157517,
+      "horse_number": 8,
+      "odds": 77.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023110075",
+      "horse_name": "プルヴォワール",
+      "score": -0.27206646928440364,
+      "horse_number": 3,
+      "odds": 40.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102434",
+      "horse_name": "グランフルス",
+      "score": -0.3146821081282386,
+      "horse_number": 12,
+      "odds": 143.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104935",
+      "horse_name": "ホシヅキヨ",
+      "score": -0.4025194653108566,
+      "horse_number": 7,
+      "odds": 83.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105893",
+      "horse_name": "ウインリフレクト",
+      "score": -0.4398146786192838,
+      "horse_number": 15,
+      "odds": 96.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106747",
+      "horse_name": "ダイヤテソーロ",
+      "score": -0.4770292184643534,
+      "horse_number": 2,
+      "odds": 63.5
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023106408",
+      "horse_name": "アンラコル",
+      "score": -0.6527340251571936,
+      "horse_number": 1,
+      "odds": 124.3
+    }
+  ]
+}

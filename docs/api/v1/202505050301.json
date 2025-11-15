@@ -1,0 +1,112 @@
+{
+  "race_id": "202505050301",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-15 09:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105932",
+      "horse_name": "リバテイー",
+      "score": 0.1691698937877042,
+      "horse_number": 2,
+      "odds": 13.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103802",
+      "horse_name": "ブーケドリス",
+      "score": 0.07874412138221273,
+      "horse_number": 12,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104150",
+      "horse_name": "カセノアステリア",
+      "score": 0.0726526666362698,
+      "horse_number": 7,
+      "odds": 1.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104526",
+      "horse_name": "フェスティヴハート",
+      "score": 0.06343167490161057,
+      "horse_number": 11,
+      "odds": 10.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103942",
+      "horse_name": "ソードスレイプニル",
+      "score": -0.16951810649371518,
+      "horse_number": 1,
+      "odds": 25.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103692",
+      "horse_name": "ラヴィングリー",
+      "score": -0.2000297921979537,
+      "horse_number": 4,
+      "odds": 47.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106730",
+      "horse_name": "シトリンテソーロ",
+      "score": -0.45004595955199644,
+      "horse_number": 9,
+      "odds": 76.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102267",
+      "horse_name": "リワードシュテルン",
+      "score": -0.4628777560674139,
+      "horse_number": 8,
+      "odds": 33.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105359",
+      "horse_name": "トーセンクリステル",
+      "score": -0.5844092227108343,
+      "horse_number": 10,
+      "odds": 243.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023109094",
+      "horse_name": "ラブデウザ",
+      "score": -0.6033879514498237,
+      "horse_number": 13,
+      "odds": 73.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101643",
+      "horse_name": "ドナテアン",
+      "score": -0.6290179124528512,
+      "horse_number": 6,
+      "odds": 297.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023109063",
+      "horse_name": "シンデレラヒメ",
+      "score": -0.7344997899121097,
+      "horse_number": 5,
+      "odds": 179.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101965",
+      "horse_name": "フクシマグランツ",
+      "score": -0.7560238565797833,
+      "horse_number": 3,
+      "odds": 203.0
+    }
+  ]
+}
