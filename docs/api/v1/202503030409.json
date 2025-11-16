@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030409",
+  "race_name": "福島2歳S",
+  "race_time": "2025-11-16 14:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106780",
+      "horse_name": "ランプローグ",
+      "score": 0.0921829758584035,
+      "horse_number": 9,
+      "odds": 21.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103710",
+      "horse_name": "ハイヤーマーク",
+      "score": 0.03849574940097354,
+      "horse_number": 1,
+      "odds": 19.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103037",
+      "horse_name": "コパノトーマス",
+      "score": 0.02295749420184521,
+      "horse_number": 3,
+      "odds": 8.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100398",
+      "horse_name": "ランドスター",
+      "score": 0.011939498423282895,
+      "horse_number": 11,
+      "odds": 7.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103162",
+      "horse_name": "タマモイカロス",
+      "score": 0.004616936442972278,
+      "horse_number": 8,
+      "odds": 3.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102897",
+      "horse_name": "プリティーミズホ",
+      "score": -0.03802530913326114,
+      "horse_number": 12,
+      "odds": 13.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101106",
+      "horse_name": "クイーンレグナント",
+      "score": -0.09335923887440493,
+      "horse_number": 5,
+      "odds": 9.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100796",
+      "horse_name": "クラディスティーナ",
+      "score": -0.11889803190144564,
+      "horse_number": 6,
+      "odds": 32.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023110040",
+      "horse_name": "エンヴィーミー",
+      "score": -0.12062527117130115,
+      "horse_number": 4,
+      "odds": 21.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105545",
+      "horse_name": "スターオブロンドン",
+      "score": -0.12586869296137074,
+      "horse_number": 13,
+      "odds": 26.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104121",
+      "horse_name": "アルスマグナ",
+      "score": -0.1276470497467115,
+      "horse_number": 16,
+      "odds": 22.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103721",
+      "horse_name": "ルージュサウダージ",
+      "score": -0.1552590211608036,
+      "horse_number": 10,
+      "odds": 8.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106107",
+      "horse_name": "ベルフラム",
+      "score": -0.22547479317895164,
+      "horse_number": 15,
+      "odds": 28.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103355",
+      "horse_name": "クリエープキー",
+      "score": -0.22652628230957153,
+      "horse_number": 2,
+      "odds": 35.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106185",
+      "horse_name": "コラルリーフ",
+      "score": -0.4336062270257222,
+      "horse_number": 7,
+      "odds": 29.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105661",
+      "horse_name": "2023105661",
+      "score": -0.5071126925064392,
+      "horse_number": 14,
+      "odds": 64.8
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "race_id": "202508040408",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-16 13:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100171",
+      "horse_name": "ダノンキラウェア",
+      "score": 0.45482997453926327,
+      "horse_number": 10,
+      "odds": 8.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019101416",
+      "horse_name": "エールトゥヘヴン",
+      "score": 0.4479135975199348,
+      "horse_number": 2,
+      "odds": 8.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104694",
+      "horse_name": "ブルクトーア",
+      "score": 0.39396714267588606,
+      "horse_number": 4,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103060",
+      "horse_name": "ホーリーブラッサム",
+      "score": 0.33311079327659276,
+      "horse_number": 11,
+      "odds": 3.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104988",
+      "horse_name": "ロンドボス",
+      "score": 0.2485475666155887,
+      "horse_number": 15,
+      "odds": 7.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019110127",
+      "horse_name": "サトノプリエール",
+      "score": 0.061138059992994306,
+      "horse_number": 7,
+      "odds": 25.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018106701",
+      "horse_name": "ルヴァンノワール",
+      "score": 0.03544578164996249,
+      "horse_number": 6,
+      "odds": 52.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018103368",
+      "horse_name": "メイショウカイト",
+      "score": 0.018887358420923605,
+      "horse_number": 9,
+      "odds": 8.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105540",
+      "horse_name": "サロニコス",
+      "score": -0.03127017099980227,
+      "horse_number": 12,
+      "odds": 21.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106519",
+      "horse_name": "モズアンタレス",
+      "score": -0.0346846153659141,
+      "horse_number": 1,
+      "odds": 49.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021110023",
+      "horse_name": "エクストラバック",
+      "score": -0.06277445406578025,
+      "horse_number": 14,
+      "odds": 39.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106470",
+      "horse_name": "アンダースコア",
+      "score": -0.07968547350585581,
+      "horse_number": 8,
+      "odds": 18.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022110006",
+      "horse_name": "カラヴァジェスティ",
+      "score": -0.23929600741371246,
+      "horse_number": 5,
+      "odds": 20.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104490",
+      "horse_name": "エクセルゴールド",
+      "score": -0.26153974808006214,
+      "horse_number": 13,
+      "odds": 100.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104163",
+      "horse_name": "オンザブルースカイ",
+      "score": -0.2668721053396693,
+      "horse_number": 3,
+      "odds": 90.3
+    }
+  ]
+}
