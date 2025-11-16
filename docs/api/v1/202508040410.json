@@ -1,0 +1,120 @@
+{
+  "race_id": "202508040410",
+  "race_name": "天橋立S",
+  "race_time": "2025-11-16 15:01",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106395",
+      "horse_name": "クァンタムウェーブ",
+      "score": 0.4212421048384711,
+      "horse_number": 6,
+      "odds": 7.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104928",
+      "horse_name": "トリポリタニア",
+      "score": 0.3978551654117036,
+      "horse_number": 5,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103614",
+      "horse_name": "ヒルノハンブルク",
+      "score": 0.32033008446138395,
+      "horse_number": 2,
+      "odds": 5.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100154",
+      "horse_name": "メイショウズイウン",
+      "score": 0.31548917998579057,
+      "horse_number": 4,
+      "odds": 5.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103686",
+      "horse_name": "テスティモーネ",
+      "score": 0.16159639342651577,
+      "horse_number": 1,
+      "odds": 8.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104550",
+      "horse_name": "カミノレアル",
+      "score": 0.14154252328957356,
+      "horse_number": 13,
+      "odds": 8.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022110115",
+      "horse_name": "シンビリーブ",
+      "score": 0.12573297430295746,
+      "horse_number": 9,
+      "odds": 11.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104824",
+      "horse_name": "アスクデビューモア",
+      "score": 0.07876094962286358,
+      "horse_number": 3,
+      "odds": 36.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102435",
+      "horse_name": "ルージュミラージュ",
+      "score": -0.05819566350001067,
+      "horse_number": 12,
+      "odds": 18.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104844",
+      "horse_name": "グロッシェン",
+      "score": -0.07444682540406185,
+      "horse_number": 7,
+      "odds": 60.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100709",
+      "horse_name": "カネトシゴウト",
+      "score": -0.11623423782410333,
+      "horse_number": 8,
+      "odds": 15.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106797",
+      "horse_name": "コスモジンバック",
+      "score": -0.16143061723987462,
+      "horse_number": 14,
+      "odds": 63.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105627",
+      "horse_name": "クレメダンジュ",
+      "score": -0.4038353340331444,
+      "horse_number": 10,
+      "odds": 43.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104793",
+      "horse_name": "サンライズグルーヴ",
+      "score": -0.5492222079638235,
+      "horse_number": 11,
+      "odds": 110.9
+    }
+  ]
+}

@@ -10,7 +10,7 @@
       "horse_name": "ベンヌ",
       "score": 0.25157624513281146,
       "horse_number": 5,
-      "odds": 2.9
+      "odds": 3.1
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "ダノンフィーゴ",
       "score": 0.21652820373855108,
       "horse_number": 2,
-      "odds": 2.7
+      "odds": 3.0
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "フウセツ",
       "score": 0.17080324739596553,
       "horse_number": 7,
-      "odds": 6.5
+      "odds": 4.7
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "レーウィン",
       "score": -0.049206172106534704,
       "horse_number": 14,
-      "odds": 10.2
+      "odds": 10.9
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "カンパニョーラ",
       "score": -0.12120948494884547,
       "horse_number": 1,
-      "odds": 27.9
+      "odds": 29.7
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "トクシーカイザー",
       "score": -0.14558788845191406,
       "horse_number": 3,
-      "odds": 11.9
+      "odds": 7.5
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "エコロアレス",
       "score": -0.14951243803003,
       "horse_number": 8,
-      "odds": 30.9
+      "odds": 52.4
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "グレノークス",
       "score": -0.19421034783442467,
       "horse_number": 12,
-      "odds": 55.1
+      "odds": 74.7
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "ハピネスアゲン",
       "score": -0.24043591343231235,
       "horse_number": 4,
-      "odds": 41.2
+      "odds": 53.1
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "キュムロンニンバス",
       "score": -0.36175493437770956,
       "horse_number": 13,
-      "odds": 40.6
+      "odds": 62.9
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "フラムリンガム",
       "score": -0.4131970898480537,
       "horse_number": 6,
-      "odds": 52.5
+      "odds": 70.8
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "メイショウコバト",
       "score": -0.5119361277916541,
       "horse_number": 10,
-      "odds": 33.2
+      "odds": 41.4
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "エリンアキレウス",
       "score": -0.6231610526085567,
       "horse_number": 11,
-      "odds": 60.5
+      "odds": 35.8
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "アジアミッション",
       "score": -0.7265140734648036,
       "horse_number": 9,
-      "odds": 90.0
+      "odds": 158.2
     }
   ]
 }

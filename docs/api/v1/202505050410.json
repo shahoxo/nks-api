@@ -1,0 +1,96 @@
+{
+  "race_id": "202505050410",
+  "race_name": "ユートピアS",
+  "race_time": "2025-11-16 14:50",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020100934",
+      "horse_name": "クリニクラウン",
+      "score": 0.3418403165744724,
+      "horse_number": 11,
+      "odds": 12.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103678",
+      "horse_name": "ユキワリザクラ",
+      "score": 0.2582797105288043,
+      "horse_number": 9,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103240",
+      "horse_name": "エバーハピネス",
+      "score": 0.22484152010918995,
+      "horse_number": 3,
+      "odds": 8.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105581",
+      "horse_name": "フレミングフープ",
+      "score": 0.22215218072925813,
+      "horse_number": 6,
+      "odds": 6.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100789",
+      "horse_name": "ハニーコム",
+      "score": 0.11646932981512875,
+      "horse_number": 10,
+      "odds": 22.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104145",
+      "horse_name": "インヴォーグ",
+      "score": 0.02839309650356038,
+      "horse_number": 2,
+      "odds": 6.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105801",
+      "horse_name": "ショウナンサムデイ",
+      "score": 0.011413731799752549,
+      "horse_number": 8,
+      "odds": 5.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103590",
+      "horse_name": "ココクレーター",
+      "score": -0.054250920697356556,
+      "horse_number": 1,
+      "odds": 21.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103049",
+      "horse_name": "ミカッテヨンデイイ",
+      "score": -0.17019998503745007,
+      "horse_number": 7,
+      "odds": 16.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105379",
+      "horse_name": "ルシフェル",
+      "score": -0.20871297952718665,
+      "horse_number": 5,
+      "odds": 7.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104159",
+      "horse_name": "カヨウネンカ",
+      "score": -0.395579439140602,
+      "horse_number": 4,
+      "odds": 39.3
+    }
+  ]
+}
