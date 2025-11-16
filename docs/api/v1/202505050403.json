@@ -1,0 +1,152 @@
+{
+  "race_id": "202505050403",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-16 10:50",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103086",
+      "horse_name": "イヌボウノウタゴエ",
+      "score": 0.35681636466070726,
+      "horse_number": 2,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105285",
+      "horse_name": "ミスティユニバンス",
+      "score": 0.318061935440183,
+      "horse_number": 14,
+      "odds": 8.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107067",
+      "horse_name": "スイープセレニティ",
+      "score": 0.2725178551461026,
+      "horse_number": 16,
+      "odds": 2.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104397",
+      "horse_name": "エバイダンス",
+      "score": 0.09958953336950234,
+      "horse_number": 1,
+      "odds": 7.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104588",
+      "horse_name": "マイチバイ",
+      "score": -0.031872101999045284,
+      "horse_number": 3,
+      "odds": 11.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101230",
+      "horse_name": "ハートニヒヲツケテ",
+      "score": -0.19204862820541208,
+      "horse_number": 8,
+      "odds": 29.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104449",
+      "horse_name": "テリオスルミ",
+      "score": -0.25428784580908476,
+      "horse_number": 10,
+      "odds": 45.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103999",
+      "horse_name": "カッサンドラ",
+      "score": -0.2995186916010218,
+      "horse_number": 4,
+      "odds": 48.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106592",
+      "horse_name": "マトリカリア",
+      "score": -0.30717843066908823,
+      "horse_number": 15,
+      "odds": 59.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106470",
+      "horse_name": "メーテルリンク",
+      "score": -0.3892961108437511,
+      "horse_number": 6,
+      "odds": 54.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103728",
+      "horse_name": "ジーティーソレイユ",
+      "score": -0.39222154078284055,
+      "horse_number": 17,
+      "odds": 42.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100397",
+      "horse_name": "ミルトメロディー",
+      "score": -0.42631090331465493,
+      "horse_number": 9,
+      "odds": 149.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106741",
+      "horse_name": "ジェイドテソーロ",
+      "score": -0.43187994449184786,
+      "horse_number": 5,
+      "odds": 79.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023109031",
+      "horse_name": "ココソラーレ",
+      "score": -0.44327899120152997,
+      "horse_number": 18,
+      "odds": 69.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101271",
+      "horse_name": "ニシノゴージャス",
+      "score": -0.546418385722876,
+      "horse_number": 11,
+      "odds": 87.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105015",
+      "horse_name": "タマコロリン",
+      "score": -0.5628851560431606,
+      "horse_number": 7,
+      "odds": 104.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023106427",
+      "horse_name": "ビオトープ",
+      "score": -0.61286587323379,
+      "horse_number": 13,
+      "odds": 156.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023103528",
+      "horse_name": "ツルノマイハシ",
+      "score": -0.7142512799918292,
+      "horse_number": 12,
+      "odds": 87.9
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "race_id": "202503030403",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-16 10:40",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105895",
+      "horse_name": "レーヴドレフォン",
+      "score": 0.020663878274844588,
+      "horse_number": 15,
+      "odds": 11.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103320",
+      "horse_name": "サンライズシア",
+      "score": -0.022245860133107878,
+      "horse_number": 3,
+      "odds": 3.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106213",
+      "horse_name": "ウインイメル",
+      "score": -0.03492741045976256,
+      "horse_number": 6,
+      "odds": 20.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105896",
+      "horse_name": "ケープウィッカム",
+      "score": -0.06270000087603977,
+      "horse_number": 4,
+      "odds": 9.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106998",
+      "horse_name": "ニシノジェダイ",
+      "score": -0.12726742359746598,
+      "horse_number": 8,
+      "odds": 3.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105443",
+      "horse_name": "モレポブラーノ",
+      "score": -0.14516688844463635,
+      "horse_number": 12,
+      "odds": 11.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101044",
+      "horse_name": "グレイスフルマーチ",
+      "score": -0.19385338024368923,
+      "horse_number": 7,
+      "odds": 6.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103515",
+      "horse_name": "ユウェンタース",
+      "score": -0.24835763678255937,
+      "horse_number": 14,
+      "odds": 34.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106583",
+      "horse_name": "ユイノコキュウ",
+      "score": -0.2943721761421802,
+      "horse_number": 1,
+      "odds": 21.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105011",
+      "horse_name": "リンゲルブルーメ",
+      "score": -0.3793511669601331,
+      "horse_number": 10,
+      "odds": 39.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101047",
+      "horse_name": "ショウナンサエッタ",
+      "score": -0.3954018029870343,
+      "horse_number": 13,
+      "odds": 30.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104261",
+      "horse_name": "メイショウオグマ",
+      "score": -0.39723722058077904,
+      "horse_number": 11,
+      "odds": 47.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100078",
+      "horse_name": "フリッパー",
+      "score": -0.4473131836906675,
+      "horse_number": 9,
+      "odds": 113.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100209",
+      "horse_name": "コトブキヘスペラス",
+      "score": -0.4789721414081617,
+      "horse_number": 5,
+      "odds": 103.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104052",
+      "horse_name": "ウヌボレヤサン",
+      "score": -0.6783429378640029,
+      "horse_number": 2,
+      "odds": 75.9
+    }
+  ]
+}

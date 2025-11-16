@@ -1,0 +1,128 @@
+{
+  "race_id": "202503030402",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-16 10:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104788",
+      "horse_name": "ジュルナール",
+      "score": 0.19653539882642046,
+      "horse_number": 1,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105267",
+      "horse_name": "サウンドルーチェ",
+      "score": 0.16285628144431047,
+      "horse_number": 4,
+      "odds": 9.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105711",
+      "horse_name": "ヴァリオーサ",
+      "score": 0.13291532230058764,
+      "horse_number": 5,
+      "odds": 13.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100780",
+      "horse_name": "シェリルファミーユ",
+      "score": 0.06589664310966992,
+      "horse_number": 12,
+      "odds": 9.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103619",
+      "horse_name": "タマモジャスミン",
+      "score": 0.04927813301733323,
+      "horse_number": 3,
+      "odds": 5.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104908",
+      "horse_name": "グランカッサ",
+      "score": -0.05031566991024585,
+      "horse_number": 7,
+      "odds": 9.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021107168",
+      "horse_name": "コムルヴァン",
+      "score": -0.07626407736002604,
+      "horse_number": 14,
+      "odds": 22.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105569",
+      "horse_name": "ルージュマローネ",
+      "score": -0.13090420828258603,
+      "horse_number": 10,
+      "odds": 10.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105976",
+      "horse_name": "ローマンレイク",
+      "score": -0.14942564559144172,
+      "horse_number": 2,
+      "odds": 25.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102631",
+      "horse_name": "ハイゼンスレイ",
+      "score": -0.16277154174487612,
+      "horse_number": 15,
+      "odds": 19.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106164",
+      "horse_name": "キタノマーシャル",
+      "score": -0.24042901072393327,
+      "horse_number": 11,
+      "odds": 8.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104850",
+      "horse_name": "セージグリーン",
+      "score": -0.24208739390036932,
+      "horse_number": 9,
+      "odds": 30.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104754",
+      "horse_name": "ベルフィーヌ",
+      "score": -0.5945546677764488,
+      "horse_number": 8,
+      "odds": 37.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100323",
+      "horse_name": "トキメキジニア",
+      "score": -0.6815536661455034,
+      "horse_number": 6,
+      "odds": 106.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104681",
+      "horse_name": "デュアルアップ",
+      "score": -0.6997242947219148,
+      "horse_number": 13,
+      "odds": 58.6
+    }
+  ]
+}
