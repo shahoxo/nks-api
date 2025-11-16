@@ -1,0 +1,104 @@
+{
+  "race_id": "202508040412",
+  "race_name": "ドンカスター",
+  "race_time": "2025-11-16 16:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105808",
+      "horse_name": "ガイアメンテ",
+      "score": 0.49322290839183625,
+      "horse_number": 8,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020104550",
+      "horse_name": "ワイドアラジン",
+      "score": 0.368644611991242,
+      "horse_number": 11,
+      "odds": 11.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103521",
+      "horse_name": "セブンマジシャン",
+      "score": 0.3558293222636688,
+      "horse_number": 4,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105578",
+      "horse_name": "ショウナンラピダス",
+      "score": 0.32887497319466436,
+      "horse_number": 6,
+      "odds": 11.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104013",
+      "horse_name": "プッシュオン",
+      "score": 0.17623803880740554,
+      "horse_number": 1,
+      "odds": 7.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102510",
+      "horse_name": "ナムラフッカー",
+      "score": 0.06166264151519659,
+      "horse_number": 3,
+      "odds": 8.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105305",
+      "horse_name": "アウフヘーベン",
+      "score": -0.048484554364689625,
+      "horse_number": 12,
+      "odds": 7.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106766",
+      "horse_name": "マイネルオーシャン",
+      "score": -0.06488332509150599,
+      "horse_number": 5,
+      "odds": 22.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102256",
+      "horse_name": "ノーブルスカイ",
+      "score": -0.16912281452480502,
+      "horse_number": 2,
+      "odds": 36.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105412",
+      "horse_name": "ウィープディライト",
+      "score": -0.3080852892620754,
+      "horse_number": 9,
+      "odds": 12.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018105157",
+      "horse_name": "ディープリッチ",
+      "score": -0.3848216837379017,
+      "horse_number": 7,
+      "odds": 55.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018103590",
+      "horse_name": "リッケンバッカー",
+      "score": -0.447197560601867,
+      "horse_number": 10,
+      "odds": 67.7
+    }
+  ]
+}
