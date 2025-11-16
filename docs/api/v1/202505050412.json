@@ -1,0 +1,112 @@
+{
+  "race_id": "202505050412",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-16 16:10",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102064",
+      "horse_name": "ミエノフェアリー",
+      "score": 0.2698693004787866,
+      "horse_number": 8,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104774",
+      "horse_name": "エデルクローネ",
+      "score": 0.14465084153224675,
+      "horse_number": 13,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103243",
+      "horse_name": "プルミエソルティ",
+      "score": 0.12493588072564865,
+      "horse_number": 2,
+      "odds": 9.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104723",
+      "horse_name": "カレンラップスター",
+      "score": 0.09609321702533426,
+      "horse_number": 9,
+      "odds": 9.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101480",
+      "horse_name": "キャピタルリッチ",
+      "score": 0.06690479502359516,
+      "horse_number": 11,
+      "odds": 13.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104905",
+      "horse_name": "チリーゴールド",
+      "score": -0.05127202782944064,
+      "horse_number": 12,
+      "odds": 17.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106199",
+      "horse_name": "ウインドラート",
+      "score": -0.05626633853760445,
+      "horse_number": 7,
+      "odds": 14.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104981",
+      "horse_name": "ユーディキウム",
+      "score": -0.0665470578073808,
+      "horse_number": 1,
+      "odds": 13.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104761",
+      "horse_name": "ニヴルヘイム",
+      "score": -0.1690331977852707,
+      "horse_number": 3,
+      "odds": 12.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022110139",
+      "horse_name": "アスクアットバット",
+      "score": -0.2830661724276077,
+      "horse_number": 4,
+      "odds": 63.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106840",
+      "horse_name": "パーセルペーパー",
+      "score": -0.42348411114851914,
+      "horse_number": 5,
+      "odds": 38.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105252",
+      "horse_name": "バトラーズワーフ",
+      "score": -0.5970618435386312,
+      "horse_number": 10,
+      "odds": 19.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104630",
+      "horse_name": "トリフォラート",
+      "score": -0.6970415147616792,
+      "horse_number": 6,
+      "odds": 21.2
+    }
+  ]
+}

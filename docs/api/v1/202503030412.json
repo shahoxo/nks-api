@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030412",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-16 15:55",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021106829",
+      "horse_name": "コスモレオナルド",
+      "score": 0.1716361996335485,
+      "horse_number": 4,
+      "odds": 10.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105796",
+      "horse_name": "アリスメティーク",
+      "score": 0.16625722081830793,
+      "horse_number": 11,
+      "odds": 6.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020107017",
+      "horse_name": "エイシンジェンマ",
+      "score": 0.05738264887902272,
+      "horse_number": 5,
+      "odds": 13.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101272",
+      "horse_name": "スタニングヴュー",
+      "score": 0.016829335218798876,
+      "horse_number": 14,
+      "odds": 21.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105853",
+      "horse_name": "リュケイオン",
+      "score": -0.016112637159655354,
+      "horse_number": 2,
+      "odds": 6.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100165",
+      "horse_name": "フォルテフィオーレ",
+      "score": -0.0658065211306417,
+      "horse_number": 12,
+      "odds": 10.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105113",
+      "horse_name": "ダノンアトラス",
+      "score": -0.09780769709926188,
+      "horse_number": 1,
+      "odds": 5.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106045",
+      "horse_name": "ウィズマスタング",
+      "score": -0.1255845016889931,
+      "horse_number": 6,
+      "odds": 34.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106544",
+      "horse_name": "ナスノソナタ",
+      "score": -0.20106358225991058,
+      "horse_number": 8,
+      "odds": 42.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106347",
+      "horse_name": "テンドリームガール",
+      "score": -0.20680812193510473,
+      "horse_number": 7,
+      "odds": 12.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101598",
+      "horse_name": "マジカルワード",
+      "score": -0.24334177595149342,
+      "horse_number": 13,
+      "odds": 38.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105652",
+      "horse_name": "トリオンファルマン",
+      "score": -0.264386256892169,
+      "horse_number": 3,
+      "odds": 10.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103100",
+      "horse_name": "ファイナルヒート",
+      "score": -0.28114865804026834,
+      "horse_number": 9,
+      "odds": 10.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104881",
+      "horse_name": "アミアン",
+      "score": -0.36777722961168136,
+      "horse_number": 10,
+      "odds": 45.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021106965",
+      "horse_name": "アルヴィア",
+      "score": -0.5102433228298766,
+      "horse_number": 16,
+      "odds": 57.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101969",
+      "horse_name": "デルマジュテーム",
+      "score": -0.5515590041871333,
+      "horse_number": 15,
+      "odds": 35.8
+    }
+  ]
+}
