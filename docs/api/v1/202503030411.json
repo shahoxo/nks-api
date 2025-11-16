@@ -1,0 +1,128 @@
+{
+  "race_id": "202503030411",
+  "race_name": "福島民友C",
+  "race_time": "2025-11-16 15:15",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020104661",
+      "horse_name": "ダンテバローズ",
+      "score": 0.3026132739931619,
+      "horse_number": 8,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100116",
+      "horse_name": "アクションプラン",
+      "score": 0.2254909394045025,
+      "horse_number": 4,
+      "odds": 6.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104873",
+      "horse_name": "ポッドロゴ",
+      "score": 0.16686342953311012,
+      "horse_number": 10,
+      "odds": 7.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101478",
+      "horse_name": "ダノンザボルケーノ",
+      "score": 0.11884419333356429,
+      "horse_number": 15,
+      "odds": 17.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102868",
+      "horse_name": "モズミギカタアガリ",
+      "score": 0.09181627764538379,
+      "horse_number": 5,
+      "odds": 9.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018100664",
+      "horse_name": "ホールシバン",
+      "score": -0.037033671237124886,
+      "horse_number": 12,
+      "odds": 15.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104283",
+      "horse_name": "ノーブルゲイル",
+      "score": -0.13706535934553388,
+      "horse_number": 14,
+      "odds": 19.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110056",
+      "horse_name": "エコロガイア",
+      "score": -0.13979884139182003,
+      "horse_number": 2,
+      "odds": 50.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102737",
+      "horse_name": "マリアナトレンチ",
+      "score": -0.14715760526018173,
+      "horse_number": 13,
+      "odds": 17.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019106027",
+      "horse_name": "プリンスミノル",
+      "score": -0.1885165565617937,
+      "horse_number": 3,
+      "odds": 39.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100836",
+      "horse_name": "レアンダー",
+      "score": -0.2027526314320428,
+      "horse_number": 7,
+      "odds": 11.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103148",
+      "horse_name": "ショウナンライシン",
+      "score": -0.2271966451812165,
+      "horse_number": 1,
+      "odds": 9.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100960",
+      "horse_name": "マーブルロック",
+      "score": -0.2346650335769662,
+      "horse_number": 9,
+      "odds": 24.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103419",
+      "horse_name": "サンライズアリオン",
+      "score": -0.25976090989775447,
+      "horse_number": 11,
+      "odds": 13.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101024",
+      "horse_name": "ピースオブザライフ",
+      "score": -0.26283125652480477,
+      "horse_number": 6,
+      "odds": 60.7
+    }
+  ]
+}

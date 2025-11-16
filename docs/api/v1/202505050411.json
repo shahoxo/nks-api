@@ -1,0 +1,152 @@
+{
+  "race_id": "202505050411",
+  "race_name": "オーロC",
+  "race_time": "2025-11-16 15:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101384",
+      "horse_name": "フォーチュンタイム",
+      "score": 0.28172334834823826,
+      "horse_number": 16,
+      "odds": 7.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103517",
+      "horse_name": "レッドシュヴェルト",
+      "score": 0.26164675984738,
+      "horse_number": 13,
+      "odds": 7.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102888",
+      "horse_name": "ナムラアトム",
+      "score": 0.21019818903872972,
+      "horse_number": 9,
+      "odds": 19.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2018105454",
+      "horse_name": "グレイイングリーン",
+      "score": 0.20641264760102013,
+      "horse_number": 17,
+      "odds": 19.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100494",
+      "horse_name": "ガロンヌ",
+      "score": 0.1793755411164762,
+      "horse_number": 1,
+      "odds": 19.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102625",
+      "horse_name": "アクートゥス",
+      "score": 0.10756851524012548,
+      "horse_number": 3,
+      "odds": 14.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101784",
+      "horse_name": "ラケマーダ",
+      "score": 0.0697415831515899,
+      "horse_number": 14,
+      "odds": 21.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020110155",
+      "horse_name": "レイベリング",
+      "score": 0.05274794399458976,
+      "horse_number": 18,
+      "odds": 31.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104894",
+      "horse_name": "セントメモリーズ",
+      "score": 0.02733900958884615,
+      "horse_number": 5,
+      "odds": 18.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103061",
+      "horse_name": "シュタールヴィント",
+      "score": 0.00046677402933970394,
+      "horse_number": 7,
+      "odds": 6.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100497",
+      "horse_name": "ベガリス",
+      "score": -0.004390240562070675,
+      "horse_number": 12,
+      "odds": 14.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018106318",
+      "horse_name": "メイショウシンタケ",
+      "score": -0.03203488332091616,
+      "horse_number": 2,
+      "odds": 32.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105496",
+      "horse_name": "レッドモンレーヴ",
+      "score": -0.07598630453553369,
+      "horse_number": 15,
+      "odds": 6.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020103482",
+      "horse_name": "スカイロケット",
+      "score": -0.11461481561810692,
+      "horse_number": 4,
+      "odds": 43.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2017101423",
+      "horse_name": "ウイングレイテスト",
+      "score": -0.19392257560843557,
+      "horse_number": 6,
+      "odds": 13.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2016104668",
+      "horse_name": "カリボール",
+      "score": -0.2647829998985552,
+      "horse_number": 10,
+      "odds": 28.3
+    },
+    {
+      "rank": 17,
+      "horse_id": "2017104172",
+      "horse_name": "メイショウチタン",
+      "score": -0.2959610867896298,
+      "horse_number": 8,
+      "odds": 14.6
+    },
+    {
+      "rank": 18,
+      "horse_id": "2018110043",
+      "horse_name": "ゴールデンシロップ",
+      "score": -0.40850617781374865,
+      "horse_number": 11,
+      "odds": 43.4
+    }
+  ]
+}
