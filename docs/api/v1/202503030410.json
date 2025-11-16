@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030410",
+  "race_name": "三陸特別",
+  "race_time": "2025-11-16 14:40",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105587",
+      "horse_name": "サトノソティラス",
+      "score": 0.3011799195678646,
+      "horse_number": 1,
+      "odds": 10.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105910",
+      "horse_name": "ローザサンリヴァル",
+      "score": 0.08381312358715486,
+      "horse_number": 11,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105160",
+      "horse_name": "カエルム",
+      "score": 0.04085524058798791,
+      "horse_number": 6,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102190",
+      "horse_name": "トロピカルライト",
+      "score": -0.005406977139911764,
+      "horse_number": 10,
+      "odds": 12.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106709",
+      "horse_name": "レーヴドロペラ",
+      "score": -0.03295506162591227,
+      "horse_number": 16,
+      "odds": 6.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104845",
+      "horse_name": "ホウオウアートマン",
+      "score": -0.08247220637808182,
+      "horse_number": 7,
+      "odds": 4.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106694",
+      "horse_name": "ヴァイザーバルコ",
+      "score": -0.1356575485590926,
+      "horse_number": 13,
+      "odds": 12.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103554",
+      "horse_name": "ラスハンメル",
+      "score": -0.28957895049896343,
+      "horse_number": 12,
+      "odds": 21.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103685",
+      "horse_name": "ヒシタイカン",
+      "score": -0.32582050050112,
+      "horse_number": 9,
+      "odds": 19.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019100212",
+      "horse_name": "ウインマイルート",
+      "score": -0.3572864445787476,
+      "horse_number": 14,
+      "odds": 7.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105205",
+      "horse_name": "ウインネモフィラ",
+      "score": -0.41901489387048585,
+      "horse_number": 3,
+      "odds": 22.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103033",
+      "horse_name": "ハイラント",
+      "score": -0.46725245868463516,
+      "horse_number": 4,
+      "odds": 30.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104553",
+      "horse_name": "パープルクラウド",
+      "score": -0.5570817432018512,
+      "horse_number": 15,
+      "odds": 86.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017104681",
+      "horse_name": "ナムアミダブツ",
+      "score": -0.569470717884104,
+      "horse_number": 8,
+      "odds": 38.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2016102904",
+      "horse_name": "ボンベール",
+      "score": -0.6318373387288261,
+      "horse_number": 5,
+      "odds": 84.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103154",
+      "horse_name": "コルデアニル",
+      "score": -0.7344997899121097,
+      "horse_number": 2,
+      "odds": 73.9
+    }
+  ]
+}

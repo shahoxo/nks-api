@@ -1,0 +1,72 @@
+{
+  "race_id": "202508040409",
+  "race_name": "黄菊賞",
+  "race_time": "2025-11-16 14:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107053",
+      "horse_name": "サンダーストラック",
+      "score": 0.3726779146943131,
+      "horse_number": 3,
+      "odds": 5.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100933",
+      "horse_name": "ダークマルス",
+      "score": 0.35675542822790574,
+      "horse_number": 6,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104996",
+      "horse_name": "キッコベッロ",
+      "score": 0.3421160359585145,
+      "horse_number": 1,
+      "odds": 2.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103440",
+      "horse_name": "サーディンラン",
+      "score": 0.2727726944491987,
+      "horse_number": 7,
+      "odds": 31.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107143",
+      "horse_name": "ノチェセラーダ",
+      "score": 0.24189613098923235,
+      "horse_number": 2,
+      "odds": 20.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105223",
+      "horse_name": "アーレムアレス",
+      "score": 0.19635333457001497,
+      "horse_number": 4,
+      "odds": 4.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103761",
+      "horse_name": "サントルドパリ",
+      "score": 0.17424803812863585,
+      "horse_number": 8,
+      "odds": 11.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101090",
+      "horse_name": "ジャストビート",
+      "score": 0.02403825375805343,
+      "horse_number": 5,
+      "odds": 77.6
+    }
+  ]
+}
