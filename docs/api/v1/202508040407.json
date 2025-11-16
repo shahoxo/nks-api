@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040407",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-16 13:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110121",
+      "horse_name": "ゴールデンクラウド",
+      "score": 0.3656239246609103,
+      "horse_number": 4,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110118",
+      "horse_name": "ユウトザユウト",
+      "score": 0.09508624637974,
+      "horse_number": 10,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103123",
+      "horse_name": "マルカブリッツ",
+      "score": 0.04691879257175,
+      "horse_number": 15,
+      "odds": 37.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100736",
+      "horse_name": "ポッドフォルク",
+      "score": -0.0027208251638648692,
+      "horse_number": 5,
+      "odds": 8.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100771",
+      "horse_name": "ジョータルマエ",
+      "score": -0.06792824266220757,
+      "horse_number": 12,
+      "odds": 10.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019102585",
+      "horse_name": "ワンダーブレット",
+      "score": -0.15239388984644045,
+      "horse_number": 6,
+      "odds": 47.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104857",
+      "horse_name": "フローラルセント",
+      "score": -0.18159556743408808,
+      "horse_number": 8,
+      "odds": 77.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103197",
+      "horse_name": "タマモキャリコ",
+      "score": -0.21475807927554066,
+      "horse_number": 7,
+      "odds": 19.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103154",
+      "horse_name": "メイショウカシワデ",
+      "score": -0.2797174800447413,
+      "horse_number": 11,
+      "odds": 23.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102380",
+      "horse_name": "オーケーカルメン",
+      "score": -0.5057823066974667,
+      "horse_number": 16,
+      "odds": 130.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019106148",
+      "horse_name": "シンリミテス",
+      "score": -0.5102783979261106,
+      "horse_number": 14,
+      "odds": 43.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106491",
+      "horse_name": "メイショウジェンマ",
+      "score": -0.5197063082732428,
+      "horse_number": 9,
+      "odds": 51.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100413",
+      "horse_name": "ディオスパーダ",
+      "score": -0.5494931663403189,
+      "horse_number": 2,
+      "odds": 34.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102360",
+      "horse_name": "クリノグローリー",
+      "score": -0.5520003421025013,
+      "horse_number": 3,
+      "odds": 82.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018100961",
+      "horse_name": "スカイドゥエラー",
+      "score": -0.5904625878916535,
+      "horse_number": 1,
+      "odds": 41.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020102993",
+      "horse_name": "シンゼンイズモ",
+      "score": -0.600783165567776,
+      "horse_number": 13,
+      "odds": 85.4
+    }
+  ]
+}

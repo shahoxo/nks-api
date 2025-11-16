@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030407",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-16 13:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110037",
+      "horse_name": "フォルトレス",
+      "score": 0.28252858769083955,
+      "horse_number": 8,
+      "odds": 6.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100958",
+      "horse_name": "ビッグフラワー",
+      "score": 0.2078486601266967,
+      "horse_number": 2,
+      "odds": 9.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103729",
+      "horse_name": "セクシーマージュ",
+      "score": 0.1052328548765815,
+      "horse_number": 15,
+      "odds": 5.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105996",
+      "horse_name": "ルシェロアズーリ",
+      "score": 0.045857744531246185,
+      "horse_number": 3,
+      "odds": 12.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2018100442",
+      "horse_name": "モーデン",
+      "score": 0.012631186630339845,
+      "horse_number": 13,
+      "odds": 12.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101663",
+      "horse_name": "ザカート",
+      "score": -0.004130337244225942,
+      "horse_number": 9,
+      "odds": 41.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100357",
+      "horse_name": "デボラ",
+      "score": -0.0903920379109965,
+      "horse_number": 5,
+      "odds": 14.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101896",
+      "horse_name": "デアリングエア",
+      "score": -0.15866454857727855,
+      "horse_number": 10,
+      "odds": 6.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102465",
+      "horse_name": "ブライティアブーケ",
+      "score": -0.26631117439908064,
+      "horse_number": 16,
+      "odds": 17.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104874",
+      "horse_name": "ホウオウガイア",
+      "score": -0.2828812296551952,
+      "horse_number": 14,
+      "odds": 11.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100135",
+      "horse_name": "エメラヴィ",
+      "score": -0.30455270553591185,
+      "horse_number": 11,
+      "odds": 7.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102433",
+      "horse_name": "アートフォーム",
+      "score": -0.3450854665240781,
+      "horse_number": 12,
+      "odds": 55.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100528",
+      "horse_name": "ノーブルオリンポス",
+      "score": -0.3697076464595273,
+      "horse_number": 1,
+      "odds": 18.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106637",
+      "horse_name": "ラヴェンデル",
+      "score": -0.4754933427906952,
+      "horse_number": 6,
+      "odds": 93.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100583",
+      "horse_name": "レディエンス",
+      "score": -0.5098661153519827,
+      "horse_number": 7,
+      "odds": 46.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101171",
+      "horse_name": "ビスケット",
+      "score": -0.7344997899121097,
+      "horse_number": 4,
+      "odds": 62.5
+    }
+  ]
+}

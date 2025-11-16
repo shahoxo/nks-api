@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030408",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-16 13:35",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103595",
+      "horse_name": "ビーコング",
+      "score": 0.05723768432827419,
+      "horse_number": 9,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104004",
+      "horse_name": "ディニトーソ",
+      "score": 0.00021464416253830134,
+      "horse_number": 13,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103150",
+      "horse_name": "ジュエルハウス",
+      "score": -0.025653293149181425,
+      "horse_number": 7,
+      "odds": 18.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103078",
+      "horse_name": "ナムラモモ",
+      "score": -0.06946327328986249,
+      "horse_number": 6,
+      "odds": 18.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103451",
+      "horse_name": "プルミエールパス",
+      "score": -0.11121800556893428,
+      "horse_number": 2,
+      "odds": 7.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019103285",
+      "horse_name": "クリノミニスター",
+      "score": -0.12221776044175106,
+      "horse_number": 15,
+      "odds": 16.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103075",
+      "horse_name": "メイショウヤマモモ",
+      "score": -0.16293958673943182,
+      "horse_number": 10,
+      "odds": 16.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2017103155",
+      "horse_name": "トモジャアルマンド",
+      "score": -0.2003410775863412,
+      "horse_number": 12,
+      "odds": 45.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104404",
+      "horse_name": "シュークリーム",
+      "score": -0.27943898453515337,
+      "horse_number": 1,
+      "odds": 17.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105287",
+      "horse_name": "フォンメイリー",
+      "score": -0.36922053564538615,
+      "horse_number": 4,
+      "odds": 19.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106182",
+      "horse_name": "メイショウホウセン",
+      "score": -0.3850262969502807,
+      "horse_number": 5,
+      "odds": 16.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103603",
+      "horse_name": "2022103603",
+      "score": -0.40899654749657466,
+      "horse_number": 11,
+      "odds": 41.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105609",
+      "horse_name": "ライヴドライバー",
+      "score": -0.5176523099208751,
+      "horse_number": 14,
+      "odds": 22.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106243",
+      "horse_name": "サヨノジャンボリー",
+      "score": -0.5280394414461744,
+      "horse_number": 3,
+      "odds": 17.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019102510",
+      "horse_name": "アップフルーク",
+      "score": -0.6293301629666437,
+      "horse_number": 16,
+      "odds": 39.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101532",
+      "horse_name": "エポカスピーガ",
+      "score": -0.7080136536659949,
+      "horse_number": 8,
+      "odds": 47.8
+    }
+  ]
+}
