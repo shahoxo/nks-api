@@ -1,0 +1,128 @@
+{
+  "race_id": "202503030506",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-22 12:40",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105021",
+      "horse_name": "マテンロウブレイブ",
+      "score": 0.138175111958216,
+      "horse_number": 7,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106328",
+      "horse_name": "モリノアミーゴ",
+      "score": 0.10087159066828147,
+      "horse_number": 8,
+      "odds": 14.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105863",
+      "horse_name": "ルシャルムール",
+      "score": 0.09385933824784701,
+      "horse_number": 3,
+      "odds": 3.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102745",
+      "horse_name": "ベネスピラ",
+      "score": 0.04440588405330394,
+      "horse_number": 9,
+      "odds": 6.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105130",
+      "horse_name": "スターエンブレム",
+      "score": -0.07826091234962834,
+      "horse_number": 13,
+      "odds": 19.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101821",
+      "horse_name": "ロードヴォイジャー",
+      "score": -0.08399171894363266,
+      "horse_number": 5,
+      "odds": 7.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102567",
+      "horse_name": "オロパタジン",
+      "score": -0.220278200568873,
+      "horse_number": 14,
+      "odds": 20.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101825",
+      "horse_name": "ナムライリス",
+      "score": -0.2401272171386408,
+      "horse_number": 1,
+      "odds": 79.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105730",
+      "horse_name": "コッレヴェッキオ",
+      "score": -0.3172605095681809,
+      "horse_number": 15,
+      "odds": 23.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100387",
+      "horse_name": "マーベリックシチー",
+      "score": -0.36320575791910237,
+      "horse_number": 10,
+      "odds": 20.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021110138",
+      "horse_name": "グランエシェゾー",
+      "score": -0.4063492762146934,
+      "horse_number": 2,
+      "odds": 87.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102991",
+      "horse_name": "カイトヴィント",
+      "score": -0.43581289761812714,
+      "horse_number": 4,
+      "odds": 38.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103342",
+      "horse_name": "カルフ",
+      "score": -0.5409049914905244,
+      "horse_number": 12,
+      "odds": 60.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106118",
+      "horse_name": "シークレットイスラ",
+      "score": -0.5535150524070483,
+      "horse_number": 6,
+      "odds": 51.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103946",
+      "horse_name": "スマートクラビ",
+      "score": -0.5638648247763358,
+      "horse_number": 11,
+      "odds": 53.0
+    }
+  ]
+}

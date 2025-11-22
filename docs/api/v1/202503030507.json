@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030507",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-22 13:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102985",
+      "horse_name": "ローズプリンセス",
+      "score": 0.28007240645005926,
+      "horse_number": 4,
+      "odds": 6.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103958",
+      "horse_name": "アロンソア",
+      "score": 0.2650489184887259,
+      "horse_number": 3,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106476",
+      "horse_name": "マイネルディザイア",
+      "score": 0.16273211763996245,
+      "horse_number": 5,
+      "odds": 11.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101114",
+      "horse_name": "ファイタージェット",
+      "score": 0.15217343135981476,
+      "horse_number": 16,
+      "odds": 13.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104491",
+      "horse_name": "コスモクラシック",
+      "score": 0.08680302093550034,
+      "horse_number": 15,
+      "odds": 7.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103351",
+      "horse_name": "グレーヌドジョワ",
+      "score": -0.018514479681578138,
+      "horse_number": 1,
+      "odds": 5.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106079",
+      "horse_name": "ノリマル",
+      "score": -0.024926021984423126,
+      "horse_number": 7,
+      "odds": 11.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023109090",
+      "horse_name": "アクティングエリア",
+      "score": -0.06392162169020572,
+      "horse_number": 10,
+      "odds": 29.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100006",
+      "horse_name": "セイウンヤオヨロズ",
+      "score": -0.14628257418002005,
+      "horse_number": 9,
+      "odds": 56.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101557",
+      "horse_name": "シンデレラガール",
+      "score": -0.22628826876713387,
+      "horse_number": 2,
+      "odds": 37.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106436",
+      "horse_name": "マイネルシュラハト",
+      "score": -0.2273951740315069,
+      "horse_number": 14,
+      "odds": 7.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104487",
+      "horse_name": "アイドクレース",
+      "score": -0.33579475185396207,
+      "horse_number": 13,
+      "odds": 23.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106764",
+      "horse_name": "アンデルストープ",
+      "score": -0.4257797723071786,
+      "horse_number": 8,
+      "odds": 31.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023107376",
+      "horse_name": "アルカマル",
+      "score": -0.43066342600036567,
+      "horse_number": 11,
+      "odds": 15.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100337",
+      "horse_name": "トーセンライティア",
+      "score": -0.5844092227108343,
+      "horse_number": 12,
+      "odds": 121.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023102153",
+      "horse_name": "マイトビーウォン",
+      "score": -0.7560238565797833,
+      "horse_number": 6,
+      "odds": 157.9
+    }
+  ]
+}
