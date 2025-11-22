@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030508",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-22 13:40",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105038",
+      "horse_name": "シャンソンドール",
+      "score": 0.328599381064308,
+      "horse_number": 14,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105866",
+      "horse_name": "ティティナ",
+      "score": 0.29430704066816643,
+      "horse_number": 16,
+      "odds": 26.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105365",
+      "horse_name": "オプレントジュエル",
+      "score": 0.2615244646204035,
+      "horse_number": 1,
+      "odds": 13.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105166",
+      "horse_name": "ヨヒーン",
+      "score": 0.15457539023467948,
+      "horse_number": 5,
+      "odds": 4.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105668",
+      "horse_name": "トーセンリバーブ",
+      "score": 0.13259344956650537,
+      "horse_number": 8,
+      "odds": 24.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103410",
+      "horse_name": "ディバイングレース",
+      "score": 0.09344969431319673,
+      "horse_number": 15,
+      "odds": 54.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104906",
+      "horse_name": "ロパシック",
+      "score": 0.08684941844043416,
+      "horse_number": 6,
+      "odds": 5.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101116",
+      "horse_name": "エコテーラー",
+      "score": 0.05429561510286328,
+      "horse_number": 4,
+      "odds": 19.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104716",
+      "horse_name": "シェーンシュティア",
+      "score": 0.03364887779507994,
+      "horse_number": 3,
+      "odds": 12.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103511",
+      "horse_name": "ノンスタンダルド",
+      "score": -0.014477345655523938,
+      "horse_number": 2,
+      "odds": 100.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105233",
+      "horse_name": "ルナルーチェット",
+      "score": -0.025998668860255997,
+      "horse_number": 11,
+      "odds": 31.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105478",
+      "horse_name": "エリカリーシャン",
+      "score": -0.04416736604922458,
+      "horse_number": 9,
+      "odds": 52.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105694",
+      "horse_name": "ホウオウペトリュス",
+      "score": -0.046319679881213084,
+      "horse_number": 12,
+      "odds": 42.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106825",
+      "horse_name": "コスモイシュタル",
+      "score": -0.09088529544711642,
+      "horse_number": 10,
+      "odds": 13.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103705",
+      "horse_name": "エレガンシア",
+      "score": -0.1030352202890979,
+      "horse_number": 13,
+      "odds": 21.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021102900",
+      "horse_name": "ノクターナル",
+      "score": -0.7212483613895885,
+      "horse_number": 7,
+      "odds": 123.4
+    }
+  ]
+}
