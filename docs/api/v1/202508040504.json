@@ -1,0 +1,96 @@
+{
+  "race_id": "202508040504",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-22 11:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107244",
+      "horse_name": "ヴィスコンテッサ",
+      "score": 0.4327634999995307,
+      "horse_number": 6,
+      "odds": 10.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107168",
+      "horse_name": "ブラックオリンピア",
+      "score": 0.38578029129347724,
+      "horse_number": 11,
+      "odds": 1.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105281",
+      "horse_name": "ホウオウモチーヴ",
+      "score": 0.2635384255201222,
+      "horse_number": 5,
+      "odds": 5.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101003",
+      "horse_name": "ジューンアゲイン",
+      "score": 0.26185202444170735,
+      "horse_number": 4,
+      "odds": 9.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102224",
+      "horse_name": "ストームゲイル",
+      "score": 0.18963281190404224,
+      "horse_number": 10,
+      "odds": 14.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103901",
+      "horse_name": "ヴィラジョヴィス",
+      "score": 0.16691997867030997,
+      "horse_number": 1,
+      "odds": 25.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103268",
+      "horse_name": "レザベーション",
+      "score": 0.05203661937969117,
+      "horse_number": 7,
+      "odds": 7.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102245",
+      "horse_name": "メイショウヒタカミ",
+      "score": -0.07089755437458627,
+      "horse_number": 3,
+      "odds": 44.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104378",
+      "horse_name": "カモンレイル",
+      "score": -0.10283450929874517,
+      "horse_number": 8,
+      "odds": 120.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107533",
+      "horse_name": "ルリエアンレーヴ",
+      "score": -0.5121671884952315,
+      "horse_number": 2,
+      "odds": 67.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101927",
+      "horse_name": "ルーン",
+      "score": -0.7212483613895885,
+      "horse_number": 9,
+      "odds": 307.3
+    }
+  ]
+}
