@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030509",
+  "race_name": "高湯温泉特別",
+  "race_time": "2025-11-22 14:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100781",
+      "horse_name": "ルールーリマ",
+      "score": 0.3089121859085014,
+      "horse_number": 11,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105131",
+      "horse_name": "キューティリップ",
+      "score": 0.3014992183424324,
+      "horse_number": 10,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104173",
+      "horse_name": "デイジー",
+      "score": 0.1796247303941329,
+      "horse_number": 5,
+      "odds": 10.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104171",
+      "horse_name": "スナークピカソ",
+      "score": 0.057294787681841444,
+      "horse_number": 3,
+      "odds": 3.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101191",
+      "horse_name": "ポタリング",
+      "score": -0.04516104540606014,
+      "horse_number": 4,
+      "odds": 13.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104649",
+      "horse_name": "インターポーザー",
+      "score": -0.11855739225438379,
+      "horse_number": 1,
+      "odds": 15.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105813",
+      "horse_name": "ルージュミレネール",
+      "score": -0.1366272672093441,
+      "horse_number": 15,
+      "odds": 35.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101701",
+      "horse_name": "クリフハンガー",
+      "score": -0.1469543594961235,
+      "horse_number": 14,
+      "odds": 18.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104105",
+      "horse_name": "ルクスマーベリック",
+      "score": -0.18282104308886868,
+      "horse_number": 7,
+      "odds": 32.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103316",
+      "horse_name": "キタノクニカラ",
+      "score": -0.1866161251962031,
+      "horse_number": 8,
+      "odds": 30.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103255",
+      "horse_name": "ジャスティンガルフ",
+      "score": -0.18862647614364297,
+      "horse_number": 16,
+      "odds": 30.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105746",
+      "horse_name": "コスモバラタ",
+      "score": -0.24517431194606043,
+      "horse_number": 12,
+      "odds": 51.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104570",
+      "horse_name": "ルージュクレセント",
+      "score": -0.2606231189221371,
+      "horse_number": 13,
+      "odds": 18.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020110123",
+      "horse_name": "レッドアーバイン",
+      "score": -0.2753183022644758,
+      "horse_number": 9,
+      "odds": 69.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106633",
+      "horse_name": "バルナバ",
+      "score": -0.30649963473424774,
+      "horse_number": 6,
+      "odds": 28.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101889",
+      "horse_name": "ゼットエイト",
+      "score": -0.33538743927028747,
+      "horse_number": 2,
+      "odds": 39.3
+    }
+  ]
+}

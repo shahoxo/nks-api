@@ -1,0 +1,80 @@
+{
+  "race_id": "202508040509",
+  "race_name": "秋明菊賞",
+  "race_time": "2025-11-22 14:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105277",
+      "horse_name": "ファニーバニー",
+      "score": 0.3961861605173398,
+      "horse_number": 3,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104313",
+      "horse_name": "タガノアラリア",
+      "score": 0.3153298389792192,
+      "horse_number": 1,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105545",
+      "horse_name": "スターオブロンドン",
+      "score": 0.16699458586553834,
+      "horse_number": 4,
+      "odds": 11.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104960",
+      "horse_name": "アスミル",
+      "score": 0.11557335812849168,
+      "horse_number": 2,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103171",
+      "horse_name": "プレダトゥール",
+      "score": 0.10641248240510438,
+      "horse_number": 6,
+      "odds": 6.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023109161",
+      "horse_name": "エイシンディアマン",
+      "score": 0.08654288943954512,
+      "horse_number": 9,
+      "odds": 33.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101174",
+      "horse_name": "ドルチェミスト",
+      "score": 0.030875223306734347,
+      "horse_number": 8,
+      "odds": 14.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104011",
+      "horse_name": "トモジャプレジール",
+      "score": -0.22409788071149797,
+      "horse_number": 5,
+      "odds": 32.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106197",
+      "horse_name": "フレンドモナコ",
+      "score": -0.5707140942884151,
+      "horse_number": 7,
+      "odds": 48.4
+    }
+  ]
+}
