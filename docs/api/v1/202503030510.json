@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030510",
+  "race_name": "福島放送賞",
+  "race_time": "2025-11-22 14:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102315",
+      "horse_name": "シュヴァルボヌール",
+      "score": 0.26273870366417545,
+      "horse_number": 13,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102427",
+      "horse_name": "パールフロント",
+      "score": 0.1752260719564108,
+      "horse_number": 1,
+      "odds": 9.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101610",
+      "horse_name": "ルージュアズライト",
+      "score": 0.09936226089184423,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100729",
+      "horse_name": "ビーマックス",
+      "score": 0.06704671378734545,
+      "horse_number": 12,
+      "odds": 22.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110088",
+      "horse_name": "オトメナシャチョウ",
+      "score": 0.035040521374927025,
+      "horse_number": 3,
+      "odds": 12.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104479",
+      "horse_name": "フェデルミエール",
+      "score": -0.011553236148546791,
+      "horse_number": 8,
+      "odds": 19.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103725",
+      "horse_name": "ロッカバイベイビー",
+      "score": -0.03440875243321838,
+      "horse_number": 2,
+      "odds": 20.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104546",
+      "horse_name": "サードウインド",
+      "score": -0.13147705361433676,
+      "horse_number": 16,
+      "odds": 38.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104676",
+      "horse_name": "マイレーヌ",
+      "score": -0.21998446356661747,
+      "horse_number": 4,
+      "odds": 71.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106187",
+      "horse_name": "ゼンダンタカ",
+      "score": -0.23954354850051032,
+      "horse_number": 14,
+      "odds": 42.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102562",
+      "horse_name": "パルプフィクション",
+      "score": -0.30182517072227805,
+      "horse_number": 5,
+      "odds": 31.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104164",
+      "horse_name": "アネモス",
+      "score": -0.33389080832976104,
+      "horse_number": 11,
+      "odds": 58.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100187",
+      "horse_name": "ニシノクラウン",
+      "score": -0.4744772946734336,
+      "horse_number": 15,
+      "odds": 68.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100382",
+      "horse_name": "ケープアグラス",
+      "score": -0.5241290775787433,
+      "horse_number": 9,
+      "odds": 68.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019103887",
+      "horse_name": "シックザイン",
+      "score": -0.6293301629666437,
+      "horse_number": 7,
+      "odds": 179.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021100011",
+      "horse_name": "サダージ",
+      "score": -0.6318373387288261,
+      "horse_number": 10,
+      "odds": 118.6
+    }
+  ]
+}
