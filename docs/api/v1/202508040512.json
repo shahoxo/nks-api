@@ -1,0 +1,128 @@
+{
+  "race_id": "202508040512",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-22 16:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104765",
+      "horse_name": "ミッキーゴールド",
+      "score": 0.36761430575104,
+      "horse_number": 14,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100625",
+      "horse_name": "ラブリーリディア",
+      "score": 0.28267844970949024,
+      "horse_number": 6,
+      "odds": 16.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021107085",
+      "horse_name": "ウインアクトゥール",
+      "score": 0.2708050462529068,
+      "horse_number": 11,
+      "odds": 16.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105140",
+      "horse_name": "ネブラディスク",
+      "score": 0.2608263993834976,
+      "horse_number": 1,
+      "odds": 2.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105032",
+      "horse_name": "エバーグルーヴ",
+      "score": 0.14857256887908304,
+      "horse_number": 7,
+      "odds": 15.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104781",
+      "horse_name": "ゴーソーファー",
+      "score": 0.0934702855941323,
+      "horse_number": 2,
+      "odds": 15.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105422",
+      "horse_name": "フォーキャンドルズ",
+      "score": 0.08919028102856294,
+      "horse_number": 4,
+      "odds": 21.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106642",
+      "horse_name": "ファミリーツリー",
+      "score": 0.006833619080959175,
+      "horse_number": 12,
+      "odds": 21.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101751",
+      "horse_name": "ミカエルパシャ",
+      "score": -0.05407601551088785,
+      "horse_number": 9,
+      "odds": 12.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101548",
+      "horse_name": "アイザックバローズ",
+      "score": -0.11305365826051318,
+      "horse_number": 5,
+      "odds": 85.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105984",
+      "horse_name": "モモンウールー",
+      "score": -0.14684787561036375,
+      "horse_number": 10,
+      "odds": 61.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105434",
+      "horse_name": "ショウナンガチ",
+      "score": -0.15294809363762046,
+      "horse_number": 8,
+      "odds": 44.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106116",
+      "horse_name": "ラッキーダンス",
+      "score": -0.3610083646867255,
+      "horse_number": 3,
+      "odds": 98.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104531",
+      "horse_name": "バンフィエルド",
+      "score": -0.4291029235340172,
+      "horse_number": 13,
+      "odds": 83.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101284",
+      "horse_name": "ルクスドヌーヴ",
+      "score": -0.5604919038970706,
+      "horse_number": 15,
+      "odds": 139.0
+    }
+  ]
+}
