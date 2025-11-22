@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040511",
+  "race_name": "シトリンS",
+  "race_time": "2025-11-22 15:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103387",
+      "horse_name": "クールミラボー",
+      "score": 0.3406540918987097,
+      "horse_number": 15,
+      "odds": 12.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100912",
+      "horse_name": "ジューンアヲニヨシ",
+      "score": 0.27238114992051676,
+      "horse_number": 10,
+      "odds": 8.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103020",
+      "horse_name": "ムルソー",
+      "score": 0.2662860628737379,
+      "horse_number": 4,
+      "odds": 1.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105112",
+      "horse_name": "ミッキークレスト",
+      "score": 0.22491040802415008,
+      "horse_number": 8,
+      "odds": 10.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104760",
+      "horse_name": "ゼットリアン",
+      "score": 0.15887516779631786,
+      "horse_number": 9,
+      "odds": 18.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018105431",
+      "horse_name": "ミッキーヌチバナ",
+      "score": 0.14993720778022596,
+      "horse_number": 2,
+      "odds": 14.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103987",
+      "horse_name": "スナークラファエロ",
+      "score": 0.14264881879804098,
+      "horse_number": 7,
+      "odds": 8.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105639",
+      "horse_name": "ハギノサステナブル",
+      "score": 0.09698183967566518,
+      "horse_number": 3,
+      "odds": 32.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019100286",
+      "horse_name": "カンピオーネ",
+      "score": 0.06583368714410866,
+      "horse_number": 5,
+      "odds": 83.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018106571",
+      "horse_name": "メイショウフンジン",
+      "score": -0.043362137634055525,
+      "horse_number": 12,
+      "odds": 74.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106925",
+      "horse_name": "ハグ",
+      "score": -0.07090239866013878,
+      "horse_number": 16,
+      "odds": 14.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102688",
+      "horse_name": "サーマルソアリング",
+      "score": -0.13475665946773235,
+      "horse_number": 1,
+      "odds": 64.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105496",
+      "horse_name": "リアレスト",
+      "score": -0.17334976176126574,
+      "horse_number": 6,
+      "odds": 82.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018105503",
+      "horse_name": "ロコポルティ",
+      "score": -0.18199357566333757,
+      "horse_number": 14,
+      "odds": 91.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019100631",
+      "horse_name": "フォーチュンテラー",
+      "score": -0.35090171454397623,
+      "horse_number": 11,
+      "odds": 113.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2016103730",
+      "horse_name": "ザイツィンガー",
+      "score": -0.5228366722267926,
+      "horse_number": 13,
+      "odds": 171.8
+    }
+  ]
+}

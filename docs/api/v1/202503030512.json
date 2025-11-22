@@ -1,0 +1,136 @@
+{
+  "race_id": "202503030512",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-22 15:55",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105996",
+      "horse_name": "ルシェロアズーリ",
+      "score": 0.1362807524732954,
+      "horse_number": 13,
+      "odds": 13.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100614",
+      "horse_name": "ハーフェン",
+      "score": 0.05693607486697732,
+      "horse_number": 2,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105583",
+      "horse_name": "セイプリーズ",
+      "score": 0.04323213047569996,
+      "horse_number": 16,
+      "odds": 28.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103155",
+      "horse_name": "タイキオーベロン",
+      "score": 0.01947078521896598,
+      "horse_number": 3,
+      "odds": 13.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104137",
+      "horse_name": "ミエノブラボー",
+      "score": -0.003368362533096696,
+      "horse_number": 15,
+      "odds": 6.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102153",
+      "horse_name": "ダガーリング",
+      "score": -0.06279036949553782,
+      "horse_number": 4,
+      "odds": 7.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105269",
+      "horse_name": "ナリノエンブレム",
+      "score": -0.12732165058032227,
+      "horse_number": 7,
+      "odds": 43.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102878",
+      "horse_name": "ナンナンプー",
+      "score": -0.1318190872953746,
+      "horse_number": 9,
+      "odds": 22.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101464",
+      "horse_name": "レイユール",
+      "score": -0.14099256317633455,
+      "horse_number": 12,
+      "odds": 3.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103039",
+      "horse_name": "スネーフリンガ",
+      "score": -0.14273736349115856,
+      "horse_number": 5,
+      "odds": 16.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101595",
+      "horse_name": "ヴィヴァクラウン",
+      "score": -0.20763403460471816,
+      "horse_number": 1,
+      "odds": 33.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105073",
+      "horse_name": "ガットネロ",
+      "score": -0.24680342540911224,
+      "horse_number": 11,
+      "odds": 19.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101431",
+      "horse_name": "ダニエルバローズ",
+      "score": -0.2765284108769485,
+      "horse_number": 14,
+      "odds": 15.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106874",
+      "horse_name": "ナムラトロム",
+      "score": -0.36804205071308194,
+      "horse_number": 6,
+      "odds": 29.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021106395",
+      "horse_name": "ハッピーサプライズ",
+      "score": -0.4669215084010411,
+      "horse_number": 10,
+      "odds": 39.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103225",
+      "horse_name": "アルヴィエンヌ",
+      "score": -0.5529378849583312,
+      "horse_number": 8,
+      "odds": 75.2
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "race_id": "202503030511",
   "race_name": "福島記念",
-  "race_time": "2025-11-22 15:20",
+  "race_time": "2025-11-22 15:25",
   "race_place": "福島",
   "predictions": [
     {
@@ -10,7 +10,7 @@
       "horse_name": "ニシノティアモ",
       "score": 0.2541663511955271,
       "horse_number": 10,
-      "odds": 5.0
+      "odds": 4.3
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "イングランドアイズ",
       "score": 0.11579837406083138,
       "horse_number": 4,
-      "odds": 7.8
+      "odds": 7.9
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "エコロヴァルツ",
       "score": 0.08124599431885779,
       "horse_number": 8,
-      "odds": 4.4
+      "odds": 4.2
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "パレハ",
       "score": 0.08053287177853748,
       "horse_number": 7,
-      "odds": 19.6
+      "odds": 18.8
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "クリスマスパレード",
       "score": -0.039943162078020414,
       "horse_number": 1,
-      "odds": 5.6
+      "odds": 5.9
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "コガネノソラ",
       "score": -0.08143766227523176,
       "horse_number": 6,
-      "odds": 18.1
+      "odds": 18.9
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "アラタ",
       "score": -0.08529063187973623,
       "horse_number": 13,
-      "odds": 18.1
+      "odds": 18.8
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "アンリーロード",
       "score": -0.10000362461739458,
       "horse_number": 9,
-      "odds": 66.5
+      "odds": 70.1
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "リカンカブール",
       "score": -0.1508786465515781,
       "horse_number": 16,
-      "odds": 26.3
+      "odds": 29.6
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "バビット",
       "score": -0.1834726065036073,
       "horse_number": 12,
-      "odds": 24.5
+      "odds": 29.5
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "ダンディズム",
       "score": -0.2631973605545444,
       "horse_number": 15,
-      "odds": 64.2
+      "odds": 61.5
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "タイムトゥヘヴン",
       "score": -0.27873859797769795,
       "horse_number": 2,
-      "odds": 24.9
+      "odds": 25.6
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "クリノメイ",
       "score": -0.3468685651636622,
       "horse_number": 3,
-      "odds": 14.0
+      "odds": 14.6
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "シリウスコルト",
       "score": -0.36262558100984055,
       "horse_number": 5,
-      "odds": 9.0
+      "odds": 9.9
     },
     {
       "rank": 15,
@@ -122,7 +122,7 @@
       "horse_name": "キタウイング",
       "score": -0.4941274871810676,
       "horse_number": 14,
-      "odds": 107.1
+      "odds": 144.1
     },
     {
       "rank": 16,
@@ -130,7 +130,7 @@
       "horse_name": "リフレーミング",
       "score": -0.5263554612695677,
       "horse_number": 11,
-      "odds": 54.5
+      "odds": 60.8
     }
   ]
 }
