@@ -1,0 +1,128 @@
+{
+  "race_id": "202508040502",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-22 10:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102230",
+      "horse_name": "ジャスティンダラス",
+      "score": 0.3313093883299183,
+      "horse_number": 7,
+      "odds": 1.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106838",
+      "horse_name": "ブラックコーラル",
+      "score": 0.11454229563701955,
+      "horse_number": 14,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102589",
+      "horse_name": "ダテオトコ",
+      "score": -0.09765467484930286,
+      "horse_number": 8,
+      "odds": 43.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104384",
+      "horse_name": "ローゾフィア",
+      "score": -0.11831271715369389,
+      "horse_number": 13,
+      "odds": 23.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103240",
+      "horse_name": "ワルトシュタイン",
+      "score": -0.13770875185747933,
+      "horse_number": 1,
+      "odds": 47.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104101",
+      "horse_name": "テンレッドサン",
+      "score": -0.14633167617627119,
+      "horse_number": 2,
+      "odds": 48.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103284",
+      "horse_name": "メイショウナナシロ",
+      "score": -0.26767876174203176,
+      "horse_number": 15,
+      "odds": 58.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103470",
+      "horse_name": "2023103470",
+      "score": -0.2701833705455378,
+      "horse_number": 11,
+      "odds": 60.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102697",
+      "horse_name": "ビアリッツ",
+      "score": -0.2841880809049108,
+      "horse_number": 5,
+      "odds": 77.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100992",
+      "horse_name": "セルシャーム",
+      "score": -0.31545535176461487,
+      "horse_number": 4,
+      "odds": 27.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102684",
+      "horse_name": "ニホンピロエール",
+      "score": -0.5636716945698683,
+      "horse_number": 10,
+      "odds": 186.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101097",
+      "horse_name": "ゴールデンテティス",
+      "score": -0.6019904973327082,
+      "horse_number": 12,
+      "odds": 95.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102708",
+      "horse_name": "クボウサマ",
+      "score": -0.700999851469308,
+      "horse_number": 9,
+      "odds": 155.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102457",
+      "horse_name": "オッハッピー",
+      "score": -0.703836440672674,
+      "horse_number": 3,
+      "odds": 320.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101412",
+      "horse_name": "クリコバロー",
+      "score": -0.7334327562287062,
+      "horse_number": 6,
+      "odds": 191.6
+    }
+  ]
+}

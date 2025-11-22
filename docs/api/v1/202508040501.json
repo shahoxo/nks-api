@@ -1,0 +1,120 @@
+{
+  "race_id": "202508040501",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-22 10:01",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105616",
+      "horse_name": "テーオーナタリー",
+      "score": 0.15778987374438838,
+      "horse_number": 4,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107075",
+      "horse_name": "ガーネットフレア",
+      "score": 0.13934360243830943,
+      "horse_number": 11,
+      "odds": 2.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101047",
+      "horse_name": "アスターエポワス",
+      "score": 0.1262983377818744,
+      "horse_number": 7,
+      "odds": 5.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100798",
+      "horse_name": "マリノムーンリーフ",
+      "score": 0.0821448179217567,
+      "horse_number": 9,
+      "odds": 15.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102889",
+      "horse_name": "エボニードール",
+      "score": -0.0577621817835131,
+      "horse_number": 13,
+      "odds": 16.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102828",
+      "horse_name": "クリスプレミアム",
+      "score": -0.17455826418460907,
+      "horse_number": 5,
+      "odds": 49.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103534",
+      "horse_name": "マユナイト",
+      "score": -0.20071596836509037,
+      "horse_number": 12,
+      "odds": 23.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102176",
+      "horse_name": "スノーガーネット",
+      "score": -0.21293993252421917,
+      "horse_number": 6,
+      "odds": 29.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100695",
+      "horse_name": "モノノケ",
+      "score": -0.3105037594489446,
+      "horse_number": 10,
+      "odds": 34.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103592",
+      "horse_name": "リリーサンライズ",
+      "score": -0.3549472983297707,
+      "horse_number": 2,
+      "odds": 53.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023109140",
+      "horse_name": "コウユーネロガ",
+      "score": -0.4969418799573405,
+      "horse_number": 1,
+      "odds": 118.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106536",
+      "horse_name": "フェンネル",
+      "score": -0.5487249194209747,
+      "horse_number": 8,
+      "odds": 96.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100537",
+      "horse_name": "アロハマウロア",
+      "score": -0.6336370845533565,
+      "horse_number": 3,
+      "odds": 77.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023107438",
+      "horse_name": "ライクシュガー",
+      "score": -0.7181108710791474,
+      "horse_number": 14,
+      "odds": 253.4
+    }
+  ]
+}
