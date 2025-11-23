@@ -1,0 +1,112 @@
+{
+  "race_id": "202508040602",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-23 10:35",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106172",
+      "horse_name": "クラックショット",
+      "score": 0.10203350267897289,
+      "horse_number": 13,
+      "odds": 4.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100715",
+      "horse_name": "ピエナオルカ",
+      "score": 0.06242838741238488,
+      "horse_number": 3,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104339",
+      "horse_name": "ルファーダ",
+      "score": 0.02337325017484789,
+      "horse_number": 11,
+      "odds": 7.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105236",
+      "horse_name": "ポッドジーク",
+      "score": -0.0769330426056186,
+      "horse_number": 12,
+      "odds": 3.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105329",
+      "horse_name": "エクストラプッシュ",
+      "score": -0.17965567115663042,
+      "horse_number": 4,
+      "odds": 10.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104930",
+      "horse_name": "スズカローズキング",
+      "score": -0.24492045615440508,
+      "horse_number": 7,
+      "odds": 16.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100430",
+      "horse_name": "ロードファイター",
+      "score": -0.29429356033067877,
+      "horse_number": 1,
+      "odds": 8.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102061",
+      "horse_name": "メイショウゴッホ",
+      "score": -0.4132377155194482,
+      "horse_number": 9,
+      "odds": 46.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105122",
+      "horse_name": "サラサダンディー",
+      "score": -0.41523075132047393,
+      "horse_number": 6,
+      "odds": 29.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104377",
+      "horse_name": "ナブッコ",
+      "score": -0.5003410234931139,
+      "horse_number": 8,
+      "odds": 20.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106001",
+      "horse_name": "スマートコーラル",
+      "score": -0.5936516828434119,
+      "horse_number": 5,
+      "odds": 51.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102554",
+      "horse_name": "イチザペガサス",
+      "score": -0.6800865812962514,
+      "horse_number": 2,
+      "odds": 37.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100339",
+      "horse_name": "ヒロウッドテール",
+      "score": -0.735775346659503,
+      "horse_number": 10,
+      "odds": 105.3
+    }
+  ]
+}

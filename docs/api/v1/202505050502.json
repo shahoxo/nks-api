@@ -1,0 +1,152 @@
+{
+  "race_id": "202505050502",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-23 10:20",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107320",
+      "horse_name": "リスレジャンデール",
+      "score": 0.3055090126748536,
+      "horse_number": 11,
+      "odds": 1.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103789",
+      "horse_name": "アースヴィンチ",
+      "score": 0.2815317791885388,
+      "horse_number": 9,
+      "odds": 13.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102362",
+      "horse_name": "ブライトエアリー",
+      "score": 0.2472058669551782,
+      "horse_number": 17,
+      "odds": 20.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106285",
+      "horse_name": "ボーントゥラブユー",
+      "score": 0.19083450316186423,
+      "horse_number": 7,
+      "odds": 25.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102403",
+      "horse_name": "ルンベーラ",
+      "score": 0.17546706530041956,
+      "horse_number": 8,
+      "odds": 16.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104721",
+      "horse_name": "シルバーゴールド",
+      "score": 0.12592898239545036,
+      "horse_number": 18,
+      "odds": 22.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103153",
+      "horse_name": "ベルサンローラン",
+      "score": 0.12111729839719333,
+      "horse_number": 6,
+      "odds": 9.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107403",
+      "horse_name": "エコロセレナ",
+      "score": -0.11808835321540787,
+      "horse_number": 12,
+      "odds": 192.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104065",
+      "horse_name": "ジャストビコーズ",
+      "score": -0.17366861675356035,
+      "horse_number": 3,
+      "odds": 23.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104679",
+      "horse_name": "タイセイルビー",
+      "score": -0.2623355597204727,
+      "horse_number": 15,
+      "odds": 43.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106418",
+      "horse_name": "インテンスゲイズ",
+      "score": -0.26438824846490716,
+      "horse_number": 1,
+      "odds": 28.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106609",
+      "horse_name": "ユーゲットミー",
+      "score": -0.34213497658369163,
+      "horse_number": 10,
+      "odds": 102.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105919",
+      "horse_name": "チェンドル",
+      "score": -0.384628450465504,
+      "horse_number": 16,
+      "odds": 185.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103805",
+      "horse_name": "キャリアビジョン",
+      "score": -0.5158948864784395,
+      "horse_number": 5,
+      "odds": 104.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104597",
+      "horse_name": "ラスターヴァース",
+      "score": -0.5184038940737431,
+      "horse_number": 13,
+      "odds": 81.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105956",
+      "horse_name": "モンペリエ",
+      "score": -0.5208022391704071,
+      "horse_number": 4,
+      "odds": 241.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023106261",
+      "horse_name": "ニシノヒンメル",
+      "score": -0.5418979971483733,
+      "horse_number": 2,
+      "odds": 139.6
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023103060",
+      "horse_name": "アマビエ",
+      "score": -0.7212483613895885,
+      "horse_number": 14,
+      "odds": 335.4
+    }
+  ]
+}

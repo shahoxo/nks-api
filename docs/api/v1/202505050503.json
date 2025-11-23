@@ -1,0 +1,152 @@
+{
+  "race_id": "202505050503",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-23 10:50",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104684",
+      "horse_name": "ロジクリスエス",
+      "score": 0.39214404221854093,
+      "horse_number": 4,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103487",
+      "horse_name": "ピエドゥラパン",
+      "score": 0.3554671495505066,
+      "horse_number": 2,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107172",
+      "horse_name": "バルボアパーク",
+      "score": 0.33939001928926,
+      "horse_number": 8,
+      "odds": 9.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103550",
+      "horse_name": "ワイズファミリア",
+      "score": 0.30279216574034623,
+      "horse_number": 10,
+      "odds": 3.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100169",
+      "horse_name": "スミッコディスコ",
+      "score": 0.2837561430321521,
+      "horse_number": 11,
+      "odds": 12.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102439",
+      "horse_name": "サザンテイオー",
+      "score": 0.09161555188579518,
+      "horse_number": 13,
+      "odds": 5.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102732",
+      "horse_name": "マッキュラシオン",
+      "score": -0.026610190872216798,
+      "horse_number": 7,
+      "odds": 53.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102182",
+      "horse_name": "タイキプレジール",
+      "score": -0.06950950277532925,
+      "horse_number": 16,
+      "odds": 14.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105102",
+      "horse_name": "ダイユウヴェンティ",
+      "score": -0.08266251940574547,
+      "horse_number": 12,
+      "odds": 33.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107322",
+      "horse_name": "ルクリーシア",
+      "score": -0.1137710527729439,
+      "horse_number": 9,
+      "odds": 77.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101459",
+      "horse_name": "シャルムグリーン",
+      "score": -0.13378865928095043,
+      "horse_number": 15,
+      "odds": 35.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104054",
+      "horse_name": "モンサンドール",
+      "score": -0.2566542396103167,
+      "horse_number": 5,
+      "odds": 54.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105179",
+      "horse_name": "フジテンクウ",
+      "score": -0.38029054066614054,
+      "horse_number": 3,
+      "odds": 129.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103621",
+      "horse_name": "シンエンドーツダ",
+      "score": -0.4212270864574002,
+      "horse_number": 1,
+      "odds": 59.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106458",
+      "horse_name": "ピルスナー",
+      "score": -0.46993521420010564,
+      "horse_number": 6,
+      "odds": 177.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106465",
+      "horse_name": "スターアライズ",
+      "score": -0.4745990273268638,
+      "horse_number": 17,
+      "odds": 68.0
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023107455",
+      "horse_name": "ピーエムキンチャン",
+      "score": -0.671212993402232,
+      "horse_number": 14,
+      "odds": 252.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023104737",
+      "horse_name": "レッツゴーファイト",
+      "score": -0.7498547462216962,
+      "horse_number": 18,
+      "odds": 247.9
+    }
+  ]
+}

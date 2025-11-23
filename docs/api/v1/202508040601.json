@@ -1,0 +1,120 @@
+{
+  "race_id": "202508040601",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-23 10:05",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106948",
+      "horse_name": "ガイストライヒ",
+      "score": 0.4490706240877739,
+      "horse_number": 4,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101161",
+      "horse_name": "ホットシート",
+      "score": 0.28532283296083716,
+      "horse_number": 5,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107140",
+      "horse_name": "ビーチェマーレ",
+      "score": 0.2266723327750201,
+      "horse_number": 11,
+      "odds": 8.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023110086",
+      "horse_name": "サマーマッドネス",
+      "score": 0.22304479481215553,
+      "horse_number": 8,
+      "odds": 3.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104358",
+      "horse_name": "ヤマニンフェイエル",
+      "score": 0.1751118637599859,
+      "horse_number": 13,
+      "odds": 12.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103376",
+      "horse_name": "フェルギナス",
+      "score": 0.054582694671134815,
+      "horse_number": 12,
+      "odds": 36.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104941",
+      "horse_name": "ジャストアダッシュ",
+      "score": -0.07366396985061859,
+      "horse_number": 9,
+      "odds": 28.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101713",
+      "horse_name": "イサギ",
+      "score": -0.14251353876496264,
+      "horse_number": 14,
+      "odds": 28.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106289",
+      "horse_name": "シャープインサイト",
+      "score": -0.22340154323508904,
+      "horse_number": 1,
+      "odds": 33.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104838",
+      "horse_name": "マルモリラピダス",
+      "score": -0.27399957393764807,
+      "horse_number": 7,
+      "odds": 67.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106571",
+      "horse_name": "メイショウイブキ",
+      "score": -0.38248574796539314,
+      "horse_number": 2,
+      "odds": 29.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100672",
+      "horse_name": "ナムラシンジロー",
+      "score": -0.5393606452573874,
+      "horse_number": 3,
+      "odds": 293.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100530",
+      "horse_name": "カセノナユタ",
+      "score": -0.6299256088243421,
+      "horse_number": 6,
+      "odds": 220.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101079",
+      "horse_name": "ブラダマンテ",
+      "score": -0.7498547462216962,
+      "horse_number": 10,
+      "odds": 351.1
+    }
+  ]
+}
