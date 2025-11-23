@@ -1,0 +1,120 @@
+{
+  "race_id": "202508040608",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-23 13:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105722",
+      "horse_name": "グランドプラージュ",
+      "score": 0.3506394618100402,
+      "horse_number": 13,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105616",
+      "horse_name": "エルフストラック",
+      "score": 0.2842267230273066,
+      "horse_number": 12,
+      "odds": 13.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020100061",
+      "horse_name": "モックモック",
+      "score": 0.2819092444151383,
+      "horse_number": 7,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101226",
+      "horse_name": "クリノフィガロ",
+      "score": -0.002306962599697715,
+      "horse_number": 14,
+      "odds": 15.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102572",
+      "horse_name": "メイショウオオコ",
+      "score": -0.00374112945630557,
+      "horse_number": 6,
+      "odds": 67.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103727",
+      "horse_name": "キーチパルフェ",
+      "score": -0.03750123523789183,
+      "horse_number": 8,
+      "odds": 9.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104292",
+      "horse_name": "フクキタテーラー",
+      "score": -0.04317049377252591,
+      "horse_number": 11,
+      "odds": 40.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100978",
+      "horse_name": "ハギノカノア",
+      "score": -0.1666187555388042,
+      "horse_number": 1,
+      "odds": 113.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100664",
+      "horse_name": "グランキングオー",
+      "score": -0.21001875868590844,
+      "horse_number": 3,
+      "odds": 26.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104107",
+      "horse_name": "ショウナンカブト",
+      "score": -0.21782703801515563,
+      "horse_number": 10,
+      "odds": 77.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022107288",
+      "horse_name": "リアルクィーン",
+      "score": -0.25689400758390285,
+      "horse_number": 2,
+      "odds": 37.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101554",
+      "horse_name": "アルベリック",
+      "score": -0.27427396635073276,
+      "horse_number": 9,
+      "odds": 68.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020107081",
+      "horse_name": "クリノクリスタル",
+      "score": -0.5088637868849478,
+      "horse_number": 5,
+      "odds": 91.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100413",
+      "horse_name": "ディオスパーダ",
+      "score": -0.6160787344441224,
+      "horse_number": 4,
+      "odds": 165.6
+    }
+  ]
+}
