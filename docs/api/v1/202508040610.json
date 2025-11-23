@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040610",
+  "race_name": "Lトレーナー",
+  "race_time": "2025-11-23 15:01",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103462",
+      "horse_name": "ノットファウンド",
+      "score": 0.42732328775746026,
+      "horse_number": 8,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105598",
+      "horse_name": "ダノンスウィッチ",
+      "score": 0.22314741975211017,
+      "horse_number": 9,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020104893",
+      "horse_name": "セミマル",
+      "score": 0.21948309034471591,
+      "horse_number": 6,
+      "odds": 14.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106706",
+      "horse_name": "キャピタルサックス",
+      "score": 0.06184284654730816,
+      "horse_number": 14,
+      "odds": 8.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103786",
+      "horse_name": "ヒルノドゴール",
+      "score": 0.04967704325394666,
+      "horse_number": 3,
+      "odds": 6.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103073",
+      "horse_name": "プロミシングスター",
+      "score": 0.009617971652010346,
+      "horse_number": 7,
+      "odds": 7.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101397",
+      "horse_name": "ヴェロクオーレ",
+      "score": -0.004470513367414788,
+      "horse_number": 11,
+      "odds": 9.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102045",
+      "horse_name": "フェルヴェンテ",
+      "score": -0.01036594477940794,
+      "horse_number": 13,
+      "odds": 17.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100665",
+      "horse_name": "ジャスパーバローズ",
+      "score": -0.053882839263522726,
+      "horse_number": 4,
+      "odds": 27.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019106604",
+      "horse_name": "スミ",
+      "score": -0.060539094077404446,
+      "horse_number": 15,
+      "odds": 34.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018101989",
+      "horse_name": "ジョディーズマロン",
+      "score": -0.07922831923348757,
+      "horse_number": 5,
+      "odds": 27.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104632",
+      "horse_name": "プルートマスター",
+      "score": -0.09474536561406954,
+      "horse_number": 12,
+      "odds": 22.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105431",
+      "horse_name": "ヘルモーズ",
+      "score": -0.10067480176886064,
+      "horse_number": 10,
+      "odds": 35.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020107082",
+      "horse_name": "ライジン",
+      "score": -0.14105264454357724,
+      "horse_number": 16,
+      "odds": 49.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103902",
+      "horse_name": "ジャーヴィス",
+      "score": -0.1536426277811795,
+      "horse_number": 1,
+      "odds": 66.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021110087",
+      "horse_name": "ラブコメディ",
+      "score": -0.5388258097087705,
+      "horse_number": 2,
+      "odds": 60.4
+    }
+  ]
+}
