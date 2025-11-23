@@ -1,0 +1,152 @@
+{
+  "race_id": "202508040611",
+  "race_name": "マイルCS",
+  "race_time": "2025-11-23 15:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021107171",
+      "horse_name": "ジャンタルマンタル",
+      "score": 0.4350839077864228,
+      "horse_number": 15,
+      "odds": 2.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102078",
+      "horse_name": "レーベンスティール",
+      "score": 0.372011365239373,
+      "horse_number": 14,
+      "odds": 15.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105354",
+      "horse_name": "アスコリピチェーノ",
+      "score": 0.3591356113119659,
+      "horse_number": 5,
+      "odds": 6.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2018100382",
+      "horse_name": "ソウルラッシュ",
+      "score": 0.3499729123551001,
+      "horse_number": 17,
+      "odds": 5.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021107098",
+      "horse_name": "ラヴァンダ",
+      "score": 0.3218013130409264,
+      "horse_number": 10,
+      "odds": 19.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019100213",
+      "horse_name": "ウインマーベル",
+      "score": 0.2752403275686733,
+      "horse_number": 12,
+      "odds": 45.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104476",
+      "horse_name": "ガイアフォース",
+      "score": 0.26045625462885746,
+      "horse_number": 6,
+      "odds": 7.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019106526",
+      "horse_name": "トウシンマカオ",
+      "score": 0.21099953986073527,
+      "horse_number": 1,
+      "odds": 74.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104434",
+      "horse_name": "ワイドラトゥール",
+      "score": 0.17084509001536802,
+      "horse_number": 18,
+      "odds": 188.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104772",
+      "horse_name": "マジックサンズ",
+      "score": 0.1422904266810626,
+      "horse_number": 4,
+      "odds": 38.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021110031",
+      "horse_name": "オフトレイル",
+      "score": 0.09543231655168037,
+      "horse_number": 11,
+      "odds": 26.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101503",
+      "horse_name": "カンチェンジュンガ",
+      "score": 0.0886973235812188,
+      "horse_number": 8,
+      "odds": 159.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020190006",
+      "horse_name": "2020190006",
+      "score": 0.0849479920502606,
+      "horse_number": 16,
+      "odds": 99.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105643",
+      "horse_name": "チェルヴィニア",
+      "score": 0.07886583155471498,
+      "horse_number": 7,
+      "odds": 42.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100680",
+      "horse_name": "エルトンバローズ",
+      "score": 0.013298973546338215,
+      "horse_number": 9,
+      "odds": 54.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021100953",
+      "horse_name": "ウォーターリヒト",
+      "score": -0.0339355908551417,
+      "horse_number": 3,
+      "odds": 101.9
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020103075",
+      "horse_name": "シャンパンカラー",
+      "score": -0.06296751898905589,
+      "horse_number": 2,
+      "odds": 93.5
+    },
+    {
+      "rank": 18,
+      "horse_id": "2018104708",
+      "horse_name": "ロングラン",
+      "score": -0.12141708131511966,
+      "horse_number": 13,
+      "odds": 154.9
+    }
+  ]
+}
