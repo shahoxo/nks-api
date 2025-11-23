@@ -10,7 +10,7 @@
       "horse_name": "グランドプラージュ",
       "score": 0.3506394618100402,
       "horse_number": 13,
-      "odds": 1.4
+      "odds": 1.7
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "エルフストラック",
       "score": 0.2842267230273066,
       "horse_number": 12,
-      "odds": 13.7
+      "odds": 8.7
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "モックモック",
       "score": 0.2819092444151383,
       "horse_number": 7,
-      "odds": 6.2
+      "odds": 4.5
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "クリノフィガロ",
       "score": -0.002306962599697715,
       "horse_number": 14,
-      "odds": 15.1
+      "odds": 13.5
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "メイショウオオコ",
       "score": -0.00374112945630557,
       "horse_number": 6,
-      "odds": 67.8
+      "odds": 85.3
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "キーチパルフェ",
       "score": -0.03750123523789183,
       "horse_number": 8,
-      "odds": 9.4
+      "odds": 6.0
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "フクキタテーラー",
       "score": -0.04317049377252591,
       "horse_number": 11,
-      "odds": 40.0
+      "odds": 36.4
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "ハギノカノア",
       "score": -0.1666187555388042,
       "horse_number": 1,
-      "odds": 113.0
+      "odds": 174.0
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "グランキングオー",
       "score": -0.21001875868590844,
       "horse_number": 3,
-      "odds": 26.7
+      "odds": 38.7
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "ショウナンカブト",
       "score": -0.21782703801515563,
       "horse_number": 10,
-      "odds": 77.6
+      "odds": 116.0
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "リアルクィーン",
       "score": -0.25689400758390285,
       "horse_number": 2,
-      "odds": 37.1
+      "odds": 51.8
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "アルベリック",
       "score": -0.27427396635073276,
       "horse_number": 9,
-      "odds": 68.6
+      "odds": 145.4
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "クリノクリスタル",
       "score": -0.5088637868849478,
       "horse_number": 5,
-      "odds": 91.1
+      "odds": 149.9
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "ディオスパーダ",
       "score": -0.6160787344441224,
       "horse_number": 4,
-      "odds": 165.6
+      "odds": 294.7
     }
   ]
 }

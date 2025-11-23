@@ -1,0 +1,112 @@
+{
+  "race_id": "202508040609",
+  "race_name": "花見小路特別",
+  "race_time": "2025-11-23 14:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103227",
+      "horse_name": "ジャズ",
+      "score": 0.4188464267158056,
+      "horse_number": 10,
+      "odds": 11.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105189",
+      "horse_name": "ブルーマエストロ",
+      "score": 0.40835289725137136,
+      "horse_number": 4,
+      "odds": 1.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105087",
+      "horse_name": "ダノンフェアレディ",
+      "score": 0.19262264125762185,
+      "horse_number": 2,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101697",
+      "horse_name": "グラフィティアート",
+      "score": 0.15412629095693903,
+      "horse_number": 12,
+      "odds": 5.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103194",
+      "horse_name": "メイショウセイロウ",
+      "score": 0.10861679846607479,
+      "horse_number": 6,
+      "odds": 10.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104623",
+      "horse_name": "コリカンチャ",
+      "score": -0.0128274473828867,
+      "horse_number": 5,
+      "odds": 23.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103665",
+      "horse_name": "クスクス",
+      "score": -0.06317938445048128,
+      "horse_number": 13,
+      "odds": 30.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103969",
+      "horse_name": "ヨウシタンレイ",
+      "score": -0.11529474627166349,
+      "horse_number": 3,
+      "odds": 33.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103168",
+      "horse_name": "トーアライデン",
+      "score": -0.193950681125521,
+      "horse_number": 1,
+      "odds": 46.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102561",
+      "horse_name": "キーウェーブ",
+      "score": -0.36044743374613675,
+      "horse_number": 8,
+      "odds": 126.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022109119",
+      "horse_name": "ケイテンアイジン",
+      "score": -0.3707318623993967,
+      "horse_number": 11,
+      "odds": 106.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102736",
+      "horse_name": "ビヨンドザドリーム",
+      "score": -0.4264533433500767,
+      "horse_number": 7,
+      "odds": 70.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019106700",
+      "horse_name": "ヒロノゴウカイ",
+      "score": -0.5133138658359971,
+      "horse_number": 9,
+      "odds": 117.0
+    }
+  ]
+}
