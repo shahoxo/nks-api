@@ -1,0 +1,136 @@
+{
+  "race_id": "202505050508",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-23 13:40",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103779",
+      "horse_name": "ゴールドハンマー",
+      "score": 0.23149989056578285,
+      "horse_number": 9,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019105041",
+      "horse_name": "ホウオウプレミア",
+      "score": 0.12555878533144266,
+      "horse_number": 5,
+      "odds": 11.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105225",
+      "horse_name": "レディーフランシス",
+      "score": 0.05558752357235046,
+      "horse_number": 2,
+      "odds": 18.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105832",
+      "horse_name": "セギレエルビエント",
+      "score": 0.02660417978472207,
+      "horse_number": 14,
+      "odds": 8.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110117",
+      "horse_name": "チュウワチーフ",
+      "score": 0.024228443191721925,
+      "horse_number": 13,
+      "odds": 5.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105471",
+      "horse_name": "マンノステータス",
+      "score": -0.0033708554241258836,
+      "horse_number": 16,
+      "odds": 34.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104160",
+      "horse_name": "バランスダンサー",
+      "score": -0.11554295042443219,
+      "horse_number": 8,
+      "odds": 31.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102595",
+      "horse_name": "バルダンツァ",
+      "score": -0.12581333721524607,
+      "horse_number": 7,
+      "odds": 18.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100739",
+      "horse_name": "ワンダーカモン",
+      "score": -0.13423962007892432,
+      "horse_number": 11,
+      "odds": 36.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021107192",
+      "horse_name": "アラレタバシル",
+      "score": -0.18564716189241207,
+      "horse_number": 10,
+      "odds": 4.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103766",
+      "horse_name": "トルショー",
+      "score": -0.2172169452582033,
+      "horse_number": 6,
+      "odds": 29.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105229",
+      "horse_name": "シーニックビュー",
+      "score": -0.27622676662825907,
+      "horse_number": 4,
+      "odds": 26.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101134",
+      "horse_name": "ニフェーデービル",
+      "score": -0.46265029375353317,
+      "horse_number": 12,
+      "odds": 41.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105350",
+      "horse_name": "コスモマルーン",
+      "score": -0.5061130337056592,
+      "horse_number": 15,
+      "odds": 98.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103007",
+      "horse_name": "エンファサイズ",
+      "score": -0.5768133336183507,
+      "horse_number": 3,
+      "odds": 82.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104099",
+      "horse_name": "マーシヴィガラス",
+      "score": -0.5970618435386312,
+      "horse_number": 1,
+      "odds": 35.0
+    }
+  ]
+}
