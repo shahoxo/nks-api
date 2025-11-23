@@ -10,7 +10,7 @@
       "horse_name": "アスクセクシーモア",
       "score": 0.2849196907819356,
       "horse_number": 5,
-      "odds": 5.8
+      "odds": 5.6
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "エンペラーズソード",
       "score": 0.22888390809194237,
       "horse_number": 3,
-      "odds": 6.8
+      "odds": 4.4
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "ポルカリズム",
       "score": 0.16082533558460937,
       "horse_number": 11,
-      "odds": 5.2
+      "odds": 10.6
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "コートアリシアン",
       "score": 0.12155753064796467,
       "horse_number": 1,
-      "odds": 4.0
+      "odds": 3.3
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "ナヴォーナ",
       "score": 0.08890078695142216,
       "horse_number": 7,
-      "odds": 10.1
+      "odds": 11.8
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "パワーホール",
       "score": 0.0065604318372387,
       "horse_number": 15,
-      "odds": 12.0
+      "odds": 7.6
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "テーオーダグラス",
       "score": -0.04759475111891831,
       "horse_number": 14,
-      "odds": 34.8
+      "odds": 57.0
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "ファインライン",
       "score": -0.06125693168651018,
       "horse_number": 6,
-      "odds": 21.1
+      "odds": 31.0
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "アルトゥーム",
       "score": -0.11521109514617327,
       "horse_number": 2,
-      "odds": 20.5
+      "odds": 27.1
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "ウインアイオライト",
       "score": -0.1392368593568472,
       "horse_number": 16,
-      "odds": 37.4
+      "odds": 67.7
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "ニシノライコウ",
       "score": -0.25336884525312975,
       "horse_number": 4,
-      "odds": 13.9
+      "odds": 13.2
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "トウカイファクター",
       "score": -0.33899992991554767,
       "horse_number": 17,
-      "odds": 88.6
+      "odds": 171.5
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "フクノブルーレイク",
       "score": -0.3718777636172012,
       "horse_number": 9,
-      "odds": 26.3
+      "odds": 28.4
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "タイゲン",
       "score": -0.40881553781967483,
       "horse_number": 10,
-      "odds": 81.4
+      "odds": 152.8
     },
     {
       "rank": 15,
@@ -122,7 +122,7 @@
       "horse_name": "フライングブレード",
       "score": -0.43312664315143856,
       "horse_number": 8,
-      "odds": 87.1
+      "odds": 159.6
     },
     {
       "rank": 16,
@@ -130,7 +130,7 @@
       "horse_name": "エスコバル",
       "score": -0.5865882003238246,
       "horse_number": 12,
-      "odds": 87.4
+      "odds": 155.4
     },
     {
       "rank": 17,
@@ -138,7 +138,7 @@
       "horse_name": "ショーモン",
       "score": -0.6593671803307738,
       "horse_number": 13,
-      "odds": 126.6
+      "odds": 185.5
     }
   ]
 }
