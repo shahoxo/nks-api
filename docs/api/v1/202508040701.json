@@ -1,0 +1,120 @@
+{
+  "race_id": "202508040701",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-29 10:05",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100126",
+      "horse_name": "ラッキーバック",
+      "score": 0.4256982946074048,
+      "horse_number": 7,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105245",
+      "horse_name": "オメガヒストリー",
+      "score": 0.22184735783488718,
+      "horse_number": 4,
+      "odds": 18.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103875",
+      "horse_name": "マカナアネラ",
+      "score": 0.18080938650910558,
+      "horse_number": 8,
+      "odds": 9.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103263",
+      "horse_name": "パータリプトラ",
+      "score": 0.17621529349720455,
+      "horse_number": 14,
+      "odds": 16.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100297",
+      "horse_name": "ブラックレジェンド",
+      "score": -0.0421335081387542,
+      "horse_number": 12,
+      "odds": 5.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100611",
+      "horse_name": "オタルイーグル",
+      "score": -0.06547889570825742,
+      "horse_number": 6,
+      "odds": 42.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102036",
+      "horse_name": "アイカンアズーラ",
+      "score": -0.13609075036945342,
+      "horse_number": 13,
+      "odds": 4.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104275",
+      "horse_name": "ハグレジョー",
+      "score": -0.13820895864471502,
+      "horse_number": 5,
+      "odds": 6.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107147",
+      "horse_name": "コサージュ",
+      "score": -0.21088696846709867,
+      "horse_number": 2,
+      "odds": 60.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104102",
+      "horse_name": "テセラグラディウス",
+      "score": -0.3913320753911532,
+      "horse_number": 9,
+      "odds": 89.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103982",
+      "horse_name": "マイトグラッド",
+      "score": -0.46993521420010564,
+      "horse_number": 11,
+      "odds": 250.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100112",
+      "horse_name": "シャンパンスター",
+      "score": -0.4830494103345241,
+      "horse_number": 1,
+      "odds": 37.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106158",
+      "horse_name": "ディアナタコス",
+      "score": -0.5844092227108343,
+      "horse_number": 3,
+      "odds": 241.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100375",
+      "horse_name": "エールドリー",
+      "score": -0.6067743528788597,
+      "horse_number": 10,
+      "odds": 23.9
+    }
+  ]
+}

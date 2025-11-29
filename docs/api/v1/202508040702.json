@@ -1,0 +1,96 @@
+{
+  "race_id": "202508040702",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-29 10:35",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023110105",
+      "horse_name": "ホウオウストライク",
+      "score": 0.32627680860559005,
+      "horse_number": 6,
+      "odds": 2.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107050",
+      "horse_name": "ワンダフルデイズ",
+      "score": 0.1864138293824054,
+      "horse_number": 9,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103488",
+      "horse_name": "シュプリームレルム",
+      "score": 0.0885923055458355,
+      "horse_number": 10,
+      "odds": 9.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107203",
+      "horse_name": "インシオン",
+      "score": 0.00787512940362831,
+      "horse_number": 1,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102120",
+      "horse_name": "システマソラー",
+      "score": -0.059985130015995675,
+      "horse_number": 4,
+      "odds": 5.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103176",
+      "horse_name": "セイントホース",
+      "score": -0.19653789357311308,
+      "horse_number": 3,
+      "odds": 40.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103155",
+      "horse_name": "エグジスタンス",
+      "score": -0.2793210120455894,
+      "horse_number": 8,
+      "odds": 38.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102489",
+      "horse_name": "ペプチドエレノア",
+      "score": -0.3940249644741244,
+      "horse_number": 11,
+      "odds": 31.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102502",
+      "horse_name": "トシッキーセカンド",
+      "score": -0.4290192120101761,
+      "horse_number": 7,
+      "odds": 67.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105602",
+      "horse_name": "ピゲ",
+      "score": -0.616215427074181,
+      "horse_number": 5,
+      "odds": 61.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105467",
+      "horse_name": "ショーンバローズ",
+      "score": -0.6476177259522933,
+      "horse_number": 2,
+      "odds": 54.9
+    }
+  ]
+}
