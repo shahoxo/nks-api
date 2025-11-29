@@ -1,0 +1,152 @@
+{
+  "race_id": "202505050711",
+  "race_name": "キャピタルS",
+  "race_time": "2025-11-29 15:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020102853",
+      "horse_name": "シャドウフューリー",
+      "score": 0.5437121175943362,
+      "horse_number": 10,
+      "odds": 6.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105454",
+      "horse_name": "ブエナオンダ",
+      "score": 0.5153252188266229,
+      "horse_number": 6,
+      "odds": 8.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103640",
+      "horse_name": "ミッキーゴージャス",
+      "score": 0.4327634999995307,
+      "horse_number": 4,
+      "odds": 5.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105467",
+      "horse_name": "マピュース",
+      "score": 0.23274415079591676,
+      "horse_number": 5,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104830",
+      "horse_name": "グロリアラウス",
+      "score": 0.22836548494902853,
+      "horse_number": 18,
+      "odds": 28.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101967",
+      "horse_name": "ダイシンヤマト",
+      "score": 0.22018762371831108,
+      "horse_number": 15,
+      "odds": 39.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103102",
+      "horse_name": "セオ",
+      "score": 0.21543596766307177,
+      "horse_number": 16,
+      "odds": 42.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102836",
+      "horse_name": "セフィロ",
+      "score": 0.20041702615525875,
+      "horse_number": 2,
+      "odds": 20.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105423",
+      "horse_name": "シヴァース",
+      "score": 0.18112420435892382,
+      "horse_number": 1,
+      "odds": 7.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101784",
+      "horse_name": "ラケマーダ",
+      "score": 0.11046769406840132,
+      "horse_number": 12,
+      "odds": 67.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020110155",
+      "horse_name": "レイベリング",
+      "score": 0.10269100597094742,
+      "horse_number": 13,
+      "odds": 87.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103061",
+      "horse_name": "シュタールヴィント",
+      "score": 0.09586046648021551,
+      "horse_number": 17,
+      "odds": 21.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105118",
+      "horse_name": "ジュンブロッサム",
+      "score": 0.09342735611375327,
+      "horse_number": 9,
+      "odds": 3.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019100965",
+      "horse_name": "マテンロウオリオン",
+      "score": -0.05273162239939473,
+      "horse_number": 8,
+      "odds": 31.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021105623",
+      "horse_name": "ホウオウプロサンゲ",
+      "score": -0.10424381248612044,
+      "horse_number": 14,
+      "odds": 96.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105626",
+      "horse_name": "コンクシェル",
+      "score": -0.3055988668228866,
+      "horse_number": 7,
+      "odds": 104.4
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020106234",
+      "horse_name": "グランドカリナン",
+      "score": -0.3921251971157102,
+      "horse_number": 11,
+      "odds": 203.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2020105018",
+      "horse_name": "スズハローム",
+      "score": -0.4422224257573908,
+      "horse_number": 3,
+      "odds": 87.8
+    }
+  ]
+}
