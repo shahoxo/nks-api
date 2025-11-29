@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040712",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-29 16:15",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021107180",
+      "horse_name": "ジュンヴァンケット",
+      "score": 0.43862525630970733,
+      "horse_number": 1,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104998",
+      "horse_name": "ブルーアイドガール",
+      "score": 0.3362415125010676,
+      "horse_number": 6,
+      "odds": 13.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106351",
+      "horse_name": "ベビーズブレス",
+      "score": 0.2238076626298071,
+      "horse_number": 13,
+      "odds": 14.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105092",
+      "horse_name": "ソングオブライフ",
+      "score": 0.11338727344016507,
+      "horse_number": 8,
+      "odds": 20.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100632",
+      "horse_name": "ハリウッドメモリー",
+      "score": 0.0843642993344578,
+      "horse_number": 15,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101378",
+      "horse_name": "アイヲツグモノ",
+      "score": 0.006530646325131653,
+      "horse_number": 3,
+      "odds": 50.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102674",
+      "horse_name": "スペルキャスター",
+      "score": 0.003470994113241802,
+      "horse_number": 9,
+      "odds": 62.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106661",
+      "horse_name": "ヒーローインチーフ",
+      "score": -0.05374584727005201,
+      "horse_number": 14,
+      "odds": 10.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102468",
+      "horse_name": "ブライティアダイヤ",
+      "score": -0.057344501837231984,
+      "horse_number": 11,
+      "odds": 88.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106131",
+      "horse_name": "ジオパーククラウン",
+      "score": -0.06648174447634408,
+      "horse_number": 16,
+      "odds": 60.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105803",
+      "horse_name": "マイネルラッシュ",
+      "score": -0.10413379981023546,
+      "horse_number": 10,
+      "odds": 62.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105659",
+      "horse_name": "アムールリーベ",
+      "score": -0.11701662233925028,
+      "horse_number": 7,
+      "odds": 11.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106821",
+      "horse_name": "ピースフルナイト",
+      "score": -0.11954159924673602,
+      "horse_number": 5,
+      "odds": 61.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102140",
+      "horse_name": "アンビバレント",
+      "score": -0.30197725913313883,
+      "horse_number": 12,
+      "odds": 19.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104825",
+      "horse_name": "スカプラリオ",
+      "score": -0.3302179123052889,
+      "horse_number": 4,
+      "odds": 45.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019103806",
+      "horse_name": "ベルウッドブラボー",
+      "score": -0.47888300929727434,
+      "horse_number": 2,
+      "odds": 27.8
+    }
+  ]
+}
