@@ -1,0 +1,80 @@
+{
+  "race_id": "202505050712",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-29 16:01",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110030",
+      "horse_name": "アンパドゥ",
+      "score": 0.5233146345745111,
+      "horse_number": 4,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105144",
+      "horse_name": "リバーバレイト",
+      "score": 0.42515080320377197,
+      "horse_number": 3,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105281",
+      "horse_name": "ダノンブギ",
+      "score": 0.2756762254994479,
+      "horse_number": 7,
+      "odds": 10.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105070",
+      "horse_name": "ジャサルディア",
+      "score": 0.23664041119753376,
+      "horse_number": 5,
+      "odds": 8.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102106",
+      "horse_name": "ツルマウカタチ",
+      "score": -0.05528514911965522,
+      "horse_number": 6,
+      "odds": 24.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103799",
+      "horse_name": "ケイケイ",
+      "score": -0.20441960487760277,
+      "horse_number": 9,
+      "odds": 46.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105495",
+      "horse_name": "マーゴットゲイン",
+      "score": -0.27054547118775885,
+      "horse_number": 1,
+      "odds": 38.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2016102080",
+      "horse_name": "ショーヒデキラ",
+      "score": -0.4219506431477319,
+      "horse_number": 2,
+      "odds": 63.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2017106722",
+      "horse_name": "サイモンルモンド",
+      "score": -0.7344997899121097,
+      "horse_number": 8,
+      "odds": 96.5
+    }
+  ]
+}
