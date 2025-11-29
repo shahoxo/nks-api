@@ -1,0 +1,112 @@
+{
+  "race_id": "202508040709",
+  "race_name": "栂尾特別",
+  "race_time": "2025-11-29 14:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102516",
+      "horse_name": "バッケンレコード",
+      "score": 0.17352803877492307,
+      "horse_number": 6,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101634",
+      "horse_name": "ロングウェイホーム",
+      "score": 0.12315897000911015,
+      "horse_number": 3,
+      "odds": 7.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105262",
+      "horse_name": "カペルブリュッケ",
+      "score": 0.09773112489305254,
+      "horse_number": 11,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110097",
+      "horse_name": "ブルーワール",
+      "score": 0.03124830385405502,
+      "horse_number": 10,
+      "odds": 10.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106192",
+      "horse_name": "ウインアルドーレ",
+      "score": -0.06868595080016696,
+      "horse_number": 5,
+      "odds": 24.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101258",
+      "horse_name": "コスモオピニオン",
+      "score": -0.12051801042711999,
+      "horse_number": 1,
+      "odds": 14.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103697",
+      "horse_name": "ロイガヴェーグル",
+      "score": -0.1558363811968447,
+      "horse_number": 7,
+      "odds": 13.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100604",
+      "horse_name": "テーオーレガシー",
+      "score": -0.25094063344674855,
+      "horse_number": 13,
+      "odds": 15.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100681",
+      "horse_name": "ジーニアスバローズ",
+      "score": -0.2614251018262492,
+      "horse_number": 4,
+      "odds": 8.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103556",
+      "horse_name": "ブルーペクトライト",
+      "score": -0.4359521473571095,
+      "horse_number": 2,
+      "odds": 29.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102163",
+      "horse_name": "フォーワンセルフ",
+      "score": -0.5005912828142841,
+      "horse_number": 12,
+      "odds": 48.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019106148",
+      "horse_name": "シンリミテス",
+      "score": -0.5054296132994458,
+      "horse_number": 9,
+      "odds": 38.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100629",
+      "horse_name": "サイモンコーラル",
+      "score": -0.6231610526085567,
+      "horse_number": 8,
+      "odds": 149.3
+    }
+  ]
+}

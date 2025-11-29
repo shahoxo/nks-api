@@ -46,19 +46,19 @@
     },
     {
       "rank": 6,
-      "horse_id": "2023102743",
-      "horse_name": "ショーリバース",
-      "score": 0.3323311650629024,
-      "horse_number": 9,
-      "odds": 49.9
-    },
-    {
-      "rank": 6,
       "horse_id": "2023101397",
       "horse_name": "ウィッキドピケット",
       "score": 0.3323311650629024,
       "horse_number": 2,
       "odds": 80.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102743",
+      "horse_name": "ショーリバース",
+      "score": 0.3323311650629024,
+      "horse_number": 9,
+      "odds": 49.9
     },
     {
       "rank": 8,
