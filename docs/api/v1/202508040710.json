@@ -1,0 +1,104 @@
+{
+  "race_id": "202508040710",
+  "race_name": "東山S",
+  "race_time": "2025-11-29 15:01",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105108",
+      "horse_name": "モンテシート",
+      "score": 0.3080222455542484,
+      "horse_number": 8,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104941",
+      "horse_name": "セシリエプラージュ",
+      "score": 0.2562820707508609,
+      "horse_number": 9,
+      "odds": 12.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105689",
+      "horse_name": "エヴァンスウィート",
+      "score": 0.19768053008385023,
+      "horse_number": 6,
+      "odds": 8.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103754",
+      "horse_name": "ミストレス",
+      "score": 0.006648489984741885,
+      "horse_number": 11,
+      "odds": 7.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105089",
+      "horse_name": "グランデサラス",
+      "score": -0.04293422067630175,
+      "horse_number": 3,
+      "odds": 5.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103116",
+      "horse_name": "ヤブサメ",
+      "score": -0.0839165669001665,
+      "horse_number": 1,
+      "odds": 7.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104928",
+      "horse_name": "トラペジスト",
+      "score": -0.12963819278162847,
+      "horse_number": 10,
+      "odds": 14.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100490",
+      "horse_name": "モズナナスター",
+      "score": -0.1627014970438606,
+      "horse_number": 7,
+      "odds": 11.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105760",
+      "horse_name": "シュヴェルトライテ",
+      "score": -0.31721331026542854,
+      "horse_number": 4,
+      "odds": 22.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104332",
+      "horse_name": "ルミノメテオール",
+      "score": -0.329057545906753,
+      "horse_number": 5,
+      "odds": 13.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018102091",
+      "horse_name": "ウルトラソニック",
+      "score": -0.36163755290022104,
+      "horse_number": 2,
+      "odds": 22.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019101079",
+      "horse_name": "アスクビギンアゲン",
+      "score": -0.44420547524207077,
+      "horse_number": 12,
+      "odds": 36.4
+    }
+  ]
+}

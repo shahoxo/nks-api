@@ -1,0 +1,136 @@
+{
+  "race_id": "202505050710",
+  "race_name": "シャングリラ",
+  "race_time": "2025-11-29 14:45",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110156",
+      "horse_name": "ドゥータップ",
+      "score": 0.39683707170727683,
+      "horse_number": 11,
+      "odds": 23.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106587",
+      "horse_name": "エストレヤデベレン",
+      "score": 0.34554128657685057,
+      "horse_number": 4,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105028",
+      "horse_name": "プロミストジーン",
+      "score": 0.3133795239372163,
+      "horse_number": 2,
+      "odds": 3.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106658",
+      "horse_name": "ストレングス",
+      "score": 0.07271706160627368,
+      "horse_number": 16,
+      "odds": 4.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106637",
+      "horse_name": "アンシール",
+      "score": 0.04188301398038766,
+      "horse_number": 15,
+      "odds": 26.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102468",
+      "horse_name": "トーセンサウダージ",
+      "score": 0.025899943813641968,
+      "horse_number": 6,
+      "odds": 51.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019102102",
+      "horse_name": "ゲキザル",
+      "score": 0.00672362331060235,
+      "horse_number": 7,
+      "odds": 7.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110084",
+      "horse_name": "マーブルマウンテン",
+      "score": -0.002382034679263717,
+      "horse_number": 9,
+      "odds": 29.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102275",
+      "horse_name": "スタンリーテソーロ",
+      "score": -0.0817787274309946,
+      "horse_number": 8,
+      "odds": 16.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101872",
+      "horse_name": "デイトナモード",
+      "score": -0.13184355852522003,
+      "horse_number": 10,
+      "odds": 75.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105120",
+      "horse_name": "グラウンドビート",
+      "score": -0.20502647564964466,
+      "horse_number": 14,
+      "odds": 42.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102814",
+      "horse_name": "ジャスリー",
+      "score": -0.24200857306427484,
+      "horse_number": 13,
+      "odds": 51.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101639",
+      "horse_name": "ハッピーロンドン",
+      "score": -0.2611867494707686,
+      "horse_number": 12,
+      "odds": 44.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020110120",
+      "horse_name": "ガンウルフ",
+      "score": -0.3107642906976465,
+      "horse_number": 3,
+      "odds": 30.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100316",
+      "horse_name": "アジアミッション",
+      "score": -0.3540171891230133,
+      "horse_number": 1,
+      "odds": 100.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018106597",
+      "horse_name": "キュムロンニンバス",
+      "score": -0.36175493437770956,
+      "horse_number": 5,
+      "odds": 82.0
+    }
+  ]
+}
