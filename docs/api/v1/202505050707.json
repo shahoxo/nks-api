@@ -1,0 +1,136 @@
+{
+  "race_id": "202505050707",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-29 13:10",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104907",
+      "horse_name": "サトノパトリオット",
+      "score": 0.47118445550756327,
+      "horse_number": 15,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103048",
+      "horse_name": "ティムール",
+      "score": 0.3235104380026151,
+      "horse_number": 7,
+      "odds": 9.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104187",
+      "horse_name": "ムーンストラック",
+      "score": 0.14867588078919255,
+      "horse_number": 1,
+      "odds": 32.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104855",
+      "horse_name": "エンジェルマーク",
+      "score": 0.11247160928294912,
+      "horse_number": 10,
+      "odds": 14.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105633",
+      "horse_name": "ノラリクラリ",
+      "score": 0.08215003768338659,
+      "horse_number": 13,
+      "odds": 9.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105072",
+      "horse_name": "ナヴァラトゥナ",
+      "score": 0.07576037854641163,
+      "horse_number": 8,
+      "odds": 24.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104103",
+      "horse_name": "サンセットビュー",
+      "score": 0.03942301728295523,
+      "horse_number": 16,
+      "odds": 22.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106811",
+      "horse_name": "マイネルアウルム",
+      "score": -0.0026737664068232645,
+      "horse_number": 11,
+      "odds": 34.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101270",
+      "horse_name": "ペプチドモガミ",
+      "score": -0.09568862894483901,
+      "horse_number": 2,
+      "odds": 82.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103537",
+      "horse_name": "スピアッジャローザ",
+      "score": -0.17565319777534688,
+      "horse_number": 12,
+      "odds": 20.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100151",
+      "horse_name": "ロードアフェット",
+      "score": -0.26741304506762364,
+      "horse_number": 9,
+      "odds": 117.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101498",
+      "horse_name": "クモヒトツナイ",
+      "score": -0.27185790058152465,
+      "horse_number": 4,
+      "odds": 51.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106684",
+      "horse_name": "ドラギニャン",
+      "score": -0.3907362811248616,
+      "horse_number": 6,
+      "odds": 81.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105092",
+      "horse_name": "ベレーザフィン",
+      "score": -0.5099651055350654,
+      "horse_number": 5,
+      "odds": 154.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104664",
+      "horse_name": "マーゴットコマチ",
+      "score": -0.5207029961511086,
+      "horse_number": 3,
+      "odds": 110.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101492",
+      "horse_name": "エリナ",
+      "score": -0.520879615325238,
+      "horse_number": 14,
+      "odds": 271.6
+    }
+  ]
+}
