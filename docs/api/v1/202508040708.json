@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040708",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-29 13:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105753",
+      "horse_name": "フェンダー",
+      "score": 0.2201875621734572,
+      "horse_number": 1,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107130",
+      "horse_name": "マサノユニコーン",
+      "score": 0.1832557740899341,
+      "horse_number": 15,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104674",
+      "horse_name": "フィドルファドル",
+      "score": 0.16646642595158048,
+      "horse_number": 11,
+      "odds": 4.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104210",
+      "horse_name": "ニホンピロトッティ",
+      "score": 0.07950510307732248,
+      "horse_number": 7,
+      "odds": 10.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105600",
+      "horse_name": "ボルセーナ",
+      "score": 0.06996423211148056,
+      "horse_number": 10,
+      "odds": 23.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101398",
+      "horse_name": "リクエイ",
+      "score": -0.11211756037301482,
+      "horse_number": 3,
+      "odds": 11.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102259",
+      "horse_name": "クリノオリーブ",
+      "score": -0.13334224528835018,
+      "horse_number": 8,
+      "odds": 16.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019106118",
+      "horse_name": "ミヤビクライ",
+      "score": -0.17041870315363944,
+      "horse_number": 6,
+      "odds": 62.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102493",
+      "horse_name": "トリリオンボーイ",
+      "score": -0.17132394967302172,
+      "horse_number": 13,
+      "odds": 16.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019101753",
+      "horse_name": "アオカミ",
+      "score": -0.22154273597051666,
+      "horse_number": 5,
+      "odds": 92.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106983",
+      "horse_name": "ゼンノツキヨミ",
+      "score": -0.2608815055237135,
+      "horse_number": 16,
+      "odds": 34.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103588",
+      "horse_name": "グラスブランシュ",
+      "score": -0.2928764933595629,
+      "horse_number": 9,
+      "odds": 35.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103898",
+      "horse_name": "イグニション",
+      "score": -0.31248586906038733,
+      "horse_number": 2,
+      "odds": 24.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100530",
+      "horse_name": "フォルティーナ",
+      "score": -0.4409789576346044,
+      "horse_number": 4,
+      "odds": 65.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021107259",
+      "horse_name": "レヴィテーション",
+      "score": -0.4813562160131134,
+      "horse_number": 14,
+      "odds": 53.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103549",
+      "horse_name": "ホウオウフロイト",
+      "score": -0.5339103102736351,
+      "horse_number": 12,
+      "odds": 25.2
+    }
+  ]
+}

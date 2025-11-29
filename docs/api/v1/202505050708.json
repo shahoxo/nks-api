@@ -1,0 +1,136 @@
+{
+  "race_id": "202505050708",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-11-29 13:40",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020104567",
+      "horse_name": "ヴァナルガンド",
+      "score": 0.36089952024557387,
+      "horse_number": 9,
+      "odds": 5.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101818",
+      "horse_name": "ジェイエルマスター",
+      "score": 0.22271257435699512,
+      "horse_number": 7,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107226",
+      "horse_name": "カゼノタカトシ",
+      "score": 0.17952432443950617,
+      "horse_number": 5,
+      "odds": 21.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104643",
+      "horse_name": "ニューファウンド",
+      "score": 0.07052129348727275,
+      "horse_number": 10,
+      "odds": 5.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102167",
+      "horse_name": "アールプロスト",
+      "score": 0.031023401388366643,
+      "horse_number": 14,
+      "odds": 17.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103414",
+      "horse_name": "ムジェロ",
+      "score": 0.004739845431435661,
+      "horse_number": 3,
+      "odds": 55.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103708",
+      "horse_name": "ロンパイア",
+      "score": -0.07018298865328002,
+      "horse_number": 6,
+      "odds": 28.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103444",
+      "horse_name": "ピュアグルーヴ",
+      "score": -0.10499559809358089,
+      "horse_number": 2,
+      "odds": 22.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101305",
+      "horse_name": "サンカルミア",
+      "score": -0.10891825820525407,
+      "horse_number": 8,
+      "odds": 34.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102760",
+      "horse_name": "ビッグベルーガ",
+      "score": -0.1139854602117702,
+      "horse_number": 15,
+      "odds": 16.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019103728",
+      "horse_name": "トクシースタローン",
+      "score": -0.178980549509001,
+      "horse_number": 12,
+      "odds": 17.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105670",
+      "horse_name": "タッチャブル",
+      "score": -0.2257916575080817,
+      "horse_number": 13,
+      "odds": 94.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106126",
+      "horse_name": "タイセイアディクト",
+      "score": -0.2568718181941094,
+      "horse_number": 4,
+      "odds": 4.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022107133",
+      "horse_name": "タガノマルアフ",
+      "score": -0.3660078447075747,
+      "horse_number": 16,
+      "odds": 28.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104687",
+      "horse_name": "ラヴァブル",
+      "score": -0.38107836813752416,
+      "horse_number": 1,
+      "odds": 46.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021105929",
+      "horse_name": "デフィニティーボ",
+      "score": -0.44672739559088587,
+      "horse_number": 11,
+      "odds": 131.9
+    }
+  ]
+}
