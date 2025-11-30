@@ -1,0 +1,152 @@
+{
+  "race_id": "202508040812",
+  "race_name": "京阪杯",
+  "race_time": "2025-11-30 16:15",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102887",
+      "horse_name": "ナムラクララ",
+      "score": 0.25593018199135453,
+      "horse_number": 12,
+      "odds": 4.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101623",
+      "horse_name": "アブキールベイ",
+      "score": 0.14865648770646622,
+      "horse_number": 2,
+      "odds": 18.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103066",
+      "horse_name": "レイピア",
+      "score": 0.13870495297301122,
+      "horse_number": 6,
+      "odds": 10.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019105859",
+      "horse_name": "エーティーマクフィ",
+      "score": 0.1360039582158627,
+      "horse_number": 10,
+      "odds": 10.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2018106055",
+      "horse_name": "ヨシノイースター",
+      "score": 0.07929113195654519,
+      "horse_number": 4,
+      "odds": 7.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020100105",
+      "horse_name": "エイシンフェンサー",
+      "score": 0.04518470320589284,
+      "horse_number": 11,
+      "odds": 8.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104556",
+      "horse_name": "カルチャーデイ",
+      "score": 0.022094811449305803,
+      "horse_number": 9,
+      "odds": 28.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019105512",
+      "horse_name": "ジャスティンスカイ",
+      "score": 0.019642820539812367,
+      "horse_number": 5,
+      "odds": 16.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019103714",
+      "horse_name": "メイショウソラフネ",
+      "score": 0.008527084330667466,
+      "horse_number": 8,
+      "odds": 12.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106601",
+      "horse_name": "ヤマニンアルリフラ",
+      "score": -0.038042577490931866,
+      "horse_number": 16,
+      "odds": 22.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106851",
+      "horse_name": "ルガル",
+      "score": -0.04548652237683773,
+      "horse_number": 1,
+      "odds": 5.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106394",
+      "horse_name": "クラスペディア",
+      "score": -0.13277538789919216,
+      "horse_number": 14,
+      "odds": 51.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102320",
+      "horse_name": "ペアポルックス",
+      "score": -0.18301156446477737,
+      "horse_number": 18,
+      "odds": 19.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103422",
+      "horse_name": "テイエムスパーダ",
+      "score": -0.19581845421790547,
+      "horse_number": 17,
+      "odds": 44.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105071",
+      "horse_name": "ショウナンザナドゥ",
+      "score": -0.2882586989594435,
+      "horse_number": 3,
+      "odds": 37.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019110107",
+      "horse_name": "ジャスパークローネ",
+      "score": -0.3195606764939572,
+      "horse_number": 7,
+      "odds": 81.7
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020102764",
+      "horse_name": "モズメイメイ",
+      "score": -0.45952379037549296,
+      "horse_number": 13,
+      "odds": 60.3
+    },
+    {
+      "rank": 18,
+      "horse_id": "2019105658",
+      "horse_name": "オタルエバー",
+      "score": -0.500340665197475,
+      "horse_number": 15,
+      "odds": 104.4
+    }
+  ]
+}
