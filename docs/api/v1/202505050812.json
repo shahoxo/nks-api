@@ -1,0 +1,152 @@
+{
+  "race_id": "202505050812",
+  "race_name": "ジャパンC",
+  "race_time": "2025-11-30 15:40",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105369",
+      "horse_name": "アドマイヤテラ",
+      "score": 0.47623336148825923,
+      "horse_number": 11,
+      "odds": 39.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105519",
+      "horse_name": "マスカレードボール",
+      "score": 0.4457104498673922,
+      "horse_number": 15,
+      "odds": 2.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105102",
+      "horse_name": "クロワデュノール",
+      "score": 0.4301833126377629,
+      "horse_number": 2,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110048",
+      "horse_name": "シンエンペラー",
+      "score": 0.38806434507506354,
+      "horse_number": 16,
+      "odds": 27.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105143",
+      "horse_name": "ダノンデサイル",
+      "score": 0.33935474581084846,
+      "horse_number": 14,
+      "odds": 4.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018104475",
+      "horse_name": "ディープモンスター",
+      "score": 0.3000646531503776,
+      "horse_number": 4,
+      "odds": 52.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105560",
+      "horse_name": "サンライズアース",
+      "score": 0.24398706480670174,
+      "horse_number": 5,
+      "odds": 31.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019105346",
+      "horse_name": "ジャスティンパレス",
+      "score": 0.1702216234745302,
+      "horse_number": 1,
+      "odds": 11.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103242",
+      "horse_name": "ブレイディヴェーグ",
+      "score": 0.08170657836765002,
+      "horse_number": 13,
+      "odds": 51.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103941",
+      "horse_name": "ホウオウビスケッツ",
+      "score": 0.07771534811600785,
+      "horse_number": 6,
+      "odds": 120.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103532",
+      "horse_name": "タスティエーラ",
+      "score": 0.05283679232665753,
+      "horse_number": 18,
+      "odds": 16.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104447",
+      "horse_name": "シュトルーヴェ",
+      "score": 0.03505013873849255,
+      "horse_number": 10,
+      "odds": 302.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103650",
+      "horse_name": "ドゥレッツァ",
+      "score": 0.02827088486072665,
+      "horse_number": 17,
+      "odds": 0.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102632",
+      "horse_name": "セイウンハーデス",
+      "score": 0.002644262758560733,
+      "horse_number": 9,
+      "odds": 118.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021190001",
+      "horse_name": "2021190001",
+      "score": -0.0037613568561672,
+      "horse_number": 8,
+      "odds": 7.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018105012",
+      "horse_name": "ヨーホーレイク",
+      "score": -0.05134601894736657,
+      "horse_number": 12,
+      "odds": 121.2
+    },
+    {
+      "rank": 17,
+      "horse_id": "2019105195",
+      "horse_name": "ダノンベルーガ",
+      "score": -0.09898357224171804,
+      "horse_number": 7,
+      "odds": 202.4
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021106787",
+      "horse_name": "コスモキュランダ",
+      "score": -0.15839187273686933,
+      "horse_number": 3,
+      "odds": 228.6
+    }
+  ]
+}
