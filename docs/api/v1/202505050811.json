@@ -1,0 +1,136 @@
+{
+  "race_id": "202505050811",
+  "race_name": "ウェルカムS",
+  "race_time": "2025-11-30 15:01",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103487",
+      "horse_name": "ミッキーツインクル",
+      "score": 0.5233146345745111,
+      "horse_number": 9,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105704",
+      "horse_name": "コルレオニス",
+      "score": 0.4407529157474189,
+      "horse_number": 11,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105155",
+      "horse_name": "パンジャ",
+      "score": 0.3999184777443504,
+      "horse_number": 4,
+      "odds": 10.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019105462",
+      "horse_name": "ソリダリティ",
+      "score": 0.3479949714721907,
+      "horse_number": 13,
+      "odds": 22.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103947",
+      "horse_name": "ホウオウムサシ",
+      "score": 0.22225542543531693,
+      "horse_number": 7,
+      "odds": 15.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106738",
+      "horse_name": "ヴィレム",
+      "score": 0.19745310703603247,
+      "horse_number": 15,
+      "odds": 4.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105681",
+      "horse_name": "ハーツコンチェルト",
+      "score": 0.1867932575426695,
+      "horse_number": 16,
+      "odds": 0.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103664",
+      "horse_name": "バトルハーデン",
+      "score": 0.04311304659528628,
+      "horse_number": 2,
+      "odds": 43.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105217",
+      "horse_name": "ウインオーディン",
+      "score": 0.005986447786984663,
+      "horse_number": 1,
+      "odds": 4.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105474",
+      "horse_name": "サダムオプシス",
+      "score": -0.020124217553478898,
+      "horse_number": 5,
+      "odds": 27.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103562",
+      "horse_name": "コスモシャングリラ",
+      "score": -0.08301035782884228,
+      "horse_number": 10,
+      "odds": 52.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105138",
+      "horse_name": "エセルフリーダ",
+      "score": -0.15273562322107695,
+      "horse_number": 3,
+      "odds": 14.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105760",
+      "horse_name": "エリダヌス",
+      "score": -0.18394193785390678,
+      "horse_number": 12,
+      "odds": 70.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020106535",
+      "horse_name": "モズロックンロール",
+      "score": -0.20469880493035397,
+      "horse_number": 8,
+      "odds": 43.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019105559",
+      "horse_name": "ロジマンボ",
+      "score": -0.2928485492170756,
+      "horse_number": 14,
+      "odds": 72.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019102937",
+      "horse_name": "コスモフロイデ",
+      "score": -0.5175048170162598,
+      "horse_number": 6,
+      "odds": 98.8
+    }
+  ]
+}
