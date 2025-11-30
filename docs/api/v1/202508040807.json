@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040807",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-30 13:01",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102722",
+      "horse_name": "ドゥラエテルノ",
+      "score": 0.385049462049492,
+      "horse_number": 12,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104267",
+      "horse_name": "レヴァンテシチー",
+      "score": 0.180728829457436,
+      "horse_number": 8,
+      "odds": 5.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104903",
+      "horse_name": "セボンサデッセ",
+      "score": 0.15126642321627987,
+      "horse_number": 15,
+      "odds": 2.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110135",
+      "horse_name": "ゼンエスポワール",
+      "score": 0.05627637635340768,
+      "horse_number": 3,
+      "odds": 10.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105443",
+      "horse_name": "モレポブラーノ",
+      "score": 0.03355500082249169,
+      "horse_number": 7,
+      "odds": 12.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104742",
+      "horse_name": "ソルナシエンテ",
+      "score": -0.028329005930220696,
+      "horse_number": 16,
+      "odds": 8.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022107299",
+      "horse_name": "クレスコドルフィン",
+      "score": -0.09422965952111015,
+      "horse_number": 4,
+      "odds": 314.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104176",
+      "horse_name": "チャチャピンク",
+      "score": -0.11965675517950837,
+      "horse_number": 13,
+      "odds": 32.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021107123",
+      "horse_name": "イイデカンタロウ",
+      "score": -0.2180037705768728,
+      "horse_number": 11,
+      "odds": 77.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104982",
+      "horse_name": "サンディエゴ",
+      "score": -0.2865792078580318,
+      "horse_number": 6,
+      "odds": 51.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101504",
+      "horse_name": "パーフェクト",
+      "score": -0.2961911955913836,
+      "horse_number": 5,
+      "odds": 148.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101562",
+      "horse_name": "ダイシンラー",
+      "score": -0.33189952129365774,
+      "horse_number": 14,
+      "odds": 50.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105637",
+      "horse_name": "テンエースワン",
+      "score": -0.44588653001840595,
+      "horse_number": 2,
+      "odds": 78.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019106615",
+      "horse_name": "ウイングスオブラヴ",
+      "score": -0.5475643982117276,
+      "horse_number": 1,
+      "odds": 223.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102223",
+      "horse_name": "サイモンシュバリエ",
+      "score": -0.5867758372926961,
+      "horse_number": 10,
+      "odds": 27.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104293",
+      "horse_name": "トモジャシック",
+      "score": -0.6997242947219148,
+      "horse_number": 9,
+      "odds": 159.2
+    }
+  ]
+}

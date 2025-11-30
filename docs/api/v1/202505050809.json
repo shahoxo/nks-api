@@ -1,0 +1,80 @@
+{
+  "race_id": "202505050809",
+  "race_name": "オリエンタル",
+  "race_time": "2025-11-30 13:50",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104750",
+      "horse_name": "レイニング",
+      "score": 0.49322290839183625,
+      "horse_number": 7,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105388",
+      "horse_name": "ビーオンザカバー",
+      "score": 0.3652328382826047,
+      "horse_number": 4,
+      "odds": 3.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105002",
+      "horse_name": "ボウウィンドウ",
+      "score": 0.35879102816638675,
+      "horse_number": 8,
+      "odds": 2.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101068",
+      "horse_name": "クロシェットノエル",
+      "score": 0.19152307003792124,
+      "horse_number": 3,
+      "odds": 15.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105662",
+      "horse_name": "ログラール",
+      "score": -0.015079785857192194,
+      "horse_number": 2,
+      "odds": 10.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106803",
+      "horse_name": "ミラーダカリエンテ",
+      "score": -0.3054507058325828,
+      "horse_number": 9,
+      "odds": 26.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105183",
+      "horse_name": "ウインルピナス",
+      "score": -0.4044713942217875,
+      "horse_number": 6,
+      "odds": 27.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103878",
+      "horse_name": "ジャンビ",
+      "score": -0.4306779327765913,
+      "horse_number": 5,
+      "odds": 23.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103955",
+      "horse_name": "ルーチェロッサ",
+      "score": -0.5431529973283721,
+      "horse_number": 1,
+      "odds": 39.9
+    }
+  ]
+}
