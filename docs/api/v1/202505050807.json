@@ -1,0 +1,136 @@
+{
+  "race_id": "202505050807",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-11-30 12:45",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102988",
+      "horse_name": "トレヴィ",
+      "score": 0.2973558971394662,
+      "horse_number": 6,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106013",
+      "horse_name": "エイミームーン",
+      "score": 0.20044169386785168,
+      "horse_number": 9,
+      "odds": 14.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106066",
+      "horse_name": "メッエフアパラ",
+      "score": 0.10995110674684172,
+      "horse_number": 14,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105824",
+      "horse_name": "フィーチャリング",
+      "score": 0.04770950562669127,
+      "horse_number": 4,
+      "odds": 5.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102276",
+      "horse_name": "マクミランテソーロ",
+      "score": -0.016392826150933074,
+      "horse_number": 12,
+      "odds": 3.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102952",
+      "horse_name": "オーサムデアラー",
+      "score": -0.1428089641248273,
+      "horse_number": 5,
+      "odds": 28.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102380",
+      "horse_name": "シュレン",
+      "score": -0.24058085036268057,
+      "horse_number": 2,
+      "odds": 16.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103529",
+      "horse_name": "エコロヴァルム",
+      "score": -0.39376231124352423,
+      "horse_number": 8,
+      "odds": 111.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106520",
+      "horse_name": "スノーホルンロード",
+      "score": -0.44578654040617516,
+      "horse_number": 1,
+      "odds": 19.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2017105392",
+      "horse_name": "スパークインザアイ",
+      "score": -0.48406227904358134,
+      "horse_number": 15,
+      "odds": 216.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101060",
+      "horse_name": "エルオレンス",
+      "score": -0.500997491318687,
+      "horse_number": 7,
+      "odds": 33.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103509",
+      "horse_name": "シュードタキライト",
+      "score": -0.5073227949201434,
+      "horse_number": 16,
+      "odds": 27.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104135",
+      "horse_name": "トルズイーガー",
+      "score": -0.5301360945921696,
+      "horse_number": 13,
+      "odds": 139.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100604",
+      "horse_name": "ジェイエルバース",
+      "score": -0.5601840998684633,
+      "horse_number": 10,
+      "odds": 47.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101833",
+      "horse_name": "ジェイエルジェティ",
+      "score": -0.6084149195237469,
+      "horse_number": 11,
+      "odds": 106.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019102950",
+      "horse_name": "アイファーリーベン",
+      "score": -0.7080136536659949,
+      "horse_number": 3,
+      "odds": 172.5
+    }
+  ]
+}
