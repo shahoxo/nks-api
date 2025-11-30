@@ -1,0 +1,136 @@
+{
+  "race_id": "202508040810",
+  "race_name": "花園S",
+  "race_time": "2025-11-30 14:41",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103614",
+      "horse_name": "ヒルノハンブルク",
+      "score": 0.30996514988270013,
+      "horse_number": 12,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104092",
+      "horse_name": "ペンナヴェローチェ",
+      "score": 0.2055229534077841,
+      "horse_number": 9,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104416",
+      "horse_name": "ワイドブリザード",
+      "score": 0.19972128066282424,
+      "horse_number": 10,
+      "odds": 9.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100653",
+      "horse_name": "ロードラビリンス",
+      "score": 0.08302410786912741,
+      "horse_number": 2,
+      "odds": 11.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103096",
+      "horse_name": "イデアイゴッソウ",
+      "score": 0.05493637230895789,
+      "horse_number": 8,
+      "odds": 4.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100255",
+      "horse_name": "アーロンイメル",
+      "score": -0.06372560439519333,
+      "horse_number": 15,
+      "odds": 18.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100734",
+      "horse_name": "レーウィン",
+      "score": -0.10931455475555314,
+      "horse_number": 13,
+      "odds": 34.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102905",
+      "horse_name": "ホルトバージ",
+      "score": -0.12532495135083646,
+      "horse_number": 4,
+      "odds": 29.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105430",
+      "horse_name": "マルチャレアル",
+      "score": -0.14999112389756514,
+      "horse_number": 14,
+      "odds": 12.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018106458",
+      "horse_name": "メイショウミカワ",
+      "score": -0.19849109906282533,
+      "horse_number": 5,
+      "odds": 30.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104445",
+      "horse_name": "メイショウフウドウ",
+      "score": -0.2790466041710789,
+      "horse_number": 3,
+      "odds": 61.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104503",
+      "horse_name": "パシアンジャン",
+      "score": -0.2894961266955279,
+      "horse_number": 16,
+      "odds": 11.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102317",
+      "horse_name": "サイモンブーケ",
+      "score": -0.4092239079414469,
+      "horse_number": 11,
+      "odds": 117.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105425",
+      "horse_name": "ベルウェザー",
+      "score": -0.4243561804697188,
+      "horse_number": 6,
+      "odds": 10.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104793",
+      "horse_name": "サンライズグルーヴ",
+      "score": -0.4637220289094365,
+      "horse_number": 7,
+      "odds": 68.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019110053",
+      "horse_name": "ジュタロウ",
+      "score": -0.6184834927814631,
+      "horse_number": 1,
+      "odds": 63.6
+    }
+  ]
+}

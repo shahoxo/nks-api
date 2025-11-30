@@ -1,0 +1,136 @@
+{
+  "race_id": "202505050810",
+  "race_name": "アプローズ賞",
+  "race_time": "2025-11-30 14:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104762",
+      "horse_name": "レッドアレグロ",
+      "score": 0.430200348447345,
+      "horse_number": 16,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102790",
+      "horse_name": "カネショウレジェン",
+      "score": 0.15503747475711344,
+      "horse_number": 5,
+      "odds": 9.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105949",
+      "horse_name": "ケンキョ",
+      "score": 0.1505354023178468,
+      "horse_number": 6,
+      "odds": 23.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106699",
+      "horse_name": "ダイシンリンク",
+      "score": 0.14461069130274287,
+      "horse_number": 10,
+      "odds": 4.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101863",
+      "horse_name": "ドントゥザムーン",
+      "score": 0.081832119132851,
+      "horse_number": 11,
+      "odds": 17.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103242",
+      "horse_name": "ジーベック",
+      "score": 0.07823975108063222,
+      "horse_number": 1,
+      "odds": 20.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104786",
+      "horse_name": "シャパリュ",
+      "score": 0.07310621860647061,
+      "horse_number": 7,
+      "odds": 18.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103477",
+      "horse_name": "サトノアルペジオ",
+      "score": 0.05165861015236398,
+      "horse_number": 13,
+      "odds": 28.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103218",
+      "horse_name": "フミサウンド",
+      "score": 0.04270153730228074,
+      "horse_number": 9,
+      "odds": 28.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104627",
+      "horse_name": "シホノペルフェット",
+      "score": 0.03458712628887953,
+      "horse_number": 8,
+      "odds": 12.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104605",
+      "horse_name": "ショウナンヤッホー",
+      "score": -0.02096953000819432,
+      "horse_number": 15,
+      "odds": 52.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101035",
+      "horse_name": "スズカコーズ",
+      "score": -0.08969535489338301,
+      "horse_number": 4,
+      "odds": 19.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105086",
+      "horse_name": "フクチャントウメイ",
+      "score": -0.16085683105337686,
+      "horse_number": 3,
+      "odds": 86.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102552",
+      "horse_name": "ジューンポンポン",
+      "score": -0.2462623273366609,
+      "horse_number": 12,
+      "odds": 47.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018102394",
+      "horse_name": "ロイヤルダンス",
+      "score": -0.3540171891230133,
+      "horse_number": 2,
+      "odds": 108.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022105798",
+      "horse_name": "オンザスクエア",
+      "score": -0.38586040563586266,
+      "horse_number": 14,
+      "odds": 43.2
+    }
+  ]
+}
