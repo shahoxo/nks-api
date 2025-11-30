@@ -1,0 +1,112 @@
+{
+  "race_id": "202508040802",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-11-30 10:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107113",
+      "horse_name": "アルヴァンドルード",
+      "score": 0.32559646676383974,
+      "horse_number": 5,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103549",
+      "horse_name": "ベルトナリテ",
+      "score": 0.06999825830069598,
+      "horse_number": 8,
+      "odds": 20.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107193",
+      "horse_name": "フィアスゲイル",
+      "score": -0.035809280051454895,
+      "horse_number": 2,
+      "odds": 22.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101706",
+      "horse_name": "ハクアイノアール",
+      "score": -0.05555770573760121,
+      "horse_number": 7,
+      "odds": 12.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101449",
+      "horse_name": "サウンドムーブ",
+      "score": -0.09472045326586448,
+      "horse_number": 6,
+      "odds": 3.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107337",
+      "horse_name": "ルージュビバーチェ",
+      "score": -0.13047938985737617,
+      "horse_number": 4,
+      "odds": 23.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104387",
+      "horse_name": "チェリヴェント",
+      "score": -0.14158806921725045,
+      "horse_number": 9,
+      "odds": 13.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104933",
+      "horse_name": "ブラックジャック",
+      "score": -0.3313144795629236,
+      "horse_number": 1,
+      "odds": 26.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100238",
+      "horse_name": "ラップトップ",
+      "score": -0.4987908609555147,
+      "horse_number": 11,
+      "odds": 81.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101994",
+      "horse_name": "マクローリン",
+      "score": -0.5936783844788845,
+      "horse_number": 13,
+      "odds": 63.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105265",
+      "horse_name": "マジックアロマ",
+      "score": -0.6887521558175991,
+      "horse_number": 10,
+      "odds": 292.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103690",
+      "horse_name": "サーブルディアマン",
+      "score": -0.6970415147616792,
+      "horse_number": 12,
+      "odds": 52.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100339",
+      "horse_name": "ヒロウッドテール",
+      "score": -0.735775346659503,
+      "horse_number": 3,
+      "odds": 106.0
+    }
+  ]
+}
