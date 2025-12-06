@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050106",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-06 12:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105602",
+      "horse_name": "エコロスパーダ",
+      "score": 0.2170531820924626,
+      "horse_number": 9,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020106205",
+      "horse_name": "メイショウクーガー",
+      "score": 0.1806751954881957,
+      "horse_number": 13,
+      "odds": 8.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106644",
+      "horse_name": "ロカヒ",
+      "score": 0.08294338946378275,
+      "horse_number": 6,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105055",
+      "horse_name": "レッドボブ",
+      "score": 0.028290719636744392,
+      "horse_number": 10,
+      "odds": 5.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105505",
+      "horse_name": "ベイラム",
+      "score": -0.020753720048969897,
+      "horse_number": 3,
+      "odds": 7.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102882",
+      "horse_name": "タイセイカイザー",
+      "score": -0.18883848046505244,
+      "horse_number": 15,
+      "odds": 6.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106213",
+      "horse_name": "ウインイメル",
+      "score": -0.20499316714930738,
+      "horse_number": 16,
+      "odds": 26.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106544",
+      "horse_name": "ナスノソナタ",
+      "score": -0.2811067472751982,
+      "horse_number": 4,
+      "odds": 170.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101553",
+      "horse_name": "スマートシーカー",
+      "score": -0.3232348084083971,
+      "horse_number": 1,
+      "odds": 27.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105936",
+      "horse_name": "ウィテカービート",
+      "score": -0.4269158315382827,
+      "horse_number": 11,
+      "odds": 59.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103150",
+      "horse_name": "タルタロス",
+      "score": -0.4293535198835388,
+      "horse_number": 5,
+      "odds": 62.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105727",
+      "horse_name": "メリトーリアス",
+      "score": -0.46488922006757205,
+      "horse_number": 14,
+      "odds": 111.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103135",
+      "horse_name": "コウジョリョウゾク",
+      "score": -0.5605423297054635,
+      "horse_number": 12,
+      "odds": 85.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106078",
+      "horse_name": "ブルーストレイル",
+      "score": -0.5874277606289595,
+      "horse_number": 8,
+      "odds": 98.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021102969",
+      "horse_name": "パッカパッカブー",
+      "score": -0.5970618435386312,
+      "horse_number": 7,
+      "odds": 117.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103487",
+      "horse_name": "ホウオウラムセス",
+      "score": -0.7080136536659949,
+      "horse_number": 2,
+      "odds": 201.7
+    }
+  ]
+}

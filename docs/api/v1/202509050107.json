@@ -1,0 +1,120 @@
+{
+  "race_id": "202509050107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-06 13:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102202",
+      "horse_name": "ヨリノレジェンド",
+      "score": 0.4708466243801098,
+      "horse_number": 9,
+      "odds": 2.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105177",
+      "horse_name": "グリプトグラフィ",
+      "score": 0.3637643075201535,
+      "horse_number": 3,
+      "odds": 6.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102916",
+      "horse_name": "モズプリヴェール",
+      "score": 0.04887062032643476,
+      "horse_number": 6,
+      "odds": 12.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100439",
+      "horse_name": "ハギノコラソン",
+      "score": 0.003513537661631554,
+      "horse_number": 12,
+      "odds": 11.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102954",
+      "horse_name": "アンジュアルディ",
+      "score": 0.0033765778226165126,
+      "horse_number": 14,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105766",
+      "horse_name": "ドーギッド",
+      "score": -0.021603579122448157,
+      "horse_number": 13,
+      "odds": 27.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104261",
+      "horse_name": "メイショウオグマ",
+      "score": -0.026564829249825346,
+      "horse_number": 4,
+      "odds": 23.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104222",
+      "horse_name": "リアルフォルゴーレ",
+      "score": -0.08086441598743956,
+      "horse_number": 1,
+      "odds": 14.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106995",
+      "horse_name": "メイショウマジック",
+      "score": -0.17672447201697783,
+      "horse_number": 11,
+      "odds": 20.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105253",
+      "horse_name": "オメガドライヴ",
+      "score": -0.2335601170610299,
+      "horse_number": 7,
+      "odds": 30.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104295",
+      "horse_name": "トモジャザーン",
+      "score": -0.43290587444839745,
+      "horse_number": 8,
+      "odds": 16.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101920",
+      "horse_name": "メラヴィリオーザ",
+      "score": -0.6143151523856235,
+      "horse_number": 2,
+      "odds": 35.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102196",
+      "horse_name": "サンライズシュガー",
+      "score": -0.6536912516256139,
+      "horse_number": 10,
+      "odds": 55.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106182",
+      "horse_name": "アックアヴィリーレ",
+      "score": -0.703836440672674,
+      "horse_number": 5,
+      "odds": 117.7
+    }
+  ]
+}

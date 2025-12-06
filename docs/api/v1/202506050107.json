@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-06 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110132",
+      "horse_name": "ピコテンダー",
+      "score": 0.28203751924865345,
+      "horse_number": 5,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101521",
+      "horse_name": "グッドヴァイブス",
+      "score": 0.11385458339817317,
+      "horse_number": 2,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106669",
+      "horse_name": "パシーヴ",
+      "score": 0.08220804478321565,
+      "horse_number": 3,
+      "odds": 7.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105292",
+      "horse_name": "オメガストリーム",
+      "score": -0.17987882357694063,
+      "horse_number": 1,
+      "odds": 22.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106119",
+      "horse_name": "タイセイピューマ",
+      "score": -0.22800270598750594,
+      "horse_number": 9,
+      "odds": 19.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103937",
+      "horse_name": "ラヴァグロウ",
+      "score": -0.2502237793538523,
+      "horse_number": 6,
+      "odds": 18.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103332",
+      "horse_name": "アイスブレイカー",
+      "score": -0.48797497016430913,
+      "horse_number": 15,
+      "odds": 45.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100662",
+      "horse_name": "ベニシア",
+      "score": -0.5241384302540016,
+      "horse_number": 12,
+      "odds": 54.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106938",
+      "horse_name": "ブエナディオサ",
+      "score": -0.5375400079408788,
+      "horse_number": 11,
+      "odds": 24.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101532",
+      "horse_name": "エポカスピーガ",
+      "score": -0.563358009153262,
+      "horse_number": 16,
+      "odds": 22.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2017104266",
+      "horse_name": "カップッチョ",
+      "score": -0.5719778936462864,
+      "horse_number": 7,
+      "odds": 55.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106677",
+      "horse_name": "カガバベル",
+      "score": -0.6189430314413443,
+      "horse_number": 8,
+      "odds": 39.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102774",
+      "horse_name": "フォクシー",
+      "score": -0.6318373387288261,
+      "horse_number": 14,
+      "odds": 228.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100081",
+      "horse_name": "アカツキロットリー",
+      "score": -0.6783429378640029,
+      "horse_number": 4,
+      "odds": 125.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104617",
+      "horse_name": "ブルーリヴァーサル",
+      "score": -0.6859934208146856,
+      "horse_number": 10,
+      "odds": 224.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019104141",
+      "horse_name": "ハジメテノチュウ",
+      "score": -0.6997242947219148,
+      "horse_number": 13,
+      "odds": 125.7
+    }
+  ]
+}
