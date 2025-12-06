@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050104",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-06 11:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105308",
+      "horse_name": "トルネードアイル",
+      "score": 0.4295303134983745,
+      "horse_number": 15,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105771",
+      "horse_name": "ショウナンパトス",
+      "score": 0.30017600293006114,
+      "horse_number": 3,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105682",
+      "horse_name": "キセログラフィカ",
+      "score": 0.09656129801002163,
+      "horse_number": 5,
+      "odds": 3.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103793",
+      "horse_name": "サイモフェーン",
+      "score": 0.04987082265565182,
+      "horse_number": 8,
+      "odds": 2.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100043",
+      "horse_name": "モントーヤ",
+      "score": -0.1970175085299568,
+      "horse_number": 11,
+      "odds": 72.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105439",
+      "horse_name": "カシマライフウ",
+      "score": -0.20069636177435804,
+      "horse_number": 9,
+      "odds": 20.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103375",
+      "horse_name": "ミクニフラッシュ",
+      "score": -0.22776585131848864,
+      "horse_number": 4,
+      "odds": 31.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102915",
+      "horse_name": "テンレディーゴー",
+      "score": -0.32758309977754885,
+      "horse_number": 12,
+      "odds": 19.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102162",
+      "horse_name": "ミラクルカイザー",
+      "score": -0.38008307738567326,
+      "horse_number": 7,
+      "odds": 172.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105866",
+      "horse_name": "フルールサシェ",
+      "score": -0.44663779331988707,
+      "horse_number": 6,
+      "odds": 85.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101644",
+      "horse_name": "オルブライト",
+      "score": -0.5345408256050103,
+      "horse_number": 16,
+      "odds": 36.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105995",
+      "horse_name": "ビップルーク",
+      "score": -0.5680068020104783,
+      "horse_number": 14,
+      "odds": 93.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023110011",
+      "horse_name": "メイクイット",
+      "score": -0.6262010607724134,
+      "horse_number": 13,
+      "odds": 58.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103800",
+      "horse_name": "エマープ",
+      "score": -0.6546627932857848,
+      "horse_number": 10,
+      "odds": 51.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101598",
+      "horse_name": "ホウショウリュウ",
+      "score": -0.7560238565797833,
+      "horse_number": 2,
+      "odds": 125.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104288",
+      "horse_name": "イントゥゴールデン",
+      "score": -0.7560238565797833,
+      "horse_number": 1,
+      "odds": 199.0
+    }
+  ]
+}
