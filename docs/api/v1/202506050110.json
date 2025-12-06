@@ -1,0 +1,104 @@
+{
+  "race_id": "202506050110",
+  "race_name": "鹿島特別",
+  "race_time": "2025-12-06 15:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103703",
+      "horse_name": "ブルータス",
+      "score": 0.14461069130274287,
+      "horse_number": 3,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104432",
+      "horse_name": "レイバックスピン",
+      "score": 0.11174810280743662,
+      "horse_number": 10,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103778",
+      "horse_name": "ライフゲート",
+      "score": 0.057196421028941034,
+      "horse_number": 11,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102409",
+      "horse_name": "ホレーショ",
+      "score": -0.029616961515255877,
+      "horse_number": 1,
+      "odds": 10.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101655",
+      "horse_name": "マンダリンボレロ",
+      "score": -0.07693014705686461,
+      "horse_number": 7,
+      "odds": 14.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101533",
+      "horse_name": "シンボリノエル",
+      "score": -0.10967959303240556,
+      "horse_number": 5,
+      "odds": 19.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100329",
+      "horse_name": "プルナチャンドラ",
+      "score": -0.24327693281352894,
+      "horse_number": 4,
+      "odds": 5.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100387",
+      "horse_name": "オールマキシマム",
+      "score": -0.2598378730376174,
+      "horse_number": 6,
+      "odds": 12.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104107",
+      "horse_name": "ショウナンカブト",
+      "score": -0.29510631439751445,
+      "horse_number": 8,
+      "odds": 38.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019101330",
+      "horse_name": "アイファーグローブ",
+      "score": -0.4495376166176872,
+      "horse_number": 12,
+      "odds": 43.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102077",
+      "horse_name": "シゲルカミカゼ",
+      "score": -0.49879565589599106,
+      "horse_number": 2,
+      "odds": 22.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019102341",
+      "horse_name": "サイモンソーラン",
+      "score": -0.5214958321813888,
+      "horse_number": 9,
+      "odds": 40.8
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202509050111",
+  "race_name": "鳴尾記念",
+  "race_time": "2025-12-06 15:35",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103522",
+      "horse_name": "グランヴィノス",
+      "score": 0.4906496396092688,
+      "horse_number": 13,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104846",
+      "horse_name": "オールナット",
+      "score": 0.28674317640117347,
+      "horse_number": 14,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101648",
+      "horse_name": "センツブラッド",
+      "score": 0.15404076621168486,
+      "horse_number": 4,
+      "odds": 16.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102895",
+      "horse_name": "ナムラエイハブ",
+      "score": 0.12279210393224348,
+      "horse_number": 8,
+      "odds": 15.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019102879",
+      "horse_name": "マテンロウレオ",
+      "score": 0.09997378715688565,
+      "horse_number": 2,
+      "odds": 7.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019104878",
+      "horse_name": "デビットバローズ",
+      "score": 0.00829374817941893,
+      "horse_number": 10,
+      "odds": 4.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103626",
+      "horse_name": "ドゥラエレーデ",
+      "score": -0.04573304123113546,
+      "horse_number": 11,
+      "odds": 17.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019104756",
+      "horse_name": "オニャンコポン",
+      "score": -0.08758264797086393,
+      "horse_number": 1,
+      "odds": 12.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106645",
+      "horse_name": "ウエストナウ",
+      "score": -0.14455542340967228,
+      "horse_number": 9,
+      "odds": 11.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104564",
+      "horse_name": "ニホンピロキーフ",
+      "score": -0.1594989578511485,
+      "horse_number": 12,
+      "odds": 60.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105197",
+      "horse_name": "ブラックシールド",
+      "score": -0.2410431323546604,
+      "horse_number": 3,
+      "odds": 96.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104998",
+      "horse_name": "ショウナンマグマ",
+      "score": -0.36187586531609955,
+      "horse_number": 6,
+      "odds": 44.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019101422",
+      "horse_name": "サンストックトン",
+      "score": -0.5164965032148459,
+      "horse_number": 5,
+      "odds": 135.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019101782",
+      "horse_name": "ラーグルフ",
+      "score": -0.5606902138538792,
+      "horse_number": 7,
+      "odds": 137.2
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202507050111",
+  "race_name": "飛騨S",
+  "race_time": "2025-12-06 15:25",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105752",
+      "horse_name": "レディマリオン",
+      "score": 0.20112972140010688,
+      "horse_number": 6,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020110039",
+      "horse_name": "ユハンヌス",
+      "score": 0.052701182106577316,
+      "horse_number": 2,
+      "odds": 4.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2018110149",
+      "horse_name": "コスモアディラート",
+      "score": 0.023843115520601685,
+      "horse_number": 7,
+      "odds": 11.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105255",
+      "horse_name": "ハワイアンティアレ",
+      "score": 0.011291933684693879,
+      "horse_number": 1,
+      "odds": 5.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103042",
+      "horse_name": "フォルテム",
+      "score": -0.036902186432711,
+      "horse_number": 12,
+      "odds": 9.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102679",
+      "horse_name": "アニトラ",
+      "score": -0.0739994361909118,
+      "horse_number": 3,
+      "odds": 11.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103754",
+      "horse_name": "ミストレス",
+      "score": -0.23445291477129035,
+      "horse_number": 10,
+      "odds": 11.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104401",
+      "horse_name": "ヴェサリウス",
+      "score": -0.3174259193535512,
+      "horse_number": 8,
+      "odds": 19.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101429",
+      "horse_name": "サトミノキラリ",
+      "score": -0.3431219405729473,
+      "horse_number": 9,
+      "odds": 9.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105917",
+      "horse_name": "2022105917",
+      "score": -0.5071126925064392,
+      "horse_number": 4,
+      "odds": 96.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100906",
+      "horse_name": "フライングブレード",
+      "score": -0.5148266651636169,
+      "horse_number": 5,
+      "odds": 56.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019101079",
+      "horse_name": "アスクビギンアゲン",
+      "score": -0.5306592674612013,
+      "horse_number": 11,
+      "odds": 52.6
+    }
+  ]
+}
