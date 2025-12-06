@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050112",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-12-06 16:20",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105435",
+      "horse_name": "ボンヌソワレ",
+      "score": 0.25221812978664276,
+      "horse_number": 13,
+      "odds": 7.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101677",
+      "horse_name": "ソルレース",
+      "score": 0.2118540042937337,
+      "horse_number": 16,
+      "odds": 0.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101399",
+      "horse_name": "ヴァンヴィーヴ",
+      "score": 0.21129821705200602,
+      "horse_number": 3,
+      "odds": 6.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103478",
+      "horse_name": "ファビュラススター",
+      "score": 0.16390263230093707,
+      "horse_number": 1,
+      "odds": 3.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101290",
+      "horse_name": "マリノトニトゥルス",
+      "score": 0.1627981681801453,
+      "horse_number": 11,
+      "odds": 28.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101992",
+      "horse_name": "ライクアフラワー",
+      "score": 0.1223289912020027,
+      "horse_number": 4,
+      "odds": 19.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105485",
+      "horse_name": "エリカカリーナ",
+      "score": 0.11879391126071344,
+      "horse_number": 5,
+      "odds": 7.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103151",
+      "horse_name": "ミニョンマルーン",
+      "score": 0.11381614750713884,
+      "horse_number": 9,
+      "odds": 9.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018100442",
+      "horse_name": "モーデン",
+      "score": 0.07233646170278298,
+      "horse_number": 15,
+      "odds": 18.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100365",
+      "horse_name": "トウカイエルデ",
+      "score": 0.035434804732954184,
+      "horse_number": 8,
+      "odds": 21.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021110003",
+      "horse_name": "アンドアイラヴハー",
+      "score": -0.008148817966112016,
+      "horse_number": 2,
+      "odds": 6.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104190",
+      "horse_name": "ラトルシェ",
+      "score": -0.03461750850564749,
+      "horse_number": 12,
+      "odds": 0.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106559",
+      "horse_name": "クインズスピカ",
+      "score": -0.0538660288661563,
+      "horse_number": 14,
+      "odds": 47.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102535",
+      "horse_name": "トーセントラム",
+      "score": -0.3840869458369852,
+      "horse_number": 6,
+      "odds": 72.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018103485",
+      "horse_name": "ジャガード",
+      "score": -0.39015603810556043,
+      "horse_number": 7,
+      "odds": 65.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106407",
+      "horse_name": "ライブリームーラン",
+      "score": -0.506953367233087,
+      "horse_number": 10,
+      "odds": 77.6
+    }
+  ]
+}
