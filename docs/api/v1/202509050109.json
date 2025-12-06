@@ -1,0 +1,72 @@
+{
+  "race_id": "202509050109",
+  "race_name": "さざんか賞",
+  "race_time": "2025-12-06 14:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104998",
+      "horse_name": "カイショー",
+      "score": 0.276407776841485,
+      "horse_number": 7,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104528",
+      "horse_name": "トップアタック",
+      "score": 0.19277917652295637,
+      "horse_number": 4,
+      "odds": 5.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105273",
+      "horse_name": "フォーゲル",
+      "score": 0.18337091135712416,
+      "horse_number": 3,
+      "odds": 2.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023110097",
+      "horse_name": "ジャスパールビー",
+      "score": 0.02095663221778553,
+      "horse_number": 5,
+      "odds": 11.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103721",
+      "horse_name": "ルージュサウダージ",
+      "score": -0.044378091445087586,
+      "horse_number": 1,
+      "odds": 4.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101994",
+      "horse_name": "マクローリン",
+      "score": -0.6238516222815199,
+      "horse_number": 2,
+      "odds": 64.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100755",
+      "horse_name": "クククトルンナ",
+      "score": -0.6533614053964997,
+      "horse_number": 8,
+      "odds": 48.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104082",
+      "horse_name": "エンチャンテッド",
+      "score": -0.6533614053964997,
+      "horse_number": 6,
+      "odds": 74.5
+    }
+  ]
+}

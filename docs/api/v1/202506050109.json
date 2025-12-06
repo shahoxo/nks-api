@@ -1,0 +1,96 @@
+{
+  "race_id": "202506050109",
+  "race_name": "葉牡丹賞",
+  "race_time": "2025-12-06 14:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023110013",
+      "horse_name": "ザーフィル",
+      "score": 0.3980478032388944,
+      "horse_number": 8,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103814",
+      "horse_name": "アメテュストス",
+      "score": 0.15402358780733438,
+      "horse_number": 1,
+      "odds": 6.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106902",
+      "horse_name": "ヴァロンブローサ",
+      "score": 0.14627430932272373,
+      "horse_number": 7,
+      "odds": 11.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104492",
+      "horse_name": "ブラックハヤテ",
+      "score": 0.1438378229962044,
+      "horse_number": 10,
+      "odds": 10.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107289",
+      "horse_name": "ポルフュロゲネトス",
+      "score": 0.13888977578584175,
+      "horse_number": 5,
+      "odds": 3.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106439",
+      "horse_name": "マイネルマスター",
+      "score": 0.09615085656594737,
+      "horse_number": 4,
+      "odds": 36.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104346",
+      "horse_name": "ステラスペース",
+      "score": 0.023346163781563796,
+      "horse_number": 3,
+      "odds": 57.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100724",
+      "horse_name": "サノノグレーター",
+      "score": 0.021980661772560358,
+      "horse_number": 9,
+      "odds": 5.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100237",
+      "horse_name": "オブラプリーマ",
+      "score": -0.04535871828623059,
+      "horse_number": 2,
+      "odds": 19.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106924",
+      "horse_name": "ジャスティンシカゴ",
+      "score": -0.07892839760580381,
+      "horse_number": 6,
+      "odds": 26.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106582",
+      "horse_name": "モリインビクタス",
+      "score": -0.6118079766234411,
+      "horse_number": 11,
+      "odds": 280.2
+    }
+  ]
+}
