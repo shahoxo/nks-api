@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050102",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-06 10:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107258",
+      "horse_name": "シャローファースト",
+      "score": 0.1612015974187455,
+      "horse_number": 8,
+      "odds": 20.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105005",
+      "horse_name": "ブランドブラン",
+      "score": 0.14068441570529247,
+      "horse_number": 3,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103783",
+      "horse_name": "ヴォーカライズ",
+      "score": 0.07176991989782222,
+      "horse_number": 4,
+      "odds": 2.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105274",
+      "horse_name": "ミッキージャンプ",
+      "score": 0.031564179081270044,
+      "horse_number": 9,
+      "odds": 27.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107300",
+      "horse_name": "ジーティースティア",
+      "score": 0.004008853338651884,
+      "horse_number": 13,
+      "odds": 21.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106855",
+      "horse_name": "ジュンドラドラ",
+      "score": 0.0008637614411203514,
+      "horse_number": 10,
+      "odds": 10.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101756",
+      "horse_name": "メイショウセンドウ",
+      "score": -0.03758613750806018,
+      "horse_number": 1,
+      "odds": 10.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102380",
+      "horse_name": "ルペイドゥロール",
+      "score": -0.05229527598493769,
+      "horse_number": 14,
+      "odds": 28.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101894",
+      "horse_name": "マルーンドライブ",
+      "score": -0.08778933315419393,
+      "horse_number": 6,
+      "odds": 15.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102589",
+      "horse_name": "ダテオトコ",
+      "score": -0.11788634888261655,
+      "horse_number": 16,
+      "odds": 61.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105066",
+      "horse_name": "ヴルールドロワ",
+      "score": -0.20325713686700614,
+      "horse_number": 2,
+      "odds": 37.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105468",
+      "horse_name": "アーサーバローズ",
+      "score": -0.23057517358053772,
+      "horse_number": 11,
+      "odds": 14.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105980",
+      "horse_name": "ジーモンスター",
+      "score": -0.34151894054750487,
+      "horse_number": 15,
+      "odds": 15.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105762",
+      "horse_name": "ケイアイアマゾン",
+      "score": -0.6016625315578266,
+      "horse_number": 5,
+      "odds": 87.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105209",
+      "horse_name": "ファツアップ",
+      "score": -0.6316458106269672,
+      "horse_number": 12,
+      "odds": 85.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106139",
+      "horse_name": "レヴロード",
+      "score": -0.6627078971663312,
+      "horse_number": 7,
+      "odds": 156.9
+    }
+  ]
+}

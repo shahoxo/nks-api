@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050101",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-06 09:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103929",
+      "horse_name": "ウーマンズパワー",
+      "score": 0.08579883968396916,
+      "horse_number": 12,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103399",
+      "horse_name": "オンザノアール",
+      "score": -0.09908277123609005,
+      "horse_number": 1,
+      "odds": 6.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105640",
+      "horse_name": "リトセア",
+      "score": -0.14672916313727047,
+      "horse_number": 4,
+      "odds": 11.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106968",
+      "horse_name": "ベラジオリン",
+      "score": -0.23493167593607367,
+      "horse_number": 3,
+      "odds": 19.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100785",
+      "horse_name": "アズライトアスール",
+      "score": -0.2991219807481539,
+      "horse_number": 15,
+      "odds": 135.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104155",
+      "horse_name": "エクスプロウド",
+      "score": -0.35348630653760094,
+      "horse_number": 9,
+      "odds": 50.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106662",
+      "horse_name": "シュタルク",
+      "score": -0.40751535748549217,
+      "horse_number": 6,
+      "odds": 75.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104561",
+      "horse_name": "ジェム",
+      "score": -0.4083925612623877,
+      "horse_number": 2,
+      "odds": 29.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104705",
+      "horse_name": "セイウンダイフク",
+      "score": -0.4275017981920277,
+      "horse_number": 7,
+      "odds": 97.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104734",
+      "horse_name": "タガノヒダマリ",
+      "score": -0.43633665220245865,
+      "horse_number": 8,
+      "odds": 87.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101713",
+      "horse_name": "イサギ",
+      "score": -0.4541775131533756,
+      "horse_number": 5,
+      "odds": 46.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106571",
+      "horse_name": "メイショウイブキ",
+      "score": -0.45942334678625296,
+      "horse_number": 13,
+      "odds": 6.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103575",
+      "horse_name": "シュトルムカイザー",
+      "score": -0.4656798394589302,
+      "horse_number": 10,
+      "odds": 150.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104226",
+      "horse_name": "チョウスター",
+      "score": -0.524475735717119,
+      "horse_number": 16,
+      "odds": 127.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101199",
+      "horse_name": "クリノセーラーマン",
+      "score": -0.5602023760829252,
+      "horse_number": 14,
+      "odds": 36.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104084",
+      "horse_name": "グランブラーヴ",
+      "score": -0.6987150212225898,
+      "horse_number": 11,
+      "odds": 112.3
+    }
+  ]
+}

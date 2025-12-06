@@ -1,0 +1,112 @@
+{
+  "race_id": "202507050102",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-06 10:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100194",
+      "horse_name": "ハヤテノツバサ",
+      "score": 0.07731818035142118,
+      "horse_number": 13,
+      "odds": 6.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100617",
+      "horse_name": "ブリングライト",
+      "score": 0.027236345822876012,
+      "horse_number": 4,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100588",
+      "horse_name": "アイアンソリッド",
+      "score": -0.16128987017203317,
+      "horse_number": 11,
+      "odds": 13.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103053",
+      "horse_name": "ケイアイワイラーパ",
+      "score": -0.18799123629754716,
+      "horse_number": 7,
+      "odds": 17.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100623",
+      "horse_name": "スプランドゥール",
+      "score": -0.21266892432971027,
+      "horse_number": 2,
+      "odds": 5.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100654",
+      "horse_name": "セルヴァンス",
+      "score": -0.2350259117696708,
+      "horse_number": 6,
+      "odds": 9.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2017103155",
+      "horse_name": "トモジャアルマンド",
+      "score": -0.32671893442605304,
+      "horse_number": 1,
+      "odds": 7.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103859",
+      "horse_name": "タイセイルヴァン",
+      "score": -0.33171028101661393,
+      "horse_number": 5,
+      "odds": 21.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021109088",
+      "horse_name": "アルニラム",
+      "score": -0.36057637154877664,
+      "horse_number": 12,
+      "odds": 25.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106398",
+      "horse_name": "レゼールドラペ",
+      "score": -0.4486089968592682,
+      "horse_number": 9,
+      "odds": 116.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105677",
+      "horse_name": "ローガンパス",
+      "score": -0.5943790635783958,
+      "horse_number": 10,
+      "odds": 5.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101677",
+      "horse_name": "エーティータキオン",
+      "score": -0.6746403448295699,
+      "horse_number": 8,
+      "odds": 205.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106401",
+      "horse_name": "タツアレックス",
+      "score": -0.7498547462216962,
+      "horse_number": 3,
+      "odds": 160.5
+    }
+  ]
+}

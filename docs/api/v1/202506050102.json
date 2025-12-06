@@ -1,0 +1,112 @@
+{
+  "race_id": "202506050102",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-06 10:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103427",
+      "horse_name": "ルージュアリスタ",
+      "score": 0.16761080705122122,
+      "horse_number": 12,
+      "odds": 2.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100583",
+      "horse_name": "フュルスティン",
+      "score": 0.0821448179217567,
+      "horse_number": 8,
+      "odds": 6.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103045",
+      "horse_name": "フィクセルリリア",
+      "score": -0.06037220021320739,
+      "horse_number": 9,
+      "odds": 10.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105811",
+      "horse_name": "ハニーオーケストラ",
+      "score": -0.07368987617341251,
+      "horse_number": 6,
+      "odds": 9.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104679",
+      "horse_name": "タイセイルビー",
+      "score": -0.14602434162284428,
+      "horse_number": 5,
+      "odds": 8.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104808",
+      "horse_name": "リケアマカロニ",
+      "score": -0.15630270686667136,
+      "horse_number": 13,
+      "odds": 10.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101172",
+      "horse_name": "ハウスオンファイア",
+      "score": -0.2762545168111153,
+      "horse_number": 11,
+      "odds": 64.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101155",
+      "horse_name": "パルストリス",
+      "score": -0.340147766614301,
+      "horse_number": 10,
+      "odds": 58.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103544",
+      "horse_name": "フライスカイハイ",
+      "score": -0.4304931698421568,
+      "horse_number": 4,
+      "odds": 15.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102680",
+      "horse_name": "イサチルクイーン",
+      "score": -0.5475772887168501,
+      "horse_number": 7,
+      "odds": 16.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102033",
+      "horse_name": "イデアクリスタル",
+      "score": -0.5624665727050773,
+      "horse_number": 2,
+      "odds": 15.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103179",
+      "horse_name": "リケアフェデリーニ",
+      "score": -0.6569285518651241,
+      "horse_number": 1,
+      "odds": 88.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106349",
+      "horse_name": "グラスベリー",
+      "score": -0.7212483613895885,
+      "horse_number": 3,
+      "odds": 53.1
+    }
+  ]
+}

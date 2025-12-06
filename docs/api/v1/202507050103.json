@@ -1,0 +1,128 @@
+{
+  "race_id": "202507050103",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-06 10:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105053",
+      "horse_name": "スルーザナイト",
+      "score": 0.11884787273918478,
+      "horse_number": 11,
+      "odds": 5.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103619",
+      "horse_name": "タマモジャスミン",
+      "score": 0.07846126870727178,
+      "horse_number": 14,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105896",
+      "horse_name": "ケープウィッカム",
+      "score": -0.06270000087603977,
+      "horse_number": 15,
+      "odds": 13.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105895",
+      "horse_name": "レーヴドレフォン",
+      "score": -0.07699417139674344,
+      "horse_number": 13,
+      "odds": 13.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105711",
+      "horse_name": "ヴァリオーサ",
+      "score": -0.10654576884843862,
+      "horse_number": 9,
+      "odds": 22.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102308",
+      "horse_name": "エアニゲラ",
+      "score": -0.11072190684048092,
+      "horse_number": 7,
+      "odds": 11.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105794",
+      "horse_name": "ラテライト",
+      "score": -0.1125172230538708,
+      "horse_number": 5,
+      "odds": 30.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105954",
+      "horse_name": "コンテナライン",
+      "score": -0.15843750155796155,
+      "horse_number": 6,
+      "odds": 10.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105685",
+      "horse_name": "ディペンダブル",
+      "score": -0.19350290643174972,
+      "horse_number": 12,
+      "odds": 9.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103741",
+      "horse_name": "ロミヒ",
+      "score": -0.19447515452461883,
+      "horse_number": 4,
+      "odds": 20.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104905",
+      "horse_name": "チリーゴールド",
+      "score": -0.21632859980932556,
+      "horse_number": 10,
+      "odds": 14.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105343",
+      "horse_name": "デルマサクラサク",
+      "score": -0.37972635783213216,
+      "horse_number": 1,
+      "odds": 18.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105875",
+      "horse_name": "レイフロレット",
+      "score": -0.4222962962910253,
+      "horse_number": 2,
+      "odds": 6.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101678",
+      "horse_name": "キャットテイル",
+      "score": -0.44347695763829287,
+      "horse_number": 3,
+      "odds": 48.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100886",
+      "horse_name": "ビップレーヌ",
+      "score": -0.4816637722280297,
+      "horse_number": 8,
+      "odds": 68.3
+    }
+  ]
+}

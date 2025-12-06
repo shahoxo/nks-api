@@ -1,0 +1,128 @@
+{
+  "race_id": "202506050101",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-06 10:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101830",
+      "horse_name": "ルルマーレ",
+      "score": -0.0035699576342529725,
+      "horse_number": 10,
+      "odds": 6.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100095",
+      "horse_name": "ビップムーラン",
+      "score": -0.018917340743711857,
+      "horse_number": 6,
+      "odds": 1.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102422",
+      "horse_name": "ミラビリオン",
+      "score": -0.12457681526740859,
+      "horse_number": 15,
+      "odds": 11.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103216",
+      "horse_name": "アンバサダネージュ",
+      "score": -0.2144951612329677,
+      "horse_number": 5,
+      "odds": 9.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105932",
+      "horse_name": "リバテイー",
+      "score": -0.2811956722077601,
+      "horse_number": 11,
+      "odds": 15.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102023",
+      "horse_name": "タイセイガナール",
+      "score": -0.4952366866770873,
+      "horse_number": 4,
+      "odds": 19.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100328",
+      "horse_name": "リオンアンサー",
+      "score": -0.5387639918669278,
+      "horse_number": 7,
+      "odds": 40.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106742",
+      "horse_name": "ポセイドンテソーロ",
+      "score": -0.5546223646437582,
+      "horse_number": 14,
+      "odds": 9.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102921",
+      "horse_name": "アルバニクス",
+      "score": -0.6089065001568761,
+      "horse_number": 9,
+      "odds": 182.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106347",
+      "horse_name": "エルドラド",
+      "score": -0.6518943205472477,
+      "horse_number": 12,
+      "odds": 104.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101185",
+      "horse_name": "ミラクルスパート",
+      "score": -0.6518943205472477,
+      "horse_number": 3,
+      "odds": 31.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101679",
+      "horse_name": "リケアペンネ",
+      "score": -0.6900902118122431,
+      "horse_number": 8,
+      "odds": 150.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101007",
+      "horse_name": "タマリスペクト",
+      "score": -0.6975180108215517,
+      "horse_number": 2,
+      "odds": 171.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102158",
+      "horse_name": "マリンディーゼル",
+      "score": -0.7560238565797833,
+      "horse_number": 1,
+      "odds": 96.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100757",
+      "horse_name": "コウユーニポポニコ",
+      "score": -0.7560238565797833,
+      "horse_number": 13,
+      "odds": 71.1
+    }
+  ]
+}
