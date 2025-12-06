@@ -1,0 +1,152 @@
+{
+  "race_id": "202507050108",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-06 13:40",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105325",
+      "horse_name": "テルケンユミクイン",
+      "score": 0.2541771928925398,
+      "horse_number": 10,
+      "odds": 28.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105250",
+      "horse_name": "エアビッグマム",
+      "score": 0.2206880629957152,
+      "horse_number": 18,
+      "odds": 11.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020107017",
+      "horse_name": "エイシンジェンマ",
+      "score": 0.21004778836405927,
+      "horse_number": 7,
+      "odds": 15.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106829",
+      "horse_name": "コスモレオナルド",
+      "score": 0.19653539882642046,
+      "horse_number": 9,
+      "odds": 11.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106209",
+      "horse_name": "ウインシャーガス",
+      "score": 0.10400486978909919,
+      "horse_number": 4,
+      "odds": 7.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104723",
+      "horse_name": "カレンラップスター",
+      "score": 0.09609321702533426,
+      "horse_number": 14,
+      "odds": 9.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105399",
+      "horse_name": "ダノンジャイアン",
+      "score": 0.0825580726575024,
+      "horse_number": 8,
+      "odds": 10.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105751",
+      "horse_name": "イフルジャンス",
+      "score": -0.01459056167917305,
+      "horse_number": 12,
+      "odds": 36.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105597",
+      "horse_name": "ゲンジ",
+      "score": -0.08167621215589754,
+      "horse_number": 16,
+      "odds": 19.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104138",
+      "horse_name": "ディスパラール",
+      "score": -0.09650017231437569,
+      "horse_number": 11,
+      "odds": 15.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100330",
+      "horse_name": "アオイタケル",
+      "score": -0.18598461416752154,
+      "horse_number": 2,
+      "odds": 4.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105839",
+      "horse_name": "アスクデッドヒート",
+      "score": -0.19569171446259123,
+      "horse_number": 5,
+      "odds": 22.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105758",
+      "horse_name": "フィングステン",
+      "score": -0.233316734518611,
+      "horse_number": 6,
+      "odds": 20.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103512",
+      "horse_name": "ツインクルステージ",
+      "score": -0.3462518862412296,
+      "horse_number": 13,
+      "odds": 65.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103251",
+      "horse_name": "メイショウビストロ",
+      "score": -0.3500922784955869,
+      "horse_number": 15,
+      "odds": 10.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021106821",
+      "horse_name": "マイネルレグルス",
+      "score": -0.5272300991657247,
+      "horse_number": 3,
+      "odds": 33.3
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020105746",
+      "horse_name": "コスモバラタ",
+      "score": -0.5604919038970706,
+      "horse_number": 17,
+      "odds": 107.3
+    },
+    {
+      "rank": 18,
+      "horse_id": "2020104778",
+      "horse_name": "チャイボーグ",
+      "score": -0.6231610526085567,
+      "horse_number": 1,
+      "odds": 95.0
+    }
+  ]
+}
