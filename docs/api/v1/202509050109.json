@@ -54,19 +54,19 @@
     },
     {
       "rank": 7,
-      "horse_id": "2023100755",
-      "horse_name": "クククトルンナ",
-      "score": -0.6533614053964997,
-      "horse_number": 8,
-      "odds": 48.1
-    },
-    {
-      "rank": 7,
       "horse_id": "2023104082",
       "horse_name": "エンチャンテッド",
       "score": -0.6533614053964997,
       "horse_number": 6,
       "odds": 74.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100755",
+      "horse_name": "クククトルンナ",
+      "score": -0.6533614053964997,
+      "horse_number": 8,
+      "odds": 48.1
     }
   ]
 }

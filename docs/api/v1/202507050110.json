@@ -1,0 +1,112 @@
+{
+  "race_id": "202507050110",
+  "race_name": "中京日経賞",
+  "race_time": "2025-12-06 14:50",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100729",
+      "horse_name": "ビーマックス",
+      "score": 0.26497047488473185,
+      "horse_number": 9,
+      "odds": 18.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100899",
+      "horse_name": "ビッグドリーム",
+      "score": 0.2596090166758104,
+      "horse_number": 13,
+      "odds": 5.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107278",
+      "horse_name": "ゼットエール",
+      "score": 0.20541411374127308,
+      "horse_number": 4,
+      "odds": 1.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110122",
+      "horse_name": "アメリカンチケット",
+      "score": 0.118149945855281,
+      "horse_number": 2,
+      "odds": 17.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106986",
+      "horse_name": "ミスエル",
+      "score": 0.08807404379639001,
+      "horse_number": 5,
+      "odds": 10.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105753",
+      "horse_name": "フェンダー",
+      "score": 0.042040592609993384,
+      "horse_number": 11,
+      "odds": 9.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105973",
+      "horse_name": "ワイノナオミ",
+      "score": -0.10665886736856918,
+      "horse_number": 12,
+      "odds": 12.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106936",
+      "horse_name": "フレイミングパイ",
+      "score": -0.24223022594545357,
+      "horse_number": 3,
+      "odds": 44.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020107095",
+      "horse_name": "メモリーグラス",
+      "score": -0.2825646066225865,
+      "horse_number": 10,
+      "odds": 60.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103270",
+      "horse_name": "ダミエ",
+      "score": -0.28496184019929777,
+      "horse_number": 1,
+      "odds": 33.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2017106394",
+      "horse_name": "サウンドサンビーム",
+      "score": -0.42677609317819465,
+      "horse_number": 6,
+      "odds": 133.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019100871",
+      "horse_name": "ブルーノート",
+      "score": -0.470431742523001,
+      "horse_number": 7,
+      "odds": 34.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106562",
+      "horse_name": "バンブトンプロ",
+      "score": -0.6318373387288261,
+      "horse_number": 8,
+      "odds": 165.5
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050110",
+  "race_name": "妙見山S",
+  "race_time": "2025-12-06 15:01",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110151",
+      "horse_name": "ゲッティヴィラ",
+      "score": 0.45436646076932946,
+      "horse_number": 14,
+      "odds": 6.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020104597",
+      "horse_name": "ショウナンアビアス",
+      "score": 0.27556076777330313,
+      "horse_number": 4,
+      "odds": 9.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110137",
+      "horse_name": "ドラゴンウェルズ",
+      "score": 0.17786369116960304,
+      "horse_number": 3,
+      "odds": 3.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103786",
+      "horse_name": "ヒルノドゴール",
+      "score": 0.15795925287770538,
+      "horse_number": 15,
+      "odds": 8.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110142",
+      "horse_name": "ファムエレガンテ",
+      "score": 0.10928280646086685,
+      "horse_number": 2,
+      "odds": 8.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105415",
+      "horse_name": "タカネノハナコサン",
+      "score": -0.07344534077302678,
+      "horse_number": 5,
+      "odds": 5.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104346",
+      "horse_name": "イミュータブル",
+      "score": -0.11723496205624644,
+      "horse_number": 7,
+      "odds": 60.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102573",
+      "horse_name": "メイショウヤーキス",
+      "score": -0.12306631261793297,
+      "horse_number": 11,
+      "odds": 28.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019100110",
+      "horse_name": "ナッカーフェイス",
+      "score": -0.18548188116631975,
+      "horse_number": 16,
+      "odds": 26.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106421",
+      "horse_name": "キタノソワレ",
+      "score": -0.22488423334288415,
+      "horse_number": 10,
+      "odds": 19.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106122",
+      "horse_name": "2021106122",
+      "score": -0.24841832255028504,
+      "horse_number": 6,
+      "odds": 178.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103214",
+      "horse_name": "ネグレスコ",
+      "score": -0.2559392839453797,
+      "horse_number": 9,
+      "odds": 15.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019104660",
+      "horse_name": "フラップシグナス",
+      "score": -0.2580947458508713,
+      "horse_number": 1,
+      "odds": 71.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105635",
+      "horse_name": "ツークフォーゲル",
+      "score": -0.25843254703276386,
+      "horse_number": 8,
+      "odds": 53.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019101055",
+      "horse_name": "カネコメシスター",
+      "score": -0.3195866026552818,
+      "horse_number": 13,
+      "odds": 123.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020109094",
+      "horse_name": "ナスノカンゲツ",
+      "score": -0.39616006740948473,
+      "horse_number": 12,
+      "odds": 79.0
+    }
+  ]
+}

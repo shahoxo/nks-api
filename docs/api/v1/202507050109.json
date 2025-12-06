@@ -10,7 +10,7 @@
       "horse_name": "オーライカモン",
       "score": 0.3271201259995998,
       "horse_number": 8,
-      "odds": 9.3
+      "odds": 8.7
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "リアライズブラーヴ",
       "score": 0.17788445799135733,
       "horse_number": 4,
-      "odds": 3.9
+      "odds": 4.9
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "ショウナンダイン",
       "score": 0.14748696014679363,
       "horse_number": 1,
-      "odds": 23.6
+      "odds": 23.7
     },
     {
       "rank": 4,
@@ -42,7 +42,7 @@
       "horse_name": "アーリーハーベスト",
       "score": 0.06493411367530674,
       "horse_number": 5,
-      "odds": 8.0
+      "odds": 4.6
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "クールデイトナ",
       "score": 0.029774014955813895,
       "horse_number": 6,
-      "odds": 4.7
+      "odds": 5.6
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "プレダトゥール",
       "score": -0.04177025352774593,
       "horse_number": 3,
-      "odds": 36.0
+      "odds": 56.3
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "ローザレイア",
       "score": -0.1714686153788248,
       "horse_number": 7,
-      "odds": 51.8
+      "odds": 75.7
     }
   ]
 }
