@@ -1,0 +1,120 @@
+{
+  "race_id": "202506050111",
+  "race_name": "ステイヤーズ",
+  "race_time": "2025-12-06 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104855",
+      "horse_name": "ホーエリート",
+      "score": 0.2481158417485271,
+      "horse_number": 3,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020105798",
+      "horse_name": "マイネルカンパーナ",
+      "score": 0.06368353944079175,
+      "horse_number": 4,
+      "odds": 10.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105391",
+      "horse_name": "ラスカンブレス",
+      "score": 0.04164152397777404,
+      "horse_number": 10,
+      "odds": 12.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103060",
+      "horse_name": "ヴェルテンベルク",
+      "score": 0.03585460719901644,
+      "horse_number": 1,
+      "odds": 12.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103945",
+      "horse_name": "ヴェルミセル",
+      "score": -0.06608077342658418,
+      "horse_number": 11,
+      "odds": 8.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018104609",
+      "horse_name": "チャックネイト",
+      "score": -0.0732932916968499,
+      "horse_number": 14,
+      "odds": 6.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018101348",
+      "horse_name": "シルブロン",
+      "score": -0.07825922743825589,
+      "horse_number": 9,
+      "odds": 13.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021107001",
+      "horse_name": "ピュアキアン",
+      "score": -0.13288862865550277,
+      "horse_number": 5,
+      "odds": 38.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2017105074",
+      "horse_name": "クロミナンス",
+      "score": -0.1379139191500915,
+      "horse_number": 7,
+      "odds": 3.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105312",
+      "horse_name": "ワープスピード",
+      "score": -0.1900713776341232,
+      "horse_number": 12,
+      "odds": 15.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102870",
+      "horse_name": "ブレイヴロッカー",
+      "score": -0.2816513333066727,
+      "horse_number": 8,
+      "odds": 17.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019101847",
+      "horse_name": "ミクソロジー",
+      "score": -0.2923709591464521,
+      "horse_number": 6,
+      "odds": 59.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019104091",
+      "horse_name": "メイショウブレゲ",
+      "score": -0.4809084580877372,
+      "horse_number": 2,
+      "odds": 53.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105737",
+      "horse_name": "ワイズゴールド",
+      "score": -0.5929697636538359,
+      "horse_number": 13,
+      "odds": 180.8
+    }
+  ]
+}

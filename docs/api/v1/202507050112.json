@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050112",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-06 16:01",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106950",
+      "horse_name": "シャンクス",
+      "score": 0.2837787326323234,
+      "horse_number": 7,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101650",
+      "horse_name": "サリュエ",
+      "score": 0.27105565302055923,
+      "horse_number": 10,
+      "odds": 8.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105871",
+      "horse_name": "レッドフェルメール",
+      "score": 0.2124839246980294,
+      "horse_number": 1,
+      "odds": 3.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105123",
+      "horse_name": "デビューフライト",
+      "score": -0.09924862754555298,
+      "horse_number": 4,
+      "odds": 22.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105831",
+      "horse_name": "フェルシナ",
+      "score": -0.16629245922981073,
+      "horse_number": 2,
+      "odds": 10.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104929",
+      "horse_name": "バニーラビット",
+      "score": -0.20578486439664603,
+      "horse_number": 15,
+      "odds": 6.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103651",
+      "horse_name": "ツーエムクロノス",
+      "score": -0.21975872150593023,
+      "horse_number": 6,
+      "odds": 14.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103488",
+      "horse_name": "ジャンヌローサ",
+      "score": -0.24377290650638664,
+      "horse_number": 8,
+      "odds": 28.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102420",
+      "horse_name": "ナムラブーニン",
+      "score": -0.3006873790451928,
+      "horse_number": 16,
+      "odds": 37.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101517",
+      "horse_name": "マニス",
+      "score": -0.3049156305867283,
+      "horse_number": 12,
+      "odds": 68.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105168",
+      "horse_name": "クイーンズワーフ",
+      "score": -0.31447098900030973,
+      "horse_number": 5,
+      "odds": 40.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106796",
+      "horse_name": "レモンバーム",
+      "score": -0.34287007258289004,
+      "horse_number": 14,
+      "odds": 39.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105245",
+      "horse_name": "マルモア",
+      "score": -0.348326944008345,
+      "horse_number": 9,
+      "odds": 20.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105729",
+      "horse_name": "ミッキーストライク",
+      "score": -0.37492142484807106,
+      "horse_number": 3,
+      "odds": 10.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106719",
+      "horse_name": "アスクザアメリカン",
+      "score": -0.38636072837951796,
+      "horse_number": 11,
+      "odds": 22.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020100864",
+      "horse_name": "パヴァーヌ",
+      "score": -0.5621523877839216,
+      "horse_number": 13,
+      "odds": 88.0
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "race_id": "202509050112",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-06 16:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105386",
+      "horse_name": "ピエタンツァ",
+      "score": 0.31671273121017546,
+      "horse_number": 10,
+      "odds": 5.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110020",
+      "horse_name": "ロジカルワーズ",
+      "score": 0.22540447176426465,
+      "horse_number": 14,
+      "odds": 17.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105470",
+      "horse_name": "コスモグローリー",
+      "score": 0.12331109294775673,
+      "horse_number": 7,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101197",
+      "horse_name": "マイエレメント",
+      "score": 0.12131943756553663,
+      "horse_number": 6,
+      "odds": 3.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103901",
+      "horse_name": "マーシーラン",
+      "score": 0.074811501155672,
+      "horse_number": 9,
+      "odds": 5.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106206",
+      "horse_name": "ウインラウダ",
+      "score": 0.0447984676754384,
+      "horse_number": 5,
+      "odds": 9.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101103",
+      "horse_name": "ザカリナン",
+      "score": -0.07312015020509281,
+      "horse_number": 13,
+      "odds": 25.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105563",
+      "horse_name": "シャドフ",
+      "score": -0.1781852264540091,
+      "horse_number": 12,
+      "odds": 57.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105416",
+      "horse_name": "ラガークイン",
+      "score": -0.18806188696910375,
+      "horse_number": 15,
+      "odds": 17.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102952",
+      "horse_name": "オベイユアマスター",
+      "score": -0.24719339657759237,
+      "horse_number": 4,
+      "odds": 41.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022107342",
+      "horse_name": "ザラタン",
+      "score": -0.2508581273854019,
+      "horse_number": 11,
+      "odds": 16.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105536",
+      "horse_name": "ルージュサリナス",
+      "score": -0.2649999438521203,
+      "horse_number": 3,
+      "odds": 23.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106354",
+      "horse_name": "オーバースタンド",
+      "score": -0.3195503302333626,
+      "horse_number": 8,
+      "odds": 58.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104426",
+      "horse_name": "ランスオブプライム",
+      "score": -0.46251432650259805,
+      "horse_number": 2,
+      "odds": 67.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104947",
+      "horse_name": "フラワームーン",
+      "score": -0.5294930146364931,
+      "horse_number": 1,
+      "odds": 83.8
+    }
+  ]
+}
