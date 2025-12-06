@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050108",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-12-06 13:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110129",
+      "horse_name": "ゴールデンカイト",
+      "score": 0.49923352314782327,
+      "horse_number": 5,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104749",
+      "horse_name": "ソリスクラヴィス",
+      "score": 0.3001614300757328,
+      "horse_number": 12,
+      "odds": 11.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100321",
+      "horse_name": "リメンバーヒム",
+      "score": 0.2317089722972182,
+      "horse_number": 3,
+      "odds": 16.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2018104030",
+      "horse_name": "ワーズワース",
+      "score": 0.09659095774114247,
+      "horse_number": 1,
+      "odds": 10.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021110131",
+      "horse_name": "エコロネオ",
+      "score": 0.0948656163962942,
+      "horse_number": 11,
+      "odds": 15.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105853",
+      "horse_name": "ヴィリアリート",
+      "score": 0.05351566906365502,
+      "horse_number": 9,
+      "odds": 4.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103262",
+      "horse_name": "メイショウツヨキ",
+      "score": 0.049282602743837146,
+      "horse_number": 13,
+      "odds": 15.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104219",
+      "horse_name": "ペイシャケイプ",
+      "score": 0.046608213256326365,
+      "horse_number": 8,
+      "odds": 6.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101543",
+      "horse_name": "ルークススペイ",
+      "score": 0.02436172984381873,
+      "horse_number": 10,
+      "odds": 13.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103388",
+      "horse_name": "フェイト",
+      "score": -0.028030930308446556,
+      "horse_number": 16,
+      "odds": 17.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100674",
+      "horse_name": "イモータルバード",
+      "score": -0.16406684602316396,
+      "horse_number": 14,
+      "odds": 48.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102687",
+      "horse_name": "バックトゥザライト",
+      "score": -0.20405064980210327,
+      "horse_number": 6,
+      "odds": 39.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105849",
+      "horse_name": "オコタンペ",
+      "score": -0.22649372368085477,
+      "horse_number": 4,
+      "odds": 48.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102656",
+      "horse_name": "ロードオルデン",
+      "score": -0.23208078841181187,
+      "horse_number": 15,
+      "odds": 67.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104960",
+      "horse_name": "トロピカルヒーロー",
+      "score": -0.5556045938489673,
+      "horse_number": 7,
+      "odds": 175.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021101219",
+      "horse_name": "マフィン",
+      "score": -0.5836065190735424,
+      "horse_number": 2,
+      "odds": 150.5
+    }
+  ]
+}
