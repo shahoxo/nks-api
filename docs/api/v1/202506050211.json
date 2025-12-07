@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050211",
+  "race_name": "ラピスラズリ",
+  "race_time": "2025-12-07 15:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104960",
+      "horse_name": "カルプスペルシュ",
+      "score": 0.2667316139786578,
+      "horse_number": 15,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100130",
+      "horse_name": "ロードフォアエース",
+      "score": 0.23547905749261527,
+      "horse_number": 8,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101262",
+      "horse_name": "エコロレジーナ",
+      "score": 0.21009804930626857,
+      "horse_number": 3,
+      "odds": 20.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020110090",
+      "horse_name": "ティニア",
+      "score": 0.2058738605693436,
+      "horse_number": 13,
+      "odds": 14.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102434",
+      "horse_name": "ルージュラナキラ",
+      "score": 0.20335739638078726,
+      "horse_number": 4,
+      "odds": 3.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100522",
+      "horse_name": "ジョーメッドヴィン",
+      "score": 0.18527283010077766,
+      "horse_number": 16,
+      "odds": 51.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103434",
+      "horse_name": "カルロヴェローチェ",
+      "score": 0.1812406694591867,
+      "horse_number": 10,
+      "odds": 13.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105548",
+      "horse_name": "アルセナール",
+      "score": 0.05129942312321187,
+      "horse_number": 12,
+      "odds": 28.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101924",
+      "horse_name": "フィオライア",
+      "score": -0.08377511941249403,
+      "horse_number": 1,
+      "odds": 11.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103589",
+      "horse_name": "ブトンドール",
+      "score": -0.09392927053150962,
+      "horse_number": 14,
+      "odds": 102.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019100751",
+      "horse_name": "マイネルレノン",
+      "score": -0.15886745781553882,
+      "horse_number": 6,
+      "odds": 33.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100792",
+      "horse_name": "ハクサンバード",
+      "score": -0.16791259403236763,
+      "horse_number": 9,
+      "odds": 77.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106834",
+      "horse_name": "コラソンビート",
+      "score": -0.17735401625387293,
+      "horse_number": 5,
+      "odds": 22.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100895",
+      "horse_name": "サフランヒーロー",
+      "score": -0.20178406834302068,
+      "horse_number": 2,
+      "odds": 56.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019100214",
+      "horse_name": "ウインモナーク",
+      "score": -0.23955692698935488,
+      "horse_number": 11,
+      "odds": 24.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102408",
+      "horse_name": "ムイ",
+      "score": -0.27611934913117747,
+      "horse_number": 7,
+      "odds": 25.7
+    }
+  ]
+}
