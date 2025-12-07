@@ -1,0 +1,72 @@
+{
+  "race_id": "202509050208",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-12-07 13:35",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105421",
+      "horse_name": "コンフォルツァ",
+      "score": 0.14944314250980992,
+      "horse_number": 6,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019104732",
+      "horse_name": "チェルノボーグ",
+      "score": 0.08057841788904979,
+      "horse_number": 7,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105883",
+      "horse_name": "ジーティームソウ",
+      "score": 0.06822380761409716,
+      "horse_number": 4,
+      "odds": 11.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106793",
+      "horse_name": "コスモアンソロジー",
+      "score": 0.003711832327133546,
+      "horse_number": 3,
+      "odds": 5.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105434",
+      "horse_name": "ショウナンガチ",
+      "score": -0.2631260895585465,
+      "horse_number": 2,
+      "odds": 12.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019106399",
+      "horse_name": "ダンツエスプリ",
+      "score": -0.3684204108556147,
+      "horse_number": 5,
+      "odds": 16.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104751",
+      "horse_name": "オリエンタルナイト",
+      "score": -0.4147202344661551,
+      "horse_number": 1,
+      "odds": 46.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018103473",
+      "horse_name": "サヴァビアン",
+      "score": -0.5604919038970706,
+      "horse_number": 8,
+      "odds": 53.6
+    }
+  ]
+}

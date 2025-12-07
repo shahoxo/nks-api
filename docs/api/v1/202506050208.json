@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050208",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-12-07 13:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022107163",
+      "horse_name": "アシャカトベ",
+      "score": 0.17029419423817926,
+      "horse_number": 13,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103670",
+      "horse_name": "ショウナンハクウン",
+      "score": 0.052894106749715564,
+      "horse_number": 4,
+      "odds": 9.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110111",
+      "horse_name": "ジャスパーソレイユ",
+      "score": 0.023297082062476132,
+      "horse_number": 16,
+      "odds": 4.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100338",
+      "horse_name": "テセラリアン",
+      "score": -0.04993096964880922,
+      "horse_number": 2,
+      "odds": 11.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021110165",
+      "horse_name": "ピコアーガイル",
+      "score": -0.09286464814891077,
+      "horse_number": 15,
+      "odds": 11.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105974",
+      "horse_name": "バロン",
+      "score": -0.11841320436920495,
+      "horse_number": 8,
+      "odds": 28.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103711",
+      "horse_name": "ロサンゼルス",
+      "score": -0.21888903032837198,
+      "horse_number": 14,
+      "odds": 6.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101469",
+      "horse_name": "ヴェナートル",
+      "score": -0.3084810576843139,
+      "horse_number": 10,
+      "odds": 46.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102280",
+      "horse_name": "デビッドテソーロ",
+      "score": -0.3285381133229327,
+      "horse_number": 6,
+      "odds": 41.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105794",
+      "horse_name": "ホワイトターフ",
+      "score": -0.33263019320772813,
+      "horse_number": 9,
+      "odds": 11.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105711",
+      "horse_name": "ズバットマサムネ",
+      "score": -0.40109402118682946,
+      "horse_number": 5,
+      "odds": 7.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103931",
+      "horse_name": "ヴィクトリーロード",
+      "score": -0.5078204737857399,
+      "horse_number": 12,
+      "odds": 52.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106413",
+      "horse_name": "レッドバレンティア",
+      "score": -0.5345078110335014,
+      "horse_number": 7,
+      "odds": 37.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020106687",
+      "horse_name": "ウォルラス",
+      "score": -0.5442635852559309,
+      "horse_number": 1,
+      "odds": 45.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102784",
+      "horse_name": "タリエシン",
+      "score": -0.5525283115141137,
+      "horse_number": 11,
+      "odds": 52.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019100072",
+      "horse_name": "ネイリッカ",
+      "score": -0.6997242947219148,
+      "horse_number": 3,
+      "odds": 82.4
+    }
+  ]
+}

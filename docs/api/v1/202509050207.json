@@ -1,0 +1,96 @@
+{
+  "race_id": "202509050207",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-07 13:05",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104597",
+      "horse_name": "モンテディアーナ",
+      "score": 0.2487007539744247,
+      "horse_number": 4,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104644",
+      "horse_name": "ペンテリコン",
+      "score": 0.239966436911868,
+      "horse_number": 3,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101418",
+      "horse_name": "レストプレドゥモア",
+      "score": 0.11551442087675791,
+      "horse_number": 5,
+      "odds": 13.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021107351",
+      "horse_name": "ゴールデンチップス",
+      "score": 0.07328413260329718,
+      "horse_number": 6,
+      "odds": 8.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103921",
+      "horse_name": "ポムドール",
+      "score": 0.048216815966457556,
+      "horse_number": 1,
+      "odds": 41.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104404",
+      "horse_name": "シュークリーム",
+      "score": 0.0332213981926383,
+      "horse_number": 8,
+      "odds": 13.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101607",
+      "horse_name": "イチトゼロノアイダ",
+      "score": 0.02627728895471508,
+      "horse_number": 10,
+      "odds": 16.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104391",
+      "horse_name": "ヴィヴァシャス",
+      "score": 0.015557267672156164,
+      "horse_number": 7,
+      "odds": 6.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100906",
+      "horse_name": "ペレグリン",
+      "score": -0.03178455083508629,
+      "horse_number": 2,
+      "odds": 13.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102085",
+      "horse_name": "モズフラッシュ",
+      "score": -0.2087440283984286,
+      "horse_number": 9,
+      "odds": 11.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022107258",
+      "horse_name": "ラブアイミー",
+      "score": -0.5676947702334131,
+      "horse_number": 11,
+      "odds": 15.2
+    }
+  ]
+}

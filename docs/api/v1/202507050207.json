@@ -1,0 +1,120 @@
+{
+  "race_id": "202507050207",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-07 13:25",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103448",
+      "horse_name": "ツーピース",
+      "score": 0.08239921478776328,
+      "horse_number": 14,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103188",
+      "horse_name": "メイショウゴールド",
+      "score": 0.07815519814381396,
+      "horse_number": 7,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103485",
+      "horse_name": "アスコットアイ",
+      "score": 0.04509344021522452,
+      "horse_number": 2,
+      "odds": 7.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105749",
+      "horse_name": "ルージュベルベット",
+      "score": -0.15874059899792403,
+      "horse_number": 12,
+      "odds": 10.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100135",
+      "horse_name": "エメラヴィ",
+      "score": -0.17975964113266382,
+      "horse_number": 3,
+      "odds": 7.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020106182",
+      "horse_name": "メイショウホウセン",
+      "score": -0.18618963375224087,
+      "horse_number": 1,
+      "odds": 15.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102785",
+      "horse_name": "ラーナローザ",
+      "score": -0.27435306164529627,
+      "horse_number": 4,
+      "odds": 4.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106942",
+      "horse_name": "レイム",
+      "score": -0.28973727680391576,
+      "horse_number": 9,
+      "odds": 20.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105175",
+      "horse_name": "セントキルダ",
+      "score": -0.38772542917030833,
+      "horse_number": 10,
+      "odds": 57.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100630",
+      "horse_name": "フルドド",
+      "score": -0.5943790635783958,
+      "horse_number": 8,
+      "odds": 12.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102793",
+      "horse_name": "トライデント",
+      "score": -0.5970618435386312,
+      "horse_number": 6,
+      "odds": 88.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104336",
+      "horse_name": "ダオラダオラ",
+      "score": -0.5970618435386312,
+      "horse_number": 11,
+      "odds": 75.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105830",
+      "horse_name": "エスグラシア",
+      "score": -0.6118079766234411,
+      "horse_number": 5,
+      "odds": 47.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104257",
+      "horse_name": "タツブラック",
+      "score": -0.7560238565797833,
+      "horse_number": 13,
+      "odds": 167.5
+    }
+  ]
+}
