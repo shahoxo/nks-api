@@ -1,0 +1,88 @@
+{
+  "race_id": "202507050212",
+  "race_name": "栄特別",
+  "race_time": "2025-12-07 16:25",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102573",
+      "horse_name": "メイショウアイル",
+      "score": 0.29248466844415144,
+      "horse_number": 1,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102303",
+      "horse_name": "アスクコモンタレヴ",
+      "score": 0.23620677291586586,
+      "horse_number": 10,
+      "odds": 3.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106607",
+      "horse_name": "ヤマニンヒストリア",
+      "score": 0.21986139030424184,
+      "horse_number": 3,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105322",
+      "horse_name": "ホウオウレイヴン",
+      "score": 0.21227627033901647,
+      "horse_number": 6,
+      "odds": 8.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104794",
+      "horse_name": "サリーチェ",
+      "score": 0.10976634981350604,
+      "horse_number": 9,
+      "odds": 12.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105687",
+      "horse_name": "オーサムユニバンス",
+      "score": 0.08933175907918171,
+      "horse_number": 5,
+      "odds": 5.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103537",
+      "horse_name": "トゥルーサクセサー",
+      "score": 0.06169500235874109,
+      "horse_number": 7,
+      "odds": 11.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101605",
+      "horse_name": "サミダレナイツ",
+      "score": 0.05532797002097288,
+      "horse_number": 4,
+      "odds": 19.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104413",
+      "horse_name": "マハートマーベル",
+      "score": -0.26310359258568705,
+      "horse_number": 8,
+      "odds": 26.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103263",
+      "horse_name": "メイショウアゴナス",
+      "score": -0.4640759120181267,
+      "horse_number": 2,
+      "odds": 31.4
+    }
+  ]
+}
