@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050202",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-07 10:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107211",
+      "horse_name": "ジョアン",
+      "score": 0.17686587895676845,
+      "horse_number": 8,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102661",
+      "horse_name": "タナスーペルノーバ",
+      "score": 0.16419572923078352,
+      "horse_number": 9,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107544",
+      "horse_name": "カンフージョン",
+      "score": -0.09134443653480638,
+      "horse_number": 6,
+      "odds": 10.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107529",
+      "horse_name": "ディープスリー",
+      "score": -0.19275641706287056,
+      "horse_number": 2,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104838",
+      "horse_name": "マルモリラピダス",
+      "score": -0.2386657948146007,
+      "horse_number": 11,
+      "odds": 12.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106570",
+      "horse_name": "メイショウタイザン",
+      "score": -0.2535178445177392,
+      "horse_number": 13,
+      "odds": 10.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023109036",
+      "horse_name": "フトゥーロスフィダ",
+      "score": -0.2595509080901618,
+      "horse_number": 7,
+      "odds": 37.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102104",
+      "horse_name": "レッツエンジョイ",
+      "score": -0.38650033683939844,
+      "horse_number": 5,
+      "odds": 20.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106563",
+      "horse_name": "メイショウゴウケツ",
+      "score": -0.41251150207423126,
+      "horse_number": 15,
+      "odds": 13.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106567",
+      "horse_name": "メイショウテンジン",
+      "score": -0.4497652093746288,
+      "horse_number": 12,
+      "odds": 14.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103151",
+      "horse_name": "ハードシングス",
+      "score": -0.4576555395702008,
+      "horse_number": 3,
+      "odds": 9.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104255",
+      "horse_name": "サウンドラッシュ",
+      "score": -0.5051107033187274,
+      "horse_number": 1,
+      "odds": 34.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023107393",
+      "horse_name": "プグナファータ",
+      "score": -0.6360304043193064,
+      "horse_number": 4,
+      "odds": 99.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101854",
+      "horse_name": "タイムレスラブ",
+      "score": -0.651131454363484,
+      "horse_number": 16,
+      "odds": 132.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104282",
+      "horse_name": "ハクアイタワー",
+      "score": -0.6623536027877833,
+      "horse_number": 14,
+      "odds": 57.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105890",
+      "horse_name": "ヒャクギマル",
+      "score": -0.6856146655071581,
+      "horse_number": 10,
+      "odds": 96.8
+    }
+  ]
+}

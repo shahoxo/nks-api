@@ -1,0 +1,152 @@
+{
+  "race_id": "202509050203",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-07 10:45",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107102",
+      "horse_name": "ダノンベルビュー",
+      "score": 0.30994959342736467,
+      "horse_number": 1,
+      "odds": 7.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105352",
+      "horse_name": "ゴッドアイ",
+      "score": 0.2711470676846681,
+      "horse_number": 16,
+      "odds": 15.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107264",
+      "horse_name": "デアヴェローチェ",
+      "score": 0.23104689969924236,
+      "horse_number": 8,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103353",
+      "horse_name": "シャンデリュイーズ",
+      "score": 0.2209397071118755,
+      "horse_number": 11,
+      "odds": 4.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101077",
+      "horse_name": "アンジュラフィーユ",
+      "score": 0.21443073627387094,
+      "horse_number": 13,
+      "odds": 14.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103160",
+      "horse_name": "メイクワンズデイ",
+      "score": 0.1437576520492327,
+      "horse_number": 15,
+      "odds": 4.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104397",
+      "horse_name": "エバイダンス",
+      "score": 0.022221758681766457,
+      "horse_number": 3,
+      "odds": 12.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101004",
+      "horse_name": "ハンザキ",
+      "score": 0.021415392805358792,
+      "horse_number": 18,
+      "odds": 60.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105672",
+      "horse_name": "ゴールドヴィーナス",
+      "score": -0.005474693934675801,
+      "horse_number": 2,
+      "odds": 21.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105168",
+      "horse_name": "ノクスカンパーナ",
+      "score": -0.12016907178099477,
+      "horse_number": 4,
+      "odds": 47.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100457",
+      "horse_name": "ワンダーエイド",
+      "score": -0.16791911500586354,
+      "horse_number": 17,
+      "odds": 157.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104388",
+      "horse_name": "トレッチェ",
+      "score": -0.23181673440473913,
+      "horse_number": 5,
+      "odds": 94.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103791",
+      "horse_name": "レフティサーリ",
+      "score": -0.24043551152862744,
+      "horse_number": 6,
+      "odds": 17.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106420",
+      "horse_name": "コスモファーブロス",
+      "score": -0.3298167276174217,
+      "horse_number": 7,
+      "odds": 23.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105727",
+      "horse_name": "モズジェネラル",
+      "score": -0.44662448681528466,
+      "horse_number": 12,
+      "odds": 41.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105761",
+      "horse_name": "ケイアイブラック",
+      "score": -0.49308647014558815,
+      "horse_number": 10,
+      "odds": 106.4
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023104192",
+      "horse_name": "クライナリーゼ",
+      "score": -0.5269919115132868,
+      "horse_number": 14,
+      "odds": 100.6
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023103635",
+      "horse_name": "クリノアトレ",
+      "score": -0.6970415147616792,
+      "horse_number": 9,
+      "odds": 185.0
+    }
+  ]
+}

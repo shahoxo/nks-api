@@ -1,0 +1,112 @@
+{
+  "race_id": "202507050201",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-07 10:05",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023110081",
+      "horse_name": "アメリカンイズム",
+      "score": 0.402428636417873,
+      "horse_number": 2,
+      "odds": 1.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107082",
+      "horse_name": "リベッチオ",
+      "score": 0.29998614430777765,
+      "horse_number": 3,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104348",
+      "horse_name": "エクヴァータル",
+      "score": -0.024873766628916494,
+      "horse_number": 4,
+      "odds": 27.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103586",
+      "horse_name": "ストラドーネ",
+      "score": -0.1886425583462047,
+      "horse_number": 11,
+      "odds": 41.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102706",
+      "horse_name": "レイサンソク",
+      "score": -0.20724929529039324,
+      "horse_number": 7,
+      "odds": 65.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105177",
+      "horse_name": "タケルムサシ",
+      "score": -0.2180256058515783,
+      "horse_number": 10,
+      "odds": 101.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103896",
+      "horse_name": "マーゴットデイズ",
+      "score": -0.2906012451634387,
+      "horse_number": 13,
+      "odds": 31.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102752",
+      "horse_name": "スマートグロワール",
+      "score": -0.29233330349447895,
+      "horse_number": 1,
+      "odds": 50.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105753",
+      "horse_name": "アデルフィー",
+      "score": -0.3186681461160091,
+      "horse_number": 5,
+      "odds": 33.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023110031",
+      "horse_name": "マイカラー",
+      "score": -0.3665234546468651,
+      "horse_number": 8,
+      "odds": 142.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103707",
+      "horse_name": "テイクザスローン",
+      "score": -0.3916769742421896,
+      "horse_number": 9,
+      "odds": 36.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101412",
+      "horse_name": "クリコバロー",
+      "score": -0.6501741187446226,
+      "horse_number": 6,
+      "odds": 131.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101630",
+      "horse_name": "ジーティーウンカイ",
+      "score": -0.7131842463084257,
+      "horse_number": 12,
+      "odds": 241.7
+    }
+  ]
+}

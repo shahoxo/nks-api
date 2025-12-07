@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050202",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-07 10:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106376",
+      "horse_name": "ワインダークシー",
+      "score": 0.3157541288882827,
+      "horse_number": 8,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107329",
+      "horse_name": "ボニープリンス",
+      "score": 0.2812002690295373,
+      "horse_number": 1,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103483",
+      "horse_name": "クールフィデル",
+      "score": 0.15130700358029794,
+      "horse_number": 16,
+      "odds": 6.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106475",
+      "horse_name": "ベルランコントル",
+      "score": 0.11703319499705968,
+      "horse_number": 4,
+      "odds": 5.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103175",
+      "horse_name": "セイントクーヤ",
+      "score": 0.06810745408890441,
+      "horse_number": 9,
+      "odds": 41.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100954",
+      "horse_name": "テルケンレンスキー",
+      "score": 0.03434826015929165,
+      "horse_number": 14,
+      "odds": 7.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103651",
+      "horse_name": "ノーブルスアーク",
+      "score": -0.02657420425002819,
+      "horse_number": 5,
+      "odds": 35.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106471",
+      "horse_name": "マイネルヴェーゼン",
+      "score": -0.04549920224512111,
+      "horse_number": 2,
+      "odds": 6.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103577",
+      "horse_name": "ブレイズランナー",
+      "score": -0.06911465183065887,
+      "horse_number": 10,
+      "odds": 26.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103298",
+      "horse_name": "ダイユウアレグロ",
+      "score": -0.27396738169039786,
+      "horse_number": 7,
+      "odds": 34.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102109",
+      "horse_name": "ヒコボシ",
+      "score": -0.3346955080947312,
+      "horse_number": 13,
+      "odds": 92.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102074",
+      "horse_name": "アルケミラモリス",
+      "score": -0.4289488194344713,
+      "horse_number": 11,
+      "odds": 111.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106434",
+      "horse_name": "フラクタル",
+      "score": -0.49679794587460246,
+      "horse_number": 6,
+      "odds": 62.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106442",
+      "horse_name": "コスモグロボーサ",
+      "score": -0.49679794587460246,
+      "horse_number": 15,
+      "odds": 206.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104161",
+      "horse_name": "イアム",
+      "score": -0.6457252101891606,
+      "horse_number": 3,
+      "odds": 240.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023101052",
+      "horse_name": "アズサ",
+      "score": -0.735775346659503,
+      "horse_number": 12,
+      "odds": 173.3
+    }
+  ]
+}
