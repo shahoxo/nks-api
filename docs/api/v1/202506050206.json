@@ -1,0 +1,56 @@
+{
+  "race_id": "202506050206",
+  "race_name": "2歳1勝クラス",
+  "race_time": "2025-12-07 12:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100670",
+      "horse_name": "ルクスレイモンド",
+      "score": 0.2406090189213298,
+      "horse_number": 2,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101106",
+      "horse_name": "クイーンレグナント",
+      "score": 0.23759017991438858,
+      "horse_number": 3,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107220",
+      "horse_name": "カリヨンアヴォン",
+      "score": 0.2333184821481137,
+      "horse_number": 1,
+      "odds": 1.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104798",
+      "horse_name": "ランスオブキング",
+      "score": 0.027598862058744282,
+      "horse_number": 5,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102401",
+      "horse_name": "ジャメビュ",
+      "score": -0.6956322148371195,
+      "horse_number": 4,
+      "odds": 27.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106600",
+      "horse_name": "イッツソーブライト",
+      "score": -0.7385016702365806,
+      "horse_number": 6,
+      "odds": 32.7
+    }
+  ]
+}
