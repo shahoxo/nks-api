@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050210",
+  "race_name": "市川S",
+  "race_time": "2025-12-07 14:50",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105564",
+      "horse_name": "ファリーザ",
+      "score": 0.14094713755244853,
+      "horse_number": 14,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101253",
+      "horse_name": "クラウンシエンタ",
+      "score": 0.09911832460969695,
+      "horse_number": 5,
+      "odds": 3.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103770",
+      "horse_name": "スペイドアン",
+      "score": 0.037776369538346566,
+      "horse_number": 2,
+      "odds": 10.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106874",
+      "horse_name": "ゴールドアローン",
+      "score": 0.009341160496120087,
+      "horse_number": 1,
+      "odds": 11.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106541",
+      "horse_name": "グレイテストソング",
+      "score": -0.015719698719026017,
+      "horse_number": 12,
+      "odds": 11.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103140",
+      "horse_name": "メイプルタピット",
+      "score": -0.038408828341513906,
+      "horse_number": 13,
+      "odds": 24.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104708",
+      "horse_name": "ウィステリアリヴァ",
+      "score": -0.07528009980582491,
+      "horse_number": 6,
+      "odds": 8.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102753",
+      "horse_name": "サンセットブライト",
+      "score": -0.07768210709130566,
+      "horse_number": 16,
+      "odds": 13.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102280",
+      "horse_name": "チュウワクリスエス",
+      "score": -0.07901872151999571,
+      "horse_number": 3,
+      "odds": 12.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101143",
+      "horse_name": "イージーオンミー",
+      "score": -0.11506345451421734,
+      "horse_number": 10,
+      "odds": 13.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103199",
+      "horse_name": "ビップスコーピオン",
+      "score": -0.23494624227139768,
+      "horse_number": 15,
+      "odds": 52.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104784",
+      "horse_name": "オペラプラージュ",
+      "score": -0.27219879066712604,
+      "horse_number": 9,
+      "odds": 39.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018101243",
+      "horse_name": "オレデイイノカ",
+      "score": -0.3117580673868354,
+      "horse_number": 8,
+      "odds": 28.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100053",
+      "horse_name": "プレイサーゴールド",
+      "score": -0.34513055513271074,
+      "horse_number": 4,
+      "odds": 18.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102925",
+      "horse_name": "アームブランシュ",
+      "score": -0.4070559950779952,
+      "horse_number": 7,
+      "odds": 90.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021105334",
+      "horse_name": "トーアアイギス",
+      "score": -0.5945546677764488,
+      "horse_number": 11,
+      "odds": 69.2
+    }
+  ]
+}

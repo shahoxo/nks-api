@@ -1,0 +1,112 @@
+{
+  "race_id": "202507050210",
+  "race_name": "志摩特別",
+  "race_time": "2025-12-07 15:01",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105127",
+      "horse_name": "テラメリタ",
+      "score": 0.47118445550756327,
+      "horse_number": 13,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102744",
+      "horse_name": "キングメーカー",
+      "score": 0.31539793337907296,
+      "horse_number": 8,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101422",
+      "horse_name": "マテンロウブラボー",
+      "score": 0.28132190798242085,
+      "horse_number": 1,
+      "odds": 11.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105988",
+      "horse_name": "ジーティードレス",
+      "score": 0.19304166288125826,
+      "horse_number": 10,
+      "odds": 4.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105459",
+      "horse_name": "ヴィスマール",
+      "score": 0.1274779255409252,
+      "horse_number": 9,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105422",
+      "horse_name": "フォーキャンドルズ",
+      "score": 0.010970974027556195,
+      "horse_number": 12,
+      "odds": 19.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103665",
+      "horse_name": "クスクス",
+      "score": 0.0031873779261159243,
+      "horse_number": 6,
+      "odds": 17.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103486",
+      "horse_name": "ホウオウシェリー",
+      "score": -0.057765959079535883,
+      "horse_number": 7,
+      "odds": 10.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106280",
+      "horse_name": "サクラオーラ",
+      "score": -0.13063615197131315,
+      "horse_number": 5,
+      "odds": 10.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102631",
+      "horse_name": "ラッジオ",
+      "score": -0.31625742355775804,
+      "horse_number": 2,
+      "odds": 23.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102907",
+      "horse_name": "ステラバルセロナ",
+      "score": -0.3668976656281226,
+      "horse_number": 4,
+      "odds": 20.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019106700",
+      "horse_name": "ヒロノゴウカイ",
+      "score": -0.5133138658359971,
+      "horse_number": 11,
+      "odds": 85.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104285",
+      "horse_name": "ラーテル",
+      "score": -0.6293301629666437,
+      "horse_number": 3,
+      "odds": 120.4
+    }
+  ]
+}
