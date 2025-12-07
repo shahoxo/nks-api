@@ -1,0 +1,152 @@
+{
+  "race_id": "202509050210",
+  "race_name": "元町S",
+  "race_time": "2025-12-07 14:40",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103240",
+      "horse_name": "エバーハピネス",
+      "score": 0.15841054286840417,
+      "horse_number": 18,
+      "odds": 28.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2018102178",
+      "horse_name": "マイネルエニグマ",
+      "score": 0.15166555072418225,
+      "horse_number": 16,
+      "odds": 8.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106369",
+      "horse_name": "チャンネルトンネル",
+      "score": 0.14455773859075477,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105117",
+      "horse_name": "ベラジオボンド",
+      "score": 0.11591003968306451,
+      "horse_number": 17,
+      "odds": 4.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103456",
+      "horse_name": "ナヴォーナ",
+      "score": 0.08454245644219545,
+      "horse_number": 3,
+      "odds": 21.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103428",
+      "horse_name": "スイープアワーズ",
+      "score": 0.05839871499399303,
+      "horse_number": 1,
+      "odds": 23.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103553",
+      "horse_name": "バロッサヴァレー",
+      "score": -0.0412276231162117,
+      "horse_number": 4,
+      "odds": 20.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106660",
+      "horse_name": "スズカダブル",
+      "score": -0.04784807078921108,
+      "horse_number": 13,
+      "odds": 13.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104416",
+      "horse_name": "レディネス",
+      "score": -0.08530897590274095,
+      "horse_number": 12,
+      "odds": 5.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020105305",
+      "horse_name": "アウフヘーベン",
+      "score": -0.10809571319301098,
+      "horse_number": 9,
+      "odds": 11.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101486",
+      "horse_name": "ドットクルー",
+      "score": -0.13209754223800244,
+      "horse_number": 10,
+      "odds": 19.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105800",
+      "horse_name": "ミエスペランサ",
+      "score": -0.2166656090211368,
+      "horse_number": 15,
+      "odds": 17.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102510",
+      "horse_name": "ナムラフッカー",
+      "score": -0.22810300873172776,
+      "horse_number": 8,
+      "odds": 26.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102256",
+      "horse_name": "ノーブルスカイ",
+      "score": -0.24607682937561956,
+      "horse_number": 7,
+      "odds": 29.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018103406",
+      "horse_name": "トーホウディアス",
+      "score": -0.25368536362389116,
+      "horse_number": 14,
+      "odds": 83.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021101382",
+      "horse_name": "ブリックワーク",
+      "score": -0.30740191012563023,
+      "horse_number": 5,
+      "odds": 40.1
+    },
+    {
+      "rank": 17,
+      "horse_id": "2018103590",
+      "horse_name": "リッケンバッカー",
+      "score": -0.4243467664131686,
+      "horse_number": 2,
+      "odds": 70.8
+    },
+    {
+      "rank": 18,
+      "horse_id": "2020103279",
+      "horse_name": "ショーモン",
+      "score": -0.7265140734648036,
+      "horse_number": 11,
+      "odds": 69.6
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050209",
+  "race_name": "犬山特別",
+  "race_time": "2025-12-07 14:25",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101227",
+      "horse_name": "ヴォンフレ",
+      "score": 0.39416205503120205,
+      "horse_number": 1,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105787",
+      "horse_name": "コンアフェット",
+      "score": 0.0842254267421757,
+      "horse_number": 12,
+      "odds": 10.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101457",
+      "horse_name": "アンドリーナ",
+      "score": 0.06300126514508878,
+      "horse_number": 5,
+      "odds": 5.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103515",
+      "horse_name": "ユウェンタース",
+      "score": 0.024814026668924762,
+      "horse_number": 15,
+      "odds": 36.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020102607",
+      "horse_name": "ロフティーイデアル",
+      "score": 0.021729740537714128,
+      "horse_number": 9,
+      "odds": 8.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104292",
+      "horse_name": "フクキタテーラー",
+      "score": -0.011524407637177662,
+      "horse_number": 10,
+      "odds": 10.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106177",
+      "horse_name": "タマモナポリ",
+      "score": -0.03355662438459704,
+      "horse_number": 13,
+      "odds": 14.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104917",
+      "horse_name": "エターナルプロミス",
+      "score": -0.21378048062034083,
+      "horse_number": 7,
+      "odds": 8.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100471",
+      "horse_name": "シンコーナホチャン",
+      "score": -0.262010901021481,
+      "horse_number": 3,
+      "odds": 9.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102962",
+      "horse_name": "プチボヌール",
+      "score": -0.28453810512658434,
+      "horse_number": 4,
+      "odds": 74.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100469",
+      "horse_name": "カフェアローロ",
+      "score": -0.29907478030814866,
+      "horse_number": 8,
+      "odds": 34.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104791",
+      "horse_name": "プウスカンドゥール",
+      "score": -0.39305722055366143,
+      "horse_number": 2,
+      "odds": 94.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102757",
+      "horse_name": "ベファーナ",
+      "score": -0.43992933803981704,
+      "horse_number": 14,
+      "odds": 46.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103355",
+      "horse_name": "エイシンナデシコ",
+      "score": -0.5102051135904544,
+      "horse_number": 16,
+      "odds": 16.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102840",
+      "horse_name": "ブーバー",
+      "score": -0.5488310238833476,
+      "horse_number": 6,
+      "odds": 39.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104126",
+      "horse_name": "サラサハウプリティ",
+      "score": -0.5768133336183507,
+      "horse_number": 11,
+      "odds": 27.5
+    }
+  ]
+}
