@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050211",
+  "race_name": "チャンピオン",
+  "race_time": "2025-12-07 15:40",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019102383",
+      "horse_name": "ウィルソンテソーロ",
+      "score": 0.39324243967299094,
+      "horse_number": 8,
+      "odds": 6.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105724",
+      "horse_name": "シックスペンス",
+      "score": 0.3220516775557195,
+      "horse_number": 11,
+      "odds": 8.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110083",
+      "horse_name": "ルクソールカフェ",
+      "score": 0.2763141636938059,
+      "horse_number": 16,
+      "odds": 12.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105700",
+      "horse_name": "ダブルハートボンド",
+      "score": 0.23748841063116163,
+      "horse_number": 2,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104756",
+      "horse_name": "サンライズジパング",
+      "score": 0.22391796405085063,
+      "horse_number": 13,
+      "odds": 29.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101638",
+      "horse_name": "ナルカミ",
+      "score": 0.14532072617863037,
+      "horse_number": 12,
+      "odds": 2.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2017106404",
+      "horse_name": "メイショウハリオ",
+      "score": 0.13444603293428845,
+      "horse_number": 3,
+      "odds": 14.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106640",
+      "horse_name": "ラムジェット",
+      "score": 0.12161334979925467,
+      "horse_number": 7,
+      "odds": 12.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102729",
+      "horse_name": "テンカジョウ",
+      "score": 0.061681701034942985,
+      "horse_number": 10,
+      "odds": 41.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018106084",
+      "horse_name": "ペプチドナイル",
+      "score": 0.008011993897016317,
+      "horse_number": 14,
+      "odds": 99.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018100829",
+      "horse_name": "ウィリアムバローズ",
+      "score": -0.019071870705294494,
+      "horse_number": 1,
+      "odds": 99.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105621",
+      "horse_name": "アウトレンジ",
+      "score": -0.08742480691561115,
+      "horse_number": 9,
+      "odds": 10.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101874",
+      "horse_name": "ペリエール",
+      "score": -0.12614748964917505,
+      "horse_number": 15,
+      "odds": 160.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020103400",
+      "horse_name": "セラフィックコール",
+      "score": -0.17685649062191627,
+      "horse_number": 4,
+      "odds": 110.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2017103290",
+      "horse_name": "ハギノアレグリアス",
+      "score": -0.25757803120681827,
+      "horse_number": 6,
+      "odds": 90.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2016102370",
+      "horse_name": "ヘリオス",
+      "score": -0.3143007822007944,
+      "horse_number": 5,
+      "odds": 223.1
+    }
+  ]
+}

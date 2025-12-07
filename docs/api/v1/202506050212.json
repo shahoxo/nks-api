@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050212",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-07 16:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101684",
+      "horse_name": "ミスティマウンテン",
+      "score": 0.1644839384300809,
+      "horse_number": 11,
+      "odds": 27.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104419",
+      "horse_name": "ローズマイスター",
+      "score": 0.1371925545871463,
+      "horse_number": 16,
+      "odds": 21.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100390",
+      "horse_name": "アバレリュウ",
+      "score": 0.12234580418347353,
+      "horse_number": 13,
+      "odds": 24.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105276",
+      "horse_name": "リザードアイランド",
+      "score": 0.03199168591632712,
+      "horse_number": 1,
+      "odds": 1.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100320",
+      "horse_name": "タキノボリ",
+      "score": 0.00968902073108462,
+      "horse_number": 7,
+      "odds": 21.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101250",
+      "horse_name": "ランスノーブル",
+      "score": -0.07135495597338835,
+      "horse_number": 2,
+      "odds": 29.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103129",
+      "horse_name": "マリンバンカー",
+      "score": -0.11373584450760185,
+      "horse_number": 4,
+      "odds": 34.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104601",
+      "horse_name": "バタール",
+      "score": -0.12525069364515673,
+      "horse_number": 14,
+      "odds": 4.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022107011",
+      "horse_name": "ニシノブレイゼスト",
+      "score": -0.1451459470977446,
+      "horse_number": 15,
+      "odds": 15.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105548",
+      "horse_name": "プロスペクトパーク",
+      "score": -0.18718750917021373,
+      "horse_number": 8,
+      "odds": 16.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106063",
+      "horse_name": "ネオシルバー",
+      "score": -0.20536827912452024,
+      "horse_number": 6,
+      "odds": 44.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102058",
+      "horse_name": "スマートクオーレ",
+      "score": -0.4511838694496758,
+      "horse_number": 12,
+      "odds": 66.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100548",
+      "horse_name": "ヴィーデ",
+      "score": -0.4561886309697084,
+      "horse_number": 3,
+      "odds": 59.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104822",
+      "horse_name": "リボルトバレット",
+      "score": -0.5506325049144988,
+      "horse_number": 9,
+      "odds": 48.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104285",
+      "horse_name": "リーゼントジェイド",
+      "score": -0.5671792507086791,
+      "horse_number": 10,
+      "odds": 95.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021106070",
+      "horse_name": "ブリスフル",
+      "score": -0.5970618435386312,
+      "horse_number": 5,
+      "odds": 128.7
+    }
+  ]
+}
