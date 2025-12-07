@@ -1,0 +1,112 @@
+{
+  "race_id": "202509050209",
+  "race_name": "豊中特別",
+  "race_time": "2025-12-07 14:05",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110069",
+      "horse_name": "ジューンエオス",
+      "score": 0.16836382549162748,
+      "horse_number": 6,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2016100126",
+      "horse_name": "ダディーズトリップ",
+      "score": 0.09815364830299624,
+      "horse_number": 7,
+      "odds": 24.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103002",
+      "horse_name": "アラナコア",
+      "score": 0.06937927553542432,
+      "horse_number": 9,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105931",
+      "horse_name": "ギマール",
+      "score": 0.06059351551755026,
+      "horse_number": 13,
+      "odds": 13.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104622",
+      "horse_name": "メイショウヘール",
+      "score": -0.02952929993834765,
+      "horse_number": 8,
+      "odds": 15.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105984",
+      "horse_name": "モモンウールー",
+      "score": -0.055081007667763776,
+      "horse_number": 10,
+      "odds": 24.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100681",
+      "horse_name": "ジーニアスバローズ",
+      "score": -0.18457161074762865,
+      "horse_number": 5,
+      "odds": 3.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103154",
+      "horse_name": "メイショウカシワデ",
+      "score": -0.21465451705631164,
+      "horse_number": 1,
+      "odds": 14.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103197",
+      "horse_name": "タマモキャリコ",
+      "score": -0.22184159474331555,
+      "horse_number": 4,
+      "odds": 9.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019104636",
+      "horse_name": "シュプリンガー",
+      "score": -0.3006632449610875,
+      "horse_number": 12,
+      "odds": 18.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106359",
+      "horse_name": "バトンインディ",
+      "score": -0.3866920755454263,
+      "horse_number": 11,
+      "odds": 92.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100677",
+      "horse_name": "ヴォルスター",
+      "score": -0.5123784053945442,
+      "horse_number": 3,
+      "odds": 50.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102360",
+      "horse_name": "クリノグローリー",
+      "score": -0.5431529973283721,
+      "horse_number": 2,
+      "odds": 19.9
+    }
+  ]
+}
