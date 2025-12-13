@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050308",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-13 13:35",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103680",
+      "horse_name": "ラファル",
+      "score": 0.3101365507732823,
+      "horse_number": 8,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100327",
+      "horse_name": "ジェミート",
+      "score": 0.14548234099273671,
+      "horse_number": 9,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104967",
+      "horse_name": "サトノシャムロック",
+      "score": 0.10909778280007777,
+      "horse_number": 11,
+      "odds": 16.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104903",
+      "horse_name": "セボンサデッセ",
+      "score": 0.05765195648706875,
+      "horse_number": 4,
+      "odds": 3.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103474",
+      "horse_name": "シュニー",
+      "score": 0.003901793296975654,
+      "horse_number": 3,
+      "odds": 20.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105694",
+      "horse_name": "オリーブグリーン",
+      "score": -0.017825552930057765,
+      "horse_number": 10,
+      "odds": 5.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102052",
+      "horse_name": "セルズパワー",
+      "score": -0.03289686029834547,
+      "horse_number": 6,
+      "odds": 24.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022107167",
+      "horse_name": "リュキア",
+      "score": -0.06491139820779114,
+      "horse_number": 5,
+      "odds": 28.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106631",
+      "horse_name": "バシリス",
+      "score": -0.24319298761297287,
+      "horse_number": 7,
+      "odds": 17.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104775",
+      "horse_name": "エルオンセ",
+      "score": -0.32541966725024096,
+      "horse_number": 1,
+      "odds": 73.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021107123",
+      "horse_name": "イイデカンタロウ",
+      "score": -0.41250292130276023,
+      "horse_number": 12,
+      "odds": 19.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104205",
+      "horse_name": "ブルーカミング",
+      "score": -0.4336075608896999,
+      "horse_number": 2,
+      "odds": 162.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100426",
+      "horse_name": "2022100426",
+      "score": -0.4373125640186424,
+      "horse_number": 15,
+      "odds": 50.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106438",
+      "horse_name": "タマモブラウンタイ",
+      "score": -0.5154304024609406,
+      "horse_number": 16,
+      "odds": 39.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101548",
+      "horse_name": "アスタールテニウム",
+      "score": -0.5773126145202561,
+      "horse_number": 14,
+      "odds": 72.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103529",
+      "horse_name": "エコロヴァルム",
+      "score": -0.5929697636538359,
+      "horse_number": 13,
+      "odds": 164.7
+    }
+  ]
+}

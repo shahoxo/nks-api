@@ -1,0 +1,80 @@
+{
+  "race_id": "202509050309",
+  "race_name": "エリカ賞",
+  "race_time": "2025-12-13 14:05",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106887",
+      "horse_name": "ストロベリーツリー",
+      "score": 0.4448616093068254,
+      "horse_number": 1,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106983",
+      "horse_name": "ベレシート",
+      "score": 0.2790004705462119,
+      "horse_number": 8,
+      "odds": 1.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107368",
+      "horse_name": "コロナドブリッジ",
+      "score": 0.2771067210874011,
+      "horse_number": 7,
+      "odds": 13.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104389",
+      "horse_name": "フリーガー",
+      "score": 0.14677311419355063,
+      "horse_number": 4,
+      "odds": 17.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103817",
+      "horse_name": "ブレナヴォン",
+      "score": 0.06757072141799193,
+      "horse_number": 3,
+      "odds": 5.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102477",
+      "horse_name": "ストロングエース",
+      "score": -0.007688589777980732,
+      "horse_number": 5,
+      "odds": 95.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101090",
+      "horse_name": "ジャストビート",
+      "score": -0.01856402823410641,
+      "horse_number": 2,
+      "odds": 95.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100521",
+      "horse_name": "ディーリライズ",
+      "score": -0.23895280822878304,
+      "horse_number": 9,
+      "odds": 50.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106921",
+      "horse_name": "ブルースカイブルー",
+      "score": -0.2544093686379117,
+      "horse_number": 6,
+      "odds": 28.8
+    }
+  ]
+}

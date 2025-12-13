@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050308",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-13 13:55",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104890",
+      "horse_name": "エンダードラゴン",
+      "score": 0.2822294861843657,
+      "horse_number": 9,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102624",
+      "horse_name": "エイシンマールス",
+      "score": 0.09574979234276089,
+      "horse_number": 16,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105242",
+      "horse_name": "フォースミラクル",
+      "score": 0.01170163657399589,
+      "horse_number": 1,
+      "odds": 10.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104910",
+      "horse_name": "レイザリオ",
+      "score": -0.012536037999664244,
+      "horse_number": 5,
+      "odds": 16.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100622",
+      "horse_name": "マジックローズ",
+      "score": -0.03855344648735498,
+      "horse_number": 3,
+      "odds": 7.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105321",
+      "horse_name": "ハウリングウィンド",
+      "score": -0.14085717248766783,
+      "horse_number": 15,
+      "odds": 19.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106656",
+      "horse_name": "ハッピーウィズユー",
+      "score": -0.14479067998514022,
+      "horse_number": 10,
+      "odds": 22.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103292",
+      "horse_name": "ハレアカラフラ",
+      "score": -0.18123804190938134,
+      "horse_number": 2,
+      "odds": 23.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102910",
+      "horse_name": "ハイクライテリア",
+      "score": -0.1875345409365416,
+      "horse_number": 14,
+      "odds": 27.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103577",
+      "horse_name": "リッキースタイル",
+      "score": -0.22938484529647318,
+      "horse_number": 4,
+      "odds": 20.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106719",
+      "horse_name": "アスクザアメリカン",
+      "score": -0.35866721028778303,
+      "horse_number": 13,
+      "odds": 56.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104900",
+      "horse_name": "クロユキ",
+      "score": -0.3760028206011953,
+      "horse_number": 11,
+      "odds": 24.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103453",
+      "horse_name": "ラブミーナッソー",
+      "score": -0.40135926315348847,
+      "horse_number": 7,
+      "odds": 13.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103285",
+      "horse_name": "バトンロード",
+      "score": -0.4796133061418332,
+      "horse_number": 6,
+      "odds": 66.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019106520",
+      "horse_name": "スノーホルンロード",
+      "score": -0.48950671513679844,
+      "horse_number": 12,
+      "odds": 39.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021101430",
+      "horse_name": "プロスペクト",
+      "score": -0.5768133336183507,
+      "horse_number": 8,
+      "odds": 25.1
+    }
+  ]
+}
