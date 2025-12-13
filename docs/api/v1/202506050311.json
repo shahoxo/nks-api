@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050311",
+  "race_name": "常総S",
+  "race_time": "2025-12-13 15:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102391",
+      "horse_name": "グーテンベルク",
+      "score": 0.20224857180957712,
+      "horse_number": 3,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105788",
+      "horse_name": "バロネッサ",
+      "score": 0.09114190590147289,
+      "horse_number": 14,
+      "odds": 14.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101329",
+      "horse_name": "フクノブルーレイク",
+      "score": 0.035806938046823195,
+      "horse_number": 10,
+      "odds": 8.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104550",
+      "horse_name": "ワイドアラジン",
+      "score": -0.020620836317902763,
+      "horse_number": 4,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105578",
+      "horse_name": "ショウナンラピダス",
+      "score": -0.0242638831285475,
+      "horse_number": 8,
+      "odds": 5.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103486",
+      "horse_name": "トラマンダーレ",
+      "score": -0.056858430347113895,
+      "horse_number": 12,
+      "odds": 20.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105953",
+      "horse_name": "ライトバック",
+      "score": -0.05855678140369798,
+      "horse_number": 5,
+      "odds": 8.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106766",
+      "horse_name": "マイネルオーシャン",
+      "score": -0.09299633196429158,
+      "horse_number": 11,
+      "odds": 26.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106816",
+      "horse_name": "マイネルブリックス",
+      "score": -0.12412904856579063,
+      "horse_number": 15,
+      "odds": 19.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106966",
+      "horse_name": "ピンクジン",
+      "score": -0.21576010206532706,
+      "horse_number": 13,
+      "odds": 45.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100809",
+      "horse_name": "アマイ",
+      "score": -0.21924857044179488,
+      "horse_number": 6,
+      "odds": 11.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104326",
+      "horse_name": "ユキノロイヤル",
+      "score": -0.2431622565531638,
+      "horse_number": 7,
+      "odds": 12.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019100768",
+      "horse_name": "マイネルニコラス",
+      "score": -0.4116556764207821,
+      "horse_number": 16,
+      "odds": 68.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100495",
+      "horse_name": "ドラゴンヘッド",
+      "score": -0.42288974551760977,
+      "horse_number": 1,
+      "odds": 54.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019104159",
+      "horse_name": "カヨウネンカ",
+      "score": -0.4563101247415864,
+      "horse_number": 2,
+      "odds": 81.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018105157",
+      "horse_name": "ディープリッチ",
+      "score": -0.47575582570138586,
+      "horse_number": 9,
+      "odds": 142.8
+    }
+  ]
+}

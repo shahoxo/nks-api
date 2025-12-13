@@ -1,0 +1,112 @@
+{
+  "race_id": "202509050311",
+  "race_name": "リゲルS",
+  "race_time": "2025-12-13 15:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105423",
+      "horse_name": "シヴァース",
+      "score": 0.47522745755908846,
+      "horse_number": 11,
+      "odds": 7.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105864",
+      "horse_name": "ワールズエンド",
+      "score": 0.46643349509886156,
+      "horse_number": 6,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105283",
+      "horse_name": "ブルーミンデザイン",
+      "score": 0.27598145452840506,
+      "horse_number": 8,
+      "odds": 8.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105817",
+      "horse_name": "ダノンエアズロック",
+      "score": 0.2648625906650961,
+      "horse_number": 2,
+      "odds": 15.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103051",
+      "horse_name": "ヤンキーバローズ",
+      "score": 0.24826911724272788,
+      "horse_number": 13,
+      "odds": 14.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104401",
+      "horse_name": "ランスオブカオス",
+      "score": 0.21458780761675178,
+      "horse_number": 10,
+      "odds": 2.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103464",
+      "horse_name": "ゴートゥファースト",
+      "score": 0.19111938428613534,
+      "horse_number": 9,
+      "odds": 23.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100139",
+      "horse_name": "クランフォード",
+      "score": 0.029927311843138665,
+      "horse_number": 1,
+      "odds": 30.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021110128",
+      "horse_name": "アッシュルバニパル",
+      "score": -0.021833119192185085,
+      "horse_number": 5,
+      "odds": 76.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018106318",
+      "horse_name": "メイショウシンタケ",
+      "score": -0.07753622782123185,
+      "horse_number": 12,
+      "odds": 39.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019101408",
+      "horse_name": "ニシノスーベニア",
+      "score": -0.14575627655273848,
+      "horse_number": 4,
+      "odds": 14.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019106670",
+      "horse_name": "セルバーグ",
+      "score": -0.34679777162756514,
+      "horse_number": 7,
+      "odds": 55.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020107001",
+      "horse_name": "キョウエイブリッサ",
+      "score": -0.3995339379600354,
+      "horse_number": 3,
+      "odds": 42.1
+    }
+  ]
+}
