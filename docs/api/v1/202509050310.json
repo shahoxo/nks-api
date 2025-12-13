@@ -1,0 +1,120 @@
+{
+  "race_id": "202509050310",
+  "race_name": "赤穂特別",
+  "race_time": "2025-12-13 14:40",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106186",
+      "horse_name": "ゴッドエスパーダ",
+      "score": 0.3149068313280894,
+      "horse_number": 4,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105987",
+      "horse_name": "アートレスマインド",
+      "score": 0.2975953989447742,
+      "horse_number": 11,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106694",
+      "horse_name": "ソウルアンドジャズ",
+      "score": 0.11859944561643644,
+      "horse_number": 6,
+      "odds": 3.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110097",
+      "horse_name": "ブルーワール",
+      "score": 0.06835893096533284,
+      "horse_number": 7,
+      "odds": 8.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102572",
+      "horse_name": "メイショウオオコ",
+      "score": 0.026169225921319865,
+      "horse_number": 13,
+      "odds": 46.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101226",
+      "horse_name": "クリノフィガロ",
+      "score": 0.02467706564317949,
+      "horse_number": 14,
+      "odds": 9.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104622",
+      "horse_name": "メイショウヘール",
+      "score": -0.17407186487044424,
+      "horse_number": 5,
+      "odds": 34.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102436",
+      "horse_name": "レッドリベルタ",
+      "score": -0.2032532372065257,
+      "horse_number": 9,
+      "odds": 9.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105228",
+      "horse_name": "ジョウショーパワー",
+      "score": -0.3436631474134739,
+      "horse_number": 3,
+      "odds": 39.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102993",
+      "horse_name": "ポルポラジール",
+      "score": -0.3734673002892387,
+      "horse_number": 10,
+      "odds": 25.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2017103184",
+      "horse_name": "トゥルブレンシア",
+      "score": -0.4064408063291357,
+      "horse_number": 12,
+      "odds": 47.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101419",
+      "horse_name": "オーシンハーフ",
+      "score": -0.45879400690560734,
+      "horse_number": 8,
+      "odds": 24.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019106573",
+      "horse_name": "ヒルノデプラーツ",
+      "score": -0.46755597633126733,
+      "horse_number": 1,
+      "odds": 144.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104126",
+      "horse_name": "サラサハウプリティ",
+      "score": -0.5522811341738593,
+      "horse_number": 2,
+      "odds": 72.3
+    }
+  ]
+}

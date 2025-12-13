@@ -1,0 +1,112 @@
+{
+  "race_id": "202506050309",
+  "race_name": "黒松賞",
+  "race_time": "2025-12-13 14:15",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103032",
+      "horse_name": "ロンドンオービタル",
+      "score": 0.2205331546898761,
+      "horse_number": 5,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100479",
+      "horse_name": "ディヴァインスカイ",
+      "score": 0.14616164853549055,
+      "horse_number": 7,
+      "odds": 13.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104909",
+      "horse_name": "レオアジャイル",
+      "score": 0.11025174757475323,
+      "horse_number": 6,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106823",
+      "horse_name": "マイオウンウェイ",
+      "score": 0.10351202231965433,
+      "horse_number": 12,
+      "odds": 20.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103710",
+      "horse_name": "ハイヤーマーク",
+      "score": 0.08797240547530058,
+      "horse_number": 2,
+      "odds": 5.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103355",
+      "horse_name": "クリエープキー",
+      "score": 0.08095257716917918,
+      "horse_number": 10,
+      "odds": 13.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103557",
+      "horse_name": "ラテラルパーム",
+      "score": 0.06121068429102025,
+      "horse_number": 13,
+      "odds": 13.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105128",
+      "horse_name": "ヤマメライズ",
+      "score": 0.04410162851692995,
+      "horse_number": 9,
+      "odds": 5.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102897",
+      "horse_name": "プリティーミズホ",
+      "score": -0.06118349565640386,
+      "horse_number": 3,
+      "odds": 19.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103037",
+      "horse_name": "コパノトーマス",
+      "score": -0.0673458630393688,
+      "horse_number": 11,
+      "odds": 14.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105203",
+      "horse_name": "マーブルパレス",
+      "score": -0.08233524653906678,
+      "horse_number": 1,
+      "odds": 9.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100728",
+      "horse_name": "リネンタイリン",
+      "score": -0.5321616921100607,
+      "horse_number": 8,
+      "odds": 33.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106405",
+      "horse_name": "コックオーヴァン",
+      "score": -0.5539673065724575,
+      "horse_number": 4,
+      "odds": 19.4
+    }
+  ]
+}
