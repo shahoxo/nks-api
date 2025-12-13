@@ -1,0 +1,72 @@
+{
+  "race_id": "202509050307",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-13 13:05",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107016",
+      "horse_name": "サリエンテ",
+      "score": 0.3816619107064355,
+      "horse_number": 2,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100371",
+      "horse_name": "スパルタンエックス",
+      "score": 0.251868831560978,
+      "horse_number": 8,
+      "odds": 9.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104370",
+      "horse_name": "スフィダンテ",
+      "score": 0.2510020868467304,
+      "horse_number": 3,
+      "odds": 13.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106440",
+      "horse_name": "パーヴォ",
+      "score": 0.05802403637966512,
+      "horse_number": 7,
+      "odds": 6.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102707",
+      "horse_name": "ヨカオウ",
+      "score": 0.01644897994101753,
+      "horse_number": 5,
+      "odds": 6.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103368",
+      "horse_name": "ゴリョウセイ",
+      "score": -0.024671925922618927,
+      "horse_number": 1,
+      "odds": 27.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101577",
+      "horse_name": "フレイムスター",
+      "score": -0.16383713507904546,
+      "horse_number": 6,
+      "odds": 47.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102677",
+      "horse_name": "シシリアンフラッグ",
+      "score": -0.6794757848016343,
+      "horse_number": 4,
+      "odds": 74.1
+    }
+  ]
+}

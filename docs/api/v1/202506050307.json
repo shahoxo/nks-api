@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050307",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-13 13:15",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101864",
+      "horse_name": "マオノクラッシュ",
+      "score": 0.16528840417686708,
+      "horse_number": 4,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104619",
+      "horse_name": "ヘルヴェティオス",
+      "score": 0.08485416575837122,
+      "horse_number": 16,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020104135",
+      "horse_name": "トルズイーガー",
+      "score": 0.05716670223518433,
+      "horse_number": 9,
+      "odds": 59.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021109016",
+      "horse_name": "エフエイト",
+      "score": 0.03601528814161206,
+      "horse_number": 6,
+      "odds": 8.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105373",
+      "horse_name": "パレスドフィーヌ",
+      "score": 0.03091437170335474,
+      "horse_number": 13,
+      "odds": 10.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105474",
+      "horse_name": "シャドウキャッスル",
+      "score": -0.040093374764036877,
+      "horse_number": 2,
+      "odds": 5.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019103308",
+      "horse_name": "カフェベラノッテ",
+      "score": -0.10363390789994648,
+      "horse_number": 11,
+      "odds": 28.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100028",
+      "horse_name": "フェスタリア",
+      "score": -0.21249611773504973,
+      "horse_number": 5,
+      "odds": 6.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106874",
+      "horse_name": "ナムラトロム",
+      "score": -0.33093940367142965,
+      "horse_number": 14,
+      "odds": 59.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101464",
+      "horse_name": "レイユール",
+      "score": -0.3315758376674961,
+      "horse_number": 8,
+      "odds": 7.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105300",
+      "horse_name": "ブリックンクリック",
+      "score": -0.40373511390483663,
+      "horse_number": 12,
+      "odds": 34.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106926",
+      "horse_name": "ナインオブレター",
+      "score": -0.5038649445785076,
+      "horse_number": 7,
+      "odds": 32.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021107012",
+      "horse_name": "キングプロフィット",
+      "score": -0.5094440263516602,
+      "horse_number": 1,
+      "odds": 116.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105525",
+      "horse_name": "カツノテンス",
+      "score": -0.5773477075261569,
+      "horse_number": 3,
+      "odds": 161.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102269",
+      "horse_name": "ツィスカリーゼ",
+      "score": -0.5833309696314021,
+      "horse_number": 15,
+      "odds": 78.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101956",
+      "horse_name": "ジェイエルトランス",
+      "score": -0.6293301629666437,
+      "horse_number": 10,
+      "odds": 64.9
+    }
+  ]
+}

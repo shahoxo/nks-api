@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050306",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-13 12:55",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103226",
+      "horse_name": "ウエヲムイテゴラン",
+      "score": 0.1677443114768033,
+      "horse_number": 3,
+      "odds": 4.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104800",
+      "horse_name": "ブルージュ",
+      "score": 0.1145868652204662,
+      "horse_number": 13,
+      "odds": 9.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105267",
+      "horse_name": "サウンドルーチェ",
+      "score": 0.09836824936890445,
+      "horse_number": 16,
+      "odds": 11.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105100",
+      "horse_name": "フォンデネージュ",
+      "score": 0.07846126870727178,
+      "horse_number": 11,
+      "odds": 5.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105401",
+      "horse_name": "ドルフィンスルー",
+      "score": -0.052973220511803615,
+      "horse_number": 5,
+      "odds": 20.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101580",
+      "horse_name": "ビジュードネージュ",
+      "score": -0.05333462342857391,
+      "horse_number": 8,
+      "odds": 34.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105925",
+      "horse_name": "フィールオーサム",
+      "score": -0.056027452334031495,
+      "horse_number": 2,
+      "odds": 6.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105813",
+      "horse_name": "ルージュミレネール",
+      "score": -0.2056759627071712,
+      "horse_number": 12,
+      "odds": 24.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104850",
+      "horse_name": "セージグリーン",
+      "score": -0.2913956599803518,
+      "horse_number": 9,
+      "odds": 26.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104264",
+      "horse_name": "ライヴスプーン",
+      "score": -0.31310211887709566,
+      "horse_number": 6,
+      "odds": 14.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103228",
+      "horse_name": "メイショウハマギク",
+      "score": -0.40307286639115836,
+      "horse_number": 15,
+      "odds": 38.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019100844",
+      "horse_name": "ミツカネヴィーナス",
+      "score": -0.47630011015033125,
+      "horse_number": 7,
+      "odds": 101.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022109090",
+      "horse_name": "プロピエダッド",
+      "score": -0.486926706206825,
+      "horse_number": 4,
+      "odds": 89.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105772",
+      "horse_name": "カロローザ",
+      "score": -0.5491501395383548,
+      "horse_number": 10,
+      "odds": 14.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104754",
+      "horse_name": "ベルフィーヌ",
+      "score": -0.5945546677764488,
+      "horse_number": 14,
+      "odds": 10.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103236",
+      "horse_name": "コンバットペスカ",
+      "score": -0.6053512024827115,
+      "horse_number": 1,
+      "odds": 12.3
+    }
+  ]
+}
