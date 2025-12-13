@@ -1,0 +1,152 @@
+{
+  "race_id": "202507050312",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-13 16:25",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106905",
+      "horse_name": "ワインクーラー",
+      "score": 0.23195308075813165,
+      "horse_number": 17,
+      "odds": 10.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100271",
+      "horse_name": "フォティック",
+      "score": 0.19647142220572006,
+      "horse_number": 9,
+      "odds": 13.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103155",
+      "horse_name": "タイキオーベロン",
+      "score": 0.1456115024692914,
+      "horse_number": 6,
+      "odds": 12.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105067",
+      "horse_name": "ミリオンローズ",
+      "score": 0.14438941842764125,
+      "horse_number": 2,
+      "odds": 5.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106756",
+      "horse_name": "ブルーレース",
+      "score": 0.044663912470286636,
+      "horse_number": 16,
+      "odds": 7.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102406",
+      "horse_name": "ヒットザグラウンド",
+      "score": 0.01768600437660919,
+      "horse_number": 4,
+      "odds": 4.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103073",
+      "horse_name": "サウンドレイラ",
+      "score": 0.009388417336699983,
+      "horse_number": 14,
+      "odds": 12.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019104746",
+      "horse_name": "イヴニングスター",
+      "score": -0.10660919008302379,
+      "horse_number": 11,
+      "odds": 8.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102401",
+      "horse_name": "グランテレーズ",
+      "score": -0.16772655136436176,
+      "horse_number": 8,
+      "odds": 32.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104874",
+      "horse_name": "ホウオウガイア",
+      "score": -0.18806188696910375,
+      "horse_number": 1,
+      "odds": 12.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100962",
+      "horse_name": "クイーンズデイ",
+      "score": -0.19748524290864652,
+      "horse_number": 7,
+      "odds": 16.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102717",
+      "horse_name": "ジャグアール",
+      "score": -0.2790078218722982,
+      "horse_number": 5,
+      "odds": 98.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106395",
+      "horse_name": "ハッピーサプライズ",
+      "score": -0.32947125227987706,
+      "horse_number": 18,
+      "odds": 40.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104870",
+      "horse_name": "フクシマコウヨウ",
+      "score": -0.3900587422477329,
+      "horse_number": 3,
+      "odds": 43.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019103672",
+      "horse_name": "フーレイ",
+      "score": -0.41681291932501363,
+      "horse_number": 15,
+      "odds": 143.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104806",
+      "horse_name": "レオナルドスター",
+      "score": -0.4202842329919897,
+      "horse_number": 12,
+      "odds": 80.5
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022105689",
+      "horse_name": "ヴァリアントマーチ",
+      "score": -0.46519124183939276,
+      "horse_number": 13,
+      "odds": 80.3
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022100737",
+      "horse_name": "セイウンビッグバン",
+      "score": -0.5409515060713891,
+      "horse_number": 10,
+      "odds": 84.3
+    }
+  ]
+}
