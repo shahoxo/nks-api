@@ -1,0 +1,112 @@
+{
+  "race_id": "202507050304",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-13 11:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102814",
+      "horse_name": "イージーライダー",
+      "score": 0.1798656722176754,
+      "horse_number": 6,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104402",
+      "horse_name": "ムスクレスト",
+      "score": 0.16525514749834816,
+      "horse_number": 5,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104805",
+      "horse_name": "オプティモ",
+      "score": 0.04129625868627472,
+      "horse_number": 3,
+      "odds": 8.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101867",
+      "horse_name": "ウォーターブビンガ",
+      "score": -0.012189138486420063,
+      "horse_number": 13,
+      "odds": 13.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106766",
+      "horse_name": "チュウワメロディー",
+      "score": -0.01775644751975375,
+      "horse_number": 11,
+      "odds": 11.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102088",
+      "horse_name": "ライトフライヤー",
+      "score": -0.12611115189030309,
+      "horse_number": 7,
+      "odds": 10.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104990",
+      "horse_name": "ロジャートアリー",
+      "score": -0.14239897472450888,
+      "horse_number": 10,
+      "odds": 14.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101557",
+      "horse_name": "シンデレラガール",
+      "score": -0.1706166443792147,
+      "horse_number": 9,
+      "odds": 12.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104611",
+      "horse_name": "ゼンノスタニング",
+      "score": -0.21045842862720798,
+      "horse_number": 8,
+      "odds": 10.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102455",
+      "horse_name": "オンザムービー",
+      "score": -0.35326405560471486,
+      "horse_number": 1,
+      "odds": 64.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102941",
+      "horse_name": "フォーエバーラブ",
+      "score": -0.5670515164495529,
+      "horse_number": 2,
+      "odds": 102.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104200",
+      "horse_name": "マジックオーラ",
+      "score": -0.6181274288639754,
+      "horse_number": 12,
+      "odds": 65.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105736",
+      "horse_name": "ルビーブロンド",
+      "score": -0.6753549706363744,
+      "horse_number": 4,
+      "odds": 52.7
+    }
+  ]
+}
