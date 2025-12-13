@@ -1,0 +1,352 @@
+[
+  {
+    "race_id": "202506050301",
+    "race_name": "2歳未勝利",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 9,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 09:55:00 +0900"
+  },
+  {
+    "race_id": "202506050302",
+    "race_name": "2歳未勝利",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 9,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 10:25:00 +0900"
+  },
+  {
+    "race_id": "202506050303",
+    "race_name": "2歳未勝利",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 9,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 10:55:00 +0900"
+  },
+  {
+    "race_id": "202506050304",
+    "race_name": "2歳未勝利",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 9,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 11:25:00 +0900"
+  },
+  {
+    "race_id": "202506050305",
+    "race_name": "2歳新馬",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 8,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 12:15:00 +0900"
+  },
+  {
+    "race_id": "202506050306",
+    "race_name": "2歳新馬",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 8,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 12:45:00 +0900"
+  },
+  {
+    "race_id": "202506050307",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 7,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 13:15:00 +0900"
+  },
+  {
+    "race_id": "202506050308",
+    "race_name": "3歳以上2勝クラス",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 6,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 13:45:00 +0900"
+  },
+  {
+    "race_id": "202506050309",
+    "race_name": "黒松賞",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 7,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 14:15:00 +0900"
+  },
+  {
+    "race_id": "202506050310",
+    "race_name": "アクアライン",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 5,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 14:50:00 +0900"
+  },
+  {
+    "race_id": "202506050311",
+    "race_name": "常総S",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 5,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 15:30:00 +0900"
+  },
+  {
+    "race_id": "202506050312",
+    "race_name": "3歳以上2勝クラス",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 6,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 16:10:00 +0900"
+  },
+  {
+    "race_id": "202509050301",
+    "race_name": "2歳未勝利",
+    "distance": 1400,
+    "track_surface": 2,
+    "race_place": "阪神",
+    "race_grade": 9,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 09:45:00 +0900"
+  },
+  {
+    "race_id": "202509050302",
+    "race_name": "2歳未勝利",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "阪神",
+    "race_grade": 9,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 10:15:00 +0900"
+  },
+  {
+    "race_id": "202509050303",
+    "race_name": "2歳未勝利",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "阪神",
+    "race_grade": 9,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 10:45:00 +0900"
+  },
+  {
+    "race_id": "202509050305",
+    "race_name": "2歳新馬",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "阪神",
+    "race_grade": 8,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 12:05:00 +0900"
+  },
+  {
+    "race_id": "202509050306",
+    "race_name": "2歳新馬",
+    "distance": 1400,
+    "track_surface": 2,
+    "race_place": "阪神",
+    "race_grade": 8,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 12:35:00 +0900"
+  },
+  {
+    "race_id": "202509050307",
+    "race_name": "2歳未勝利",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "阪神",
+    "race_grade": 9,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 13:05:00 +0900"
+  },
+  {
+    "race_id": "202509050308",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1400,
+    "track_surface": 2,
+    "race_place": "阪神",
+    "race_grade": 7,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 13:35:00 +0900"
+  },
+  {
+    "race_id": "202509050309",
+    "race_name": "エリカ賞",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "阪神",
+    "race_grade": 7,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 14:05:00 +0900"
+  },
+  {
+    "race_id": "202509050310",
+    "race_name": "赤穂特別",
+    "distance": 2000,
+    "track_surface": 2,
+    "race_place": "阪神",
+    "race_grade": 6,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 14:40:00 +0900"
+  },
+  {
+    "race_id": "202509050311",
+    "race_name": "リゲルS",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "阪神",
+    "race_grade": 11,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 15:15:00 +0900"
+  },
+  {
+    "race_id": "202509050312",
+    "race_name": "3歳以上2勝クラス",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "阪神",
+    "race_grade": 6,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 16:01:00 +0900"
+  },
+  {
+    "race_id": "202507050301",
+    "race_name": "2歳未勝利",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "中京",
+    "race_grade": 9,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 10:05:00 +0900"
+  },
+  {
+    "race_id": "202507050302",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "中京",
+    "race_grade": 7,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 10:35:00 +0900"
+  },
+  {
+    "race_id": "202507050303",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1900,
+    "track_surface": 2,
+    "race_place": "中京",
+    "race_grade": 7,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 11:05:00 +0900"
+  },
+  {
+    "race_id": "202507050304",
+    "race_name": "2歳未勝利",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "中京",
+    "race_grade": 9,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 11:35:00 +0900"
+  },
+  {
+    "race_id": "202507050305",
+    "race_name": "2歳新馬",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "中京",
+    "race_grade": 8,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 12:25:00 +0900"
+  },
+  {
+    "race_id": "202507050306",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "中京",
+    "race_grade": 7,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 12:55:00 +0900"
+  },
+  {
+    "race_id": "202507050307",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 2200,
+    "track_surface": 1,
+    "race_place": "中京",
+    "race_grade": 7,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 13:25:00 +0900"
+  },
+  {
+    "race_id": "202507050308",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1400,
+    "track_surface": 2,
+    "race_place": "中京",
+    "race_grade": 7,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 13:55:00 +0900"
+  },
+  {
+    "race_id": "202507050309",
+    "race_name": "つわぶき賞",
+    "distance": 1400,
+    "track_surface": 1,
+    "race_place": "中京",
+    "race_grade": 7,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 14:25:00 +0900"
+  },
+  {
+    "race_id": "202507050310",
+    "race_name": "鳴海特別",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "中京",
+    "race_grade": 6,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 15:01:00 +0900"
+  },
+  {
+    "race_id": "202507050311",
+    "race_name": "中日新聞杯",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "中京",
+    "race_grade": 3,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 15:45:00 +0900"
+  },
+  {
+    "race_id": "202507050312",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "中京",
+    "race_grade": 7,
+    "race_date": "2025-12-13",
+    "race_time": "2025-12-13 16:25:00 +0900"
+  }
+]
