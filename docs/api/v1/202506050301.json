@@ -1,0 +1,120 @@
+{
+  "race_id": "202506050301",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-13 09:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107223",
+      "horse_name": "フローライト",
+      "score": 0.11461113008830416,
+      "horse_number": 6,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102399",
+      "horse_name": "アクロスメモリア",
+      "score": 0.1139474504090348,
+      "horse_number": 5,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106965",
+      "horse_name": "ソチミルコ",
+      "score": 0.05736495388030455,
+      "horse_number": 2,
+      "odds": 4.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106332",
+      "horse_name": "ジーティージェミル",
+      "score": -0.21612104684225295,
+      "horse_number": 14,
+      "odds": 4.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104438",
+      "horse_name": "ヘヴンズドライブ",
+      "score": -0.4686526051430938,
+      "horse_number": 7,
+      "odds": 122.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104810",
+      "horse_name": "ミュージックレイン",
+      "score": -0.5282523706627275,
+      "horse_number": 4,
+      "odds": 9.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100924",
+      "horse_name": "マメーアップル",
+      "score": -0.537285761313925,
+      "horse_number": 13,
+      "odds": 10.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106777",
+      "horse_name": "ジェンダウィナー",
+      "score": -0.5525334124541852,
+      "horse_number": 8,
+      "odds": 132.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101039",
+      "horse_name": "ベアアッコチャン",
+      "score": -0.5741361404475822,
+      "horse_number": 1,
+      "odds": 13.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106604",
+      "horse_name": "ブルーアンバー",
+      "score": -0.5844092227108343,
+      "horse_number": 3,
+      "odds": 143.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100280",
+      "horse_name": "クールフィールド",
+      "score": -0.6037273205227134,
+      "horse_number": 12,
+      "odds": 87.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101489",
+      "horse_name": "スウィートラキ",
+      "score": -0.6336370845533565,
+      "horse_number": 10,
+      "odds": 97.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102783",
+      "horse_name": "ソワンドヴィクター",
+      "score": -0.6665961087376128,
+      "horse_number": 11,
+      "odds": 200.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101964",
+      "horse_name": "フクシマエクラ",
+      "score": -0.7560238565797833,
+      "horse_number": 9,
+      "odds": 210.4
+    }
+  ]
+}

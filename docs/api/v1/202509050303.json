@@ -1,0 +1,120 @@
+{
+  "race_id": "202509050303",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-13 10:45",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106824",
+      "horse_name": "ベルグランボヌール",
+      "score": 0.22722079240289725,
+      "horse_number": 14,
+      "odds": 8.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102408",
+      "horse_name": "リネアベルタ",
+      "score": -0.0012337860460484096,
+      "horse_number": 2,
+      "odds": 27.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102889",
+      "horse_name": "エボニードール",
+      "score": -0.05628423674636729,
+      "horse_number": 4,
+      "odds": 20.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104093",
+      "horse_name": "ハナイロマヒナ",
+      "score": -0.08647855420512252,
+      "horse_number": 6,
+      "odds": 8.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107517",
+      "horse_name": "ジャスパーメルチェ",
+      "score": -0.11990324979988,
+      "horse_number": 12,
+      "odds": 3.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102606",
+      "horse_name": "ミヤフロント",
+      "score": -0.14479934754269788,
+      "horse_number": 11,
+      "odds": 35.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106320",
+      "horse_name": "ワイドカクゲン",
+      "score": -0.16288349011766723,
+      "horse_number": 5,
+      "odds": 4.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105868",
+      "horse_name": "ナクソス",
+      "score": -0.1837563477634871,
+      "horse_number": 3,
+      "odds": 7.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102899",
+      "horse_name": "ルビーエクリプス",
+      "score": -0.20277629578265727,
+      "horse_number": 8,
+      "odds": 12.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103955",
+      "horse_name": "ノブステップ",
+      "score": -0.22930648693487188,
+      "horse_number": 7,
+      "odds": 14.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104750",
+      "horse_name": "サウンドプリモ",
+      "score": -0.4501826773369444,
+      "horse_number": 1,
+      "odds": 33.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100354",
+      "horse_name": "ニシノセイエス",
+      "score": -0.4874674240524842,
+      "horse_number": 10,
+      "odds": 45.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104140",
+      "horse_name": "セイカユウヒ",
+      "score": -0.5569455168514427,
+      "horse_number": 9,
+      "odds": 85.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023107393",
+      "horse_name": "プグナファータ",
+      "score": -0.6360304043193064,
+      "horse_number": 13,
+      "odds": 95.2
+    }
+  ]
+}

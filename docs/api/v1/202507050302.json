@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050302",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-13 10:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101315",
+      "horse_name": "スタンピー",
+      "score": 0.11295418042331822,
+      "horse_number": 1,
+      "odds": 9.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105535",
+      "horse_name": "デルマエアロール",
+      "score": 0.09122212345211055,
+      "horse_number": 2,
+      "odds": 26.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103451",
+      "horse_name": "プルミエールパス",
+      "score": 0.08113708131114894,
+      "horse_number": 9,
+      "odds": 8.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104671",
+      "horse_name": "ミライハーモニー",
+      "score": 0.07519327110526197,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019105287",
+      "horse_name": "フォンメイリー",
+      "score": -0.16950637801174412,
+      "horse_number": 8,
+      "odds": 19.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021107166",
+      "horse_name": "イラーナ",
+      "score": -0.1991719575395511,
+      "horse_number": 15,
+      "odds": 12.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106332",
+      "horse_name": "ミルミナーヴァ",
+      "score": -0.22797115531321524,
+      "horse_number": 14,
+      "odds": 9.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103195",
+      "horse_name": "ヴェントインコーダ",
+      "score": -0.24498480145702273,
+      "horse_number": 3,
+      "odds": 3.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103837",
+      "horse_name": "クインズシャウラ",
+      "score": -0.28981329843505854,
+      "horse_number": 12,
+      "odds": 12.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102091",
+      "horse_name": "ノビル",
+      "score": -0.3511334368022605,
+      "horse_number": 7,
+      "odds": 22.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100583",
+      "horse_name": "レディエンス",
+      "score": -0.39417483471566006,
+      "horse_number": 16,
+      "odds": 20.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104303",
+      "horse_name": "ナムラペルル",
+      "score": -0.4515792950195874,
+      "horse_number": 13,
+      "odds": 14.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103737",
+      "horse_name": "シューンカイゼリン",
+      "score": -0.48041825552337836,
+      "horse_number": 11,
+      "odds": 99.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106637",
+      "horse_name": "ラヴェンデル",
+      "score": -0.481833511802642,
+      "horse_number": 6,
+      "odds": 84.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102963",
+      "horse_name": "メイショウタマユラ",
+      "score": -0.5135219911725305,
+      "horse_number": 4,
+      "odds": 32.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103018",
+      "horse_name": "シェーンルスカ",
+      "score": -0.6533614053964997,
+      "horse_number": 10,
+      "odds": 102.4
+    }
+  ]
+}
