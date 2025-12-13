@@ -1,0 +1,128 @@
+{
+  "race_id": "202506050310",
+  "race_name": "アクアライン",
+  "race_time": "2025-12-13 14:50",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100071",
+      "horse_name": "ワンダラー",
+      "score": 0.21514651658348544,
+      "horse_number": 9,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100114",
+      "horse_name": "ブレーザー",
+      "score": 0.080605116042978,
+      "horse_number": 11,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103876",
+      "horse_name": "モンドプリューム",
+      "score": 0.01537396730376319,
+      "horse_number": 7,
+      "odds": 16.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101737",
+      "horse_name": "エンヤラヴフェイス",
+      "score": -0.010782884726554816,
+      "horse_number": 12,
+      "odds": 8.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021110153",
+      "horse_name": "ジェネラーレ",
+      "score": -0.022925534884446368,
+      "horse_number": 6,
+      "odds": 15.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101237",
+      "horse_name": "シャカシャカシー",
+      "score": -0.042586488403787565,
+      "horse_number": 5,
+      "odds": 16.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019102102",
+      "horse_name": "ゲキザル",
+      "score": -0.10205944094722418,
+      "horse_number": 8,
+      "odds": 10.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102011",
+      "horse_name": "サザンエルフ",
+      "score": -0.18644069102039848,
+      "horse_number": 10,
+      "odds": 8.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104088",
+      "horse_name": "ランドオブラヴ",
+      "score": -0.2247508740857967,
+      "horse_number": 14,
+      "odds": 37.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103643",
+      "horse_name": "エレガントムーン",
+      "score": -0.22600092388255835,
+      "horse_number": 15,
+      "odds": 15.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021110104",
+      "horse_name": "エコロエイト",
+      "score": -0.2447404068551858,
+      "horse_number": 1,
+      "odds": 18.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018105860",
+      "horse_name": "メイショウフジタカ",
+      "score": -0.3181227820235186,
+      "horse_number": 13,
+      "odds": 33.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018106597",
+      "horse_name": "キュムロンニンバス",
+      "score": -0.36175493437770956,
+      "horse_number": 3,
+      "odds": 65.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101271",
+      "horse_name": "アイファースキャン",
+      "score": -0.4650830461807135,
+      "horse_number": 4,
+      "odds": 81.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105250",
+      "horse_name": "ビルカール",
+      "score": -0.4958437432271803,
+      "horse_number": 2,
+      "odds": 37.2
+    }
+  ]
+}

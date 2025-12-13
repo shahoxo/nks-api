@@ -10,7 +10,7 @@
       "horse_name": "ロンドンオービタル",
       "score": 0.2205331546898761,
       "horse_number": 5,
-      "odds": 7.2
+      "odds": 6.5
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "ディヴァインスカイ",
       "score": 0.14616164853549055,
       "horse_number": 7,
-      "odds": 13.4
+      "odds": 13.5
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "レオアジャイル",
       "score": 0.11025174757475323,
       "horse_number": 6,
-      "odds": 6.1
+      "odds": 5.0
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "マイオウンウェイ",
       "score": 0.10351202231965433,
       "horse_number": 12,
-      "odds": 20.2
+      "odds": 25.9
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "ハイヤーマーク",
       "score": 0.08797240547530058,
       "horse_number": 2,
-      "odds": 5.1
+      "odds": 4.9
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "クリエープキー",
       "score": 0.08095257716917918,
       "horse_number": 10,
-      "odds": 13.2
+      "odds": 11.2
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "ラテラルパーム",
       "score": 0.06121068429102025,
       "horse_number": 13,
-      "odds": 13.5
+      "odds": 15.2
     },
     {
       "rank": 8,
@@ -74,7 +74,7 @@
       "horse_name": "プリティーミズホ",
       "score": -0.06118349565640386,
       "horse_number": 3,
-      "odds": 19.1
+      "odds": 21.7
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "コパノトーマス",
       "score": -0.0673458630393688,
       "horse_number": 11,
-      "odds": 14.9
+      "odds": 17.0
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "マーブルパレス",
       "score": -0.08233524653906678,
       "horse_number": 1,
-      "odds": 9.2
+      "odds": 9.8
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "リネンタイリン",
       "score": -0.5321616921100607,
       "horse_number": 8,
-      "odds": 33.6
+      "odds": 64.4
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "コックオーヴァン",
       "score": -0.5539673065724575,
       "horse_number": 4,
-      "odds": 19.4
+      "odds": 28.8
     }
   ]
 }
