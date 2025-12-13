@@ -1,0 +1,112 @@
+{
+  "race_id": "202506050312",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-12-13 16:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102315",
+      "horse_name": "シュヴァルボヌール",
+      "score": 0.36712514045507433,
+      "horse_number": 9,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100363",
+      "horse_name": "キョウエイカンフ",
+      "score": 0.07792886145362564,
+      "horse_number": 11,
+      "odds": 8.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103242",
+      "horse_name": "ジーベック",
+      "score": 0.031450037891581725,
+      "horse_number": 13,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106648",
+      "horse_name": "アルデショワ",
+      "score": -0.018458899538634138,
+      "horse_number": 10,
+      "odds": 26.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106307",
+      "horse_name": "モリノセピア",
+      "score": -0.04476999010310102,
+      "horse_number": 6,
+      "odds": 16.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104479",
+      "horse_name": "フェデルミエール",
+      "score": -0.21475499276047666,
+      "horse_number": 5,
+      "odds": 22.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106353",
+      "horse_name": "リリージェーン",
+      "score": -0.2691114704665373,
+      "horse_number": 8,
+      "odds": 28.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106639",
+      "horse_name": "ベルブリエ",
+      "score": -0.2726991167685586,
+      "horse_number": 1,
+      "odds": 61.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100382",
+      "horse_name": "ケープアグラス",
+      "score": -0.43390748028783066,
+      "horse_number": 7,
+      "odds": 43.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103172",
+      "horse_name": "ヴェラリーシャ",
+      "score": -0.4444588910017381,
+      "horse_number": 2,
+      "odds": 167.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100418",
+      "horse_name": "ラストシャリナ",
+      "score": -0.461570510085494,
+      "horse_number": 4,
+      "odds": 43.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106384",
+      "horse_name": "カイザーブリッツ",
+      "score": -0.5786317696138015,
+      "horse_number": 12,
+      "odds": 40.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021109113",
+      "horse_name": "アベベ",
+      "score": -0.6318373387288261,
+      "horse_number": 3,
+      "odds": 86.9
+    }
+  ]
+}

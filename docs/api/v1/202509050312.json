@@ -1,0 +1,88 @@
+{
+  "race_id": "202509050312",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-12-13 16:01",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104748",
+      "horse_name": "ウィルサヴァイブ",
+      "score": 0.3519282389279336,
+      "horse_number": 10,
+      "odds": 5.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104638",
+      "horse_name": "アラベラ",
+      "score": 0.18980910035266635,
+      "horse_number": 2,
+      "odds": 11.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105433",
+      "horse_name": "セナスタイル",
+      "score": 0.18783741232669876,
+      "horse_number": 8,
+      "odds": 1.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105549",
+      "horse_name": "ハートメテオ",
+      "score": 0.0881849399009877,
+      "horse_number": 9,
+      "odds": 20.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101116",
+      "horse_name": "エコテーラー",
+      "score": -0.031126305528566364,
+      "horse_number": 1,
+      "odds": 38.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106642",
+      "horse_name": "ファミリーツリー",
+      "score": -0.049149030043063986,
+      "horse_number": 5,
+      "odds": 27.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100446",
+      "horse_name": "イトカワサクラ",
+      "score": -0.07600658597318724,
+      "horse_number": 4,
+      "odds": 13.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102574",
+      "horse_name": "トゥルブレンツ",
+      "score": -0.2526381865486643,
+      "horse_number": 6,
+      "odds": 75.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106826",
+      "horse_name": "レッセパッセ",
+      "score": -0.35264226035516977,
+      "horse_number": 3,
+      "odds": 57.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019103742",
+      "horse_name": "ムガ",
+      "score": -0.4331732176740124,
+      "horse_number": 7,
+      "odds": 53.2
+    }
+  ]
+}

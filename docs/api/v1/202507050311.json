@@ -1,0 +1,152 @@
+{
+  "race_id": "202507050311",
+  "race_name": "中日新聞杯",
+  "race_time": "2025-12-13 15:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100651",
+      "horse_name": "ファミリータイム",
+      "score": 0.25831947700317676,
+      "horse_number": 4,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105574",
+      "horse_name": "シンハナーダ",
+      "score": 0.19988046551325003,
+      "horse_number": 14,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103101",
+      "horse_name": "シェイクユアハート",
+      "score": 0.1084415669213453,
+      "horse_number": 8,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019104742",
+      "horse_name": "レッドバリエンテ",
+      "score": 0.07035036667140959,
+      "horse_number": 7,
+      "odds": 14.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104791",
+      "horse_name": "メリオーレム",
+      "score": 0.06292647083745556,
+      "horse_number": 6,
+      "odds": 19.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101134",
+      "horse_name": "ピースワンデュック",
+      "score": 0.025692788730831192,
+      "horse_number": 9,
+      "odds": 8.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105781",
+      "horse_name": "マイネルケレリウス",
+      "score": 0.014185189154937865,
+      "horse_number": 10,
+      "odds": 34.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104832",
+      "horse_name": "ヴィンセンシオ",
+      "score": -0.029678709327309108,
+      "horse_number": 15,
+      "odds": 11.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105749",
+      "horse_name": "マイネルモーント",
+      "score": -0.14382230602574853,
+      "horse_number": 11,
+      "odds": 20.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105239",
+      "horse_name": "ショウナンアデイブ",
+      "score": -0.16954003753694047,
+      "horse_number": 13,
+      "odds": 90.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105623",
+      "horse_name": "ホウオウプロサンゲ",
+      "score": -0.17746898829333704,
+      "horse_number": 1,
+      "odds": 70.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100913",
+      "horse_name": "ジューンテイク",
+      "score": -0.18119808028786966,
+      "horse_number": 3,
+      "odds": 14.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105416",
+      "horse_name": "グーデンドラーク",
+      "score": -0.18763990794881252,
+      "horse_number": 16,
+      "odds": 177.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104756",
+      "horse_name": "オニャンコポン",
+      "score": -0.21560012140893853,
+      "horse_number": 5,
+      "odds": 19.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020107030",
+      "horse_name": "ウインエーデル",
+      "score": -0.31971154406763996,
+      "horse_number": 2,
+      "odds": 98.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2016102175",
+      "horse_name": "ダンディズム",
+      "score": -0.3488767072952915,
+      "horse_number": 12,
+      "odds": 192.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020103082",
+      "horse_name": "カネフラ",
+      "score": -0.3528877512111256,
+      "horse_number": 18,
+      "odds": 142.8
+    },
+    {
+      "rank": 18,
+      "horse_id": "2018104225",
+      "horse_name": "リフレーミング",
+      "score": -0.4012402172138052,
+      "horse_number": 17,
+      "odds": 25.8
+    }
+  ]
+}
