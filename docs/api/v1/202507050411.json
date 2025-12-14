@@ -1,0 +1,88 @@
+{
+  "race_id": "202507050411",
+  "race_name": "知立S",
+  "race_time": "2025-12-14 15:25",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101443",
+      "horse_name": "サウスバンク",
+      "score": 0.26536706365527757,
+      "horse_number": 8,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100791",
+      "horse_name": "ブラックケリー",
+      "score": 0.15972547655001018,
+      "horse_number": 3,
+      "odds": 6.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102016",
+      "horse_name": "エコロマーズ",
+      "score": 0.14336101371859594,
+      "horse_number": 2,
+      "odds": 4.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102514",
+      "horse_name": "ベイビーキッス",
+      "score": -0.005755127344440482,
+      "horse_number": 4,
+      "odds": 9.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100157",
+      "horse_name": "ロードトレイル",
+      "score": -0.10546879602127811,
+      "horse_number": 1,
+      "odds": 11.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100490",
+      "horse_name": "モズナナスター",
+      "score": -0.11210772027255153,
+      "horse_number": 7,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105370",
+      "horse_name": "キャプテンシー",
+      "score": -0.2970573017388308,
+      "horse_number": 5,
+      "odds": 17.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102814",
+      "horse_name": "ジャスリー",
+      "score": -0.3945901797835432,
+      "horse_number": 9,
+      "odds": 21.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106739",
+      "horse_name": "ダークエクリプス",
+      "score": -0.5672749854715552,
+      "horse_number": 6,
+      "odds": 40.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106510",
+      "horse_name": "オソレ",
+      "score": -0.663154355080354,
+      "horse_number": 10,
+      "odds": 61.4
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050411",
+  "race_name": "カペラS",
+  "race_time": "2025-12-14 15:15",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103868",
+      "horse_name": "チカッパ",
+      "score": 0.35147820049704764,
+      "horse_number": 11,
+      "odds": 15.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019102238",
+      "horse_name": "クロジシジョー",
+      "score": 0.3101994123293154,
+      "horse_number": 8,
+      "odds": 9.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110081",
+      "horse_name": "テーオーエルビス",
+      "score": 0.2979115510413572,
+      "horse_number": 4,
+      "odds": 3.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110107",
+      "horse_name": "エコロアゼル",
+      "score": 0.2573019696160857,
+      "horse_number": 13,
+      "odds": 19.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105244",
+      "horse_name": "ポッドベイダー",
+      "score": 0.24035940348050291,
+      "horse_number": 6,
+      "odds": 7.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104461",
+      "horse_name": "ガビーズシスター",
+      "score": 0.23046643507133555,
+      "horse_number": 9,
+      "odds": 5.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106554",
+      "horse_name": "タガノミスト",
+      "score": 0.14354976211450096,
+      "horse_number": 10,
+      "odds": 19.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106006",
+      "horse_name": "ドンアミティエ",
+      "score": 0.1287449782193047,
+      "horse_number": 1,
+      "odds": 11.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106610",
+      "horse_name": "ヤマニンチェルキ",
+      "score": 0.06106068204924507,
+      "horse_number": 16,
+      "odds": 7.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019101633",
+      "horse_name": "サンライズアムール",
+      "score": 0.05954140026036492,
+      "horse_number": 5,
+      "odds": 17.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106782",
+      "horse_name": "ニットウバジル",
+      "score": -0.08483828234699536,
+      "horse_number": 15,
+      "odds": 41.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104876",
+      "horse_name": "エートラックス",
+      "score": -0.18882082010243184,
+      "horse_number": 2,
+      "odds": 63.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018110126",
+      "horse_name": "ジャスパーゴールド",
+      "score": -0.19686671578251969,
+      "horse_number": 14,
+      "odds": 102.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105929",
+      "horse_name": "スターペスカオリ",
+      "score": -0.25931794327501945,
+      "horse_number": 3,
+      "odds": 148.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019110112",
+      "horse_name": "キャンディドライヴ",
+      "score": -0.34901314510917997,
+      "horse_number": 7,
+      "odds": 92.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104556",
+      "horse_name": "カルチャーデイ",
+      "score": -0.3733518140714518,
+      "horse_number": 12,
+      "odds": 41.2
+    }
+  ]
+}
