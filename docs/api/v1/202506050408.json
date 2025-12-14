@@ -1,0 +1,120 @@
+{
+  "race_id": "202506050408",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-14 13:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103149",
+      "horse_name": "タイキインドラ",
+      "score": 0.31464067043692406,
+      "horse_number": 5,
+      "odds": 5.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106199",
+      "horse_name": "タマモトリノ",
+      "score": 0.27087825459183523,
+      "horse_number": 3,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104378",
+      "horse_name": "ダカラフェスティヴ",
+      "score": 0.12421079436265024,
+      "horse_number": 7,
+      "odds": 11.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103017",
+      "horse_name": "オウケンシルヴァー",
+      "score": 0.11193485215700612,
+      "horse_number": 4,
+      "odds": 9.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100749",
+      "horse_name": "キャストロププ",
+      "score": 0.08959458603771574,
+      "horse_number": 12,
+      "odds": 7.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101341",
+      "horse_name": "ムーランブルー",
+      "score": -0.02915443241768432,
+      "horse_number": 2,
+      "odds": 10.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105197",
+      "horse_name": "マウントバーノン",
+      "score": -0.32800121113967706,
+      "horse_number": 9,
+      "odds": 7.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106337",
+      "horse_name": "ダブルメッセージ",
+      "score": -0.3854591353857175,
+      "horse_number": 6,
+      "odds": 19.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104891",
+      "horse_name": "オールデュスヴラン",
+      "score": -0.4753236032160829,
+      "horse_number": 1,
+      "odds": 18.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102991",
+      "horse_name": "カイトヴィント",
+      "score": -0.48512116369810954,
+      "horse_number": 13,
+      "odds": 51.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102058",
+      "horse_name": "スマートクオーレ",
+      "score": -0.49181324890504685,
+      "horse_number": 11,
+      "odds": 30.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101255",
+      "horse_name": "ステイアンビシャス",
+      "score": -0.5352261545840771,
+      "horse_number": 14,
+      "odds": 19.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106465",
+      "horse_name": "チンプンカンプン",
+      "score": -0.5774374087154555,
+      "horse_number": 10,
+      "odds": 64.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103204",
+      "horse_name": "クールシェルタ",
+      "score": -0.6115888288085456,
+      "horse_number": 8,
+      "odds": 98.9
+    }
+  ]
+}

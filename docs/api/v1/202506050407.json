@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050407",
+  "race_name": "2歳1勝クラス",
+  "race_time": "2025-12-14 13:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105963",
+      "horse_name": "ナリノシャーウッド",
+      "score": 0.2583133544883602,
+      "horse_number": 15,
+      "odds": 31.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104733",
+      "horse_name": "タガノアバンドーネ",
+      "score": 0.23291746650101863,
+      "horse_number": 16,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107043",
+      "horse_name": "シルバーレシオ",
+      "score": 0.2230766364825929,
+      "horse_number": 7,
+      "odds": 2.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102743",
+      "horse_name": "ショーリバース",
+      "score": 0.22118367132320327,
+      "horse_number": 2,
+      "odds": 23.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101154",
+      "horse_name": "ファイアマン",
+      "score": 0.21627266777122778,
+      "horse_number": 1,
+      "odds": 16.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101545",
+      "horse_name": "ロミオ",
+      "score": 0.18411850427009568,
+      "horse_number": 4,
+      "odds": 10.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102769",
+      "horse_name": "ケイアイアギト",
+      "score": 0.12400001466927693,
+      "horse_number": 10,
+      "odds": 23.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103696",
+      "horse_name": "マーゴットサンズ",
+      "score": 0.11312666840057257,
+      "horse_number": 3,
+      "odds": 19.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104927",
+      "horse_name": "テンカムテキ",
+      "score": 0.10696483399061088,
+      "horse_number": 8,
+      "odds": 35.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105351",
+      "horse_name": "チャーリー",
+      "score": 0.1063447453053971,
+      "horse_number": 9,
+      "odds": 5.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104151",
+      "horse_name": "ニャンタロウ",
+      "score": 0.07620433848754057,
+      "horse_number": 12,
+      "odds": 26.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100433",
+      "horse_name": "サンデーパーティー",
+      "score": 0.04113718266650679,
+      "horse_number": 11,
+      "odds": 22.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102283",
+      "horse_name": "オトシダマ",
+      "score": -2.9245480336379838e-05,
+      "horse_number": 5,
+      "odds": 65.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105381",
+      "horse_name": "ハイライトニング",
+      "score": -0.020693252526369492,
+      "horse_number": 13,
+      "odds": 31.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106955",
+      "horse_name": "デールエルバハリ",
+      "score": -0.06620038984926296,
+      "horse_number": 14,
+      "odds": 62.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104848",
+      "horse_name": "ダンツシタン",
+      "score": -0.17283274103005744,
+      "horse_number": 6,
+      "odds": 76.8
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202509050407",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-14 13:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104624",
+      "horse_name": "アロマフェリス",
+      "score": 0.15064093547830804,
+      "horse_number": 12,
+      "odds": 6.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100358",
+      "horse_name": "アイブリンク",
+      "score": 0.12085644951085993,
+      "horse_number": 4,
+      "odds": 5.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106618",
+      "horse_name": "マハナ",
+      "score": 0.0913428701158041,
+      "horse_number": 3,
+      "odds": 4.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104553",
+      "horse_name": "オーケーエンジェル",
+      "score": 0.06400694556922497,
+      "horse_number": 5,
+      "odds": 8.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105794",
+      "horse_name": "ラテライト",
+      "score": -0.002393870763172732,
+      "horse_number": 11,
+      "odds": 8.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103649",
+      "horse_name": "イフリーティア",
+      "score": -0.14730603236156822,
+      "horse_number": 9,
+      "odds": 16.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105141",
+      "horse_name": "パシフィックハイ",
+      "score": -0.22090053671300702,
+      "horse_number": 7,
+      "odds": 5.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105954",
+      "horse_name": "コンテナライン",
+      "score": -0.2455404506241985,
+      "horse_number": 6,
+      "odds": 19.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100652",
+      "horse_name": "ヒラリーステップ",
+      "score": -0.5077361470676942,
+      "horse_number": 8,
+      "odds": 29.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102531",
+      "horse_name": "ミヤジテン",
+      "score": -0.5215963988149923,
+      "horse_number": 1,
+      "odds": 55.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103484",
+      "horse_name": "エコロカレン",
+      "score": -0.5970618435386312,
+      "horse_number": 10,
+      "odds": 48.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103841",
+      "horse_name": "ニホンピロマリンバ",
+      "score": -0.6997242947219148,
+      "horse_number": 2,
+      "odds": 25.0
+    }
+  ]
+}
