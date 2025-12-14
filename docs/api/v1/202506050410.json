@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050410",
+  "race_name": "師走S",
+  "race_time": "2025-12-14 14:40",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020104661",
+      "horse_name": "ダンテバローズ",
+      "score": 0.32112667790174965,
+      "horse_number": 1,
+      "odds": 14.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102009",
+      "horse_name": "ラタフォレスト",
+      "score": 0.27241370565165346,
+      "horse_number": 9,
+      "odds": 14.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102236",
+      "horse_name": "テーオーパスワード",
+      "score": 0.2667316139786578,
+      "horse_number": 8,
+      "odds": 3.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103566",
+      "horse_name": "シェットランド",
+      "score": 0.1691235570550339,
+      "horse_number": 4,
+      "odds": 60.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106565",
+      "horse_name": "ブライアンセンス",
+      "score": 0.16625155464494407,
+      "horse_number": 14,
+      "odds": 3.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105604",
+      "horse_name": "ブレイクフォース",
+      "score": 0.15789172640610563,
+      "horse_number": 6,
+      "odds": 21.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104873",
+      "horse_name": "ポッドロゴ",
+      "score": 0.1150295163043614,
+      "horse_number": 10,
+      "odds": 17.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100116",
+      "horse_name": "アクションプラン",
+      "score": 0.10208909412345568,
+      "horse_number": 11,
+      "odds": 8.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018105431",
+      "horse_name": "ミッキーヌチバナ",
+      "score": 0.02499473788068895,
+      "horse_number": 12,
+      "odds": 12.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103148",
+      "horse_name": "ショウナンライシン",
+      "score": -0.05852446100715529,
+      "horse_number": 2,
+      "odds": 20.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019100539",
+      "horse_name": "タガノエスコート",
+      "score": -0.2040552229381561,
+      "horse_number": 3,
+      "odds": 72.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019102437",
+      "horse_name": "ヴァルツァーシャル",
+      "score": -0.26426339942915356,
+      "horse_number": 15,
+      "odds": 9.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018106571",
+      "horse_name": "メイショウフンジン",
+      "score": -0.3443520355731373,
+      "horse_number": 5,
+      "odds": 19.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020106877",
+      "horse_name": "スマートアイ",
+      "score": -0.37374532218249334,
+      "horse_number": 13,
+      "odds": 63.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018110043",
+      "horse_name": "ゴールデンシロップ",
+      "score": -0.46849270167241697,
+      "horse_number": 7,
+      "odds": 71.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105626",
+      "horse_name": "コンクシェル",
+      "score": -0.5002635857274718,
+      "horse_number": 16,
+      "odds": 44.7
+    }
+  ]
+}

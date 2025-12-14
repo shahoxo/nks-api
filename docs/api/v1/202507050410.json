@@ -1,0 +1,88 @@
+{
+  "race_id": "202507050410",
+  "race_name": "一宮特別",
+  "race_time": "2025-12-14 14:50",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100658",
+      "horse_name": "ダノンジョーカー",
+      "score": 0.19206405830421913,
+      "horse_number": 7,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105056",
+      "horse_name": "オルトパラティウム",
+      "score": 0.09305820292251953,
+      "horse_number": 4,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103310",
+      "horse_name": "レイヤードレッド",
+      "score": 0.027169537781058885,
+      "horse_number": 6,
+      "odds": 9.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103522",
+      "horse_name": "ジェットブレード",
+      "score": -0.015930618464105394,
+      "horse_number": 3,
+      "odds": 12.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106633",
+      "horse_name": "バルナバ",
+      "score": -0.2755765043559816,
+      "horse_number": 5,
+      "odds": 9.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019100774",
+      "horse_name": "マイネルシーマー",
+      "score": -0.4116556764207821,
+      "horse_number": 1,
+      "odds": 27.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104531",
+      "horse_name": "バンフィエルド",
+      "score": -0.4396736942202136,
+      "horse_number": 10,
+      "odds": 16.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102532",
+      "horse_name": "2022102532",
+      "score": -0.5071126925064392,
+      "horse_number": 8,
+      "odds": 77.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019100326",
+      "horse_name": "イーサンアイ",
+      "score": -0.5331664432233837,
+      "horse_number": 9,
+      "odds": 74.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2017106722",
+      "horse_name": "サイモンルモンド",
+      "score": -0.693384125709968,
+      "horse_number": 2,
+      "odds": 78.9
+    }
+  ]
+}
