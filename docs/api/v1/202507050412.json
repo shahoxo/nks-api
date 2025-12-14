@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050412",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-14 16:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106180",
+      "horse_name": "シャインバオバブ",
+      "score": 0.060440925743187796,
+      "horse_number": 9,
+      "odds": 15.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102926",
+      "horse_name": "フォーカルフラワー",
+      "score": 0.020951710788943305,
+      "horse_number": 1,
+      "odds": 6.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106214",
+      "horse_name": "ウインベアトリス",
+      "score": 0.007565218567946584,
+      "horse_number": 3,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104171",
+      "horse_name": "スナークピカソ",
+      "score": -0.006081500385182651,
+      "horse_number": 6,
+      "odds": 8.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104121",
+      "horse_name": "カウンティフェア",
+      "score": -0.05003980385499645,
+      "horse_number": 13,
+      "odds": 17.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100081",
+      "horse_name": "ゴールドブレス",
+      "score": -0.05842941702985526,
+      "horse_number": 14,
+      "odds": 5.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106308",
+      "horse_name": "カイトグート",
+      "score": -0.1806080592637814,
+      "horse_number": 16,
+      "odds": 34.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106817",
+      "horse_name": "タイキバルドル",
+      "score": -0.18104652586808936,
+      "horse_number": 11,
+      "odds": 30.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103493",
+      "horse_name": "イリスアスール",
+      "score": -0.18982711746684497,
+      "horse_number": 8,
+      "odds": 41.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102312",
+      "horse_name": "ストレイトアスク",
+      "score": -0.2642998447360211,
+      "horse_number": 10,
+      "odds": 14.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103145",
+      "horse_name": "レッドレナート",
+      "score": -0.26594418936184294,
+      "horse_number": 5,
+      "odds": 16.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101425",
+      "horse_name": "エナジーショット",
+      "score": -0.28885418278750663,
+      "horse_number": 2,
+      "odds": 6.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100190",
+      "horse_name": "ニシノインヴィクタ",
+      "score": -0.32970363491557353,
+      "horse_number": 7,
+      "odds": 9.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103316",
+      "horse_name": "キタノクニカラ",
+      "score": -0.4526980512912754,
+      "horse_number": 12,
+      "odds": 26.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101652",
+      "horse_name": "ドライグ",
+      "score": -0.5491943504346046,
+      "horse_number": 15,
+      "odds": 111.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104933",
+      "horse_name": "カントゥータ",
+      "score": -0.7344997899121097,
+      "horse_number": 4,
+      "odds": 102.9
+    }
+  ]
+}

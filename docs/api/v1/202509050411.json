@@ -1,0 +1,152 @@
+{
+  "race_id": "202509050411",
+  "race_name": "阪神JF",
+  "race_time": "2025-12-14 15:40",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106920",
+      "horse_name": "スターアニス",
+      "score": 0.3066313444182016,
+      "horse_number": 9,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105825",
+      "horse_name": "ギャラボーグ",
+      "score": 0.25858386316599696,
+      "horse_number": 5,
+      "odds": 8.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104523",
+      "horse_name": "ミツカネベネラ",
+      "score": 0.21502138251235298,
+      "horse_number": 3,
+      "odds": 18.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105327",
+      "horse_name": "アルバンヌ",
+      "score": 0.20609580248040757,
+      "horse_number": 6,
+      "odds": 5.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107046",
+      "horse_name": "アランカール",
+      "score": 0.18746767016303828,
+      "horse_number": 4,
+      "odds": 3.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103889",
+      "horse_name": "マーゴットラヴミー",
+      "score": 0.15891595830316196,
+      "horse_number": 7,
+      "odds": 6.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103086",
+      "horse_name": "イヌボウノウタゴエ",
+      "score": 0.13618631730839245,
+      "horse_number": 10,
+      "odds": 89.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106469",
+      "horse_name": "スタニングレディ",
+      "score": 0.07288765564951964,
+      "horse_number": 14,
+      "odds": 41.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105714",
+      "horse_name": "ヒズマスターピース",
+      "score": 0.06398509279344824,
+      "horse_number": 8,
+      "odds": 17.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106900",
+      "horse_name": "タイセイボーグ",
+      "score": 0.05670443067217882,
+      "horse_number": 17,
+      "odds": 12.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103836",
+      "horse_name": "フロムレイブン",
+      "score": 0.01461941231829297,
+      "horse_number": 13,
+      "odds": 113.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103293",
+      "horse_name": "ラスティングスノー",
+      "score": 0.01461941231829297,
+      "horse_number": 15,
+      "odds": 89.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105347",
+      "horse_name": "ショウナンカリス",
+      "score": 0.0008905491222711004,
+      "horse_number": 18,
+      "odds": 58.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106375",
+      "horse_name": "メイプルハッピー",
+      "score": -0.0611118517845602,
+      "horse_number": 12,
+      "odds": 108.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023109164",
+      "horse_name": "アンヘリータス",
+      "score": -0.07624464080351719,
+      "horse_number": 1,
+      "odds": 164.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104475",
+      "horse_name": "スウィートハピネス",
+      "score": -0.10453284644361384,
+      "horse_number": 11,
+      "odds": 38.2
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023102991",
+      "horse_name": "ローズカリス",
+      "score": -0.17578363829068488,
+      "horse_number": 16,
+      "odds": 190.5
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023100917",
+      "horse_name": "レディーゴール",
+      "score": -0.38199986236311506,
+      "horse_number": 2,
+      "odds": 200.9
+    }
+  ]
+}

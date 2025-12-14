@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050412",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-14 16:01",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101388",
+      "horse_name": "ベストシーン",
+      "score": 0.2865072114285946,
+      "horse_number": 6,
+      "odds": 5.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106150",
+      "horse_name": "スワローシチー",
+      "score": 0.21306913808321842,
+      "horse_number": 8,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104092",
+      "horse_name": "サクラアドリア",
+      "score": 0.1966818964683753,
+      "horse_number": 1,
+      "odds": 9.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105864",
+      "horse_name": "キアラメンテ",
+      "score": 0.16740377654329808,
+      "horse_number": 5,
+      "odds": 7.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106828",
+      "horse_name": "マイネルゼウス",
+      "score": 0.14349097991585036,
+      "horse_number": 11,
+      "odds": 14.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105394",
+      "horse_name": "ハニードレス",
+      "score": 0.12034282631418759,
+      "horse_number": 14,
+      "odds": 20.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104939",
+      "horse_name": "ウィンターベル",
+      "score": 0.07082498853528749,
+      "horse_number": 12,
+      "odds": 11.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106825",
+      "horse_name": "コスモイシュタル",
+      "score": 0.04564177847550246,
+      "horse_number": 16,
+      "odds": 12.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106068",
+      "horse_name": "パストラーレ",
+      "score": 0.027865765334088265,
+      "horse_number": 13,
+      "odds": 13.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101598",
+      "horse_name": "マジカルワード",
+      "score": -0.0775558904310974,
+      "horse_number": 7,
+      "odds": 44.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103003",
+      "horse_name": "ラファヴォリット",
+      "score": -0.09194407383333997,
+      "horse_number": 4,
+      "odds": 19.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103160",
+      "horse_name": "ケイツークローン",
+      "score": -0.10474546476289824,
+      "horse_number": 15,
+      "odds": 25.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102785",
+      "horse_name": "イゾレエオリア",
+      "score": -0.12285861994131028,
+      "horse_number": 10,
+      "odds": 30.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103251",
+      "horse_name": "フォートポータル",
+      "score": -0.3205401996357611,
+      "horse_number": 9,
+      "odds": 40.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101801",
+      "horse_name": "ケイツールピア",
+      "score": -0.5008623364592034,
+      "horse_number": 2,
+      "odds": 42.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021101059",
+      "horse_name": "アクイローネ",
+      "score": -0.5087671103566846,
+      "horse_number": 3,
+      "odds": 40.0
+    }
+  ]
+}
