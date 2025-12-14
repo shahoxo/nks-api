@@ -1,0 +1,128 @@
+{
+  "race_id": "202509050409",
+  "race_name": "オリオンS",
+  "race_time": "2025-12-14 14:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105073",
+      "horse_name": "エコロディノス",
+      "score": 0.374795319270882,
+      "horse_number": 4,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104765",
+      "horse_name": "ミッキーゴールド",
+      "score": 0.27158539467869625,
+      "horse_number": 10,
+      "odds": 3.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020100976",
+      "horse_name": "ハギノアルデバラン",
+      "score": 0.2704657377364236,
+      "horse_number": 7,
+      "odds": 10.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020105642",
+      "horse_name": "レミージュ",
+      "score": 0.22670405830432777,
+      "horse_number": 12,
+      "odds": 7.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101724",
+      "horse_name": "ガジュノリ",
+      "score": 0.14434215267605535,
+      "horse_number": 15,
+      "odds": 10.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106548",
+      "horse_name": "タガノデュード",
+      "score": 0.12405447238458563,
+      "horse_number": 6,
+      "odds": 7.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104971",
+      "horse_name": "オールセインツ",
+      "score": -0.009536101618569374,
+      "horse_number": 1,
+      "odds": 11.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104131",
+      "horse_name": "ヒロノラメール",
+      "score": -0.14897619580453692,
+      "horse_number": 8,
+      "odds": 19.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103920",
+      "horse_name": "フェミナフォルテ",
+      "score": -0.20357846187646522,
+      "horse_number": 2,
+      "odds": 30.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019104800",
+      "horse_name": "エイカイマッケンロ",
+      "score": -0.2206591549941999,
+      "horse_number": 11,
+      "odds": 28.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104080",
+      "horse_name": "ダノンフロイデ",
+      "score": -0.2651861263531467,
+      "horse_number": 14,
+      "odds": 65.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020107121",
+      "horse_name": "イケイケドンドン",
+      "score": -0.35539310529284607,
+      "horse_number": 3,
+      "odds": 51.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019104092",
+      "horse_name": "メイショウゲキリン",
+      "score": -0.5012623466850352,
+      "horse_number": 5,
+      "odds": 54.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102937",
+      "horse_name": "コスモフロイデ",
+      "score": -0.5468560960124021,
+      "horse_number": 9,
+      "odds": 68.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019104126",
+      "horse_name": "ミアステラ",
+      "score": -0.6053512024827115,
+      "horse_number": 13,
+      "odds": 89.2
+    }
+  ]
+}

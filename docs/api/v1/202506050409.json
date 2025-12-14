@@ -1,0 +1,104 @@
+{
+  "race_id": "202506050409",
+  "race_name": "霞ヶ浦特別",
+  "race_time": "2025-12-14 14:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103790",
+      "horse_name": "フナデ",
+      "score": 0.28686011594368754,
+      "horse_number": 11,
+      "odds": 13.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105475",
+      "horse_name": "レディーミコノス",
+      "score": 0.2297741403403371,
+      "horse_number": 9,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105777",
+      "horse_name": "ドゥカート",
+      "score": 0.1849406456462015,
+      "horse_number": 10,
+      "odds": 4.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105106",
+      "horse_name": "タッチアンドムーブ",
+      "score": 0.10750508416471359,
+      "horse_number": 7,
+      "odds": 15.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100699",
+      "horse_name": "イガッチ",
+      "score": 0.10625579415486712,
+      "horse_number": 12,
+      "odds": 9.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101639",
+      "horse_name": "ソルトブリーズ",
+      "score": 0.07545107156430987,
+      "horse_number": 8,
+      "odds": 13.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102982",
+      "horse_name": "ダンツファイター",
+      "score": 0.04884520462438184,
+      "horse_number": 3,
+      "odds": 6.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018103560",
+      "horse_name": "ワザモノ",
+      "score": -0.11587008415797855,
+      "horse_number": 2,
+      "odds": 31.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2017101772",
+      "horse_name": "ヤマニンガラッシア",
+      "score": -0.1370001438399105,
+      "horse_number": 4,
+      "odds": 27.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106772",
+      "horse_name": "バセリーナ",
+      "score": -0.1833551316849799,
+      "horse_number": 1,
+      "odds": 31.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101288",
+      "horse_name": "ナムララジベラ",
+      "score": -0.23106745540053333,
+      "horse_number": 5,
+      "odds": 79.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106595",
+      "horse_name": "ヤマニンアドホック",
+      "score": -0.29581189875991726,
+      "horse_number": 6,
+      "odds": 9.0
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202507050409",
+  "race_name": "大須特別",
+  "race_time": "2025-12-14 14:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022107185",
+      "horse_name": "エテルノレガーメ",
+      "score": 0.10999545419664723,
+      "horse_number": 6,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105055",
+      "horse_name": "レッドボブ",
+      "score": 0.010441891176345152,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105156",
+      "horse_name": "レッドシュトラール",
+      "score": -0.06274392326784858,
+      "horse_number": 2,
+      "odds": 20.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102446",
+      "horse_name": "ノアヴィヴァーチェ",
+      "score": -0.07586982741599221,
+      "horse_number": 8,
+      "odds": 10.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101889",
+      "horse_name": "ゼットエイト",
+      "score": -0.2392330094727976,
+      "horse_number": 11,
+      "odds": 21.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020104725",
+      "horse_name": "モーメントキャッチ",
+      "score": -0.3109467642658027,
+      "horse_number": 7,
+      "odds": 4.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101280",
+      "horse_name": "ジェロニモス",
+      "score": -0.4535117156329137,
+      "horse_number": 12,
+      "odds": 17.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104496",
+      "horse_name": "スコーピオンイメル",
+      "score": -0.4559078388983504,
+      "horse_number": 3,
+      "odds": 10.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103763",
+      "horse_name": "ブラーブデシジョン",
+      "score": -0.5237470739910027,
+      "horse_number": 4,
+      "odds": 50.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100711",
+      "horse_name": "ケイアイアルタイル",
+      "score": -0.5378588849790319,
+      "horse_number": 9,
+      "odds": 32.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020110116",
+      "horse_name": "ララマルシュドロワ",
+      "score": -0.5488310238833476,
+      "horse_number": 1,
+      "odds": 7.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104618",
+      "horse_name": "タリスマン",
+      "score": -0.5709583854389435,
+      "horse_number": 10,
+      "odds": 50.8
+    }
+  ]
+}
