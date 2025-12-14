@@ -1,0 +1,88 @@
+{
+  "race_id": "202509050412",
+  "race_name": "甲東特別",
+  "race_time": "2025-12-14 16:20",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100171",
+      "horse_name": "ダノンキラウェア",
+      "score": 0.45482997453926327,
+      "horse_number": 1,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103345",
+      "horse_name": "ウォータークラーク",
+      "score": 0.1579280936407305,
+      "horse_number": 7,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020104083",
+      "horse_name": "テラステラ",
+      "score": 0.1040145174255684,
+      "horse_number": 6,
+      "odds": 15.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104784",
+      "horse_name": "ルクスジニア",
+      "score": 0.06445251216534686,
+      "horse_number": 9,
+      "odds": 4.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105783",
+      "horse_name": "ネーヴェフレスカ",
+      "score": 0.028894316261679574,
+      "horse_number": 8,
+      "odds": 4.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104978",
+      "horse_name": "マルカオペラ",
+      "score": -0.004724424454407512,
+      "horse_number": 3,
+      "odds": 9.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104627",
+      "horse_name": "シホノペルフェット",
+      "score": -0.012745625728198942,
+      "horse_number": 5,
+      "odds": 15.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103499",
+      "horse_name": "トーホウガレオン",
+      "score": -0.04552471783355716,
+      "horse_number": 4,
+      "odds": 18.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102468",
+      "horse_name": "ブライティアダイヤ",
+      "score": -0.22068086729618047,
+      "horse_number": 2,
+      "odds": 33.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104050",
+      "horse_name": "プチプラージュ",
+      "score": -0.6018156638767691,
+      "horse_number": 10,
+      "odds": 54.9
+    }
+  ]
+}
