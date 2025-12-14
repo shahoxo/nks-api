@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050402",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-14 10:15",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107372",
+      "horse_name": "ワディアルリヤハ",
+      "score": 0.2388473894311411,
+      "horse_number": 8,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107231",
+      "horse_name": "ニルマーネル",
+      "score": 0.1490635185154034,
+      "horse_number": 14,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104857",
+      "horse_name": "アリアス",
+      "score": -0.010832813823333912,
+      "horse_number": 7,
+      "odds": 19.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101792",
+      "horse_name": "ジャスフォール",
+      "score": -0.013910034335022359,
+      "horse_number": 12,
+      "odds": 4.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103518",
+      "horse_name": "ディサイドオンミー",
+      "score": -0.108376288957765,
+      "horse_number": 2,
+      "odds": 17.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103528",
+      "horse_name": "ツルノマイハシ",
+      "score": -0.2520553125259326,
+      "horse_number": 6,
+      "odds": 16.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105777",
+      "horse_name": "ノブピースオブラブ",
+      "score": -0.3569945552204005,
+      "horse_number": 9,
+      "odds": 31.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105570",
+      "horse_name": "セイウンプーパ",
+      "score": -0.3815875389536466,
+      "horse_number": 13,
+      "odds": 23.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101101",
+      "horse_name": "エンカウンターベイ",
+      "score": -0.41573896452366355,
+      "horse_number": 11,
+      "odds": 22.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103430",
+      "horse_name": "ヘリオドール",
+      "score": -0.43466558489455576,
+      "horse_number": 15,
+      "odds": 50.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106594",
+      "horse_name": "シンデレラリバティ",
+      "score": -0.5378012061508157,
+      "horse_number": 4,
+      "odds": 81.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100258",
+      "horse_name": "ムーンシェイド",
+      "score": -0.5624665727050773,
+      "horse_number": 10,
+      "odds": 16.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105549",
+      "horse_name": "グランフォワイエ",
+      "score": -0.5926985816549145,
+      "horse_number": 16,
+      "odds": 52.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100842",
+      "horse_name": "カシノプロスペリテ",
+      "score": -0.7344997899121097,
+      "horse_number": 3,
+      "odds": 216.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105950",
+      "horse_name": "パトリシア",
+      "score": -0.7385016702365806,
+      "horse_number": 1,
+      "odds": 66.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100348",
+      "horse_name": "モーニングダリア",
+      "score": -0.7560238565797833,
+      "horse_number": 5,
+      "odds": 143.3
+    }
+  ]
+}

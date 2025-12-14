@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050402",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-14 10:35",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107140",
+      "horse_name": "ビーチェマーレ",
+      "score": 0.19418481239439514,
+      "horse_number": 11,
+      "odds": 8.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104700",
+      "horse_name": "カナタコナタ",
+      "score": 0.09426671594338583,
+      "horse_number": 15,
+      "odds": 10.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102045",
+      "horse_name": "バトルアックス",
+      "score": 0.06256750700774415,
+      "horse_number": 9,
+      "odds": 1.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102092",
+      "horse_name": "ジーティーピカソ",
+      "score": -0.12216852154500697,
+      "horse_number": 7,
+      "odds": 13.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102144",
+      "horse_name": "フィアレスウィル",
+      "score": -0.22559669091257192,
+      "horse_number": 6,
+      "odds": 33.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104682",
+      "horse_name": "アミラル",
+      "score": -0.24874743427899285,
+      "horse_number": 14,
+      "odds": 7.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102763",
+      "horse_name": "ルクスドリーム",
+      "score": -0.2531398182687288,
+      "horse_number": 12,
+      "odds": 25.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100992",
+      "horse_name": "セルシャーム",
+      "score": -0.2813659892328006,
+      "horse_number": 16,
+      "odds": 34.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100604",
+      "horse_name": "ショウナンアワード",
+      "score": -0.34356467971597315,
+      "horse_number": 3,
+      "odds": 83.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104040",
+      "horse_name": "ココラッシー",
+      "score": -0.4643166039432357,
+      "horse_number": 4,
+      "odds": 83.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103432",
+      "horse_name": "ブルースプレイヤー",
+      "score": -0.6049970249155222,
+      "horse_number": 10,
+      "odds": 159.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104499",
+      "horse_name": "ビナハイバン",
+      "score": -0.6114218333973264,
+      "horse_number": 5,
+      "odds": 40.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102990",
+      "horse_name": "キングケープ",
+      "score": -0.622384537432268,
+      "horse_number": 8,
+      "odds": 23.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023109092",
+      "horse_name": "ウイントッペン",
+      "score": -0.6360304043193064,
+      "horse_number": 1,
+      "odds": 31.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100596",
+      "horse_name": "ジャーナーリア",
+      "score": -0.6534423250362207,
+      "horse_number": 13,
+      "odds": 24.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105728",
+      "horse_name": "モズタイシソウシ",
+      "score": -0.700999851469308,
+      "horse_number": 2,
+      "odds": 137.1
+    }
+  ]
+}

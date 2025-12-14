@@ -1,0 +1,152 @@
+{
+  "race_id": "202506050403",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-14 10:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105362",
+      "horse_name": "ジャストマイウェイ",
+      "score": 0.29101133109223637,
+      "horse_number": 8,
+      "odds": 6.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106254",
+      "horse_name": "ニシノヒノトリ",
+      "score": 0.25705284310544046,
+      "horse_number": 5,
+      "odds": 14.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107171",
+      "horse_name": "ピュアエンブレム",
+      "score": 0.23258929780852772,
+      "horse_number": 4,
+      "odds": 7.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103447",
+      "horse_name": "セキテイリノ",
+      "score": 0.1816006127701445,
+      "horse_number": 11,
+      "odds": 4.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105726",
+      "horse_name": "ゴールデンダガー",
+      "score": 0.09194825758239074,
+      "horse_number": 12,
+      "odds": 12.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106432",
+      "horse_name": "マイネルグレート",
+      "score": -0.030776550158298124,
+      "horse_number": 13,
+      "odds": 32.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105560",
+      "horse_name": "ラージアンサンブル",
+      "score": -0.040559398571992256,
+      "horse_number": 9,
+      "odds": 6.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023110019",
+      "horse_name": "ラッキースウィッチ",
+      "score": -0.16633650422077956,
+      "horse_number": 1,
+      "odds": 59.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103527",
+      "horse_name": "カリドーラ",
+      "score": -0.19709210737432786,
+      "horse_number": 7,
+      "odds": 17.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104531",
+      "horse_name": "ロイヤルヤマト",
+      "score": -0.31008098230194253,
+      "horse_number": 16,
+      "odds": 9.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100615",
+      "horse_name": "ジャケットポケット",
+      "score": -0.31102522264759647,
+      "horse_number": 10,
+      "odds": 14.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101892",
+      "horse_name": "エクストラダーク",
+      "score": -0.3416335475653554,
+      "horse_number": 17,
+      "odds": 84.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103465",
+      "horse_name": "スカーレットジーン",
+      "score": -0.49418746475346076,
+      "horse_number": 18,
+      "odds": 101.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105779",
+      "horse_name": "カシノスパーク",
+      "score": -0.5068805137775377,
+      "horse_number": 15,
+      "odds": 43.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100006",
+      "horse_name": "セイウンヤオヨロズ",
+      "score": -0.5586027805619938,
+      "horse_number": 6,
+      "odds": 85.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104563",
+      "horse_name": "マイネルモンテュス",
+      "score": -0.596593617549952,
+      "horse_number": 14,
+      "odds": 52.0
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023102893",
+      "horse_name": "アイアムアッパレ",
+      "score": -0.6970415147616792,
+      "horse_number": 2,
+      "odds": 20.1
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023106452",
+      "horse_name": "コスモラムバック",
+      "score": -0.7119086895610325,
+      "horse_number": 3,
+      "odds": 77.5
+    }
+  ]
+}

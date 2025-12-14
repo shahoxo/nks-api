@@ -1,0 +1,112 @@
+{
+  "race_id": "202507050402",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-14 10:25",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101112",
+      "horse_name": "ロイヤルスパイア",
+      "score": 0.1481184538480147,
+      "horse_number": 13,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100359",
+      "horse_name": "シュヴァルツシルト",
+      "score": 0.1440921327507816,
+      "horse_number": 7,
+      "odds": 10.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105363",
+      "horse_name": "マイネルトレマーズ",
+      "score": 0.08872220187541639,
+      "horse_number": 12,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103263",
+      "horse_name": "パータリプトラ",
+      "score": 0.07788004068494142,
+      "horse_number": 2,
+      "odds": 10.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100647",
+      "horse_name": "ブルーミーティア",
+      "score": 0.026720564134441585,
+      "horse_number": 8,
+      "odds": 16.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105245",
+      "horse_name": "オメガヒストリー",
+      "score": -0.10018318091557946,
+      "horse_number": 10,
+      "odds": 52.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104780",
+      "horse_name": "クラシオン",
+      "score": -0.18808338674494773,
+      "horse_number": 5,
+      "odds": 16.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106018",
+      "horse_name": "リフラ",
+      "score": -0.19660727191462338,
+      "horse_number": 3,
+      "odds": 7.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103810",
+      "horse_name": "キャッチアシーフ",
+      "score": -0.2803764706870543,
+      "horse_number": 6,
+      "odds": 13.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106577",
+      "horse_name": "ユイノカタリベ",
+      "score": -0.3445741969948549,
+      "horse_number": 1,
+      "odds": 12.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100149",
+      "horse_name": "セイウンリメンバー",
+      "score": -0.37134430093497794,
+      "horse_number": 4,
+      "odds": 5.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023107472",
+      "horse_name": "ムソウテンセイ",
+      "score": -0.5158948864784395,
+      "horse_number": 9,
+      "odds": 46.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104433",
+      "horse_name": "ザキノフレンズ",
+      "score": -0.6829148837393448,
+      "horse_number": 11,
+      "odds": 58.7
+    }
+  ]
+}
