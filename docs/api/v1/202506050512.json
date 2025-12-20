@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050512",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-12-20 16:20",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103781",
+      "horse_name": "エリカマユーリ",
+      "score": 0.4515077013580974,
+      "horse_number": 7,
+      "odds": 2.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101863",
+      "horse_name": "ドントゥザムーン",
+      "score": 0.22699384827909475,
+      "horse_number": 13,
+      "odds": 5.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019101399",
+      "horse_name": "ザウリ",
+      "score": 0.20318724686946807,
+      "horse_number": 15,
+      "odds": 16.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101675",
+      "horse_name": "スノーサイレンス",
+      "score": 0.07626321560272044,
+      "horse_number": 8,
+      "odds": 4.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103670",
+      "horse_name": "ショウナンハクウン",
+      "score": 0.06718306636962149,
+      "horse_number": 1,
+      "odds": 14.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105429",
+      "horse_name": "アグラード",
+      "score": 0.050431922804080535,
+      "horse_number": 9,
+      "odds": 14.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103711",
+      "horse_name": "ロサンゼルス",
+      "score": 0.04458971964484573,
+      "horse_number": 4,
+      "odds": 16.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106261",
+      "horse_name": "タッカージーティー",
+      "score": 0.04119416216616782,
+      "horse_number": 10,
+      "odds": 12.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105246",
+      "horse_name": "トモジャミ",
+      "score": -0.15576862926011922,
+      "horse_number": 16,
+      "odds": 85.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019102491",
+      "horse_name": "プレイテシア",
+      "score": -0.2513585200895688,
+      "horse_number": 12,
+      "odds": 54.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102896",
+      "horse_name": "ロミオボス",
+      "score": -0.3844534516904037,
+      "horse_number": 2,
+      "odds": 88.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106687",
+      "horse_name": "ウォルラス",
+      "score": -0.45199016448490836,
+      "horse_number": 5,
+      "odds": 127.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021107212",
+      "horse_name": "ファイントパーズ",
+      "score": -0.4742579140183716,
+      "horse_number": 3,
+      "odds": 96.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103710",
+      "horse_name": "ヘルメース",
+      "score": -0.4897530054838718,
+      "horse_number": 14,
+      "odds": 117.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101864",
+      "horse_name": "ドナレア",
+      "score": -0.5184805309142059,
+      "horse_number": 6,
+      "odds": 99.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020100714",
+      "horse_name": "オリビアジュテーム",
+      "score": -0.6293301629666437,
+      "horse_number": 11,
+      "odds": 102.5
+    }
+  ]
+}
