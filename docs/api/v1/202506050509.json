@@ -1,0 +1,104 @@
+{
+  "race_id": "202506050509",
+  "race_name": "ひいらぎ賞",
+  "race_time": "2025-12-20 14:31",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106925",
+      "horse_name": "クレパスキュラー",
+      "score": 0.3574865282014262,
+      "horse_number": 1,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106916",
+      "horse_name": "リゾートアイランド",
+      "score": 0.2996451008780137,
+      "horse_number": 8,
+      "odds": 21.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103422",
+      "horse_name": "ピースサイン",
+      "score": 0.2360183974593036,
+      "horse_number": 5,
+      "odds": 8.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100387",
+      "horse_name": "サンブライト",
+      "score": 0.2031702836787884,
+      "horse_number": 9,
+      "odds": 19.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100545",
+      "horse_name": "ヒシアイラ",
+      "score": 0.19828072921321466,
+      "horse_number": 2,
+      "odds": 4.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101566",
+      "horse_name": "フジガイフウ",
+      "score": 0.17990232226820227,
+      "horse_number": 7,
+      "odds": 16.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102906",
+      "horse_name": "バースデイフライト",
+      "score": 0.14690711073428733,
+      "horse_number": 4,
+      "odds": 23.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100207",
+      "horse_name": "マイネルシンベリン",
+      "score": 0.0922821938870408,
+      "horse_number": 11,
+      "odds": 22.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103680",
+      "horse_name": "グロリアスマーチ",
+      "score": 0.08784813924194032,
+      "horse_number": 10,
+      "odds": 16.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106277",
+      "horse_name": "ニシノエースサマ",
+      "score": -0.03158950741483227,
+      "horse_number": 3,
+      "odds": 27.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106774",
+      "horse_name": "2023106774",
+      "score": -0.07536515415448092,
+      "horse_number": 12,
+      "odds": 182.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106608",
+      "horse_name": "エレクトロン",
+      "score": -0.5645449839303281,
+      "horse_number": 6,
+      "odds": 209.5
+    }
+  ]
+}

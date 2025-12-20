@@ -1,0 +1,88 @@
+{
+  "race_id": "202509050509",
+  "race_name": "ポインセチア",
+  "race_time": "2025-12-20 14:20",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023110071",
+      "horse_name": "ウェイニースー",
+      "score": 0.38869456453515966,
+      "horse_number": 6,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104414",
+      "horse_name": "シーズザスローン",
+      "score": 0.3430180552986232,
+      "horse_number": 3,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106874",
+      "horse_name": "ジャスティンルマン",
+      "score": 0.3421160359585145,
+      "horse_number": 5,
+      "odds": 14.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102576",
+      "horse_name": "テイエムサンレーヴ",
+      "score": 0.28949677174146865,
+      "horse_number": 2,
+      "odds": 9.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107181",
+      "horse_name": "ケンタッキーホーム",
+      "score": 0.22531226935978593,
+      "horse_number": 4,
+      "odds": 19.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102979",
+      "horse_name": "ジュウリョクピエロ",
+      "score": 0.22167790896964681,
+      "horse_number": 7,
+      "odds": 20.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106957",
+      "horse_name": "ソラーロ",
+      "score": 0.18829296033544995,
+      "horse_number": 1,
+      "odds": 50.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103087",
+      "horse_name": "ライトオブヌカタ",
+      "score": 0.1341481298430914,
+      "horse_number": 10,
+      "odds": 26.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101758",
+      "horse_name": "ワンダーディーン",
+      "score": 0.06954449094143077,
+      "horse_number": 9,
+      "odds": 3.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106816",
+      "horse_name": "ロックターミガン",
+      "score": 0.032952641535400284,
+      "horse_number": 8,
+      "odds": 7.2
+    }
+  ]
+}
