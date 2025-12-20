@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050507",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-20 13:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105180",
+      "horse_name": "アカデミア",
+      "score": 0.36540392925002574,
+      "horse_number": 14,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102394",
+      "horse_name": "マーウォルス",
+      "score": 0.30065100847874454,
+      "horse_number": 15,
+      "odds": 19.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021110012",
+      "horse_name": "アークドール",
+      "score": 0.18084413409481787,
+      "horse_number": 5,
+      "odds": 10.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101677",
+      "horse_name": "マンオブザマッチ",
+      "score": 0.17333235841711347,
+      "horse_number": 1,
+      "odds": 22.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102710",
+      "horse_name": "エイユーファイヤー",
+      "score": 0.10217269938113999,
+      "horse_number": 4,
+      "odds": 12.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105265",
+      "horse_name": "キングピン",
+      "score": 0.021415612995446438,
+      "horse_number": 8,
+      "odds": 22.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104658",
+      "horse_name": "スピントロニクス",
+      "score": 0.011094009558744507,
+      "horse_number": 9,
+      "odds": 69.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105253",
+      "horse_name": "オメガドライヴ",
+      "score": -0.06354825717738757,
+      "horse_number": 16,
+      "odds": 88.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104222",
+      "horse_name": "リアルフォルゴーレ",
+      "score": -0.12937147912170974,
+      "horse_number": 3,
+      "odds": 63.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104880",
+      "horse_name": "インターアーバン",
+      "score": -0.23828308848795607,
+      "horse_number": 12,
+      "odds": 39.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104944",
+      "horse_name": "シュネーグロッケン",
+      "score": -0.2526507524387154,
+      "horse_number": 10,
+      "odds": 17.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021110139",
+      "horse_name": "ガーデンカメリア",
+      "score": -0.32395369967468823,
+      "horse_number": 11,
+      "odds": 85.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102223",
+      "horse_name": "サイモンシュバリエ",
+      "score": -0.35987408537963006,
+      "horse_number": 6,
+      "odds": 9.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022107325",
+      "horse_name": "レーンアジリティ",
+      "score": -0.4227064332925925,
+      "horse_number": 7,
+      "odds": 91.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022110143",
+      "horse_name": "ソングコレクター",
+      "score": -0.5450442950922436,
+      "horse_number": 2,
+      "odds": 185.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101920",
+      "horse_name": "メラヴィリオーザ",
+      "score": -0.6143151523856235,
+      "horse_number": 13,
+      "odds": 80.1
+    }
+  ]
+}

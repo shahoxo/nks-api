@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050507",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-20 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101114",
+      "horse_name": "ファイタージェット",
+      "score": 0.13533472018796291,
+      "horse_number": 3,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107331",
+      "horse_name": "ヴァンデスペランス",
+      "score": 0.03069190640998509,
+      "horse_number": 6,
+      "odds": 2.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100858",
+      "horse_name": "エコロガノン",
+      "score": -0.06818531443876862,
+      "horse_number": 10,
+      "odds": 6.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104948",
+      "horse_name": "コレクト",
+      "score": -0.07192644246149443,
+      "horse_number": 16,
+      "odds": 19.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105753",
+      "horse_name": "アデルフィー",
+      "score": -0.07206016478633409,
+      "horse_number": 5,
+      "odds": 13.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100440",
+      "horse_name": "アレステリオス",
+      "score": -0.16180451992147293,
+      "horse_number": 12,
+      "odds": 28.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106313",
+      "horse_name": "ジェイエルモーダル",
+      "score": -0.19350733336993092,
+      "horse_number": 4,
+      "odds": 28.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100626",
+      "horse_name": "マルターズドン",
+      "score": -0.21413748316741826,
+      "horse_number": 9,
+      "odds": 17.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100625",
+      "horse_name": "オリジナルアポジー",
+      "score": -0.298507004977126,
+      "horse_number": 13,
+      "odds": 80.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100514",
+      "horse_name": "ロケットパンチ",
+      "score": -0.411695867291867,
+      "horse_number": 11,
+      "odds": 23.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103845",
+      "horse_name": "トーアシチフクジン",
+      "score": -0.4405381847720631,
+      "horse_number": 14,
+      "odds": 28.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101644",
+      "horse_name": "オルブライト",
+      "score": -0.4730254778312788,
+      "horse_number": 15,
+      "odds": 8.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100390",
+      "horse_name": "スピアザキック",
+      "score": -0.5216494872280928,
+      "horse_number": 7,
+      "odds": 83.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023107066",
+      "horse_name": "シュガーシャック",
+      "score": -0.6546627932857848,
+      "horse_number": 8,
+      "odds": 41.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100801",
+      "horse_name": "アメリカンロマン",
+      "score": -0.6725277522140455,
+      "horse_number": 1,
+      "odds": 75.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104572",
+      "horse_name": "アルファシーナ",
+      "score": -0.7560238565797833,
+      "horse_number": 2,
+      "odds": 204.5
+    }
+  ]
+}

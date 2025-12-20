@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050507",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-20 13:05",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110082",
+      "horse_name": "パヴィーア",
+      "score": 0.18095357764205616,
+      "horse_number": 4,
+      "odds": 7.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100333",
+      "horse_name": "タケルハーロック",
+      "score": 0.14994152838877622,
+      "horse_number": 15,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105993",
+      "horse_name": "マテンロウミラクル",
+      "score": 0.12327133677354978,
+      "horse_number": 3,
+      "odds": 13.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102360",
+      "horse_name": "シュテルンビルト",
+      "score": 0.09199860652722773,
+      "horse_number": 2,
+      "odds": 29.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110152",
+      "horse_name": "レーティッシュ",
+      "score": 0.025073079627143578,
+      "horse_number": 12,
+      "odds": 3.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103229",
+      "horse_name": "ウォーターパラディ",
+      "score": -0.022062575265769414,
+      "horse_number": 6,
+      "odds": 12.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103962",
+      "horse_name": "ペイドラロワール",
+      "score": -0.05151427191461434,
+      "horse_number": 11,
+      "odds": 11.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101930",
+      "horse_name": "ライングッドマン",
+      "score": -0.07113835346136453,
+      "horse_number": 8,
+      "odds": 53.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022110001",
+      "horse_name": "シルフズミスチーフ",
+      "score": -0.196028609098442,
+      "horse_number": 13,
+      "odds": 9.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106705",
+      "horse_name": "テーオーミリカン",
+      "score": -0.28864479577135604,
+      "horse_number": 16,
+      "odds": 32.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103921",
+      "horse_name": "ゴンドワナ",
+      "score": -0.4113805720334329,
+      "horse_number": 7,
+      "odds": 78.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020110051",
+      "horse_name": "ザングウィル",
+      "score": -0.4285622197334516,
+      "horse_number": 5,
+      "odds": 25.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101733",
+      "horse_name": "ダイタエリュシオン",
+      "score": -0.46710676761232317,
+      "horse_number": 14,
+      "odds": 124.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106582",
+      "horse_name": "ケイアイマウンガ",
+      "score": -0.48331007652349145,
+      "horse_number": 10,
+      "odds": 7.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104085",
+      "horse_name": "コパノキュラソー",
+      "score": -0.4894515643588989,
+      "horse_number": 1,
+      "odds": 108.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101086",
+      "horse_name": "トリプルバレル",
+      "score": -0.5970618435386312,
+      "horse_number": 9,
+      "odds": 76.6
+    }
+  ]
+}
