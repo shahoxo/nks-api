@@ -1,0 +1,152 @@
+{
+  "race_id": "202507050505",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-20 12:05",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105257",
+      "horse_name": "ミエノストロング",
+      "score": 0.34948089791458,
+      "horse_number": 2,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101569",
+      "horse_name": "サイモンシャリオ",
+      "score": 0.02068021781288052,
+      "horse_number": 9,
+      "odds": 10.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100558",
+      "horse_name": "シンショク",
+      "score": 0.017084693481014303,
+      "horse_number": 1,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106640",
+      "horse_name": "クラリティサウンド",
+      "score": -0.05768521754468876,
+      "horse_number": 12,
+      "odds": 4.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105822",
+      "horse_name": "ロードメルヴェイユ",
+      "score": -0.13544464028163272,
+      "horse_number": 10,
+      "odds": 7.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103175",
+      "horse_name": "セイントクーヤ",
+      "score": -0.16020589186238207,
+      "horse_number": 13,
+      "odds": 55.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105593",
+      "horse_name": "ポッドリプル",
+      "score": -0.16440077180522,
+      "horse_number": 17,
+      "odds": 20.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103521",
+      "horse_name": "ウインターブレス",
+      "score": -0.25119457630797704,
+      "horse_number": 6,
+      "odds": 9.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106088",
+      "horse_name": "ベジョータ",
+      "score": -0.3613790981458286,
+      "horse_number": 3,
+      "odds": 39.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100909",
+      "horse_name": "テイスティング",
+      "score": -0.36505044929161234,
+      "horse_number": 4,
+      "odds": 33.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102414",
+      "horse_name": "ホウオウチャールズ",
+      "score": -0.4109715719201071,
+      "horse_number": 15,
+      "odds": 41.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106607",
+      "horse_name": "ブランニューホーム",
+      "score": -0.411695867291867,
+      "horse_number": 5,
+      "odds": 26.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101279",
+      "horse_name": "シュートザムーン",
+      "score": -0.4834636834194097,
+      "horse_number": 11,
+      "odds": 174.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101706",
+      "horse_name": "ハクアイノアール",
+      "score": -0.5281595870123178,
+      "horse_number": 16,
+      "odds": 22.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106438",
+      "horse_name": "トリニタリオ",
+      "score": -0.5587930761583654,
+      "horse_number": 8,
+      "odds": 107.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106491",
+      "horse_name": "ソーシャルコード",
+      "score": -0.6336370845533565,
+      "horse_number": 14,
+      "odds": 109.1
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023104869",
+      "horse_name": "ディーズベンチャー",
+      "score": -0.735775346659503,
+      "horse_number": 18,
+      "odds": 53.3
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023102153",
+      "horse_name": "マイトビーウォン",
+      "score": -0.7560238565797833,
+      "horse_number": 7,
+      "odds": 150.9
+    }
+  ]
+}
