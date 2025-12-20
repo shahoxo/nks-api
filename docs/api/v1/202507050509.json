@@ -1,0 +1,80 @@
+{
+  "race_id": "202507050509",
+  "race_name": "クリスマスR",
+  "race_time": "2025-12-20 14:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100797",
+      "horse_name": "ハッピーエンジェル",
+      "score": 0.2264649994852006,
+      "horse_number": 3,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105273",
+      "horse_name": "フォーゲル",
+      "score": 0.17045226074498623,
+      "horse_number": 9,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103162",
+      "horse_name": "タマモイカロス",
+      "score": 0.12051360503699285,
+      "horse_number": 1,
+      "odds": 2.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102872",
+      "horse_name": "ミスターバッドガイ",
+      "score": 0.02822559108140008,
+      "horse_number": 5,
+      "odds": 12.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100398",
+      "horse_name": "ランドスター",
+      "score": -0.019469820925046902,
+      "horse_number": 6,
+      "odds": 12.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104047",
+      "horse_name": "ノアールビーナス",
+      "score": -0.13018999190112202,
+      "horse_number": 7,
+      "odds": 24.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106185",
+      "horse_name": "コラルリーフ",
+      "score": -0.1751168296555901,
+      "horse_number": 4,
+      "odds": 6.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100214",
+      "horse_name": "シーグルロス",
+      "score": -0.43715892018401503,
+      "horse_number": 2,
+      "odds": 13.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106197",
+      "horse_name": "フレンドモナコ",
+      "score": -0.6231610526085567,
+      "horse_number": 8,
+      "odds": 45.1
+    }
+  ]
+}

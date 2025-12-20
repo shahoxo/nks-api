@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050508",
+  "race_name": "YJSF名1",
+  "race_time": "2025-12-20 13:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020107017",
+      "horse_name": "エイシンジェンマ",
+      "score": 0.13920785189812382,
+      "horse_number": 5,
+      "odds": 10.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106792",
+      "horse_name": "コスモアチーブ",
+      "score": -0.12727171451706712,
+      "horse_number": 3,
+      "odds": 22.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103502",
+      "horse_name": "トラストエムシー",
+      "score": -0.18900737876079862,
+      "horse_number": 16,
+      "odds": 21.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105729",
+      "horse_name": "ミッキーストライク",
+      "score": -0.1973879550311381,
+      "horse_number": 6,
+      "odds": 8.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106634",
+      "horse_name": "アンビアンス",
+      "score": -0.20521929140536666,
+      "horse_number": 10,
+      "odds": 5.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105839",
+      "horse_name": "アスクデッドヒート",
+      "score": -0.21163245815319273,
+      "horse_number": 12,
+      "odds": 18.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101557",
+      "horse_name": "タマモランプ",
+      "score": -0.23355117556846108,
+      "horse_number": 2,
+      "odds": 9.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104832",
+      "horse_name": "モアリジット",
+      "score": -0.2706400137479678,
+      "horse_number": 15,
+      "odds": 9.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105325",
+      "horse_name": "テルケンユミクイン",
+      "score": -0.297128474506474,
+      "horse_number": 7,
+      "odds": 11.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104692",
+      "horse_name": "バースライト",
+      "score": -0.31639476809817185,
+      "horse_number": 4,
+      "odds": 8.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103251",
+      "horse_name": "メイショウビストロ",
+      "score": -0.3243476495154044,
+      "horse_number": 9,
+      "odds": 8.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102552",
+      "horse_name": "クラウドセイル",
+      "score": -0.4445502562119339,
+      "horse_number": 11,
+      "odds": 69.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104413",
+      "horse_name": "マハートマーベル",
+      "score": -0.49915090433902964,
+      "horse_number": 13,
+      "odds": 60.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100548",
+      "horse_name": "ヴィーデ",
+      "score": -0.5063657112471335,
+      "horse_number": 14,
+      "odds": 47.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104778",
+      "horse_name": "チャイボーグ",
+      "score": -0.5173166941642726,
+      "horse_number": 1,
+      "odds": 13.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021106821",
+      "horse_name": "マイネルレグルス",
+      "score": -0.5768133336183507,
+      "horse_number": 8,
+      "odds": 28.6
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050508",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-20 13:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110132",
+      "horse_name": "ピコテンダー",
+      "score": 0.4367397960190848,
+      "horse_number": 4,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100620",
+      "horse_name": "シルフレイ",
+      "score": 0.24899459185644096,
+      "horse_number": 11,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019101165",
+      "horse_name": "キボウノホシ",
+      "score": 0.18246986243429472,
+      "horse_number": 3,
+      "odds": 29.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106122",
+      "horse_name": "タルトポワール",
+      "score": 0.12564706780830504,
+      "horse_number": 7,
+      "odds": 13.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104722",
+      "horse_name": "ダンケルド",
+      "score": 0.12283661758838049,
+      "horse_number": 1,
+      "odds": 6.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110001",
+      "horse_name": "キングズブレス",
+      "score": 0.08667881681507716,
+      "horse_number": 16,
+      "odds": 22.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104936",
+      "horse_name": "カサブランカキッド",
+      "score": -0.05567023990784506,
+      "horse_number": 10,
+      "odds": 20.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019105754",
+      "horse_name": "ルプランドル",
+      "score": -0.09279653871434873,
+      "horse_number": 13,
+      "odds": 126.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104418",
+      "horse_name": "エンジェルブリーズ",
+      "score": -0.10138474002850818,
+      "horse_number": 5,
+      "odds": 22.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101921",
+      "horse_name": "ポムファッジ",
+      "score": -0.2784784171535055,
+      "horse_number": 8,
+      "odds": 75.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103918",
+      "horse_name": "アツキヤマト",
+      "score": -0.2873314310215177,
+      "horse_number": 12,
+      "odds": 14.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019100234",
+      "horse_name": "セイゲン",
+      "score": -0.44072683655774236,
+      "horse_number": 9,
+      "odds": 110.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104105",
+      "horse_name": "ルクスマーベリック",
+      "score": -0.4749707625801818,
+      "horse_number": 14,
+      "odds": 50.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100604",
+      "horse_name": "ジェイエルバース",
+      "score": -0.5836065190735424,
+      "horse_number": 15,
+      "odds": 36.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101409",
+      "horse_name": "レーヴレジェンド",
+      "score": -0.5852027566716489,
+      "horse_number": 2,
+      "odds": 67.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101781",
+      "horse_name": "2022101781",
+      "score": -0.594723969342671,
+      "horse_number": 6,
+      "odds": 77.2
+    }
+  ]
+}
