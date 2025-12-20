@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050501",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-20 10:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102594",
+      "horse_name": "ジャガーライズ",
+      "score": 0.2770703488742429,
+      "horse_number": 14,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106141",
+      "horse_name": "シュピラー",
+      "score": -0.01114441562487712,
+      "horse_number": 6,
+      "odds": 3.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103571",
+      "horse_name": "メインテーマ",
+      "score": -0.039756247984627346,
+      "horse_number": 16,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106658",
+      "horse_name": "ニンジャトットリ",
+      "score": -0.14280033719463317,
+      "horse_number": 11,
+      "odds": 5.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107400",
+      "horse_name": "ベアハンドキャッチ",
+      "score": -0.3382958789066197,
+      "horse_number": 10,
+      "odds": 15.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101063",
+      "horse_name": "メイショウオタモイ",
+      "score": -0.3493564811759299,
+      "horse_number": 15,
+      "odds": 41.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105538",
+      "horse_name": "コブラツイスト",
+      "score": -0.37469215207674267,
+      "horse_number": 2,
+      "odds": 19.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106574",
+      "horse_name": "アイビーキラリ",
+      "score": -0.3905799817848864,
+      "horse_number": 7,
+      "odds": 60.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105558",
+      "horse_name": "カンレイスター",
+      "score": -0.43565294930231113,
+      "horse_number": 8,
+      "odds": 17.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107446",
+      "horse_name": "ラスエル",
+      "score": -0.49691858954149404,
+      "horse_number": 4,
+      "odds": 128.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106241",
+      "horse_name": "ナムラパピ",
+      "score": -0.5158948864784395,
+      "horse_number": 12,
+      "odds": 116.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102970",
+      "horse_name": "ドライヴトウショウ",
+      "score": -0.6101217439592936,
+      "horse_number": 13,
+      "odds": 83.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106347",
+      "horse_name": "エルドラド",
+      "score": -0.6518943205472477,
+      "horse_number": 5,
+      "odds": 37.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101251",
+      "horse_name": "ジョリュウジャンシ",
+      "score": -0.68273304026888,
+      "horse_number": 9,
+      "odds": 124.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106655",
+      "horse_name": "ポルタシャーンス",
+      "score": -0.6887521558175991,
+      "horse_number": 3,
+      "odds": 117.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023101191",
+      "horse_name": "リスペクトライト",
+      "score": -0.7296062363014159,
+      "horse_number": 1,
+      "odds": 135.4
+    }
+  ]
+}

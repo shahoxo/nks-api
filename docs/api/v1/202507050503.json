@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050503",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-20 10:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105053",
+      "horse_name": "スルーザナイト",
+      "score": 0.17058604432108754,
+      "horse_number": 4,
+      "odds": 8.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105695",
+      "horse_name": "ディニテ",
+      "score": 0.08416850061361252,
+      "horse_number": 9,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106312",
+      "horse_name": "キュードス",
+      "score": 0.004807510305216142,
+      "horse_number": 13,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100390",
+      "horse_name": "アバレリュウ",
+      "score": -0.06505701738554341,
+      "horse_number": 3,
+      "odds": 11.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104740",
+      "horse_name": "コズミックダンサー",
+      "score": -0.15794083093300817,
+      "horse_number": 16,
+      "odds": 7.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103643",
+      "horse_name": "ワンカードフェロー",
+      "score": -0.1814852077778163,
+      "horse_number": 12,
+      "odds": 15.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102383",
+      "horse_name": "ニヒトツーゼーア",
+      "score": -0.36252666717480075,
+      "horse_number": 5,
+      "odds": 3.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100078",
+      "horse_name": "フリッパー",
+      "score": -0.41473802328156806,
+      "horse_number": 7,
+      "odds": 80.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104496",
+      "horse_name": "スコーピオンイメル",
+      "score": -0.4334468402361239,
+      "horse_number": 14,
+      "odds": 12.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019106972",
+      "horse_name": "ロストボール",
+      "score": -0.46377577496632205,
+      "horse_number": 11,
+      "odds": 62.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100730",
+      "horse_name": "コスモフレディ",
+      "score": -0.5282804074881441,
+      "horse_number": 2,
+      "odds": 22.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105839",
+      "horse_name": "サンダーユニバンス",
+      "score": -0.5450442950922436,
+      "horse_number": 1,
+      "odds": 35.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019101233",
+      "horse_name": "アイファーファイト",
+      "score": -0.5719778936462864,
+      "horse_number": 6,
+      "odds": 77.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104822",
+      "horse_name": "リボルトバレット",
+      "score": -0.5909947845517776,
+      "horse_number": 8,
+      "odds": 25.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104474",
+      "horse_name": "ハイグッドワールド",
+      "score": -0.6003341003233919,
+      "horse_number": 15,
+      "odds": 35.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022105727",
+      "horse_name": "メリトーリアス",
+      "score": -0.6546627932857848,
+      "horse_number": 10,
+      "odds": 63.0
+    }
+  ]
+}

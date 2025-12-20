@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050502",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-20 10:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106328",
+      "horse_name": "モリノアミーゴ",
+      "score": 0.10061906803266377,
+      "horse_number": 9,
+      "odds": 7.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102952",
+      "horse_name": "ユージュアーナ",
+      "score": 0.061975544998084095,
+      "horse_number": 7,
+      "odds": 17.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106540",
+      "horse_name": "イーブンベター",
+      "score": 0.026194656730754867,
+      "horse_number": 15,
+      "odds": 9.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105364",
+      "horse_name": "メルシージュテーム",
+      "score": 0.015257167903152534,
+      "horse_number": 11,
+      "odds": 6.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104391",
+      "horse_name": "ヴィヴァシャス",
+      "score": -0.024254484801629478,
+      "horse_number": 10,
+      "odds": 25.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106013",
+      "horse_name": "エイミームーン",
+      "score": -0.07586982741599221,
+      "horse_number": 6,
+      "odds": 22.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105162",
+      "horse_name": "ルージュナリッシュ",
+      "score": -0.13677490786652505,
+      "horse_number": 2,
+      "odds": 5.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105973",
+      "horse_name": "ハヤブサオヒメサマ",
+      "score": -0.14191441348030656,
+      "horse_number": 13,
+      "odds": 15.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105078",
+      "horse_name": "アトリウムチャペル",
+      "score": -0.20711688935426084,
+      "horse_number": 8,
+      "odds": 26.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102026",
+      "horse_name": "アクアマリーナ",
+      "score": -0.2130885582873914,
+      "horse_number": 14,
+      "odds": 4.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101048",
+      "horse_name": "ショウナンラフィネ",
+      "score": -0.21617823221280932,
+      "horse_number": 12,
+      "odds": 34.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103720",
+      "horse_name": "カルネヴァーレ",
+      "score": -0.2877672572542176,
+      "horse_number": 4,
+      "odds": 34.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103943",
+      "horse_name": "クインズセレネ",
+      "score": -0.3040861747807645,
+      "horse_number": 3,
+      "odds": 18.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101386",
+      "horse_name": "ホシニネガイヲ",
+      "score": -0.4276043668833942,
+      "horse_number": 16,
+      "odds": 34.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021107278",
+      "horse_name": "ユーヴェリア",
+      "score": -0.5431529973283721,
+      "horse_number": 1,
+      "odds": 31.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019101620",
+      "horse_name": "リノアラ",
+      "score": -0.5456601730905545,
+      "horse_number": 5,
+      "odds": 96.5
+    }
+  ]
+}

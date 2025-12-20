@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050502",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-20 10:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107247",
+      "horse_name": "バステール",
+      "score": 0.4785418432743388,
+      "horse_number": 8,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105683",
+      "horse_name": "アラムシャピラス",
+      "score": 0.4184452862587195,
+      "horse_number": 9,
+      "odds": 13.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103899",
+      "horse_name": "カフジエメンタール",
+      "score": 0.3847133949374507,
+      "horse_number": 15,
+      "odds": 4.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103398",
+      "horse_name": "ダノンオブアイデア",
+      "score": 0.13650159984011556,
+      "horse_number": 3,
+      "odds": 19.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101576",
+      "horse_name": "リン",
+      "score": 0.10988499471750787,
+      "horse_number": 10,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104056",
+      "horse_name": "アスピラシオン",
+      "score": 0.09700247086463769,
+      "horse_number": 13,
+      "odds": 64.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100603",
+      "horse_name": "ショウナンアンバー",
+      "score": -0.10866361567573439,
+      "horse_number": 5,
+      "odds": 43.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102473",
+      "horse_name": "ヨッシーリオ",
+      "score": -0.18950591631376737,
+      "horse_number": 1,
+      "odds": 130.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103599",
+      "horse_name": "ファイヤーナイフ",
+      "score": -0.20400582750757448,
+      "horse_number": 14,
+      "odds": 107.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105234",
+      "horse_name": "カパルア",
+      "score": -0.30156935604396967,
+      "horse_number": 7,
+      "odds": 89.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106403",
+      "horse_name": "アスクチャンスマン",
+      "score": -0.4541879367861389,
+      "horse_number": 6,
+      "odds": 36.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106722",
+      "horse_name": "サイレントワルツ",
+      "score": -0.4760070558434817,
+      "horse_number": 12,
+      "odds": 296.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105980",
+      "horse_name": "ジーモンスター",
+      "score": -0.49112774706650286,
+      "horse_number": 11,
+      "odds": 69.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103707",
+      "horse_name": "テイクザスローン",
+      "score": -0.5570817432018512,
+      "horse_number": 16,
+      "odds": 106.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103767",
+      "horse_name": "ミカレオス",
+      "score": -0.7560238565797833,
+      "horse_number": 4,
+      "odds": 207.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106139",
+      "horse_name": "レヴロード",
+      "score": -0.7560238565797833,
+      "horse_number": 2,
+      "odds": 167.8
+    }
+  ]
+}

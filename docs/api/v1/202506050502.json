@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050502",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-20 10:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023109067",
+      "horse_name": "アスコットヴェール",
+      "score": 0.27012681084626183,
+      "horse_number": 12,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103045",
+      "horse_name": "フィクセルリリア",
+      "score": 0.21388329789777738,
+      "horse_number": 16,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103533",
+      "horse_name": "アルティソナンテ",
+      "score": 0.20833764500361607,
+      "horse_number": 5,
+      "odds": 21.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106994",
+      "horse_name": "ティルベリー",
+      "score": 0.08810044858373703,
+      "horse_number": 6,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103771",
+      "horse_name": "ティナンヴァランタ",
+      "score": -0.02294026354328716,
+      "horse_number": 7,
+      "odds": 11.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103069",
+      "horse_name": "ノーブルクラウド",
+      "score": -0.04788510829323782,
+      "horse_number": 3,
+      "odds": 48.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106350",
+      "horse_name": "グラスハーティー",
+      "score": -0.11209038982767554,
+      "horse_number": 9,
+      "odds": 14.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105783",
+      "horse_name": "ホールドザデイ",
+      "score": -0.1194085269811696,
+      "horse_number": 13,
+      "odds": 4.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100351",
+      "horse_name": "ヤマヤロード",
+      "score": -0.13461000386175428,
+      "horse_number": 11,
+      "odds": 66.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103628",
+      "horse_name": "ケイツーリーブル",
+      "score": -0.14352702625306993,
+      "horse_number": 2,
+      "odds": 7.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105452",
+      "horse_name": "アーティラリー",
+      "score": -0.21100377256842648,
+      "horse_number": 4,
+      "odds": 14.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101107",
+      "horse_name": "ブルーサーマル",
+      "score": -0.4920172124581902,
+      "horse_number": 1,
+      "odds": 43.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104632",
+      "horse_name": "マスカルポーネ",
+      "score": -0.5107785872735392,
+      "horse_number": 14,
+      "odds": 81.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100794",
+      "horse_name": "マリノリュミエール",
+      "score": -0.6035163520339901,
+      "horse_number": 10,
+      "odds": 61.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104052",
+      "horse_name": "ルサフィール",
+      "score": -0.6231636360069235,
+      "horse_number": 8,
+      "odds": 63.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104971",
+      "horse_name": "クインズツバキ",
+      "score": -0.6887521558175991,
+      "horse_number": 15,
+      "odds": 39.3
+    }
+  ]
+}
