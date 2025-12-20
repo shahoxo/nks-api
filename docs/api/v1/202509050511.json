@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050511",
+  "race_name": "タンザナイト",
+  "race_time": "2025-12-20 15:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103434",
+      "horse_name": "カルロヴェローチェ",
+      "score": 0.41396768468872347,
+      "horse_number": 9,
+      "odds": 5.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103116",
+      "horse_name": "ヤブサメ",
+      "score": 0.2047275198012315,
+      "horse_number": 14,
+      "odds": 6.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019110102",
+      "horse_name": "デュガ",
+      "score": 0.13748866826166573,
+      "horse_number": 5,
+      "odds": 12.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019103605",
+      "horse_name": "ペプチドヤマト",
+      "score": 0.08361413220183814,
+      "horse_number": 6,
+      "odds": 31.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105154",
+      "horse_name": "アサカラキング",
+      "score": 0.012711785147833516,
+      "horse_number": 1,
+      "odds": 5.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101827",
+      "horse_name": "バースクライ",
+      "score": 0.005797450833436437,
+      "horse_number": 15,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103732",
+      "horse_name": "ドゥアイズ",
+      "score": -0.02783833596682517,
+      "horse_number": 13,
+      "odds": 29.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019110001",
+      "horse_name": "ショウナンハクラク",
+      "score": -0.03456156560175164,
+      "horse_number": 12,
+      "odds": 47.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105128",
+      "horse_name": "サトノカルナバル",
+      "score": -0.08716035116665315,
+      "horse_number": 4,
+      "odds": 5.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103195",
+      "horse_name": "アスコルティアーモ",
+      "score": -0.1363190165236168,
+      "horse_number": 11,
+      "odds": 26.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105459",
+      "horse_name": "ソウテン",
+      "score": -0.1449739666552551,
+      "horse_number": 2,
+      "odds": 52.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101897",
+      "horse_name": "レッドヒルシューズ",
+      "score": -0.19506858007444483,
+      "horse_number": 3,
+      "odds": 42.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101543",
+      "horse_name": "グランテスト",
+      "score": -0.27692645823840606,
+      "horse_number": 10,
+      "odds": 22.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017101423",
+      "horse_name": "ウイングレイテスト",
+      "score": -0.3043906267433688,
+      "horse_number": 16,
+      "odds": 14.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100815",
+      "horse_name": "ミルトクレイモー",
+      "score": -0.3089872987645961,
+      "horse_number": 8,
+      "odds": 44.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101588",
+      "horse_name": "ロンドンプラン",
+      "score": -0.36486527848714523,
+      "horse_number": 7,
+      "odds": 92.4
+    }
+  ]
+}

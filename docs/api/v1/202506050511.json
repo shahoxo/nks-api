@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050511",
+  "race_name": "ターコイズS",
+  "race_time": "2025-12-20 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103674",
+      "horse_name": "ウンブライル",
+      "score": 0.5233146345745111,
+      "horse_number": 6,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105778",
+      "horse_name": "チェルビアット",
+      "score": 0.3343226792403734,
+      "horse_number": 16,
+      "odds": 5.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105755",
+      "horse_name": "スリールミニョン",
+      "score": 0.08918340817704876,
+      "horse_number": 2,
+      "odds": 12.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020100909",
+      "horse_name": "ジューンオレンジ",
+      "score": 0.08178647968193226,
+      "horse_number": 4,
+      "odds": 12.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103519",
+      "horse_name": "リラボニート",
+      "score": 0.06588421181643102,
+      "horse_number": 1,
+      "odds": 16.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102013",
+      "horse_name": "ソルトクィーン",
+      "score": 0.026368222687299096,
+      "horse_number": 5,
+      "odds": 23.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104073",
+      "horse_name": "カピリナ",
+      "score": 0.02362283090041676,
+      "horse_number": 11,
+      "odds": 17.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021107179",
+      "horse_name": "ボンドガール",
+      "score": -8.938689497732868e-05,
+      "horse_number": 7,
+      "odds": 6.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102928",
+      "horse_name": "ソーダズリング",
+      "score": -0.01815798918255049,
+      "horse_number": 13,
+      "odds": 66.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018103535",
+      "horse_name": "ホウオウラスカーズ",
+      "score": -0.030480113631798075,
+      "horse_number": 15,
+      "odds": 28.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105192",
+      "horse_name": "ビップデイジー",
+      "score": -0.05963475327831276,
+      "horse_number": 9,
+      "odds": 8.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105806",
+      "horse_name": "ドロップオブライト",
+      "score": -0.06318258553279801,
+      "horse_number": 8,
+      "odds": 8.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102660",
+      "horse_name": "シングザットソング",
+      "score": -0.16340811068205502,
+      "horse_number": 3,
+      "odds": 26.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019105768",
+      "horse_name": "フィールシンパシー",
+      "score": -0.2010988024898547,
+      "horse_number": 14,
+      "odds": 74.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105291",
+      "horse_name": "ランフォーヴァウ",
+      "score": -0.29383826113995276,
+      "horse_number": 10,
+      "odds": 123.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106967",
+      "horse_name": "キタウイング",
+      "score": -0.5124558431601863,
+      "horse_number": 12,
+      "odds": 121.7
+    }
+  ]
+}

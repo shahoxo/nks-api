@@ -1,0 +1,152 @@
+{
+  "race_id": "202507050512",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-20 16:01",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106123",
+      "horse_name": "ガンマジーティーピ",
+      "score": 0.23923261962640185,
+      "horse_number": 6,
+      "odds": 13.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105557",
+      "horse_name": "エイヘンハールト",
+      "score": 0.2377129574361605,
+      "horse_number": 10,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103594",
+      "horse_name": "サンタアニタ",
+      "score": 0.17673192905974272,
+      "horse_number": 15,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102794",
+      "horse_name": "マキシマムドライブ",
+      "score": 0.11710399075341163,
+      "horse_number": 1,
+      "odds": 14.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103210",
+      "horse_name": "メイショウサチダケ",
+      "score": 0.0910478048018487,
+      "horse_number": 2,
+      "odds": 11.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103058",
+      "horse_name": "ノボリリア",
+      "score": 0.08350309593910747,
+      "horse_number": 8,
+      "odds": 6.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103705",
+      "horse_name": "レッドロスタム",
+      "score": 0.07663948949669046,
+      "horse_number": 12,
+      "odds": 8.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101683",
+      "horse_name": "ウィンストン",
+      "score": 0.07422386432075767,
+      "horse_number": 11,
+      "odds": 16.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105279",
+      "horse_name": "ルパヴィヨン",
+      "score": -0.00510443169034593,
+      "horse_number": 13,
+      "odds": 17.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105983",
+      "horse_name": "キトンインザスカイ",
+      "score": -0.0548745365350127,
+      "horse_number": 7,
+      "odds": 17.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105473",
+      "horse_name": "ラヴスコール",
+      "score": -0.17688325237542432,
+      "horse_number": 14,
+      "odds": 20.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103322",
+      "horse_name": "スプリングデイ",
+      "score": -0.18322530143342466,
+      "horse_number": 5,
+      "odds": 40.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103750",
+      "horse_name": "スピリットライズ",
+      "score": -0.28048332824481575,
+      "horse_number": 3,
+      "odds": 43.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104501",
+      "horse_name": "パリコレジェンヌ",
+      "score": -0.329057545906753,
+      "horse_number": 4,
+      "odds": 26.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102561",
+      "horse_name": "インペリアルコート",
+      "score": -0.36519164538193294,
+      "horse_number": 18,
+      "odds": 22.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103549",
+      "horse_name": "コムーネ",
+      "score": -0.3921747540554563,
+      "horse_number": 17,
+      "odds": 52.2
+    },
+    {
+      "rank": 17,
+      "horse_id": "2019100249",
+      "horse_name": "ツッチーフェイス",
+      "score": -0.4019313102003809,
+      "horse_number": 9,
+      "odds": 69.6
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021102283",
+      "horse_name": "トーマステソーロ",
+      "score": -0.5021701020515209,
+      "horse_number": 16,
+      "odds": 50.5
+    }
+  ]
+}
