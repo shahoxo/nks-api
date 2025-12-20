@@ -1,0 +1,72 @@
+{
+  "race_id": "202509050510",
+  "race_name": "境港特別",
+  "race_time": "2025-12-20 14:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105827",
+      "horse_name": "アロンディ",
+      "score": 0.45175156279964546,
+      "horse_number": 3,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105503",
+      "horse_name": "クルミナーレ",
+      "score": 0.21285842015391138,
+      "horse_number": 1,
+      "odds": 2.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104887",
+      "horse_name": "シュバルツマサムネ",
+      "score": 0.02646187581150574,
+      "horse_number": 4,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105285",
+      "horse_name": "ライフセービング",
+      "score": -0.23893288942695648,
+      "horse_number": 2,
+      "odds": 12.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2018100297",
+      "horse_name": "サンデイビス",
+      "score": -0.3712421469057835,
+      "horse_number": 7,
+      "odds": 25.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2016102767",
+      "horse_name": "プレイリードリーム",
+      "score": -0.534442590896866,
+      "horse_number": 8,
+      "odds": 16.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019100326",
+      "horse_name": "イーサンアイ",
+      "score": -0.5523585719395014,
+      "horse_number": 6,
+      "odds": 32.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104285",
+      "horse_name": "ラーテル",
+      "score": -0.5833309696314021,
+      "horse_number": 5,
+      "odds": 55.2
+    }
+  ]
+}

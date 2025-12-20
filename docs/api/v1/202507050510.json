@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050510",
+  "race_name": "YJSF名2",
+  "race_time": "2025-12-20 14:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103186",
+      "horse_name": "テーオーライマン",
+      "score": 0.2021836560660512,
+      "horse_number": 1,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102797",
+      "horse_name": "フィリップ",
+      "score": -0.06521700601090982,
+      "horse_number": 3,
+      "odds": 5.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106986",
+      "horse_name": "ミスエル",
+      "score": -0.10311058275539714,
+      "horse_number": 5,
+      "odds": 19.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102259",
+      "horse_name": "クリノオリーブ",
+      "score": -0.12876616760167614,
+      "horse_number": 13,
+      "odds": 3.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101023",
+      "horse_name": "アイファーバトル",
+      "score": -0.20454182941334917,
+      "horse_number": 14,
+      "odds": 20.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019102656",
+      "horse_name": "ロードオルデン",
+      "score": -0.24934451786955314,
+      "horse_number": 9,
+      "odds": 15.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020107095",
+      "horse_name": "メモリーグラス",
+      "score": -0.30667588636984283,
+      "horse_number": 8,
+      "odds": 28.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102082",
+      "horse_name": "トルーマンテソーロ",
+      "score": -0.3296905451462009,
+      "horse_number": 7,
+      "odds": 31.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106704",
+      "horse_name": "カンザシ",
+      "score": -0.37753975103599596,
+      "horse_number": 6,
+      "odds": 21.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104911",
+      "horse_name": "ルミッキ",
+      "score": -0.3920907701267685,
+      "horse_number": 4,
+      "odds": 31.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102321",
+      "horse_name": "キングクー",
+      "score": -0.4076858335452783,
+      "horse_number": 11,
+      "odds": 23.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104751",
+      "horse_name": "ゼットカレン",
+      "score": -0.41807686855165205,
+      "horse_number": 12,
+      "odds": 54.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019102163",
+      "horse_name": "フォーワンセルフ",
+      "score": -0.5509077773814817,
+      "horse_number": 15,
+      "odds": 38.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104960",
+      "horse_name": "トロピカルヒーロー",
+      "score": -0.5556045938489673,
+      "horse_number": 16,
+      "odds": 50.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101461",
+      "horse_name": "カツラノキサノキ",
+      "score": -0.560798263658032,
+      "horse_number": 10,
+      "odds": 30.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104099",
+      "horse_name": "マーシヴィガラス",
+      "score": -0.5719778936462864,
+      "horse_number": 2,
+      "odds": 18.3
+    }
+  ]
+}

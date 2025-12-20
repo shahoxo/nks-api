@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050510",
+  "race_name": "香取特別",
+  "race_time": "2025-12-20 15:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021106126",
+      "horse_name": "タイセイアディクト",
+      "score": 0.18440220371228921,
+      "horse_number": 6,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100306",
+      "horse_name": "フジレイメイ",
+      "score": 0.08107118870166377,
+      "horse_number": 1,
+      "odds": 13.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103414",
+      "horse_name": "ムジェロ",
+      "score": 0.014044456271410925,
+      "horse_number": 5,
+      "odds": 15.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100526",
+      "horse_name": "コスモコンフェルマ",
+      "score": -0.02963327580576733,
+      "horse_number": 15,
+      "odds": 18.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104859",
+      "horse_name": "プレシャスデイ",
+      "score": -0.05671235741901142,
+      "horse_number": 2,
+      "odds": 3.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100529",
+      "horse_name": "ハッピーダンチャン",
+      "score": -0.20911249523749764,
+      "horse_number": 14,
+      "odds": 6.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019100615",
+      "horse_name": "シャンバラ",
+      "score": -0.2803090856819393,
+      "horse_number": 7,
+      "odds": 17.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100987",
+      "horse_name": "セレクティオ",
+      "score": -0.302864992894552,
+      "horse_number": 8,
+      "odds": 58.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104953",
+      "horse_name": "インペリアルライン",
+      "score": -0.3839207380866431,
+      "horse_number": 4,
+      "odds": 13.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101067",
+      "horse_name": "ファイアトリック",
+      "score": -0.4363952723446364,
+      "horse_number": 16,
+      "odds": 9.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019103158",
+      "horse_name": "セイウンガレオン",
+      "score": -0.502523617873001,
+      "horse_number": 13,
+      "odds": 77.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019100641",
+      "horse_name": "アトラクティーボ",
+      "score": -0.5038944626073413,
+      "horse_number": 10,
+      "odds": 78.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104889",
+      "horse_name": "ラファールドール",
+      "score": -0.5147363692985539,
+      "horse_number": 3,
+      "odds": 12.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017105433",
+      "horse_name": "ヤウガウ",
+      "score": -0.5311741449122349,
+      "horse_number": 9,
+      "odds": 57.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106549",
+      "horse_name": "イデアユウシン",
+      "score": -0.6318373387288261,
+      "horse_number": 11,
+      "odds": 74.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103574",
+      "horse_name": "インジケーター",
+      "score": -0.6703572214166967,
+      "horse_number": 12,
+      "odds": 46.5
+    }
+  ]
+}
