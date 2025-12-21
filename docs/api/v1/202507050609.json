@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050609",
+  "race_name": "寒椿賞",
+  "race_time": "2025-12-21 14:05",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103962",
+      "horse_name": "オクトーバーナイン",
+      "score": 0.26772855352559,
+      "horse_number": 3,
+      "odds": 15.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104626",
+      "horse_name": "カタリテ",
+      "score": 0.23158493231145716,
+      "horse_number": 2,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104614",
+      "horse_name": "ゲームカレンダー",
+      "score": 0.20954919279431514,
+      "horse_number": 4,
+      "odds": 48.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101109",
+      "horse_name": "フレグレイ",
+      "score": 0.20747388056890592,
+      "horse_number": 9,
+      "odds": 39.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104174",
+      "horse_name": "ホウオウルクソール",
+      "score": 0.19921344053318524,
+      "horse_number": 6,
+      "odds": 9.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107538",
+      "horse_name": "ジャレッド",
+      "score": 0.18776747561862978,
+      "horse_number": 12,
+      "odds": 70.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103365",
+      "horse_name": "ヘリテージブルーム",
+      "score": 0.16625722081830793,
+      "horse_number": 13,
+      "odds": 5.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103755",
+      "horse_name": "エシェックオロワ",
+      "score": 0.1346908167699085,
+      "horse_number": 8,
+      "odds": 30.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105317",
+      "horse_name": "ウィングブルー",
+      "score": 0.12040846585908566,
+      "horse_number": 14,
+      "odds": 33.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105356",
+      "horse_name": "マーゴットブロー",
+      "score": 0.11840445867180073,
+      "horse_number": 1,
+      "odds": 12.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105092",
+      "horse_name": "マジッククッキー",
+      "score": 0.07325637707351142,
+      "horse_number": 15,
+      "odds": 4.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023110036",
+      "horse_name": "キーンセンス",
+      "score": 0.02939743983999977,
+      "horse_number": 16,
+      "odds": 21.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023110088",
+      "horse_name": "ジャンシ",
+      "score": -0.02870741072696851,
+      "horse_number": 7,
+      "odds": 45.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105545",
+      "horse_name": "スターオブロンドン",
+      "score": -0.038701783016311234,
+      "horse_number": 10,
+      "odds": 21.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104856",
+      "horse_name": "マイケルバローズ",
+      "score": -0.07639914228770614,
+      "horse_number": 11,
+      "odds": 15.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023102208",
+      "horse_name": "ワイズギャング",
+      "score": -0.08197435872536232,
+      "horse_number": 5,
+      "odds": 47.4
+    }
+  ]
+}

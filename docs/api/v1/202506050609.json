@@ -1,0 +1,96 @@
+{
+  "race_id": "202506050609",
+  "race_name": "チバテレ杯",
+  "race_time": "2025-12-21 14:15",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105057",
+      "horse_name": "ノビリシマビジョン",
+      "score": 0.36905640069128465,
+      "horse_number": 4,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105454",
+      "horse_name": "シャドウメテオ",
+      "score": 0.2726599654928335,
+      "horse_number": 2,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101068",
+      "horse_name": "クロシェットノエル",
+      "score": 0.26561423951413454,
+      "horse_number": 11,
+      "odds": 5.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100201",
+      "horse_name": "コンドゥイア",
+      "score": 0.14928196582609415,
+      "horse_number": 9,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103228",
+      "horse_name": "ビターグラッセ",
+      "score": 0.07768698568347891,
+      "horse_number": 3,
+      "odds": 10.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103929",
+      "horse_name": "オルノア",
+      "score": -0.0016416588441994654,
+      "horse_number": 1,
+      "odds": 17.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105789",
+      "horse_name": "ヴァイルマティ",
+      "score": -0.07727332583616028,
+      "horse_number": 5,
+      "odds": 35.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103533",
+      "horse_name": "ホウオウシンデレラ",
+      "score": -0.08321896645969841,
+      "horse_number": 8,
+      "odds": 33.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105600",
+      "horse_name": "グランカンタンテ",
+      "score": -0.11474198169182505,
+      "horse_number": 10,
+      "odds": 15.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105477",
+      "horse_name": "ロムネヤ",
+      "score": -0.1320706066116743,
+      "horse_number": 6,
+      "odds": 13.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106904",
+      "horse_name": "レイピカケ",
+      "score": -0.25900627854588676,
+      "horse_number": 7,
+      "odds": 29.5
+    }
+  ]
+}

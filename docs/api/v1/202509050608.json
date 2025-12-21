@@ -1,0 +1,128 @@
+{
+  "race_id": "202509050608",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-12-21 13:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105058",
+      "horse_name": "ヴァンアグレアブル",
+      "score": 0.40929481994056177,
+      "horse_number": 9,
+      "odds": 5.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110054",
+      "horse_name": "デルアヴァー",
+      "score": 0.2812809731800353,
+      "horse_number": 1,
+      "odds": 2.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105554",
+      "horse_name": "ゼロスネーク",
+      "score": 0.21652820373855108,
+      "horse_number": 6,
+      "odds": 4.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102700",
+      "horse_name": "トゥーザムーン",
+      "score": 0.1304930137363886,
+      "horse_number": 7,
+      "odds": 7.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106698",
+      "horse_name": "オカメノコイ",
+      "score": 0.04557687297647732,
+      "horse_number": 14,
+      "odds": 24.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105321",
+      "horse_name": "エーデル",
+      "score": 0.04239403491216693,
+      "horse_number": 11,
+      "odds": 38.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102397",
+      "horse_name": "ビービーバザーク",
+      "score": 0.03239167631777457,
+      "horse_number": 5,
+      "odds": 47.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110106",
+      "horse_name": "エリカヴェネチア",
+      "score": 0.023372105758555507,
+      "horse_number": 12,
+      "odds": 33.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102735",
+      "horse_name": "スマートカイロス",
+      "score": -0.18213056104764158,
+      "horse_number": 4,
+      "odds": 14.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102828",
+      "horse_name": "メイショウタイピン",
+      "score": -0.2538457626713432,
+      "horse_number": 10,
+      "odds": 19.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103708",
+      "horse_name": "ロンパイア",
+      "score": -0.35893135232381423,
+      "horse_number": 13,
+      "odds": 28.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2017103267",
+      "horse_name": "エクストラノート",
+      "score": -0.5011149626462982,
+      "horse_number": 3,
+      "odds": 74.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019106671",
+      "horse_name": "ワンダフルトゥデイ",
+      "score": -0.5088637868849478,
+      "horse_number": 2,
+      "odds": 76.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100060",
+      "horse_name": "オセアバトルプラン",
+      "score": -0.5285825139630671,
+      "horse_number": 8,
+      "odds": 94.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100677",
+      "horse_name": "ヴォルスター",
+      "score": -0.5306974268226282,
+      "horse_number": 15,
+      "odds": 18.0
+    }
+  ]
+}

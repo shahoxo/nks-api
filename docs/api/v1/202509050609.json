@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050609",
+  "race_name": "御影S",
+  "race_time": "2025-12-21 14:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103073",
+      "horse_name": "プロミシングスター",
+      "score": 0.2939579731245775,
+      "horse_number": 5,
+      "odds": 7.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103786",
+      "horse_name": "ヒルノドゴール",
+      "score": 0.15438174158562595,
+      "horse_number": 1,
+      "odds": 9.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100204",
+      "horse_name": "ピエマンソン",
+      "score": 0.1492254521538534,
+      "horse_number": 6,
+      "odds": 1.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101582",
+      "horse_name": "アンジュフィールド",
+      "score": 0.12504127044417024,
+      "horse_number": 10,
+      "odds": 12.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105598",
+      "horse_name": "ダノンスウィッチ",
+      "score": 0.1009607996390445,
+      "horse_number": 14,
+      "odds": 15.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106757",
+      "horse_name": "リネアグローリア",
+      "score": 0.056180918823506266,
+      "horse_number": 13,
+      "odds": 35.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020110120",
+      "horse_name": "ガンウルフ",
+      "score": -0.0007053971185930711,
+      "horse_number": 4,
+      "odds": 12.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020110104",
+      "horse_name": "ラップスター",
+      "score": -0.05258282149677271,
+      "horse_number": 12,
+      "odds": 26.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101019",
+      "horse_name": "コト",
+      "score": -0.06534525123498414,
+      "horse_number": 9,
+      "odds": 29.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102493",
+      "horse_name": "トリリオンボーイ",
+      "score": -0.06811363936635477,
+      "horse_number": 15,
+      "odds": 28.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103088",
+      "horse_name": "ピックアップライン",
+      "score": -0.0824250095391053,
+      "horse_number": 16,
+      "odds": 26.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105489",
+      "horse_name": "シークレットキー",
+      "score": -0.10457033769090307,
+      "horse_number": 11,
+      "odds": 54.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100583",
+      "horse_name": "レイズカイザー",
+      "score": -0.21286823018633322,
+      "horse_number": 8,
+      "odds": 36.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104169",
+      "horse_name": "メイショウタイゲイ",
+      "score": -0.29697863055037454,
+      "horse_number": 3,
+      "odds": 120.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019107016",
+      "horse_name": "ウナギノボリ",
+      "score": -0.4148779253298268,
+      "horse_number": 2,
+      "odds": 35.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103985",
+      "horse_name": "グラスシフォン",
+      "score": -0.41927501449268656,
+      "horse_number": 7,
+      "odds": 71.5
+    }
+  ]
+}
