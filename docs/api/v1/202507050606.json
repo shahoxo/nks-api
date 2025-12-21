@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050606",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-21 12:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104738",
+      "horse_name": "パスコード",
+      "score": 0.284566534322292,
+      "horse_number": 9,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105550",
+      "horse_name": "ノクナレア",
+      "score": 0.25019223989573774,
+      "horse_number": 11,
+      "odds": 3.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103901",
+      "horse_name": "マーシーラン",
+      "score": 0.23993196346953266,
+      "horse_number": 10,
+      "odds": 6.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019102215",
+      "horse_name": "サク",
+      "score": 0.10396861646793538,
+      "horse_number": 6,
+      "odds": 12.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105715",
+      "horse_name": "ジョワイユノエル",
+      "score": 0.0698050110763404,
+      "horse_number": 14,
+      "odds": 20.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106741",
+      "horse_name": "メイリー",
+      "score": 0.053394940852321916,
+      "horse_number": 15,
+      "odds": 17.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100090",
+      "horse_name": "エイシンコクスン",
+      "score": 0.026879766718670296,
+      "horse_number": 8,
+      "odds": 15.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105831",
+      "horse_name": "フェルシナ",
+      "score": -0.05151166826985476,
+      "horse_number": 2,
+      "odds": 10.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105857",
+      "horse_name": "ラウルベア",
+      "score": -0.08633177713910858,
+      "horse_number": 13,
+      "odds": 34.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103488",
+      "horse_name": "ジャンヌローサ",
+      "score": -0.10488733024234272,
+      "horse_number": 3,
+      "odds": 12.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105168",
+      "horse_name": "クイーンズワーフ",
+      "score": -0.12541426847197717,
+      "horse_number": 12,
+      "odds": 14.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104242",
+      "horse_name": "ショウナンラウール",
+      "score": -0.16234811741708424,
+      "horse_number": 5,
+      "odds": 25.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102950",
+      "horse_name": "テクノデザイン",
+      "score": -0.21202384156251197,
+      "horse_number": 1,
+      "odds": 36.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101064",
+      "horse_name": "ノイヤー",
+      "score": -0.33956019303192797,
+      "horse_number": 7,
+      "odds": 162.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101749",
+      "horse_name": "ブルバンビーナ",
+      "score": -0.443857319032962,
+      "horse_number": 16,
+      "odds": 28.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021101427",
+      "horse_name": "ガーデンプランナー",
+      "score": -0.6997242947219148,
+      "horse_number": 4,
+      "odds": 90.5
+    }
+  ]
+}
