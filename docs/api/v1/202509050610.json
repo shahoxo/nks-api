@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050610",
+  "race_name": "ベテルギウス",
+  "race_time": "2025-12-21 15:01",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106553",
+      "horse_name": "タガノバビロン",
+      "score": 0.5276954677534897,
+      "horse_number": 1,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104646",
+      "horse_name": "ジンセイ",
+      "score": 0.5042986956556001,
+      "horse_number": 13,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103387",
+      "horse_name": "クールミラボー",
+      "score": 0.37328243613183804,
+      "horse_number": 8,
+      "odds": 7.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102750",
+      "horse_name": "タイトニット",
+      "score": 0.2683027748528026,
+      "horse_number": 2,
+      "odds": 9.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100653",
+      "horse_name": "ロードラビリンス",
+      "score": 0.224125396513165,
+      "horse_number": 3,
+      "odds": 23.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020100806",
+      "horse_name": "ディープリボーン",
+      "score": 0.19265105182699338,
+      "horse_number": 10,
+      "odds": 15.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019100630",
+      "horse_name": "ハピ",
+      "score": 0.17226584159529273,
+      "horse_number": 5,
+      "odds": 7.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019101324",
+      "horse_name": "テーオードレフォン",
+      "score": 0.14849977838819656,
+      "horse_number": 14,
+      "odds": 20.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105630",
+      "horse_name": "ルシュヴァルドール",
+      "score": 0.14042486710448432,
+      "horse_number": 9,
+      "odds": 18.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105264",
+      "horse_name": "アムールドパリ",
+      "score": 0.13111263231892661,
+      "horse_number": 6,
+      "odds": 43.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100761",
+      "horse_name": "マンマリアーレ",
+      "score": -0.015452629854842921,
+      "horse_number": 12,
+      "odds": 69.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019101198",
+      "horse_name": "マリオロード",
+      "score": -0.061404819499103334,
+      "horse_number": 15,
+      "odds": 65.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104510",
+      "horse_name": "タクシンイメル",
+      "score": -0.11460025672514208,
+      "horse_number": 11,
+      "odds": 32.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103419",
+      "horse_name": "サンライズアリオン",
+      "score": -0.2452092795704685,
+      "horse_number": 16,
+      "odds": 18.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019105308",
+      "horse_name": "タイセイドレフォン",
+      "score": -0.24853137703150976,
+      "horse_number": 7,
+      "odds": 54.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020100960",
+      "horse_name": "マーブルロック",
+      "score": -0.27497491076388303,
+      "horse_number": 4,
+      "odds": 56.4
+    }
+  ]
+}

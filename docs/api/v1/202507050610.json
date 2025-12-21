@@ -1,0 +1,88 @@
+{
+  "race_id": "202507050610",
+  "race_name": "名古屋日刊S",
+  "race_time": "2025-12-21 14:40",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105984",
+      "horse_name": "ディヴァインスター",
+      "score": 0.2615327356100615,
+      "horse_number": 2,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019104732",
+      "horse_name": "チェルノボーグ",
+      "score": 0.17961141983683054,
+      "horse_number": 1,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105322",
+      "horse_name": "ホウオウレイヴン",
+      "score": 0.13964166926274882,
+      "horse_number": 4,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104840",
+      "horse_name": "フルレゾン",
+      "score": 0.08988211456463165,
+      "horse_number": 7,
+      "odds": 6.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105068",
+      "horse_name": "メディテラニアン",
+      "score": 0.05653618271614657,
+      "horse_number": 10,
+      "odds": 3.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105375",
+      "horse_name": "バードウォッチャー",
+      "score": -0.17260516832307096,
+      "horse_number": 5,
+      "odds": 17.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104590",
+      "horse_name": "ショウナンバルドル",
+      "score": -0.17957429389914464,
+      "horse_number": 6,
+      "odds": 19.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103560",
+      "horse_name": "ジェモロジー",
+      "score": -0.43125428239632874,
+      "horse_number": 9,
+      "odds": 31.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018105462",
+      "horse_name": "アナレンマ",
+      "score": -0.4403872265789391,
+      "horse_number": 3,
+      "odds": 51.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019104531",
+      "horse_name": "バンフィエルド",
+      "score": -0.443857319032962,
+      "horse_number": 8,
+      "odds": 28.1
+    }
+  ]
+}
