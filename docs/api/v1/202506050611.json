@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050611",
+  "race_name": "ディセンバー",
+  "race_time": "2025-12-21 15:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020105750",
+      "horse_name": "マイネルメモリー",
+      "score": 0.23258110065651427,
+      "horse_number": 10,
+      "odds": 13.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102740",
+      "horse_name": "コントラポスト",
+      "score": 0.21386650319773648,
+      "horse_number": 7,
+      "odds": 3.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019104850",
+      "horse_name": "バレエマスター",
+      "score": 0.20732876869522016,
+      "horse_number": 9,
+      "odds": 15.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019105302",
+      "horse_name": "グランディア",
+      "score": 0.14289649245135333,
+      "horse_number": 1,
+      "odds": 6.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103025",
+      "horse_name": "ドクタードリトル",
+      "score": 0.10172143856849986,
+      "horse_number": 15,
+      "odds": 28.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104825",
+      "horse_name": "ゴンバデカーブース",
+      "score": 0.0263960066539144,
+      "horse_number": 8,
+      "odds": 16.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105424",
+      "horse_name": "シルトホルン",
+      "score": -0.03470069968787676,
+      "horse_number": 13,
+      "odds": 6.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105891",
+      "horse_name": "ドラゴンブースト",
+      "score": -0.15820726029806476,
+      "horse_number": 3,
+      "odds": 7.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105775",
+      "horse_name": "ホウオウノーサイド",
+      "score": -0.312839092406865,
+      "horse_number": 6,
+      "odds": 60.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019106335",
+      "horse_name": "タシット",
+      "score": -0.3344518010748155,
+      "horse_number": 4,
+      "odds": 10.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106782",
+      "horse_name": "コスモブッドレア",
+      "score": -0.3344518010748155,
+      "horse_number": 12,
+      "odds": 17.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104998",
+      "horse_name": "ショウナンマグマ",
+      "score": -0.37606939263178674,
+      "horse_number": 2,
+      "odds": 13.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019101348",
+      "horse_name": "ビーアストニッシド",
+      "score": -0.45413110470246854,
+      "horse_number": 14,
+      "odds": 76.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019101782",
+      "horse_name": "ラーグルフ",
+      "score": -0.48406227904358134,
+      "horse_number": 16,
+      "odds": 78.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019105792",
+      "horse_name": "アケルナルスター",
+      "score": -0.5149819231423588,
+      "horse_number": 11,
+      "odds": 76.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2017102537",
+      "horse_name": "フォワードアゲン",
+      "score": -0.536052673152818,
+      "horse_number": 5,
+      "odds": 114.9
+    }
+  ]
+}

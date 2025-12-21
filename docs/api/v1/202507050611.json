@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050611",
+  "race_name": "コールドムー",
+  "race_time": "2025-12-21 15:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106942",
+      "horse_name": "ドンインザムード",
+      "score": 0.221187482304178,
+      "horse_number": 7,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105360",
+      "horse_name": "ロジアデレード",
+      "score": 0.21388411497022258,
+      "horse_number": 6,
+      "odds": 9.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104991",
+      "horse_name": "スターターン",
+      "score": 0.19090982753870772,
+      "horse_number": 12,
+      "odds": 6.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100623",
+      "horse_name": "ダノンフィーゴ",
+      "score": 0.1402681972636151,
+      "horse_number": 15,
+      "odds": 3.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103005",
+      "horse_name": "ナイトアクアリウム",
+      "score": 0.1277597624268682,
+      "horse_number": 1,
+      "odds": 13.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101373",
+      "horse_name": "バトゥーキ",
+      "score": 0.12613594811956136,
+      "horse_number": 4,
+      "odds": 12.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103812",
+      "horse_name": "ワイワイレジェンド",
+      "score": 0.12544905203148154,
+      "horse_number": 8,
+      "odds": 7.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103325",
+      "horse_name": "プロトポロス",
+      "score": 0.012986250896636013,
+      "horse_number": 5,
+      "odds": 15.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102843",
+      "horse_name": "アッチャゴーラ",
+      "score": -0.019746907619723114,
+      "horse_number": 13,
+      "odds": 37.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101444",
+      "horse_name": "サトノフェニックス",
+      "score": -0.09461564597396521,
+      "horse_number": 3,
+      "odds": 13.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102413",
+      "horse_name": "シークレットヴァウ",
+      "score": -0.11035157372199766,
+      "horse_number": 16,
+      "odds": 59.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021110069",
+      "horse_name": "エスカル",
+      "score": -0.12904137450137854,
+      "horse_number": 11,
+      "odds": 38.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106534",
+      "horse_name": "メイショウカゼマチ",
+      "score": -0.21291814826922467,
+      "horse_number": 9,
+      "odds": 79.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021110056",
+      "horse_name": "エコロガイア",
+      "score": -0.29092506557330966,
+      "horse_number": 10,
+      "odds": 54.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019102454",
+      "horse_name": "サクセスローレル",
+      "score": -0.3535756500592502,
+      "horse_number": 2,
+      "odds": 159.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021102078",
+      "horse_name": "ジョージテソーロ",
+      "score": -0.49162964596991987,
+      "horse_number": 14,
+      "odds": 101.3
+    }
+  ]
+}
