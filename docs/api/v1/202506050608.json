@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050608",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-21 13:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101389",
+      "horse_name": "サトミノエンジェル",
+      "score": 0.22974407230177088,
+      "horse_number": 10,
+      "odds": 2.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020104750",
+      "horse_name": "リーゼノアール",
+      "score": 0.10996891973561038,
+      "horse_number": 3,
+      "odds": 11.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101684",
+      "horse_name": "ミスティマウンテン",
+      "score": 0.10524532389338655,
+      "horse_number": 6,
+      "odds": 39.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102378",
+      "horse_name": "ファンタイムギフト",
+      "score": 0.09363652950468128,
+      "horse_number": 16,
+      "odds": 12.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104930",
+      "horse_name": "ビリングス",
+      "score": 0.07083201135168385,
+      "horse_number": 14,
+      "odds": 11.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104570",
+      "horse_name": "ラヴアンドライク",
+      "score": 0.06636099989173869,
+      "horse_number": 12,
+      "odds": 12.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105990",
+      "horse_name": "クニノハッピー",
+      "score": 0.03898138142869288,
+      "horse_number": 11,
+      "odds": 17.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101250",
+      "horse_name": "ランスノーブル",
+      "score": -0.056222745258008244,
+      "horse_number": 4,
+      "odds": 12.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100629",
+      "horse_name": "コンティオ",
+      "score": -0.0618528236058022,
+      "horse_number": 7,
+      "odds": 21.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103676",
+      "horse_name": "ミラクルキャッツ",
+      "score": -0.12985405705174352,
+      "horse_number": 15,
+      "odds": 18.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103129",
+      "horse_name": "マリンバンカー",
+      "score": -0.1479367328311176,
+      "horse_number": 9,
+      "odds": 48.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102262",
+      "horse_name": "マルセルテソーロ",
+      "score": -0.22800270598750594,
+      "horse_number": 13,
+      "odds": 15.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100949",
+      "horse_name": "カフェノーチェ",
+      "score": -0.24216555057000852,
+      "horse_number": 5,
+      "odds": 43.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106209",
+      "horse_name": "プレジール",
+      "score": -0.3428853918692273,
+      "horse_number": 2,
+      "odds": 19.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021106057",
+      "horse_name": "タニセンドリーム",
+      "score": -0.3602502704526981,
+      "horse_number": 8,
+      "odds": 9.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020100307",
+      "horse_name": "オブシディアン",
+      "score": -0.5833309696314021,
+      "horse_number": 1,
+      "odds": 69.4
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050607",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-21 13:05",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105966",
+      "horse_name": "アイドル",
+      "score": 0.06571583298338776,
+      "horse_number": 9,
+      "odds": 10.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102745",
+      "horse_name": "ペッパーミル",
+      "score": 0.06104653077780707,
+      "horse_number": 1,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100906",
+      "horse_name": "ペレグリン",
+      "score": -0.05096812073334579,
+      "horse_number": 14,
+      "odds": 6.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100135",
+      "horse_name": "エメラヴィ",
+      "score": -0.12832778233550488,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103485",
+      "horse_name": "アスコットアイ",
+      "score": -0.19225470122153154,
+      "horse_number": 2,
+      "odds": 16.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100786",
+      "horse_name": "ゲーベル",
+      "score": -0.21889216530094685,
+      "horse_number": 3,
+      "odds": 10.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103041",
+      "horse_name": "アルヴァレス",
+      "score": -0.2831749499680216,
+      "horse_number": 4,
+      "odds": 88.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103256",
+      "horse_name": "カフジキアッキエレ",
+      "score": -0.2968886388139959,
+      "horse_number": 8,
+      "odds": 21.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106963",
+      "horse_name": "アンタノバラード",
+      "score": -0.2971861745149206,
+      "horse_number": 5,
+      "odds": 34.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102458",
+      "horse_name": "ホーリーブライト",
+      "score": -0.3296087717727344,
+      "horse_number": 7,
+      "odds": 30.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100588",
+      "horse_name": "アイアンソリッド",
+      "score": -0.3382436459013398,
+      "horse_number": 16,
+      "odds": 55.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100651",
+      "horse_name": "インユアアイズ",
+      "score": -0.38267742919123865,
+      "horse_number": 15,
+      "odds": 5.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105843",
+      "horse_name": "リアルカラー",
+      "score": -0.5470264755512747,
+      "horse_number": 11,
+      "odds": 19.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104336",
+      "horse_name": "ダオラダオラ",
+      "score": -0.5488449115467254,
+      "horse_number": 13,
+      "odds": 77.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104101",
+      "horse_name": "タイセイブロウ",
+      "score": -0.5539252883210777,
+      "horse_number": 12,
+      "odds": 11.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104617",
+      "horse_name": "ブルーリヴァーサル",
+      "score": -0.664648032082898,
+      "horse_number": 10,
+      "odds": 119.0
+    }
+  ]
+}

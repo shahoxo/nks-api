@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050607",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-21 13:15",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103434",
+      "horse_name": "ジッピーチューン",
+      "score": 0.3589808499147945,
+      "horse_number": 1,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103603",
+      "horse_name": "レッドジェルブロワ",
+      "score": 0.16482785529495234,
+      "horse_number": 16,
+      "odds": 9.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100215",
+      "horse_name": "スピットブレイク",
+      "score": 0.14531056525029049,
+      "horse_number": 8,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103290",
+      "horse_name": "パーシヴァル",
+      "score": 0.08872553067928378,
+      "horse_number": 4,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103550",
+      "horse_name": "ワイズファミリア",
+      "score": 0.08678387428443456,
+      "horse_number": 2,
+      "odds": 4.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101443",
+      "horse_name": "フィーユレアル",
+      "score": -0.1445056487709642,
+      "horse_number": 12,
+      "odds": 19.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105817",
+      "horse_name": "バレンタインビスタ",
+      "score": -0.23948530864072323,
+      "horse_number": 3,
+      "odds": 23.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104404",
+      "horse_name": "モンテール",
+      "score": -0.2516639526866971,
+      "horse_number": 13,
+      "odds": 17.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106685",
+      "horse_name": "ネクストドア",
+      "score": -0.3330378039568628,
+      "horse_number": 6,
+      "odds": 9.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101910",
+      "horse_name": "ステキサプライズ",
+      "score": -0.42961751104667784,
+      "horse_number": 14,
+      "odds": 25.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106717",
+      "horse_name": "アルクノワール",
+      "score": -0.49679794587460246,
+      "horse_number": 11,
+      "odds": 64.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102881",
+      "horse_name": "フレンドリーエール",
+      "score": -0.630370253879574,
+      "horse_number": 9,
+      "odds": 48.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100862",
+      "horse_name": "ゴールデンボート",
+      "score": -0.6518943205472477,
+      "horse_number": 5,
+      "odds": 36.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105506",
+      "horse_name": "エイシンジザイテン",
+      "score": -0.7092892104133881,
+      "horse_number": 15,
+      "odds": 62.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106371",
+      "horse_name": "ミスデルマー",
+      "score": -0.7296062363014159,
+      "horse_number": 7,
+      "odds": 119.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105433",
+      "horse_name": "モウエエデショー",
+      "score": -0.7560238565797833,
+      "horse_number": 10,
+      "odds": 90.4
+    }
+  ]
+}

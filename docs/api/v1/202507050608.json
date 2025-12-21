@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050608",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-21 13:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105868",
+      "horse_name": "レベルスルール",
+      "score": 0.25368180965730236,
+      "horse_number": 8,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100081",
+      "horse_name": "ゴールドブレス",
+      "score": 0.05066660774618906,
+      "horse_number": 7,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101565",
+      "horse_name": "プチプランス",
+      "score": 0.03343336667656852,
+      "horse_number": 13,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104560",
+      "horse_name": "ルトンワージ",
+      "score": -0.033516586256060854,
+      "horse_number": 1,
+      "odds": 16.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104786",
+      "horse_name": "サトノラポール",
+      "score": -0.04059710448199628,
+      "horse_number": 6,
+      "odds": 13.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105293",
+      "horse_name": "キャトルエピス",
+      "score": -0.0695288382510789,
+      "horse_number": 3,
+      "odds": 4.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105490",
+      "horse_name": "ディーンズリスター",
+      "score": -0.08605968822910305,
+      "horse_number": 15,
+      "odds": 17.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104053",
+      "horse_name": "ミトノオルフェ",
+      "score": -0.2618189246318685,
+      "horse_number": 2,
+      "odds": 11.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102952",
+      "horse_name": "オベイユアマスター",
+      "score": -0.2741765052511157,
+      "horse_number": 11,
+      "odds": 19.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103655",
+      "horse_name": "ダークブロンド",
+      "score": -0.27786475861992266,
+      "horse_number": 16,
+      "odds": 29.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104537",
+      "horse_name": "ギルトエッジ",
+      "score": -0.32537583871605524,
+      "horse_number": 10,
+      "odds": 46.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105209",
+      "horse_name": "ラッキーベイ",
+      "score": -0.3684445180834744,
+      "horse_number": 12,
+      "odds": 27.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102982",
+      "horse_name": "ハーエクセレンシー",
+      "score": -0.3875162152083615,
+      "horse_number": 4,
+      "odds": 29.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106102",
+      "horse_name": "エコロライジン",
+      "score": -0.4716946522196833,
+      "horse_number": 14,
+      "odds": 114.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105407",
+      "horse_name": "サニーサルサ",
+      "score": -0.5309331978497548,
+      "horse_number": 9,
+      "odds": 34.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018103120",
+      "horse_name": "フロスティクォーツ",
+      "score": -0.5535478197214566,
+      "horse_number": 5,
+      "odds": 82.5
+    }
+  ]
+}
