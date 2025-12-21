@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050612",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2025-12-21 16:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020101557",
+      "horse_name": "パルティクラール",
+      "score": 0.32528193366645725,
+      "horse_number": 8,
+      "odds": 8.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104200",
+      "horse_name": "サクセスカラー",
+      "score": 0.3056120588242213,
+      "horse_number": 4,
+      "odds": 8.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101765",
+      "horse_name": "ピコローズ",
+      "score": 0.2562820707508609,
+      "horse_number": 14,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101580",
+      "horse_name": "メイショウヨゾラ",
+      "score": 0.04582594206065516,
+      "horse_number": 6,
+      "odds": 5.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110066",
+      "horse_name": "ラージギャラリー",
+      "score": 0.044296058758381954,
+      "horse_number": 5,
+      "odds": 12.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101772",
+      "horse_name": "メタルスピード",
+      "score": -0.028197462859328892,
+      "horse_number": 7,
+      "odds": 4.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105809",
+      "horse_name": "マイネルフォルツァ",
+      "score": -0.049330562163978034,
+      "horse_number": 3,
+      "odds": 24.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106813",
+      "horse_name": "マイネルフーガ",
+      "score": -0.06267111497524058,
+      "horse_number": 16,
+      "odds": 11.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100417",
+      "horse_name": "ガーネットウインク",
+      "score": -0.10734200866302225,
+      "horse_number": 15,
+      "odds": 22.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103799",
+      "horse_name": "ケイケイ",
+      "score": -0.20435201040597653,
+      "horse_number": 11,
+      "odds": 13.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106415",
+      "horse_name": "ロゼル",
+      "score": -0.42123602202136773,
+      "horse_number": 10,
+      "odds": 26.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105807",
+      "horse_name": "パワースナッチ",
+      "score": -0.48547538616747443,
+      "horse_number": 13,
+      "odds": 21.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019106700",
+      "horse_name": "ヒロノゴウカイ",
+      "score": -0.5133138658359971,
+      "horse_number": 2,
+      "odds": 106.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020106413",
+      "horse_name": "レッドバレンティア",
+      "score": -0.5907216745266844,
+      "horse_number": 9,
+      "odds": 49.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018103473",
+      "horse_name": "サヴァビアン",
+      "score": -0.5907216745266844,
+      "horse_number": 12,
+      "odds": 86.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2016102904",
+      "horse_name": "ボンベール",
+      "score": -0.6318373387288261,
+      "horse_number": 1,
+      "odds": 76.5
+    }
+  ]
+}

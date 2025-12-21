@@ -1,0 +1,120 @@
+{
+  "race_id": "202509050611",
+  "race_name": "朝日杯FS",
+  "race_time": "2025-12-21 15:40",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105685",
+      "horse_name": "ダイヤモンドノット",
+      "score": 0.37603117608869013,
+      "horse_number": 10,
+      "odds": 7.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103604",
+      "horse_name": "リアライズシリウス",
+      "score": 0.3563505625312839,
+      "horse_number": 13,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105084",
+      "horse_name": "コルテオソレイユ",
+      "score": 0.2687267004236178,
+      "horse_number": 7,
+      "odds": 17.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103184",
+      "horse_name": "エコロアルバ",
+      "score": 0.24095660599208904,
+      "horse_number": 3,
+      "odds": 5.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107153",
+      "horse_name": "カヴァレリッツォ",
+      "score": 0.1807972982556183,
+      "horse_number": 8,
+      "odds": 4.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104313",
+      "horse_name": "タガノアラリア",
+      "score": 0.1806017684908078,
+      "horse_number": 6,
+      "odds": 54.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102475",
+      "horse_name": "コスモレッド",
+      "score": 0.11680840104029706,
+      "horse_number": 4,
+      "odds": 137.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105311",
+      "horse_name": "アドマイヤクワッズ",
+      "score": 0.11468120019131613,
+      "horse_number": 12,
+      "odds": 3.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107352",
+      "horse_name": "スペルーチェ",
+      "score": 0.08480127714424189,
+      "horse_number": 9,
+      "odds": 27.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102615",
+      "horse_name": "ホワイトオーキッド",
+      "score": 0.005153039466117449,
+      "horse_number": 2,
+      "odds": 86.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106614",
+      "horse_name": "レッドリガーレ",
+      "score": 0.0013276803074610153,
+      "horse_number": 14,
+      "odds": 132.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101405",
+      "horse_name": "カクウチ",
+      "score": -0.060917249513250005,
+      "horse_number": 11,
+      "odds": 62.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023110055",
+      "horse_name": "グッドピース",
+      "score": -0.06141573549004349,
+      "horse_number": 1,
+      "odds": 64.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100772",
+      "horse_name": "ストームサンダー",
+      "score": -0.32487488153874655,
+      "horse_number": 5,
+      "odds": 163.8
+    }
+  ]
+}
