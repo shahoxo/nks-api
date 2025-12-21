@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050602",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-21 10:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105208",
+      "horse_name": "レピュニット",
+      "score": 0.3814462787464863,
+      "horse_number": 5,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106406",
+      "horse_name": "マイネルオランチア",
+      "score": 0.07015998576327027,
+      "horse_number": 14,
+      "odds": 2.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107325",
+      "horse_name": "クールチェンジ",
+      "score": 0.06256750700774415,
+      "horse_number": 4,
+      "odds": 6.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101642",
+      "horse_name": "ベルウッドピース",
+      "score": -0.07972429879886292,
+      "horse_number": 6,
+      "odds": 38.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102313",
+      "horse_name": "アオハルブルース",
+      "score": -0.23786113143051926,
+      "horse_number": 16,
+      "odds": 14.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100067",
+      "horse_name": "ニシノマグノリア",
+      "score": -0.2793816264697953,
+      "horse_number": 10,
+      "odds": 19.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104935",
+      "horse_name": "ホシヅキヨ",
+      "score": -0.3214116316152029,
+      "horse_number": 15,
+      "odds": 51.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105596",
+      "horse_name": "ドナソラーレ",
+      "score": -0.40383005141700157,
+      "horse_number": 9,
+      "odds": 138.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100729",
+      "horse_name": "ヘルメスギャング",
+      "score": -0.4283919229999018,
+      "horse_number": 3,
+      "odds": 28.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101841",
+      "horse_name": "ユイノサダハル",
+      "score": -0.46985772700788486,
+      "horse_number": 12,
+      "odds": 27.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106656",
+      "horse_name": "ニシノカルラ",
+      "score": -0.4902615336747692,
+      "horse_number": 11,
+      "odds": 35.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023107488",
+      "horse_name": "ピンクサウスポー",
+      "score": -0.5422180627847969,
+      "horse_number": 2,
+      "odds": 79.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104963",
+      "horse_name": "ハンドフル",
+      "score": -0.5936516828434119,
+      "horse_number": 13,
+      "odds": 70.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103288",
+      "horse_name": "ロココ",
+      "score": -0.630370253879574,
+      "horse_number": 8,
+      "odds": 66.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106626",
+      "horse_name": "ノボリフジ",
+      "score": -0.6569285518651241,
+      "horse_number": 1,
+      "odds": 12.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100962",
+      "horse_name": "ホッカイダイオー",
+      "score": -0.6783429378640029,
+      "horse_number": 7,
+      "odds": 82.4
+    }
+  ]
+}

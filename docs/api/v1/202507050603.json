@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050603",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-21 10:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110135",
+      "horse_name": "ゼンエスポワール",
+      "score": 0.1772219693422245,
+      "horse_number": 11,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104093",
+      "horse_name": "ガラク",
+      "score": 0.14329011926858853,
+      "horse_number": 8,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020106205",
+      "horse_name": "メイショウクーガー",
+      "score": 0.09709022669890956,
+      "horse_number": 1,
+      "odds": 14.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102202",
+      "horse_name": "ヨリノレジェンド",
+      "score": 0.09539386406399274,
+      "horse_number": 14,
+      "odds": 6.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104419",
+      "horse_name": "ローズマイスター",
+      "score": 0.08532744307773535,
+      "horse_number": 5,
+      "odds": 14.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105940",
+      "horse_name": "メイショウコウベ",
+      "score": 0.06003933059500653,
+      "horse_number": 4,
+      "odds": 29.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100162",
+      "horse_name": "ゴットランド",
+      "score": 0.006131843825448535,
+      "horse_number": 13,
+      "odds": 35.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105685",
+      "horse_name": "ディペンダブル",
+      "score": -0.06362618754366912,
+      "horse_number": 6,
+      "odds": 19.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105548",
+      "horse_name": "プロスペクトパーク",
+      "score": -0.10282623733773281,
+      "horse_number": 7,
+      "odds": 9.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106785",
+      "horse_name": "コスモシェルベット",
+      "score": -0.23599990578809918,
+      "horse_number": 16,
+      "odds": 30.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105694",
+      "horse_name": "オリーブグリーン",
+      "score": -0.24962114439319408,
+      "horse_number": 10,
+      "odds": 4.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019103219",
+      "horse_name": "ブレイクザアイス",
+      "score": -0.3143347082535446,
+      "horse_number": 2,
+      "odds": 32.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104503",
+      "horse_name": "ハイタイド",
+      "score": -0.4964393078185493,
+      "horse_number": 3,
+      "odds": 79.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105914",
+      "horse_name": "ソルトチューダ",
+      "score": -0.6794757848016343,
+      "horse_number": 9,
+      "odds": 56.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021102900",
+      "horse_name": "ノクターナル",
+      "score": -0.7212483613895885,
+      "horse_number": 15,
+      "odds": 174.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021106078",
+      "horse_name": "ブルーストレイル",
+      "score": -0.7344997899121097,
+      "horse_number": 12,
+      "odds": 91.4
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202507050602",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-21 10:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020102050",
+      "horse_name": "サンポーニャ",
+      "score": 0.12705915444392207,
+      "horse_number": 1,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106513",
+      "horse_name": "キーガッツ",
+      "score": 0.07238573013434302,
+      "horse_number": 11,
+      "odds": 4.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102592",
+      "horse_name": "アフトクラーティラ",
+      "score": 0.023772373688302473,
+      "horse_number": 12,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101624",
+      "horse_name": "キャンドルマス",
+      "score": 0.020548333543107887,
+      "horse_number": 10,
+      "odds": 7.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104481",
+      "horse_name": "ビアフォーナウ",
+      "score": -0.10551092922075903,
+      "horse_number": 7,
+      "odds": 15.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100623",
+      "horse_name": "スプランドゥール",
+      "score": -0.12825647706942128,
+      "horse_number": 4,
+      "odds": 4.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103283",
+      "horse_name": "ペロ",
+      "score": -0.45391601372187196,
+      "horse_number": 14,
+      "odds": 53.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106677",
+      "horse_name": "カガバベル",
+      "score": -0.4988407131325294,
+      "horse_number": 16,
+      "odds": 50.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103798",
+      "horse_name": "バルサミコ",
+      "score": -0.5680929798397609,
+      "horse_number": 2,
+      "odds": 13.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2017104266",
+      "horse_name": "カップッチョ",
+      "score": -0.569470717884104,
+      "horse_number": 13,
+      "odds": 99.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100081",
+      "horse_name": "アカツキロットリー",
+      "score": -0.5731733109185368,
+      "horse_number": 8,
+      "odds": 75.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100864",
+      "horse_name": "パヴァーヌ",
+      "score": -0.5914171774660079,
+      "horse_number": 6,
+      "odds": 33.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102701",
+      "horse_name": "サイコウダネ",
+      "score": -0.5970618435386312,
+      "horse_number": 3,
+      "odds": 140.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019105830",
+      "horse_name": "エスグラシア",
+      "score": -0.6118079766234411,
+      "horse_number": 5,
+      "odds": 94.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100188",
+      "horse_name": "ヨーグルトナン",
+      "score": -0.6711891672472533,
+      "horse_number": 15,
+      "odds": 55.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101677",
+      "horse_name": "エーティータキオン",
+      "score": -0.6746403448295699,
+      "horse_number": 9,
+      "odds": 168.7
+    }
+  ]
+}

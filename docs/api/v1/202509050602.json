@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050602",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-21 10:35",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103861",
+      "horse_name": "タナブイハチターボ",
+      "score": 0.18025224173146484,
+      "horse_number": 3,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023110095",
+      "horse_name": "ネメス",
+      "score": 0.16645938793555845,
+      "horse_number": 13,
+      "odds": 3.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023110066",
+      "horse_name": "ゴーゴーシャチョウ",
+      "score": 0.13671081122947237,
+      "horse_number": 6,
+      "odds": 4.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105113",
+      "horse_name": "ヴィゴラスガイア",
+      "score": 0.013769494305797138,
+      "horse_number": 10,
+      "odds": 23.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101900",
+      "horse_name": "レッドレベンディス",
+      "score": 0.005368878714734449,
+      "horse_number": 7,
+      "odds": 7.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101951",
+      "horse_name": "メイショウバルク",
+      "score": -0.0059549409975960255,
+      "horse_number": 1,
+      "odds": 8.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101843",
+      "horse_name": "イルダメリーノ",
+      "score": -0.2049177051662894,
+      "horse_number": 2,
+      "odds": 15.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023110106",
+      "horse_name": "ブルーマッキンジー",
+      "score": -0.2110935848032131,
+      "horse_number": 5,
+      "odds": 11.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101406",
+      "horse_name": "オーロヴェント",
+      "score": -0.2441262847145018,
+      "horse_number": 4,
+      "odds": 20.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107521",
+      "horse_name": "ミラヴェリタ",
+      "score": -0.33725665771437174,
+      "horse_number": 12,
+      "odds": 38.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104153",
+      "horse_name": "リュシエル",
+      "score": -0.495646376558159,
+      "horse_number": 11,
+      "odds": 199.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102859",
+      "horse_name": "テリオスヒナ",
+      "score": -0.5393606452573874,
+      "horse_number": 14,
+      "odds": 30.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106777",
+      "horse_name": "ジェンダウィナー",
+      "score": -0.6101217439592936,
+      "horse_number": 8,
+      "odds": 135.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103829",
+      "horse_name": "クレスコフェーヴ",
+      "score": -0.706985290822235,
+      "horse_number": 9,
+      "odds": 105.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100707",
+      "horse_name": "フォールティア",
+      "score": -0.7265140734648036,
+      "horse_number": 15,
+      "odds": 105.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023101918",
+      "horse_name": "ピエナビバサンバ",
+      "score": -0.7560238565797833,
+      "horse_number": 16,
+      "odds": 152.1
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202509050601",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-21 10:05",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106838",
+      "horse_name": "ブラックコーラル",
+      "score": 0.5025217370661658,
+      "horse_number": 4,
+      "odds": 1.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103176",
+      "horse_name": "セイントホース",
+      "score": 0.03203706618714724,
+      "horse_number": 1,
+      "odds": 11.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103896",
+      "horse_name": "マーゴットデイズ",
+      "score": 0.009964117122068624,
+      "horse_number": 12,
+      "odds": 19.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105058",
+      "horse_name": "イッタレイッタレ",
+      "score": -0.0006571389619646675,
+      "horse_number": 5,
+      "odds": 23.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102075",
+      "horse_name": "ソルチェリア",
+      "score": -0.21581984140673569,
+      "horse_number": 6,
+      "odds": 7.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101589",
+      "horse_name": "ニシノネガイ",
+      "score": -0.26745019422879035,
+      "horse_number": 7,
+      "odds": 94.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101095",
+      "horse_name": "タニセンローマ",
+      "score": -0.30445887388220977,
+      "horse_number": 11,
+      "odds": 62.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105917",
+      "horse_name": "コスモタキシード",
+      "score": -0.433549772748558,
+      "horse_number": 2,
+      "odds": 65.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105445",
+      "horse_name": "ドメイン",
+      "score": -0.6534423250362207,
+      "horse_number": 9,
+      "odds": 109.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102701",
+      "horse_name": "ブラッドムーン",
+      "score": -0.6732626067852269,
+      "horse_number": 10,
+      "odds": 54.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101334",
+      "horse_name": "テイエムロングダン",
+      "score": -0.7329596672117042,
+      "horse_number": 8,
+      "odds": 176.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101854",
+      "horse_name": "タイムレスラブ",
+      "score": -0.7498547462216962,
+      "horse_number": 3,
+      "odds": 150.3
+    }
+  ]
+}
