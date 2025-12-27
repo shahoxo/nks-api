@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050710",
+  "race_name": "摩耶S",
+  "race_time": "2025-12-27 14:45",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102874",
+      "horse_name": "ハナウマビーチ",
+      "score": 0.4265921877839398,
+      "horse_number": 3,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106624",
+      "horse_name": "リトルハピ",
+      "score": 0.21717903830081525,
+      "horse_number": 2,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103881",
+      "horse_name": "ツキノアカリ",
+      "score": 0.06292138840994323,
+      "horse_number": 7,
+      "odds": 44.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104416",
+      "horse_name": "ワイドブリザード",
+      "score": -0.0033754777816491994,
+      "horse_number": 8,
+      "odds": 11.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106395",
+      "horse_name": "クァンタムウェーブ",
+      "score": -0.009975591656334267,
+      "horse_number": 12,
+      "odds": 5.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019101864",
+      "horse_name": "クロニクル",
+      "score": -0.038380030374903194,
+      "horse_number": 9,
+      "odds": 17.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103263",
+      "horse_name": "メイショウソウタ",
+      "score": -0.049045126533065767,
+      "horse_number": 1,
+      "odds": 15.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022110115",
+      "horse_name": "シンビリーブ",
+      "score": -0.09843748699347982,
+      "horse_number": 16,
+      "odds": 4.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102993",
+      "horse_name": "ポルポラジール",
+      "score": -0.10351678961172184,
+      "horse_number": 10,
+      "odds": 23.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101579",
+      "horse_name": "レッドプロフェシー",
+      "score": -0.10357859458301343,
+      "horse_number": 14,
+      "odds": 28.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020110026",
+      "horse_name": "ダブルジョーク",
+      "score": -0.17964497221118658,
+      "horse_number": 4,
+      "odds": 11.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019103036",
+      "horse_name": "ロードマゼラン",
+      "score": -0.18771295538535404,
+      "horse_number": 15,
+      "odds": 69.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104422",
+      "horse_name": "グランドセントラル",
+      "score": -0.2055870761901321,
+      "horse_number": 13,
+      "odds": 131.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105425",
+      "horse_name": "ベルウェザー",
+      "score": -0.4265530154708204,
+      "horse_number": 6,
+      "odds": 23.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106896",
+      "horse_name": "メイショウポペット",
+      "score": -0.5238482855073853,
+      "horse_number": 5,
+      "odds": 101.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019106475",
+      "horse_name": "カネトシブルーム",
+      "score": -0.723527651007794,
+      "horse_number": 11,
+      "odds": 108.8
+    }
+  ]
+}
