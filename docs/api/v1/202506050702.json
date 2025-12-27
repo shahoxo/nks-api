@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050702",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-27 10:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100291",
+      "horse_name": "ウインビギニング",
+      "score": 0.22200705822628106,
+      "horse_number": 7,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106494",
+      "horse_name": "ビービーアジャイル",
+      "score": 0.12130865575765627,
+      "horse_number": 8,
+      "odds": 7.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107275",
+      "horse_name": "パッセージピーク",
+      "score": 0.11122315145277023,
+      "horse_number": 16,
+      "odds": 13.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104042",
+      "horse_name": "ライカ",
+      "score": 0.09043951552381387,
+      "horse_number": 12,
+      "odds": 15.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103322",
+      "horse_name": "グスタフ",
+      "score": -0.055711705841614015,
+      "horse_number": 4,
+      "odds": 25.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105319",
+      "horse_name": "ネイティヴプライド",
+      "score": -0.09611420831846991,
+      "horse_number": 5,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100377",
+      "horse_name": "ゴットタレント",
+      "score": -0.13856491757409348,
+      "horse_number": 1,
+      "odds": 6.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102122",
+      "horse_name": "ハングローズ",
+      "score": -0.15731309753884806,
+      "horse_number": 9,
+      "odds": 10.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102019",
+      "horse_name": "テイクオンミー",
+      "score": -0.3754908864986918,
+      "horse_number": 15,
+      "odds": 16.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102674",
+      "horse_name": "コウソクルリアン",
+      "score": -0.3827879725946125,
+      "horse_number": 14,
+      "odds": 9.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102157",
+      "horse_name": "イデアジュアンイハ",
+      "score": -0.3905799817848864,
+      "horse_number": 11,
+      "odds": 125.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103145",
+      "horse_name": "アンジュリオ",
+      "score": -0.5178236546070307,
+      "horse_number": 6,
+      "odds": 99.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106252",
+      "horse_name": "カフェオリーブ",
+      "score": -0.6296634170597682,
+      "horse_number": 3,
+      "odds": 90.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101301",
+      "horse_name": "クアッドフォルツァ",
+      "score": -0.6415071890219484,
+      "horse_number": 2,
+      "odds": 76.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101401",
+      "horse_name": "サバイバルトゥルー",
+      "score": -0.6457252101891606,
+      "horse_number": 13,
+      "odds": 209.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105848",
+      "horse_name": "サイオウガウマ",
+      "score": -0.7560238565797833,
+      "horse_number": 10,
+      "odds": 112.2
+    }
+  ]
+}

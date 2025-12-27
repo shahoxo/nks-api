@@ -1,0 +1,96 @@
+{
+  "race_id": "202509050702",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-27 10:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107131",
+      "horse_name": "トリグラフヒル",
+      "score": 0.16855156299356555,
+      "horse_number": 10,
+      "odds": 5.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105838",
+      "horse_name": "ロードステラート",
+      "score": 0.007156326669046532,
+      "horse_number": 3,
+      "odds": 1.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102844",
+      "horse_name": "テーオータウンズ",
+      "score": -0.026682700088219005,
+      "horse_number": 1,
+      "odds": 7.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107017",
+      "horse_name": "アビラーシャ",
+      "score": -0.038861716960269334,
+      "horse_number": 8,
+      "odds": 7.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103682",
+      "horse_name": "コンテナヒーロー",
+      "score": -0.3654611142118336,
+      "horse_number": 9,
+      "odds": 42.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101579",
+      "horse_name": "サイモンエクセラー",
+      "score": -0.40915795007479283,
+      "horse_number": 5,
+      "odds": 19.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106547",
+      "horse_name": "サンライズアーサー",
+      "score": -0.48041305708578486,
+      "horse_number": 2,
+      "odds": 14.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023109040",
+      "horse_name": "メイショウメゴヒメ",
+      "score": -0.49843263111851455,
+      "horse_number": 7,
+      "odds": 17.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102579",
+      "horse_name": "ディアギレフ",
+      "score": -0.5909567254248128,
+      "horse_number": 11,
+      "odds": 26.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102217",
+      "horse_name": "ユーキャンフライ",
+      "score": -0.6122514963428539,
+      "horse_number": 4,
+      "odds": 48.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103179",
+      "horse_name": "リケアフェデリーニ",
+      "score": -0.7498547462216962,
+      "horse_number": 6,
+      "odds": 115.6
+    }
+  ]
+}

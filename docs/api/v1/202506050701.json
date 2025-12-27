@@ -1,0 +1,128 @@
+{
+  "race_id": "202506050701",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-27 10:00",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101860",
+      "horse_name": "コウジハラ",
+      "score": 0.34385842738746997,
+      "horse_number": 10,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104980",
+      "horse_name": "ベルオーシャン",
+      "score": 0.0867270326389448,
+      "horse_number": 9,
+      "odds": 16.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100283",
+      "horse_name": "アドミ",
+      "score": -0.03903520621839472,
+      "horse_number": 14,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102602",
+      "horse_name": "スーパーガール",
+      "score": -0.06225830656309353,
+      "horse_number": 7,
+      "odds": 6.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107481",
+      "horse_name": "セイブルーアイ",
+      "score": -0.2144951612329677,
+      "horse_number": 5,
+      "odds": 59.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103103",
+      "horse_name": "リオクリスハーレー",
+      "score": -0.219808819321887,
+      "horse_number": 1,
+      "odds": 7.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103291",
+      "horse_name": "ドレドレ",
+      "score": -0.22692451843241127,
+      "horse_number": 3,
+      "odds": 35.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107096",
+      "horse_name": "カーマインジュエル",
+      "score": -0.35572403381310325,
+      "horse_number": 6,
+      "odds": 31.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102699",
+      "horse_name": "トコシエノヒトミ",
+      "score": -0.4405381847720631,
+      "horse_number": 13,
+      "odds": 6.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101679",
+      "horse_name": "リケアペンネ",
+      "score": -0.5455714936950853,
+      "horse_number": 2,
+      "odds": 26.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102401",
+      "horse_name": "ジャメビュ",
+      "score": -0.5587930761583654,
+      "horse_number": 15,
+      "odds": 15.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106604",
+      "horse_name": "ブルーアンバー",
+      "score": -0.5844092227108343,
+      "horse_number": 11,
+      "odds": 189.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101227",
+      "horse_name": "チャーミングアイ",
+      "score": -0.6829148837393448,
+      "horse_number": 8,
+      "odds": 130.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106596",
+      "horse_name": "トントンビョウシ",
+      "score": -0.700999851469308,
+      "horse_number": 4,
+      "odds": 64.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104048",
+      "horse_name": "カワキタベレッタ",
+      "score": -0.700999851469308,
+      "horse_number": 12,
+      "odds": 159.5
+    }
+  ]
+}
