@@ -1,0 +1,128 @@
+{
+  "race_id": "202509050707",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-27 13:05",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101411",
+      "horse_name": "サタデーサンライズ",
+      "score": 0.42587514463566195,
+      "horse_number": 15,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110125",
+      "horse_name": "ヤエギリ",
+      "score": 0.166382465131023,
+      "horse_number": 10,
+      "odds": 14.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105470",
+      "horse_name": "コスモグローリー",
+      "score": 0.1481184538480147,
+      "horse_number": 9,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105037",
+      "horse_name": "サトノブリジャール",
+      "score": 0.1403618562299966,
+      "horse_number": 4,
+      "odds": 7.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105422",
+      "horse_name": "ブラーヴイストワル",
+      "score": 0.11307451266299479,
+      "horse_number": 7,
+      "odds": 4.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105171",
+      "horse_name": "タンテドヴィーヴル",
+      "score": 0.09756703227170721,
+      "horse_number": 3,
+      "odds": 11.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105382",
+      "horse_name": "シンドリームシン",
+      "score": -0.0043595856324791515,
+      "horse_number": 13,
+      "odds": 15.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104000",
+      "horse_name": "メイショウタクボク",
+      "score": -0.043077778312632105,
+      "horse_number": 12,
+      "odds": 34.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106259",
+      "horse_name": "ララエキリーブル",
+      "score": -0.07860226484713768,
+      "horse_number": 2,
+      "odds": 29.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104187",
+      "horse_name": "ムーンストラック",
+      "score": -0.12953136466188886,
+      "horse_number": 6,
+      "odds": 39.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104872",
+      "horse_name": "アラバンサ",
+      "score": -0.32374007779229064,
+      "horse_number": 8,
+      "odds": 47.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102550",
+      "horse_name": "メイショウピリカ",
+      "score": -0.33326884335792006,
+      "horse_number": 1,
+      "odds": 25.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101103",
+      "horse_name": "ザカリナン",
+      "score": -0.3530792926719946,
+      "horse_number": 14,
+      "odds": 47.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105047",
+      "horse_name": "マサハヤヴォス",
+      "score": -0.3569126165041329,
+      "horse_number": 11,
+      "odds": 80.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106295",
+      "horse_name": "スイッチビスケット",
+      "score": -0.6164369642811226,
+      "horse_number": 5,
+      "odds": 170.2
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "race_id": "202506050707",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-27 13:20",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104979",
+      "horse_name": "ウィッシュツリー",
+      "score": 0.3430180552986232,
+      "horse_number": 9,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104884",
+      "horse_name": "ヴィジョンメーカー",
+      "score": 0.31971966135359275,
+      "horse_number": 2,
+      "odds": 12.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106761",
+      "horse_name": "ウアーシュプルング",
+      "score": 0.28640287966195405,
+      "horse_number": 15,
+      "odds": 7.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105132",
+      "horse_name": "オリオアルセーリオ",
+      "score": 0.19301563170746858,
+      "horse_number": 18,
+      "odds": 20.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105118",
+      "horse_name": "ノクターン",
+      "score": 0.1921387914733293,
+      "horse_number": 14,
+      "odds": 4.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106817",
+      "horse_name": "マイネルアレス",
+      "score": 0.16625722081830793,
+      "horse_number": 17,
+      "odds": 19.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106800",
+      "horse_name": "コスモグラニット",
+      "score": 0.13438692116928663,
+      "horse_number": 3,
+      "odds": 24.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103222",
+      "horse_name": "エオアリイ",
+      "score": 0.07621440839429831,
+      "horse_number": 7,
+      "odds": 27.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104362",
+      "horse_name": "キョウエイグッド",
+      "score": -0.002083166231615843,
+      "horse_number": 8,
+      "odds": 52.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103308",
+      "horse_name": "ミッドセンチュリー",
+      "score": -0.02929113403915378,
+      "horse_number": 11,
+      "odds": 24.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105418",
+      "horse_name": "クラッチプレイヤー",
+      "score": -0.080170271796428,
+      "horse_number": 12,
+      "odds": 24.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105763",
+      "horse_name": "ビップチェイス",
+      "score": -0.09961753375636259,
+      "horse_number": 16,
+      "odds": 13.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103288",
+      "horse_name": "ヤコブセン",
+      "score": -0.10521046170356346,
+      "horse_number": 13,
+      "odds": 53.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106613",
+      "horse_name": "ストラニエーロ",
+      "score": -0.11935725967633205,
+      "horse_number": 10,
+      "odds": 45.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100621",
+      "horse_name": "マイバラード",
+      "score": -0.2268694093896195,
+      "horse_number": 6,
+      "odds": 28.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104179",
+      "horse_name": "ツインピークス",
+      "score": -0.48308577762171645,
+      "horse_number": 1,
+      "odds": 9.2
+    },
+    {
+      "rank": 17,
+      "horse_id": "2021101176",
+      "horse_name": "キューティクローム",
+      "score": -0.5719778936462864,
+      "horse_number": 5,
+      "odds": 143.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022101203",
+      "horse_name": "ゲレル",
+      "score": -0.588214498764502,
+      "horse_number": 4,
+      "odds": 143.9
+    }
+  ]
+}
