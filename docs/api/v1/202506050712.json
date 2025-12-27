@@ -1,0 +1,120 @@
+{
+  "race_id": "202506050712",
+  "race_name": "グレイトフル",
+  "race_time": "2025-12-27 16:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105796",
+      "horse_name": "サークルオブジョイ",
+      "score": 0.39636848205406705,
+      "horse_number": 12,
+      "odds": 14.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105066",
+      "horse_name": "レッドテリオス",
+      "score": 0.32300101055326397,
+      "horse_number": 6,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106120",
+      "horse_name": "ミクニインスパイア",
+      "score": 0.2923096341318865,
+      "horse_number": 14,
+      "odds": 3.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105910",
+      "horse_name": "ローザサンリヴァル",
+      "score": 0.23166083206401833,
+      "horse_number": 4,
+      "odds": 11.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105438",
+      "horse_name": "スピードリッチ",
+      "score": 0.18347444436173538,
+      "horse_number": 1,
+      "odds": 10.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104615",
+      "horse_name": "アマキヒ",
+      "score": 0.13264009699663332,
+      "horse_number": 3,
+      "odds": 4.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106993",
+      "horse_name": "サクソンジェンヌ",
+      "score": 0.0784884523594328,
+      "horse_number": 2,
+      "odds": 20.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100225",
+      "horse_name": "モズマーヴェリック",
+      "score": -0.01218401867028886,
+      "horse_number": 9,
+      "odds": 44.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103111",
+      "horse_name": "アスターブジエ",
+      "score": -0.12181461192581652,
+      "horse_number": 7,
+      "odds": 16.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020105656",
+      "horse_name": "フルール",
+      "score": -0.17439040693248395,
+      "horse_number": 5,
+      "odds": 19.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018105162",
+      "horse_name": "レッドヴェロシティ",
+      "score": -0.20398617727321758,
+      "horse_number": 10,
+      "odds": 44.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102925",
+      "horse_name": "アームブランシュ",
+      "score": -0.40035759622904826,
+      "horse_number": 8,
+      "odds": 106.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101198",
+      "horse_name": "メイテソーロ",
+      "score": -0.46101278107137866,
+      "horse_number": 13,
+      "odds": 71.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020103920",
+      "horse_name": "フェミナフォルテ",
+      "score": -0.46631463510245763,
+      "horse_number": 11,
+      "odds": 68.4
+    }
+  ]
+}
