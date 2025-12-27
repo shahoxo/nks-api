@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050711",
+  "race_name": "ホープフルS",
+  "race_time": "2025-12-27 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103752",
+      "horse_name": "アンドゥーリル",
+      "score": 0.3600145262478436,
+      "horse_number": 12,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107278",
+      "horse_name": "バドリナート",
+      "score": 0.28882374412100664,
+      "horse_number": 6,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102039",
+      "horse_name": "メイショウハチコウ",
+      "score": 0.24145365033697372,
+      "horse_number": 9,
+      "odds": 73.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102807",
+      "horse_name": "ジャスティンビスタ",
+      "score": 0.22278938121035743,
+      "horse_number": 3,
+      "odds": 4.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105642",
+      "horse_name": "オルフセン",
+      "score": 0.17076008480919552,
+      "horse_number": 16,
+      "odds": 30.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105241",
+      "horse_name": "テーオーアルアイン",
+      "score": 0.13620118098615733,
+      "horse_number": 7,
+      "odds": 75.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107345",
+      "horse_name": "フォルテアンジェロ",
+      "score": 0.1293801878789784,
+      "horse_number": 11,
+      "odds": 6.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105223",
+      "horse_name": "アーレムアレス",
+      "score": 0.1120201878319565,
+      "horse_number": 2,
+      "odds": 18.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105332",
+      "horse_name": "ショウナンガルフ",
+      "score": 0.10493749914876742,
+      "horse_number": 13,
+      "odds": 5.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107089",
+      "horse_name": "ロブチェン",
+      "score": 0.10403392953368137,
+      "horse_number": 4,
+      "odds": 20.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104885",
+      "horse_name": "ジーネキング",
+      "score": 0.10081372819051813,
+      "horse_number": 14,
+      "odds": 42.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102820",
+      "horse_name": "ウイナーズナイン",
+      "score": 0.09071506799449715,
+      "horse_number": 10,
+      "odds": 49.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023107143",
+      "horse_name": "ノチェセラーダ",
+      "score": 0.06529915536441805,
+      "horse_number": 1,
+      "odds": 29.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106400",
+      "horse_name": "アスクエジンバラ",
+      "score": 0.02579531529426584,
+      "horse_number": 15,
+      "odds": 27.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104676",
+      "horse_name": "マテンロウゼロ",
+      "score": 0.006688609809456247,
+      "horse_number": 8,
+      "odds": 89.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106694",
+      "horse_name": "ノーウェアマン",
+      "score": -0.3446220490559917,
+      "horse_number": 5,
+      "odds": 141.6
+    }
+  ]
+}
