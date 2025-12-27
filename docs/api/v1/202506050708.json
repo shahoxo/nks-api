@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050708",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2025-12-27 13:50",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105258",
+      "horse_name": "ホークライト",
+      "score": 0.279998317436295,
+      "horse_number": 1,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106975",
+      "horse_name": "ハクシンブライアン",
+      "score": 0.18891513180621408,
+      "horse_number": 2,
+      "odds": 13.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105951",
+      "horse_name": "ミダース",
+      "score": 0.1546015140527497,
+      "horse_number": 14,
+      "odds": 3.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104320",
+      "horse_name": "キングベルベット",
+      "score": 0.14651279678148904,
+      "horse_number": 13,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022107011",
+      "horse_name": "ニシノブレイゼスト",
+      "score": -0.08181207978385122,
+      "horse_number": 15,
+      "odds": 5.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101425",
+      "horse_name": "エナジーショット",
+      "score": -0.14264676740344123,
+      "horse_number": 16,
+      "odds": 7.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103518",
+      "horse_name": "リラゲイル",
+      "score": -0.18433752742193665,
+      "horse_number": 6,
+      "odds": 19.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102349",
+      "horse_name": "ノアチュロス",
+      "score": -0.24356676948314843,
+      "horse_number": 8,
+      "odds": 61.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104276",
+      "horse_name": "ガラスノブルース",
+      "score": -0.26563689080649355,
+      "horse_number": 12,
+      "odds": 29.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104264",
+      "horse_name": "ライヴスプーン",
+      "score": -0.2790484551210446,
+      "horse_number": 5,
+      "odds": 30.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022107010",
+      "horse_name": "ローレルランウェイ",
+      "score": -0.588214498764502,
+      "horse_number": 9,
+      "odds": 104.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103251",
+      "horse_name": "フォートポータル",
+      "score": -0.5970618435386312,
+      "horse_number": 4,
+      "odds": 87.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103204",
+      "horse_name": "クールシェルタ",
+      "score": -0.6090816530463632,
+      "horse_number": 7,
+      "odds": 104.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101041",
+      "horse_name": "トモジャシャトー",
+      "score": -0.6467781709553085,
+      "horse_number": 10,
+      "odds": 74.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105114",
+      "horse_name": "シークレットロゴ",
+      "score": -0.7142512799918292,
+      "horse_number": 3,
+      "odds": 144.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020109076",
+      "horse_name": "ケンヴァイザッハ",
+      "score": -0.7344997899121097,
+      "horse_number": 11,
+      "odds": 93.0
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "race_id": "202509050709",
+  "race_name": "万両賞",
+  "race_time": "2025-12-27 14:05",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101399",
+      "horse_name": "ゴーゴーリチャード",
+      "score": 0.24717926003451546,
+      "horse_number": 1,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106985",
+      "horse_name": "クールフラン",
+      "score": 0.2471251478153412,
+      "horse_number": 3,
+      "odds": 7.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103680",
+      "horse_name": "グロリアスマーチ",
+      "score": 0.22909622577983463,
+      "horse_number": 6,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106431",
+      "horse_name": "トライアンフパス",
+      "score": 0.21653358275407195,
+      "horse_number": 5,
+      "odds": 13.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104960",
+      "horse_name": "アスミル",
+      "score": 0.20205092673246033,
+      "horse_number": 10,
+      "odds": 7.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103836",
+      "horse_name": "フロムレイブン",
+      "score": 0.1250779710672029,
+      "horse_number": 4,
+      "odds": 22.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103160",
+      "horse_name": "メイクワンズデイ",
+      "score": 0.11096294134429407,
+      "horse_number": 8,
+      "odds": 3.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106833",
+      "horse_name": "ベネサルート",
+      "score": -0.004724465826795248,
+      "horse_number": 9,
+      "odds": 12.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106184",
+      "horse_name": "ネネキリマル",
+      "score": -0.19951318296734136,
+      "horse_number": 7,
+      "odds": 11.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104121",
+      "horse_name": "アルスマグナ",
+      "score": -0.3376081715608511,
+      "horse_number": 2,
+      "odds": 24.7
+    }
+  ]
+}
