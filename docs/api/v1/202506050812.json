@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050812",
+  "race_name": "ファイナルS",
+  "race_time": "2025-12-28 16:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101448",
+      "horse_name": "グローリーリンク",
+      "score": 0.38353970596307607,
+      "horse_number": 5,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103521",
+      "horse_name": "セブンマジシャン",
+      "score": 0.36343018739847055,
+      "horse_number": 8,
+      "odds": 7.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105777",
+      "horse_name": "ボーモンド",
+      "score": 0.35870081796133696,
+      "horse_number": 9,
+      "odds": 21.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105121",
+      "horse_name": "ピックアチェリー",
+      "score": 0.2812002293283866,
+      "horse_number": 7,
+      "odds": 15.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105369",
+      "horse_name": "ジョイフルニュース",
+      "score": 0.25269657522355216,
+      "horse_number": 6,
+      "odds": 2.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104865",
+      "horse_name": "カニキュル",
+      "score": 0.24914800658744857,
+      "horse_number": 11,
+      "odds": 13.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103364",
+      "horse_name": "ペリファーニア",
+      "score": 0.15223797687410054,
+      "horse_number": 1,
+      "odds": 11.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105837",
+      "horse_name": "レッドアトレーヴ",
+      "score": 0.13249260645082067,
+      "horse_number": 10,
+      "odds": 19.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104153",
+      "horse_name": "エポックヴィーナス",
+      "score": 0.11381507693472241,
+      "horse_number": 3,
+      "odds": 25.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103241",
+      "horse_name": "ケイデンシーマーク",
+      "score": 0.0909019507768406,
+      "horse_number": 13,
+      "odds": 28.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105757",
+      "horse_name": "テウメッサ",
+      "score": 0.04608274179720316,
+      "horse_number": 2,
+      "odds": 30.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102419",
+      "horse_name": "ファインライン",
+      "score": 0.005068415068118787,
+      "horse_number": 12,
+      "odds": 37.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103066",
+      "horse_name": "マルチャン",
+      "score": -0.06542827626445301,
+      "horse_number": 15,
+      "odds": 42.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018105996",
+      "horse_name": "サムハンター",
+      "score": -0.22350353023249594,
+      "horse_number": 4,
+      "odds": 41.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104912",
+      "horse_name": "アグラシアド",
+      "score": -0.3091600942844672,
+      "horse_number": 16,
+      "odds": 83.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021105601",
+      "horse_name": "ショーマンフリート",
+      "score": -0.37805841119947065,
+      "horse_number": 14,
+      "odds": 110.8
+    }
+  ]
+}
