@@ -1,0 +1,120 @@
+{
+  "race_id": "202506050809",
+  "race_name": "グッドラック",
+  "race_time": "2025-12-28 14:15",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104799",
+      "horse_name": "ピックデムッシュ",
+      "score": 0.49492773580679766,
+      "horse_number": 8,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105456",
+      "horse_name": "オストラヴァ",
+      "score": 0.3344835718565544,
+      "horse_number": 9,
+      "odds": 8.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105175",
+      "horse_name": "フィーリウス",
+      "score": 0.28259563790653575,
+      "horse_number": 12,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104733",
+      "horse_name": "コーチェラバレー",
+      "score": 0.26829985595062117,
+      "horse_number": 6,
+      "odds": 3.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105485",
+      "horse_name": "ボンドロア",
+      "score": 0.07614692209228582,
+      "horse_number": 1,
+      "odds": 8.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106624",
+      "horse_name": "リギーロ",
+      "score": 0.058958636281827334,
+      "horse_number": 13,
+      "odds": 24.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100233",
+      "horse_name": "セイウンパシュート",
+      "score": -0.017604935451126614,
+      "horse_number": 7,
+      "odds": 36.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103976",
+      "horse_name": "エコロレイズ",
+      "score": -0.12702760616775283,
+      "horse_number": 2,
+      "odds": 26.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105434",
+      "horse_name": "ショウナンガチ",
+      "score": -0.14183743574242821,
+      "horse_number": 11,
+      "odds": 37.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019100212",
+      "horse_name": "ウインマイルート",
+      "score": -0.21673979171671517,
+      "horse_number": 4,
+      "odds": 46.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019103827",
+      "horse_name": "オウケンボルト",
+      "score": -0.30460522376003096,
+      "horse_number": 14,
+      "odds": 86.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103406",
+      "horse_name": "ラーシャローム",
+      "score": -0.4219506431477319,
+      "horse_number": 5,
+      "odds": 46.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102725",
+      "horse_name": "ソワドリヨン",
+      "score": -0.4638421874613703,
+      "horse_number": 3,
+      "odds": 47.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101963",
+      "horse_name": "サツキスマイル",
+      "score": -0.6746403448295699,
+      "horse_number": 10,
+      "odds": 143.0
+    }
+  ]
+}

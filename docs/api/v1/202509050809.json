@@ -1,0 +1,104 @@
+{
+  "race_id": "202509050809",
+  "race_name": "フォーチュン",
+  "race_time": "2025-12-28 14:00",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101197",
+      "horse_name": "マイエレメント",
+      "score": 0.2785788556089162,
+      "horse_number": 4,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105127",
+      "horse_name": "テラメリタ",
+      "score": 0.15738727994978863,
+      "horse_number": 8,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105534",
+      "horse_name": "シャンパンライフ",
+      "score": 0.1148544597193949,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101697",
+      "horse_name": "グラフィティアート",
+      "score": 0.0657607591515747,
+      "horse_number": 9,
+      "odds": 8.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105422",
+      "horse_name": "フォーキャンドルズ",
+      "score": 0.010970974027556195,
+      "horse_number": 11,
+      "odds": 15.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104421",
+      "horse_name": "デファイ",
+      "score": -0.14434766454830333,
+      "horse_number": 10,
+      "odds": 31.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018105047",
+      "horse_name": "ホウオウサンデー",
+      "score": -0.1838349616760143,
+      "horse_number": 7,
+      "odds": 18.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105374",
+      "horse_name": "クイックバイオ",
+      "score": -0.2957272081199116,
+      "horse_number": 1,
+      "odds": 19.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104167",
+      "horse_name": "エイムフォーエース",
+      "score": -0.33979931040216543,
+      "horse_number": 12,
+      "odds": 16.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106796",
+      "horse_name": "レモンバーム",
+      "score": -0.4116410303466208,
+      "horse_number": 3,
+      "odds": 39.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101184",
+      "horse_name": "シャイニースイフト",
+      "score": -0.44959524962414876,
+      "horse_number": 6,
+      "odds": 86.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103499",
+      "horse_name": "トーホウガレオン",
+      "score": -0.5015819188536125,
+      "horse_number": 2,
+      "odds": 16.0
+    }
+  ]
+}

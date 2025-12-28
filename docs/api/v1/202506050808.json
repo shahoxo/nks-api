@@ -1,0 +1,112 @@
+{
+  "race_id": "202506050808",
+  "race_name": "ハッピーエン",
+  "race_time": "2025-12-28 13:40",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105847",
+      "horse_name": "ディーズゴールド",
+      "score": 0.43761871095496246,
+      "horse_number": 4,
+      "odds": 2.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105987",
+      "horse_name": "アートレスマインド",
+      "score": 0.3815975863872228,
+      "horse_number": 7,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101818",
+      "horse_name": "ジェイエルマスター",
+      "score": 0.2838449632345358,
+      "horse_number": 5,
+      "odds": 3.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100606",
+      "horse_name": "ベルイストワール",
+      "score": -0.010485659382438485,
+      "horse_number": 8,
+      "odds": 35.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100329",
+      "horse_name": "プルナチャンドラ",
+      "score": -0.05746703620864547,
+      "horse_number": 10,
+      "odds": 9.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110069",
+      "horse_name": "ジューンエオス",
+      "score": -0.08094873220172072,
+      "horse_number": 1,
+      "odds": 9.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100387",
+      "horse_name": "オールマキシマム",
+      "score": -0.10896135995817502,
+      "horse_number": 6,
+      "odds": 18.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100005",
+      "horse_name": "アパイシュナール",
+      "score": -0.17328167031207922,
+      "horse_number": 2,
+      "odds": 48.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022107254",
+      "horse_name": "エンプレスフレーム",
+      "score": -0.2617136753401187,
+      "horse_number": 3,
+      "odds": 68.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100469",
+      "horse_name": "カフェアローロ",
+      "score": -0.29907478030814866,
+      "horse_number": 13,
+      "odds": 41.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101655",
+      "horse_name": "マンダリンボレロ",
+      "score": -0.3310709757200106,
+      "horse_number": 12,
+      "odds": 31.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105350",
+      "horse_name": "コスモマルーン",
+      "score": -0.48477116701108536,
+      "horse_number": 11,
+      "odds": 125.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100432",
+      "horse_name": "オーケーマヒナ",
+      "score": -0.5571448311368545,
+      "horse_number": 9,
+      "odds": 33.6
+    }
+  ]
+}
