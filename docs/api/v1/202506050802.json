@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050802",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-28 10:20",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103793",
+      "horse_name": "サイモフェーン",
+      "score": 0.16301340791476993,
+      "horse_number": 7,
+      "odds": 1.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103698",
+      "horse_name": "ソニックキャット",
+      "score": 0.07480673603223716,
+      "horse_number": 14,
+      "odds": 10.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102352",
+      "horse_name": "タイセツナヒ",
+      "score": 0.06331321469527615,
+      "horse_number": 15,
+      "odds": 8.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102033",
+      "horse_name": "イデアクリスタル",
+      "score": 0.014448601621662716,
+      "horse_number": 12,
+      "odds": 14.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023109055",
+      "horse_name": "プリンセスダーコ",
+      "score": -0.28324458645544304,
+      "horse_number": 9,
+      "odds": 12.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102581",
+      "horse_name": "サラサチャチャチャ",
+      "score": -0.4249187790195669,
+      "horse_number": 13,
+      "odds": 64.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101928",
+      "horse_name": "ハッピーカーン",
+      "score": -0.5184038940737431,
+      "horse_number": 10,
+      "odds": 40.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104603",
+      "horse_name": "チェイサー",
+      "score": -0.5364234681064728,
+      "horse_number": 11,
+      "odds": 99.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102096",
+      "horse_name": "トラストレガート",
+      "score": -0.5533168873832823,
+      "horse_number": 3,
+      "odds": 112.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100332",
+      "horse_name": "アスパラゴ",
+      "score": -0.5909567254248128,
+      "horse_number": 16,
+      "odds": 129.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100313",
+      "horse_name": "オーキッドワン",
+      "score": -0.6494509398506717,
+      "horse_number": 6,
+      "odds": 134.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023109058",
+      "horse_name": "マツリダシリウス",
+      "score": -0.6518943205472477,
+      "horse_number": 2,
+      "odds": 45.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104871",
+      "horse_name": "メイプルインパクト",
+      "score": -0.7212483613895885,
+      "horse_number": 8,
+      "odds": 120.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023107440",
+      "horse_name": "パワポケウォーズ",
+      "score": -0.7329596672117042,
+      "horse_number": 4,
+      "odds": 59.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104288",
+      "horse_name": "イントゥゴールデン",
+      "score": -0.7560238565797833,
+      "horse_number": 5,
+      "odds": 64.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101837",
+      "horse_name": "マランドロ",
+      "score": -0.7560238565797833,
+      "horse_number": 1,
+      "odds": 44.3
+    }
+  ]
+}

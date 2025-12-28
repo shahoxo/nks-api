@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050803",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-28 10:50",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105561",
+      "horse_name": "シャインフォーミー",
+      "score": 0.3034068415226132,
+      "horse_number": 13,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105795",
+      "horse_name": "クリオロゴールド",
+      "score": 0.264176979836796,
+      "horse_number": 12,
+      "odds": 8.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106269",
+      "horse_name": "ニシノセイドウ",
+      "score": 0.12502491244752942,
+      "horse_number": 10,
+      "odds": 12.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101825",
+      "horse_name": "ヨドノサファイア",
+      "score": 0.09232500190989569,
+      "horse_number": 8,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103528",
+      "horse_name": "ツルノマイハシ",
+      "score": 0.044769281059967025,
+      "horse_number": 11,
+      "odds": 12.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106095",
+      "horse_name": "キッショウダラニ",
+      "score": 0.027286601760242737,
+      "horse_number": 3,
+      "odds": 3.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100792",
+      "horse_name": "イーリスアスター",
+      "score": -0.052326765327590403,
+      "horse_number": 14,
+      "odds": 50.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103231",
+      "horse_name": "ミスチヴマリアンヌ",
+      "score": -0.12059065310812156,
+      "horse_number": 1,
+      "odds": 34.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104689",
+      "horse_name": "ニシノオールワン",
+      "score": -0.19688526071352447,
+      "horse_number": 4,
+      "odds": 14.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106437",
+      "horse_name": "リュウセイコウテイ",
+      "score": -0.4541087146913892,
+      "horse_number": 7,
+      "odds": 24.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106396",
+      "horse_name": "トモロウィンアスク",
+      "score": -0.49689361013682,
+      "horse_number": 15,
+      "odds": 81.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104261",
+      "horse_name": "アロハオエ",
+      "score": -0.4992949243259668,
+      "horse_number": 9,
+      "odds": 104.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106454",
+      "horse_name": "ヴァールザーゲン",
+      "score": -0.6133885746330761,
+      "horse_number": 6,
+      "odds": 127.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102155",
+      "horse_name": "フィオーレグリーン",
+      "score": -0.7295377203336686,
+      "horse_number": 2,
+      "odds": 124.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100991",
+      "horse_name": "スティルアイライズ",
+      "score": -0.7497050119125441,
+      "horse_number": 5,
+      "odds": 22.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100099",
+      "horse_name": "アイアンブランド",
+      "score": -0.7560238565797833,
+      "horse_number": 16,
+      "odds": 125.7
+    }
+  ]
+}

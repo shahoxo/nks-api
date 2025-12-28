@@ -1,0 +1,144 @@
+{
+  "race_id": "202509050802",
+  "race_name": "2歳未勝利",
+  "race_time": "2025-12-28 10:05",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107264",
+      "horse_name": "デアヴェローチェ",
+      "score": 0.2966263826261442,
+      "horse_number": 9,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101840",
+      "horse_name": "ララディアーブル",
+      "score": 0.2201940901144399,
+      "horse_number": 15,
+      "odds": 8.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102133",
+      "horse_name": "スイートポメロ",
+      "score": 0.21912902314639993,
+      "horse_number": 1,
+      "odds": 45.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105185",
+      "horse_name": "ミトノリン",
+      "score": 0.06002689575883799,
+      "horse_number": 11,
+      "odds": 120.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107009",
+      "horse_name": "サトノロザリー",
+      "score": -0.006209370670099312,
+      "horse_number": 3,
+      "odds": 21.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106226",
+      "horse_name": "ナムラヒナギク",
+      "score": -0.06718875806435572,
+      "horse_number": 12,
+      "odds": 10.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106086",
+      "horse_name": "コマチチャン",
+      "score": -0.10847952290643453,
+      "horse_number": 16,
+      "odds": 20.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102008",
+      "horse_name": "ソニックブーム",
+      "score": -0.19637178205340572,
+      "horse_number": 4,
+      "odds": 43.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101873",
+      "horse_name": "スカイプレリュード",
+      "score": -0.2265731363864124,
+      "horse_number": 14,
+      "odds": 143.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105210",
+      "horse_name": "メランコリニスタ",
+      "score": -0.23839437263074534,
+      "horse_number": 5,
+      "odds": 10.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106420",
+      "horse_name": "コスモファーブロス",
+      "score": -0.2938991368313268,
+      "horse_number": 10,
+      "odds": 23.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104669",
+      "horse_name": "ゲレイロ",
+      "score": -0.343845550345969,
+      "horse_number": 17,
+      "odds": 39.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104075",
+      "horse_name": "フェブリノ",
+      "score": -0.3916161260902513,
+      "horse_number": 8,
+      "odds": 36.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106651",
+      "horse_name": "リサシテーション",
+      "score": -0.4134805795154106,
+      "horse_number": 13,
+      "odds": 115.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023109036",
+      "horse_name": "フトゥーロスフィダ",
+      "score": -0.46906119763002396,
+      "horse_number": 2,
+      "odds": 247.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105583",
+      "horse_name": "ピエナブラック",
+      "score": -0.5104953990364304,
+      "horse_number": 7,
+      "odds": 39.9
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023104084",
+      "horse_name": "グランブラーヴ",
+      "score": -0.6987150212225898,
+      "horse_number": 6,
+      "odds": 259.8
+    }
+  ]
+}
