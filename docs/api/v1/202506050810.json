@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050810",
+  "race_name": "フェアウェル",
+  "race_time": "2025-12-28 14:50",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102462",
+      "horse_name": "ワークソング",
+      "score": 0.2926022788716124,
+      "horse_number": 9,
+      "odds": 8.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103204",
+      "horse_name": "アイアムユウシュン",
+      "score": 0.2411900214482998,
+      "horse_number": 4,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106689",
+      "horse_name": "アンズアメ",
+      "score": 0.19640451465325826,
+      "horse_number": 8,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100627",
+      "horse_name": "カウスリップ",
+      "score": 0.18144663419703533,
+      "horse_number": 11,
+      "odds": 10.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022107163",
+      "horse_name": "アシャカトベ",
+      "score": 0.13679279955751103,
+      "horse_number": 7,
+      "odds": 3.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101610",
+      "horse_name": "ルージュアズライト",
+      "score": 0.07529807204636275,
+      "horse_number": 2,
+      "odds": 12.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019102654",
+      "horse_name": "コブラ",
+      "score": -0.04943114931571924,
+      "horse_number": 15,
+      "odds": 26.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102753",
+      "horse_name": "カフジエニアゴン",
+      "score": -0.08291439601311343,
+      "horse_number": 13,
+      "odds": 35.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104385",
+      "horse_name": "カンパニョーラ",
+      "score": -0.12120948494884547,
+      "horse_number": 10,
+      "odds": 17.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021110132",
+      "horse_name": "ジャスパーノワール",
+      "score": -0.19018698743140877,
+      "horse_number": 12,
+      "odds": 10.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103214",
+      "horse_name": "ネグレスコ",
+      "score": -0.19856845767810674,
+      "horse_number": 3,
+      "odds": 42.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019100937",
+      "horse_name": "ニシノコニャック",
+      "score": -0.24329931014841266,
+      "horse_number": 1,
+      "odds": 52.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102734",
+      "horse_name": "エリーズダイヤ",
+      "score": -0.26079216406171274,
+      "horse_number": 6,
+      "odds": 62.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102761",
+      "horse_name": "グレタ",
+      "score": -0.2716124398873717,
+      "horse_number": 5,
+      "odds": 48.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103061",
+      "horse_name": "ムーム",
+      "score": -0.31850793410754735,
+      "horse_number": 16,
+      "odds": 23.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106908",
+      "horse_name": "メイショウコバト",
+      "score": -0.42320086884112296,
+      "horse_number": 14,
+      "odds": 71.3
+    }
+  ]
+}

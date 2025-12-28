@@ -1,0 +1,96 @@
+{
+  "race_id": "202509050810",
+  "race_name": "サンクフルS",
+  "race_time": "2025-12-28 14:35",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101827",
+      "horse_name": "ローランドバローズ",
+      "score": 0.19988046551325003,
+      "horse_number": 7,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104948",
+      "horse_name": "キーパフォーマー",
+      "score": 0.1031683845115741,
+      "horse_number": 8,
+      "odds": 4.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019105824",
+      "horse_name": "アレナリア",
+      "score": -0.07110038658273952,
+      "horse_number": 3,
+      "odds": 17.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101724",
+      "horse_name": "ガジュノリ",
+      "score": -0.12031689987750373,
+      "horse_number": 10,
+      "odds": 15.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106966",
+      "horse_name": "ピンクジン",
+      "score": -0.24839565445693665,
+      "horse_number": 1,
+      "odds": 27.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101486",
+      "horse_name": "ドットクルー",
+      "score": -0.2669387327774191,
+      "horse_number": 5,
+      "odds": 15.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104800",
+      "horse_name": "エイカイマッケンロ",
+      "score": -0.3239379698320969,
+      "horse_number": 11,
+      "odds": 57.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018102178",
+      "horse_name": "マイネルエニグマ",
+      "score": -0.3543486317934984,
+      "horse_number": 6,
+      "odds": 16.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018103590",
+      "horse_name": "リッケンバッカー",
+      "score": -0.4314638181964219,
+      "horse_number": 4,
+      "odds": 37.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019101079",
+      "horse_name": "アスクビギンアゲン",
+      "score": -0.4917789650815556,
+      "horse_number": 9,
+      "odds": 55.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104126",
+      "horse_name": "ミアステラ",
+      "score": -0.5945546677764488,
+      "horse_number": 2,
+      "odds": 41.7
+    }
+  ]
+}
