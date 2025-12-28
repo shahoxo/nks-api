@@ -1,0 +1,136 @@
+{
+  "race_id": "202506050811",
+  "race_name": "有馬記念",
+  "race_time": "2025-12-28 15:40",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105081",
+      "horse_name": "ミュージアムマイル",
+      "score": 0.4781423891731762,
+      "horse_number": 4,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105369",
+      "horse_name": "アドマイヤテラ",
+      "score": 0.4361356002207249,
+      "horse_number": 13,
+      "odds": 40.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105898",
+      "horse_name": "レガレイラ",
+      "score": 0.4173235510996788,
+      "horse_number": 5,
+      "odds": 3.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105143",
+      "horse_name": "ダノンデサイル",
+      "score": 0.28354168312536643,
+      "horse_number": 9,
+      "odds": 4.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104614",
+      "horse_name": "エキサイトバイオ",
+      "score": 0.15598662008428119,
+      "horse_number": 1,
+      "odds": 27.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018104638",
+      "horse_name": "ミステリーウェイ",
+      "score": 0.09951742468693603,
+      "horse_number": 11,
+      "odds": 42.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103272",
+      "horse_name": "メイショウタバル",
+      "score": 0.08830099300630598,
+      "horse_number": 6,
+      "odds": 5.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019105346",
+      "horse_name": "ジャスティンパレス",
+      "score": 0.08496763160021417,
+      "horse_number": 3,
+      "odds": 12.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103532",
+      "horse_name": "タスティエーラ",
+      "score": 0.05506351266036307,
+      "horse_number": 16,
+      "odds": 32.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100680",
+      "horse_name": "エルトンバローズ",
+      "score": 0.04857416112098437,
+      "horse_number": 15,
+      "odds": 134.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021110048",
+      "horse_name": "シンエンペラー",
+      "score": 0.03137609461138722,
+      "horse_number": 2,
+      "odds": 24.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105786",
+      "horse_name": "マイネルエンペラー",
+      "score": -0.0027138967268949135,
+      "horse_number": 12,
+      "odds": 87.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106787",
+      "horse_name": "コスモキュランダ",
+      "score": -0.10593230762508321,
+      "horse_number": 10,
+      "odds": 91.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017104756",
+      "horse_name": "アラタ",
+      "score": -0.19661215412461466,
+      "horse_number": 14,
+      "odds": 128.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018104942",
+      "horse_name": "シュヴァリエローズ",
+      "score": -0.2016678077011044,
+      "horse_number": 8,
+      "odds": 112.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104756",
+      "horse_name": "サンライズジパング",
+      "score": -0.31671480679379477,
+      "horse_number": 7,
+      "odds": 97.7
+    }
+  ]
+}

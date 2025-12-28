@@ -10,7 +10,7 @@
       "horse_name": "ワークソング",
       "score": 0.2926022788716124,
       "horse_number": 9,
-      "odds": 8.8
+      "odds": 6.9
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "アイアムユウシュン",
       "score": 0.2411900214482998,
       "horse_number": 4,
-      "odds": 7.8
+      "odds": 8.0
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "アンズアメ",
       "score": 0.19640451465325826,
       "horse_number": 8,
-      "odds": 4.8
+      "odds": 4.5
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "カウスリップ",
       "score": 0.18144663419703533,
       "horse_number": 11,
-      "odds": 10.1
+      "odds": 11.7
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "アシャカトベ",
       "score": 0.13679279955751103,
       "horse_number": 7,
-      "odds": 3.6
+      "odds": 3.0
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "ルージュアズライト",
       "score": 0.07529807204636275,
       "horse_number": 2,
-      "odds": 12.5
+      "odds": 18.0
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "コブラ",
       "score": -0.04943114931571924,
       "horse_number": 15,
-      "odds": 26.0
+      "odds": 28.8
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "カフジエニアゴン",
       "score": -0.08291439601311343,
       "horse_number": 13,
-      "odds": 35.6
+      "odds": 47.6
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "カンパニョーラ",
       "score": -0.12120948494884547,
       "horse_number": 10,
-      "odds": 17.3
+      "odds": 18.8
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "ジャスパーノワール",
       "score": -0.19018698743140877,
       "horse_number": 12,
-      "odds": 10.7
+      "odds": 12.1
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "ネグレスコ",
       "score": -0.19856845767810674,
       "horse_number": 3,
-      "odds": 42.6
+      "odds": 58.0
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "ニシノコニャック",
       "score": -0.24329931014841266,
       "horse_number": 1,
-      "odds": 52.0
+      "odds": 77.2
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "エリーズダイヤ",
       "score": -0.26079216406171274,
       "horse_number": 6,
-      "odds": 62.6
+      "odds": 96.3
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "グレタ",
       "score": -0.2716124398873717,
       "horse_number": 5,
-      "odds": 48.6
+      "odds": 69.4
     },
     {
       "rank": 15,
@@ -122,7 +122,7 @@
       "horse_name": "ムーム",
       "score": -0.31850793410754735,
       "horse_number": 16,
-      "odds": 23.9
+      "odds": 28.5
     },
     {
       "rank": 16,
@@ -130,7 +130,7 @@
       "horse_name": "メイショウコバト",
       "score": -0.42320086884112296,
       "horse_number": 14,
-      "odds": 71.3
+      "odds": 134.6
     }
   ]
 }
