@@ -1,0 +1,136 @@
+{
+  "race_id": "202509050811",
+  "race_name": "ギャラクシー",
+  "race_time": "2025-12-28 15:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020101373",
+      "horse_name": "バトゥーキ",
+      "score": 0.15285971758326547,
+      "horse_number": 14,
+      "odds": 8.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110148",
+      "horse_name": "ノーブルロジャー",
+      "score": 0.08573160418672367,
+      "horse_number": 3,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101174",
+      "horse_name": "ユキマル",
+      "score": 0.07453384272695555,
+      "horse_number": 9,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106557",
+      "horse_name": "コンクイスタ",
+      "score": 0.05377404986208146,
+      "horse_number": 5,
+      "odds": 3.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101444",
+      "horse_name": "サトノフェニックス",
+      "score": -0.08215942372633556,
+      "horse_number": 11,
+      "odds": 13.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019101975",
+      "horse_name": "ナムラフランク",
+      "score": -0.11600471621909676,
+      "horse_number": 6,
+      "odds": 36.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101182",
+      "horse_name": "グッジョブ",
+      "score": -0.15858860318219006,
+      "horse_number": 7,
+      "odds": 28.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103785",
+      "horse_name": "コンティノアール",
+      "score": -0.21205942900604555,
+      "horse_number": 1,
+      "odds": 12.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020110131",
+      "horse_name": "メタマックス",
+      "score": -0.22676875066120747,
+      "horse_number": 2,
+      "odds": 53.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100161",
+      "horse_name": "ロードフロンティア",
+      "score": -0.24385963653377934,
+      "horse_number": 4,
+      "odds": 24.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104304",
+      "horse_name": "スマートサニー",
+      "score": -0.247272968265445,
+      "horse_number": 8,
+      "odds": 31.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103812",
+      "horse_name": "ワイワイレジェンド",
+      "score": -0.24890088548120579,
+      "horse_number": 13,
+      "odds": 7.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019102454",
+      "horse_name": "サクセスローレル",
+      "score": -0.27284435995881506,
+      "horse_number": 15,
+      "odds": 135.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017106642",
+      "horse_name": "メイショウカズサ",
+      "score": -0.27522341859083665,
+      "horse_number": 12,
+      "odds": 83.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018101739",
+      "horse_name": "ケイアイシェルビー",
+      "score": -0.5079253873447379,
+      "horse_number": 16,
+      "odds": 86.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106877",
+      "horse_name": "スマートアイ",
+      "score": -0.5194288110542021,
+      "horse_number": 10,
+      "odds": 42.7
+    }
+  ]
+}
