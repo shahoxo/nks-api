@@ -1,0 +1,136 @@
+{
+  "race_id": "202608010102",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-04 10:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103720",
+      "horse_name": "リアライズグリント",
+      "score": 0.2976678575495302,
+      "horse_number": 4,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104990",
+      "horse_name": "ロジャートアリー",
+      "score": -0.09419824013010857,
+      "horse_number": 6,
+      "odds": 26.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104408",
+      "horse_name": "ナウオアネヴァー",
+      "score": -0.23942730794119813,
+      "horse_number": 11,
+      "odds": 9.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104236",
+      "horse_name": "サニーサイドラガー",
+      "score": -0.2736383199704927,
+      "horse_number": 10,
+      "odds": 92.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100621",
+      "horse_name": "ディープシャロー",
+      "score": -0.2737010992202904,
+      "horse_number": 7,
+      "odds": 15.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100430",
+      "horse_name": "ロードファイター",
+      "score": -0.2867796584894122,
+      "horse_number": 15,
+      "odds": 21.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107472",
+      "horse_name": "ムソウテンセイ",
+      "score": -0.35271632056741387,
+      "horse_number": 12,
+      "odds": 89.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023110060",
+      "horse_name": "エコログレン",
+      "score": -0.4308564070467634,
+      "horse_number": 16,
+      "odds": 123.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104324",
+      "horse_name": "タガノエルー",
+      "score": -0.4619919566681555,
+      "horse_number": 2,
+      "odds": 59.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100715",
+      "horse_name": "ピエナオルカ",
+      "score": -0.482138476977782,
+      "horse_number": 5,
+      "odds": 12.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104682",
+      "horse_name": "アミラル",
+      "score": -0.4876000540755626,
+      "horse_number": 14,
+      "odds": 12.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106078",
+      "horse_name": "ハオカノア",
+      "score": -0.49786096130017266,
+      "horse_number": 8,
+      "odds": 24.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100945",
+      "horse_name": "サンライズナスカ",
+      "score": -0.5093778009849391,
+      "horse_number": 3,
+      "odds": 51.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101329",
+      "horse_name": "テイエムテンジン",
+      "score": -0.5139978928314399,
+      "horse_number": 9,
+      "odds": 64.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104379",
+      "horse_name": "サマーナジュム",
+      "score": -0.6299256088243421,
+      "horse_number": 13,
+      "odds": 66.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100902",
+      "horse_name": "サンライズフリード",
+      "score": -0.703836440672674,
+      "horse_number": 1,
+      "odds": 42.0
+    }
+  ]
+}

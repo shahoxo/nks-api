@@ -1,0 +1,136 @@
+{
+  "race_id": "202608010103",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-04 10:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105279",
+      "horse_name": "アニマレイ",
+      "score": 0.5117231268402567,
+      "horse_number": 4,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101951",
+      "horse_name": "メイショウバルク",
+      "score": 0.11874128687874823,
+      "horse_number": 1,
+      "odds": 8.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105738",
+      "horse_name": "モズプリフォール",
+      "score": 0.11613864764603803,
+      "horse_number": 13,
+      "odds": 7.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104805",
+      "horse_name": "オプティモ",
+      "score": 0.05305490979831962,
+      "horse_number": 2,
+      "odds": 12.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104040",
+      "horse_name": "ココラッシー",
+      "score": 0.047059150871521266,
+      "horse_number": 16,
+      "odds": 6.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104402",
+      "horse_name": "ムスクレスト",
+      "score": 0.0359248166694394,
+      "horse_number": 3,
+      "odds": 9.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105833",
+      "horse_name": "セレブトーチ",
+      "score": -0.07404677347157117,
+      "horse_number": 7,
+      "odds": 31.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100986",
+      "horse_name": "サンタカリス",
+      "score": -0.11779927897736157,
+      "horse_number": 12,
+      "odds": 25.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100596",
+      "horse_name": "ジャーナーリア",
+      "score": -0.13305843554006136,
+      "horse_number": 9,
+      "odds": 13.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103848",
+      "horse_name": "トーアウィリアム",
+      "score": -0.163146531066428,
+      "horse_number": 8,
+      "odds": 72.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100567",
+      "horse_name": "グレートアゲイン",
+      "score": -0.1699502681501288,
+      "horse_number": 10,
+      "odds": 145.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103151",
+      "horse_name": "ハードシングス",
+      "score": -0.3357977030298914,
+      "horse_number": 11,
+      "odds": 8.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100690",
+      "horse_name": "ルーセントムーン",
+      "score": -0.3692057513677211,
+      "horse_number": 5,
+      "odds": 33.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104692",
+      "horse_name": "サマーブリザード",
+      "score": -0.4069686590563836,
+      "horse_number": 14,
+      "odds": 50.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023107450",
+      "horse_name": "ユウトザケンケン",
+      "score": -0.5628851560431606,
+      "horse_number": 6,
+      "odds": 149.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023101231",
+      "horse_name": "フリッシュ",
+      "score": -0.6546627932857848,
+      "horse_number": 15,
+      "odds": 48.6
+    }
+  ]
+}

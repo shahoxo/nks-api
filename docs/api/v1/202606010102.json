@@ -1,0 +1,112 @@
+{
+  "race_id": "202606010102",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-04 10:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102813",
+      "horse_name": "フィンガー",
+      "score": 0.39914055192051756,
+      "horse_number": 4,
+      "odds": 1.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100629",
+      "horse_name": "ゴーフォアブローク",
+      "score": 0.03422309994336805,
+      "horse_number": 7,
+      "odds": 10.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101798",
+      "horse_name": "ブルージェネシス",
+      "score": -0.1460556617375655,
+      "horse_number": 5,
+      "odds": 19.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101095",
+      "horse_name": "タニセンローマ",
+      "score": -0.21340377388834936,
+      "horse_number": 9,
+      "odds": 31.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100362",
+      "horse_name": "ニシノモリミチ",
+      "score": -0.24713926431363234,
+      "horse_number": 8,
+      "odds": 6.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102107",
+      "horse_name": "クリュメノス",
+      "score": -0.4319443772121474,
+      "horse_number": 1,
+      "odds": 56.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102964",
+      "horse_name": "タイガーゲイト",
+      "score": -0.4440203264086665,
+      "horse_number": 6,
+      "odds": 94.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101644",
+      "horse_name": "オルブライト",
+      "score": -0.47630147869677164,
+      "horse_number": 2,
+      "odds": 13.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103621",
+      "horse_name": "シンエンドーツダ",
+      "score": -0.504645809134922,
+      "horse_number": 13,
+      "odds": 46.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106582",
+      "horse_name": "モリインビクタス",
+      "score": -0.5393606452573874,
+      "horse_number": 10,
+      "odds": 91.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100588",
+      "horse_name": "トーセンシーギリヤ",
+      "score": -0.546418385722876,
+      "horse_number": 12,
+      "odds": 113.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100795",
+      "horse_name": "クラウンプレゼンタ",
+      "score": -0.6016625315578266,
+      "horse_number": 11,
+      "odds": 133.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101444",
+      "horse_name": "インスウィング",
+      "score": -0.735775346659503,
+      "horse_number": 3,
+      "odds": 76.6
+    }
+  ]
+}

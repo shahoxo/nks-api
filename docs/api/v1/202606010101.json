@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010101",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-04 10:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100807",
+      "horse_name": "マリノレーヴェ",
+      "score": 0.19512434602460849,
+      "horse_number": 11,
+      "odds": 7.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100583",
+      "horse_name": "フュルスティン",
+      "score": 0.106431037380203,
+      "horse_number": 14,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102399",
+      "horse_name": "アクロスメモリア",
+      "score": 0.106431037380203,
+      "horse_number": 16,
+      "odds": 12.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103100",
+      "horse_name": "トウシンラヴ",
+      "score": -0.03265289334206865,
+      "horse_number": 8,
+      "odds": 39.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100924",
+      "horse_name": "マメーアップル",
+      "score": -0.06596022598034791,
+      "horse_number": 4,
+      "odds": 6.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103571",
+      "horse_name": "メインテーマ",
+      "score": -0.0667645971165725,
+      "horse_number": 5,
+      "odds": 36.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103253",
+      "horse_name": "タマモシルエット",
+      "score": -0.06959662118457106,
+      "horse_number": 9,
+      "odds": 19.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107385",
+      "horse_name": "ジーナグレイス",
+      "score": -0.21868977492685132,
+      "horse_number": 1,
+      "odds": 85.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102383",
+      "horse_name": "プラチナムディスク",
+      "score": -0.22999073726055555,
+      "horse_number": 15,
+      "odds": 50.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100397",
+      "horse_name": "ミルトメロディー",
+      "score": -0.43855859896636373,
+      "horse_number": 13,
+      "odds": 42.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105803",
+      "horse_name": "ラストシャイニー",
+      "score": -0.44881219127024086,
+      "horse_number": 7,
+      "odds": 19.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104394",
+      "horse_name": "バーヴァンシー",
+      "score": -0.5312965301762246,
+      "horse_number": 6,
+      "odds": 46.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101563",
+      "horse_name": "レースクイーン",
+      "score": -0.5844092227108343,
+      "horse_number": 12,
+      "odds": 117.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100805",
+      "horse_name": "ウィザードオブマリ",
+      "score": -0.6016625315578266,
+      "horse_number": 10,
+      "odds": 205.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100239",
+      "horse_name": "ファストワーカー",
+      "score": -0.6275899775217947,
+      "horse_number": 3,
+      "odds": 58.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023109013",
+      "horse_name": "フロリスタン",
+      "score": -0.7560238565797833,
+      "horse_number": 2,
+      "odds": 286.6
+    }
+  ]
+}
