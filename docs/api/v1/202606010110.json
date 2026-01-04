@@ -1,0 +1,72 @@
+{
+  "race_id": "202606010110",
+  "race_name": "ジュニアC",
+  "race_time": "2026-01-04 15:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107014",
+      "horse_name": "サレジオ",
+      "score": 0.39130344423768876,
+      "horse_number": 5,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106916",
+      "horse_name": "リゾートアイランド",
+      "score": 0.32704421297991376,
+      "horse_number": 4,
+      "odds": 2.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105011",
+      "horse_name": "オーライカモン",
+      "score": 0.2774743647273018,
+      "horse_number": 8,
+      "odds": 12.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100953",
+      "horse_name": "グランセレスト",
+      "score": 0.23155107921452983,
+      "horse_number": 6,
+      "odds": 26.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105356",
+      "horse_name": "マーゴットブロー",
+      "score": 0.2102437054056387,
+      "horse_number": 2,
+      "odds": 7.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102083",
+      "horse_name": "ジーティーシンドウ",
+      "score": 0.20115577074416102,
+      "horse_number": 7,
+      "odds": 3.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106197",
+      "horse_name": "フレンドモナコ",
+      "score": -0.48015012246788913,
+      "horse_number": 3,
+      "odds": 51.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106492",
+      "horse_name": "コスモギガンティア",
+      "score": -0.61286587323379,
+      "horse_number": 1,
+      "odds": 24.0
+    }
+  ]
+}

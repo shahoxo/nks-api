@@ -1,0 +1,80 @@
+{
+  "race_id": "202608010110",
+  "race_name": "寿S",
+  "race_time": "2026-01-04 14:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021106193",
+      "horse_name": "ウイントレメンデス",
+      "score": 0.39067500473450656,
+      "horse_number": 9,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106548",
+      "horse_name": "タガノデュード",
+      "score": 0.12405447238458563,
+      "horse_number": 2,
+      "odds": 3.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102728",
+      "horse_name": "バッデレイト",
+      "score": 0.12021693117789575,
+      "horse_number": 8,
+      "odds": 3.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019107025",
+      "horse_name": "クレバーテースト",
+      "score": -0.002715010794113761,
+      "horse_number": 1,
+      "odds": 7.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106635",
+      "horse_name": "インザモーメント",
+      "score": -0.14807553502303322,
+      "horse_number": 4,
+      "odds": 16.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018103590",
+      "horse_name": "リッケンバッカー",
+      "score": -0.1606604184595249,
+      "horse_number": 6,
+      "odds": 43.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101329",
+      "horse_name": "フクノブルーレイク",
+      "score": -0.20091351234728821,
+      "horse_number": 7,
+      "odds": 10.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102937",
+      "horse_name": "コスモフロイデ",
+      "score": -0.5442065287578112,
+      "horse_number": 3,
+      "odds": 60.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104092",
+      "horse_name": "メイショウゲキリン",
+      "score": -0.5446088951231004,
+      "horse_number": 5,
+      "odds": 14.0
+    }
+  ]
+}

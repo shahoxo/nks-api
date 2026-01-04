@@ -1,0 +1,96 @@
+{
+  "race_id": "202606010109",
+  "race_name": "招福S",
+  "race_time": "2026-01-04 14:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019104805",
+      "horse_name": "デコラシオン",
+      "score": 0.30244360755692645,
+      "horse_number": 2,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102987",
+      "horse_name": "バギーウィップ",
+      "score": 0.22266556690606054,
+      "horse_number": 10,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020104708",
+      "horse_name": "ウィステリアリヴァ",
+      "score": 0.1371147285119227,
+      "horse_number": 5,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101582",
+      "horse_name": "アンジュフィールド",
+      "score": 0.03492552205064654,
+      "horse_number": 9,
+      "odds": 14.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104824",
+      "horse_name": "アスクデビューモア",
+      "score": 0.009460414561976055,
+      "horse_number": 3,
+      "odds": 9.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102703",
+      "horse_name": "リバートゥルー",
+      "score": -0.058130546420397555,
+      "horse_number": 11,
+      "odds": 5.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105272",
+      "horse_name": "タンゴバイラリン",
+      "score": -0.12091340119824914,
+      "horse_number": 7,
+      "odds": 9.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106874",
+      "horse_name": "ゴールドアローン",
+      "score": -0.17332416675844417,
+      "horse_number": 4,
+      "odds": 15.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104845",
+      "horse_name": "ギーロカスタル",
+      "score": -0.23405605739507915,
+      "horse_number": 6,
+      "odds": 68.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018106693",
+      "horse_name": "グランツアーテム",
+      "score": -0.3234639561402204,
+      "horse_number": 1,
+      "odds": 53.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019106475",
+      "horse_name": "カネトシブルーム",
+      "score": -0.7110773707070305,
+      "horse_number": 8,
+      "odds": 32.5
+    }
+  ]
+}
