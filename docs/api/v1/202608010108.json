@@ -1,0 +1,136 @@
+{
+  "race_id": "202608010108",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-04 13:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104600",
+      "horse_name": "イマージョン",
+      "score": 0.3016434473278856,
+      "horse_number": 11,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104644",
+      "horse_name": "ペンテリコン",
+      "score": 0.24676871217431995,
+      "horse_number": 15,
+      "odds": 12.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100158",
+      "horse_name": "ダノンモンテローザ",
+      "score": 0.08785165106069688,
+      "horse_number": 5,
+      "odds": 7.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100660",
+      "horse_name": "ロードヴァルカン",
+      "score": 0.07581848171542378,
+      "horse_number": 1,
+      "odds": 3.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106513",
+      "horse_name": "キーガッツ",
+      "score": 0.07238573013434302,
+      "horse_number": 14,
+      "odds": 21.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103188",
+      "horse_name": "メイショウゴールド",
+      "score": -0.004879682099013179,
+      "horse_number": 9,
+      "odds": 15.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103150",
+      "horse_name": "ジュエルハウス",
+      "score": -0.0440211922505143,
+      "horse_number": 6,
+      "odds": 48.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104633",
+      "horse_name": "アーデルリーベ",
+      "score": -0.2177751485023769,
+      "horse_number": 2,
+      "odds": 14.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103307",
+      "horse_name": "サンライズジュピタ",
+      "score": -0.23840487168383276,
+      "horse_number": 12,
+      "odds": 19.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103195",
+      "horse_name": "ヴェントインコーダ",
+      "score": -0.2721587478821517,
+      "horse_number": 13,
+      "odds": 7.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101891",
+      "horse_name": "スパークルジョイ",
+      "score": -0.308933919025298,
+      "horse_number": 10,
+      "odds": 77.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021107278",
+      "horse_name": "ユーヴェリア",
+      "score": -0.4652323973259831,
+      "horse_number": 3,
+      "odds": 43.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106631",
+      "horse_name": "バシリス",
+      "score": -0.49258247787958365,
+      "horse_number": 4,
+      "odds": 27.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103440",
+      "horse_name": "インディゴアスール",
+      "score": -0.500220984140192,
+      "horse_number": 8,
+      "odds": 52.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100136",
+      "horse_name": "スカイブルー",
+      "score": -0.5018333656256175,
+      "horse_number": 16,
+      "odds": 19.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021100708",
+      "horse_name": "グランパリッシュ",
+      "score": -0.5719778936462864,
+      "horse_number": 7,
+      "odds": 77.1
+    }
+  ]
+}
