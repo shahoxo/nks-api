@@ -1,0 +1,104 @@
+{
+  "race_id": "202608010112",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-01-04 16:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104694",
+      "horse_name": "ブルクトーア",
+      "score": 0.41579508550320576,
+      "horse_number": 12,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019105487",
+      "horse_name": "アドマイヤジェイ",
+      "score": 0.26876183095672096,
+      "horse_number": 8,
+      "odds": 8.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2018103368",
+      "horse_name": "メイショウカイト",
+      "score": 0.10984531117924702,
+      "horse_number": 6,
+      "odds": 4.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2018105047",
+      "horse_name": "ホウオウサンデー",
+      "score": 0.08368733306504278,
+      "horse_number": 4,
+      "odds": 19.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104627",
+      "horse_name": "シホノペルフェット",
+      "score": -0.012745625728198942,
+      "horse_number": 7,
+      "odds": 12.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103862",
+      "horse_name": "サダメ",
+      "score": -0.023967093543471374,
+      "horse_number": 3,
+      "odds": 8.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103171",
+      "horse_name": "タイキヴァンクール",
+      "score": -0.031126305528566364,
+      "horse_number": 1,
+      "odds": 7.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100962",
+      "horse_name": "クイーンズデイ",
+      "score": -0.07465703488020348,
+      "horse_number": 11,
+      "odds": 12.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103632",
+      "horse_name": "スイミーユニバンス",
+      "score": -0.18235303219326646,
+      "horse_number": 9,
+      "odds": 15.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100935",
+      "horse_name": "ララマセラシオン",
+      "score": -0.20802813143561036,
+      "horse_number": 10,
+      "odds": 23.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105431",
+      "horse_name": "ネーブルオレンジ",
+      "score": -0.30528584167785716,
+      "horse_number": 2,
+      "odds": 13.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105374",
+      "horse_name": "クイックバイオ",
+      "score": -0.3205401996357611,
+      "horse_number": 5,
+      "odds": 24.2
+    }
+  ]
+}

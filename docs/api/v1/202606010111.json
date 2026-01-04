@@ -1,0 +1,120 @@
+{
+  "race_id": "202606010111",
+  "race_name": "中山金杯",
+  "race_time": "2026-01-04 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019105302",
+      "horse_name": "グランディア",
+      "score": 0.18956167842513943,
+      "horse_number": 8,
+      "odds": 8.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105738",
+      "horse_name": "アンゴラブラック",
+      "score": 0.17250793365101896,
+      "horse_number": 2,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104839",
+      "horse_name": "カネラフィーナ",
+      "score": 0.11814041851312572,
+      "horse_number": 3,
+      "odds": 5.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106766",
+      "horse_name": "マイネルオーシャン",
+      "score": 0.05853769058953888,
+      "horse_number": 9,
+      "odds": 19.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019100318",
+      "horse_name": "ケイアイセナ",
+      "score": 0.04821994121837486,
+      "horse_number": 1,
+      "odds": 7.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104896",
+      "horse_name": "カラマティアノス",
+      "score": 0.031426196346796775,
+      "horse_number": 11,
+      "odds": 16.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106155",
+      "horse_name": "ニシノエージェント",
+      "score": -0.012217251072094551,
+      "horse_number": 6,
+      "odds": 16.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101134",
+      "horse_name": "ピースワンデュック",
+      "score": -0.03840190578721028,
+      "horse_number": 5,
+      "odds": 14.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104094",
+      "horse_name": "シリウスコルト",
+      "score": -0.044671086088182536,
+      "horse_number": 13,
+      "odds": 11.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019103823",
+      "horse_name": "リカンカブール",
+      "score": -0.08602087652459424,
+      "horse_number": 14,
+      "odds": 38.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106645",
+      "horse_name": "ウエストナウ",
+      "score": -0.11625017391724413,
+      "horse_number": 7,
+      "odds": 27.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105749",
+      "horse_name": "マイネルモーント",
+      "score": -0.13928507959979877,
+      "horse_number": 12,
+      "odds": 19.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018104225",
+      "horse_name": "リフレーミング",
+      "score": -0.5113929901287999,
+      "horse_number": 10,
+      "odds": 71.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019107075",
+      "horse_name": "ブランデーロック",
+      "score": -0.5685788389983155,
+      "horse_number": 4,
+      "odds": 60.7
+    }
+  ]
+}
