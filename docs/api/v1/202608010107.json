@@ -1,0 +1,88 @@
+{
+  "race_id": "202608010107",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-04 13:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100439",
+      "horse_name": "ハギノコラソン",
+      "score": 0.08971728958991866,
+      "horse_number": 10,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102954",
+      "horse_name": "アンジュアルディ",
+      "score": 0.05366820116271998,
+      "horse_number": 9,
+      "odds": 3.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102906",
+      "horse_name": "オリジナルファイン",
+      "score": 0.025707610172739773,
+      "horse_number": 5,
+      "odds": 6.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105711",
+      "horse_name": "ヴァリオーサ",
+      "score": -0.04024866891593328,
+      "horse_number": 1,
+      "odds": 20.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104970",
+      "horse_name": "サンコンクエスト",
+      "score": -0.1861021366269628,
+      "horse_number": 3,
+      "odds": 6.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101678",
+      "horse_name": "キャットテイル",
+      "score": -0.359017618031232,
+      "horse_number": 7,
+      "odds": 26.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100159",
+      "horse_name": "クインズショコラ",
+      "score": -0.36814700523905025,
+      "horse_number": 2,
+      "odds": 5.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102768",
+      "horse_name": "メイショウウメゴチ",
+      "score": -0.47242566191496027,
+      "horse_number": 4,
+      "odds": 25.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106185",
+      "horse_name": "ラグナトーレ",
+      "score": -0.4892179546956671,
+      "horse_number": 8,
+      "odds": 27.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104553",
+      "horse_name": "オーケーエンジェル",
+      "score": -0.6005827911375529,
+      "horse_number": 6,
+      "odds": 11.8
+    }
+  ]
+}

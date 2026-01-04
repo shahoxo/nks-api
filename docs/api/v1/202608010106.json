@@ -1,0 +1,64 @@
+{
+  "race_id": "202608010106",
+  "race_name": "3歳1勝クラス",
+  "race_time": "2026-01-04 12:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106902",
+      "horse_name": "ヴァロンブローサ",
+      "score": 0.4127683105036781,
+      "horse_number": 7,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100553",
+      "horse_name": "カレントゥルーシー",
+      "score": 0.30235679034250507,
+      "horse_number": 5,
+      "odds": 6.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103423",
+      "horse_name": "シャドウマスター",
+      "score": 0.27777811020328425,
+      "horse_number": 6,
+      "odds": 10.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103417",
+      "horse_name": "ウィズクィーン",
+      "score": 0.2638613160327905,
+      "horse_number": 3,
+      "odds": 9.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103342",
+      "horse_name": "エアビーアゲイル",
+      "score": 0.19998940396551138,
+      "horse_number": 4,
+      "odds": 5.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103907",
+      "horse_name": "スカイスプレンダー",
+      "score": 0.16063091584696804,
+      "horse_number": 1,
+      "odds": 2.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102979",
+      "horse_name": "ジュウリョクピエロ",
+      "score": -0.4308487165738606,
+      "horse_number": 2,
+      "odds": 19.3
+    }
+  ]
+}
