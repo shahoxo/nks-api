@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010112",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-01-04 16:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103670",
+      "horse_name": "ショウナンハクウン",
+      "score": 0.1679701370454129,
+      "horse_number": 16,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104972",
+      "horse_name": "スリーピース",
+      "score": 0.08485416575837122,
+      "horse_number": 13,
+      "odds": 7.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110111",
+      "horse_name": "ジャスパーソレイユ",
+      "score": 0.043915056193428365,
+      "horse_number": 3,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100338",
+      "horse_name": "テセラリアン",
+      "score": 0.04388368769666784,
+      "horse_number": 2,
+      "odds": 7.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106307",
+      "horse_name": "モリノセピア",
+      "score": -0.0338629601793553,
+      "horse_number": 9,
+      "odds": 10.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103725",
+      "horse_name": "ロッカバイベイビー",
+      "score": -0.056222745258008244,
+      "horse_number": 14,
+      "odds": 17.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102785",
+      "horse_name": "ラーナローザ",
+      "score": -0.07149889780223334,
+      "horse_number": 15,
+      "odds": 10.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106119",
+      "horse_name": "タイセイピューマ",
+      "score": -0.08053191961357056,
+      "horse_number": 4,
+      "odds": 14.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019103442",
+      "horse_name": "クラリティスケール",
+      "score": -0.1867782537386012,
+      "horse_number": 7,
+      "odds": 35.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021110062",
+      "horse_name": "ヒストリアイ",
+      "score": -0.2071241996996484,
+      "horse_number": 6,
+      "odds": 19.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100382",
+      "horse_name": "ケープアグラス",
+      "score": -0.2759327539396709,
+      "horse_number": 5,
+      "odds": 20.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103931",
+      "horse_name": "ヴィクトリーロード",
+      "score": -0.48939039986091015,
+      "horse_number": 8,
+      "odds": 46.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104903",
+      "horse_name": "ヴェルトラウム",
+      "score": -0.5114137112262032,
+      "horse_number": 11,
+      "odds": 53.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102421",
+      "horse_name": "グリーンライズ",
+      "score": -0.5619855808996145,
+      "horse_number": 12,
+      "odds": 97.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022107309",
+      "horse_name": "2022107309",
+      "score": -0.594723969342671,
+      "horse_number": 10,
+      "odds": 99.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106562",
+      "horse_name": "バンブトンプロ",
+      "score": -0.6318373387288261,
+      "horse_number": 1,
+      "odds": 98.2
+    }
+  ]
+}
