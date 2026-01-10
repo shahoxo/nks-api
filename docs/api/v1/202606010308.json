@@ -1,0 +1,112 @@
+{
+  "race_id": "202606010308",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-01-10 14:01",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103371",
+      "horse_name": "パイシャオピン",
+      "score": 0.3672853879326658,
+      "horse_number": 1,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102174",
+      "horse_name": "トレサフィール",
+      "score": 0.1245168382981499,
+      "horse_number": 3,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101716",
+      "horse_name": "ピコシー",
+      "score": -0.054546693512474966,
+      "horse_number": 8,
+      "odds": 20.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102200",
+      "horse_name": "レッドライトニング",
+      "score": -0.13810697842609096,
+      "horse_number": 7,
+      "odds": 20.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102735",
+      "horse_name": "スマートカイロス",
+      "score": -0.1683948988619855,
+      "horse_number": 6,
+      "odds": 4.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103766",
+      "horse_name": "トルショー",
+      "score": -0.17415852358136275,
+      "horse_number": 5,
+      "odds": 20.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106623",
+      "horse_name": "エクリプスルバン",
+      "score": -0.18095316829067082,
+      "horse_number": 12,
+      "odds": 4.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100104",
+      "horse_name": "ダイシンバースディ",
+      "score": -0.19995638319551384,
+      "horse_number": 11,
+      "odds": 68.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105321",
+      "horse_name": "エーデル",
+      "score": -0.22283205801776795,
+      "horse_number": 2,
+      "odds": 32.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101764",
+      "horse_name": "トーホウキザン",
+      "score": -0.29336055836528474,
+      "horse_number": 13,
+      "odds": 54.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100005",
+      "horse_name": "アパイシュナール",
+      "score": -0.5306974268226282,
+      "horse_number": 10,
+      "odds": 45.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2017105433",
+      "horse_name": "ヤウガウ",
+      "score": -0.5336813206744173,
+      "horse_number": 9,
+      "odds": 104.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018100976",
+      "horse_name": "デルマタモン",
+      "score": -0.6318373387288261,
+      "horse_number": 4,
+      "odds": 95.1
+    }
+  ]
+}
