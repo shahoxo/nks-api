@@ -1,0 +1,144 @@
+{
+  "race_id": "202606010311",
+  "race_name": "迎春S",
+  "race_time": "2026-01-10 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104902",
+      "horse_name": "マイユニバース",
+      "score": 0.2055154011416418,
+      "horse_number": 4,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105453",
+      "horse_name": "エラン",
+      "score": 0.20184688826683467,
+      "horse_number": 9,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106954",
+      "horse_name": "アスクナイスショー",
+      "score": 0.14423370107435357,
+      "horse_number": 13,
+      "odds": 7.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104971",
+      "horse_name": "オールセインツ",
+      "score": 0.06492915609498948,
+      "horse_number": 17,
+      "odds": 15.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102577",
+      "horse_name": "バレンタインガール",
+      "score": 0.06292138840994323,
+      "horse_number": 2,
+      "odds": 12.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100148",
+      "horse_name": "ロードオールライト",
+      "score": 0.020088385842852614,
+      "horse_number": 1,
+      "odds": 11.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100225",
+      "horse_name": "モズマーヴェリック",
+      "score": -0.04477797395346363,
+      "horse_number": 6,
+      "odds": 50.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105794",
+      "horse_name": "マイネルラウレア",
+      "score": -0.08261622135308012,
+      "horse_number": 11,
+      "odds": 21.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101152",
+      "horse_name": "ナイトインロンドン",
+      "score": -0.09280988363052345,
+      "horse_number": 15,
+      "odds": 25.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105040",
+      "horse_name": "ルカランフィースト",
+      "score": -0.09920460995232469,
+      "horse_number": 7,
+      "odds": 12.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105609",
+      "horse_name": "スパークリシャール",
+      "score": -0.13217167985598152,
+      "horse_number": 14,
+      "odds": 27.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020107121",
+      "horse_name": "イケイケドンドン",
+      "score": -0.2224421513606412,
+      "horse_number": 16,
+      "odds": 69.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103881",
+      "horse_name": "コスモサガルマータ",
+      "score": -0.2298811719864884,
+      "horse_number": 5,
+      "odds": 83.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106816",
+      "horse_name": "マイネルブリックス",
+      "score": -0.24445856348586464,
+      "horse_number": 8,
+      "odds": 79.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104844",
+      "horse_name": "グロッシェン",
+      "score": -0.25163754189242343,
+      "horse_number": 3,
+      "odds": 73.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106966",
+      "horse_name": "ピンクジン",
+      "score": -0.2933688093686028,
+      "horse_number": 12,
+      "odds": 90.1
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020101198",
+      "horse_name": "メイテソーロ",
+      "score": -0.5472916750833359,
+      "horse_number": 10,
+      "odds": 91.7
+    }
+  ]
+}

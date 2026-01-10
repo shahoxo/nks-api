@@ -1,0 +1,152 @@
+{
+  "race_id": "202608010312",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-10 16:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102395",
+      "horse_name": "チムグクル",
+      "score": 0.23598536191073488,
+      "horse_number": 8,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106237",
+      "horse_name": "サーナーティオン",
+      "score": 0.21927093063226474,
+      "horse_number": 14,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020100271",
+      "horse_name": "フォティック",
+      "score": 0.20175774787370465,
+      "horse_number": 4,
+      "odds": 17.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104918",
+      "horse_name": "シャーリーゴールド",
+      "score": 0.17590481903978938,
+      "horse_number": 6,
+      "odds": 25.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101896",
+      "horse_name": "デアリングエア",
+      "score": 0.1147651146848727,
+      "horse_number": 1,
+      "odds": 11.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104719",
+      "horse_name": "ダノンカゼルタ",
+      "score": 0.10522700470756999,
+      "horse_number": 13,
+      "odds": 17.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105983",
+      "horse_name": "キトンインザスカイ",
+      "score": 0.09487591637093867,
+      "horse_number": 10,
+      "odds": 12.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104198",
+      "horse_name": "シンヒダカゴールド",
+      "score": 0.018364711891255703,
+      "horse_number": 12,
+      "odds": 20.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105857",
+      "horse_name": "ラウルベア",
+      "score": -0.033486238480725246,
+      "horse_number": 7,
+      "odds": 37.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103750",
+      "horse_name": "スピリットライズ",
+      "score": -0.18488362530295607,
+      "horse_number": 3,
+      "odds": 24.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106996",
+      "horse_name": "ゴージャス",
+      "score": -0.20354452354746122,
+      "horse_number": 9,
+      "odds": 4.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100492",
+      "horse_name": "マーゴットカーラ",
+      "score": -0.3357904317747602,
+      "horse_number": 18,
+      "odds": 92.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103210",
+      "horse_name": "メイショウサチダケ",
+      "score": -0.33631372552739147,
+      "horse_number": 16,
+      "odds": 23.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020103655",
+      "horse_name": "ダークブロンド",
+      "score": -0.3660202024043741,
+      "horse_number": 5,
+      "odds": 31.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105077",
+      "horse_name": "ワイルドブッター",
+      "score": -0.3961354654090917,
+      "horse_number": 11,
+      "odds": 97.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101429",
+      "horse_name": "ブーディガ",
+      "score": -0.4624086429578256,
+      "horse_number": 17,
+      "odds": 93.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022104920",
+      "horse_name": "ハイファイスピード",
+      "score": -0.46385224119353474,
+      "horse_number": 15,
+      "odds": 36.8
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022102963",
+      "horse_name": "メイショウタマユラ",
+      "score": -0.4942172793515437,
+      "horse_number": 2,
+      "odds": 67.3
+    }
+  ]
+}
