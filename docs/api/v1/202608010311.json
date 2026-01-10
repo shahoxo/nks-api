@@ -1,0 +1,136 @@
+{
+  "race_id": "202608010311",
+  "race_name": "すばるS",
+  "race_time": "2026-01-10 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104991",
+      "horse_name": "スターターン",
+      "score": 0.49935629490926137,
+      "horse_number": 14,
+      "odds": 5.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102045",
+      "horse_name": "フェルヴェンテ",
+      "score": 0.20236638930073786,
+      "horse_number": 7,
+      "odds": 31.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105144",
+      "horse_name": "ニシキギミッチー",
+      "score": 0.1979568570261337,
+      "horse_number": 1,
+      "odds": 19.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105537",
+      "horse_name": "ビダーヤ",
+      "score": 0.18910685452896225,
+      "horse_number": 8,
+      "odds": 1.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100505",
+      "horse_name": "キタノズエッジ",
+      "score": 0.11097182730885048,
+      "horse_number": 4,
+      "odds": 15.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102868",
+      "horse_name": "モズミギカタアガリ",
+      "score": 0.07331995206495402,
+      "horse_number": 2,
+      "odds": 15.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102493",
+      "horse_name": "トリリオンボーイ",
+      "score": 0.061995287359992816,
+      "horse_number": 15,
+      "odds": 9.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110056",
+      "horse_name": "エコロガイア",
+      "score": 0.026750228625787964,
+      "horse_number": 6,
+      "odds": 74.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104304",
+      "horse_name": "スマートサニー",
+      "score": -0.001385777180701011,
+      "horse_number": 11,
+      "odds": 29.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103785",
+      "horse_name": "コンティノアール",
+      "score": -0.01831125175546653,
+      "horse_number": 12,
+      "odds": 29.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101182",
+      "horse_name": "グッジョブ",
+      "score": -0.027640004254076173,
+      "horse_number": 16,
+      "odds": 75.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103398",
+      "horse_name": "ライツフォル",
+      "score": -0.03396256986435117,
+      "horse_number": 3,
+      "odds": 12.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100895",
+      "horse_name": "サフランヒーロー",
+      "score": -0.07942959818074055,
+      "horse_number": 9,
+      "odds": 146.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105929",
+      "horse_name": "スターペスカオリ",
+      "score": -0.09796044783340077,
+      "horse_number": 5,
+      "odds": 66.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019101782",
+      "horse_name": "ラーグルフ",
+      "score": -0.23504782555913512,
+      "horse_number": 10,
+      "odds": 90.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104510",
+      "horse_name": "タクシンイメル",
+      "score": -0.3168602756039405,
+      "horse_number": 13,
+      "odds": 76.8
+    }
+  ]
+}

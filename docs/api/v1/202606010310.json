@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010310",
+  "race_name": "初凪賞",
+  "race_time": "2026-01-10 15:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101422",
+      "horse_name": "マテンロウブラボー",
+      "score": 0.42021621556800776,
+      "horse_number": 16,
+      "odds": 12.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101669",
+      "horse_name": "ストレイトトーカー",
+      "score": 0.26828819624664113,
+      "horse_number": 12,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105590",
+      "horse_name": "ワンモアスマイル",
+      "score": 0.16696957579226046,
+      "horse_number": 9,
+      "odds": 5.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105478",
+      "horse_name": "ダノンミッション",
+      "score": 0.1136104818535067,
+      "horse_number": 8,
+      "odds": 4.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106682",
+      "horse_name": "アンジョルラス",
+      "score": 0.11177564750034501,
+      "horse_number": 2,
+      "odds": 10.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104978",
+      "horse_name": "マルカオペラ",
+      "score": 0.08471242437454282,
+      "horse_number": 10,
+      "odds": 27.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106214",
+      "horse_name": "ウインベアトリス",
+      "score": 0.058915477181467155,
+      "horse_number": 1,
+      "odds": 15.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104942",
+      "horse_name": "シルバーレイン",
+      "score": -0.01775023222042026,
+      "horse_number": 4,
+      "odds": 16.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019101416",
+      "horse_name": "エールトゥヘヴン",
+      "score": -0.023019988953122045,
+      "horse_number": 13,
+      "odds": 28.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104053",
+      "horse_name": "ミトノオルフェ",
+      "score": -0.027228041296633084,
+      "horse_number": 14,
+      "odds": 43.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101412",
+      "horse_name": "ワタシマツワ",
+      "score": -0.1457102240642411,
+      "horse_number": 11,
+      "odds": 38.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105141",
+      "horse_name": "レーヴブリリアント",
+      "score": -0.16753408175512316,
+      "horse_number": 15,
+      "odds": 12.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106415",
+      "horse_name": "ロゼル",
+      "score": -0.3966907551330507,
+      "horse_number": 6,
+      "odds": 16.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106772",
+      "horse_name": "バセリーナ",
+      "score": -0.40303092414499747,
+      "horse_number": 5,
+      "odds": 97.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103736",
+      "horse_name": "ハリケーンリッジ",
+      "score": -0.4565204174174825,
+      "horse_number": 7,
+      "odds": 32.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021100008",
+      "horse_name": "ホークマン",
+      "score": -0.7283306795540226,
+      "horse_number": 3,
+      "odds": 127.5
+    }
+  ]
+}
