@@ -1,0 +1,88 @@
+{
+  "race_id": "202606010309",
+  "race_name": "黒竹賞",
+  "race_time": "2026-01-10 14:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103824",
+      "horse_name": "ケントン",
+      "score": 0.28879800432156344,
+      "horse_number": 5,
+      "odds": 13.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106821",
+      "horse_name": "マクリール",
+      "score": 0.2742524231886225,
+      "horse_number": 4,
+      "odds": 1.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102392",
+      "horse_name": "アジアントレジャー",
+      "score": 0.26772855352559,
+      "horse_number": 10,
+      "odds": 21.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104927",
+      "horse_name": "テンカムテキ",
+      "score": 0.2601720488367564,
+      "horse_number": 8,
+      "odds": 6.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101154",
+      "horse_name": "ファイアマン",
+      "score": 0.07684549398306455,
+      "horse_number": 2,
+      "odds": 14.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105381",
+      "horse_name": "ハイライトニング",
+      "score": 0.07537569576415475,
+      "horse_number": 7,
+      "odds": 26.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104031",
+      "horse_name": "タイセイエムロード",
+      "score": 0.06382785782936361,
+      "horse_number": 6,
+      "odds": 31.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104848",
+      "horse_name": "ダンツシタン",
+      "score": -0.008251919251274411,
+      "horse_number": 3,
+      "odds": 5.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102283",
+      "horse_name": "オトシダマ",
+      "score": -0.23412675314032252,
+      "horse_number": 9,
+      "odds": 29.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105664",
+      "horse_name": "ラフレードピエル",
+      "score": -0.33409242867547556,
+      "horse_number": 1,
+      "odds": 46.8
+    }
+  ]
+}
