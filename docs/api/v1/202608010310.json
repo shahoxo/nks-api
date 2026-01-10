@@ -1,0 +1,152 @@
+{
+  "race_id": "202608010310",
+  "race_name": "鹿ケ谷特別",
+  "race_time": "2026-01-10 14:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101686",
+      "horse_name": "インブロリオ",
+      "score": 0.4327915216549904,
+      "horse_number": 17,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110026",
+      "horse_name": "コウセキ",
+      "score": 0.08624396722914883,
+      "horse_number": 12,
+      "odds": 15.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105299",
+      "horse_name": "リアライズ",
+      "score": 0.08248912802472332,
+      "horse_number": 16,
+      "odds": 37.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110056",
+      "horse_name": "フードマン",
+      "score": 0.07461498001957091,
+      "horse_number": 5,
+      "odds": 6.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110112",
+      "horse_name": "ジャスパーディビネ",
+      "score": 0.03535376103865623,
+      "horse_number": 10,
+      "odds": 4.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103592",
+      "horse_name": "ルシード",
+      "score": 0.002570924008311214,
+      "horse_number": 4,
+      "odds": 8.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105706",
+      "horse_name": "フォルテローザ",
+      "score": -0.007064502156774701,
+      "horse_number": 13,
+      "odds": 31.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105833",
+      "horse_name": "カリーシ",
+      "score": -0.021026748661974463,
+      "horse_number": 11,
+      "odds": 33.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105092",
+      "horse_name": "ソングオブライフ",
+      "score": -0.050221992892778046,
+      "horse_number": 8,
+      "odds": 18.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105659",
+      "horse_name": "アムールリーベ",
+      "score": -0.08030558219311316,
+      "horse_number": 14,
+      "odds": 10.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106777",
+      "horse_name": "セレッソデアモール",
+      "score": -0.1057106686144882,
+      "horse_number": 2,
+      "odds": 21.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106821",
+      "horse_name": "ピースフルナイト",
+      "score": -0.11954159924673602,
+      "horse_number": 1,
+      "odds": 23.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102914",
+      "horse_name": "モズトキキ",
+      "score": -0.12353351065979797,
+      "horse_number": 3,
+      "odds": 31.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102881",
+      "horse_name": "プリンスノット",
+      "score": -0.21896872987153448,
+      "horse_number": 9,
+      "odds": 89.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100681",
+      "horse_name": "ジーニアスバローズ",
+      "score": -0.25565842378674575,
+      "horse_number": 15,
+      "odds": 42.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101031",
+      "horse_name": "アスクエピソード",
+      "score": -0.33899992991554767,
+      "horse_number": 6,
+      "odds": 91.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020105803",
+      "horse_name": "マイネルラッシュ",
+      "score": -0.3479676447428512,
+      "horse_number": 7,
+      "odds": 65.4
+    },
+    {
+      "rank": 18,
+      "horse_id": "2019109096",
+      "horse_name": "ダイヤモンドフジ",
+      "score": -0.45702942220456444,
+      "horse_number": 18,
+      "odds": 106.4
+    }
+  ]
+}
