@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010301",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-10 10:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105558",
+      "horse_name": "カンレイスター",
+      "score": 0.2692772979319178,
+      "horse_number": 8,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104665",
+      "horse_name": "ヴィビーム",
+      "score": -0.02460808772476327,
+      "horse_number": 6,
+      "odds": 31.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104392",
+      "horse_name": "オレンジキャンパス",
+      "score": -0.03176292930349551,
+      "horse_number": 13,
+      "odds": 13.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106929",
+      "horse_name": "コウソクユノ",
+      "score": -0.0399544309061899,
+      "horse_number": 2,
+      "odds": 36.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104658",
+      "horse_name": "ライヴレッドアイ",
+      "score": -0.09058602758429132,
+      "horse_number": 11,
+      "odds": 1.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107261",
+      "horse_name": "ミッキーパラソル",
+      "score": -0.10297451504333265,
+      "horse_number": 14,
+      "odds": 16.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103727",
+      "horse_name": "オレンジリバー",
+      "score": -0.39695203233035203,
+      "horse_number": 16,
+      "odds": 23.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102401",
+      "horse_name": "ジャメビュ",
+      "score": -0.4084878898652504,
+      "horse_number": 3,
+      "odds": 22.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101626",
+      "horse_name": "ルクスアンジュ",
+      "score": -0.5491501395383548,
+      "horse_number": 12,
+      "odds": 29.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102570",
+      "horse_name": "ローズライズ",
+      "score": -0.5614290651905137,
+      "horse_number": 9,
+      "odds": 32.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023107029",
+      "horse_name": "フェルアフリーゼ",
+      "score": -0.5703889114273121,
+      "horse_number": 10,
+      "odds": 24.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105068",
+      "horse_name": "キョウエイハル",
+      "score": -0.7212483613895885,
+      "horse_number": 1,
+      "odds": 83.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101227",
+      "horse_name": "チャーミングアイ",
+      "score": -0.7344997899121097,
+      "horse_number": 7,
+      "odds": 67.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106174",
+      "horse_name": "ルージュノヴァ",
+      "score": -0.7344997899121097,
+      "horse_number": 4,
+      "odds": 131.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101251",
+      "horse_name": "ジョリュウジャンシ",
+      "score": -0.7560238565797833,
+      "horse_number": 15,
+      "odds": 156.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102653",
+      "horse_name": "フラゲルムデイ",
+      "score": -0.7560238565797833,
+      "horse_number": 5,
+      "odds": 165.4
+    }
+  ]
+}

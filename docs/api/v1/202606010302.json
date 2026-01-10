@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010302",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-10 10:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101642",
+      "horse_name": "ベルウッドピース",
+      "score": 0.10398680529834277,
+      "horse_number": 2,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102160",
+      "horse_name": "アルデキングダム",
+      "score": -0.08634756809872206,
+      "horse_number": 12,
+      "odds": 3.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106251",
+      "horse_name": "カフェタンガロア",
+      "score": -0.10283450929874517,
+      "horse_number": 16,
+      "odds": 10.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103801",
+      "horse_name": "トップデュオ",
+      "score": -0.1875176620844832,
+      "horse_number": 14,
+      "odds": 13.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106286",
+      "horse_name": "フーディエラン",
+      "score": -0.22641013132637755,
+      "horse_number": 1,
+      "odds": 11.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103311",
+      "horse_name": "ビリージェイ",
+      "score": -0.24811167655732344,
+      "horse_number": 6,
+      "odds": 78.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101855",
+      "horse_name": "ティラーノ",
+      "score": -0.3707265843561286,
+      "horse_number": 3,
+      "odds": 10.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105886",
+      "horse_name": "ウインデイブレイク",
+      "score": -0.5178236546070307,
+      "horse_number": 11,
+      "odds": 37.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105162",
+      "horse_name": "コパノエイダン",
+      "score": -0.5312965301762246,
+      "horse_number": 8,
+      "odds": 10.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104706",
+      "horse_name": "ニシノロッドマン",
+      "score": -0.5628851560431606,
+      "horse_number": 15,
+      "odds": 13.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023107063",
+      "horse_name": "ジーティームーチョ",
+      "score": -0.6546627932857848,
+      "horse_number": 9,
+      "odds": 33.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100962",
+      "horse_name": "ホッカイダイオー",
+      "score": -0.6783429378640029,
+      "horse_number": 5,
+      "odds": 116.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103589",
+      "horse_name": "レーヴドクロンヌ",
+      "score": -0.6804504404419526,
+      "horse_number": 4,
+      "odds": 77.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104871",
+      "horse_name": "メイプルインパクト",
+      "score": -0.7212483613895885,
+      "horse_number": 7,
+      "odds": 108.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105986",
+      "horse_name": "ノーブルホライズン",
+      "score": -0.7212483613895885,
+      "horse_number": 13,
+      "odds": 98.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023102911",
+      "horse_name": "スターゲイザー",
+      "score": -0.7560238565797833,
+      "horse_number": 10,
+      "odds": 75.6
+    }
+  ]
+}

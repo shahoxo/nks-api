@@ -1,0 +1,120 @@
+{
+  "race_id": "202608010302",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-10 10:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107150",
+      "horse_name": "ロックバンド",
+      "score": 0.009658657044222595,
+      "horse_number": 12,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103415",
+      "horse_name": "クリムゾンバースト",
+      "score": -0.041958029614810224,
+      "horse_number": 5,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103176",
+      "horse_name": "セイントホース",
+      "score": -0.05131275722747111,
+      "horse_number": 14,
+      "odds": 5.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107258",
+      "horse_name": "シャローファースト",
+      "score": -0.15559863708653535,
+      "horse_number": 10,
+      "odds": 13.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102726",
+      "horse_name": "2023102726",
+      "score": -0.24653965058983304,
+      "horse_number": 1,
+      "odds": 10.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101579",
+      "horse_name": "サイモンエクセラー",
+      "score": -0.30225569947484626,
+      "horse_number": 9,
+      "odds": 17.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101665",
+      "horse_name": "2023101665",
+      "score": -0.3370515478090511,
+      "horse_number": 6,
+      "odds": 19.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104282",
+      "horse_name": "ハクアイタワー",
+      "score": -0.38993400809052564,
+      "horse_number": 13,
+      "odds": 26.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105445",
+      "horse_name": "ドメイン",
+      "score": -0.46760323628072953,
+      "horse_number": 2,
+      "odds": 4.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105444",
+      "horse_name": "ポップアップ",
+      "score": -0.5139221801508868,
+      "horse_number": 11,
+      "odds": 49.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102138",
+      "horse_name": "スズノグレイス",
+      "score": -0.6085816212588883,
+      "horse_number": 3,
+      "odds": 52.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104476",
+      "horse_name": "カイラーサ",
+      "score": -0.6133885746330761,
+      "horse_number": 7,
+      "odds": 52.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103393",
+      "horse_name": "ヴァルボリ",
+      "score": -0.6713402351006847,
+      "horse_number": 4,
+      "odds": 11.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102959",
+      "horse_name": "ヒロノフウジン",
+      "score": -0.7212483613895885,
+      "horse_number": 8,
+      "odds": 120.3
+    }
+  ]
+}
