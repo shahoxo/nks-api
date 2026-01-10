@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010307",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-10 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103326",
+      "horse_name": "ディールメーカー",
+      "score": 0.40815447596295373,
+      "horse_number": 6,
+      "odds": 2.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103733",
+      "horse_name": "ラプランセス",
+      "score": 0.29946531840806445,
+      "horse_number": 9,
+      "odds": 8.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101459",
+      "horse_name": "シャルムグリーン",
+      "score": 0.14335235575741753,
+      "horse_number": 13,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104412",
+      "horse_name": "リラ",
+      "score": 0.062230056175939574,
+      "horse_number": 5,
+      "odds": 4.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102504",
+      "horse_name": "セーヌデローヴ",
+      "score": 0.0050760698416094435,
+      "horse_number": 15,
+      "odds": 33.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101126",
+      "horse_name": "ファインダーズ",
+      "score": -0.014435396991715092,
+      "horse_number": 14,
+      "odds": 32.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100053",
+      "horse_name": "タケウチビー",
+      "score": -0.2640114111536797,
+      "horse_number": 3,
+      "odds": 36.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103954",
+      "horse_name": "アースジャッジ",
+      "score": -0.3205505813269055,
+      "horse_number": 4,
+      "odds": 68.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100812",
+      "horse_name": "カドドゥディエ",
+      "score": -0.3600273958165847,
+      "horse_number": 12,
+      "odds": 109.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101627",
+      "horse_name": "ブルーハーツ",
+      "score": -0.41226020656835427,
+      "horse_number": 2,
+      "odds": 59.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100149",
+      "horse_name": "セイウンリメンバー",
+      "score": -0.4313371425974405,
+      "horse_number": 11,
+      "odds": 7.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106446",
+      "horse_name": "ワイルドカモミール",
+      "score": -0.435948117845222,
+      "horse_number": 1,
+      "odds": 114.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103843",
+      "horse_name": "セルリア",
+      "score": -0.4424321276399612,
+      "horse_number": 10,
+      "odds": 24.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103956",
+      "horse_name": "ベッラモレーン",
+      "score": -0.47184991019842526,
+      "horse_number": 7,
+      "odds": 45.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105600",
+      "horse_name": "エフティヴェント",
+      "score": -0.4760070558434817,
+      "horse_number": 8,
+      "odds": 55.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100465",
+      "horse_name": "ウマナミカイドウ",
+      "score": -0.5624665727050773,
+      "horse_number": 16,
+      "odds": 123.8
+    }
+  ]
+}
