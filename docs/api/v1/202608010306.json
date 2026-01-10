@@ -1,0 +1,152 @@
+{
+  "race_id": "202608010306",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-10 12:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107226",
+      "horse_name": "カモンメーン",
+      "score": 0.3513173798402338,
+      "horse_number": 13,
+      "odds": 10.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107227",
+      "horse_name": "レッドラージャ",
+      "score": 0.22421650152047987,
+      "horse_number": 14,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105897",
+      "horse_name": "ガウディ",
+      "score": 0.2070637476013385,
+      "horse_number": 6,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105371",
+      "horse_name": "ボンボンベイビー",
+      "score": 0.05447656565639444,
+      "horse_number": 18,
+      "odds": 17.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101904",
+      "horse_name": "ジェラルリスト",
+      "score": 0.03530399764869262,
+      "horse_number": 17,
+      "odds": 43.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105316",
+      "horse_name": "フォーシーファイン",
+      "score": -0.03090395686410545,
+      "horse_number": 3,
+      "odds": 26.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104506",
+      "horse_name": "ゴールドアクセス",
+      "score": -0.07206016478633409,
+      "horse_number": 7,
+      "odds": 7.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106440",
+      "horse_name": "パーヴォ",
+      "score": -0.08999035230490618,
+      "horse_number": 11,
+      "odds": 4.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105252",
+      "horse_name": "2023105252",
+      "score": -0.0994188962666647,
+      "horse_number": 10,
+      "odds": 11.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101706",
+      "horse_name": "ハクアイノアール",
+      "score": -0.24379354003415407,
+      "horse_number": 8,
+      "odds": 18.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105234",
+      "horse_name": "カパルア",
+      "score": -0.34120251632096366,
+      "horse_number": 5,
+      "odds": 64.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103196",
+      "horse_name": "フクチャンブラック",
+      "score": -0.42169155251697216,
+      "horse_number": 4,
+      "odds": 41.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101781",
+      "horse_name": "ラッキーダイヤ",
+      "score": -0.45232505793180633,
+      "horse_number": 2,
+      "odds": 22.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101036",
+      "horse_name": "ベラジオマーカス",
+      "score": -0.4561966277655025,
+      "horse_number": 1,
+      "odds": 81.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102124",
+      "horse_name": "ヒラボクソライア",
+      "score": -0.47252518919402653,
+      "horse_number": 16,
+      "odds": 29.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100774",
+      "horse_name": "レグラヴィエール",
+      "score": -0.49308647014558815,
+      "horse_number": 12,
+      "odds": 98.5
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023105865",
+      "horse_name": "ウインビスタ",
+      "score": -0.495646376558159,
+      "horse_number": 9,
+      "odds": 70.0
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023103767",
+      "horse_name": "ミカレオス",
+      "score": -0.7560238565797833,
+      "horse_number": 15,
+      "odds": 163.4
+    }
+  ]
+}
