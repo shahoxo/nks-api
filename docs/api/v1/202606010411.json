@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010411",
+  "race_name": "フェアリーS",
+  "race_time": "2026-01-11 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107187",
+      "horse_name": "ギリーズボール",
+      "score": 0.453635360795809,
+      "horse_number": 12,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107008",
+      "horse_name": "ブラックチャリス",
+      "score": 0.387783704988535,
+      "horse_number": 15,
+      "odds": 12.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107020",
+      "horse_name": "サンアントワーヌ",
+      "score": 0.3331832755488965,
+      "horse_number": 9,
+      "odds": 5.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107148",
+      "horse_name": "マカレイ",
+      "score": 0.24145365033697372,
+      "horse_number": 16,
+      "odds": 18.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103356",
+      "horse_name": "ヴァリスマリネリス",
+      "score": 0.2360183974593036,
+      "horse_number": 14,
+      "odds": 12.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106844",
+      "horse_name": "モルニケ",
+      "score": 0.23411818359084646,
+      "horse_number": 10,
+      "odds": 40.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103487",
+      "horse_name": "ピエドゥラパン",
+      "score": 0.19929819730437345,
+      "horse_number": 2,
+      "odds": 4.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105275",
+      "horse_name": "ノーザンタイタン",
+      "score": 0.0918494549911703,
+      "horse_number": 7,
+      "odds": 10.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104068",
+      "horse_name": "エゴンウレア",
+      "score": 0.09075891915222749,
+      "horse_number": 5,
+      "odds": 97.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107244",
+      "horse_name": "ヴィスコンテッサ",
+      "score": 0.06536339174055494,
+      "horse_number": 13,
+      "odds": 24.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104909",
+      "horse_name": "レオアジャイル",
+      "score": 0.05756892712594489,
+      "horse_number": 1,
+      "odds": 26.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102694",
+      "horse_name": "トワニ",
+      "score": -0.017239899189698774,
+      "horse_number": 3,
+      "odds": 14.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105259",
+      "horse_name": "リュクスパトロール",
+      "score": -0.03201918529458491,
+      "horse_number": 8,
+      "odds": 53.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102054",
+      "horse_name": "ビッグカレンルーフ",
+      "score": -0.04426721167670778,
+      "horse_number": 4,
+      "odds": 26.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104628",
+      "horse_name": "ハーディジェナー",
+      "score": -0.11269280896165979,
+      "horse_number": 11,
+      "odds": 24.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100935",
+      "horse_name": "トラスコンガーデン",
+      "score": -0.11535107751508489,
+      "horse_number": 6,
+      "odds": 94.9
+    }
+  ]
+}
