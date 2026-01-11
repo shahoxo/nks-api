@@ -1,0 +1,112 @@
+{
+  "race_id": "202606010409",
+  "race_name": "初咲賞",
+  "race_time": "2026-01-11 14:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100201",
+      "horse_name": "コンドゥイア",
+      "score": 0.20572797761618472,
+      "horse_number": 7,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105981",
+      "horse_name": "ブラックルビー",
+      "score": 0.08935349832377794,
+      "horse_number": 5,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103929",
+      "horse_name": "オルノア",
+      "score": 0.08905905732508651,
+      "horse_number": 10,
+      "odds": 7.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105144",
+      "horse_name": "トレミニョン",
+      "score": 0.05773234137116076,
+      "horse_number": 11,
+      "odds": 12.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103228",
+      "horse_name": "ビターグラッセ",
+      "score": 0.014003180030317613,
+      "horse_number": 2,
+      "odds": 6.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105789",
+      "horse_name": "ヴァイルマティ",
+      "score": -0.06929248063244237,
+      "horse_number": 4,
+      "odds": 26.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105318",
+      "horse_name": "コムユンプリュム",
+      "score": -0.14521764832932743,
+      "horse_number": 8,
+      "odds": 4.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019105477",
+      "horse_name": "ロムネヤ",
+      "score": -0.18629855288280678,
+      "horse_number": 6,
+      "odds": 21.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105031",
+      "horse_name": "ジャルディニエ",
+      "score": -0.21727668219312196,
+      "horse_number": 3,
+      "odds": 12.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021107220",
+      "horse_name": "グレイトクラウン",
+      "score": -0.2897087725433943,
+      "horse_number": 13,
+      "odds": 52.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103533",
+      "horse_name": "ホウオウシンデレラ",
+      "score": -0.34371607471266036,
+      "horse_number": 1,
+      "odds": 32.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101288",
+      "horse_name": "ナムララジベラ",
+      "score": -0.3563054565119943,
+      "horse_number": 12,
+      "odds": 68.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102532",
+      "horse_name": "ビッグデイメイク",
+      "score": -0.6318373387288261,
+      "horse_number": 9,
+      "odds": 80.7
+    }
+  ]
+}

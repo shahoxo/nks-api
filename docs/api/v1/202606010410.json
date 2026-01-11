@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010410",
+  "race_name": "ポルックスS",
+  "race_time": "2026-01-11 15:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100561",
+      "horse_name": "ハビレ",
+      "score": 0.42804276103055183,
+      "horse_number": 13,
+      "odds": 6.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020105639",
+      "horse_name": "ハギノサステナブル",
+      "score": 0.3396778335523383,
+      "horse_number": 10,
+      "odds": 6.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020110081",
+      "horse_name": "テーオーグランビル",
+      "score": 0.27592853804442596,
+      "horse_number": 14,
+      "odds": 4.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020110075",
+      "horse_name": "ミスティックロア",
+      "score": 0.19093978919467303,
+      "horse_number": 6,
+      "odds": 9.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105661",
+      "horse_name": "レガーロデルシエロ",
+      "score": 0.129774698022465,
+      "horse_number": 12,
+      "odds": 12.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101253",
+      "horse_name": "クラウンシエンタ",
+      "score": 0.1138624367505913,
+      "horse_number": 5,
+      "odds": 12.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106610",
+      "horse_name": "バスタードサフラン",
+      "score": 0.041151924207094195,
+      "horse_number": 9,
+      "odds": 17.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104873",
+      "horse_name": "ポッドロゴ",
+      "score": 0.002593610658524234,
+      "horse_number": 8,
+      "odds": 6.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106611",
+      "horse_name": "カゼノランナー",
+      "score": -0.05156995480203304,
+      "horse_number": 3,
+      "odds": 13.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019106748",
+      "horse_name": "リチュアル",
+      "score": -0.05307627394071487,
+      "horse_number": 15,
+      "odds": 17.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101478",
+      "horse_name": "ダノンザボルケーノ",
+      "score": -0.13251193373569875,
+      "horse_number": 16,
+      "odds": 63.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102345",
+      "horse_name": "ヒューゴ",
+      "score": -0.15993574168828953,
+      "horse_number": 4,
+      "odds": 131.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019102437",
+      "horse_name": "ヴァルツァーシャル",
+      "score": -0.18235775090863102,
+      "horse_number": 7,
+      "odds": 15.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102665",
+      "horse_name": "フタイテンロック",
+      "score": -0.1876125945732596,
+      "horse_number": 11,
+      "odds": 70.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019105993",
+      "horse_name": "ラインオブソウル",
+      "score": -0.5013872868451589,
+      "horse_number": 1,
+      "odds": 63.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106370",
+      "horse_name": "サンマルパトロール",
+      "score": -0.5073227949201434,
+      "horse_number": 2,
+      "odds": 153.2
+    }
+  ]
+}

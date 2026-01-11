@@ -1,0 +1,128 @@
+{
+  "race_id": "202608010410",
+  "race_name": "新春S",
+  "race_time": "2026-01-11 14:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103245",
+      "horse_name": "ミッキージュエリー",
+      "score": 0.46483600962412275,
+      "horse_number": 8,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104906",
+      "horse_name": "バレルターン",
+      "score": 0.3883043071946297,
+      "horse_number": 4,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105230",
+      "horse_name": "ミニトランザット",
+      "score": 0.19769321117568633,
+      "horse_number": 3,
+      "odds": 4.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102744",
+      "horse_name": "キングメーカー",
+      "score": 0.14034069356270534,
+      "horse_number": 14,
+      "odds": 12.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105255",
+      "horse_name": "ハワイアンティアレ",
+      "score": 0.06337405075276267,
+      "horse_number": 9,
+      "odds": 17.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105117",
+      "horse_name": "ベラジオボンド",
+      "score": 0.044791761036526545,
+      "horse_number": 11,
+      "odds": 6.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105011",
+      "horse_name": "ラーンザロープス",
+      "score": 0.012669268309385784,
+      "horse_number": 1,
+      "odds": 28.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102106",
+      "horse_name": "ブリュットミレジメ",
+      "score": -0.07361904069617962,
+      "horse_number": 6,
+      "odds": 15.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105746",
+      "horse_name": "アルトゥーム",
+      "score": -0.10175493626091997,
+      "horse_number": 12,
+      "odds": 25.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106660",
+      "horse_name": "スズカダブル",
+      "score": -0.11528600618265222,
+      "horse_number": 10,
+      "odds": 17.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105412",
+      "horse_name": "ウィープディライト",
+      "score": -0.1567224820695342,
+      "horse_number": 2,
+      "odds": 12.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018106663",
+      "horse_name": "エアミアーニ",
+      "score": -0.2710010229075423,
+      "horse_number": 13,
+      "odds": 99.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100906",
+      "horse_name": "フライングブレード",
+      "score": -0.34151335171091735,
+      "horse_number": 15,
+      "odds": 132.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019101079",
+      "horse_name": "アスクビギンアゲン",
+      "score": -0.4009221297909161,
+      "horse_number": 7,
+      "odds": 102.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018103406",
+      "horse_name": "トーホウディアス",
+      "score": -0.5313687769206885,
+      "horse_number": 5,
+      "odds": 124.1
+    }
+  ]
+}
