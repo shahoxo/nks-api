@@ -1,0 +1,136 @@
+{
+  "race_id": "202608010408",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-01-11 13:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105736",
+      "horse_name": "カルパ",
+      "score": 0.45482997453926327,
+      "horse_number": 5,
+      "odds": 11.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103680",
+      "horse_name": "ラファル",
+      "score": 0.3659167143138055,
+      "horse_number": 15,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103189",
+      "horse_name": "レッドダンルース",
+      "score": 0.09374044134008837,
+      "horse_number": 7,
+      "odds": 16.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106699",
+      "horse_name": "ダイシンリンク",
+      "score": 0.08394917856409352,
+      "horse_number": 11,
+      "odds": 10.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101016",
+      "horse_name": "ユウトザレン",
+      "score": 0.08188364779735327,
+      "horse_number": 8,
+      "odds": 7.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102154",
+      "horse_name": "アスクアイルビゼア",
+      "score": 0.05918441282710936,
+      "horse_number": 4,
+      "odds": 4.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106920",
+      "horse_name": "ニューオーリンズ",
+      "score": 0.016277752327798545,
+      "horse_number": 14,
+      "odds": 4.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100873",
+      "horse_name": "アオイミモザ",
+      "score": 0.013824544885743906,
+      "horse_number": 1,
+      "odds": 25.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102797",
+      "horse_name": "フィリップ",
+      "score": -0.08508712466916295,
+      "horse_number": 6,
+      "odds": 51.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102966",
+      "horse_name": "サンダーロード",
+      "score": -0.1685548280913733,
+      "horse_number": 16,
+      "odds": 29.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104561",
+      "horse_name": "タイガースパーク",
+      "score": -0.26590785684001284,
+      "horse_number": 2,
+      "odds": 44.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105359",
+      "horse_name": "シンエン",
+      "score": -0.32887619197560697,
+      "horse_number": 3,
+      "odds": 141.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019109106",
+      "horse_name": "バイファーザベスト",
+      "score": -0.37279867491480023,
+      "horse_number": 13,
+      "odds": 85.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103582",
+      "horse_name": "サンダーバース",
+      "score": -0.4534335855128969,
+      "horse_number": 10,
+      "odds": 97.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103161",
+      "horse_name": "トーレ",
+      "score": -0.5064529472505628,
+      "horse_number": 9,
+      "odds": 25.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103045",
+      "horse_name": "マサハヤウォルズ",
+      "score": -0.6053756507921382,
+      "horse_number": 12,
+      "odds": 122.9
+    }
+  ]
+}

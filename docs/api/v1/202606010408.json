@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010408",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-11 13:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104818",
+      "horse_name": "クライスレリアーナ",
+      "score": 0.5233146345745111,
+      "horse_number": 7,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105293",
+      "horse_name": "キャトルエピス",
+      "score": 0.25425196301748976,
+      "horse_number": 10,
+      "odds": 8.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104173",
+      "horse_name": "デイジー",
+      "score": 0.20544959482562192,
+      "horse_number": 2,
+      "odds": 8.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106229",
+      "horse_name": "ウインイザナミ",
+      "score": 0.14496242791654976,
+      "horse_number": 16,
+      "odds": 18.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106393",
+      "horse_name": "ブラックジェダイト",
+      "score": 0.08301978270335642,
+      "horse_number": 1,
+      "odds": 15.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106796",
+      "horse_name": "レモンバーム",
+      "score": 0.08137204532237835,
+      "horse_number": 4,
+      "odds": 29.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101701",
+      "horse_name": "クリフハンガー",
+      "score": 0.014921792034862408,
+      "horse_number": 9,
+      "odds": 30.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104844",
+      "horse_name": "ブルスカメンテ",
+      "score": -0.03637557426073293,
+      "horse_number": 8,
+      "odds": 18.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101259",
+      "horse_name": "ショウナンマリーナ",
+      "score": -0.09039207176635987,
+      "horse_number": 11,
+      "odds": 99.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105742",
+      "horse_name": "シアブリス",
+      "score": -0.24306078899631364,
+      "horse_number": 13,
+      "odds": 39.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104592",
+      "horse_name": "スモーキーゴッド",
+      "score": -0.25998597050716216,
+      "horse_number": 15,
+      "odds": 11.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101618",
+      "horse_name": "スペシャルバニー",
+      "score": -0.33666418817893673,
+      "horse_number": 12,
+      "odds": 142.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100700",
+      "horse_name": "ポッドロルフ",
+      "score": -0.35453524912336554,
+      "horse_number": 6,
+      "odds": 74.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102045",
+      "horse_name": "2022102045",
+      "score": -0.5071126925064392,
+      "horse_number": 3,
+      "odds": 166.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104533",
+      "horse_name": "チョングク",
+      "score": -0.5321616921100607,
+      "horse_number": 14,
+      "odds": 48.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102530",
+      "horse_name": "ディクシーヴォーグ",
+      "score": -0.5719778936462864,
+      "horse_number": 5,
+      "odds": 25.7
+    }
+  ]
+}
