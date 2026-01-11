@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010412",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-01-11 16:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105441",
+      "horse_name": "ハードセルツァー",
+      "score": 0.45003326880944283,
+      "horse_number": 11,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101675",
+      "horse_name": "スノーサイレンス",
+      "score": 0.2538745961610338,
+      "horse_number": 14,
+      "odds": 5.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101863",
+      "horse_name": "ドントゥザムーン",
+      "score": 0.2399874198494924,
+      "horse_number": 1,
+      "odds": 11.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105158",
+      "horse_name": "チャロ",
+      "score": 0.17007737106241755,
+      "horse_number": 5,
+      "odds": 9.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102574",
+      "horse_name": "メイショウドライブ",
+      "score": 0.031676091827026194,
+      "horse_number": 16,
+      "odds": 22.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101557",
+      "horse_name": "アスタールフナ",
+      "score": 0.013368882913644218,
+      "horse_number": 2,
+      "odds": 4.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100245",
+      "horse_name": "ヤマメキング",
+      "score": -0.000923404107879138,
+      "horse_number": 10,
+      "odds": 19.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100623",
+      "horse_name": "スプランドゥール",
+      "score": -0.021577149822915073,
+      "horse_number": 12,
+      "odds": 38.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106298",
+      "horse_name": "モリノレッドスター",
+      "score": -0.06077360029893435,
+      "horse_number": 13,
+      "odds": 7.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105821",
+      "horse_name": "サンディブロンド",
+      "score": -0.08336191563431308,
+      "horse_number": 3,
+      "odds": 51.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020107095",
+      "horse_name": "メモリーグラス",
+      "score": -0.1656650700128968,
+      "horse_number": 7,
+      "odds": 14.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106673",
+      "horse_name": "エチャケナ",
+      "score": -0.26125013490186655,
+      "horse_number": 6,
+      "odds": 29.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021109069",
+      "horse_name": "サンダーアリュール",
+      "score": -0.3336549432919771,
+      "horse_number": 8,
+      "odds": 29.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100418",
+      "horse_name": "ラストシャリナ",
+      "score": -0.3464786321836081,
+      "horse_number": 9,
+      "odds": 46.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2017105634",
+      "horse_name": "メラーキ",
+      "score": -0.4679177450064248,
+      "horse_number": 4,
+      "odds": 92.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021100144",
+      "horse_name": "ロードトレゾール",
+      "score": -0.4742579140183716,
+      "horse_number": 15,
+      "odds": 52.0
+    }
+  ]
+}
