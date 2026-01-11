@@ -1,0 +1,136 @@
+{
+  "race_id": "202608010411",
+  "race_name": "淀短距離S",
+  "race_time": "2026-01-11 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019110102",
+      "horse_name": "デュガ",
+      "score": 0.3312712403734205,
+      "horse_number": 5,
+      "odds": 5.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103116",
+      "horse_name": "ヤブサメ",
+      "score": 0.24345755091713878,
+      "horse_number": 12,
+      "odds": 3.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019105459",
+      "horse_name": "ソウテン",
+      "score": 0.2384784659041071,
+      "horse_number": 11,
+      "odds": 11.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102888",
+      "horse_name": "ナムラアトム",
+      "score": 0.1956208387868013,
+      "horse_number": 7,
+      "odds": 14.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101598",
+      "horse_name": "アンクルクロス",
+      "score": 0.19265105182699338,
+      "horse_number": 6,
+      "odds": 6.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100490",
+      "horse_name": "モズナナスター",
+      "score": 0.10771817111441591,
+      "horse_number": 16,
+      "odds": 30.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101924",
+      "horse_name": "フィオライア",
+      "score": 0.03484133173204887,
+      "horse_number": 9,
+      "odds": 16.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103061",
+      "horse_name": "シュタールヴィント",
+      "score": -0.013371722698940717,
+      "horse_number": 1,
+      "odds": 11.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104955",
+      "horse_name": "イフェイオン",
+      "score": -0.020324632802821235,
+      "horse_number": 3,
+      "odds": 17.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103639",
+      "horse_name": "セッション",
+      "score": -0.02056656649013764,
+      "horse_number": 13,
+      "odds": 18.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102408",
+      "horse_name": "ムイ",
+      "score": -0.03397607621479795,
+      "horse_number": 15,
+      "odds": 22.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104911",
+      "horse_name": "プルパレイ",
+      "score": -0.03769298814518657,
+      "horse_number": 14,
+      "odds": 49.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019100751",
+      "horse_name": "マイネルレノン",
+      "score": -0.18611615245646765,
+      "horse_number": 2,
+      "odds": 48.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101543",
+      "horse_name": "グランテスト",
+      "score": -0.2379060942403789,
+      "horse_number": 4,
+      "odds": 25.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019104108",
+      "horse_name": "エナジーグラン",
+      "score": -0.4354557820671251,
+      "horse_number": 8,
+      "odds": 89.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106534",
+      "horse_name": "メイショウカゼマチ",
+      "score": -0.49670125853507285,
+      "horse_number": 10,
+      "odds": 106.5
+    }
+  ]
+}
