@@ -1,0 +1,120 @@
+{
+  "race_id": "202608010407",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-11 13:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106626",
+      "horse_name": "ロールザダイス",
+      "score": 0.254433721624395,
+      "horse_number": 12,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101557",
+      "horse_name": "タマモランプ",
+      "score": 0.13531884453485546,
+      "horse_number": 10,
+      "odds": 9.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101605",
+      "horse_name": "サミダレナイツ",
+      "score": 0.1337881894859152,
+      "horse_number": 4,
+      "odds": 4.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106653",
+      "horse_name": "ハギノピアチェーレ",
+      "score": 0.10947895892712761,
+      "horse_number": 2,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105382",
+      "horse_name": "シンドリームシン",
+      "score": 0.047045896327090005,
+      "horse_number": 9,
+      "odds": 11.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104214",
+      "horse_name": "ニホンピロデヴィン",
+      "score": 0.036650121834756605,
+      "horse_number": 13,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100457",
+      "horse_name": "テレプシコーラ",
+      "score": -0.003271031538277569,
+      "horse_number": 8,
+      "odds": 21.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102139",
+      "horse_name": "シェーラ",
+      "score": -0.07246487265201208,
+      "horse_number": 1,
+      "odds": 23.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106751",
+      "horse_name": "プレデスティナーレ",
+      "score": -0.07662316523784252,
+      "horse_number": 7,
+      "odds": 31.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105113",
+      "horse_name": "ダノンアトラス",
+      "score": -0.08570883209287128,
+      "horse_number": 11,
+      "odds": 32.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102604",
+      "horse_name": "サンライズバブル",
+      "score": -0.3367377536084506,
+      "horse_number": 14,
+      "odds": 6.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102957",
+      "horse_name": "ヴィーナスバブル",
+      "score": -0.3499010310058469,
+      "horse_number": 3,
+      "odds": 34.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102550",
+      "horse_name": "メイショウピリカ",
+      "score": -0.41681291932501363,
+      "horse_number": 5,
+      "odds": 30.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100525",
+      "horse_name": "オゴオゴ",
+      "score": -0.4850745931560396,
+      "horse_number": 6,
+      "odds": 35.3
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202608010406",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-11 12:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102218",
+      "horse_name": "サンライズバレット",
+      "score": 0.27105565302055923,
+      "horse_number": 13,
+      "odds": 14.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102202",
+      "horse_name": "ヨリノレジェンド",
+      "score": 0.13436677544541953,
+      "horse_number": 3,
+      "odds": 9.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102710",
+      "horse_name": "エイユーファイヤー",
+      "score": 0.10672212573460715,
+      "horse_number": 6,
+      "odds": 5.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105037",
+      "horse_name": "サトノブリジャール",
+      "score": 0.08525556044398484,
+      "horse_number": 5,
+      "odds": 10.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105637",
+      "horse_name": "テンエースワン",
+      "score": 0.07055640372609544,
+      "horse_number": 4,
+      "odds": 18.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103625",
+      "horse_name": "ゴルデールスカー",
+      "score": -0.022312744499251524,
+      "horse_number": 14,
+      "odds": 25.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106259",
+      "horse_name": "ララエキリーブル",
+      "score": -0.04835815656319857,
+      "horse_number": 10,
+      "odds": 11.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102223",
+      "horse_name": "サイモンシュバリエ",
+      "score": -0.11543105201700611,
+      "horse_number": 11,
+      "odds": 3.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102728",
+      "horse_name": "ポルトドール",
+      "score": -0.18535625935552566,
+      "horse_number": 2,
+      "odds": 12.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106312",
+      "horse_name": "キュードス",
+      "score": -0.3114566070371175,
+      "horse_number": 7,
+      "odds": 41.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103586",
+      "horse_name": "ガウラスパーク",
+      "score": -0.3804275293132432,
+      "horse_number": 8,
+      "odds": 15.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107325",
+      "horse_name": "レーンアジリティ",
+      "score": -0.5491892537203478,
+      "horse_number": 1,
+      "odds": 9.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101155",
+      "horse_name": "ピエナオルフェ",
+      "score": -0.5874277606289595,
+      "horse_number": 9,
+      "odds": 95.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104474",
+      "horse_name": "ハイグッドワールド",
+      "score": -0.6293301629666437,
+      "horse_number": 12,
+      "odds": 34.2
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "race_id": "202606010406",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-11 12:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107163",
+      "horse_name": "レイヒストリコ",
+      "score": 0.4615970012188302,
+      "horse_number": 13,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103522",
+      "horse_name": "フォーチュンローズ",
+      "score": 0.22768620740632478,
+      "horse_number": 12,
+      "odds": 14.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103885",
+      "horse_name": "ナックホワイト",
+      "score": 0.049322341277384746,
+      "horse_number": 4,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104156",
+      "horse_name": "グランアルト",
+      "score": 0.017328575499682038,
+      "horse_number": 15,
+      "odds": 15.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106657",
+      "horse_name": "イーサンミラー",
+      "score": -0.024818535593546614,
+      "horse_number": 14,
+      "odds": 19.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105578",
+      "horse_name": "ワールドブレイヴ",
+      "score": -0.08624124203688323,
+      "horse_number": 10,
+      "odds": 83.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103461",
+      "horse_name": "ジングアップ",
+      "score": -0.09484643316798254,
+      "horse_number": 3,
+      "odds": 24.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103579",
+      "horse_name": "アグアフレスカ",
+      "score": -0.10895671868810954,
+      "horse_number": 17,
+      "odds": 42.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106254",
+      "horse_name": "ニシノヒノトリ",
+      "score": -0.17304901054684474,
+      "horse_number": 1,
+      "odds": 21.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103583",
+      "horse_name": "シーサンタナ",
+      "score": -0.27800969950891086,
+      "horse_number": 18,
+      "odds": 85.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100711",
+      "horse_name": "セイウンアズール",
+      "score": -0.34663908699077645,
+      "horse_number": 8,
+      "odds": 27.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102426",
+      "horse_name": "スチールナイト",
+      "score": -0.35720862604538717,
+      "horse_number": 2,
+      "odds": 70.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102442",
+      "horse_name": "ウールヴヘジン",
+      "score": -0.36344981918447583,
+      "horse_number": 16,
+      "odds": 45.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102333",
+      "horse_name": "ゴールドエンバー",
+      "score": -0.49099292486782053,
+      "horse_number": 9,
+      "odds": 72.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106422",
+      "horse_name": "マイネルオラクル",
+      "score": -0.5300080494461484,
+      "horse_number": 11,
+      "odds": 38.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104666",
+      "horse_name": "ミュークトーマス",
+      "score": -0.5593252728184894,
+      "horse_number": 7,
+      "odds": 82.0
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023102833",
+      "horse_name": "グランドスウェル",
+      "score": -0.6299256088243421,
+      "horse_number": 6,
+      "odds": 82.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023104951",
+      "horse_name": "オーケーグレイス",
+      "score": -0.723527651007794,
+      "horse_number": 5,
+      "odds": 100.9
+    }
+  ]
+}
