@@ -1,0 +1,80 @@
+{
+  "race_id": "202608010610",
+  "race_name": "紅梅S",
+  "race_time": "2026-01-17 14:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105312",
+      "horse_name": "リリージョワ",
+      "score": 0.5057013237968302,
+      "horse_number": 9,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107520",
+      "horse_name": "プリンセスモコ",
+      "score": 0.39686999596189093,
+      "horse_number": 1,
+      "odds": 8.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105300",
+      "horse_name": "スウィッチインラヴ",
+      "score": 0.35223107058434944,
+      "horse_number": 7,
+      "odds": 8.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104034",
+      "horse_name": "テイエムスティール",
+      "score": 0.3285479848376523,
+      "horse_number": 4,
+      "odds": 4.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101159",
+      "horse_name": "アイニードユー",
+      "score": 0.2542663476921098,
+      "horse_number": 6,
+      "odds": 16.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105203",
+      "horse_name": "マーブルパレス",
+      "score": 0.2321513640902515,
+      "horse_number": 5,
+      "odds": 41.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103503",
+      "horse_name": "プレセピオ",
+      "score": 0.21143214105306002,
+      "horse_number": 8,
+      "odds": 19.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107006",
+      "horse_name": "パープルガーネット",
+      "score": 0.18745919347121798,
+      "horse_number": 3,
+      "odds": 19.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103247",
+      "horse_name": "フルールジェンヌ",
+      "score": 0.13087450864120748,
+      "horse_number": 2,
+      "odds": 29.1
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010610",
+  "race_name": "アレキサンド",
+  "race_time": "2026-01-17 15:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102062",
+      "horse_name": "ミライヘノカギ",
+      "score": 0.271516220998805,
+      "horse_number": 15,
+      "odds": 5.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102868",
+      "horse_name": "ピクシレーション",
+      "score": 0.15138746944828685,
+      "horse_number": 12,
+      "odds": 17.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106541",
+      "horse_name": "グレイテストソング",
+      "score": 0.10642531993258456,
+      "horse_number": 13,
+      "odds": 13.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102280",
+      "horse_name": "チュウワクリスエス",
+      "score": 0.01500061028759353,
+      "horse_number": 3,
+      "odds": 7.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019106030",
+      "horse_name": "ホウオウバリスタ",
+      "score": -0.02295122116227061,
+      "horse_number": 11,
+      "odds": 15.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021107192",
+      "horse_name": "アラレタバシル",
+      "score": -0.03772195770567737,
+      "horse_number": 4,
+      "odds": 4.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105603",
+      "horse_name": "ヤマニンエンディマ",
+      "score": -0.05616737089646375,
+      "horse_number": 1,
+      "odds": 18.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101143",
+      "horse_name": "イージーオンミー",
+      "score": -0.12334393263138091,
+      "horse_number": 7,
+      "odds": 11.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100980",
+      "horse_name": "オーケーバーディー",
+      "score": -0.1325090972349059,
+      "horse_number": 2,
+      "odds": 4.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018101243",
+      "horse_name": "オレデイイノカ",
+      "score": -0.18497251223313682,
+      "horse_number": 9,
+      "odds": 78.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104632",
+      "horse_name": "ハッスルダンク",
+      "score": -0.22019276694316803,
+      "horse_number": 6,
+      "odds": 42.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102703",
+      "horse_name": "リバートゥルー",
+      "score": -0.2516306079163575,
+      "horse_number": 16,
+      "odds": 14.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019100876",
+      "horse_name": "セブンスレター",
+      "score": -0.48512116369810954,
+      "horse_number": 10,
+      "odds": 95.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104910",
+      "horse_name": "フラムリンガム",
+      "score": -0.558383259693521,
+      "horse_number": 8,
+      "odds": 51.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103679",
+      "horse_name": "ダニーデン",
+      "score": -0.5638648247763358,
+      "horse_number": 5,
+      "odds": 108.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019104861",
+      "horse_name": "スズノテレサ",
+      "score": -0.6293301629666437,
+      "horse_number": 14,
+      "odds": 106.9
+    }
+  ]
+}
