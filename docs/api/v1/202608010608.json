@@ -1,0 +1,72 @@
+{
+  "race_id": "202608010608",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-17 13:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105439",
+      "horse_name": "ドラゴン",
+      "score": 0.21336543285615317,
+      "horse_number": 2,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106644",
+      "horse_name": "ロカヒ",
+      "score": 0.20208803361482297,
+      "horse_number": 8,
+      "odds": 2.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100439",
+      "horse_name": "ハギノコラソン",
+      "score": 0.013769494305797138,
+      "horse_number": 5,
+      "odds": 7.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100655",
+      "horse_name": "レーヌマロン",
+      "score": 0.00024024351804244164,
+      "horse_number": 4,
+      "odds": 13.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104403",
+      "horse_name": "ニシノミチアキ",
+      "score": -0.16857982997012846,
+      "horse_number": 7,
+      "odds": 6.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100997",
+      "horse_name": "ジョードリウム",
+      "score": -0.2613814679187406,
+      "horse_number": 6,
+      "odds": 16.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103290",
+      "horse_name": "リアルスター",
+      "score": -0.41042623573220227,
+      "horse_number": 3,
+      "odds": 16.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102081",
+      "horse_name": "テンクウハット",
+      "score": -0.5431503669730555,
+      "horse_number": 1,
+      "odds": 29.9
+    }
+  ]
+}

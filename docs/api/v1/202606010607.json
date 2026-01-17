@@ -1,0 +1,104 @@
+{
+  "race_id": "202606010607",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-17 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105139",
+      "horse_name": "サラスヴァティー",
+      "score": 0.31370556370577213,
+      "horse_number": 1,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104774",
+      "horse_name": "エデルクローネ",
+      "score": 0.28204074474734575,
+      "horse_number": 8,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102338",
+      "horse_name": "コア",
+      "score": 0.05560434984007239,
+      "horse_number": 9,
+      "odds": 9.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104362",
+      "horse_name": "キョウエイグッド",
+      "score": 0.044084429907478885,
+      "horse_number": 2,
+      "odds": 10.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103308",
+      "horse_name": "ミッドセンチュリー",
+      "score": 0.04256505690354428,
+      "horse_number": 6,
+      "odds": 7.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103353",
+      "horse_name": "ストレートブラック",
+      "score": -0.05424329377651074,
+      "horse_number": 10,
+      "odds": 9.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105076",
+      "horse_name": "フォーグッド",
+      "score": -0.15512711088468195,
+      "horse_number": 3,
+      "odds": 42.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106544",
+      "horse_name": "ナスノソナタ",
+      "score": -0.18809909266857713,
+      "horse_number": 5,
+      "odds": 59.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106800",
+      "horse_name": "コスモグラニット",
+      "score": -0.20403200637793711,
+      "horse_number": 4,
+      "odds": 14.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101701",
+      "horse_name": "クリフハンガー",
+      "score": -0.2845651607062891,
+      "horse_number": 7,
+      "odds": 10.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101203",
+      "horse_name": "ゲレル",
+      "score": -0.44216529624618406,
+      "horse_number": 12,
+      "odds": 36.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104135",
+      "horse_name": "ウィングコマンダー",
+      "score": -0.6699374366548387,
+      "horse_number": 11,
+      "odds": 180.5
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202608010607",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-17 13:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110152",
+      "horse_name": "レーティッシュ",
+      "score": 0.33417262951858506,
+      "horse_number": 9,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102360",
+      "horse_name": "シュテルンビルト",
+      "score": 0.14781579450940305,
+      "horse_number": 3,
+      "odds": 15.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102127",
+      "horse_name": "モズケイスター",
+      "score": 0.1456083183920095,
+      "horse_number": 16,
+      "odds": 2.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110058",
+      "horse_name": "エリカヴェローナ",
+      "score": 0.07664245761246603,
+      "horse_number": 4,
+      "odds": 8.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021107255",
+      "horse_name": "ゼットスパンキー",
+      "score": 0.061154249634179696,
+      "horse_number": 1,
+      "odds": 22.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106998",
+      "horse_name": "ニシノジェダイ",
+      "score": -0.06380587000755793,
+      "horse_number": 13,
+      "odds": 8.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103053",
+      "horse_name": "ケイアイワイラーパ",
+      "score": -0.1563997361845179,
+      "horse_number": 5,
+      "odds": 100.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020110051",
+      "horse_name": "ザングウィル",
+      "score": -0.17580856210964818,
+      "horse_number": 11,
+      "odds": 18.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102728",
+      "horse_name": "ポルトドール",
+      "score": -0.2192634061909058,
+      "horse_number": 8,
+      "odds": 76.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101062",
+      "horse_name": "インディゴ",
+      "score": -0.2900913955895655,
+      "horse_number": 12,
+      "odds": 43.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021110123",
+      "horse_name": "アメリカンチーフ",
+      "score": -0.2956194980001927,
+      "horse_number": 10,
+      "odds": 13.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022110063",
+      "horse_name": "サディーク",
+      "score": -0.4066579452603491,
+      "horse_number": 7,
+      "odds": 7.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021110134",
+      "horse_name": "エンブレムボム",
+      "score": -0.43284358520005173,
+      "horse_number": 6,
+      "odds": 50.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105209",
+      "horse_name": "ラッキーベイ",
+      "score": -0.5273411516624705,
+      "horse_number": 2,
+      "odds": 39.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105936",
+      "horse_name": "ウィテカービート",
+      "score": -0.6006809329273097,
+      "horse_number": 15,
+      "odds": 40.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106597",
+      "horse_name": "マッハレイジング",
+      "score": -0.6318373387288261,
+      "horse_number": 14,
+      "odds": 215.4
+    }
+  ]
+}
