@@ -1,0 +1,152 @@
+{
+  "race_id": "202606010605",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-17 12:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104371",
+      "horse_name": "ファーザーアウェイ",
+      "score": 0.2994910405342336,
+      "horse_number": 13,
+      "odds": 22.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107051",
+      "horse_name": "カルダモン",
+      "score": 0.2966481535417367,
+      "horse_number": 8,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102518",
+      "horse_name": "シェリアドレ",
+      "score": 0.29461061831405466,
+      "horse_number": 6,
+      "odds": 13.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106835",
+      "horse_name": "レダアトミカ",
+      "score": 0.28967883682537354,
+      "horse_number": 14,
+      "odds": 3.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104065",
+      "horse_name": "ジャストビコーズ",
+      "score": 0.23553986505135407,
+      "horse_number": 5,
+      "odds": 11.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102090",
+      "horse_name": "クイーンアン",
+      "score": 0.2055934954650101,
+      "horse_number": 9,
+      "odds": 10.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100925",
+      "horse_name": "サトノワーグナー",
+      "score": 0.19832306739045796,
+      "horse_number": 16,
+      "odds": 8.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106219",
+      "horse_name": "サムシングスイート",
+      "score": 0.19166832745448792,
+      "horse_number": 4,
+      "odds": 12.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105230",
+      "horse_name": "アニゴザントス",
+      "score": 0.12791023202930274,
+      "horse_number": 7,
+      "odds": 52.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103429",
+      "horse_name": "ナイトバード",
+      "score": 0.1241440848587382,
+      "horse_number": 11,
+      "odds": 14.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101478",
+      "horse_name": "フューチャプライム",
+      "score": 0.015141471035968388,
+      "horse_number": 17,
+      "odds": 18.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103066",
+      "horse_name": "ブリサマリーナ",
+      "score": -0.02304238038526527,
+      "horse_number": 18,
+      "odds": 35.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103560",
+      "horse_name": "タイドグラフ",
+      "score": -0.22058907986224638,
+      "horse_number": 2,
+      "odds": 12.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105651",
+      "horse_name": "ベリンガム",
+      "score": -0.3107344980448177,
+      "horse_number": 12,
+      "odds": 100.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103805",
+      "horse_name": "キャリアビジョン",
+      "score": -0.41403266351517687,
+      "horse_number": 3,
+      "odds": 104.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100312",
+      "horse_name": "キリスパークル",
+      "score": -0.6624845303485996,
+      "horse_number": 15,
+      "odds": 142.5
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023102118",
+      "horse_name": "レガーメ",
+      "score": -0.6970415147616792,
+      "horse_number": 1,
+      "odds": 90.3
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023104164",
+      "horse_name": "メープルタフィー",
+      "score": -0.7344997899121097,
+      "horse_number": 10,
+      "odds": 195.0
+    }
+  ]
+}
