@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010612",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-01-17 16:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101399",
+      "horse_name": "ヴァンヴィーヴ",
+      "score": 0.31841594847015964,
+      "horse_number": 9,
+      "odds": 6.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103146",
+      "horse_name": "カンシン",
+      "score": 0.25590296656936423,
+      "horse_number": 8,
+      "odds": 7.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101290",
+      "horse_name": "マリノトニトゥルス",
+      "score": 0.12393685146699508,
+      "horse_number": 11,
+      "odds": 10.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019103996",
+      "horse_name": "タイキエクセロン",
+      "score": 0.11153244767029055,
+      "horse_number": 12,
+      "odds": 36.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105623",
+      "horse_name": "タマカヅラ",
+      "score": 0.05818884514053866,
+      "horse_number": 6,
+      "odds": 5.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101464",
+      "horse_name": "レイユール",
+      "score": 0.05586923047289401,
+      "horse_number": 16,
+      "odds": 21.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104665",
+      "horse_name": "レザンノワール",
+      "score": 0.044219508786204384,
+      "horse_number": 13,
+      "odds": 8.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022110015",
+      "horse_name": "プリティディーヴァ",
+      "score": 0.00660558712346545,
+      "horse_number": 1,
+      "odds": 17.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104771",
+      "horse_name": "スターウェーブ",
+      "score": 0.0037075580942023956,
+      "horse_number": 4,
+      "odds": 11.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104629",
+      "horse_name": "バシレイア",
+      "score": -0.003652572626657714,
+      "horse_number": 7,
+      "odds": 16.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104637",
+      "horse_name": "ホウオウブースター",
+      "score": -0.026935829555371424,
+      "horse_number": 14,
+      "odds": 76.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021110023",
+      "horse_name": "エクストラバック",
+      "score": -0.05283412178963534,
+      "horse_number": 5,
+      "odds": 6.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104490",
+      "horse_name": "エクセルゴールド",
+      "score": -0.19691528207144826,
+      "horse_number": 10,
+      "odds": 63.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105260",
+      "horse_name": "ラセーヌシュメール",
+      "score": -0.3205401996357611,
+      "horse_number": 15,
+      "odds": 95.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106987",
+      "horse_name": "スムースベルベット",
+      "score": -0.33928398051615916,
+      "horse_number": 2,
+      "odds": 26.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018103485",
+      "horse_name": "ジャガード",
+      "score": -0.36881064937377295,
+      "horse_number": 3,
+      "odds": 100.0
+    }
+  ]
+}
