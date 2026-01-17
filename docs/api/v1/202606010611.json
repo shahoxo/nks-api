@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010611",
+  "race_name": "カーバンクル",
+  "race_time": "2026-01-17 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102434",
+      "horse_name": "ルージュラナキラ",
+      "score": 0.21217700688263408,
+      "horse_number": 4,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103434",
+      "horse_name": "カルロヴェローチェ",
+      "score": 0.17087810731670486,
+      "horse_number": 14,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020110090",
+      "horse_name": "ティニア",
+      "score": 0.12043584880057077,
+      "horse_number": 11,
+      "odds": 16.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101174",
+      "horse_name": "ユキマル",
+      "score": 0.08722215584880554,
+      "horse_number": 10,
+      "odds": 12.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101262",
+      "horse_name": "エコロレジーナ",
+      "score": 0.04876112728191839,
+      "horse_number": 13,
+      "odds": 12.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019100214",
+      "horse_name": "ウインモナーク",
+      "score": -0.006428979988641916,
+      "horse_number": 1,
+      "odds": 14.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019102273",
+      "horse_name": "モリノドリーム",
+      "score": -0.01714875883818032,
+      "horse_number": 6,
+      "odds": 24.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103517",
+      "horse_name": "レッドシュヴェルト",
+      "score": -0.033706381106595996,
+      "horse_number": 15,
+      "odds": 17.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105599",
+      "horse_name": "シンバーシア",
+      "score": -0.053648763292711774,
+      "horse_number": 2,
+      "odds": 6.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105608",
+      "horse_name": "カズゴルティス",
+      "score": -0.07959245288264767,
+      "horse_number": 3,
+      "odds": 42.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2017100583",
+      "horse_name": "ディヴィナシオン",
+      "score": -0.11193726090984271,
+      "horse_number": 16,
+      "odds": 98.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102672",
+      "horse_name": "メイクアスナッチ",
+      "score": -0.13397669708073087,
+      "horse_number": 5,
+      "odds": 52.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2017101423",
+      "horse_name": "ウイングレイテスト",
+      "score": -0.16648559791940937,
+      "horse_number": 8,
+      "odds": 9.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018103205",
+      "horse_name": "クムシラコ",
+      "score": -0.2514048685635472,
+      "horse_number": 12,
+      "odds": 106.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103915",
+      "horse_name": "ツインクルトーズ",
+      "score": -0.5237470739910027,
+      "horse_number": 9,
+      "odds": 69.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103725",
+      "horse_name": "テイエムリステット",
+      "score": -0.5920796568372514,
+      "horse_number": 7,
+      "odds": 9.7
+    }
+  ]
+}

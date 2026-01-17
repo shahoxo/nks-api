@@ -1,0 +1,152 @@
+{
+  "race_id": "202608010612",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-01-17 16:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103227",
+      "horse_name": "ジャズ",
+      "score": 0.22136439123700008,
+      "horse_number": 11,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105295",
+      "horse_name": "レーヴジーニアル",
+      "score": 0.14406998650428487,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100018",
+      "horse_name": "ポッドドンナー",
+      "score": 0.13343866424326953,
+      "horse_number": 1,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103651",
+      "horse_name": "ツーエムクロノス",
+      "score": 0.13127343884528592,
+      "horse_number": 14,
+      "odds": 10.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100381",
+      "horse_name": "オリバナム",
+      "score": 0.09790301622966417,
+      "horse_number": 9,
+      "odds": 6.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110066",
+      "horse_name": "ラージギャラリー",
+      "score": 0.056326371334285114,
+      "horse_number": 16,
+      "odds": 15.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105422",
+      "horse_name": "フォーキャンドルズ",
+      "score": -0.028193719807249454,
+      "horse_number": 13,
+      "odds": 14.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105564",
+      "horse_name": "カズミクラーシュ",
+      "score": -0.03334617109968564,
+      "horse_number": 8,
+      "odds": 17.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104832",
+      "horse_name": "モアリジット",
+      "score": -0.06430500563415681,
+      "horse_number": 17,
+      "odds": 31.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104784",
+      "horse_name": "ルクスジニア",
+      "score": -0.07093014558427471,
+      "horse_number": 4,
+      "odds": 6.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104905",
+      "horse_name": "ザブライド",
+      "score": -0.10108057620118843,
+      "horse_number": 15,
+      "odds": 27.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106623",
+      "horse_name": "ゴキゲンサン",
+      "score": -0.23795754071123343,
+      "horse_number": 18,
+      "odds": 51.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103499",
+      "horse_name": "トーホウガレオン",
+      "score": -0.3158372914610299,
+      "horse_number": 5,
+      "odds": 29.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104316",
+      "horse_name": "ユキノエミリオ",
+      "score": -0.34678956192160715,
+      "horse_number": 3,
+      "odds": 26.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104983",
+      "horse_name": "マルプリ",
+      "score": -0.3803517424634322,
+      "horse_number": 6,
+      "odds": 101.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2017110086",
+      "horse_name": "ジッピーレーサー",
+      "score": -0.5645449839303281,
+      "horse_number": 7,
+      "odds": 125.4
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020101184",
+      "horse_name": "シャイニースイフト",
+      "score": -0.5766429540794782,
+      "horse_number": 12,
+      "odds": 143.4
+    },
+    {
+      "rank": 18,
+      "horse_id": "2018103473",
+      "horse_name": "サヴァビアン",
+      "score": -0.5907216745266844,
+      "horse_number": 2,
+      "odds": 134.6
+    }
+  ]
+}
