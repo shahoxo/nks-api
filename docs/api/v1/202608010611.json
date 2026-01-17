@@ -1,0 +1,136 @@
+{
+  "race_id": "202608010611",
+  "race_name": "羅生門S",
+  "race_time": "2026-01-17 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021106587",
+      "horse_name": "エストレヤデベレン",
+      "score": 0.34554128657685057,
+      "horse_number": 5,
+      "odds": 5.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020104893",
+      "horse_name": "セミマル",
+      "score": 0.26334293533677827,
+      "horse_number": 15,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105598",
+      "horse_name": "ダノンスウィッチ",
+      "score": 0.23747089532068996,
+      "horse_number": 12,
+      "odds": 10.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100204",
+      "horse_name": "ピエマンソン",
+      "score": 0.234444095123279,
+      "horse_number": 7,
+      "odds": 2.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102718",
+      "horse_name": "ノボリショウリュウ",
+      "score": 0.1316934289538178,
+      "horse_number": 4,
+      "odds": 14.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101397",
+      "horse_name": "ヴェロクオーレ",
+      "score": 0.1184283032110465,
+      "horse_number": 13,
+      "odds": 7.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105431",
+      "horse_name": "ヘルモーズ",
+      "score": 0.045833850978891415,
+      "horse_number": 14,
+      "odds": 34.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100665",
+      "horse_name": "ジャスパーバローズ",
+      "score": -0.053882839263522726,
+      "horse_number": 10,
+      "odds": 24.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020110100",
+      "horse_name": "シゲルソロソロ",
+      "score": -0.08630453498440253,
+      "horse_number": 6,
+      "odds": 41.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020105625",
+      "horse_name": "ローズバルサム",
+      "score": -0.09492342532977738,
+      "horse_number": 8,
+      "odds": 30.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020110034",
+      "horse_name": "ハードワイヤード",
+      "score": -0.19362780370562074,
+      "horse_number": 3,
+      "odds": 23.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103902",
+      "horse_name": "ジャーヴィス",
+      "score": -0.23020333212800434,
+      "horse_number": 2,
+      "odds": 99.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104422",
+      "horse_name": "グランドセントラル",
+      "score": -0.4339997667142994,
+      "horse_number": 1,
+      "odds": 110.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019106632",
+      "horse_name": "テイエムランウェイ",
+      "score": -0.4740360890576416,
+      "horse_number": 11,
+      "odds": 66.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103985",
+      "horse_name": "グラスシフォン",
+      "score": -0.502379650492045,
+      "horse_number": 16,
+      "odds": 126.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021102083",
+      "horse_name": "スマートリアファル",
+      "score": -0.513199694539001,
+      "horse_number": 9,
+      "odds": 75.4
+    }
+  ]
+}
