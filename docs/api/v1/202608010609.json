@@ -1,0 +1,88 @@
+{
+  "race_id": "202608010609",
+  "race_name": "稲荷特別",
+  "race_time": "2026-01-17 14:15",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105549",
+      "horse_name": "ハートメテオ",
+      "score": 0.14315111149541615,
+      "horse_number": 2,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105438",
+      "horse_name": "ジョイエッロ",
+      "score": 0.0921829758584035,
+      "horse_number": 5,
+      "odds": 3.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2018106354",
+      "horse_name": "バガン",
+      "score": 0.023086824678111843,
+      "horse_number": 8,
+      "odds": 18.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100084",
+      "horse_name": "ジェットマグナム",
+      "score": -0.019809120994810213,
+      "horse_number": 9,
+      "odds": 2.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105867",
+      "horse_name": "ショウナンハウル",
+      "score": -0.0692765621996929,
+      "horse_number": 7,
+      "odds": 48.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105072",
+      "horse_name": "ディーガレジェンド",
+      "score": -0.09169420035867094,
+      "horse_number": 4,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100678",
+      "horse_name": "アンテロース",
+      "score": -0.1455287379070755,
+      "horse_number": 6,
+      "odds": 25.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019103816",
+      "horse_name": "リッチブラック",
+      "score": -0.2661222968318476,
+      "horse_number": 3,
+      "odds": 17.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019100702",
+      "horse_name": "コスモエクスプレス",
+      "score": -0.3169366955817986,
+      "horse_number": 1,
+      "odds": 24.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106475",
+      "horse_name": "ピンキープロミス",
+      "score": -0.39386541950609355,
+      "horse_number": 10,
+      "odds": 34.1
+    }
+  ]
+}

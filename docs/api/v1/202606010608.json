@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010608",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-01-17 13:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100899",
+      "horse_name": "ビッグドリーム",
+      "score": 0.34175922283020593,
+      "horse_number": 4,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100363",
+      "horse_name": "キョウエイカンフ",
+      "score": 0.11593060574182086,
+      "horse_number": 13,
+      "odds": 9.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104722",
+      "horse_name": "ダンケルド",
+      "score": 0.09639478396914361,
+      "horse_number": 12,
+      "odds": 2.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103779",
+      "horse_name": "ゴールドハンマー",
+      "score": 0.08840154316034816,
+      "horse_number": 11,
+      "odds": 6.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103242",
+      "horse_name": "ジーベック",
+      "score": 0.031450037891581725,
+      "horse_number": 16,
+      "odds": 16.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106119",
+      "horse_name": "タイセイピューマ",
+      "score": -0.052424753419393025,
+      "horse_number": 14,
+      "odds": 10.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100382",
+      "horse_name": "ケープアグラス",
+      "score": -0.15252885954686965,
+      "horse_number": 9,
+      "odds": 32.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104325",
+      "horse_name": "クールソル",
+      "score": -0.2126269919274655,
+      "horse_number": 2,
+      "odds": 62.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104479",
+      "horse_name": "フェデルミエール",
+      "score": -0.24642685068383582,
+      "horse_number": 5,
+      "odds": 84.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103706",
+      "horse_name": "アルジェンタージョ",
+      "score": -0.25407918959374426,
+      "horse_number": 15,
+      "odds": 93.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103513",
+      "horse_name": "レグザゴン",
+      "score": -0.27366629621507044,
+      "horse_number": 1,
+      "odds": 38.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106936",
+      "horse_name": "フレイミングパイ",
+      "score": -0.2863745712393339,
+      "horse_number": 8,
+      "odds": 25.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104864",
+      "horse_name": "タマモヴェナトル",
+      "score": -0.3800822073276329,
+      "horse_number": 6,
+      "odds": 71.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101461",
+      "horse_name": "カツラノキサノキ",
+      "score": -0.42295622943303235,
+      "horse_number": 7,
+      "odds": 78.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106353",
+      "horse_name": "リリージェーン",
+      "score": -0.464495357360731,
+      "horse_number": 3,
+      "odds": 60.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104960",
+      "horse_name": "トロピカルヒーロー",
+      "score": -0.5530974180867849,
+      "horse_number": 10,
+      "odds": 71.7
+    }
+  ]
+}
