@@ -1,0 +1,112 @@
+{
+  "race_id": "202608010603",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-17 10:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105294",
+      "horse_name": "グリーンゴー",
+      "score": 0.22769567327961376,
+      "horse_number": 12,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102630",
+      "horse_name": "2023102630",
+      "score": 0.032567168761110946,
+      "horse_number": 7,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104586",
+      "horse_name": "ジュンクロノシップ",
+      "score": 0.02171128536859863,
+      "horse_number": 11,
+      "odds": 13.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103896",
+      "horse_name": "マーゴットデイズ",
+      "score": -0.1406159833246449,
+      "horse_number": 9,
+      "odds": 25.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100230",
+      "horse_name": "フィサブロス",
+      "score": -0.1514162080514073,
+      "horse_number": 8,
+      "odds": 6.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102132",
+      "horse_name": "テスタヴェローチェ",
+      "score": -0.16769381893745022,
+      "horse_number": 10,
+      "odds": 3.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103313",
+      "horse_name": "2023103313",
+      "score": -0.44968670427982527,
+      "horse_number": 5,
+      "odds": 30.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103682",
+      "horse_name": "コンテナヒーロー",
+      "score": -0.47930158206438533,
+      "horse_number": 3,
+      "odds": 31.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105641",
+      "horse_name": "アティラン",
+      "score": -0.6296634170597682,
+      "horse_number": 6,
+      "odds": 110.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103703",
+      "horse_name": "アルダ",
+      "score": -0.6372508725688705,
+      "horse_number": 2,
+      "odds": 22.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102369",
+      "horse_name": "フロムザムーン",
+      "score": -0.6713799642837643,
+      "horse_number": 13,
+      "odds": 36.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102089",
+      "horse_name": "バンブトンコール",
+      "score": -0.6998670045316765,
+      "horse_number": 4,
+      "odds": 87.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100530",
+      "horse_name": "カセノナユタ",
+      "score": -0.7212483613895885,
+      "horse_number": 1,
+      "odds": 120.6
+    }
+  ]
+}
