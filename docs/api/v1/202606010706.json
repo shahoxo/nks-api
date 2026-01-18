@@ -1,0 +1,120 @@
+{
+  "race_id": "202606010706",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-18 12:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105258",
+      "horse_name": "ホークライト",
+      "score": 0.45687263308167825,
+      "horse_number": 14,
+      "odds": 1.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102227",
+      "horse_name": "アリステア",
+      "score": 0.0027504966875809217,
+      "horse_number": 9,
+      "odds": 19.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103518",
+      "horse_name": "リラゲイル",
+      "score": -0.011334603514931377,
+      "horse_number": 6,
+      "odds": 7.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102446",
+      "horse_name": "ノアヴィヴァーチェ",
+      "score": -0.18099308593471466,
+      "horse_number": 11,
+      "odds": 12.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019104005",
+      "horse_name": "ブレットフライ",
+      "score": -0.21701510459197262,
+      "horse_number": 12,
+      "odds": 70.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103901",
+      "horse_name": "ウインドワンピース",
+      "score": -0.3253578120436794,
+      "horse_number": 3,
+      "odds": 79.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101201",
+      "horse_name": "ロードインフェルノ",
+      "score": -0.37820167964773627,
+      "horse_number": 7,
+      "odds": 45.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102707",
+      "horse_name": "ツマヤ",
+      "score": -0.45625921944388415,
+      "horse_number": 8,
+      "odds": 34.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022107233",
+      "horse_name": "エポカリーナ",
+      "score": -0.46377577496632205,
+      "horse_number": 13,
+      "odds": 51.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104312",
+      "horse_name": "ディースプレマシー",
+      "score": -0.5009967345007588,
+      "horse_number": 10,
+      "odds": 20.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101481",
+      "horse_name": "アルデツヨシ",
+      "score": -0.6115888288085456,
+      "horse_number": 2,
+      "odds": 32.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019103204",
+      "horse_name": "クールシェルタ",
+      "score": -0.6293301629666437,
+      "horse_number": 5,
+      "odds": 159.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102273",
+      "horse_name": "テイラーテソーロ",
+      "score": -0.6534423250362207,
+      "horse_number": 1,
+      "odds": 105.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102900",
+      "horse_name": "ノクターナル",
+      "score": -0.7212483613895885,
+      "horse_number": 4,
+      "odds": 148.5
+    }
+  ]
+}
