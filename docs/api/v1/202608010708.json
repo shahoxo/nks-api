@@ -1,0 +1,104 @@
+{
+  "race_id": "202608010708",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-18 13:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105633",
+      "horse_name": "ノラリクラリ",
+      "score": 0.1356836174793098,
+      "horse_number": 8,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105247",
+      "horse_name": "オメガナビゲーター",
+      "score": 0.1288901934531228,
+      "horse_number": 7,
+      "odds": 10.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102303",
+      "horse_name": "アスクコモンタレヴ",
+      "score": 0.11630783917381977,
+      "horse_number": 6,
+      "odds": 4.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103063",
+      "horse_name": "ルージュスティーズ",
+      "score": 0.11573857687431968,
+      "horse_number": 9,
+      "odds": 8.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104598",
+      "horse_name": "ドルチェリターン",
+      "score": 0.11310420385585972,
+      "horse_number": 11,
+      "odds": 11.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106630",
+      "horse_name": "マンオブノーブル",
+      "score": 0.037374274348848636,
+      "horse_number": 12,
+      "odds": 7.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101323",
+      "horse_name": "アットアブラスト",
+      "score": -0.09823674301720667,
+      "horse_number": 2,
+      "odds": 14.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101280",
+      "horse_name": "ジェロニモス",
+      "score": -0.11266112951023868,
+      "horse_number": 3,
+      "odds": 7.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104872",
+      "horse_name": "アラバンサ",
+      "score": -0.43565639685694,
+      "horse_number": 4,
+      "odds": 50.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103070",
+      "horse_name": "レイデラティエラ",
+      "score": -0.498796000061704,
+      "horse_number": 10,
+      "odds": 21.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100978",
+      "horse_name": "ハギノカノア",
+      "score": -0.535636106024486,
+      "horse_number": 1,
+      "odds": 50.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104164",
+      "horse_name": "サイモンイロハニー",
+      "score": -0.5431995951985406,
+      "horse_number": 5,
+      "odds": 44.5
+    }
+  ]
+}

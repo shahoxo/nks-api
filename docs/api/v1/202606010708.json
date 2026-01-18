@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010708",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-01-18 13:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104432",
+      "horse_name": "レイバックスピン",
+      "score": 0.3648965128088085,
+      "horse_number": 14,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104856",
+      "horse_name": "エーリアル",
+      "score": 0.3450118798081395,
+      "horse_number": 11,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103753",
+      "horse_name": "ネクストダンサー",
+      "score": 0.11088714120688849,
+      "horse_number": 5,
+      "odds": 25.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105225",
+      "horse_name": "レディーフランシス",
+      "score": 0.03016898570300294,
+      "horse_number": 7,
+      "odds": 8.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105516",
+      "horse_name": "イゾラフェリーチェ",
+      "score": -0.08037041027068365,
+      "horse_number": 10,
+      "odds": 14.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105789",
+      "horse_name": "サツキノジョウ",
+      "score": -0.09611072517211593,
+      "horse_number": 6,
+      "odds": 11.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100606",
+      "horse_name": "ベルイストワール",
+      "score": -0.10539526075379166,
+      "horse_number": 12,
+      "odds": 55.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102607",
+      "horse_name": "ロフティーイデアル",
+      "score": -0.19797853836158494,
+      "horse_number": 4,
+      "odds": 27.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022107288",
+      "horse_name": "リアルクィーン",
+      "score": -0.20325402707042292,
+      "horse_number": 1,
+      "odds": 4.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105844",
+      "horse_name": "タイヨウフレア",
+      "score": -0.23408469006002058,
+      "horse_number": 3,
+      "odds": 52.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101227",
+      "horse_name": "ヴォンフレ",
+      "score": -0.23832321173483728,
+      "horse_number": 8,
+      "odds": 21.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100469",
+      "horse_name": "カフェアローロ",
+      "score": -0.3887979209084864,
+      "horse_number": 2,
+      "odds": 41.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104365",
+      "horse_name": "リュウノタブーク",
+      "score": -0.5336275327955337,
+      "horse_number": 9,
+      "odds": 58.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101219",
+      "horse_name": "マフィン",
+      "score": -0.563358009153262,
+      "horse_number": 16,
+      "odds": 132.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100432",
+      "horse_name": "オーケーマヒナ",
+      "score": -0.5787515178604455,
+      "horse_number": 13,
+      "odds": 21.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105350",
+      "horse_name": "コスモマルーン",
+      "score": -0.584858437498897,
+      "horse_number": 15,
+      "odds": 139.8
+    }
+  ]
+}
