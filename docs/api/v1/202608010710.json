@@ -10,7 +10,7 @@
       "horse_name": "ショーダンサー",
       "score": 0.19517127033170306,
       "horse_number": 8,
-      "odds": 6.6
+      "odds": 5.5
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "キングブルー",
       "score": 0.16708200547809704,
       "horse_number": 1,
-      "odds": 8.1
+      "odds": 8.3
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "メイショウヤシマ",
       "score": 0.1416415795762429,
       "horse_number": 7,
-      "odds": 5.2
+      "odds": 4.4
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "スマートカイロス",
       "score": 0.059735664827268116,
       "horse_number": 6,
-      "odds": 8.1
+      "odds": 7.8
     },
     {
       "rank": 5,
@@ -50,7 +50,7 @@
       "horse_name": "メイショウカシワデ",
       "score": 0.030652414883139262,
       "horse_number": 14,
-      "odds": 9.2
+      "odds": 7.1
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "マイティマイティー",
       "score": -0.05258282149677271,
       "horse_number": 13,
-      "odds": 10.8
+      "odds": 16.8
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "ワンダースティング",
       "score": -0.20339400682477465,
       "horse_number": 3,
-      "odds": 32.6
+      "odds": 46.4
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "メイケイロゼッタ",
       "score": -0.23643714338601712,
       "horse_number": 16,
-      "odds": 53.8
+      "odds": 112.2
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "アルベリック",
       "score": -0.24590599939243585,
       "horse_number": 10,
-      "odds": 82.2
+      "odds": 143.8
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "トゥルブレンシア",
       "score": -0.273457921984828,
       "horse_number": 15,
-      "odds": 84.1
+      "odds": 129.1
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "グラティアスミノル",
       "score": -0.3366307774537408,
       "horse_number": 9,
-      "odds": 138.9
+      "odds": 273.8
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "トーアシオン",
       "score": -0.49509724875398187,
       "horse_number": 11,
-      "odds": 125.0
+      "odds": 281.7
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "メイショウタイピン",
       "score": -0.500997491318687,
       "horse_number": 4,
-      "odds": 21.7
+      "odds": 34.3
     },
     {
       "rank": 15,
@@ -122,7 +122,7 @@
       "horse_name": "バトンインディ",
       "score": -0.5080212330115056,
       "horse_number": 5,
-      "odds": 85.6
+      "odds": 168.6
     },
     {
       "rank": 16,
@@ -130,7 +130,7 @@
       "horse_name": "アスクキングコング",
       "score": -0.5272300991657247,
       "horse_number": 2,
-      "odds": 77.9
+      "odds": 211.5
     }
   ]
 }
