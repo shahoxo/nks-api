@@ -1,0 +1,96 @@
+{
+  "race_id": "202608010712",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-18 16:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105871",
+      "horse_name": "レッドフェルメール",
+      "score": 0.3579900773165123,
+      "horse_number": 1,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103647",
+      "horse_name": "ダイヤモンドハンズ",
+      "score": 0.3304136728429705,
+      "horse_number": 6,
+      "odds": 7.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104738",
+      "horse_name": "パスコード",
+      "score": 0.07177941802244446,
+      "horse_number": 11,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105715",
+      "horse_name": "ジョワイユノエル",
+      "score": -0.0009367824286327115,
+      "horse_number": 9,
+      "odds": 15.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019102215",
+      "horse_name": "サク",
+      "score": -0.00510443169034593,
+      "horse_number": 3,
+      "odds": 14.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105407",
+      "horse_name": "サニーサルサ",
+      "score": -0.08477096421818216,
+      "horse_number": 7,
+      "odds": 12.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105123",
+      "horse_name": "デビューフライト",
+      "score": -0.18191254135434404,
+      "horse_number": 8,
+      "odds": 45.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103441",
+      "horse_name": "フラッシングレート",
+      "score": -0.4194925790348426,
+      "horse_number": 2,
+      "odds": 9.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104947",
+      "horse_name": "フラワームーン",
+      "score": -0.4444649635163651,
+      "horse_number": 4,
+      "odds": 55.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106295",
+      "horse_name": "スイッチビスケット",
+      "score": -0.6164369642811226,
+      "horse_number": 5,
+      "odds": 94.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103736",
+      "horse_name": "アフェシス",
+      "score": -0.6372508725688705,
+      "horse_number": 10,
+      "odds": 21.5
+    }
+  ]
+}

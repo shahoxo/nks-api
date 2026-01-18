@@ -1,0 +1,128 @@
+{
+  "race_id": "202606010711",
+  "race_name": "京成杯",
+  "race_time": "2026-01-18 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107087",
+      "horse_name": "ソラネルマン",
+      "score": 0.4660499186502894,
+      "horse_number": 12,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105456",
+      "horse_name": "グリーンエナジー",
+      "score": 0.27082786104757833,
+      "horse_number": 4,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106861",
+      "horse_name": "タイダルロック",
+      "score": 0.2428639416859365,
+      "horse_number": 9,
+      "odds": 24.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100946",
+      "horse_name": "マテンロウゲイル",
+      "score": 0.2347971238796799,
+      "horse_number": 11,
+      "odds": 9.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100947",
+      "horse_name": "アクセス",
+      "score": 0.12952148061207144,
+      "horse_number": 15,
+      "odds": 5.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106288",
+      "horse_name": "アッカン",
+      "score": 0.11678116340709706,
+      "horse_number": 6,
+      "odds": 10.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103814",
+      "horse_name": "アメテュストス",
+      "score": 0.06072253427558493,
+      "horse_number": 7,
+      "odds": 20.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107289",
+      "horse_name": "ポルフュロゲネトス",
+      "score": 0.05847722891341389,
+      "horse_number": 13,
+      "odds": 6.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103897",
+      "horse_name": "ショウグンマサムネ",
+      "score": 0.025488950965446622,
+      "horse_number": 5,
+      "odds": 28.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103468",
+      "horse_name": "ポッドクロス",
+      "score": 0.0023731254638418155,
+      "horse_number": 2,
+      "odds": 76.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106392",
+      "horse_name": "パラディオン",
+      "score": -0.0053510653248189845,
+      "horse_number": 8,
+      "odds": 34.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103908",
+      "horse_name": "エリプティクカーブ",
+      "score": -0.02906512429129767,
+      "horse_number": 14,
+      "odds": 44.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104885",
+      "horse_name": "ジーネキング",
+      "score": -0.06184116935311717,
+      "horse_number": 10,
+      "odds": 21.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104492",
+      "horse_name": "ブラックハヤテ",
+      "score": -0.1701537099499951,
+      "horse_number": 1,
+      "odds": 39.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104346",
+      "horse_name": "ステラスペース",
+      "score": -0.18314018423169118,
+      "horse_number": 3,
+      "odds": 67.3
+    }
+  ]
+}
