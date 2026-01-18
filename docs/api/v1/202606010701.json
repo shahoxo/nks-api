@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010701",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-18 10:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105795",
+      "horse_name": "クリオロゴールド",
+      "score": 0.26486194223262355,
+      "horse_number": 12,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100290",
+      "horse_name": "リナシタ",
+      "score": 0.2038682970223632,
+      "horse_number": 11,
+      "odds": 12.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023110008",
+      "horse_name": "モーゲンセン",
+      "score": 0.16157414554807428,
+      "horse_number": 6,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106991",
+      "horse_name": "グレイシエーション",
+      "score": 0.1014146017432233,
+      "horse_number": 5,
+      "odds": 3.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102383",
+      "horse_name": "プラチナムディスク",
+      "score": -0.09920625215131172,
+      "horse_number": 3,
+      "odds": 8.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101037",
+      "horse_name": "ツクバヴァンガード",
+      "score": -0.13282417158623794,
+      "horse_number": 7,
+      "odds": 6.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100722",
+      "horse_name": "マーガレットクレア",
+      "score": -0.3849056995214377,
+      "horse_number": 10,
+      "odds": 14.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104793",
+      "horse_name": "2023104793",
+      "score": -0.47293600501096866,
+      "horse_number": 2,
+      "odds": 169.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105553",
+      "horse_name": "ヘイマー",
+      "score": -0.5256297713501582,
+      "horse_number": 4,
+      "odds": 154.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100027",
+      "horse_name": "ネオアカジョウ",
+      "score": -0.5528918736750144,
+      "horse_number": 13,
+      "odds": 120.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106586",
+      "horse_name": "ロット",
+      "score": -0.5587930761583654,
+      "horse_number": 9,
+      "odds": 68.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106717",
+      "horse_name": "アルクノワール",
+      "score": -0.6121130178856828,
+      "horse_number": 8,
+      "odds": 206.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101910",
+      "horse_name": "ステキサプライズ",
+      "score": -0.6238524678642596,
+      "horse_number": 16,
+      "odds": 108.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106655",
+      "horse_name": "ポルタシャーンス",
+      "score": -0.6877651437457144,
+      "horse_number": 14,
+      "odds": 75.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106600",
+      "horse_name": "イッツソーブライト",
+      "score": -0.7212483613895885,
+      "horse_number": 1,
+      "odds": 395.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104691",
+      "horse_name": "ジャンプストリート",
+      "score": -0.7498547462216962,
+      "horse_number": 15,
+      "odds": 239.8
+    }
+  ]
+}

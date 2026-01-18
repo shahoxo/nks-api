@@ -1,0 +1,136 @@
+{
+  "race_id": "202608010703",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-18 10:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101951",
+      "horse_name": "メイショウバルク",
+      "score": 0.16055364658369006,
+      "horse_number": 7,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103764",
+      "horse_name": "ゴディアンフィンチ",
+      "score": 0.12045154069889227,
+      "horse_number": 12,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103163",
+      "horse_name": "キープシャイニング",
+      "score": 0.018864048152109368,
+      "horse_number": 16,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102105",
+      "horse_name": "オフクマメ",
+      "score": -0.024974390623600205,
+      "horse_number": 3,
+      "odds": 46.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103874",
+      "horse_name": "2023103874",
+      "score": -0.1279340264543194,
+      "horse_number": 10,
+      "odds": 35.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106282",
+      "horse_name": "トリーア",
+      "score": -0.2795909318833131,
+      "horse_number": 11,
+      "odds": 64.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105583",
+      "horse_name": "ピエナブラック",
+      "score": -0.3314513317358905,
+      "horse_number": 2,
+      "odds": 22.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105187",
+      "horse_name": "アドフランマム",
+      "score": -0.357974981078763,
+      "horse_number": 9,
+      "odds": 10.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105738",
+      "horse_name": "モズプリフォール",
+      "score": -0.38283999411441005,
+      "horse_number": 6,
+      "odds": 9.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023110034",
+      "horse_name": "カフジクロミエ",
+      "score": -0.4623501865051557,
+      "horse_number": 14,
+      "odds": 10.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101440",
+      "horse_name": "2023101440",
+      "score": -0.49998279365611376,
+      "horse_number": 1,
+      "odds": 27.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101848",
+      "horse_name": "ジューンマーチ",
+      "score": -0.6114218333973264,
+      "horse_number": 15,
+      "odds": 49.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104612",
+      "horse_name": "ゼンノトヨタマヒメ",
+      "score": -0.6150735945199988,
+      "horse_number": 13,
+      "odds": 42.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100060",
+      "horse_name": "トール",
+      "score": -0.6894382884759797,
+      "horse_number": 8,
+      "odds": 15.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100604",
+      "horse_name": "ショウナンアワード",
+      "score": -0.6956034805566548,
+      "horse_number": 4,
+      "odds": 137.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105167",
+      "horse_name": "ラカーリア",
+      "score": -0.7295377203336686,
+      "horse_number": 5,
+      "odds": 21.3
+    }
+  ]
+}
