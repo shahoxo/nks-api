@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010712",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-18 16:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105559",
+      "horse_name": "サンヴィクトワール",
+      "score": 0.5277397766811032,
+      "horse_number": 8,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107068",
+      "horse_name": "サンセリテ",
+      "score": 0.343976256435474,
+      "horse_number": 10,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100179",
+      "horse_name": "ニシノマーレ",
+      "score": 0.2529479503698125,
+      "horse_number": 11,
+      "odds": 12.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105416",
+      "horse_name": "2023105416",
+      "score": 0.17692248165118168,
+      "horse_number": 13,
+      "odds": 24.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102378",
+      "horse_name": "2023102378",
+      "score": 0.17481655772777466,
+      "horse_number": 6,
+      "odds": 13.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105951",
+      "horse_name": "ナディア",
+      "score": 0.17015420142196258,
+      "horse_number": 5,
+      "odds": 56.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104680",
+      "horse_name": "2023104680",
+      "score": 0.1471130933425232,
+      "horse_number": 12,
+      "odds": 12.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103550",
+      "horse_name": "ワイズファミリア",
+      "score": 0.11317271774544467,
+      "horse_number": 9,
+      "odds": 8.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102332",
+      "horse_name": "2023102332",
+      "score": 0.08484659392557667,
+      "horse_number": 4,
+      "odds": 12.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103694",
+      "horse_name": "レヴェランジェ",
+      "score": 0.0757362146329688,
+      "horse_number": 15,
+      "odds": 25.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105003",
+      "horse_name": "アールグレイ",
+      "score": -0.1315779699108171,
+      "horse_number": 14,
+      "odds": 20.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103195",
+      "horse_name": "ノーブルラホーヤ",
+      "score": -0.25516570492000884,
+      "horse_number": 2,
+      "odds": 51.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103047",
+      "horse_name": "エーデルハイ",
+      "score": -0.31934430517517404,
+      "horse_number": 1,
+      "odds": 76.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100614",
+      "horse_name": "エルリオ",
+      "score": -0.34887496811050606,
+      "horse_number": 7,
+      "odds": 93.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103273",
+      "horse_name": "ジュリ",
+      "score": -0.496739216999494,
+      "horse_number": 16,
+      "odds": 76.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104515",
+      "horse_name": "2023104515",
+      "score": -0.5116890280180644,
+      "horse_number": 3,
+      "odds": 11.5
+    }
+  ]
+}
