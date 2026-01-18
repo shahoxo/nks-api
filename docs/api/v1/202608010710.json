@@ -1,0 +1,136 @@
+{
+  "race_id": "202608010710",
+  "race_name": "大津特別",
+  "race_time": "2026-01-18 14:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105885",
+      "horse_name": "ショーダンサー",
+      "score": 0.19517127033170306,
+      "horse_number": 8,
+      "odds": 6.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104176",
+      "horse_name": "キングブルー",
+      "score": 0.16708200547809704,
+      "horse_number": 1,
+      "odds": 8.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100061",
+      "horse_name": "メイショウヤシマ",
+      "score": 0.1416415795762429,
+      "horse_number": 7,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102735",
+      "horse_name": "スマートカイロス",
+      "score": 0.059735664827268116,
+      "horse_number": 6,
+      "odds": 8.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102516",
+      "horse_name": "バッケンレコード",
+      "score": 0.038754396952810424,
+      "horse_number": 12,
+      "odds": 3.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103154",
+      "horse_name": "メイショウカシワデ",
+      "score": 0.030652414883139262,
+      "horse_number": 14,
+      "odds": 9.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103708",
+      "horse_name": "マイティマイティー",
+      "score": -0.05258282149677271,
+      "horse_number": 13,
+      "odds": 10.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018102956",
+      "horse_name": "ワンダースティング",
+      "score": -0.20339400682477465,
+      "horse_number": 3,
+      "odds": 32.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105878",
+      "horse_name": "メイケイロゼッタ",
+      "score": -0.23643714338601712,
+      "horse_number": 16,
+      "odds": 53.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101554",
+      "horse_name": "アルベリック",
+      "score": -0.24590599939243585,
+      "horse_number": 10,
+      "odds": 82.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2017103184",
+      "horse_name": "トゥルブレンシア",
+      "score": -0.273457921984828,
+      "horse_number": 15,
+      "odds": 84.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104424",
+      "horse_name": "グラティアスミノル",
+      "score": -0.3366307774537408,
+      "horse_number": 9,
+      "odds": 138.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2016104152",
+      "horse_name": "トーアシオン",
+      "score": -0.49509724875398187,
+      "horse_number": 11,
+      "odds": 125.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102828",
+      "horse_name": "メイショウタイピン",
+      "score": -0.500997491318687,
+      "horse_number": 4,
+      "odds": 21.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021106359",
+      "horse_name": "バトンインディ",
+      "score": -0.5080212330115056,
+      "horse_number": 5,
+      "odds": 85.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018104534",
+      "horse_name": "アスクキングコング",
+      "score": -0.5272300991657247,
+      "horse_number": 2,
+      "odds": 77.9
+    }
+  ]
+}

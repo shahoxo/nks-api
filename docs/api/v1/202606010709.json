@@ -1,0 +1,128 @@
+{
+  "race_id": "202606010709",
+  "race_name": "若潮S",
+  "race_time": "2026-01-18 14:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101448",
+      "horse_name": "グローリーリンク",
+      "score": 0.332738954550398,
+      "horse_number": 8,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103521",
+      "horse_name": "セブンマジシャン",
+      "score": 0.1792152921891517,
+      "horse_number": 11,
+      "odds": 7.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103577",
+      "horse_name": "ポルカリズム",
+      "score": 0.16548372822373275,
+      "horse_number": 7,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105326",
+      "horse_name": "コートアリシアン",
+      "score": 0.16470580460717466,
+      "horse_number": 5,
+      "odds": 4.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101772",
+      "horse_name": "メタルスピード",
+      "score": 0.0669260883903891,
+      "horse_number": 14,
+      "odds": 13.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100363",
+      "horse_name": "パワーホール",
+      "score": 0.028297862118128507,
+      "horse_number": 4,
+      "odds": 10.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105837",
+      "horse_name": "レッドアトレーヴ",
+      "score": -0.0061830415702726765,
+      "horse_number": 2,
+      "odds": 12.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103241",
+      "horse_name": "ケイデンシーマーク",
+      "score": -0.016176550837230026,
+      "horse_number": 6,
+      "odds": 30.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105185",
+      "horse_name": "ウインレイアー",
+      "score": -0.11186417635901527,
+      "horse_number": 15,
+      "odds": 17.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104326",
+      "horse_name": "ユキノロイヤル",
+      "score": -0.18633139700729726,
+      "horse_number": 9,
+      "odds": 21.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103066",
+      "horse_name": "マルチャン",
+      "score": -0.3176545411837602,
+      "horse_number": 13,
+      "odds": 60.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102734",
+      "horse_name": "エリーズダイヤ",
+      "score": -0.3229402004375123,
+      "horse_number": 12,
+      "odds": 86.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018104757",
+      "horse_name": "ジュノー",
+      "score": -0.34773201348334287,
+      "horse_number": 1,
+      "odds": 69.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018105996",
+      "horse_name": "サムハンター",
+      "score": -0.48123331362471067,
+      "horse_number": 3,
+      "odds": 122.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019107075",
+      "horse_name": "ブランデーロック",
+      "score": -0.556752673996198,
+      "horse_number": 10,
+      "odds": 76.5
+    }
+  ]
+}
