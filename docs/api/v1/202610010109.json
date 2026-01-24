@@ -1,0 +1,104 @@
+{
+  "race_id": "202610010109",
+  "race_name": "萌黄賞",
+  "race_time": "2026-01-24 14:31",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104528",
+      "horse_name": "トップアタック",
+      "score": 0.3986434944361027,
+      "horse_number": 9,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104998",
+      "horse_name": "カイショー",
+      "score": 0.31539793337907296,
+      "horse_number": 5,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100631",
+      "horse_name": "ワイドシュテルケ",
+      "score": 0.2929885744207199,
+      "horse_number": 7,
+      "odds": 4.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100956",
+      "horse_name": "オンザマーチ",
+      "score": 0.22568612432558238,
+      "horse_number": 2,
+      "odds": 18.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102577",
+      "horse_name": "アンジュプロミス",
+      "score": 0.19944404951942896,
+      "horse_number": 8,
+      "odds": 10.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103721",
+      "horse_name": "ルージュサウダージ",
+      "score": 0.013380561159661228,
+      "horse_number": 12,
+      "odds": 15.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103355",
+      "horse_name": "クリエープキー",
+      "score": -0.008268317830167363,
+      "horse_number": 11,
+      "odds": 8.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104953",
+      "horse_name": "2023104953",
+      "score": -0.05923910499678956,
+      "horse_number": 3,
+      "odds": 90.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101174",
+      "horse_name": "ドルチェミスト",
+      "score": -0.1904852438448896,
+      "horse_number": 6,
+      "odds": 41.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106912",
+      "horse_name": "ジュジュドール",
+      "score": -0.4271818029599659,
+      "horse_number": 1,
+      "odds": 46.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104075",
+      "horse_name": "フェブリノ",
+      "score": -0.43170083764693806,
+      "horse_number": 4,
+      "odds": 70.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100476",
+      "horse_name": "2023100476",
+      "score": -0.5071126925064392,
+      "horse_number": 10,
+      "odds": 145.6
+    }
+  ]
+}

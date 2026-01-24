@@ -1,0 +1,128 @@
+{
+  "race_id": "202608010810",
+  "race_name": "下鴨S",
+  "race_time": "2026-01-24 14:45",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100161",
+      "horse_name": "アスクシュタイン",
+      "score": 0.45304845813579475,
+      "horse_number": 4,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104092",
+      "horse_name": "ペンナヴェローチェ",
+      "score": 0.19455218992077855,
+      "horse_number": 14,
+      "odds": 8.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110115",
+      "horse_name": "シンビリーブ",
+      "score": 0.13324844585010873,
+      "horse_number": 10,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104411",
+      "horse_name": "マイノワール",
+      "score": 0.07570987127582572,
+      "horse_number": 2,
+      "odds": 16.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103538",
+      "horse_name": "ゴールドダイアー",
+      "score": 0.055144299555739504,
+      "horse_number": 1,
+      "odds": 28.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104745",
+      "horse_name": "シャルクハフト",
+      "score": -0.004649681284007134,
+      "horse_number": 8,
+      "odds": 34.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100734",
+      "horse_name": "レーウィン",
+      "score": -0.10025890547752361,
+      "horse_number": 7,
+      "odds": 15.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106635",
+      "horse_name": "メイショウシナノ",
+      "score": -0.13323392318436963,
+      "horse_number": 9,
+      "odds": 36.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104131",
+      "horse_name": "ヒロノラメール",
+      "score": -0.17156648207545905,
+      "horse_number": 3,
+      "odds": 46.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102905",
+      "horse_name": "ホルトバージ",
+      "score": -0.19555992844764936,
+      "horse_number": 13,
+      "odds": 88.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105508",
+      "horse_name": "リューデスハイム",
+      "score": -0.20090546712135104,
+      "horse_number": 5,
+      "odds": 18.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100225",
+      "horse_name": "モズマーヴェリック",
+      "score": -0.2162595215981789,
+      "horse_number": 11,
+      "odds": 38.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103140",
+      "horse_name": "メイプルタピット",
+      "score": -0.25604469646897243,
+      "horse_number": 12,
+      "odds": 18.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105272",
+      "horse_name": "タンゴバイラリン",
+      "score": -0.2582323949541984,
+      "horse_number": 15,
+      "odds": 86.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101020",
+      "horse_name": "ペイシャモノノフ",
+      "score": -0.5773477075261569,
+      "horse_number": 6,
+      "odds": 138.2
+    }
+  ]
+}
