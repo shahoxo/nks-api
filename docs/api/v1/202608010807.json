@@ -1,0 +1,96 @@
+{
+  "race_id": "202608010807",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-24 13:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110123",
+      "horse_name": "クロノスバレット",
+      "score": 0.25910437252315344,
+      "horse_number": 4,
+      "odds": 5.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104314",
+      "horse_name": "ユキノクラウン",
+      "score": 0.0890429496421258,
+      "horse_number": 2,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100303",
+      "horse_name": "ブリオメンテ",
+      "score": 0.05343599138085024,
+      "horse_number": 9,
+      "odds": 4.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110012",
+      "horse_name": "アークドール",
+      "score": 0.044036025050702615,
+      "horse_number": 11,
+      "odds": 3.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103053",
+      "horse_name": "ケイアイワイラーパ",
+      "score": 0.011375542374359376,
+      "horse_number": 8,
+      "odds": 11.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105611",
+      "horse_name": "ワイドクリーガー",
+      "score": -0.1580075930997901,
+      "horse_number": 7,
+      "odds": 13.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103065",
+      "horse_name": "ローズゴジャール",
+      "score": -0.34361232119918705,
+      "horse_number": 6,
+      "odds": 20.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102957",
+      "horse_name": "ヴィーナスバブル",
+      "score": -0.4714455753423905,
+      "horse_number": 3,
+      "odds": 28.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106631",
+      "horse_name": "バシリス",
+      "score": -0.5037695224472176,
+      "horse_number": 10,
+      "odds": 27.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021107331",
+      "horse_name": "サンマルミッション",
+      "score": -0.5074959496969453,
+      "horse_number": 1,
+      "odds": 55.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106597",
+      "horse_name": "マッハレイジング",
+      "score": -0.7344997899121097,
+      "horse_number": 5,
+      "odds": 73.4
+    }
+  ]
+}

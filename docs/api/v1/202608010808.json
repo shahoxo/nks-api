@@ -1,0 +1,128 @@
+{
+  "race_id": "202608010808",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-01-24 13:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104839",
+      "horse_name": "プレアデスグループ",
+      "score": 0.4479135975199348,
+      "horse_number": 13,
+      "odds": 9.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104600",
+      "horse_name": "イマージョン",
+      "score": 0.29781365767514256,
+      "horse_number": 14,
+      "odds": 7.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105302",
+      "horse_name": "ヴリトラハン",
+      "score": 0.17170841666574,
+      "horse_number": 10,
+      "odds": 9.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100729",
+      "horse_name": "ビーマックス",
+      "score": 0.15401072161141893,
+      "horse_number": 8,
+      "odds": 19.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103211",
+      "horse_name": "フェデラー",
+      "score": 0.1523559370392409,
+      "horse_number": 5,
+      "odds": 4.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103242",
+      "horse_name": "ジーベック",
+      "score": 0.07410257842571749,
+      "horse_number": 7,
+      "odds": 16.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019103825",
+      "horse_name": "スペシャルナンバー",
+      "score": 0.06614056935208985,
+      "horse_number": 4,
+      "odds": 12.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106453",
+      "horse_name": "ハリーケーン",
+      "score": -0.030335308294455937,
+      "horse_number": 3,
+      "odds": 8.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101057",
+      "horse_name": "セールヴォラン",
+      "score": -0.037484800986574834,
+      "horse_number": 1,
+      "odds": 25.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020110031",
+      "horse_name": "ディキシーガンナー",
+      "score": -0.08429981850304331,
+      "horse_number": 6,
+      "odds": 17.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105965",
+      "horse_name": "ドンパッショーネ",
+      "score": -0.16344434321952928,
+      "horse_number": 15,
+      "odds": 4.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019103442",
+      "horse_name": "クラリティスケール",
+      "score": -0.2698488502637622,
+      "horse_number": 12,
+      "odds": 90.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105156",
+      "horse_name": "フェリ",
+      "score": -0.44808688224796356,
+      "horse_number": 11,
+      "odds": 52.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102845",
+      "horse_name": "モズナイスバディー",
+      "score": -0.470431742523001,
+      "horse_number": 2,
+      "odds": 46.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100371",
+      "horse_name": "セントールビースト",
+      "score": -0.536583550185293,
+      "horse_number": 9,
+      "odds": 39.1
+    }
+  ]
+}

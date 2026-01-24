@@ -1,0 +1,128 @@
+{
+  "race_id": "202610010107",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-24 13:30",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102988",
+      "horse_name": "スズカミエール",
+      "score": 0.3810148609181089,
+      "horse_number": 15,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103642",
+      "horse_name": "シマサンブラック",
+      "score": 0.022725294304019008,
+      "horse_number": 4,
+      "odds": 18.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104494",
+      "horse_name": "ポテチ",
+      "score": 0.004405564812711173,
+      "horse_number": 10,
+      "odds": 8.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104138",
+      "horse_name": "ディスパラール",
+      "score": -0.003967376718771471,
+      "horse_number": 1,
+      "odds": 27.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105839",
+      "horse_name": "アスクデッドヒート",
+      "score": -0.03197900294120112,
+      "horse_number": 7,
+      "odds": 12.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105189",
+      "horse_name": "ウインリュクス",
+      "score": -0.043037828985656536,
+      "horse_number": 5,
+      "odds": 5.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106940",
+      "horse_name": "ローレルオーブ",
+      "score": -0.06179437838991339,
+      "horse_number": 12,
+      "odds": 25.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104793",
+      "horse_name": "サラコスティ",
+      "score": -0.06181140197129281,
+      "horse_number": 6,
+      "odds": 15.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103845",
+      "horse_name": "ニホンピロゴルディ",
+      "score": -0.09658461434610571,
+      "horse_number": 3,
+      "odds": 17.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105597",
+      "horse_name": "ゲンジ",
+      "score": -0.10291828970538883,
+      "horse_number": 9,
+      "odds": 8.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105687",
+      "horse_name": "オーサムユニバンス",
+      "score": -0.12024079875201277,
+      "horse_number": 8,
+      "odds": 12.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106770",
+      "horse_name": "マイネルボス",
+      "score": -0.39642303050551825,
+      "horse_number": 2,
+      "odds": 63.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106846",
+      "horse_name": "ゴールドジェスター",
+      "score": -0.4176558235733877,
+      "horse_number": 11,
+      "odds": 45.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105985",
+      "horse_name": "ヘルツアス",
+      "score": -0.42288974551760977,
+      "horse_number": 14,
+      "odds": 36.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105796",
+      "horse_name": "ペリプルス",
+      "score": -0.46612450344702505,
+      "horse_number": 13,
+      "odds": 59.0
+    }
+  ]
+}
