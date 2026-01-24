@@ -1,0 +1,80 @@
+{
+  "race_id": "202610010110",
+  "race_name": "海の中道特別",
+  "race_time": "2026-01-24 15:05",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105160",
+      "horse_name": "カエルム",
+      "score": 0.23857877555732046,
+      "horse_number": 2,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104207",
+      "horse_name": "キングスコール",
+      "score": 0.15065563835881826,
+      "horse_number": 4,
+      "odds": 2.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105002",
+      "horse_name": "サラトガチップス",
+      "score": 0.13329773972206826,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105434",
+      "horse_name": "ショウナンガチ",
+      "score": -0.13090852806132494,
+      "horse_number": 9,
+      "odds": 7.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106694",
+      "horse_name": "ヴァイザーバルコ",
+      "score": -0.20777151749078912,
+      "horse_number": 7,
+      "odds": 8.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104856",
+      "horse_name": "ブリヤディアマンテ",
+      "score": -0.2204645355443504,
+      "horse_number": 8,
+      "odds": 22.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019100212",
+      "horse_name": "ウインマイルート",
+      "score": -0.2879782073291465,
+      "horse_number": 3,
+      "odds": 11.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105227",
+      "horse_name": "バーケンヘッド",
+      "score": -0.3593520763909799,
+      "horse_number": 5,
+      "odds": 33.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104553",
+      "horse_name": "パープルクラウド",
+      "score": -0.4228841828070917,
+      "horse_number": 1,
+      "odds": 62.0
+    }
+  ]
+}
