@@ -1,0 +1,152 @@
+{
+  "race_id": "202606010805",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-24 12:15",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107259",
+      "horse_name": "2023107259",
+      "score": 0.32857082052716824,
+      "horse_number": 17,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106981",
+      "horse_name": "ウィロークリーク",
+      "score": 0.2776240498595041,
+      "horse_number": 2,
+      "odds": 3.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103522",
+      "horse_name": "フォーチュンローズ",
+      "score": 0.23175746964850497,
+      "horse_number": 10,
+      "odds": 13.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100021",
+      "horse_name": "キンググローリー",
+      "score": 0.19227705026961636,
+      "horse_number": 7,
+      "odds": 16.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105552",
+      "horse_name": "ベルトラッキ",
+      "score": 0.061137534459346214,
+      "horse_number": 18,
+      "odds": 18.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107035",
+      "horse_name": "エクラドット",
+      "score": -0.00893147870201352,
+      "horse_number": 13,
+      "odds": 35.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106471",
+      "horse_name": "マイネルヴェーゼン",
+      "score": -0.028959127170641225,
+      "horse_number": 4,
+      "odds": 10.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103731",
+      "horse_name": "モデレートゲイル",
+      "score": -0.10865740658255982,
+      "horse_number": 8,
+      "odds": 13.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103500",
+      "horse_name": "ウェイクフィールド",
+      "score": -0.21493296832524483,
+      "horse_number": 5,
+      "odds": 9.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106627",
+      "horse_name": "ファインブライト",
+      "score": -0.2997691935673664,
+      "horse_number": 15,
+      "odds": 75.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103651",
+      "horse_name": "ノーブルスアーク",
+      "score": -0.34357771215776917,
+      "horse_number": 9,
+      "odds": 42.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106801",
+      "horse_name": "ラヴィニアパーク",
+      "score": -0.36876876799017055,
+      "horse_number": 6,
+      "odds": 46.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100585",
+      "horse_name": "トーセンマジェスタ",
+      "score": -0.4537982826688385,
+      "horse_number": 12,
+      "odds": 172.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105233",
+      "horse_name": "レッドリアライズ",
+      "score": -0.4721185000622832,
+      "horse_number": 16,
+      "odds": 32.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101087",
+      "horse_name": "ベストブラザーズ",
+      "score": -0.4752456091946712,
+      "horse_number": 1,
+      "odds": 27.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023107195",
+      "horse_name": "ゾネブルーム",
+      "score": -0.48085447380005175,
+      "horse_number": 3,
+      "odds": 36.7
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023104531",
+      "horse_name": "ロイヤルヤマト",
+      "score": -0.5424036201904954,
+      "horse_number": 14,
+      "odds": 50.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023102426",
+      "horse_name": "スチールナイト",
+      "score": -0.5636716945698683,
+      "horse_number": 11,
+      "odds": 128.8
+    }
+  ]
+}

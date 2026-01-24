@@ -1,0 +1,152 @@
+{
+  "race_id": "202608010805",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-24 12:05",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107168",
+      "horse_name": "ブラックオリンピア",
+      "score": 0.4816202123701424,
+      "horse_number": 17,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105789",
+      "horse_name": "ドンテスタマスター",
+      "score": 0.42714930940658347,
+      "horse_number": 9,
+      "odds": 6.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101375",
+      "horse_name": "マテンロウオリジン",
+      "score": 0.3221510807173475,
+      "horse_number": 4,
+      "odds": 3.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106716",
+      "horse_name": "パウンドフォーワン",
+      "score": 0.2655076294891935,
+      "horse_number": 11,
+      "odds": 18.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106715",
+      "horse_name": "オリオンブレード",
+      "score": 0.264176979836796,
+      "horse_number": 15,
+      "odds": 11.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103548",
+      "horse_name": "ダイナソーコー",
+      "score": 0.18773894017095832,
+      "horse_number": 10,
+      "odds": 28.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103398",
+      "horse_name": "ダノンオブアイデア",
+      "score": 0.0417453492028554,
+      "horse_number": 1,
+      "odds": 16.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106206",
+      "horse_name": "スズカサートゥル",
+      "score": -0.037285320604596134,
+      "horse_number": 13,
+      "odds": 56.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105869",
+      "horse_name": "イニシオ",
+      "score": -0.07617903213799766,
+      "horse_number": 5,
+      "odds": 11.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103395",
+      "horse_name": "ボクサークラブ",
+      "score": -0.15142557190031558,
+      "horse_number": 18,
+      "odds": 120.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023107118",
+      "horse_name": "マイコンチェルト",
+      "score": -0.17398959683872148,
+      "horse_number": 2,
+      "odds": 18.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104390",
+      "horse_name": "エンジェルボイス",
+      "score": -0.21715473103567567,
+      "horse_number": 7,
+      "odds": 64.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101677",
+      "horse_name": "プロスト",
+      "score": -0.22945193536798933,
+      "horse_number": 3,
+      "odds": 70.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103431",
+      "horse_name": "キボウホー",
+      "score": -0.4899614847761693,
+      "horse_number": 14,
+      "odds": 157.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104182",
+      "horse_name": "ファインウーマン",
+      "score": -0.5077159339727647,
+      "horse_number": 12,
+      "odds": 303.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023102124",
+      "horse_name": "ヒラボクソライア",
+      "score": -0.5178236546070307,
+      "horse_number": 16,
+      "odds": 89.3
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023106487",
+      "horse_name": "マイネルホウセン",
+      "score": -0.5936516828434119,
+      "horse_number": 8,
+      "odds": 39.1
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023104418",
+      "horse_name": "トゥレネヴェリテ",
+      "score": -0.6489621783909864,
+      "horse_number": 6,
+      "odds": 74.0
+    }
+  ]
+}

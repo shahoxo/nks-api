@@ -1,0 +1,144 @@
+{
+  "race_id": "202608010806",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-24 12:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101105",
+      "horse_name": "タフクッキー",
+      "score": 0.5175033467299369,
+      "horse_number": 5,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105679",
+      "horse_name": "2023105679",
+      "score": 0.14444696819495112,
+      "horse_number": 3,
+      "odds": 21.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104397",
+      "horse_name": "エバイダンス",
+      "score": 0.12881906864166076,
+      "horse_number": 13,
+      "odds": 13.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106943",
+      "horse_name": "レインボーステート",
+      "score": 0.026428463473837118,
+      "horse_number": 11,
+      "odds": 29.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102145",
+      "horse_name": "ホーリーステップ",
+      "score": 0.012326936577896762,
+      "horse_number": 4,
+      "odds": 7.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106996",
+      "horse_name": "ゼフィルス",
+      "score": -0.08448967230589961,
+      "horse_number": 8,
+      "odds": 4.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107432",
+      "horse_name": "ルナカカオ",
+      "score": -0.1137289438039863,
+      "horse_number": 10,
+      "odds": 35.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106993",
+      "horse_name": "エロイーズ",
+      "score": -0.12363302918199583,
+      "horse_number": 1,
+      "odds": 63.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103892",
+      "horse_name": "メルメラーダ",
+      "score": -0.1503364496517428,
+      "horse_number": 14,
+      "odds": 3.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106124",
+      "horse_name": "センリョウヤクシャ",
+      "score": -0.28186818097071475,
+      "horse_number": 12,
+      "odds": 65.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104950",
+      "horse_name": "アステリアート",
+      "score": -0.3405530693075583,
+      "horse_number": 16,
+      "odds": 50.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103498",
+      "horse_name": "ライゼシュトゥルム",
+      "score": -0.34244932591830496,
+      "horse_number": 9,
+      "odds": 51.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101728",
+      "horse_name": "クリーンブーケ",
+      "score": -0.38217216234761187,
+      "horse_number": 15,
+      "odds": 66.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106856",
+      "horse_name": "アンガーザガール",
+      "score": -0.4302123777707988,
+      "horse_number": 6,
+      "odds": 36.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100909",
+      "horse_name": "テイスティング",
+      "score": -0.4501929525101329,
+      "horse_number": 2,
+      "odds": 168.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106464",
+      "horse_name": "フルフィルメント",
+      "score": -0.48125371496547,
+      "horse_number": 17,
+      "odds": 95.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023106832",
+      "horse_name": "パゴスピグイノス",
+      "score": -0.5262657633709993,
+      "horse_number": 7,
+      "odds": 80.6
+    }
+  ]
+}
