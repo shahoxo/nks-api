@@ -1,0 +1,112 @@
+{
+  "race_id": "202608010809",
+  "race_name": "若駒S",
+  "race_time": "2026-01-24 14:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100933",
+      "horse_name": "ダークマルス",
+      "score": 0.5544594166670935,
+      "horse_number": 8,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107287",
+      "horse_name": "イベントホライゾン",
+      "score": 0.40761711607338535,
+      "horse_number": 9,
+      "odds": 3.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107169",
+      "horse_name": "エルハーベン",
+      "score": 0.40028164932725807,
+      "horse_number": 12,
+      "odds": 26.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103828",
+      "horse_name": "2023103828",
+      "score": 0.32260219492860487,
+      "horse_number": 7,
+      "odds": 4.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107250",
+      "horse_name": "ラディアントスター",
+      "score": 0.32216592302567315,
+      "horse_number": 2,
+      "odds": 6.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103417",
+      "horse_name": "ウィズクィーン",
+      "score": 0.3208083129000659,
+      "horse_number": 4,
+      "odds": 8.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106978",
+      "horse_name": "アクロフェイズ",
+      "score": 0.3172752873111994,
+      "horse_number": 13,
+      "odds": 13.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105560",
+      "horse_name": "ラージアンサンブル",
+      "score": 0.30506026331801495,
+      "horse_number": 11,
+      "odds": 15.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103958",
+      "horse_name": "アロンソア",
+      "score": 0.2739408579903518,
+      "horse_number": 6,
+      "odds": 64.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104315",
+      "horse_name": "タガノアルトゥーラ",
+      "score": 0.2669067482735346,
+      "horse_number": 1,
+      "odds": 35.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105011",
+      "horse_name": "オーライカモン",
+      "score": 0.12049248929684069,
+      "horse_number": 10,
+      "odds": 66.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104676",
+      "horse_name": "マテンロウゼロ",
+      "score": 0.08902841121895277,
+      "horse_number": 5,
+      "odds": 17.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103351",
+      "horse_name": "グレーヌドジョワ",
+      "score": 0.08893375045150965,
+      "horse_number": 3,
+      "odds": 91.3
+    }
+  ]
+}

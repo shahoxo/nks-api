@@ -1,0 +1,80 @@
+{
+  "race_id": "202606010809",
+  "race_name": "東雲賞",
+  "race_time": "2026-01-24 14:20",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104167",
+      "horse_name": "タイセイリコルド",
+      "score": 0.30705638991018225,
+      "horse_number": 2,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105388",
+      "horse_name": "ビーオンザカバー",
+      "score": 0.1755787368147114,
+      "horse_number": 6,
+      "odds": 2.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103310",
+      "horse_name": "レイヤードレッド",
+      "score": 0.039258195145113244,
+      "horse_number": 8,
+      "odds": 21.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105777",
+      "horse_name": "ドゥカート",
+      "score": 0.034727264114887316,
+      "horse_number": 7,
+      "odds": 23.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106595",
+      "horse_name": "ヤマニンアドホック",
+      "score": 0.017705035811049624,
+      "horse_number": 5,
+      "odds": 4.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106813",
+      "horse_name": "マイネルフーガ",
+      "score": -0.045329792886265895,
+      "horse_number": 1,
+      "odds": 15.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100660",
+      "horse_name": "ダイシンアポロン",
+      "score": -0.09863068965508129,
+      "horse_number": 4,
+      "odds": 9.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105317",
+      "horse_name": "ミーントゥビー",
+      "score": -0.18806188696910375,
+      "horse_number": 3,
+      "odds": 18.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106803",
+      "horse_name": "ミラーダカリエンテ",
+      "score": -0.32999597272089987,
+      "horse_number": 9,
+      "odds": 19.1
+    }
+  ]
+}
