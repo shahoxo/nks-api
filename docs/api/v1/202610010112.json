@@ -1,0 +1,128 @@
+{
+  "race_id": "202610010112",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-24 16:25",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101821",
+      "horse_name": "ロードヴォイジャー",
+      "score": 0.08656782863289174,
+      "horse_number": 9,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104654",
+      "horse_name": "ジーティーアメリカ",
+      "score": 0.003964447293534044,
+      "horse_number": 15,
+      "odds": 7.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103229",
+      "horse_name": "ウォーターパラディ",
+      "score": -0.07739681320337762,
+      "horse_number": 14,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105772",
+      "horse_name": "ホウオウバローロ",
+      "score": -0.08079178612692008,
+      "horse_number": 6,
+      "odds": 8.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104555",
+      "horse_name": "ゴッドヴァレー",
+      "score": -0.11043810634177795,
+      "horse_number": 13,
+      "odds": 7.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101044",
+      "horse_name": "グレイスフルマーチ",
+      "score": -0.1433164775468391,
+      "horse_number": 5,
+      "odds": 12.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103644",
+      "horse_name": "ブレイジングスター",
+      "score": -0.1462830752250148,
+      "horse_number": 11,
+      "odds": 10.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105201",
+      "horse_name": "ラマンシュ",
+      "score": -0.2163148602216548,
+      "horse_number": 8,
+      "odds": 12.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106045",
+      "horse_name": "ウィズマスタング",
+      "score": -0.22680864986327204,
+      "horse_number": 1,
+      "odds": 34.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104271",
+      "horse_name": "スマイルディシー",
+      "score": -0.3909608206009083,
+      "horse_number": 4,
+      "odds": 34.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106583",
+      "horse_name": "ユイノコキュウ",
+      "score": -0.5037695224472176,
+      "horse_number": 10,
+      "odds": 75.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101464",
+      "horse_name": "ミッションルース",
+      "score": -0.5039392620218299,
+      "horse_number": 3,
+      "odds": 10.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019101233",
+      "horse_name": "アイファーファイト",
+      "score": -0.5719778936462864,
+      "horse_number": 7,
+      "odds": 96.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103177",
+      "horse_name": "タイキジパング",
+      "score": -0.5786317696138015,
+      "horse_number": 2,
+      "odds": 50.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105472",
+      "horse_name": "オレノアイバ",
+      "score": -0.7560238565797833,
+      "horse_number": 12,
+      "odds": 137.2
+    }
+  ]
+}
