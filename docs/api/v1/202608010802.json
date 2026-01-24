@@ -1,0 +1,120 @@
+{
+  "race_id": "202608010802",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-24 10:15",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103282",
+      "horse_name": "ワイドポティロン",
+      "score": 0.08394917856409352,
+      "horse_number": 8,
+      "odds": 5.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102131",
+      "horse_name": "ラヴネヴァーダイズ",
+      "score": 0.02529826620041927,
+      "horse_number": 9,
+      "odds": 2.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101065",
+      "horse_name": "リアルアルバ",
+      "score": 0.008684718817205596,
+      "horse_number": 7,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100567",
+      "horse_name": "グレートアゲイン",
+      "score": -0.0433168816075192,
+      "horse_number": 12,
+      "odds": 50.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102459",
+      "horse_name": "オアシスアラン",
+      "score": -0.15922347311152912,
+      "horse_number": 13,
+      "odds": 24.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104669",
+      "horse_name": "ゲレイロ",
+      "score": -0.17655059354561498,
+      "horse_number": 6,
+      "odds": 9.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100241",
+      "horse_name": "セイウンバジリスク",
+      "score": -0.35303726932031376,
+      "horse_number": 11,
+      "odds": 6.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106232",
+      "horse_name": "ナムラオットー",
+      "score": -0.36558970018532466,
+      "horse_number": 3,
+      "odds": 125.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105187",
+      "horse_name": "アドフランマム",
+      "score": -0.4309282020329902,
+      "horse_number": 1,
+      "odds": 23.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103848",
+      "horse_name": "トーアウィリアム",
+      "score": -0.45174936842115554,
+      "horse_number": 2,
+      "odds": 40.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102317",
+      "horse_name": "バンダムソレール",
+      "score": -0.46394424853807603,
+      "horse_number": 5,
+      "odds": 60.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104525",
+      "horse_name": "エンドレスクライ",
+      "score": -0.4682796637517028,
+      "horse_number": 10,
+      "odds": 141.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100841",
+      "horse_name": "サンリナリア",
+      "score": -0.5050040389719221,
+      "horse_number": 14,
+      "odds": 39.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100757",
+      "horse_name": "コウユーニポポニコ",
+      "score": -0.593654973639009,
+      "horse_number": 4,
+      "odds": 29.6
+    }
+  ]
+}

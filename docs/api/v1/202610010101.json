@@ -1,0 +1,88 @@
+{
+  "race_id": "202610010101",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-24 10:05",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102215",
+      "horse_name": "アンコールアゲイン",
+      "score": 0.30753354912535374,
+      "horse_number": 5,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105387",
+      "horse_name": "マシン",
+      "score": -0.05623335104024509,
+      "horse_number": 1,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103240",
+      "horse_name": "ワルトシュタイン",
+      "score": -0.17893190138659906,
+      "horse_number": 9,
+      "odds": 9.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100992",
+      "horse_name": "セルシャーム",
+      "score": -0.2647690360423506,
+      "horse_number": 10,
+      "odds": 36.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103501",
+      "horse_name": "シンゼンイセ",
+      "score": -0.28594443114852114,
+      "horse_number": 2,
+      "odds": 28.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105093",
+      "horse_name": "オトコノロマン",
+      "score": -0.38637267900403705,
+      "horse_number": 4,
+      "odds": 9.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105468",
+      "horse_name": "アーサーバローズ",
+      "score": -0.43677661172954585,
+      "horse_number": 7,
+      "odds": 20.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106186",
+      "horse_name": "マカラス",
+      "score": -0.44968670427982527,
+      "horse_number": 8,
+      "odds": 17.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104872",
+      "horse_name": "ゴールデンドラゴン",
+      "score": -0.6040655160041839,
+      "horse_number": 6,
+      "odds": 27.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101742",
+      "horse_name": "ホワイトラバーズ",
+      "score": -0.6623780875704004,
+      "horse_number": 3,
+      "odds": 39.3
+    }
+  ]
+}
