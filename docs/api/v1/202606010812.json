@@ -1,0 +1,104 @@
+{
+  "race_id": "202606010812",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-24 16:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105501",
+      "horse_name": "プリムツァール",
+      "score": 0.30223637995332747,
+      "horse_number": 2,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104811",
+      "horse_name": "アセンブリールーム",
+      "score": 0.26429620562784506,
+      "horse_number": 1,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103727",
+      "horse_name": "ゴールドシーン",
+      "score": 0.21612423905345407,
+      "horse_number": 8,
+      "odds": 14.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103705",
+      "horse_name": "レッドロスタム",
+      "score": 0.09116507173791502,
+      "horse_number": 4,
+      "odds": 13.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105047",
+      "horse_name": "メランジェ",
+      "score": 0.05838784813195219,
+      "horse_number": 11,
+      "odds": 9.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100106",
+      "horse_name": "ペプロス",
+      "score": -0.13496711597345903,
+      "horse_number": 6,
+      "odds": 22.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106308",
+      "horse_name": "カイトグート",
+      "score": -0.1910465935061527,
+      "horse_number": 9,
+      "odds": 13.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106102",
+      "horse_name": "エコロライジン",
+      "score": -0.19814263506197846,
+      "horse_number": 3,
+      "odds": 41.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105035",
+      "horse_name": "イージーブリージー",
+      "score": -0.28072691055280785,
+      "horse_number": 5,
+      "odds": 20.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105533",
+      "horse_name": "サトノジール",
+      "score": -0.4838633917752958,
+      "horse_number": 12,
+      "odds": 81.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104533",
+      "horse_name": "チョングク",
+      "score": -0.5321616921100607,
+      "horse_number": 7,
+      "odds": 24.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103266",
+      "horse_name": "スノークローバー",
+      "score": -0.5409049914905244,
+      "horse_number": 10,
+      "odds": 160.6
+    }
+  ]
+}

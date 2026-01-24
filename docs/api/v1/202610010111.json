@@ -1,0 +1,152 @@
+{
+  "race_id": "202610010111",
+  "race_name": "小倉牝馬S",
+  "race_time": "2026-01-24 15:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104767",
+      "horse_name": "ジョスラン",
+      "score": 0.47590629314565697,
+      "horse_number": 17,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105228",
+      "horse_name": "レディーヴァリュー",
+      "score": 0.3388977530788867,
+      "horse_number": 15,
+      "odds": 9.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101607",
+      "horse_name": "ココナッツブラウン",
+      "score": 0.2937607287487645,
+      "horse_number": 8,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106752",
+      "horse_name": "パレハ",
+      "score": 0.2398766050597188,
+      "horse_number": 9,
+      "odds": 11.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105581",
+      "horse_name": "フレミングフープ",
+      "score": 0.1938267897456999,
+      "horse_number": 3,
+      "odds": 9.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103361",
+      "horse_name": "パルクリチュード",
+      "score": 0.16902933423571864,
+      "horse_number": 18,
+      "odds": 73.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104145",
+      "horse_name": "インヴォーグ",
+      "score": -0.005336552006661958,
+      "horse_number": 7,
+      "odds": 13.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104885",
+      "horse_name": "テレサ",
+      "score": -0.093616282265178,
+      "horse_number": 1,
+      "odds": 6.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021107179",
+      "horse_name": "ボンドガール",
+      "score": -0.09792199925640019,
+      "horse_number": 16,
+      "odds": 17.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105799",
+      "horse_name": "クリスマスパレード",
+      "score": -0.12608465901711446,
+      "horse_number": 14,
+      "odds": 19.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105448",
+      "horse_name": "エリカヴィータ",
+      "score": -0.1762290670437142,
+      "horse_number": 11,
+      "odds": 92.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105824",
+      "horse_name": "アレナリア",
+      "score": -0.21404378049029613,
+      "horse_number": 5,
+      "odds": 54.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020107030",
+      "horse_name": "ウインエーデル",
+      "score": -0.3231791468517019,
+      "horse_number": 13,
+      "odds": 141.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020103304",
+      "horse_name": "アンリーロード",
+      "score": -0.3575408197396912,
+      "horse_number": 12,
+      "odds": 147.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104994",
+      "horse_name": "ブラウンラチェット",
+      "score": -0.3672439239402536,
+      "horse_number": 2,
+      "odds": 59.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101250",
+      "horse_name": "クリノメイ",
+      "score": -0.37234147933826145,
+      "horse_number": 4,
+      "odds": 20.0
+    },
+    {
+      "rank": 17,
+      "horse_id": "2019105768",
+      "horse_name": "フィールシンパシー",
+      "score": -0.40179447888499287,
+      "horse_number": 6,
+      "odds": 60.8
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021104510",
+      "horse_name": "タクシンイメル",
+      "score": -0.5120976133231862,
+      "horse_number": 10,
+      "odds": 244.0
+    }
+  ]
+}

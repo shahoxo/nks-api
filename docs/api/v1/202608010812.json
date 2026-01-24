@@ -1,0 +1,96 @@
+{
+  "race_id": "202608010812",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-01-24 16:01",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2018103368",
+      "horse_name": "メイショウカイト",
+      "score": 0.1386186401952279,
+      "horse_number": 4,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102635",
+      "horse_name": "バンブルビー",
+      "score": 0.039463367436617554,
+      "horse_number": 1,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104929",
+      "horse_name": "ルトゥール",
+      "score": 0.0035136829661858654,
+      "horse_number": 11,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101580",
+      "horse_name": "メイショウヨゾラ",
+      "score": -0.017606728978892938,
+      "horse_number": 6,
+      "odds": 6.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105299",
+      "horse_name": "リアライズ",
+      "score": -0.021604186381543326,
+      "horse_number": 10,
+      "odds": 8.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104167",
+      "horse_name": "エイムフォーエース",
+      "score": -0.15510288376780976,
+      "horse_number": 8,
+      "odds": 5.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104825",
+      "horse_name": "スカプラリオ",
+      "score": -0.30559768594367653,
+      "horse_number": 2,
+      "odds": 28.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100873",
+      "horse_name": "アオイミモザ",
+      "score": -0.4739826643801416,
+      "horse_number": 5,
+      "odds": 15.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2017110086",
+      "horse_name": "ジッピーレーサー",
+      "score": -0.5645449839303281,
+      "horse_number": 3,
+      "odds": 65.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018103473",
+      "horse_name": "サヴァビアン",
+      "score": -0.5907216745266844,
+      "horse_number": 7,
+      "odds": 57.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022107309",
+      "horse_name": "コスタデラルス",
+      "score": -0.6533614053964997,
+      "horse_number": 9,
+      "odds": 139.4
+    }
+  ]
+}
