@@ -1,0 +1,120 @@
+{
+  "race_id": "202608010811",
+  "race_name": "睦月S",
+  "race_time": "2026-01-24 15:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105423",
+      "horse_name": "シヴァース",
+      "score": 0.3915914006769971,
+      "horse_number": 8,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106768",
+      "horse_name": "マイネルチケット",
+      "score": 0.2990290525367161,
+      "horse_number": 4,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102836",
+      "horse_name": "セフィロ",
+      "score": 0.23528088327988467,
+      "horse_number": 13,
+      "odds": 20.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019104850",
+      "horse_name": "バレエマスター",
+      "score": 0.09518990437511111,
+      "horse_number": 3,
+      "odds": 84.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104564",
+      "horse_name": "ニホンピロキーフ",
+      "score": 0.0378481970131681,
+      "horse_number": 14,
+      "odds": 8.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101813",
+      "horse_name": "クルゼイロドスル",
+      "score": 0.03263385404070804,
+      "horse_number": 12,
+      "odds": 6.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106550",
+      "horse_name": "タガノエルピーダ",
+      "score": -0.023436059036219446,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018101343",
+      "horse_name": "ゾンニッヒ",
+      "score": -0.06718474899515951,
+      "horse_number": 6,
+      "odds": 31.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020110155",
+      "horse_name": "レイベリング",
+      "score": -0.07126154935752442,
+      "horse_number": 5,
+      "odds": 78.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103482",
+      "horse_name": "スカイロケット",
+      "score": -0.07361912225412005,
+      "horse_number": 7,
+      "odds": 56.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105192",
+      "horse_name": "ビップデイジー",
+      "score": -0.0848354416535684,
+      "horse_number": 11,
+      "odds": 11.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100139",
+      "horse_name": "クランフォード",
+      "score": -0.09765101350140298,
+      "horse_number": 1,
+      "odds": 10.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100792",
+      "horse_name": "ハクサンバード",
+      "score": -0.3443789543579344,
+      "horse_number": 9,
+      "odds": 114.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105018",
+      "horse_name": "スズハローム",
+      "score": -0.37052764625342316,
+      "horse_number": 2,
+      "odds": 59.5
+    }
+  ]
+}
