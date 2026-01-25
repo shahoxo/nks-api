@@ -1,0 +1,120 @@
+{
+  "race_id": "202606010902",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-25 10:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101165",
+      "horse_name": "プレイメイカー",
+      "score": 0.2849655387126255,
+      "horse_number": 12,
+      "odds": 1.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102405",
+      "horse_name": "エコロストーム",
+      "score": 0.1873399262539553,
+      "horse_number": 5,
+      "odds": 15.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103729",
+      "horse_name": "リーピングサイン",
+      "score": 0.0005440892777392285,
+      "horse_number": 8,
+      "odds": 15.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104597",
+      "horse_name": "ラスターヴァース",
+      "score": -0.11866526909701045,
+      "horse_number": 7,
+      "odds": 13.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106764",
+      "horse_name": "アンデルストープ",
+      "score": -0.25959758446517317,
+      "horse_number": 13,
+      "odds": 74.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105879",
+      "horse_name": "ウインベルチェーロ",
+      "score": -0.29332364257496535,
+      "horse_number": 4,
+      "odds": 26.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102065",
+      "horse_name": "ティンブロポップ",
+      "score": -0.3600351389677494,
+      "horse_number": 10,
+      "odds": 97.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106314",
+      "horse_name": "2023106314",
+      "score": -0.3675421481333274,
+      "horse_number": 11,
+      "odds": 42.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106025",
+      "horse_name": "レヴェンドール",
+      "score": -0.546418385722876,
+      "horse_number": 2,
+      "odds": 35.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102758",
+      "horse_name": "2023102758",
+      "score": -0.5605472818472005,
+      "horse_number": 14,
+      "odds": 84.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100485",
+      "horse_name": "2023100485",
+      "score": -0.5844092227108343,
+      "horse_number": 6,
+      "odds": 66.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104632",
+      "horse_name": "マスカルポーネ",
+      "score": -0.6016625315578266,
+      "horse_number": 1,
+      "odds": 14.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102935",
+      "horse_name": "ニケフェリーチェ",
+      "score": -0.7212483613895885,
+      "horse_number": 9,
+      "odds": 166.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105064",
+      "horse_name": "ゲンパチミスティ",
+      "score": -0.7212483613895885,
+      "horse_number": 3,
+      "odds": 234.0
+    }
+  ]
+}
