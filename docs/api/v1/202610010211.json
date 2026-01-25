@@ -1,0 +1,104 @@
+{
+  "race_id": "202610010211",
+  "race_name": "壇之浦S",
+  "race_time": "2026-01-25 15:15",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103487",
+      "horse_name": "ミッキーツインクル",
+      "score": 0.16427037022529972,
+      "horse_number": 3,
+      "odds": 6.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100789",
+      "horse_name": "ハニーコム",
+      "score": 0.16419574733929315,
+      "horse_number": 12,
+      "odds": 8.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100699",
+      "horse_name": "イガッチ",
+      "score": 0.14695379545033752,
+      "horse_number": 2,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104959",
+      "horse_name": "キングノジョー",
+      "score": 0.106771272753682,
+      "horse_number": 4,
+      "odds": 5.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105442",
+      "horse_name": "エラトー",
+      "score": 0.06357020170421246,
+      "horse_number": 5,
+      "odds": 10.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020104550",
+      "horse_name": "ワイドアラジン",
+      "score": -0.05472274019343091,
+      "horse_number": 11,
+      "odds": 10.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105474",
+      "horse_name": "サダムオプシス",
+      "score": -0.07245878095587391,
+      "horse_number": 7,
+      "odds": 31.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105305",
+      "horse_name": "アウフヘーベン",
+      "score": -0.09131593025613145,
+      "horse_number": 8,
+      "odds": 3.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103794",
+      "horse_name": "エゾダイモン",
+      "score": -0.1796283074539705,
+      "horse_number": 6,
+      "odds": 29.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100495",
+      "horse_name": "ドラゴンヘッド",
+      "score": -0.36500304058548144,
+      "horse_number": 10,
+      "odds": 21.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103920",
+      "horse_name": "フェミナフォルテ",
+      "score": -0.46631463510245763,
+      "horse_number": 9,
+      "odds": 36.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104800",
+      "horse_name": "エイカイマッケンロ",
+      "score": -0.47713632193185296,
+      "horse_number": 1,
+      "odds": 47.4
+    }
+  ]
+}

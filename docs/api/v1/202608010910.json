@@ -1,0 +1,152 @@
+{
+  "race_id": "202608010910",
+  "race_name": "山城S",
+  "race_time": "2026-01-25 14:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020102310",
+      "horse_name": "キタサンダムール",
+      "score": 0.24381549853708595,
+      "horse_number": 16,
+      "odds": 8.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100935",
+      "horse_name": "ララマセラシオン",
+      "score": 0.16155999821011685,
+      "horse_number": 17,
+      "odds": 23.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104918",
+      "horse_name": "チューラワンサ",
+      "score": 0.11339342520313382,
+      "horse_number": 11,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106603",
+      "horse_name": "モジャーリオ",
+      "score": 0.08209332504725278,
+      "horse_number": 2,
+      "odds": 5.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105161",
+      "horse_name": "ケーブパール",
+      "score": 0.0792475685441619,
+      "horse_number": 9,
+      "odds": 6.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104928",
+      "horse_name": "トラペジスト",
+      "score": 0.035849924643801934,
+      "horse_number": 5,
+      "odds": 10.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105089",
+      "horse_name": "グランデサラス",
+      "score": -0.0012194232405838192,
+      "horse_number": 13,
+      "odds": 23.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105011",
+      "horse_name": "ラーンザロープス",
+      "score": -0.08438891194486989,
+      "horse_number": 8,
+      "odds": 9.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105354",
+      "horse_name": "サクセスアイ",
+      "score": -0.12215483320101261,
+      "horse_number": 7,
+      "odds": 17.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101019",
+      "horse_name": "コト",
+      "score": -0.17005970884397012,
+      "horse_number": 6,
+      "odds": 35.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105370",
+      "horse_name": "キャプテンシー",
+      "score": -0.17339637457006044,
+      "horse_number": 12,
+      "odds": 27.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019102106",
+      "horse_name": "ブリュットミレジメ",
+      "score": -0.17504192761329884,
+      "horse_number": 18,
+      "odds": 12.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102679",
+      "horse_name": "アニトラ",
+      "score": -0.17894771624002054,
+      "horse_number": 3,
+      "odds": 16.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105198",
+      "horse_name": "ウインスノーライト",
+      "score": -0.40025741679439647,
+      "horse_number": 14,
+      "odds": 48.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018105157",
+      "horse_name": "ディープリッチ",
+      "score": -0.4089411292516698,
+      "horse_number": 10,
+      "odds": 47.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105539",
+      "horse_name": "タガノシャーンス",
+      "score": -0.4173603878781377,
+      "horse_number": 15,
+      "odds": 49.4
+    },
+    {
+      "rank": 17,
+      "horse_id": "2016105797",
+      "horse_name": "コスモエスパーダ",
+      "score": -0.49113482303522904,
+      "horse_number": 4,
+      "odds": 95.4
+    },
+    {
+      "rank": 18,
+      "horse_id": "2019101079",
+      "horse_name": "アスクビギンアゲン",
+      "score": -0.5035046670808694,
+      "horse_number": 1,
+      "odds": 82.9
+    }
+  ]
+}

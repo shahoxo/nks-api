@@ -1,0 +1,136 @@
+{
+  "race_id": "202610010210",
+  "race_name": "響灘特別",
+  "race_time": "2026-01-25 14:40",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020105133",
+      "horse_name": "タイセイマンボ",
+      "score": 0.157932835660334,
+      "horse_number": 16,
+      "odds": 11.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102691",
+      "horse_name": "マナエトレ",
+      "score": 0.14865648770646622,
+      "horse_number": 9,
+      "odds": 6.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103778",
+      "horse_name": "ライフゲート",
+      "score": 0.07631265108263606,
+      "horse_number": 8,
+      "odds": 7.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105021",
+      "horse_name": "マテンロウブレイブ",
+      "score": 0.06349460823037072,
+      "horse_number": 7,
+      "odds": 3.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100292",
+      "horse_name": "パフ",
+      "score": -0.06349175666953323,
+      "horse_number": 3,
+      "odds": 7.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105931",
+      "horse_name": "ギマール",
+      "score": -0.120838127014681,
+      "horse_number": 4,
+      "odds": 12.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103502",
+      "horse_name": "アイウィル",
+      "score": -0.1683749998783056,
+      "horse_number": 1,
+      "odds": 7.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103697",
+      "horse_name": "ロイガヴェーグル",
+      "score": -0.17532702624506524,
+      "horse_number": 6,
+      "odds": 20.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102702",
+      "horse_name": "ストリンジェンド",
+      "score": -0.1816186281677614,
+      "horse_number": 14,
+      "odds": 37.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100739",
+      "horse_name": "ワンダーカモン",
+      "score": -0.21278136440853504,
+      "horse_number": 5,
+      "odds": 41.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100664",
+      "horse_name": "グランキングオー",
+      "score": -0.2618110658424553,
+      "horse_number": 10,
+      "odds": 9.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019102491",
+      "horse_name": "プレイテシア",
+      "score": -0.28689501573480014,
+      "horse_number": 11,
+      "odds": 84.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103829",
+      "horse_name": "キングロコマイカイ",
+      "score": -0.5380023901584303,
+      "horse_number": 15,
+      "odds": 100.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021109113",
+      "horse_name": "アベベ",
+      "score": -0.5785953146685517,
+      "horse_number": 12,
+      "odds": 85.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022109038",
+      "horse_name": "クリノラピダス",
+      "score": -0.5833309696314021,
+      "horse_number": 2,
+      "odds": 78.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021102555",
+      "horse_name": "アースイオス",
+      "score": -0.5836065190735424,
+      "horse_number": 13,
+      "odds": 95.9
+    }
+  ]
+}

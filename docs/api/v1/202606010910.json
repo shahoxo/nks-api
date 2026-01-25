@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010910",
+  "race_name": "江戸川S",
+  "race_time": "2026-01-25 15:01",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020104597",
+      "horse_name": "ショウナンアビアス",
+      "score": 0.4440594108713984,
+      "horse_number": 2,
+      "odds": 5.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110008",
+      "horse_name": "ルディック",
+      "score": 0.3847616477864137,
+      "horse_number": 9,
+      "odds": 5.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019100553",
+      "horse_name": "ドンレパルス",
+      "score": 0.2550182789094291,
+      "horse_number": 4,
+      "odds": 3.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100071",
+      "horse_name": "ワンダラー",
+      "score": 0.23941616034445978,
+      "horse_number": 16,
+      "odds": 4.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101626",
+      "horse_name": "フウセツ",
+      "score": 0.23184039073308038,
+      "horse_number": 14,
+      "odds": 7.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102275",
+      "horse_name": "スタンリーテソーロ",
+      "score": -0.033050676531645895,
+      "horse_number": 8,
+      "odds": 15.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101582",
+      "horse_name": "アンジュフィールド",
+      "score": -0.06752589408814345,
+      "horse_number": 6,
+      "odds": 28.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101639",
+      "horse_name": "ハッピーロンドン",
+      "score": -0.11429124778964417,
+      "horse_number": 3,
+      "odds": 49.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018105860",
+      "horse_name": "メイショウフジタカ",
+      "score": -0.17924075020499922,
+      "horse_number": 12,
+      "odds": 66.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019107016",
+      "horse_name": "ウナギノボリ",
+      "score": -0.2199290616839417,
+      "horse_number": 1,
+      "odds": 43.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105250",
+      "horse_name": "ビルカール",
+      "score": -0.30972076485773364,
+      "horse_number": 10,
+      "odds": 41.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102814",
+      "horse_name": "ジャスリー",
+      "score": -0.3805634906864904,
+      "horse_number": 11,
+      "odds": 54.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018104775",
+      "horse_name": "パルデンス",
+      "score": -0.38688915226600096,
+      "horse_number": 7,
+      "odds": 61.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100316",
+      "horse_name": "アジアミッション",
+      "score": -0.41138339823697745,
+      "horse_number": 15,
+      "odds": 30.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019103815",
+      "horse_name": "スマイルアップ",
+      "score": -0.48794204641586025,
+      "horse_number": 5,
+      "odds": 57.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018106597",
+      "horse_name": "キュムロンニンバス",
+      "score": -0.5434522213856353,
+      "horse_number": 13,
+      "odds": 110.9
+    }
+  ]
+}
