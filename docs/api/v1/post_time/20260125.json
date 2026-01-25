@@ -1,0 +1,352 @@
+[
+  {
+    "race_id": "202606010901",
+    "race_name": "3歳未勝利",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 9,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 10:05:00 +0900"
+  },
+  {
+    "race_id": "202606010902",
+    "race_name": "3歳未勝利",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 9,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 10:35:00 +0900"
+  },
+  {
+    "race_id": "202606010903",
+    "race_name": "3歳未勝利",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 9,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 11:05:00 +0900"
+  },
+  {
+    "race_id": "202606010904",
+    "race_name": "3歳新馬",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 8,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 11:35:00 +0900"
+  },
+  {
+    "race_id": "202606010905",
+    "race_name": "3歳新馬",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 8,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 12:25:00 +0900"
+  },
+  {
+    "race_id": "202606010906",
+    "race_name": "4歳以上1勝クラス",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 7,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 12:55:00 +0900"
+  },
+  {
+    "race_id": "202606010907",
+    "race_name": "4歳以上2勝クラス",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 6,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 13:25:00 +0900"
+  },
+  {
+    "race_id": "202606010908",
+    "race_name": "4歳以上2勝クラス",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 6,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 13:55:00 +0900"
+  },
+  {
+    "race_id": "202606010909",
+    "race_name": "若竹賞",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 7,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 14:25:00 +0900"
+  },
+  {
+    "race_id": "202606010910",
+    "race_name": "江戸川S",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 5,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 15:01:00 +0900"
+  },
+  {
+    "race_id": "202606010911",
+    "race_name": "AJCC",
+    "distance": 2200,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 2,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 15:45:00 +0900"
+  },
+  {
+    "race_id": "202606010912",
+    "race_name": "3歳未勝利",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 9,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 16:25:00 +0900"
+  },
+  {
+    "race_id": "202608010901",
+    "race_name": "3歳未勝利",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "京都",
+    "race_grade": 9,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 10:55:00 +0900"
+  },
+  {
+    "race_id": "202608010902",
+    "race_name": "3歳未勝利",
+    "distance": 1900,
+    "track_surface": 2,
+    "race_place": "京都",
+    "race_grade": 9,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 11:20:00 +0900"
+  },
+  {
+    "race_id": "202608010903",
+    "race_name": "3歳未勝利",
+    "distance": 1400,
+    "track_surface": 2,
+    "race_place": "京都",
+    "race_grade": 9,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 11:45:00 +0900"
+  },
+  {
+    "race_id": "202608010904",
+    "race_name": "3歳未勝利",
+    "distance": 1400,
+    "track_surface": 2,
+    "race_place": "京都",
+    "race_grade": 9,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 12:10:00 +0900"
+  },
+  {
+    "race_id": "202608010905",
+    "race_name": "3歳新馬",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "京都",
+    "race_grade": 8,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 12:40:00 +0900"
+  },
+  {
+    "race_id": "202608010906",
+    "race_name": "4歳以上1勝クラス",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "京都",
+    "race_grade": 7,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 13:05:00 +0900"
+  },
+  {
+    "race_id": "202608010907",
+    "race_name": "4歳以上2勝クラス",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "京都",
+    "race_grade": 6,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 13:30:00 +0900"
+  },
+  {
+    "race_id": "202608010908",
+    "race_name": "4歳以上2勝クラス",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "京都",
+    "race_grade": 6,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 13:55:00 +0900"
+  },
+  {
+    "race_id": "202608010909",
+    "race_name": "河津桜賞",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "京都",
+    "race_grade": 7,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 14:20:00 +0900"
+  },
+  {
+    "race_id": "202608010910",
+    "race_name": "山城S",
+    "distance": 1400,
+    "track_surface": 1,
+    "race_place": "京都",
+    "race_grade": 5,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 14:50:00 +0900"
+  },
+  {
+    "race_id": "202608010911",
+    "race_name": "プロキオンS",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "京都",
+    "race_grade": 2,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 15:30:00 +0900"
+  },
+  {
+    "race_id": "202608010912",
+    "race_name": "4歳以上1勝クラス",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "京都",
+    "race_grade": 7,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 16:10:00 +0900"
+  },
+  {
+    "race_id": "202610010201",
+    "race_name": "3歳未勝利",
+    "distance": 1700,
+    "track_surface": 2,
+    "race_place": "小倉",
+    "race_grade": 9,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 09:45:00 +0900"
+  },
+  {
+    "race_id": "202610010202",
+    "race_name": "3歳未勝利",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 9,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 10:15:00 +0900"
+  },
+  {
+    "race_id": "202610010203",
+    "race_name": "4歳以上1勝クラス",
+    "distance": 1000,
+    "track_surface": 2,
+    "race_place": "小倉",
+    "race_grade": 7,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 10:45:00 +0900"
+  },
+  {
+    "race_id": "202610010205",
+    "race_name": "3歳新馬",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 8,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 12:05:00 +0900"
+  },
+  {
+    "race_id": "202610010206",
+    "race_name": "3歳未勝利",
+    "distance": 1700,
+    "track_surface": 2,
+    "race_place": "小倉",
+    "race_grade": 9,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 12:35:00 +0900"
+  },
+  {
+    "race_id": "202610010207",
+    "race_name": "3歳未勝利",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 9,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 13:05:00 +0900"
+  },
+  {
+    "race_id": "202610010208",
+    "race_name": "4歳以上1勝クラス",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 7,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 13:35:00 +0900"
+  },
+  {
+    "race_id": "202610010209",
+    "race_name": "八幡特別",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 7,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 14:05:00 +0900"
+  },
+  {
+    "race_id": "202610010210",
+    "race_name": "響灘特別",
+    "distance": 1700,
+    "track_surface": 2,
+    "race_place": "小倉",
+    "race_grade": 6,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 14:40:00 +0900"
+  },
+  {
+    "race_id": "202610010211",
+    "race_name": "壇之浦S",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 5,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 15:15:00 +0900"
+  },
+  {
+    "race_id": "202610010212",
+    "race_name": "4歳以上1勝クラス",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 7,
+    "race_date": "2026-01-25",
+    "race_time": "2026-01-25 16:01:00 +0900"
+  }
+]
