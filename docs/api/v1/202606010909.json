@@ -1,0 +1,104 @@
+{
+  "race_id": "202606010909",
+  "race_name": "若竹賞",
+  "race_time": "2026-01-25 14:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107228",
+      "horse_name": "ウップヘリーア",
+      "score": 0.4979890549575433,
+      "horse_number": 5,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102178",
+      "horse_name": "タイキルッジェーロ",
+      "score": 0.3514561654978282,
+      "horse_number": 2,
+      "odds": 10.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103817",
+      "horse_name": "ブレナヴォン",
+      "score": 0.27831513477014824,
+      "horse_number": 1,
+      "odds": 3.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100207",
+      "horse_name": "マイネルシンベリン",
+      "score": 0.08867180990660119,
+      "horse_number": 4,
+      "odds": 13.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103388",
+      "horse_name": "ブライトフレア",
+      "score": 0.0850751796307048,
+      "horse_number": 10,
+      "odds": 20.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100954",
+      "horse_name": "テルケンレンスキー",
+      "score": 0.06203501966360441,
+      "horse_number": 6,
+      "odds": 14.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103761",
+      "horse_name": "サントルドパリ",
+      "score": 0.023519346442627487,
+      "horse_number": 11,
+      "odds": 6.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103472",
+      "horse_name": "ドナルンバ",
+      "score": 0.014613934783485029,
+      "horse_number": 3,
+      "odds": 24.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106412",
+      "horse_name": "ユメシルベ",
+      "score": 0.001973213762374533,
+      "horse_number": 7,
+      "odds": 11.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103595",
+      "horse_name": "ルージュカルデア",
+      "score": -0.07984034586899602,
+      "horse_number": 12,
+      "odds": 17.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106439",
+      "horse_name": "マイネルマスター",
+      "score": -0.3504029346385405,
+      "horse_number": 8,
+      "odds": 29.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102477",
+      "horse_name": "ストロングエース",
+      "score": -0.5194639505781294,
+      "horse_number": 9,
+      "odds": 125.9
+    }
+  ]
+}

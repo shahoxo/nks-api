@@ -1,0 +1,128 @@
+{
+  "race_id": "202606010908",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-01-25 13:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103670",
+      "horse_name": "ショウナンハクウン",
+      "score": 0.49322290839183625,
+      "horse_number": 5,
+      "odds": 6.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110111",
+      "horse_name": "ジャスパーソレイユ",
+      "score": 0.4708466243801098,
+      "horse_number": 8,
+      "odds": 7.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105441",
+      "horse_name": "ハードセルツァー",
+      "score": 0.17724599665200969,
+      "horse_number": 2,
+      "odds": 2.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019105041",
+      "horse_name": "ホウオウプレミア",
+      "score": 0.09045760208831852,
+      "horse_number": 9,
+      "odds": 12.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100245",
+      "horse_name": "ヤマメキング",
+      "score": 0.04217801613139119,
+      "horse_number": 11,
+      "odds": 34.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103595",
+      "horse_name": "ビーコング",
+      "score": 0.023787339611510576,
+      "horse_number": 12,
+      "odds": 26.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103937",
+      "horse_name": "ラヴァグロウ",
+      "score": -0.10778004203368066,
+      "horse_number": 3,
+      "odds": 49.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103220",
+      "horse_name": "ニタモノドウシ",
+      "score": -0.16112458373809502,
+      "horse_number": 14,
+      "odds": 3.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104546",
+      "horse_name": "サードウインド",
+      "score": -0.19859487023347833,
+      "horse_number": 15,
+      "odds": 41.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019102321",
+      "horse_name": "キングクー",
+      "score": -0.2618110658424553,
+      "horse_number": 7,
+      "odds": 74.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100144",
+      "horse_name": "ロードトレゾール",
+      "score": -0.3055447210030854,
+      "horse_number": 6,
+      "odds": 22.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019102163",
+      "horse_name": "フォーワンセルフ",
+      "score": -0.43398306278638776,
+      "horse_number": 4,
+      "odds": 101.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103549",
+      "horse_name": "ホウオウフロイト",
+      "score": -0.49019013554301183,
+      "horse_number": 13,
+      "odds": 100.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103739",
+      "horse_name": "ゲクウ",
+      "score": -0.49849086559087324,
+      "horse_number": 10,
+      "odds": 238.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103710",
+      "horse_name": "ヘルメース",
+      "score": -0.5463238481211652,
+      "horse_number": 1,
+      "odds": 28.9
+    }
+  ]
+}

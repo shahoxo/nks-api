@@ -1,0 +1,136 @@
+{
+  "race_id": "202610010209",
+  "race_name": "八幡特別",
+  "race_time": "2026-01-25 14:05",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105398",
+      "horse_name": "セゾンデフィーユ",
+      "score": 0.22571182910683707,
+      "horse_number": 2,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105583",
+      "horse_name": "セイプリーズ",
+      "score": 0.05326176698105402,
+      "horse_number": 1,
+      "odds": 9.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102770",
+      "horse_name": "セディバン",
+      "score": 0.050808186205100574,
+      "horse_number": 7,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104197",
+      "horse_name": "カウンターセブン",
+      "score": 0.029431097809494773,
+      "horse_number": 13,
+      "odds": 14.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103899",
+      "horse_name": "グリフォン",
+      "score": 0.017692816105129808,
+      "horse_number": 8,
+      "odds": 20.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100415",
+      "horse_name": "スウィートリワード",
+      "score": 0.0017508631099386442,
+      "horse_number": 9,
+      "odds": 21.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106389",
+      "horse_name": "ベルビースタローン",
+      "score": -0.005995492566425687,
+      "horse_number": 6,
+      "odds": 5.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105212",
+      "horse_name": "エコロハート",
+      "score": -0.020099682566710998,
+      "horse_number": 5,
+      "odds": 9.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106605",
+      "horse_name": "ヤマニンレセディ",
+      "score": -0.05930863609321733,
+      "horse_number": 10,
+      "odds": 11.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103261",
+      "horse_name": "アウクソー",
+      "score": -0.17235440147887096,
+      "horse_number": 14,
+      "odds": 33.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106690",
+      "horse_name": "ペルフェツィオーネ",
+      "score": -0.27520469445176654,
+      "horse_number": 16,
+      "odds": 31.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103885",
+      "horse_name": "クリノゴッホ",
+      "score": -0.30361979436548253,
+      "horse_number": 15,
+      "odds": 57.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101595",
+      "horse_name": "ヴィヴァクラウン",
+      "score": -0.366436362913817,
+      "horse_number": 11,
+      "odds": 39.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105956",
+      "horse_name": "ロンドンアームズ",
+      "score": -0.4362557942803132,
+      "horse_number": 12,
+      "odds": 55.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105559",
+      "horse_name": "パーリーラスター",
+      "score": -0.52652520084418,
+      "horse_number": 3,
+      "odds": 60.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020102269",
+      "horse_name": "ツィスカリーゼ",
+      "score": -0.5808237938692197,
+      "horse_number": 4,
+      "odds": 99.4
+    }
+  ]
+}
