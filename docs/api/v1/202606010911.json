@@ -1,0 +1,136 @@
+{
+  "race_id": "202606010911",
+  "race_name": "AJCC",
+  "race_time": "2026-01-25 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019105556",
+      "horse_name": "ドゥラドーレス",
+      "score": 0.5233146345745111,
+      "horse_number": 14,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104714",
+      "horse_name": "ショウヘイ",
+      "score": 0.453635360795809,
+      "horse_number": 9,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104324",
+      "horse_name": "ディマイザキッド",
+      "score": 0.19532921072646361,
+      "horse_number": 12,
+      "odds": 8.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103995",
+      "horse_name": "ジョバンニ",
+      "score": 0.1136329626558673,
+      "horse_number": 4,
+      "odds": 5.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019102879",
+      "horse_name": "マテンロウレオ",
+      "score": 0.11124281479906852,
+      "horse_number": 5,
+      "odds": 10.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018104609",
+      "horse_name": "チャックネイト",
+      "score": 0.025765850611210797,
+      "horse_number": 1,
+      "odds": 20.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105786",
+      "horse_name": "マイネルエンペラー",
+      "score": -0.005756404214155575,
+      "horse_number": 3,
+      "odds": 8.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104218",
+      "horse_name": "ファウストラーゼン",
+      "score": -0.034977699502938914,
+      "horse_number": 15,
+      "odds": 12.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018104913",
+      "horse_name": "アルビージャ",
+      "score": -0.1090502560242185,
+      "horse_number": 13,
+      "odds": 102.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2017100464",
+      "horse_name": "エヒト",
+      "score": -0.17975646489005448,
+      "horse_number": 16,
+      "odds": 146.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100254",
+      "horse_name": "ニシノレヴナント",
+      "score": -0.1863799339768535,
+      "horse_number": 11,
+      "odds": 49.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105750",
+      "horse_name": "マイネルメモリー",
+      "score": -0.1946932318858167,
+      "horse_number": 7,
+      "odds": 145.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018102348",
+      "horse_name": "ノースブリッジ",
+      "score": -0.2501430036677939,
+      "horse_number": 10,
+      "odds": 33.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019105775",
+      "horse_name": "ホウオウノーサイド",
+      "score": -0.413425035201559,
+      "horse_number": 2,
+      "odds": 220.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019101422",
+      "horse_name": "サンストックトン",
+      "score": -0.443857319032962,
+      "horse_number": 6,
+      "odds": 233.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018101010",
+      "horse_name": "アウスヴァール",
+      "score": -0.5544763347990807,
+      "horse_number": 8,
+      "odds": 105.6
+    }
+  ]
+}

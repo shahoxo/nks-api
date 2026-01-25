@@ -1,0 +1,120 @@
+{
+  "race_id": "202610010212",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-25 16:01",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106817",
+      "horse_name": "マイネルアレス",
+      "score": 0.20645906857927915,
+      "horse_number": 10,
+      "odds": 5.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020107017",
+      "horse_name": "エイシンジェンマ",
+      "score": 0.11691934627605284,
+      "horse_number": 3,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103288",
+      "horse_name": "ヤコブセン",
+      "score": -0.05376109597438043,
+      "horse_number": 8,
+      "odds": 5.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102785",
+      "horse_name": "イゾレエオリア",
+      "score": -0.10039925455328505,
+      "horse_number": 2,
+      "odds": 15.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104980",
+      "horse_name": "ダノンピクチャー",
+      "score": -0.12589033942330932,
+      "horse_number": 14,
+      "odds": 16.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105525",
+      "horse_name": "モルビド",
+      "score": -0.14355944927582415,
+      "horse_number": 6,
+      "odds": 13.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106751",
+      "horse_name": "プレデスティナーレ",
+      "score": -0.14987580754258142,
+      "horse_number": 7,
+      "odds": 34.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106811",
+      "horse_name": "マイネルアウルム",
+      "score": -0.2309600766490295,
+      "horse_number": 13,
+      "odds": 9.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100128",
+      "horse_name": "サラダ",
+      "score": -0.2854632979659986,
+      "horse_number": 11,
+      "odds": 11.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100621",
+      "horse_name": "マイバラード",
+      "score": -0.342842885054878,
+      "horse_number": 5,
+      "odds": 20.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105360",
+      "horse_name": "アロガントシェイム",
+      "score": -0.5216582948615223,
+      "horse_number": 9,
+      "odds": 53.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103037",
+      "horse_name": "デリシュー",
+      "score": -0.5313687769206885,
+      "horse_number": 1,
+      "odds": 21.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101029",
+      "horse_name": "アスクメークシェア",
+      "score": -0.6404380019433618,
+      "horse_number": 4,
+      "odds": 12.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105176",
+      "horse_name": "ジーティービジン",
+      "score": -0.6855555464699744,
+      "horse_number": 12,
+      "odds": 49.2
+    }
+  ]
+}
