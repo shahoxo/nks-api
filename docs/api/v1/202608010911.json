@@ -1,0 +1,136 @@
+{
+  "race_id": "202608010911",
+  "race_name": "プロキオンS",
+  "race_time": "2026-01-25 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103331",
+      "horse_name": "ジェイパームス",
+      "score": 0.3558725558354963,
+      "horse_number": 10,
+      "odds": 6.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020106565",
+      "horse_name": "ブライアンセンス",
+      "score": 0.18972499033055756,
+      "horse_number": 9,
+      "odds": 6.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100169",
+      "horse_name": "ロードクロンヌ",
+      "score": 0.14175163073871042,
+      "horse_number": 13,
+      "odds": 4.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104497",
+      "horse_name": "サイモンザナドゥ",
+      "score": 0.1291990073918948,
+      "horse_number": 2,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102874",
+      "horse_name": "ハナウマビーチ",
+      "score": 0.11601764192790634,
+      "horse_number": 5,
+      "odds": 20.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019100630",
+      "horse_name": "ハピ",
+      "score": 0.060094040561731926,
+      "horse_number": 14,
+      "odds": 16.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105630",
+      "horse_name": "ルシュヴァルドール",
+      "score": 0.057769580617134816,
+      "horse_number": 1,
+      "odds": 13.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101694",
+      "horse_name": "シゲルショウグン",
+      "score": 0.039518474586239444,
+      "horse_number": 12,
+      "odds": 7.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019101324",
+      "horse_name": "テーオードレフォン",
+      "score": -0.07263344849186852,
+      "horse_number": 4,
+      "odds": 97.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102236",
+      "horse_name": "テーオーパスワード",
+      "score": -0.10954681886146973,
+      "horse_number": 7,
+      "odds": 10.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104245",
+      "horse_name": "ペイシャエス",
+      "score": -0.11889644094117685,
+      "horse_number": 11,
+      "odds": 36.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103400",
+      "horse_name": "セラフィックコール",
+      "score": -0.13981528596669007,
+      "horse_number": 15,
+      "odds": 12.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104136",
+      "horse_name": "サンデーファンデー",
+      "score": -0.142519202135327,
+      "horse_number": 16,
+      "odds": 56.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104678",
+      "horse_name": "クラウンプライド",
+      "score": -0.14825117093574702,
+      "horse_number": 6,
+      "odds": 39.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019101198",
+      "horse_name": "マリオロード",
+      "score": -0.3160426891536351,
+      "horse_number": 8,
+      "odds": 158.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020100960",
+      "horse_name": "マーブルロック",
+      "score": -0.525360778664734,
+      "horse_number": 3,
+      "odds": 140.1
+    }
+  ]
+}
