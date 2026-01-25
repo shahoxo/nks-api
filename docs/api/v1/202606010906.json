@@ -1,0 +1,128 @@
+{
+  "race_id": "202606010906",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-25 12:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103232",
+      "horse_name": "ドゥマーヴェリック",
+      "score": 0.4789110859659511,
+      "horse_number": 5,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103376",
+      "horse_name": "ブレードサクセス",
+      "score": 0.04772590171828822,
+      "horse_number": 12,
+      "odds": 9.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106951",
+      "horse_name": "ブレゲアン",
+      "score": -0.029546017251665713,
+      "horse_number": 1,
+      "odds": 7.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103129",
+      "horse_name": "マリンバンカー",
+      "score": -0.08580963354614142,
+      "horse_number": 10,
+      "odds": 8.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101195",
+      "horse_name": "コーリンカルベラ",
+      "score": -0.12003529354616826,
+      "horse_number": 9,
+      "odds": 22.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020104748",
+      "horse_name": "ファルコンミノル",
+      "score": -0.13741788174507197,
+      "horse_number": 13,
+      "odds": 9.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103208",
+      "horse_name": "プルメリアクヒオ",
+      "score": -0.23407680549657253,
+      "horse_number": 14,
+      "odds": 32.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106677",
+      "horse_name": "カガバベル",
+      "score": -0.46710676761232317,
+      "horse_number": 7,
+      "odds": 97.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100182",
+      "horse_name": "ティアップドライブ",
+      "score": -0.5288413384287328,
+      "horse_number": 8,
+      "odds": 71.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104285",
+      "horse_name": "リーゼントジェイド",
+      "score": -0.5671792507086791,
+      "horse_number": 6,
+      "odds": 86.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100730",
+      "horse_name": "コスモフレディ",
+      "score": -0.569470717884104,
+      "horse_number": 4,
+      "odds": 33.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104354",
+      "horse_name": "ジャクソン",
+      "score": -0.5786341531639164,
+      "horse_number": 11,
+      "odds": 44.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021110040",
+      "horse_name": "メトロポリターナ",
+      "score": -0.602296908985891,
+      "horse_number": 15,
+      "odds": 69.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101909",
+      "horse_name": "パルヴェニュー",
+      "score": -0.6185859102063048,
+      "horse_number": 3,
+      "odds": 192.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022110018",
+      "horse_name": "サカイシューター",
+      "score": -0.7344997899121097,
+      "horse_number": 2,
+      "odds": 136.0
+    }
+  ]
+}

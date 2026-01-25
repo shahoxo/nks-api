@@ -1,0 +1,152 @@
+{
+  "race_id": "202610010207",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-25 13:05",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106941",
+      "horse_name": "ノンブルドール",
+      "score": 0.24024155758846788,
+      "horse_number": 16,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101591",
+      "horse_name": "アストリル",
+      "score": 0.2321513640902515,
+      "horse_number": 18,
+      "odds": 9.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101382",
+      "horse_name": "ドッグウッド",
+      "score": 0.19216124407254756,
+      "horse_number": 8,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105513",
+      "horse_name": "エイシンビーコン",
+      "score": 0.14996674847309002,
+      "horse_number": 4,
+      "odds": 13.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102771",
+      "horse_name": "2023102771",
+      "score": 0.09685067050783126,
+      "horse_number": 10,
+      "odds": 10.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103488",
+      "horse_name": "シュプリームレルム",
+      "score": -0.17347978294158448,
+      "horse_number": 11,
+      "odds": 11.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102718",
+      "horse_name": "レイワノキセキ",
+      "score": -0.28210406295175516,
+      "horse_number": 2,
+      "odds": 16.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103679",
+      "horse_name": "2023103679",
+      "score": -0.2990202511781036,
+      "horse_number": 1,
+      "odds": 10.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102170",
+      "horse_name": "ビレッジルイーザ",
+      "score": -0.31008098230194253,
+      "horse_number": 14,
+      "odds": 21.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102336",
+      "horse_name": "ダンシングアウェイ",
+      "score": -0.3438904642853175,
+      "horse_number": 6,
+      "odds": 23.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102028",
+      "horse_name": "2023102028",
+      "score": -0.3485955747894508,
+      "horse_number": 13,
+      "odds": 28.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100619",
+      "horse_name": "フェーヴルブラン",
+      "score": -0.44423946971171646,
+      "horse_number": 15,
+      "odds": 20.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105418",
+      "horse_name": "ビップヴォルフ",
+      "score": -0.465746936543164,
+      "horse_number": 12,
+      "odds": 27.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105853",
+      "horse_name": "ウインアベリア",
+      "score": -0.47457029304639925,
+      "horse_number": 9,
+      "odds": 27.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102697",
+      "horse_name": "ビアリッツ",
+      "score": -0.4751875038977894,
+      "horse_number": 7,
+      "odds": 64.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023103842",
+      "horse_name": "エルファリス",
+      "score": -0.49679794587460246,
+      "horse_number": 5,
+      "odds": 45.9
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023100494",
+      "horse_name": "ピカソジャスパー",
+      "score": -0.5741361404475822,
+      "horse_number": 17,
+      "odds": 137.7
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023105860",
+      "horse_name": "ウインシャリーフ",
+      "score": -0.6011408789813671,
+      "horse_number": 3,
+      "odds": 86.3
+    }
+  ]
+}

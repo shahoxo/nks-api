@@ -1,0 +1,96 @@
+{
+  "race_id": "202610010206",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-25 12:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105279",
+      "horse_name": "アニマレイ",
+      "score": 0.12127546520140156,
+      "horse_number": 9,
+      "odds": 7.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105786",
+      "horse_name": "ロードアマルフィ",
+      "score": 0.006992480474266237,
+      "horse_number": 7,
+      "odds": 1.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102773",
+      "horse_name": "ハイビッグゴールド",
+      "score": -0.17128940430519846,
+      "horse_number": 3,
+      "odds": 12.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100596",
+      "horse_name": "ジャーナーリア",
+      "score": -0.21712950039898413,
+      "horse_number": 5,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100297",
+      "horse_name": "ブラックレジェンド",
+      "score": -0.2454982141213855,
+      "horse_number": 8,
+      "odds": 6.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103374",
+      "horse_name": "カレンショー",
+      "score": -0.38048986666837903,
+      "horse_number": 11,
+      "odds": 37.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107450",
+      "horse_name": "ユウトザケンケン",
+      "score": -0.4302123777707988,
+      "horse_number": 1,
+      "odds": 23.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101940",
+      "horse_name": "メイショウゲッコウ",
+      "score": -0.433549772748558,
+      "horse_number": 4,
+      "odds": 20.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104570",
+      "horse_name": "ハッピーブルー",
+      "score": -0.5139978928314399,
+      "horse_number": 10,
+      "odds": 53.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104989",
+      "horse_name": "メイショウルーク",
+      "score": -0.5906374213475926,
+      "horse_number": 6,
+      "odds": 58.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103837",
+      "horse_name": "ランブリングマン",
+      "score": -0.6665961087376128,
+      "horse_number": 2,
+      "odds": 81.3
+    }
+  ]
+}
