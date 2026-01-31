@@ -1,0 +1,80 @@
+{
+  "race_id": "202608020102",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-31 10:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102452",
+      "horse_name": "コスモブラック",
+      "score": 0.3128137586627542,
+      "horse_number": 2,
+      "odds": 1.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100771",
+      "horse_name": "マジックファイヤー",
+      "score": 0.05937425352951266,
+      "horse_number": 7,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103180",
+      "horse_name": "メイショウソウテン",
+      "score": -0.16098711761159573,
+      "horse_number": 9,
+      "odds": 8.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105468",
+      "horse_name": "アーサーバローズ",
+      "score": -0.22627066525578932,
+      "horse_number": 5,
+      "odds": 12.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104282",
+      "horse_name": "ハクアイタワー",
+      "score": -0.25547467288257025,
+      "horse_number": 8,
+      "odds": 24.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100530",
+      "horse_name": "カセノナユタ",
+      "score": -0.6997242947219148,
+      "horse_number": 1,
+      "odds": 81.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104905",
+      "horse_name": "テイエムプレミラン",
+      "score": -0.7265140734648036,
+      "horse_number": 4,
+      "odds": 27.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102050",
+      "horse_name": "サイモングリーマン",
+      "score": -0.7326014373747041,
+      "horse_number": 6,
+      "odds": 70.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102089",
+      "horse_name": "バンブトンコール",
+      "score": -0.7344997899121097,
+      "horse_number": 3,
+      "odds": 71.9
+    }
+  ]
+}

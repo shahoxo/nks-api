@@ -1,0 +1,112 @@
+{
+  "race_id": "202608020103",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-31 10:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105339",
+      "horse_name": "カルロット",
+      "score": 0.356101066659378,
+      "horse_number": 7,
+      "odds": 2.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103764",
+      "horse_name": "ゴディアンフィンチ",
+      "score": 0.0885923055458355,
+      "horse_number": 5,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103810",
+      "horse_name": "キャッチアシーフ",
+      "score": 0.06562940835814877,
+      "horse_number": 4,
+      "odds": 9.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103163",
+      "horse_name": "キープシャイニング",
+      "score": 0.018864048152109368,
+      "horse_number": 12,
+      "odds": 5.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100107",
+      "horse_name": "2023100107",
+      "score": 0.018479443887445796,
+      "horse_number": 11,
+      "odds": 29.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103393",
+      "horse_name": "ヴァルボリ",
+      "score": -0.36824836448479525,
+      "horse_number": 8,
+      "odds": 13.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101883",
+      "horse_name": "ハギノクリーガー",
+      "score": -0.411695867291867,
+      "horse_number": 1,
+      "odds": 45.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102188",
+      "horse_name": "ワイドシャッフエン",
+      "score": -0.5005537292501266,
+      "horse_number": 10,
+      "odds": 36.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103545",
+      "horse_name": "ファビュラスベガス",
+      "score": -0.5494730862079602,
+      "horse_number": 6,
+      "odds": 42.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105753",
+      "horse_name": "アデルフィー",
+      "score": -0.5783892237022068,
+      "horse_number": 3,
+      "odds": 15.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101349",
+      "horse_name": "シンクシビリティ",
+      "score": -0.6316458106269672,
+      "horse_number": 9,
+      "odds": 62.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104967",
+      "horse_name": "アシャカルー",
+      "score": -0.7212483613895885,
+      "horse_number": 2,
+      "odds": 49.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102554",
+      "horse_name": "イチザペガサス",
+      "score": -0.7560238565797833,
+      "horse_number": 13,
+      "odds": 148.4
+    }
+  ]
+}

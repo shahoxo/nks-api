@@ -1,0 +1,136 @@
+{
+  "race_id": "202610010303",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-31 10:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103911",
+      "horse_name": "ショウナンタハティ",
+      "score": 0.08531329551645665,
+      "horse_number": 13,
+      "odds": 16.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101445",
+      "horse_name": "マテンロウカナロア",
+      "score": 0.032710361900988215,
+      "horse_number": 2,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104176",
+      "horse_name": "チャチャピンク",
+      "score": -0.11146919369830509,
+      "horse_number": 11,
+      "odds": 12.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105772",
+      "horse_name": "ホウオウバローロ",
+      "score": -0.1213990579552697,
+      "horse_number": 7,
+      "odds": 5.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110012",
+      "horse_name": "マジカルシャイン",
+      "score": -0.13016740219316514,
+      "horse_number": 9,
+      "odds": 15.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105443",
+      "horse_name": "モレポブラーノ",
+      "score": -0.1420036766748414,
+      "horse_number": 6,
+      "odds": 7.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022110061",
+      "horse_name": "ブレスドナイル",
+      "score": -0.22002552583769325,
+      "horse_number": 15,
+      "odds": 14.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110123",
+      "horse_name": "アメリカンチーフ",
+      "score": -0.22035303138909249,
+      "horse_number": 10,
+      "odds": 12.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105343",
+      "horse_name": "デルマサクラサク",
+      "score": -0.26590785684001284,
+      "horse_number": 12,
+      "odds": 40.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100497",
+      "horse_name": "スマートブル",
+      "score": -0.3643602764479464,
+      "horse_number": 3,
+      "odds": 9.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102639",
+      "horse_name": "ロードシュヴァリエ",
+      "score": -0.44815301385547934,
+      "horse_number": 5,
+      "odds": 18.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103586",
+      "horse_name": "ガウラスパーク",
+      "score": -0.4530426498486433,
+      "horse_number": 4,
+      "odds": 30.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104474",
+      "horse_name": "ハイグッドワールド",
+      "score": -0.48512116369810954,
+      "horse_number": 14,
+      "odds": 29.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021110002",
+      "horse_name": "ワールドシリーズ",
+      "score": -0.49557253167789905,
+      "horse_number": 8,
+      "odds": 22.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100387",
+      "horse_name": "マーベリックシチー",
+      "score": -0.5042726949487265,
+      "horse_number": 1,
+      "odds": 16.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021107279",
+      "horse_name": "トクシージェネラル",
+      "score": -0.508474355450683,
+      "horse_number": 16,
+      "odds": 23.1
+    }
+  ]
+}

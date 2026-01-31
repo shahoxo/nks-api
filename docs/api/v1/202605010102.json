@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010102",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-31 10:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104062",
+      "horse_name": "カージオイド",
+      "score": 0.12101590858567995,
+      "horse_number": 11,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106707",
+      "horse_name": "ヴァズレーヌ",
+      "score": 0.002799298254000473,
+      "horse_number": 13,
+      "odds": 12.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103017",
+      "horse_name": "オウケンシルヴァー",
+      "score": -0.03449822499353378,
+      "horse_number": 7,
+      "odds": 9.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102263",
+      "horse_name": "カスバートテソーロ",
+      "score": -0.05591664618843552,
+      "horse_number": 10,
+      "odds": 15.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102227",
+      "horse_name": "アリステア",
+      "score": -0.10434914435594762,
+      "horse_number": 1,
+      "odds": 28.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105337",
+      "horse_name": "カサビセンス",
+      "score": -0.13906867897230868,
+      "horse_number": 9,
+      "odds": 21.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106359",
+      "horse_name": "ラントレイル",
+      "score": -0.14183869313606673,
+      "horse_number": 14,
+      "odds": 10.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104850",
+      "horse_name": "セージグリーン",
+      "score": -0.32081920952018705,
+      "horse_number": 8,
+      "odds": 63.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103119",
+      "horse_name": "ディズレーリ",
+      "score": -0.37760256185133545,
+      "horse_number": 3,
+      "odds": 27.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102058",
+      "horse_name": "スマートクオーレ",
+      "score": -0.38043543891452886,
+      "horse_number": 5,
+      "odds": 7.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102772",
+      "horse_name": "ヴェラグエリエロ",
+      "score": -0.38777358462893585,
+      "horse_number": 2,
+      "odds": 24.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101201",
+      "horse_name": "ロードインフェルノ",
+      "score": -0.4319857822942613,
+      "horse_number": 4,
+      "odds": 57.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101814",
+      "horse_name": "ナムラジミー",
+      "score": -0.44369504248303604,
+      "horse_number": 15,
+      "odds": 14.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105197",
+      "horse_name": "マウントバーノン",
+      "score": -0.45176586166420796,
+      "horse_number": 12,
+      "odds": 15.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106337",
+      "horse_name": "ダブルメッセージ",
+      "score": -0.605532600853436,
+      "horse_number": 16,
+      "odds": 41.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102991",
+      "horse_name": "カイトヴィント",
+      "score": -0.6293301629666437,
+      "horse_number": 6,
+      "odds": 93.3
+    }
+  ]
+}
