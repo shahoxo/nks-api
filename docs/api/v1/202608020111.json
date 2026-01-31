@@ -1,0 +1,112 @@
+{
+  "race_id": "202608020111",
+  "race_name": "舞鶴S",
+  "race_time": "2026-01-31 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105028",
+      "horse_name": "プロミストジーン",
+      "score": 0.4407624583672668,
+      "horse_number": 9,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105738",
+      "horse_name": "ロフティストーリー",
+      "score": 0.3704208339774473,
+      "horse_number": 2,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102123",
+      "horse_name": "モズカトレア",
+      "score": 0.19616459200559794,
+      "horse_number": 5,
+      "odds": 2.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105058",
+      "horse_name": "ルージュアベリア",
+      "score": -0.07347356365350285,
+      "horse_number": 13,
+      "odds": 8.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103355",
+      "horse_name": "エイシンナデシコ",
+      "score": -0.09769378127534747,
+      "horse_number": 10,
+      "odds": 13.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105255",
+      "horse_name": "ハワイアンティアレ",
+      "score": -0.10584107881531013,
+      "horse_number": 11,
+      "odds": 19.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103247",
+      "horse_name": "メテオールライト",
+      "score": -0.11297751284249277,
+      "horse_number": 12,
+      "odds": 63.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102317",
+      "horse_name": "サイモンブーケ",
+      "score": -0.14628257418002005,
+      "horse_number": 3,
+      "odds": 126.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106604",
+      "horse_name": "スミ",
+      "score": -0.21956762664618862,
+      "horse_number": 1,
+      "odds": 37.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103881",
+      "horse_name": "ツキノアカリ",
+      "score": -0.32369244667333963,
+      "horse_number": 7,
+      "odds": 19.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103127",
+      "horse_name": "フラッパールック",
+      "score": -0.3672439239402536,
+      "horse_number": 8,
+      "odds": 62.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101209",
+      "horse_name": "メイショウオーロラ",
+      "score": -0.5037695224472176,
+      "horse_number": 6,
+      "odds": 69.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106896",
+      "horse_name": "メイショウポペット",
+      "score": -0.5520003421025013,
+      "horse_number": 4,
+      "odds": 91.9
+    }
+  ]
+}

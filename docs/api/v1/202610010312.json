@@ -1,0 +1,136 @@
+{
+  "race_id": "202610010312",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-01-31 16:01",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104973",
+      "horse_name": "バズアップビート",
+      "score": 0.12124338437734827,
+      "horse_number": 16,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100081",
+      "horse_name": "マイネルビスマルク",
+      "score": 0.07980871916477501,
+      "horse_number": 3,
+      "odds": 16.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102573",
+      "horse_name": "メイショウアイル",
+      "score": 0.07499120199271164,
+      "horse_number": 9,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019100915",
+      "horse_name": "ゼンノインヴォーク",
+      "score": 0.07294349227921892,
+      "horse_number": 14,
+      "odds": 8.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104936",
+      "horse_name": "エンスエーニョ",
+      "score": 0.0725570631643518,
+      "horse_number": 10,
+      "odds": 11.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104855",
+      "horse_name": "エンジェルマーク",
+      "score": 0.03478272421278334,
+      "horse_number": 15,
+      "odds": 14.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105543",
+      "horse_name": "フララナキラ",
+      "score": 0.013060137801898075,
+      "horse_number": 6,
+      "odds": 14.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106828",
+      "horse_name": "マイネルゼウス",
+      "score": -0.023765137438779085,
+      "horse_number": 4,
+      "odds": 8.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101059",
+      "horse_name": "アクイローネ",
+      "score": -0.09645232816341781,
+      "horse_number": 8,
+      "odds": 25.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105113",
+      "horse_name": "ダノンアトラス",
+      "score": -0.21667009407831092,
+      "horse_number": 11,
+      "odds": 26.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105123",
+      "horse_name": "デビューフライト",
+      "score": -0.2741765052511157,
+      "horse_number": 5,
+      "odds": 61.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102802",
+      "horse_name": "イリスレーン",
+      "score": -0.29901190980253606,
+      "horse_number": 1,
+      "odds": 31.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105817",
+      "horse_name": "アルディスティーノ",
+      "score": -0.30766048419149006,
+      "horse_number": 2,
+      "odds": 11.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105083",
+      "horse_name": "フェアリーグレン",
+      "score": -0.5086134871472094,
+      "horse_number": 13,
+      "odds": 64.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106221",
+      "horse_name": "ウインイルネージュ",
+      "score": -0.5520430906815742,
+      "horse_number": 7,
+      "odds": 35.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104664",
+      "horse_name": "マーゴットコマチ",
+      "score": -0.5970618435386312,
+      "horse_number": 12,
+      "odds": 44.1
+    }
+  ]
+}

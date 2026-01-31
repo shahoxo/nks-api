@@ -1,0 +1,88 @@
+{
+  "race_id": "202605010111",
+  "race_name": "白富士S",
+  "race_time": "2026-01-31 15:45",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104655",
+      "horse_name": "ウィクトルウェルス",
+      "score": 0.5437121175943362,
+      "horse_number": 6,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104645",
+      "horse_name": "ダノンシーマ",
+      "score": 0.5196310061676485,
+      "horse_number": 4,
+      "odds": 8.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105574",
+      "horse_name": "シンハナーダ",
+      "score": 0.3502826633483558,
+      "horse_number": 3,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019104828",
+      "horse_name": "キングズパレス",
+      "score": 0.2955031118494514,
+      "horse_number": 5,
+      "odds": 38.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106738",
+      "horse_name": "ヴィレム",
+      "score": 0.2953845690813765,
+      "horse_number": 1,
+      "odds": 9.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101387",
+      "horse_name": "オーロラエックス",
+      "score": 0.25960560168697216,
+      "horse_number": 9,
+      "odds": 27.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104416",
+      "horse_name": "レディネス",
+      "score": 0.1451875422848597,
+      "horse_number": 2,
+      "odds": 6.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019105168",
+      "horse_name": "セレシオン",
+      "score": 0.14435281156655325,
+      "horse_number": 10,
+      "odds": 18.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105749",
+      "horse_name": "マイネルモーント",
+      "score": 0.08477163601069741,
+      "horse_number": 7,
+      "odds": 64.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101134",
+      "horse_name": "ピースワンデュック",
+      "score": 0.025491062107033776,
+      "horse_number": 8,
+      "odds": 15.4
+    }
+  ]
+}
