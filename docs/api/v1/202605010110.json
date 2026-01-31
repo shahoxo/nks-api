@@ -1,0 +1,128 @@
+{
+  "race_id": "202605010110",
+  "race_name": "クロッカスS",
+  "race_time": "2026-01-31 15:05",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107288",
+      "horse_name": "オルネーロ",
+      "score": 0.4976480504984283,
+      "horse_number": 2,
+      "odds": 5.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023110065",
+      "horse_name": "ユウファラオ",
+      "score": 0.42665916571669676,
+      "horse_number": 11,
+      "odds": 22.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101727",
+      "horse_name": "アグネスクレスト",
+      "score": 0.3626370538681333,
+      "horse_number": 15,
+      "odds": 37.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105345",
+      "horse_name": "ルージュダリア",
+      "score": 0.3411775797817729,
+      "horse_number": 3,
+      "odds": 10.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104960",
+      "horse_name": "アスミル",
+      "score": 0.31983398553735876,
+      "horse_number": 12,
+      "odds": 4.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103101",
+      "horse_name": "トミーバローズ",
+      "score": 0.3188053612123162,
+      "horse_number": 4,
+      "odds": 26.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102542",
+      "horse_name": "ミルトベスト",
+      "score": 0.22491374086506066,
+      "horse_number": 14,
+      "odds": 15.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100169",
+      "horse_name": "スミッコディスコ",
+      "score": 0.22486969524397338,
+      "horse_number": 8,
+      "odds": 47.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103418",
+      "horse_name": "フクチャンショウ",
+      "score": 0.2214220219352368,
+      "horse_number": 9,
+      "odds": 6.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100398",
+      "horse_name": "ランドスター",
+      "score": 0.17528467265159298,
+      "horse_number": 6,
+      "odds": 42.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106325",
+      "horse_name": "ホットゥトロット",
+      "score": 0.16248936122351876,
+      "horse_number": 5,
+      "odds": 87.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100797",
+      "horse_name": "ハッピーエンジェル",
+      "score": 0.0809109030681419,
+      "horse_number": 1,
+      "odds": 10.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106104",
+      "horse_name": "ホワイトドラゴン",
+      "score": 0.07668580157321857,
+      "horse_number": 7,
+      "odds": 12.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023110055",
+      "horse_name": "グッドピース",
+      "score": 0.004050911563589582,
+      "horse_number": 10,
+      "odds": 5.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106197",
+      "horse_name": "フレンドモナコ",
+      "score": -0.5569455168514427,
+      "horse_number": 13,
+      "odds": 188.2
+    }
+  ]
+}

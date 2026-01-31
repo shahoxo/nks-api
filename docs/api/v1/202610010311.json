@@ -1,0 +1,152 @@
+{
+  "race_id": "202610010311",
+  "race_name": "巌流島S",
+  "race_time": "2026-01-31 15:20",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100791",
+      "horse_name": "ブラックケリー",
+      "score": 0.1241537561821376,
+      "horse_number": 18,
+      "odds": 9.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102514",
+      "horse_name": "ベイビーキッス",
+      "score": 0.11750642257772113,
+      "horse_number": 8,
+      "odds": 7.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103707",
+      "horse_name": "エスペシャリー",
+      "score": 0.06930044936974242,
+      "horse_number": 16,
+      "odds": 15.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105880",
+      "horse_name": "レッドエヴァンス",
+      "score": 0.0687041521029867,
+      "horse_number": 6,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106901",
+      "horse_name": "メイショウピース",
+      "score": 0.04464742046589643,
+      "horse_number": 1,
+      "odds": 12.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103312",
+      "horse_name": "ロードマイライフ",
+      "score": 0.002441645395294947,
+      "horse_number": 11,
+      "odds": 16.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105771",
+      "horse_name": "ミルテンベルク",
+      "score": -0.004153157408841669,
+      "horse_number": 9,
+      "odds": 11.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100157",
+      "horse_name": "ロードトレイル",
+      "score": -0.017634576494970133,
+      "horse_number": 5,
+      "odds": 14.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105202",
+      "horse_name": "ポエットリー",
+      "score": -0.0741358464560218,
+      "horse_number": 2,
+      "odds": 26.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103284",
+      "horse_name": "トールキン",
+      "score": -0.11455288315729843,
+      "horse_number": 10,
+      "odds": 31.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104194",
+      "horse_name": "ルーフ",
+      "score": -0.13116017676744376,
+      "horse_number": 15,
+      "odds": 8.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105039",
+      "horse_name": "ゴールドサーベル",
+      "score": -0.20341146140487001,
+      "horse_number": 17,
+      "odds": 30.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101654",
+      "horse_name": "トーラスシャイン",
+      "score": -0.22087476550840252,
+      "horse_number": 7,
+      "odds": 9.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019106179",
+      "horse_name": "ハートホイップ",
+      "score": -0.22463553641850262,
+      "horse_number": 4,
+      "odds": 32.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104616",
+      "horse_name": "パクスロマーナ",
+      "score": -0.24225234137868612,
+      "horse_number": 13,
+      "odds": 21.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103092",
+      "horse_name": "ナムラローズマリー",
+      "score": -0.24406156195764436,
+      "horse_number": 14,
+      "odds": 11.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020101872",
+      "horse_name": "デイトナモード",
+      "score": -0.3485073537761417,
+      "horse_number": 3,
+      "odds": 50.6
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021100792",
+      "horse_name": "スコーピオン",
+      "score": -0.4262092271051576,
+      "horse_number": 12,
+      "odds": 68.3
+    }
+  ]
+}
