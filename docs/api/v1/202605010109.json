@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010109",
+  "race_name": "白嶺S",
+  "race_time": "2026-01-31 14:31",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110120",
+      "horse_name": "ロッシニアーナ",
+      "score": 0.4979890549575433,
+      "horse_number": 2,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105775",
+      "horse_name": "ルグランヴァン",
+      "score": 0.2420688772874906,
+      "horse_number": 8,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101818",
+      "horse_name": "ジェイエルマスター",
+      "score": 0.2048413108542873,
+      "horse_number": 5,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105564",
+      "horse_name": "ファリーザ",
+      "score": 0.19426043488628525,
+      "horse_number": 13,
+      "odds": 26.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100170",
+      "horse_name": "ヴァンドーム",
+      "score": 0.18889955820660675,
+      "horse_number": 15,
+      "odds": 12.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018102040",
+      "horse_name": "ヴィヴァン",
+      "score": 0.03683701214816301,
+      "horse_number": 1,
+      "odds": 34.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102724",
+      "horse_name": "クールブロン",
+      "score": 0.006112474748243934,
+      "horse_number": 7,
+      "odds": 41.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104416",
+      "horse_name": "ワイドブリザード",
+      "score": -0.003002137425149585,
+      "horse_number": 6,
+      "odds": 19.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103614",
+      "horse_name": "ヒルノハンブルク",
+      "score": -0.0033258491045131885,
+      "horse_number": 16,
+      "odds": 3.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102982",
+      "horse_name": "ベルダイナフェロー",
+      "score": -0.003714769182549367,
+      "horse_number": 14,
+      "odds": 46.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103096",
+      "horse_name": "イデアイゴッソウ",
+      "score": -0.0729987339329827,
+      "horse_number": 9,
+      "odds": 16.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105750",
+      "horse_name": "アルゴナヴィス",
+      "score": -0.09233392195825774,
+      "horse_number": 3,
+      "odds": 31.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018101989",
+      "horse_name": "ジョディーズマロン",
+      "score": -0.09976517601259526,
+      "horse_number": 12,
+      "odds": 35.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101235",
+      "horse_name": "ゴールデンオスカー",
+      "score": -0.1376178661252574,
+      "horse_number": 10,
+      "odds": 23.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105494",
+      "horse_name": "ニシノライコウ",
+      "score": -0.2276115744966606,
+      "horse_number": 11,
+      "odds": 38.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019105413",
+      "horse_name": "タイゲン",
+      "score": -0.3737525087326746,
+      "horse_number": 4,
+      "odds": 149.5
+    }
+  ]
+}

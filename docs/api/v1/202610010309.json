@@ -1,0 +1,120 @@
+{
+  "race_id": "202610010309",
+  "race_name": "有田特別",
+  "race_time": "2026-01-31 14:10",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105737",
+      "horse_name": "ミッキーマカパ",
+      "score": 0.2243959897603378,
+      "horse_number": 6,
+      "odds": 11.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101675",
+      "horse_name": "スノーサイレンス",
+      "score": 0.17757789866808793,
+      "horse_number": 9,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102427",
+      "horse_name": "パールフロント",
+      "score": 0.1705432973292328,
+      "horse_number": 12,
+      "odds": 4.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101604",
+      "horse_name": "ハニーローリエ",
+      "score": 0.11046259271724487,
+      "horse_number": 3,
+      "odds": 6.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105333",
+      "horse_name": "タイセイアレス",
+      "score": 0.03272140795906948,
+      "horse_number": 11,
+      "odds": 38.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100614",
+      "horse_name": "ミルフルール",
+      "score": 0.022111346627146172,
+      "horse_number": 1,
+      "odds": 19.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022110087",
+      "horse_name": "ララアヴリル",
+      "score": 0.021417692079805546,
+      "horse_number": 7,
+      "odds": 12.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020110127",
+      "horse_name": "ジョヴィアン",
+      "score": -0.019347047591508192,
+      "horse_number": 8,
+      "odds": 9.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105600",
+      "horse_name": "ボルセーナ",
+      "score": -0.18039067551457355,
+      "horse_number": 13,
+      "odds": 19.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100650",
+      "horse_name": "タミゼ",
+      "score": -0.1902633572458201,
+      "horse_number": 2,
+      "odds": 60.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101398",
+      "horse_name": "リクエイ",
+      "score": -0.1989531000704785,
+      "horse_number": 5,
+      "odds": 50.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104164",
+      "horse_name": "アネモス",
+      "score": -0.2416201165823307,
+      "horse_number": 4,
+      "odds": 20.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104216",
+      "horse_name": "ペイシャヴァルツー",
+      "score": -0.2737747216136587,
+      "horse_number": 14,
+      "odds": 11.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102995",
+      "horse_name": "フレッシュラン",
+      "score": -0.5036932870964802,
+      "horse_number": 10,
+      "odds": 26.5
+    }
+  ]
+}

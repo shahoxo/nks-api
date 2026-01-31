@@ -1,0 +1,136 @@
+{
+  "race_id": "202610010310",
+  "race_name": "平尾台特別",
+  "race_time": "2026-01-31 14:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105616",
+      "horse_name": "エルフストラック",
+      "score": 0.08235190771510954,
+      "horse_number": 8,
+      "odds": 4.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102885",
+      "horse_name": "ドゥラリス",
+      "score": 0.03220363446487151,
+      "horse_number": 16,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105853",
+      "horse_name": "ヴィリアリート",
+      "score": 0.0077769666458844386,
+      "horse_number": 11,
+      "odds": 3.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105385",
+      "horse_name": "ステアハート",
+      "score": 0.00046197481765707527,
+      "horse_number": 5,
+      "odds": 7.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106851",
+      "horse_name": "レディゴディヴァ",
+      "score": -0.05215707538583575,
+      "horse_number": 9,
+      "odds": 37.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105895",
+      "horse_name": "レーヴドレフォン",
+      "score": -0.053901323523776336,
+      "horse_number": 10,
+      "odds": 12.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103515",
+      "horse_name": "ユウェンタース",
+      "score": -0.10094013341724142,
+      "horse_number": 14,
+      "odds": 14.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102739",
+      "horse_name": "ナリタヒカリ",
+      "score": -0.1412380239547736,
+      "horse_number": 4,
+      "odds": 24.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103556",
+      "horse_name": "ブルーペクトライト",
+      "score": -0.17020479987976916,
+      "horse_number": 15,
+      "odds": 22.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105604",
+      "horse_name": "ステラスプレンダー",
+      "score": -0.19249882252967981,
+      "horse_number": 6,
+      "odds": 22.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106177",
+      "horse_name": "タマモナポリ",
+      "score": -0.37161896254345206,
+      "horse_number": 3,
+      "odds": 29.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106698",
+      "horse_name": "オカメノコイ",
+      "score": -0.4313468486320361,
+      "horse_number": 2,
+      "odds": 41.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103939",
+      "horse_name": "スマートプレシャス",
+      "score": -0.5177272394461668,
+      "horse_number": 7,
+      "odds": 28.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104791",
+      "horse_name": "プウスカンドゥール",
+      "score": -0.5335702681776715,
+      "horse_number": 13,
+      "odds": 71.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100629",
+      "horse_name": "サイモンコーラル",
+      "score": -0.57117859716807,
+      "horse_number": 1,
+      "odds": 49.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105350",
+      "horse_name": "コスモマルーン",
+      "score": -0.6256682283707391,
+      "horse_number": 12,
+      "odds": 45.2
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "race_id": "202608020109",
+  "race_name": "長浜特別",
+  "race_time": "2026-01-31 14:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103287",
+      "horse_name": "アレ",
+      "score": 0.2783706042729508,
+      "horse_number": 13,
+      "odds": 7.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100018",
+      "horse_name": "ポッドドンナー",
+      "score": 0.1909928699264315,
+      "horse_number": 11,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101543",
+      "horse_name": "ルークススペイ",
+      "score": 0.131564433567401,
+      "horse_number": 2,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101016",
+      "horse_name": "ユウトザレン",
+      "score": 0.08188364779735327,
+      "horse_number": 4,
+      "odds": 7.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101043",
+      "horse_name": "メイケイレイン",
+      "score": 0.03145044922144224,
+      "horse_number": 7,
+      "odds": 14.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102881",
+      "horse_name": "プリンスノット",
+      "score": -0.022644387011179046,
+      "horse_number": 9,
+      "odds": 55.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100328",
+      "horse_name": "ハクサンアイリス",
+      "score": -0.027028226837101273,
+      "horse_number": 10,
+      "odds": 3.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104287",
+      "horse_name": "サンガネーブ",
+      "score": -0.06806923781015425,
+      "horse_number": 3,
+      "odds": 54.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104561",
+      "horse_name": "タイガースパーク",
+      "score": -0.1166590789424679,
+      "horse_number": 1,
+      "odds": 27.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105973",
+      "horse_name": "ワイノナオミ",
+      "score": -0.12753901342014043,
+      "horse_number": 12,
+      "odds": 14.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020107095",
+      "horse_name": "メモリーグラス",
+      "score": -0.2660414003841189,
+      "horse_number": 8,
+      "odds": 47.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104960",
+      "horse_name": "トロピカルヒーロー",
+      "score": -0.5530974180867849,
+      "horse_number": 6,
+      "odds": 67.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101431",
+      "horse_name": "クリノキングマン",
+      "score": -0.7080136536659949,
+      "horse_number": 5,
+      "odds": 19.9
+    }
+  ]
+}
