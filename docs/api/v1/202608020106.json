@@ -1,0 +1,136 @@
+{
+  "race_id": "202608020106",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-31 12:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101003",
+      "horse_name": "ジューンアゲイン",
+      "score": 0.29504663125559794,
+      "horse_number": 15,
+      "odds": 4.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102997",
+      "horse_name": "ペイシャシス",
+      "score": 0.2538372615103499,
+      "horse_number": 8,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103795",
+      "horse_name": "タイムレスフレアー",
+      "score": 0.20062752140661436,
+      "horse_number": 14,
+      "odds": 3.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104936",
+      "horse_name": "メイショウノヴァス",
+      "score": 0.1280291704494666,
+      "horse_number": 12,
+      "odds": 11.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023109106",
+      "horse_name": "ダイチノナポリ",
+      "score": 0.018139185291834094,
+      "horse_number": 16,
+      "odds": 38.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102920",
+      "horse_name": "アイルトン",
+      "score": -0.05387507613346609,
+      "horse_number": 6,
+      "odds": 15.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106068",
+      "horse_name": "アオイハルカ",
+      "score": -0.1286346526488554,
+      "horse_number": 4,
+      "odds": 9.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103357",
+      "horse_name": "マサハヤルージュ",
+      "score": -0.17707383075948485,
+      "horse_number": 13,
+      "odds": 18.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102619",
+      "horse_name": "ナハトナナレオン",
+      "score": -0.21677969360794838,
+      "horse_number": 5,
+      "odds": 14.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105865",
+      "horse_name": "ウインビスタ",
+      "score": -0.2866647438859612,
+      "horse_number": 1,
+      "odds": 48.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102487",
+      "horse_name": "ヒルノジェノヴァ",
+      "score": -0.37430982708587,
+      "horse_number": 11,
+      "odds": 67.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100053",
+      "horse_name": "タケウチビー",
+      "score": -0.3807744261287063,
+      "horse_number": 10,
+      "odds": 20.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102414",
+      "horse_name": "ホウオウチャールズ",
+      "score": -0.43314884996897873,
+      "horse_number": 3,
+      "odds": 31.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102174",
+      "horse_name": "メイショウマグナ",
+      "score": -0.4530426498486433,
+      "horse_number": 9,
+      "odds": 72.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100540",
+      "horse_name": "マルカスマッシュ",
+      "score": -0.49679794587460246,
+      "horse_number": 7,
+      "odds": 66.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105634",
+      "horse_name": "オースミサイファー",
+      "score": -0.5300080494461484,
+      "horse_number": 2,
+      "odds": 23.1
+    }
+  ]
+}

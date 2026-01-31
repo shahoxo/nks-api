@@ -1,0 +1,152 @@
+{
+  "race_id": "202610010306",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-31 12:40",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103518",
+      "horse_name": "ディサイドオンミー",
+      "score": 0.2321513640902515,
+      "horse_number": 11,
+      "odds": 7.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102408",
+      "horse_name": "リネアベルタ",
+      "score": 0.04085524058798791,
+      "horse_number": 3,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101296",
+      "horse_name": "ジュニートワン",
+      "score": 0.0363166146546863,
+      "horse_number": 10,
+      "odds": 13.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104093",
+      "horse_name": "ハナイロマヒナ",
+      "score": 0.022174195754318515,
+      "horse_number": 16,
+      "odds": 4.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101498",
+      "horse_name": "ベアコルム",
+      "score": -0.02185187465933728,
+      "horse_number": 5,
+      "odds": 9.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023109173",
+      "horse_name": "ニシノメイホウ",
+      "score": -0.15036943408233638,
+      "horse_number": 8,
+      "odds": 42.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105672",
+      "horse_name": "ゴールドヴィーナス",
+      "score": -0.17247139215244028,
+      "horse_number": 14,
+      "odds": 6.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105814",
+      "horse_name": "アンジェラス",
+      "score": -0.20149447165276496,
+      "horse_number": 13,
+      "odds": 11.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103791",
+      "horse_name": "レフティサーリ",
+      "score": -0.30023179037425185,
+      "horse_number": 7,
+      "odds": 9.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101846",
+      "horse_name": "2023101846",
+      "score": -0.33018060930567994,
+      "horse_number": 17,
+      "odds": 46.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102342",
+      "horse_name": "コンフィアンサ",
+      "score": -0.3825595892525512,
+      "horse_number": 15,
+      "odds": 27.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102312",
+      "horse_name": "ラブソング",
+      "score": -0.42926504295361567,
+      "horse_number": 18,
+      "odds": 41.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102560",
+      "horse_name": "リバージュエル",
+      "score": -0.42946033287942076,
+      "horse_number": 1,
+      "odds": 19.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102151",
+      "horse_name": "2023102151",
+      "score": -0.47293600501096866,
+      "horse_number": 12,
+      "odds": 46.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105950",
+      "horse_name": "パトリシア",
+      "score": -0.49237541303765897,
+      "horse_number": 4,
+      "odds": 59.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105777",
+      "horse_name": "ノブピースオブラブ",
+      "score": -0.5042861910531287,
+      "horse_number": 9,
+      "odds": 69.7
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023109092",
+      "horse_name": "ウイントッペン",
+      "score": -0.5443441468996052,
+      "horse_number": 6,
+      "odds": 24.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023100421",
+      "horse_name": "カシノリアーナ",
+      "score": -0.6457252101891606,
+      "horse_number": 2,
+      "odds": 114.6
+    }
+  ]
+}

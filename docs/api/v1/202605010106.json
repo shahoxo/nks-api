@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010106",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-31 13:00",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106886",
+      "horse_name": "ペルウィクトール",
+      "score": 0.5277397766811032,
+      "horse_number": 11,
+      "odds": 1.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105285",
+      "horse_name": "ミスティユニバンス",
+      "score": 0.35411998389586313,
+      "horse_number": 10,
+      "odds": 8.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106829",
+      "horse_name": "ベアサナエチャン",
+      "score": 0.22584363501437243,
+      "horse_number": 13,
+      "odds": 11.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103584",
+      "horse_name": "トランスマーレ",
+      "score": 0.15242005853693638,
+      "horse_number": 2,
+      "odds": 14.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103530",
+      "horse_name": "ワイルドミュール",
+      "score": 0.10859290498809285,
+      "horse_number": 12,
+      "odds": 16.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104303",
+      "horse_name": "リアライズリバティ",
+      "score": 0.09543163031513689,
+      "horse_number": 9,
+      "odds": 17.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105102",
+      "horse_name": "ダイユウヴェンティ",
+      "score": 0.05741129726482356,
+      "horse_number": 8,
+      "odds": 35.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100734",
+      "horse_name": "ウインドオブヘヴン",
+      "score": -0.22230384918039908,
+      "horse_number": 6,
+      "odds": 41.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100529",
+      "horse_name": "タッカーヴァンバン",
+      "score": -0.3043557821525538,
+      "horse_number": 4,
+      "odds": 54.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100043",
+      "horse_name": "モントーヤ",
+      "score": -0.43297694315591295,
+      "horse_number": 15,
+      "odds": 110.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104200",
+      "horse_name": "マジックオーラ",
+      "score": -0.4577637793994481,
+      "horse_number": 16,
+      "odds": 212.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023107145",
+      "horse_name": "ジーティートゥーリ",
+      "score": -0.4859954464634445,
+      "horse_number": 7,
+      "odds": 163.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104054",
+      "horse_name": "モンサンドール",
+      "score": -0.5406126672483863,
+      "horse_number": 3,
+      "odds": 175.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104834",
+      "horse_name": "2023104834",
+      "score": -0.5605472818472005,
+      "horse_number": 5,
+      "odds": 208.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106415",
+      "horse_name": "リッチリーエコー",
+      "score": -0.6740794138889812,
+      "horse_number": 1,
+      "odds": 265.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104221",
+      "horse_name": "アビエーション",
+      "score": -0.7344997899121097,
+      "horse_number": 14,
+      "odds": 364.7
+    }
+  ]
+}

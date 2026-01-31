@@ -1,0 +1,136 @@
+{
+  "race_id": "202610010307",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-01-31 13:10",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101120",
+      "horse_name": "バンオンタイム",
+      "score": 0.23230385920019264,
+      "horse_number": 6,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102923",
+      "horse_name": "インフィオラータ",
+      "score": 0.22399394977237924,
+      "horse_number": 3,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104305",
+      "horse_name": "エクリュ",
+      "score": 0.19083030383362795,
+      "horse_number": 8,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101088",
+      "horse_name": "トルークマクト",
+      "score": 0.10857797984116818,
+      "horse_number": 14,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106863",
+      "horse_name": "2023106863",
+      "score": 0.04487376696476531,
+      "horse_number": 9,
+      "odds": 8.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105384",
+      "horse_name": "エコロラヴァー",
+      "score": -0.012060624072792472,
+      "horse_number": 12,
+      "odds": 10.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100983",
+      "horse_name": "メイショウシュハリ",
+      "score": -0.062007037587434644,
+      "horse_number": 13,
+      "odds": 54.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102544",
+      "horse_name": "ミルトメテオ",
+      "score": -0.204238224373623,
+      "horse_number": 4,
+      "odds": 34.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104487",
+      "horse_name": "アイドクレース",
+      "score": -0.233242188756375,
+      "horse_number": 5,
+      "odds": 20.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100787",
+      "horse_name": "エルアン",
+      "score": -0.2779266221121833,
+      "horse_number": 16,
+      "odds": 17.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105862",
+      "horse_name": "ウインマニフィーク",
+      "score": -0.279714499221124,
+      "horse_number": 1,
+      "odds": 14.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103743",
+      "horse_name": "シャリキモン",
+      "score": -0.43697468259004085,
+      "horse_number": 15,
+      "odds": 70.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105138",
+      "horse_name": "ニシノシャルム",
+      "score": -0.4677289460027655,
+      "horse_number": 11,
+      "odds": 77.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104631",
+      "horse_name": "ショウナンサフィラ",
+      "score": -0.4942991438212575,
+      "horse_number": 7,
+      "odds": 26.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101217",
+      "horse_name": "サリー",
+      "score": -0.6336370845533565,
+      "horse_number": 10,
+      "odds": 113.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104795",
+      "horse_name": "カシノサルパーレ",
+      "score": -0.6518943205472477,
+      "horse_number": 2,
+      "odds": 142.6
+    }
+  ]
+}
