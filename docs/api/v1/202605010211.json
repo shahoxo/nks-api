@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010211",
+  "race_name": "根岸S",
+  "race_time": "2026-02-01 15:45",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020110024",
+      "horse_name": "ウェイワードアクト",
+      "score": 0.40622570772566513,
+      "horse_number": 1,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110126",
+      "horse_name": "インユアパレス",
+      "score": 0.3915914006769971,
+      "horse_number": 8,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101547",
+      "horse_name": "エンペラーワケア",
+      "score": 0.34794941876783364,
+      "horse_number": 9,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103616",
+      "horse_name": "フェブランシェ",
+      "score": 0.32926455587539283,
+      "horse_number": 16,
+      "odds": 26.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100623",
+      "horse_name": "ダノンフィーゴ",
+      "score": 0.24644500691741522,
+      "horse_number": 7,
+      "odds": 7.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103622",
+      "horse_name": "マテンロウコマンド",
+      "score": 0.11902285651387129,
+      "horse_number": 6,
+      "odds": 34.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100145",
+      "horse_name": "ロードフォンス",
+      "score": 0.11146160683327458,
+      "horse_number": 2,
+      "odds": 13.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105467",
+      "horse_name": "マピュース",
+      "score": 0.04999625624919549,
+      "horse_number": 12,
+      "odds": 19.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2017101560",
+      "horse_name": "ケイアイドリー",
+      "score": 0.029820958378563446,
+      "horse_number": 11,
+      "odds": 202.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102904",
+      "horse_name": "オメガギネス",
+      "score": -0.024758270496621864,
+      "horse_number": 3,
+      "odds": 9.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103868",
+      "horse_name": "チカッパ",
+      "score": -0.030121990432873155,
+      "horse_number": 5,
+      "odds": 30.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019103529",
+      "horse_name": "アルファマム",
+      "score": -0.0766966616008505,
+      "horse_number": 4,
+      "odds": 51.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2017106642",
+      "horse_name": "メイショウカズサ",
+      "score": -0.23371857565957235,
+      "horse_number": 13,
+      "odds": 188.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103879",
+      "horse_name": "バトルクライ",
+      "score": -0.37985550341647667,
+      "horse_number": 10,
+      "odds": 112.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021106935",
+      "horse_name": "2021106935",
+      "score": -0.4260279578678007,
+      "horse_number": 15,
+      "odds": 25.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101301",
+      "horse_name": "ネオトキオ",
+      "score": -0.563587293783707,
+      "horse_number": 14,
+      "odds": 141.6
+    }
+  ]
+}

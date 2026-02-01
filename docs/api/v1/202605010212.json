@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010212",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-01 16:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107321",
+      "horse_name": "アウダーシア",
+      "score": 0.5437121175943362,
+      "horse_number": 1,
+      "odds": 1.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102662",
+      "horse_name": "カズシ",
+      "score": 0.2629681446686558,
+      "horse_number": 9,
+      "odds": 14.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101048",
+      "horse_name": "アドマイヤフク",
+      "score": 0.22782890695153135,
+      "horse_number": 12,
+      "odds": 18.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103885",
+      "horse_name": "ナックホワイト",
+      "score": 0.20483499559468998,
+      "horse_number": 4,
+      "odds": 14.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104406",
+      "horse_name": "スカイドリーマー",
+      "score": 0.15832877869321618,
+      "horse_number": 5,
+      "odds": 18.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103298",
+      "horse_name": "ダイユウアレグロ",
+      "score": 0.08837277575229918,
+      "horse_number": 8,
+      "odds": 23.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103799",
+      "horse_name": "フォンドルレール",
+      "score": 0.05379762536756101,
+      "horse_number": 6,
+      "odds": 31.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103458",
+      "horse_name": "スカイリッチ",
+      "score": 0.0374139921722533,
+      "horse_number": 7,
+      "odds": 24.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106432",
+      "horse_name": "マイネルグレート",
+      "score": -0.1265726395698089,
+      "horse_number": 2,
+      "odds": 43.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106462",
+      "horse_name": "マイネルアルゴー",
+      "score": -0.43150085850087505,
+      "horse_number": 16,
+      "odds": 94.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101215",
+      "horse_name": "グリーンガーネット",
+      "score": -0.4467777737525165,
+      "horse_number": 11,
+      "odds": 73.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101880",
+      "horse_name": "オーケーグリット",
+      "score": -0.47276478059541005,
+      "horse_number": 14,
+      "odds": 61.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105139",
+      "horse_name": "ティブロン",
+      "score": -0.4752380742159994,
+      "horse_number": 15,
+      "odds": 84.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106612",
+      "horse_name": "ミサダメキメル",
+      "score": -0.496549988617052,
+      "horse_number": 10,
+      "odds": 67.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101438",
+      "horse_name": "2023101438",
+      "score": -0.7212483613895885,
+      "horse_number": 3,
+      "odds": 74.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105712",
+      "horse_name": "ソルプレーザ",
+      "score": -0.7344997899121097,
+      "horse_number": 13,
+      "odds": 152.5
+    }
+  ]
+}
