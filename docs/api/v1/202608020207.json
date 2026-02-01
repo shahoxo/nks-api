@@ -1,0 +1,80 @@
+{
+  "race_id": "202608020207",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-01 13:15",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105439",
+      "horse_name": "ドラゴン",
+      "score": 0.36908533790312487,
+      "horse_number": 3,
+      "odds": 1.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100637",
+      "horse_name": "ロードアルディート",
+      "score": -0.06928888034230918,
+      "horse_number": 1,
+      "odds": 18.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103263",
+      "horse_name": "メイショウアゴナス",
+      "score": -0.2055267028517399,
+      "horse_number": 8,
+      "odds": 9.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104951",
+      "horse_name": "ブルーゴールド",
+      "score": -0.2945384741860925,
+      "horse_number": 2,
+      "odds": 58.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100688",
+      "horse_name": "セーデルマンランド",
+      "score": -0.4739826643801416,
+      "horse_number": 7,
+      "odds": 20.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022107325",
+      "horse_name": "レーンアジリティ",
+      "score": -0.5075953550682798,
+      "horse_number": 4,
+      "odds": 6.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102081",
+      "horse_name": "テンクウハット",
+      "score": -0.6087731493607471,
+      "horse_number": 6,
+      "odds": 97.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106078",
+      "horse_name": "ブルーストレイル",
+      "score": -0.7344997899121097,
+      "horse_number": 5,
+      "odds": 102.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101385",
+      "horse_name": "レリッシュ",
+      "score": -0.7344997899121097,
+      "horse_number": 9,
+      "odds": 160.4
+    }
+  ]
+}

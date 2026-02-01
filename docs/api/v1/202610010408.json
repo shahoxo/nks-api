@@ -1,0 +1,112 @@
+{
+  "race_id": "202610010408",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-01 13:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105194",
+      "horse_name": "ラトラース",
+      "score": 0.3123684026819332,
+      "horse_number": 1,
+      "odds": 6.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101230",
+      "horse_name": "インパクトシー",
+      "score": 0.19395886406974006,
+      "horse_number": 5,
+      "odds": 2.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104669",
+      "horse_name": "クラヴァンス",
+      "score": 0.06687450779665827,
+      "horse_number": 10,
+      "odds": 9.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106231",
+      "horse_name": "ウインベラーノ",
+      "score": -0.02063959681657881,
+      "horse_number": 13,
+      "odds": 16.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106433",
+      "horse_name": "アーサーズウェイン",
+      "score": -0.08247220637808182,
+      "horse_number": 7,
+      "odds": 26.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105244",
+      "horse_name": "スピンザブラッド",
+      "score": -0.08361075902078943,
+      "horse_number": 6,
+      "odds": 12.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105765",
+      "horse_name": "ミッキースターダム",
+      "score": -0.10039209147969234,
+      "horse_number": 2,
+      "odds": 12.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105345",
+      "horse_name": "シンゼンカガ",
+      "score": -0.1258448441191608,
+      "horse_number": 4,
+      "odds": 12.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102926",
+      "horse_name": "フォーカルフラワー",
+      "score": -0.1280408184274094,
+      "horse_number": 11,
+      "odds": 15.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100165",
+      "horse_name": "フォルテフィオーレ",
+      "score": -0.14734553024839622,
+      "horse_number": 3,
+      "odds": 17.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102717",
+      "horse_name": "ジャグアール",
+      "score": -0.23895280822878304,
+      "horse_number": 12,
+      "odds": 19.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105499",
+      "horse_name": "プリンセスロロ",
+      "score": -0.4613073525731195,
+      "horse_number": 9,
+      "odds": 80.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101781",
+      "horse_name": "アウローラシエル",
+      "score": -0.4880554281549099,
+      "horse_number": 8,
+      "odds": 43.4
+    }
+  ]
+}
