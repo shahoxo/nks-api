@@ -1,0 +1,152 @@
+{
+  "race_id": "202608020211",
+  "race_name": "シルクロード",
+  "race_time": "2026-02-01 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103116",
+      "horse_name": "ヤブサメ",
+      "score": 0.35445020829670393,
+      "horse_number": 11,
+      "odds": 6.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100130",
+      "horse_name": "ロードフォアエース",
+      "score": 0.29781365767514256,
+      "horse_number": 16,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019105859",
+      "horse_name": "エーティーマクフィ",
+      "score": 0.2544737569712665,
+      "horse_number": 12,
+      "odds": 10.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104960",
+      "horse_name": "カルプスペルシュ",
+      "score": 0.2389191997397732,
+      "horse_number": 4,
+      "odds": 5.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103066",
+      "horse_name": "レイピア",
+      "score": 0.21201811846422636,
+      "horse_number": 17,
+      "odds": 11.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020100896",
+      "horse_name": "ビッグシーザー",
+      "score": 0.1462676054089142,
+      "horse_number": 9,
+      "odds": 13.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102888",
+      "horse_name": "ナムラアトム",
+      "score": 0.12056381631006671,
+      "horse_number": 10,
+      "odds": 61.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106914",
+      "horse_name": "イコサン",
+      "score": 0.11511209198923608,
+      "horse_number": 8,
+      "odds": 37.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101262",
+      "horse_name": "エコロレジーナ",
+      "score": 0.08087848447030502,
+      "horse_number": 18,
+      "odds": 63.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105774",
+      "horse_name": "ダノンマッキンリー",
+      "score": 0.031107601259125817,
+      "horse_number": 2,
+      "odds": 14.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101623",
+      "horse_name": "アブキールベイ",
+      "score": 0.02024447349297991,
+      "horse_number": 1,
+      "odds": 25.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106601",
+      "horse_name": "ヤマニンアルリフラ",
+      "score": -0.05203560958172401,
+      "horse_number": 6,
+      "odds": 14.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100105",
+      "horse_name": "エイシンフェンサー",
+      "score": -0.07966605338492982,
+      "horse_number": 13,
+      "odds": 12.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105203",
+      "horse_name": "ウインアイオライト",
+      "score": -0.1679934404176937,
+      "horse_number": 5,
+      "odds": 45.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101924",
+      "horse_name": "フィオライア",
+      "score": -0.1900567478201768,
+      "horse_number": 14,
+      "odds": 76.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2016104668",
+      "horse_name": "カリボール",
+      "score": -0.38487546669667944,
+      "horse_number": 15,
+      "odds": 112.5
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022104751",
+      "horse_name": "アルテヴェローチェ",
+      "score": -0.40563989688549,
+      "horse_number": 3,
+      "odds": 71.6
+    },
+    {
+      "rank": 18,
+      "horse_id": "2019105658",
+      "horse_name": "オタルエバー",
+      "score": -0.4091701056334407,
+      "horse_number": 7,
+      "odds": 75.2
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "race_id": "202610010411",
+  "race_name": "門司S",
+  "race_time": "2026-02-01 15:15",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020105639",
+      "horse_name": "ハギノサステナブル",
+      "score": 0.19534015335265503,
+      "horse_number": 13,
+      "odds": 6.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101253",
+      "horse_name": "クラウンシエンタ",
+      "score": 0.07617103165529603,
+      "horse_number": 3,
+      "odds": 18.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019100286",
+      "horse_name": "カンピオーネ",
+      "score": 0.013068099282296144,
+      "horse_number": 11,
+      "odds": 18.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102009",
+      "horse_name": "ラタフォレスト",
+      "score": -0.02341979404836366,
+      "horse_number": 12,
+      "odds": 8.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104617",
+      "horse_name": "ヴーレヴー",
+      "score": -0.03226327442929932,
+      "horse_number": 9,
+      "odds": 7.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106925",
+      "horse_name": "ハグ",
+      "score": -0.09263361150441296,
+      "horse_number": 15,
+      "odds": 10.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104628",
+      "horse_name": "レイナデアルシーラ",
+      "score": -0.1463366480866352,
+      "horse_number": 2,
+      "odds": 7.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103306",
+      "horse_name": "コトホドサヨウニ",
+      "score": -0.18218063979899862,
+      "horse_number": 6,
+      "odds": 12.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102737",
+      "horse_name": "マリアナトレンチ",
+      "score": -0.29768933600340586,
+      "horse_number": 8,
+      "odds": 42.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101024",
+      "horse_name": "ピースオブザライフ",
+      "score": -0.29994909566793315,
+      "horse_number": 7,
+      "odds": 44.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106370",
+      "horse_name": "サンマルパトロール",
+      "score": -0.31157032039555854,
+      "horse_number": 4,
+      "odds": 66.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019106027",
+      "horse_name": "プリンスミノル",
+      "score": -0.3144433877633841,
+      "horse_number": 14,
+      "odds": 30.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102095",
+      "horse_name": "ペプチドソレイユ",
+      "score": -0.4467902528707536,
+      "horse_number": 10,
+      "odds": 20.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103987",
+      "horse_name": "スナークラファエロ",
+      "score": -0.4800843715652857,
+      "horse_number": 1,
+      "odds": 3.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106877",
+      "horse_name": "スマートアイ",
+      "score": -0.5378588849790319,
+      "horse_number": 5,
+      "odds": 35.0
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "race_id": "202605010210",
+  "race_name": "節分S",
+  "race_time": "2026-02-01 15:01",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105108",
+      "horse_name": "モンテシート",
+      "score": 0.33615562016532025,
+      "horse_number": 15,
+      "odds": 9.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103977",
+      "horse_name": "リチャードバローズ",
+      "score": 0.30525689761554403,
+      "horse_number": 12,
+      "odds": 50.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106232",
+      "horse_name": "ウイントワイライト",
+      "score": 0.2582312609519173,
+      "horse_number": 14,
+      "odds": 4.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104588",
+      "horse_name": "タイセイカレント",
+      "score": 0.2556514349169717,
+      "horse_number": 1,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105618",
+      "horse_name": "スマートワイス",
+      "score": 0.24069250235192857,
+      "horse_number": 3,
+      "odds": 5.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102461",
+      "horse_name": "バンドシェル",
+      "score": 0.2402356520346512,
+      "horse_number": 2,
+      "odds": 27.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103534",
+      "horse_name": "ジュドー",
+      "score": 0.21628946878502725,
+      "horse_number": 6,
+      "odds": 31.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020110039",
+      "horse_name": "ユハンヌス",
+      "score": 0.14629162320863176,
+      "horse_number": 11,
+      "odds": 6.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106470",
+      "horse_name": "アンダースコア",
+      "score": 0.13551120807886405,
+      "horse_number": 5,
+      "odds": 25.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106900",
+      "horse_name": "アームテイル",
+      "score": -0.002512829392790063,
+      "horse_number": 9,
+      "odds": 63.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103875",
+      "horse_name": "アイサンサン",
+      "score": -0.02194441240398997,
+      "horse_number": 8,
+      "odds": 5.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018110149",
+      "horse_name": "コスモアディラート",
+      "score": -0.08198090010289695,
+      "horse_number": 7,
+      "odds": 47.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105777",
+      "horse_name": "ボーモンド",
+      "score": -0.08365757630746663,
+      "horse_number": 10,
+      "odds": 38.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101429",
+      "horse_name": "サトミノキラリ",
+      "score": -0.09966432496338683,
+      "horse_number": 13,
+      "odds": 19.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102861",
+      "horse_name": "ラテラルシンキング",
+      "score": -0.10175493626091997,
+      "horse_number": 4,
+      "odds": 90.0
+    }
+  ]
+}
