@@ -1,0 +1,88 @@
+{
+  "race_id": "202608020203",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-01 10:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104103",
+      "horse_name": "パラダイスフェイス",
+      "score": 0.1428552509596245,
+      "horse_number": 9,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106403",
+      "horse_name": "アスクチャンスマン",
+      "score": -0.035963966966823205,
+      "horse_number": 10,
+      "odds": 1.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102630",
+      "horse_name": "グランシャン",
+      "score": -0.05427986554825301,
+      "horse_number": 3,
+      "odds": 23.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102589",
+      "horse_name": "ダテオトコ",
+      "score": -0.07352503048455472,
+      "horse_number": 6,
+      "odds": 17.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106077",
+      "horse_name": "タケルフォーカス",
+      "score": -0.19889533194696277,
+      "horse_number": 2,
+      "odds": 5.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100922",
+      "horse_name": "ジャイアンバローズ",
+      "score": -0.27641284664983246,
+      "horse_number": 1,
+      "odds": 13.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105644",
+      "horse_name": "ベルウッドバモス",
+      "score": -0.3250052274502904,
+      "horse_number": 5,
+      "odds": 95.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105148",
+      "horse_name": "リードアクター",
+      "score": -0.5371491487769224,
+      "horse_number": 7,
+      "odds": 22.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103502",
+      "horse_name": "ファントムヴォルト",
+      "score": -0.700999851469308,
+      "horse_number": 8,
+      "odds": 79.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106169",
+      "horse_name": "セイカンサンラン",
+      "score": -0.7265140734648036,
+      "horse_number": 4,
+      "odds": 40.8
+    }
+  ]
+}

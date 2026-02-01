@@ -1,0 +1,112 @@
+{
+  "race_id": "202605010202",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-01 10:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105322",
+      "horse_name": "ホウオウファミリー",
+      "score": 0.37318437051496334,
+      "horse_number": 9,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103427",
+      "horse_name": "ルージュアリスタ",
+      "score": 0.05395008892756628,
+      "horse_number": 8,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105870",
+      "horse_name": "ウインガネーシャ",
+      "score": -0.08591410318452375,
+      "horse_number": 3,
+      "odds": 26.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100629",
+      "horse_name": "ゴーフォアブローク",
+      "score": -0.16995232582169115,
+      "horse_number": 4,
+      "odds": 7.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102333",
+      "horse_name": "ゴールドエンバー",
+      "score": -0.20478284352906256,
+      "horse_number": 10,
+      "odds": 25.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101644",
+      "horse_name": "オルブライト",
+      "score": -0.5005537292501266,
+      "horse_number": 7,
+      "odds": 5.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102833",
+      "horse_name": "グランドスウェル",
+      "score": -0.5300080494461484,
+      "horse_number": 12,
+      "odds": 22.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106459",
+      "horse_name": "マイネルスラーヴァ",
+      "score": -0.5463198518396368,
+      "horse_number": 13,
+      "odds": 68.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100578",
+      "horse_name": "ロジキセキ",
+      "score": -0.5688916558549025,
+      "horse_number": 5,
+      "odds": 65.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100332",
+      "horse_name": "アスパラゴ",
+      "score": -0.6013438569501122,
+      "horse_number": 6,
+      "odds": 57.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102964",
+      "horse_name": "タイガーゲイト",
+      "score": -0.6101217439592936,
+      "horse_number": 2,
+      "odds": 46.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102266",
+      "horse_name": "フロステリオン",
+      "score": -0.7212483613895885,
+      "horse_number": 11,
+      "odds": 96.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104572",
+      "horse_name": "アルファシーナ",
+      "score": -0.7560238565797833,
+      "horse_number": 1,
+      "odds": 68.1
+    }
+  ]
+}

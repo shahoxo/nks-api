@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010203",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-01 11:05",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106285",
+      "horse_name": "ボーントゥラブユー",
+      "score": 0.15271222842516466,
+      "horse_number": 7,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103543",
+      "horse_name": "ルージュリリック",
+      "score": 0.15044276671559742,
+      "horse_number": 9,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102033",
+      "horse_name": "イデアクリスタル",
+      "score": 0.007514491276008599,
+      "horse_number": 6,
+      "odds": 10.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104025",
+      "horse_name": "スイートハイデン",
+      "score": -0.030681026746452535,
+      "horse_number": 8,
+      "odds": 32.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103588",
+      "horse_name": "2023103588",
+      "score": -0.07725003138856729,
+      "horse_number": 13,
+      "odds": 16.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107196",
+      "horse_name": "ジュワネング",
+      "score": -0.0960326105049952,
+      "horse_number": 11,
+      "odds": 3.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106369",
+      "horse_name": "メリティス",
+      "score": -0.13826329382228272,
+      "horse_number": 4,
+      "odds": 7.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106286",
+      "horse_name": "フーディエラン",
+      "score": -0.22459153616830657,
+      "horse_number": 5,
+      "odds": 25.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104679",
+      "horse_name": "タイセイルビー",
+      "score": -0.3739025193547566,
+      "horse_number": 3,
+      "odds": 29.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106350",
+      "horse_name": "グラスハーティー",
+      "score": -0.46016454716550437,
+      "horse_number": 2,
+      "odds": 10.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101878",
+      "horse_name": "ナンヨーリクエスト",
+      "score": -0.6440571687159423,
+      "horse_number": 16,
+      "odds": 106.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106317",
+      "horse_name": "レーヴルーバ",
+      "score": -0.6518943205472477,
+      "horse_number": 14,
+      "odds": 80.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105475",
+      "horse_name": "ディアファニス",
+      "score": -0.6997242947219148,
+      "horse_number": 15,
+      "odds": 58.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101260",
+      "horse_name": "カスターニエ",
+      "score": -0.7181108710791474,
+      "horse_number": 1,
+      "odds": 38.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105097",
+      "horse_name": "サイモンセレーノ",
+      "score": -0.7326014373747041,
+      "horse_number": 12,
+      "odds": 59.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023101907",
+      "horse_name": "ペイシャロッチ",
+      "score": -0.7560238565797833,
+      "horse_number": 10,
+      "odds": 101.3
+    }
+  ]
+}

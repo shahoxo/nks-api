@@ -1,0 +1,120 @@
+{
+  "race_id": "202610010403",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-01 10:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104644",
+      "horse_name": "ペンテリコン",
+      "score": 0.18832294219471457,
+      "horse_number": 10,
+      "odds": 5.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103704",
+      "horse_name": "アスゴッド",
+      "score": 0.015410359002945857,
+      "horse_number": 14,
+      "odds": 8.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101204",
+      "horse_name": "サツキレジーナ",
+      "score": -0.0472909193749346,
+      "horse_number": 5,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103078",
+      "horse_name": "ナムラモモ",
+      "score": -0.05337855839700058,
+      "horse_number": 8,
+      "odds": 3.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020107018",
+      "horse_name": "レジェンダリーデイ",
+      "score": -0.06606121224343116,
+      "horse_number": 7,
+      "odds": 8.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100091",
+      "horse_name": "キャリーグレイス",
+      "score": -0.06636797060939753,
+      "horse_number": 12,
+      "odds": 24.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104617",
+      "horse_name": "ミスターディジェイ",
+      "score": -0.223649979857004,
+      "horse_number": 2,
+      "odds": 18.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102640",
+      "horse_name": "サイモンオリーブ",
+      "score": -0.47791871400858243,
+      "horse_number": 4,
+      "odds": 63.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105905",
+      "horse_name": "トーアジョウトウ",
+      "score": -0.489956603670174,
+      "horse_number": 6,
+      "odds": 37.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101418",
+      "horse_name": "レストプレドゥモア",
+      "score": -0.5184556161600165,
+      "horse_number": 11,
+      "odds": 12.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104122",
+      "horse_name": "スカイダイバー",
+      "score": -0.5504307091961488,
+      "horse_number": 3,
+      "odds": 26.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102594",
+      "horse_name": "ミキノバカラ",
+      "score": -0.6238516222815199,
+      "horse_number": 13,
+      "odds": 8.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106394",
+      "horse_name": "オンリーラヴ",
+      "score": -0.6997242947219148,
+      "horse_number": 9,
+      "odds": 90.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100651",
+      "horse_name": "ヴェレノージ",
+      "score": -0.735775346659503,
+      "horse_number": 1,
+      "odds": 84.1
+    }
+  ]
+}
