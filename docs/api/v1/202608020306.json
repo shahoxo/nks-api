@@ -1,0 +1,104 @@
+{
+  "race_id": "202608020306",
+  "race_name": "3歳1勝クラス",
+  "race_time": "2026-02-07 12:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101161",
+      "horse_name": "ホットシート",
+      "score": 0.48197240511669676,
+      "horse_number": 8,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101452",
+      "horse_name": "スマートジュリアス",
+      "score": 0.36851322757716437,
+      "horse_number": 6,
+      "odds": 7.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103263",
+      "horse_name": "パータリプトラ",
+      "score": 0.3003556288487389,
+      "horse_number": 9,
+      "odds": 25.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102173",
+      "horse_name": "メイショウカクウチ",
+      "score": 0.22568612432558238,
+      "horse_number": 5,
+      "odds": 2.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107299",
+      "horse_name": "ホールオブミラーズ",
+      "score": 0.1712443570288706,
+      "horse_number": 1,
+      "odds": 34.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107535",
+      "horse_name": "ムテキシャチョウ",
+      "score": 0.09043162966856798,
+      "horse_number": 10,
+      "odds": 15.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104856",
+      "horse_name": "マイケルバローズ",
+      "score": 0.04279031299553854,
+      "horse_number": 7,
+      "odds": 8.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023110100",
+      "horse_name": "アスクケンタッキー",
+      "score": -0.021348587235361326,
+      "horse_number": 4,
+      "odds": 11.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023110051",
+      "horse_name": "ドナシェーン",
+      "score": -0.2033118101930041,
+      "horse_number": 2,
+      "odds": 45.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023110034",
+      "horse_name": "カフジクロミエ",
+      "score": -0.25578288101576224,
+      "horse_number": 12,
+      "odds": 38.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105140",
+      "horse_name": "サヨノパララックス",
+      "score": -0.3677242095567709,
+      "horse_number": 3,
+      "odds": 62.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100741",
+      "horse_name": "ムーランオランジュ",
+      "score": -0.38687315758573093,
+      "horse_number": 11,
+      "odds": 89.2
+    }
+  ]
+}

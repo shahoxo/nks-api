@@ -1,0 +1,152 @@
+{
+  "race_id": "202610010507",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-07 13:10",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105796",
+      "horse_name": "アリスメティーク",
+      "score": 0.2506764267874047,
+      "horse_number": 6,
+      "odds": 7.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103233",
+      "horse_name": "パーフェクトパール",
+      "score": 0.2365300771041625,
+      "horse_number": 13,
+      "odds": 12.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100626",
+      "horse_name": "フィオレストラーダ",
+      "score": 0.20446071713490355,
+      "horse_number": 4,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100792",
+      "horse_name": "ワイドリューレント",
+      "score": 0.01681185539996434,
+      "horse_number": 2,
+      "odds": 33.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103705",
+      "horse_name": "エレガンシア",
+      "score": -0.020348053890210684,
+      "horse_number": 10,
+      "odds": 5.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103063",
+      "horse_name": "ルージュスティーズ",
+      "score": -0.024976328579004482,
+      "horse_number": 15,
+      "odds": 18.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102295",
+      "horse_name": "マドモアゼルアスク",
+      "score": -0.07444218552093683,
+      "horse_number": 11,
+      "odds": 18.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105668",
+      "horse_name": "トーセンリバーブ",
+      "score": -0.10361817247962715,
+      "horse_number": 1,
+      "odds": 27.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104208",
+      "horse_name": "ニホンピロホリデー",
+      "score": -0.13995508289686345,
+      "horse_number": 17,
+      "odds": 36.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105817",
+      "horse_name": "アルディスティーノ",
+      "score": -0.16266963249051417,
+      "horse_number": 3,
+      "odds": 6.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105766",
+      "horse_name": "ドーギッド",
+      "score": -0.2571585606514685,
+      "horse_number": 18,
+      "odds": 12.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106757",
+      "horse_name": "ベストレーサー",
+      "score": -0.3966907551330507,
+      "horse_number": 14,
+      "odds": 71.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021107253",
+      "horse_name": "ニシノコマチムスメ",
+      "score": -0.3966907551330507,
+      "horse_number": 7,
+      "odds": 13.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105274",
+      "horse_name": "サイレントグルーヴ",
+      "score": -0.4094698898799578,
+      "horse_number": 8,
+      "odds": 24.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102550",
+      "horse_name": "メイショウピリカ",
+      "score": -0.41681291932501363,
+      "horse_number": 12,
+      "odds": 17.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103217",
+      "horse_name": "ジョセフィーナ",
+      "score": -0.47936940691049823,
+      "horse_number": 16,
+      "odds": 38.7
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022104130",
+      "horse_name": "ランフォースマイル",
+      "score": -0.5197063082732428,
+      "horse_number": 5,
+      "odds": 40.4
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022102984",
+      "horse_name": "ビスケットマリー",
+      "score": -0.5506325049144988,
+      "horse_number": 9,
+      "odds": 72.7
+    }
+  ]
+}
