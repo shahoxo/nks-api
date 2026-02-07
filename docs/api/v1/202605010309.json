@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010309",
+  "race_name": "春菜賞",
+  "race_time": "2026-02-07 14:31",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107276",
+      "horse_name": "カフェラバー",
+      "score": 0.4013852681628875,
+      "horse_number": 14,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106999",
+      "horse_name": "エピッククイーン",
+      "score": 0.3152640771317035,
+      "horse_number": 5,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105325",
+      "horse_name": "ラヴノー",
+      "score": 0.30683252938735495,
+      "horse_number": 11,
+      "odds": 10.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105035",
+      "horse_name": "メイショウハッケイ",
+      "score": 0.2949786488494564,
+      "horse_number": 13,
+      "odds": 5.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103836",
+      "horse_name": "フロムレイブン",
+      "score": 0.21645768977487678,
+      "horse_number": 3,
+      "odds": 6.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101558",
+      "horse_name": "ルージュブリッツ",
+      "score": 0.18853038128068347,
+      "horse_number": 9,
+      "odds": 14.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103032",
+      "horse_name": "ロンドンオービタル",
+      "score": 0.18396669081764833,
+      "horse_number": 6,
+      "odds": 27.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106780",
+      "horse_name": "ランプローグ",
+      "score": 0.11824043297069425,
+      "horse_number": 16,
+      "odds": 43.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102694",
+      "horse_name": "トワニ",
+      "score": 0.019732539405420073,
+      "horse_number": 1,
+      "odds": 7.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103499",
+      "horse_name": "ザバルガド",
+      "score": -0.014010360986814012,
+      "horse_number": 12,
+      "odds": 28.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104991",
+      "horse_name": "ヘルモソブレード",
+      "score": -0.09151570033823123,
+      "horse_number": 4,
+      "odds": 68.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103085",
+      "horse_name": "トリスティ",
+      "score": -0.09538068275581263,
+      "horse_number": 15,
+      "odds": 123.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100935",
+      "horse_name": "トラスコンガーデン",
+      "score": -0.15433756330014012,
+      "horse_number": 10,
+      "odds": 68.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104068",
+      "horse_name": "エゴンウレア",
+      "score": -0.3310748208438805,
+      "horse_number": 2,
+      "odds": 50.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106484",
+      "horse_name": "フェーダーローター",
+      "score": -0.4687172363676663,
+      "horse_number": 8,
+      "odds": 48.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104108",
+      "horse_name": "フローラルツッキー",
+      "score": -0.735775346659503,
+      "horse_number": 7,
+      "odds": 125.3
+    }
+  ]
+}

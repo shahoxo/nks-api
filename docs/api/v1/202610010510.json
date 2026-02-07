@@ -1,0 +1,136 @@
+{
+  "race_id": "202610010510",
+  "race_name": "RKB賞",
+  "race_time": "2026-02-07 14:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021107173",
+      "horse_name": "オオナミコナミ",
+      "score": 0.17137160021451436,
+      "horse_number": 10,
+      "odds": 12.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106306",
+      "horse_name": "ゼンダンハヤブサ",
+      "score": 0.14267114806209102,
+      "horse_number": 16,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105164",
+      "horse_name": "マテンロウギフト",
+      "score": -0.017481969839094204,
+      "horse_number": 6,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104784",
+      "horse_name": "ルクスジニア",
+      "score": -0.038421743665834736,
+      "horse_number": 3,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103288",
+      "horse_name": "ヤコブセン",
+      "score": -0.06823693263984415,
+      "horse_number": 5,
+      "odds": 17.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103168",
+      "horse_name": "トーアライデン",
+      "score": -0.09533810825239786,
+      "horse_number": 12,
+      "odds": 15.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019100606",
+      "horse_name": "ヤマニンループ",
+      "score": -0.11086469868790598,
+      "horse_number": 9,
+      "odds": 11.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021107085",
+      "horse_name": "ウインアクトゥール",
+      "score": -0.1454084869687306,
+      "horse_number": 1,
+      "odds": 6.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103790",
+      "horse_name": "フナデ",
+      "score": -0.25957694406026,
+      "horse_number": 8,
+      "odds": 12.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103651",
+      "horse_name": "ツーエムクロノス",
+      "score": -0.32927840592743796,
+      "horse_number": 14,
+      "odds": 19.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102561",
+      "horse_name": "キーウェーブ",
+      "score": -0.33910204501434926,
+      "horse_number": 7,
+      "odds": 55.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105971",
+      "horse_name": "フラッシング",
+      "score": -0.3435541137307534,
+      "horse_number": 13,
+      "odds": 52.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106803",
+      "horse_name": "ミラーダカリエンテ",
+      "score": -0.40276319951746503,
+      "horse_number": 4,
+      "odds": 17.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104857",
+      "horse_name": "フローラルセント",
+      "score": -0.4473412125775612,
+      "horse_number": 15,
+      "odds": 66.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101925",
+      "horse_name": "オデット",
+      "score": -0.5520430906815742,
+      "horse_number": 11,
+      "odds": 39.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106413",
+      "horse_name": "レッドバレンティア",
+      "score": -0.5970618435386312,
+      "horse_number": 2,
+      "odds": 40.4
+    }
+  ]
+}

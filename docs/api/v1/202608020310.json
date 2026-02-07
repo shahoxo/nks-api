@@ -1,0 +1,80 @@
+{
+  "race_id": "202608020310",
+  "race_name": "エルフィンS",
+  "race_time": "2026-02-07 14:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106840",
+      "horse_name": "アドマイヤシュラ",
+      "score": 0.4234056340786774,
+      "horse_number": 2,
+      "odds": 2.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107264",
+      "horse_name": "デアヴェローチェ",
+      "score": 0.3506389574252784,
+      "horse_number": 7,
+      "odds": 8.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103456",
+      "horse_name": "スピナーリート",
+      "score": 0.34840394333169616,
+      "horse_number": 1,
+      "odds": 13.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107178",
+      "horse_name": "フェルミアーク",
+      "score": 0.3208567929930102,
+      "horse_number": 8,
+      "odds": 5.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104475",
+      "horse_name": "スウィートハピネス",
+      "score": 0.19921344053318524,
+      "horse_number": 4,
+      "odds": 3.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101159",
+      "horse_name": "アイニードユー",
+      "score": 0.15242005853693638,
+      "horse_number": 5,
+      "odds": 21.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103153",
+      "horse_name": "ベルサンローラン",
+      "score": 0.0437415585334912,
+      "horse_number": 6,
+      "odds": 39.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106845",
+      "horse_name": "ラエトゥス",
+      "score": -0.12686500248946234,
+      "horse_number": 9,
+      "odds": 70.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107526",
+      "horse_name": "エレガントファラオ",
+      "score": -0.3125197866815132,
+      "horse_number": 3,
+      "odds": 67.1
+    }
+  ]
+}

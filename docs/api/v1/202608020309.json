@@ -1,0 +1,136 @@
+{
+  "race_id": "202608020309",
+  "race_name": "橿原S",
+  "race_time": "2026-02-07 14:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110151",
+      "horse_name": "ゲッティヴィラ",
+      "score": 0.4708466243801098,
+      "horse_number": 8,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110077",
+      "horse_name": "イリフィ",
+      "score": 0.30346601041207044,
+      "horse_number": 4,
+      "odds": 11.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021110136",
+      "horse_name": "アメリカンマーチ",
+      "score": 0.1226578663819714,
+      "horse_number": 13,
+      "odds": 8.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104862",
+      "horse_name": "パラサイコロジー",
+      "score": 0.09685674011099885,
+      "horse_number": 7,
+      "odds": 4.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101737",
+      "horse_name": "エンヤラヴフェイス",
+      "score": 0.08254995255667842,
+      "horse_number": 3,
+      "odds": 6.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101237",
+      "horse_name": "シャカシャカシー",
+      "score": 0.0005001365512720653,
+      "horse_number": 2,
+      "odds": 19.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104169",
+      "horse_name": "メイショウタイゲイ",
+      "score": -0.011402510960006395,
+      "horse_number": 15,
+      "odds": 40.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019104660",
+      "horse_name": "フラップシグナス",
+      "score": -0.011602650859469519,
+      "horse_number": 1,
+      "odds": 54.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104679",
+      "horse_name": "コパノハンプトン",
+      "score": -0.07047299735987893,
+      "horse_number": 6,
+      "odds": 55.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020107082",
+      "horse_name": "ライジン",
+      "score": -0.1496174944125677,
+      "horse_number": 5,
+      "odds": 44.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103204",
+      "horse_name": "アイアムユウシュン",
+      "score": -0.1645432985348416,
+      "horse_number": 12,
+      "odds": 12.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103367",
+      "horse_name": "ハンベルジャイト",
+      "score": -0.21411680174506376,
+      "horse_number": 14,
+      "odds": 33.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103061",
+      "horse_name": "ムーム",
+      "score": -0.23286595310025235,
+      "horse_number": 9,
+      "odds": 19.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106421",
+      "horse_name": "キタノソワレ",
+      "score": -0.29336055836528474,
+      "horse_number": 10,
+      "odds": 38.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103214",
+      "horse_name": "ネグレスコ",
+      "score": -0.32929657438238147,
+      "horse_number": 16,
+      "odds": 21.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020109094",
+      "horse_name": "ナスノカンゲツ",
+      "score": -0.4367894468648559,
+      "horse_number": 11,
+      "odds": 71.6
+    }
+  ]
+}
