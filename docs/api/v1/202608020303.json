@@ -1,0 +1,120 @@
+{
+  "race_id": "202608020303",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-07 10:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105279",
+      "horse_name": "アニマレイ",
+      "score": 0.15081828224676141,
+      "horse_number": 1,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105593",
+      "horse_name": "ポッドリプル",
+      "score": 0.0982658902936965,
+      "horse_number": 3,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100966",
+      "horse_name": "2023100966",
+      "score": -0.055305574711083924,
+      "horse_number": 11,
+      "odds": 5.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100241",
+      "horse_name": "セイウンバジリスク",
+      "score": -0.16653851385650786,
+      "horse_number": 12,
+      "odds": 15.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102525",
+      "horse_name": "オニノウタゲ",
+      "score": -0.20740265356420456,
+      "horse_number": 6,
+      "odds": 40.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101796",
+      "horse_name": "テリオスリコ",
+      "score": -0.24946469988658151,
+      "horse_number": 4,
+      "odds": 23.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104669",
+      "horse_name": "ゲレイロ",
+      "score": -0.25207750721927896,
+      "horse_number": 2,
+      "odds": 25.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103501",
+      "horse_name": "シンゼンイセ",
+      "score": -0.32300633016147895,
+      "horse_number": 7,
+      "odds": 43.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100596",
+      "horse_name": "ジャーナーリア",
+      "score": -0.3461697332583804,
+      "horse_number": 13,
+      "odds": 6.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101231",
+      "horse_name": "フリッシュ",
+      "score": -0.40781263181166727,
+      "horse_number": 8,
+      "odds": 8.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104692",
+      "horse_name": "サマーブリザード",
+      "score": -0.45666653667029944,
+      "horse_number": 10,
+      "odds": 15.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106572",
+      "horse_name": "メイショウボンテン",
+      "score": -0.49217877377409713,
+      "horse_number": 5,
+      "odds": 51.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103920",
+      "horse_name": "ベラケンタウロス",
+      "score": -0.5300080494461484,
+      "horse_number": 9,
+      "odds": 38.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106586",
+      "horse_name": "ロット",
+      "score": -0.5608527406859845,
+      "horse_number": 14,
+      "odds": 20.1
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "race_id": "202608020302",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-07 10:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103904",
+      "horse_name": "アビル",
+      "score": 0.43008137041764793,
+      "horse_number": 7,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104376",
+      "horse_name": "ミーサーク",
+      "score": 0.357134946346635,
+      "horse_number": 3,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103776",
+      "horse_name": "フォーティンブラス",
+      "score": 0.25526504554980123,
+      "horse_number": 6,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101665",
+      "horse_name": "ウォーターハクビ",
+      "score": -0.03573784005373376,
+      "horse_number": 5,
+      "odds": 10.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105885",
+      "horse_name": "ウインクリンゲル",
+      "score": -0.2348207968406447,
+      "horse_number": 4,
+      "odds": 40.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102773",
+      "horse_name": "ハイビッグゴールド",
+      "score": -0.5599813136421891,
+      "horse_number": 2,
+      "odds": 22.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102358",
+      "horse_name": "ラウターユーベル",
+      "score": -0.5844092227108343,
+      "horse_number": 1,
+      "odds": 32.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102919",
+      "horse_name": "サイモンゼスト",
+      "score": -0.5905141925329709,
+      "horse_number": 9,
+      "odds": 25.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104989",
+      "horse_name": "メイショウルーク",
+      "score": -0.5906374213475926,
+      "horse_number": 8,
+      "odds": 44.9
+    }
+  ]
+}

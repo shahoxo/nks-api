@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010302",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-07 10:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101792",
+      "horse_name": "ジャスフォール",
+      "score": 0.032291316876708775,
+      "horse_number": 8,
+      "odds": 8.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107223",
+      "horse_name": "フローライト",
+      "score": -0.018917340743711857,
+      "horse_number": 10,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102182",
+      "horse_name": "タイキプレジール",
+      "score": -0.07553525423019615,
+      "horse_number": 3,
+      "odds": 9.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023110012",
+      "horse_name": "フローズンブーケ",
+      "score": -0.08768605475462124,
+      "horse_number": 2,
+      "odds": 39.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105022",
+      "horse_name": "アジュアカレンツ",
+      "score": -0.15629226361817555,
+      "horse_number": 6,
+      "odds": 10.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101495",
+      "horse_name": "アヴァランチ",
+      "score": -0.19012441875454747,
+      "horse_number": 1,
+      "odds": 25.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103942",
+      "horse_name": "ソードスレイプニル",
+      "score": -0.24403641089190015,
+      "horse_number": 15,
+      "odds": 22.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100789",
+      "horse_name": "サリーアン",
+      "score": -0.2588846214513457,
+      "horse_number": 14,
+      "odds": 26.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101101",
+      "horse_name": "エンカウンターベイ",
+      "score": -0.31383513812753233,
+      "horse_number": 9,
+      "odds": 15.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104232",
+      "horse_name": "タヤスロレンヌ",
+      "score": -0.33872259179326736,
+      "horse_number": 16,
+      "odds": 10.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104434",
+      "horse_name": "2023104434",
+      "score": -0.34567733822865687,
+      "horse_number": 4,
+      "odds": 5.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106577",
+      "horse_name": "ユイノカタリベ",
+      "score": -0.5135542031085468,
+      "horse_number": 7,
+      "odds": 7.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101910",
+      "horse_name": "ステキサプライズ",
+      "score": -0.536145303459624,
+      "horse_number": 11,
+      "odds": 26.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023107509",
+      "horse_name": "2023107509",
+      "score": -0.5605472818472005,
+      "horse_number": 5,
+      "odds": 21.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105592",
+      "horse_name": "ポッドシャンク",
+      "score": -0.5688916558549025,
+      "horse_number": 13,
+      "odds": 82.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023102320",
+      "horse_name": "ライヴギムレット",
+      "score": -0.7560238565797833,
+      "horse_number": 12,
+      "odds": 72.9
+    }
+  ]
+}
