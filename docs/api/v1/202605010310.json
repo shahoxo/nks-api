@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010310",
+  "race_name": "テレビ山梨杯",
+  "race_time": "2026-02-07 15:05",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110038",
+      "horse_name": "ミクストベリーズ",
+      "score": 0.34556343190602806,
+      "horse_number": 12,
+      "odds": 0.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106237",
+      "horse_name": "サーナーティオン",
+      "score": 0.3035888255673364,
+      "horse_number": 5,
+      "odds": 0.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101573",
+      "horse_name": "ポッドロワール",
+      "score": 0.2046042457811305,
+      "horse_number": 9,
+      "odds": 0.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105367",
+      "horse_name": "コンテネレッツア",
+      "score": 0.1808075840075474,
+      "horse_number": 2,
+      "odds": 0.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105863",
+      "horse_name": "ルージュスエルテ",
+      "score": 0.14170395300052657,
+      "horse_number": 15,
+      "odds": 0.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110015",
+      "horse_name": "プリティディーヴァ",
+      "score": 0.13675291600903824,
+      "horse_number": 3,
+      "odds": 0.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105435",
+      "horse_name": "ボンヌソワレ",
+      "score": 0.07426244564467621,
+      "horse_number": 6,
+      "odds": 0.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019101416",
+      "horse_name": "エールトゥヘヴン",
+      "score": -0.07788852672747074,
+      "horse_number": 7,
+      "odds": 0.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105232",
+      "horse_name": "イブニングタイド",
+      "score": -0.08502131502932868,
+      "horse_number": 1,
+      "odds": 0.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101412",
+      "horse_name": "ワタシマツワ",
+      "score": -0.21534765857375399,
+      "horse_number": 14,
+      "odds": 0.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103218",
+      "horse_name": "フミサウンド",
+      "score": -0.2171906378191435,
+      "horse_number": 8,
+      "odds": 0.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103862",
+      "horse_name": "サダメ",
+      "score": -0.2991948109039736,
+      "horse_number": 11,
+      "odds": 0.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101469",
+      "horse_name": "ヴェナートル",
+      "score": -0.37324729016057656,
+      "horse_number": 4,
+      "odds": 0.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104316",
+      "horse_name": "ユキノエミリオ",
+      "score": -0.4868443554286136,
+      "horse_number": 13,
+      "odds": 0.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018104841",
+      "horse_name": "リリーブライト",
+      "score": -0.5400730144379176,
+      "horse_number": 16,
+      "odds": 0.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104365",
+      "horse_name": "リュウノタブーク",
+      "score": -0.6318373387288261,
+      "horse_number": 10,
+      "odds": 0.0
+    }
+  ]
+}

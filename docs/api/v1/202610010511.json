@@ -1,0 +1,136 @@
+{
+  "race_id": "202610010511",
+  "race_name": "豊前S",
+  "race_time": "2026-02-07 15:20",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105262",
+      "horse_name": "カペルブリュッケ",
+      "score": 0.1078129811192524,
+      "horse_number": 15,
+      "odds": 5.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102256",
+      "horse_name": "ノーブルスカイ",
+      "score": 0.08602062431623403,
+      "horse_number": 16,
+      "odds": 11.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102468",
+      "horse_name": "トーセンサウダージ",
+      "score": 0.025899943813641968,
+      "horse_number": 1,
+      "odds": 14.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103502",
+      "horse_name": "アイウィル",
+      "score": -0.0034349286802979944,
+      "horse_number": 5,
+      "odds": 13.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102753",
+      "horse_name": "サンセットブライト",
+      "score": -0.037943789181187106,
+      "horse_number": 2,
+      "odds": 17.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105188",
+      "horse_name": "クロースコンバット",
+      "score": -0.048932313243753245,
+      "horse_number": 6,
+      "odds": 11.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102862",
+      "horse_name": "レシプロシティ",
+      "score": -0.09417757201457827,
+      "horse_number": 8,
+      "odds": 9.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106063",
+      "horse_name": "ゴッドブルービー",
+      "score": -0.1184601571911634,
+      "horse_number": 4,
+      "odds": 7.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104632",
+      "horse_name": "プルートマスター",
+      "score": -0.12594860101428915,
+      "horse_number": 10,
+      "odds": 19.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103928",
+      "horse_name": "ホウオウスーペリア",
+      "score": -0.12668024693878824,
+      "horse_number": 3,
+      "odds": 10.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100665",
+      "horse_name": "ジャスパーバローズ",
+      "score": -0.13058785878347906,
+      "horse_number": 14,
+      "odds": 45.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102435",
+      "horse_name": "ルージュミラージュ",
+      "score": -0.1916549683521825,
+      "horse_number": 13,
+      "odds": 14.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105635",
+      "horse_name": "ツークフォーゲル",
+      "score": -0.19475006676808618,
+      "horse_number": 11,
+      "odds": 47.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104550",
+      "horse_name": "ワイドアラジン",
+      "score": -0.2330819191559961,
+      "horse_number": 7,
+      "odds": 38.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106635",
+      "horse_name": "メイショウシナノ",
+      "score": -0.24545207807721162,
+      "horse_number": 12,
+      "odds": 10.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018106458",
+      "horse_name": "メイショウミカワ",
+      "score": -0.28952357094520187,
+      "horse_number": 9,
+      "odds": 10.5
+    }
+  ]
+}

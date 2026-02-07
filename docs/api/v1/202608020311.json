@@ -1,0 +1,136 @@
+{
+  "race_id": "202608020311",
+  "race_name": "アルデバラン",
+  "race_time": "2026-02-07 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103115",
+      "horse_name": "キョウキランブ",
+      "score": 0.2816042286525698,
+      "horse_number": 2,
+      "odds": 6.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104928",
+      "horse_name": "トリポリタニア",
+      "score": 0.27933822796320534,
+      "horse_number": 13,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105979",
+      "horse_name": "ピカピカサンダー",
+      "score": 0.24095660599208904,
+      "horse_number": 3,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020100806",
+      "horse_name": "ディープリボーン",
+      "score": 0.2238636704846783,
+      "horse_number": 10,
+      "odds": 8.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2018102576",
+      "horse_name": "ロードプレジール",
+      "score": 0.19034060040397424,
+      "horse_number": 15,
+      "odds": 30.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102750",
+      "horse_name": "タイトニット",
+      "score": 0.1354984447314309,
+      "horse_number": 12,
+      "odds": 6.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105112",
+      "horse_name": "ミッキークレスト",
+      "score": 0.08612032001931229,
+      "horse_number": 11,
+      "odds": 14.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104760",
+      "horse_name": "ゼットリアン",
+      "score": 0.04093683368183043,
+      "horse_number": 7,
+      "odds": 11.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105891",
+      "horse_name": "ドラゴンブースト",
+      "score": -0.0043883716685110844,
+      "horse_number": 6,
+      "odds": 14.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100912",
+      "horse_name": "ジューンアヲニヨシ",
+      "score": -0.05851906765221611,
+      "horse_number": 16,
+      "odds": 16.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104882",
+      "horse_name": "シュバルツクーゲル",
+      "score": -0.07562069072572596,
+      "horse_number": 8,
+      "odds": 27.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018100664",
+      "horse_name": "ホールシバン",
+      "score": -0.15700571815234288,
+      "horse_number": 4,
+      "odds": 63.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105496",
+      "horse_name": "リアレスト",
+      "score": -0.17512065384239295,
+      "horse_number": 1,
+      "odds": 50.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104089",
+      "horse_name": "メイショウユズルハ",
+      "score": -0.4344476502353193,
+      "horse_number": 14,
+      "odds": 160.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019100631",
+      "horse_name": "フォーチュンテラー",
+      "score": -0.4643826236227816,
+      "horse_number": 9,
+      "odds": 78.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019100094",
+      "horse_name": "エナハツホ",
+      "score": -0.553318998961381,
+      "horse_number": 5,
+      "odds": 128.2
+    }
+  ]
+}
