@@ -1,0 +1,128 @@
+{
+  "race_id": "202608020312",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-07 16:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103609",
+      "horse_name": "モカラマーズ",
+      "score": 0.15039148415205217,
+      "horse_number": 13,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104101",
+      "horse_name": "タイセイブロウ",
+      "score": -0.03016768708637909,
+      "horse_number": 3,
+      "odds": 10.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104391",
+      "horse_name": "ヴィヴァシャス",
+      "score": -0.047598420857228915,
+      "horse_number": 9,
+      "odds": 14.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110058",
+      "horse_name": "エリカヴェローナ",
+      "score": -0.050496673556400445,
+      "horse_number": 6,
+      "odds": 14.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102716",
+      "horse_name": "サンマルノヴェル",
+      "score": -0.08676414995193345,
+      "horse_number": 7,
+      "odds": 3.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101431",
+      "horse_name": "ダニエルバローズ",
+      "score": -0.08727594084969896,
+      "horse_number": 11,
+      "odds": 27.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021110121",
+      "horse_name": "アメリカンランナー",
+      "score": -0.12844850209162334,
+      "horse_number": 14,
+      "odds": 11.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104673",
+      "horse_name": "ダディーズアイル",
+      "score": -0.1322525282004282,
+      "horse_number": 15,
+      "odds": 16.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102796",
+      "horse_name": "ウォーターエルピス",
+      "score": -0.14603967059601167,
+      "horse_number": 4,
+      "odds": 12.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019103285",
+      "horse_name": "クリノミニスター",
+      "score": -0.20593867898200033,
+      "horse_number": 8,
+      "odds": 27.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021110134",
+      "horse_name": "エンブレムボム",
+      "score": -0.24699327449127828,
+      "horse_number": 2,
+      "odds": 19.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021110162",
+      "horse_name": "ジュウオウ",
+      "score": -0.45574070594842164,
+      "horse_number": 5,
+      "odds": 36.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022110068",
+      "horse_name": "リドルトリガー",
+      "score": -0.4930873580510978,
+      "horse_number": 12,
+      "odds": 62.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022110113",
+      "horse_name": "ジャスパーノベル",
+      "score": -0.5004911636833914,
+      "horse_number": 1,
+      "odds": 23.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106943",
+      "horse_name": "ランドブレイブ",
+      "score": -0.5833309696314021,
+      "horse_number": 10,
+      "odds": 101.6
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202605010312",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-07 16:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100994",
+      "horse_name": "ルヴァレドクール",
+      "score": 0.2673931377710032,
+      "horse_number": 13,
+      "odds": 0.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105734",
+      "horse_name": "ヘインズポイント",
+      "score": 0.2565553916354626,
+      "horse_number": 4,
+      "odds": 0.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105241",
+      "horse_name": "ソナタン",
+      "score": 0.23098045290759145,
+      "horse_number": 3,
+      "odds": 0.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103303",
+      "horse_name": "ドリーミングアップ",
+      "score": 0.11824518778886964,
+      "horse_number": 6,
+      "odds": 0.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101684",
+      "horse_name": "ミスティマウンテン",
+      "score": 0.07490946949783896,
+      "horse_number": 1,
+      "odds": 0.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101081",
+      "horse_name": "ラッキーヤース",
+      "score": -0.016992431487544948,
+      "horse_number": 5,
+      "odds": 0.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103129",
+      "horse_name": "マリンバンカー",
+      "score": -0.03643411600333614,
+      "horse_number": 10,
+      "odds": 0.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022110128",
+      "horse_name": "エコロヴァイス",
+      "score": -0.10776093574371391,
+      "horse_number": 7,
+      "odds": 0.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104897",
+      "horse_name": "レッドベルダンス",
+      "score": -0.25562398901425787,
+      "horse_number": 11,
+      "odds": 0.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102097",
+      "horse_name": "チュラビックタイム",
+      "score": -0.28261304253265185,
+      "horse_number": 9,
+      "odds": 0.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105839",
+      "horse_name": "サンダーユニバンス",
+      "score": -0.3078658538878303,
+      "horse_number": 2,
+      "odds": 0.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106974",
+      "horse_name": "サムワンライクユー",
+      "score": -0.3942825075423211,
+      "horse_number": 8,
+      "odds": 0.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019104005",
+      "horse_name": "ブレットフライ",
+      "score": -0.5719778936462864,
+      "horse_number": 12,
+      "odds": 0.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106790",
+      "horse_name": "ケアンズ",
+      "score": -0.5945546677764488,
+      "horse_number": 14,
+      "odds": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "race_id": "202605010311",
+  "race_name": "早春S",
+  "race_time": "2026-02-07 15:45",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104925",
+      "horse_name": "トリプルコーク",
+      "score": 0.48202225956352246,
+      "horse_number": 10,
+      "odds": 0.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105155",
+      "horse_name": "パンジャ",
+      "score": 0.3824381065731138,
+      "horse_number": 11,
+      "odds": 0.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104720",
+      "horse_name": "ファイアンクランツ",
+      "score": 0.24514105279229143,
+      "horse_number": 3,
+      "odds": 0.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105984",
+      "horse_name": "ディヴァインスター",
+      "score": 0.22406116219388153,
+      "horse_number": 4,
+      "odds": 0.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104615",
+      "horse_name": "アマキヒ",
+      "score": 0.20932715727913748,
+      "horse_number": 5,
+      "odds": 0.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105066",
+      "horse_name": "レッドテリオス",
+      "score": 0.2085379779210692,
+      "horse_number": 6,
+      "odds": 0.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105352",
+      "horse_name": "ベンサレム",
+      "score": 0.1757234773159291,
+      "horse_number": 8,
+      "odds": 0.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105639",
+      "horse_name": "ダノンホイットニー",
+      "score": 0.020045442974129135,
+      "horse_number": 2,
+      "odds": 0.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104971",
+      "horse_name": "オールセインツ",
+      "score": -0.031715308885878334,
+      "horse_number": 1,
+      "odds": 0.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100976",
+      "horse_name": "ハギノアルデバラン",
+      "score": -0.13116017676744376,
+      "horse_number": 9,
+      "odds": 0.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100148",
+      "horse_name": "ロードオールライト",
+      "score": -0.15111170839396443,
+      "horse_number": 13,
+      "odds": 0.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104995",
+      "horse_name": "エレクトリックブギ",
+      "score": -0.21653036790681585,
+      "horse_number": 7,
+      "odds": 0.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019102937",
+      "horse_name": "コスモフロイデ",
+      "score": -0.5766429540794782,
+      "horse_number": 12,
+      "odds": 0.0
+    }
+  ]
+}

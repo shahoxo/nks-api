@@ -1,0 +1,152 @@
+{
+  "race_id": "202610010512",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-07 16:01",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106905",
+      "horse_name": "ワインクーラー",
+      "score": 0.2523455901750723,
+      "horse_number": 6,
+      "odds": 7.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103473",
+      "horse_name": "ベルサ",
+      "score": 0.19716001004220574,
+      "horse_number": 15,
+      "odds": 4.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101039",
+      "horse_name": "オーケーダイナ",
+      "score": 0.1621545900741141,
+      "horse_number": 13,
+      "odds": 26.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105858",
+      "horse_name": "ラミアメンテ",
+      "score": 0.1429888176356384,
+      "horse_number": 8,
+      "odds": 9.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104648",
+      "horse_name": "フランクスピード",
+      "score": 0.08520478435272115,
+      "horse_number": 12,
+      "odds": 7.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103530",
+      "horse_name": "イコノスタシス",
+      "score": 0.0629584031877667,
+      "horse_number": 18,
+      "odds": 21.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102878",
+      "horse_name": "ナンナンプー",
+      "score": 0.04200551817582205,
+      "horse_number": 3,
+      "odds": 12.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106729",
+      "horse_name": "ウインレオネッサ",
+      "score": -0.05021460480378878,
+      "horse_number": 14,
+      "odds": 21.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101414",
+      "horse_name": "ベルファスト",
+      "score": -0.09650115626829048,
+      "horse_number": 9,
+      "odds": 8.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103214",
+      "horse_name": "ルクスコロン",
+      "score": -0.1502428497421275,
+      "horse_number": 1,
+      "odds": 31.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103880",
+      "horse_name": "ユメシバイ",
+      "score": -0.1780225035958713,
+      "horse_number": 10,
+      "odds": 23.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102433",
+      "horse_name": "アートフォーム",
+      "score": -0.2467739506891798,
+      "horse_number": 16,
+      "odds": 34.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103075",
+      "horse_name": "メイショウヤマモモ",
+      "score": -0.302185941476182,
+      "horse_number": 4,
+      "odds": 10.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105057",
+      "horse_name": "オンザヴィーナス",
+      "score": -0.41821482180072433,
+      "horse_number": 5,
+      "odds": 23.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101579",
+      "horse_name": "2022101579",
+      "score": -0.5071126925064392,
+      "horse_number": 17,
+      "odds": 56.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103527",
+      "horse_name": "ライツユーアップ",
+      "score": -0.550054275147251,
+      "horse_number": 11,
+      "odds": 28.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022107258",
+      "horse_name": "ラブアイミー",
+      "score": -0.5676947702334131,
+      "horse_number": 2,
+      "odds": 36.4
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021106648",
+      "horse_name": "ベネメレンティ",
+      "score": -0.5722916006018547,
+      "horse_number": 7,
+      "odds": 40.5
+    }
+  ]
+}
