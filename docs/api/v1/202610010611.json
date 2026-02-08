@@ -1,0 +1,104 @@
+{
+  "race_id": "202610010611",
+  "race_name": "小倉日経賞",
+  "race_time": "2026-02-08 15:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104959",
+      "horse_name": "キングノジョー",
+      "score": 0.08209332504725278,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104832",
+      "horse_name": "ヴィンセンシオ",
+      "score": -0.006613673388206211,
+      "horse_number": 2,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105750",
+      "horse_name": "マイネルメモリー",
+      "score": -0.09556811128940432,
+      "horse_number": 6,
+      "odds": 13.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105346",
+      "horse_name": "レーゼドラマ",
+      "score": -0.18761318646768527,
+      "horse_number": 10,
+      "odds": 8.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019106933",
+      "horse_name": "ダンテスヴュー",
+      "score": -0.19764600826127082,
+      "horse_number": 9,
+      "odds": 20.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105424",
+      "horse_name": "シルトホルン",
+      "score": -0.2688599079906388,
+      "horse_number": 12,
+      "odds": 6.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101025",
+      "horse_name": "アスクドゥポルテ",
+      "score": -0.28956613240813417,
+      "horse_number": 11,
+      "odds": 8.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100495",
+      "horse_name": "ドラゴンヘッド",
+      "score": -0.3550606565766868,
+      "horse_number": 8,
+      "odds": 18.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105193",
+      "horse_name": "バトルボーン",
+      "score": -0.4320291405811694,
+      "horse_number": 4,
+      "odds": 5.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103082",
+      "horse_name": "カネフラ",
+      "score": -0.5506325049144988,
+      "horse_number": 7,
+      "odds": 57.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2016103730",
+      "horse_name": "ザイツィンガー",
+      "score": -0.5642599865899965,
+      "horse_number": 3,
+      "odds": 58.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106782",
+      "horse_name": "コスモブッドレア",
+      "score": -0.5739601741192428,
+      "horse_number": 1,
+      "odds": 33.6
+    }
+  ]
+}
