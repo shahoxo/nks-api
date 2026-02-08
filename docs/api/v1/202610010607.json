@@ -1,0 +1,128 @@
+{
+  "race_id": "202610010607",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-08 13:55",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104624",
+      "horse_name": "アロマフェリス",
+      "score": 0.18247800071149833,
+      "horse_number": 12,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103676",
+      "horse_name": "ミラクルキャッツ",
+      "score": 0.09370754285016847,
+      "horse_number": 3,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105794",
+      "horse_name": "ラテライト",
+      "score": 0.05160061666538545,
+      "horse_number": 14,
+      "odds": 10.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100439",
+      "horse_name": "ハギノコラソン",
+      "score": -0.03577455348840219,
+      "horse_number": 8,
+      "odds": 4.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105857",
+      "horse_name": "ウィンターガーデン",
+      "score": -0.07267557910526495,
+      "horse_number": 7,
+      "odds": 14.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020104744",
+      "horse_name": "ノーブルアクト",
+      "score": -0.1574060923076811,
+      "horse_number": 13,
+      "odds": 8.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104780",
+      "horse_name": "プルーヴンウィナー",
+      "score": -0.3899158527475176,
+      "horse_number": 10,
+      "odds": 12.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102465",
+      "horse_name": "ブライティアブーケ",
+      "score": -0.3970012663001715,
+      "horse_number": 11,
+      "odds": 16.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105458",
+      "horse_name": "ピリカサンライズ",
+      "score": -0.522646839246781,
+      "horse_number": 5,
+      "odds": 35.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105559",
+      "horse_name": "パーリーラスター",
+      "score": -0.5298230640536297,
+      "horse_number": 1,
+      "odds": 42.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105217",
+      "horse_name": "ヴァイオパイシーズ",
+      "score": -0.5573017811981522,
+      "horse_number": 4,
+      "odds": 39.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106419",
+      "horse_name": "ココボロ",
+      "score": -0.5833309696314021,
+      "horse_number": 15,
+      "odds": 59.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100618",
+      "horse_name": "ハッピービバーク",
+      "score": -0.6360304043193064,
+      "horse_number": 2,
+      "odds": 51.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101166",
+      "horse_name": "ノーマジック",
+      "score": -0.6968393592749148,
+      "horse_number": 6,
+      "odds": 79.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100651",
+      "horse_name": "ヴェレノージ",
+      "score": -0.7344997899121097,
+      "horse_number": 9,
+      "odds": 99.2
+    }
+  ]
+}

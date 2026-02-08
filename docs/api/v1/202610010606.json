@@ -1,0 +1,136 @@
+{
+  "race_id": "202610010606",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-08 13:25",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105810",
+      "horse_name": "オックスアイ",
+      "score": 0.19559345787301813,
+      "horse_number": 14,
+      "odds": 5.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104402",
+      "horse_name": "ムスクレスト",
+      "score": 0.19190630801837172,
+      "horse_number": 3,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023110015",
+      "horse_name": "パーシャングレー",
+      "score": 0.11765578117810466,
+      "horse_number": 10,
+      "odds": 3.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023110025",
+      "horse_name": "セリエンクーニゲン",
+      "score": 0.00428446609507229,
+      "horse_number": 8,
+      "odds": 8.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106236",
+      "horse_name": "ナムラオリガミ",
+      "score": -0.09657200629444,
+      "horse_number": 13,
+      "odds": 19.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103549",
+      "horse_name": "ベルトナリテ",
+      "score": -0.1140783341312227,
+      "horse_number": 1,
+      "odds": 14.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102695",
+      "horse_name": "ギオンバヤシ",
+      "score": -0.2830978736284192,
+      "horse_number": 11,
+      "odds": 10.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105144",
+      "horse_name": "アスコットダンス",
+      "score": -0.3752514566720589,
+      "horse_number": 4,
+      "odds": 18.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105919",
+      "horse_name": "チェンドル",
+      "score": -0.5567544997303129,
+      "horse_number": 2,
+      "odds": 20.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106242",
+      "horse_name": "ナムラライラック",
+      "score": -0.5593252728184894,
+      "horse_number": 6,
+      "odds": 48.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102621",
+      "horse_name": "チッタデラモーレ",
+      "score": -0.5661525305035481,
+      "horse_number": 16,
+      "odds": 45.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100277",
+      "horse_name": "ショウナンライラ",
+      "score": -0.5670515164495529,
+      "horse_number": 7,
+      "odds": 44.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023107303",
+      "horse_name": "2023107303",
+      "score": -0.5990511959421502,
+      "horse_number": 5,
+      "odds": 27.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101007",
+      "horse_name": "タマリスペクト",
+      "score": -0.622384537432268,
+      "horse_number": 9,
+      "odds": 69.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104666",
+      "horse_name": "ミュークトーマス",
+      "score": -0.693384125709968,
+      "horse_number": 12,
+      "odds": 62.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023101780",
+      "horse_name": "ハイラブエナン",
+      "score": -0.7560238565797833,
+      "horse_number": 15,
+      "odds": 85.2
+    }
+  ]
+}
