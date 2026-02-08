@@ -1,0 +1,128 @@
+{
+  "race_id": "202608020403",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-08 10:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103718",
+      "horse_name": "アーガイルショア",
+      "score": 0.2628890181073614,
+      "horse_number": 9,
+      "odds": 0.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101313",
+      "horse_name": "リピ",
+      "score": 0.24552614709627374,
+      "horse_number": 8,
+      "odds": 0.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105765",
+      "horse_name": "クインズナデシコ",
+      "score": 0.24063301483370747,
+      "horse_number": 11,
+      "odds": 0.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101115",
+      "horse_name": "カーリキュー",
+      "score": 0.11730506195836161,
+      "horse_number": 13,
+      "odds": 0.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100989",
+      "horse_name": "アンティスマ",
+      "score": 0.11390509623503124,
+      "horse_number": 4,
+      "odds": 0.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102968",
+      "horse_name": "キャスケード",
+      "score": 0.05156034953731521,
+      "horse_number": 1,
+      "odds": 0.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105729",
+      "horse_name": "モズオウンゴール",
+      "score": 0.02421647874507949,
+      "horse_number": 5,
+      "odds": 0.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107149",
+      "horse_name": "ハッピーバンク",
+      "score": -0.07082386511937265,
+      "horse_number": 2,
+      "odds": 0.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103442",
+      "horse_name": "ルージュシャラポワ",
+      "score": -0.28741555478002384,
+      "horse_number": 15,
+      "odds": 0.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103065",
+      "horse_name": "クラン",
+      "score": -0.41580744568088024,
+      "horse_number": 10,
+      "odds": 0.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106282",
+      "horse_name": "トリーア",
+      "score": -0.5781021345707935,
+      "horse_number": 14,
+      "odds": 0.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105196",
+      "horse_name": "ワンダーバリエンス",
+      "score": -0.6011408789813671,
+      "horse_number": 6,
+      "odds": 0.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102009",
+      "horse_name": "ミリアリア",
+      "score": -0.6275899775217947,
+      "horse_number": 3,
+      "odds": 0.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106072",
+      "horse_name": "パシオネ",
+      "score": -0.6970415147616792,
+      "horse_number": 12,
+      "odds": 0.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104618",
+      "horse_name": "オーベール",
+      "score": -0.7560238565797833,
+      "horse_number": 7,
+      "odds": 0.0
+    }
+  ]
+}

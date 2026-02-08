@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010403",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-08 11:05",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100964",
+      "horse_name": "エアトベーレ",
+      "score": 0.2882897837593895,
+      "horse_number": 10,
+      "odds": 0.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106444",
+      "horse_name": "コスモカノーネ",
+      "score": 0.22246776138119917,
+      "horse_number": 1,
+      "odds": 0.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106994",
+      "horse_name": "ティルベリー",
+      "score": 0.076391697273571,
+      "horse_number": 15,
+      "odds": 0.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106085",
+      "horse_name": "ホテルストリート",
+      "score": 0.020195623905655113,
+      "horse_number": 4,
+      "odds": 0.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102581",
+      "horse_name": "サラサチャチャチャ",
+      "score": -0.1508375553214468,
+      "horse_number": 8,
+      "odds": 0.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100485",
+      "horse_name": "キタノエピックアン",
+      "score": -0.20809301693918092,
+      "horse_number": 7,
+      "odds": 0.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105650",
+      "horse_name": "モントゥリエ",
+      "score": -0.3578794332611758,
+      "horse_number": 12,
+      "odds": 0.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104432",
+      "horse_name": "カラクリスピリッツ",
+      "score": -0.417958008487647,
+      "horse_number": 3,
+      "odds": 0.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103253",
+      "horse_name": "タマモシルエット",
+      "score": -0.47527387920692876,
+      "horse_number": 16,
+      "odds": 0.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107422",
+      "horse_name": "ゼフィリア",
+      "score": -0.5411805552702332,
+      "horse_number": 11,
+      "odds": 0.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104274",
+      "horse_name": "タートルインメイ",
+      "score": -0.5538876305273018,
+      "horse_number": 14,
+      "odds": 0.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106308",
+      "horse_name": "2023106308",
+      "score": -0.5605472818472005,
+      "horse_number": 9,
+      "odds": 0.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105961",
+      "horse_name": "ティーナ",
+      "score": -0.6546627932857848,
+      "horse_number": 13,
+      "odds": 0.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100863",
+      "horse_name": "セントポールヒロ",
+      "score": -0.6829148837393448,
+      "horse_number": 5,
+      "odds": 0.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106349",
+      "horse_name": "グラスベリー",
+      "score": -0.7212483613895885,
+      "horse_number": 6,
+      "odds": 0.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100991",
+      "horse_name": "スティルアイライズ",
+      "score": -0.7497050119125441,
+      "horse_number": 2,
+      "odds": 0.0
+    }
+  ]
+}

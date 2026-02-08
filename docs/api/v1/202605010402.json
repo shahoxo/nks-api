@@ -1,0 +1,112 @@
+{
+  "race_id": "202605010402",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-08 10:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106060",
+      "horse_name": "モロノカガヤキ",
+      "score": 0.2961949447654535,
+      "horse_number": 3,
+      "odds": 0.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106052",
+      "horse_name": "ジーティーブラック",
+      "score": 0.25382522200285124,
+      "horse_number": 11,
+      "odds": 0.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105371",
+      "horse_name": "ボンボンベイビー",
+      "score": -0.050091293497448924,
+      "horse_number": 9,
+      "odds": 0.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103729",
+      "horse_name": "リーピングサイン",
+      "score": -0.08915921104780887,
+      "horse_number": 12,
+      "odds": 0.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103144",
+      "horse_name": "ユイアンゴロー",
+      "score": -0.16091606259746863,
+      "horse_number": 1,
+      "odds": 0.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105177",
+      "horse_name": "タケルムサシ",
+      "score": -0.23072229020367066,
+      "horse_number": 5,
+      "odds": 0.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100318",
+      "horse_name": "バッハ",
+      "score": -0.3132933854453774,
+      "horse_number": 2,
+      "odds": 0.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107307",
+      "horse_name": "ブラックパロット",
+      "score": -0.3196953630444731,
+      "horse_number": 6,
+      "odds": 0.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105413",
+      "horse_name": "ブルースパーダ",
+      "score": -0.44126299589203943,
+      "horse_number": 7,
+      "odds": 0.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103129",
+      "horse_name": "オンザギャラクシー",
+      "score": -0.476549435954322,
+      "horse_number": 4,
+      "odds": 0.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106452",
+      "horse_name": "コスモラムバック",
+      "score": -0.6121130178856828,
+      "horse_number": 8,
+      "odds": 0.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023109080",
+      "horse_name": "キョウエイアート",
+      "score": -0.6546627932857848,
+      "horse_number": 13,
+      "odds": 0.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100994",
+      "horse_name": "ロイヤルドリーム",
+      "score": -0.7295377203336686,
+      "horse_number": 10,
+      "odds": 0.0
+    }
+  ]
+}
