@@ -1,0 +1,96 @@
+{
+  "race_id": "202608020509",
+  "race_name": "こぶし賞",
+  "race_time": "2026-02-14 14:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105035",
+      "horse_name": "メイショウハッケイ",
+      "score": 0.3021526914307271,
+      "horse_number": 11,
+      "odds": 6.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106868",
+      "horse_name": "サトノセプター",
+      "score": 0.28674055999968023,
+      "horse_number": 8,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106227",
+      "horse_name": "ナムラコスモス",
+      "score": 0.20747388056890592,
+      "horse_number": 1,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100553",
+      "horse_name": "カレントゥルーシー",
+      "score": 0.17227330871664118,
+      "horse_number": 4,
+      "odds": 8.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103895",
+      "horse_name": "チュウワカーネギー",
+      "score": 0.13582736658743866,
+      "horse_number": 9,
+      "odds": 4.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106874",
+      "horse_name": "ジャスティンルマン",
+      "score": 0.11171011453035476,
+      "horse_number": 5,
+      "odds": 13.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103388",
+      "horse_name": "ブライトフレア",
+      "score": -0.03929514626033431,
+      "horse_number": 2,
+      "odds": 39.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102694",
+      "horse_name": "トワニ",
+      "score": -0.1182075940393545,
+      "horse_number": 6,
+      "odds": 10.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103474",
+      "horse_name": "アイガーリー",
+      "score": -0.16434875879002322,
+      "horse_number": 7,
+      "odds": 6.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103532",
+      "horse_name": "シーミハットク",
+      "score": -0.2190344293603744,
+      "horse_number": 3,
+      "odds": 37.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106028",
+      "horse_name": "シュガービスケッツ",
+      "score": -0.5363186339465881,
+      "horse_number": 10,
+      "odds": 27.2
+    }
+  ]
+}

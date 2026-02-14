@@ -1,0 +1,120 @@
+{
+  "race_id": "202610010710",
+  "race_name": "伊万里特別",
+  "race_time": "2026-02-14 14:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102427",
+      "horse_name": "パールフロント",
+      "score": 0.18990664524284695,
+      "horse_number": 8,
+      "odds": 5.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110087",
+      "horse_name": "ララアヴリル",
+      "score": 0.16456100062405488,
+      "horse_number": 1,
+      "odds": 7.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019101399",
+      "horse_name": "ザウリ",
+      "score": 0.08002523462526621,
+      "horse_number": 4,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104164",
+      "horse_name": "アネモス",
+      "score": -0.006011675469026949,
+      "horse_number": 6,
+      "odds": 25.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105905",
+      "horse_name": "トーアジョウトウ",
+      "score": -0.030535199065934285,
+      "horse_number": 2,
+      "odds": 11.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101536",
+      "horse_name": "ストラテージュ",
+      "score": -0.04569632813417925,
+      "horse_number": 10,
+      "odds": 10.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104515",
+      "horse_name": "ビーアイフォルテ",
+      "score": -0.13943662910596813,
+      "horse_number": 9,
+      "odds": 32.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019103442",
+      "horse_name": "クラリティスケール",
+      "score": -0.1408185814602674,
+      "horse_number": 5,
+      "odds": 24.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106983",
+      "horse_name": "ゼンノツキヨミ",
+      "score": -0.23434839531924698,
+      "horse_number": 13,
+      "odds": 9.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100226",
+      "horse_name": "ディーエスショウマ",
+      "score": -0.24160031007796504,
+      "horse_number": 12,
+      "odds": 5.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102321",
+      "horse_name": "キングクー",
+      "score": -0.2618110658424553,
+      "horse_number": 14,
+      "odds": 21.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102562",
+      "horse_name": "パルプフィクション",
+      "score": -0.36998557683952227,
+      "horse_number": 3,
+      "odds": 17.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100198",
+      "horse_name": "ホークレア",
+      "score": -0.509502808793306,
+      "horse_number": 7,
+      "odds": 45.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104780",
+      "horse_name": "ラホーヤストーム",
+      "score": -0.5294911959032019,
+      "horse_number": 11,
+      "odds": 33.5
+    }
+  ]
+}

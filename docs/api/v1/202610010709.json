@@ -1,0 +1,88 @@
+{
+  "race_id": "202610010709",
+  "race_name": "あすなろ賞",
+  "race_time": "2026-02-14 14:10",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107201",
+      "horse_name": "エドウィンナルコ",
+      "score": 0.2969371284838325,
+      "horse_number": 8,
+      "odds": 7.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104996",
+      "horse_name": "キッコベッロ",
+      "score": 0.2457584285459111,
+      "horse_number": 4,
+      "odds": 2.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106187",
+      "horse_name": "アンソニー",
+      "score": 0.24196410276473362,
+      "horse_number": 10,
+      "odds": 8.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101382",
+      "horse_name": "ドッグウッド",
+      "score": 0.10726360125385409,
+      "horse_number": 7,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104492",
+      "horse_name": "ブラックハヤテ",
+      "score": -0.05113315286526224,
+      "horse_number": 2,
+      "odds": 4.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104487",
+      "horse_name": "アイドクレース",
+      "score": -0.07698579738146016,
+      "horse_number": 5,
+      "odds": 16.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103351",
+      "horse_name": "グレーヌドジョワ",
+      "score": -0.10962184247061675,
+      "horse_number": 6,
+      "odds": 20.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103958",
+      "horse_name": "アロンソア",
+      "score": -0.15598719541087822,
+      "horse_number": 3,
+      "odds": 41.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106957",
+      "horse_name": "ソラーロ",
+      "score": -0.22030556856084116,
+      "horse_number": 9,
+      "odds": 30.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104842",
+      "horse_name": "ローザレイア",
+      "score": -0.2756443208667847,
+      "horse_number": 1,
+      "odds": 60.8
+    }
+  ]
+}
