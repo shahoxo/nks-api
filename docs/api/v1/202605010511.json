@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010511",
+  "race_name": "クイーンC",
+  "race_time": "2026-02-14 15:45",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107146",
+      "horse_name": "ドリームコア",
+      "score": 0.5139613958707764,
+      "horse_number": 1,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105825",
+      "horse_name": "ギャラボーグ",
+      "score": 0.4979890549575433,
+      "horse_number": 9,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106810",
+      "horse_name": "マスターソアラ",
+      "score": 0.37053450385087366,
+      "horse_number": 15,
+      "odds": 10.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105714",
+      "horse_name": "ヒズマスターピース",
+      "score": 0.1439365098408679,
+      "horse_number": 5,
+      "odds": 22.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103766",
+      "horse_name": "タイムレスキス",
+      "score": 0.12425501016696447,
+      "horse_number": 16,
+      "odds": 34.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103434",
+      "horse_name": "ジッピーチューン",
+      "score": 0.10227687711169481,
+      "horse_number": 2,
+      "odds": 32.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106844",
+      "horse_name": "モルニケ",
+      "score": 0.09640394730713703,
+      "horse_number": 14,
+      "odds": 14.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105325",
+      "horse_name": "ラヴノー",
+      "score": 0.0921829758584035,
+      "horse_number": 8,
+      "odds": 132.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107277",
+      "horse_name": "モートンアイランド",
+      "score": 0.08480127714424189,
+      "horse_number": 4,
+      "odds": 8.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107191",
+      "horse_name": "マルガ",
+      "score": 0.07632824538934767,
+      "horse_number": 3,
+      "odds": 9.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105239",
+      "horse_name": "ゴバド",
+      "score": 0.04608469471811274,
+      "horse_number": 13,
+      "odds": 19.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105141",
+      "horse_name": "ニシノサリーナ",
+      "score": 0.005364694157920083,
+      "horse_number": 6,
+      "odds": 17.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104523",
+      "horse_name": "ミツカネベネラ",
+      "score": 6.104650925204975e-05,
+      "horse_number": 10,
+      "odds": 37.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100917",
+      "horse_name": "レディーゴール",
+      "score": -0.074451273214818,
+      "horse_number": 11,
+      "odds": 122.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103499",
+      "horse_name": "ザバルガド",
+      "score": -0.09207966567545296,
+      "horse_number": 12,
+      "odds": 153.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106484",
+      "horse_name": "フェーダーローター",
+      "score": -0.4687172363676663,
+      "horse_number": 7,
+      "odds": 202.5
+    }
+  ]
+}

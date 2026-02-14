@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010510",
+  "race_name": "銀蹄S",
+  "race_time": "2026-02-14 15:10",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103264",
+      "horse_name": "メイショウハチロー",
+      "score": 0.4660499186502894,
+      "horse_number": 5,
+      "odds": 7.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105356",
+      "horse_name": "ターコイズフリンジ",
+      "score": 0.41207042011731876,
+      "horse_number": 4,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101703",
+      "horse_name": "ベンヌ",
+      "score": 0.303284132138875,
+      "horse_number": 7,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102399",
+      "horse_name": "マーズオデッセイ",
+      "score": 0.3022757844269965,
+      "horse_number": 8,
+      "odds": 10.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106658",
+      "horse_name": "ストレングス",
+      "score": 0.2538800404365564,
+      "horse_number": 12,
+      "odds": 9.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100170",
+      "horse_name": "ヴァンドーム",
+      "score": 0.15387254305299902,
+      "horse_number": 10,
+      "odds": 4.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100583",
+      "horse_name": "レイズカイザー",
+      "score": 0.011329890090569013,
+      "horse_number": 14,
+      "odds": 10.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104972",
+      "horse_name": "スリーピース",
+      "score": 0.007382045125264842,
+      "horse_number": 16,
+      "odds": 29.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020110120",
+      "horse_name": "ガンウルフ",
+      "score": -0.04275002763534254,
+      "horse_number": 3,
+      "odds": 23.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100406",
+      "horse_name": "トクシーカイザー",
+      "score": -0.04742107876977213,
+      "horse_number": 13,
+      "odds": 35.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103033",
+      "horse_name": "グレノークス",
+      "score": -0.06910519181531065,
+      "horse_number": 11,
+      "odds": 23.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019102082",
+      "horse_name": "トルーマンテソーロ",
+      "score": -0.08494594038363636,
+      "horse_number": 15,
+      "odds": 77.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105120",
+      "horse_name": "グラウンドビート",
+      "score": -0.0886419456234322,
+      "horse_number": 2,
+      "odds": 21.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103288",
+      "horse_name": "カフェニクス",
+      "score": -0.10191851323334469,
+      "horse_number": 1,
+      "odds": 28.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100557",
+      "horse_name": "オーサムストローク",
+      "score": -0.19555992844764936,
+      "horse_number": 9,
+      "odds": 97.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019103692",
+      "horse_name": "トウカイファクター",
+      "score": -0.4850738363381114,
+      "horse_number": 6,
+      "odds": 116.6
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202608020511",
+  "race_name": "洛陽S",
+  "race_time": "2026-02-14 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020101784",
+      "horse_name": "ラケマーダ",
+      "score": 0.2622327812256255,
+      "horse_number": 9,
+      "odds": 21.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019105512",
+      "horse_name": "ジャスティンスカイ",
+      "score": 0.2532293689232228,
+      "horse_number": 8,
+      "odds": 17.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103639",
+      "horse_name": "セッション",
+      "score": 0.23606212603983417,
+      "horse_number": 3,
+      "odds": 10.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104564",
+      "horse_name": "ニホンピロキーフ",
+      "score": 0.17786601088009896,
+      "horse_number": 1,
+      "odds": 5.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103464",
+      "horse_name": "ゴートゥファースト",
+      "score": 0.15679731524144785,
+      "horse_number": 13,
+      "odds": 20.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105128",
+      "horse_name": "サトノカルナバル",
+      "score": 0.14326874470549827,
+      "horse_number": 2,
+      "odds": 11.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105778",
+      "horse_name": "チェルビアット",
+      "score": 0.13802970951497595,
+      "horse_number": 14,
+      "odds": 4.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103519",
+      "horse_name": "リラボニート",
+      "score": 0.13708274287708666,
+      "horse_number": 7,
+      "odds": 9.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102013",
+      "horse_name": "ソルトクィーン",
+      "score": 0.09511384270962105,
+      "horse_number": 5,
+      "odds": 7.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105197",
+      "horse_name": "ブラックシールド",
+      "score": 2.6275975799138623e-05,
+      "horse_number": 6,
+      "odds": 31.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103482",
+      "horse_name": "スカイロケット",
+      "score": -0.05547904136401216,
+      "horse_number": 4,
+      "odds": 41.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020107001",
+      "horse_name": "キョウエイブリッサ",
+      "score": -0.2054096883794218,
+      "horse_number": 12,
+      "odds": 6.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105018",
+      "horse_name": "スズハローム",
+      "score": -0.34678488528129015,
+      "horse_number": 11,
+      "odds": 25.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104108",
+      "horse_name": "エナジーグラン",
+      "score": -0.4834636834194097,
+      "horse_number": 10,
+      "odds": 89.0
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "race_id": "202610010711",
+  "race_name": "下関S",
+  "race_time": "2026-02-14 15:20",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021107180",
+      "horse_name": "ジュンヴァンケット",
+      "score": 0.25327731390604064,
+      "horse_number": 18,
+      "odds": 11.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110026",
+      "horse_name": "コウセキ",
+      "score": 0.0589905376668771,
+      "horse_number": 2,
+      "odds": 5.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110112",
+      "horse_name": "ジャスパーディビネ",
+      "score": 0.009827745022931818,
+      "horse_number": 16,
+      "odds": 6.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101576",
+      "horse_name": "レオテミス",
+      "score": -0.03774113253792436,
+      "horse_number": 5,
+      "odds": 20.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103280",
+      "horse_name": "エマヌエーレ",
+      "score": -0.046384583959885525,
+      "horse_number": 10,
+      "odds": 11.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103042",
+      "horse_name": "フォルテム",
+      "score": -0.05301896018313707,
+      "horse_number": 14,
+      "odds": 17.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105771",
+      "horse_name": "ミルテンベルク",
+      "score": -0.0653673788005217,
+      "horse_number": 8,
+      "odds": 7.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101654",
+      "horse_name": "トーラスシャイン",
+      "score": -0.08883851129004855,
+      "horse_number": 15,
+      "odds": 16.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104194",
+      "horse_name": "ルーフ",
+      "score": -0.11455288315729843,
+      "horse_number": 6,
+      "odds": 14.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102514",
+      "horse_name": "ベイビーキッス",
+      "score": -0.13485813507836714,
+      "horse_number": 7,
+      "odds": 16.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102016",
+      "horse_name": "エコロマーズ",
+      "score": -0.136308492226891,
+      "horse_number": 3,
+      "odds": 14.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103092",
+      "horse_name": "ナムラローズマリー",
+      "score": -0.22531778107724623,
+      "horse_number": 11,
+      "odds": 8.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100157",
+      "horse_name": "ロードトレイル",
+      "score": -0.2343510448742425,
+      "horse_number": 1,
+      "odds": 42.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101382",
+      "horse_name": "ブリックワーク",
+      "score": -0.27872707222330345,
+      "horse_number": 12,
+      "odds": 37.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019105760",
+      "horse_name": "シュヴェルトライテ",
+      "score": -0.29743757612721927,
+      "horse_number": 9,
+      "odds": 24.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019106179",
+      "horse_name": "ハートホイップ",
+      "score": -0.35398995928379207,
+      "horse_number": 4,
+      "odds": 56.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2019103897",
+      "horse_name": "ハピネスアゲン",
+      "score": -0.4024922411409696,
+      "horse_number": 13,
+      "odds": 85.0
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021100792",
+      "horse_name": "スコーピオン",
+      "score": -0.47943595476131967,
+      "horse_number": 17,
+      "odds": 93.4
+    }
+  ]
+}
