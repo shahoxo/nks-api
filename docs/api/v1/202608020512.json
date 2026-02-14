@@ -1,0 +1,128 @@
+{
+  "race_id": "202608020512",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-14 16:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101656",
+      "horse_name": "チムニーパイプ",
+      "score": 0.09093330884775054,
+      "horse_number": 9,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103704",
+      "horse_name": "アスゴッド",
+      "score": 0.08458278871128694,
+      "horse_number": 8,
+      "odds": 7.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103837",
+      "horse_name": "クインズシャウラ",
+      "score": -0.18862981492925396,
+      "horse_number": 10,
+      "odds": 14.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020107018",
+      "horse_name": "レジェンダリーデイ",
+      "score": -0.19967347695980944,
+      "horse_number": 11,
+      "odds": 5.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102594",
+      "horse_name": "ミキノバカラ",
+      "score": -0.30751375360540256,
+      "horse_number": 13,
+      "odds": 10.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105748",
+      "horse_name": "リードプリンシパル",
+      "score": -0.35986307641190596,
+      "horse_number": 3,
+      "odds": 15.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102841",
+      "horse_name": "メイショウハボマイ",
+      "score": -0.39281114152895613,
+      "horse_number": 2,
+      "odds": 67.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103396",
+      "horse_name": "クリナッチ",
+      "score": -0.3986333915825113,
+      "horse_number": 14,
+      "odds": 19.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101396",
+      "horse_name": "サンライズブレイク",
+      "score": -0.4391806748049535,
+      "horse_number": 5,
+      "odds": 6.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103550",
+      "horse_name": "キープライジング",
+      "score": -0.44072683655774236,
+      "horse_number": 12,
+      "odds": 19.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103440",
+      "horse_name": "インディゴアスール",
+      "score": -0.500220984140192,
+      "horse_number": 7,
+      "odds": 9.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107167",
+      "horse_name": "リュキア",
+      "score": -0.5190441658162716,
+      "horse_number": 4,
+      "odds": 28.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100121",
+      "horse_name": "ザブルース",
+      "score": -0.6043228396389515,
+      "horse_number": 6,
+      "odds": 78.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104276",
+      "horse_name": "ロトエンペラー",
+      "score": -0.6129412441336815,
+      "horse_number": 1,
+      "odds": 66.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100604",
+      "horse_name": "ジェイエルバース",
+      "score": -0.7344997899121097,
+      "horse_number": 15,
+      "odds": 99.4
+    }
+  ]
+}
