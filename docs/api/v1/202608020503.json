@@ -1,0 +1,96 @@
+{
+  "race_id": "202608020503",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-14 10:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106568",
+      "horse_name": "メイショウアカリ",
+      "score": 0.24004579680763383,
+      "horse_number": 6,
+      "odds": 6.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102706",
+      "horse_name": "レイサンソク",
+      "score": 0.20613867768487296,
+      "horse_number": 10,
+      "odds": 1.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102589",
+      "horse_name": "ダテオトコ",
+      "score": -0.06786692566028432,
+      "horse_number": 3,
+      "odds": 15.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105821",
+      "horse_name": "ロードヴェリタス",
+      "score": -0.08214974881589017,
+      "horse_number": 7,
+      "odds": 7.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100715",
+      "horse_name": "ピエナオルカ",
+      "score": -0.1780579482365485,
+      "horse_number": 8,
+      "odds": 8.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100666",
+      "horse_name": "テンマジックアワー",
+      "score": -0.2698118950210247,
+      "horse_number": 11,
+      "odds": 15.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105148",
+      "horse_name": "リードアクター",
+      "score": -0.3720591021179622,
+      "horse_number": 2,
+      "odds": 21.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103998",
+      "horse_name": "マリンパレス",
+      "score": -0.42130259296385,
+      "horse_number": 1,
+      "odds": 59.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102891",
+      "horse_name": "グロリアス",
+      "score": -0.5216494872280928,
+      "horse_number": 5,
+      "odds": 59.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102610",
+      "horse_name": "テイエムパイロダン",
+      "score": -0.5657121658594272,
+      "horse_number": 9,
+      "odds": 37.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105779",
+      "horse_name": "カシノスパーク",
+      "score": -0.5741361404475822,
+      "horse_number": 4,
+      "odds": 53.2
+    }
+  ]
+}

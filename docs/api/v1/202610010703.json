@@ -1,0 +1,120 @@
+{
+  "race_id": "202610010703",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-14 10:40",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102317",
+      "horse_name": "バンダムソレール",
+      "score": -0.0330000967688487,
+      "horse_number": 7,
+      "odds": 7.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102606",
+      "horse_name": "ミヤフロント",
+      "score": -0.054221931678305815,
+      "horse_number": 12,
+      "odds": 8.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101236",
+      "horse_name": "スマートイデアル",
+      "score": -0.14555106395442638,
+      "horse_number": 4,
+      "odds": 12.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103931",
+      "horse_name": "ゴーゴーパンチ",
+      "score": -0.18924667196505304,
+      "horse_number": 1,
+      "odds": 3.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103999",
+      "horse_name": "カッサンドラ",
+      "score": -0.2098338068527932,
+      "horse_number": 9,
+      "odds": 13.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105310",
+      "horse_name": "マーゴットオネイロ",
+      "score": -0.336540980527109,
+      "horse_number": 2,
+      "odds": 11.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100344",
+      "horse_name": "オンマイビート",
+      "score": -0.35248551932271177,
+      "horse_number": 13,
+      "odds": 44.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104607",
+      "horse_name": "チュラヴェール",
+      "score": -0.4125129053442206,
+      "horse_number": 11,
+      "odds": 5.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102737",
+      "horse_name": "ポポラヴィスタ",
+      "score": -0.5476500042014676,
+      "horse_number": 10,
+      "odds": 30.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101660",
+      "horse_name": "スイーヴル",
+      "score": -0.5843937004443097,
+      "horse_number": 8,
+      "odds": 23.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103036",
+      "horse_name": "カガラプンツェル",
+      "score": -0.593654973639009,
+      "horse_number": 3,
+      "odds": 16.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023109091",
+      "horse_name": "シーキングザバース",
+      "score": -0.6253705655120007,
+      "horse_number": 14,
+      "odds": 11.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106600",
+      "horse_name": "イッツソーブライト",
+      "score": -0.7212483613895885,
+      "horse_number": 5,
+      "odds": 92.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102570",
+      "horse_name": "ローズライズ",
+      "score": -0.7216065912265887,
+      "horse_number": 6,
+      "odds": 31.6
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "race_id": "202610010702",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-14 10:10",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103490",
+      "horse_name": "チョウブク",
+      "score": 0.25393904802515527,
+      "horse_number": 17,
+      "odds": 8.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101632",
+      "horse_name": "マーゴットミスト",
+      "score": 0.22199005832698043,
+      "horse_number": 1,
+      "odds": 2.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106372",
+      "horse_name": "リラベガ",
+      "score": 0.04469460217895403,
+      "horse_number": 13,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102363",
+      "horse_name": "ウインドトリック",
+      "score": -0.019485459083958878,
+      "horse_number": 18,
+      "odds": 8.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106951",
+      "horse_name": "2023106951",
+      "score": -0.10693995732754298,
+      "horse_number": 6,
+      "odds": 6.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100611",
+      "horse_name": "オタルイーグル",
+      "score": -0.1290457830506778,
+      "horse_number": 5,
+      "odds": 53.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103191",
+      "horse_name": "ワンダーアスク",
+      "score": -0.21229453093172643,
+      "horse_number": 16,
+      "odds": 18.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104392",
+      "horse_name": "オレンジキャンパス",
+      "score": -0.26552630493057205,
+      "horse_number": 2,
+      "odds": 39.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106598",
+      "horse_name": "ドリーマーズ",
+      "score": -0.3048895123123981,
+      "horse_number": 10,
+      "odds": 26.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104917",
+      "horse_name": "ノーブルマドンナ",
+      "score": -0.389196453279341,
+      "horse_number": 15,
+      "odds": 29.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104140",
+      "horse_name": "セイカユウヒ",
+      "score": -0.42526873681717825,
+      "horse_number": 11,
+      "odds": 25.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106470",
+      "horse_name": "メーテルリンク",
+      "score": -0.4360196165856515,
+      "horse_number": 14,
+      "odds": 74.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102720",
+      "horse_name": "ララクレアドルーン",
+      "score": -0.43794113786814226,
+      "horse_number": 8,
+      "odds": 29.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104900",
+      "horse_name": "ミツカネマルテ",
+      "score": -0.45174936842115554,
+      "horse_number": 3,
+      "odds": 137.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101610",
+      "horse_name": "クリコファルコン",
+      "score": -0.5184038940737431,
+      "horse_number": 7,
+      "odds": 118.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104697",
+      "horse_name": "セイウンシシマイ",
+      "score": -0.5393606452573874,
+      "horse_number": 4,
+      "odds": 69.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023102133",
+      "horse_name": "スイートポメロ",
+      "score": -0.5538876305273018,
+      "horse_number": 12,
+      "odds": 40.6
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023101185",
+      "horse_name": "ミラクルスパート",
+      "score": -0.5832453675105186,
+      "horse_number": 9,
+      "odds": 41.1
+    }
+  ]
+}

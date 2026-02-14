@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010502",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-14 10:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105022",
+      "horse_name": "ライノ",
+      "score": 0.4367397960190848,
+      "horse_number": 5,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104766",
+      "horse_name": "トレインザマインド",
+      "score": 0.07329786097999433,
+      "horse_number": 13,
+      "odds": 11.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102745",
+      "horse_name": "ベネスピラ",
+      "score": 0.02953821943185112,
+      "horse_number": 3,
+      "odds": 11.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103017",
+      "horse_name": "オウケンシルヴァー",
+      "score": 0.026641151265536865,
+      "horse_number": 1,
+      "odds": 7.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104062",
+      "horse_name": "カージオイド",
+      "score": -0.11037133060173798,
+      "horse_number": 16,
+      "odds": 21.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103263",
+      "horse_name": "メイショウアゴナス",
+      "score": -0.20933435635020003,
+      "horse_number": 10,
+      "odds": 6.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100884",
+      "horse_name": "タケルゴールド",
+      "score": -0.2199887901901353,
+      "horse_number": 6,
+      "odds": 14.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103118",
+      "horse_name": "ブレイヴアロウ",
+      "score": -0.25517557197384083,
+      "horse_number": 9,
+      "odds": 23.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102058",
+      "horse_name": "スマートクオーレ",
+      "score": -0.2787496754083824,
+      "horse_number": 7,
+      "odds": 11.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102097",
+      "horse_name": "チュラビックタイム",
+      "score": -0.3764712957493842,
+      "horse_number": 15,
+      "odds": 59.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101201",
+      "horse_name": "ロードインフェルノ",
+      "score": -0.4038872186913792,
+      "horse_number": 14,
+      "odds": 40.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105940",
+      "horse_name": "メイショウコウベ",
+      "score": -0.46514361215432454,
+      "horse_number": 2,
+      "odds": 54.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104312",
+      "horse_name": "ディースプレマシー",
+      "score": -0.544716909231382,
+      "horse_number": 12,
+      "odds": 33.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105767",
+      "horse_name": "アルカナエ",
+      "score": -0.592598261410382,
+      "horse_number": 8,
+      "odds": 97.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102991",
+      "horse_name": "カイトヴィント",
+      "score": -0.6293301629666437,
+      "horse_number": 4,
+      "odds": 49.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022105697",
+      "horse_name": "ソリッドベーシス",
+      "score": -0.6914615033225123,
+      "horse_number": 11,
+      "odds": 49.6
+    }
+  ]
+}
