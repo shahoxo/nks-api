@@ -1,0 +1,128 @@
+{
+  "race_id": "202608020507",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-14 13:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102624",
+      "horse_name": "エイシンマールス",
+      "score": 0.18810128528204673,
+      "horse_number": 2,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100333",
+      "horse_name": "タケルハーロック",
+      "score": 0.1840756851901646,
+      "horse_number": 5,
+      "odds": 4.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021107097",
+      "horse_name": "ララバッカナール",
+      "score": 0.1585466550029362,
+      "horse_number": 7,
+      "odds": 12.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102360",
+      "horse_name": "シュテルンビルト",
+      "score": 0.06814556869582748,
+      "horse_number": 15,
+      "odds": 21.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106200",
+      "horse_name": "ミヤジマナ",
+      "score": 0.05547569757941081,
+      "horse_number": 4,
+      "odds": 7.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106010",
+      "horse_name": "モズタチアガレ",
+      "score": 0.0518744985154446,
+      "horse_number": 14,
+      "odds": 3.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105857",
+      "horse_name": "ラウルベア",
+      "score": -0.0075600491576522134,
+      "horse_number": 9,
+      "odds": 37.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103954",
+      "horse_name": "クインズメレンゲ",
+      "score": -0.03883111156935292,
+      "horse_number": 12,
+      "odds": 45.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022110104",
+      "horse_name": "アメリカンビヨンド",
+      "score": -0.07411515161966152,
+      "horse_number": 1,
+      "odds": 17.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105011",
+      "horse_name": "リンゲルブルーメ",
+      "score": -0.0880936305396176,
+      "horse_number": 10,
+      "odds": 29.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104611",
+      "horse_name": "ジュンライトニング",
+      "score": -0.19951140340120166,
+      "horse_number": 3,
+      "odds": 73.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104936",
+      "horse_name": "カサブランカキッド",
+      "score": -0.46772646024402864,
+      "horse_number": 6,
+      "odds": 75.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102052",
+      "horse_name": "セルズパワー",
+      "score": -0.517983736685851,
+      "horse_number": 13,
+      "odds": 42.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106018",
+      "horse_name": "モズリバーシャトー",
+      "score": -0.681551965729307,
+      "horse_number": 11,
+      "odds": 78.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022107321",
+      "horse_name": "ボストンクーラー",
+      "score": -0.7295377203336686,
+      "horse_number": 8,
+      "odds": 94.4
+    }
+  ]
+}

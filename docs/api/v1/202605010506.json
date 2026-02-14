@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010506",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-14 12:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107024",
+      "horse_name": "シニャンガ",
+      "score": 0.5057013237968302,
+      "horse_number": 15,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105283",
+      "horse_name": "コンサートピアノ",
+      "score": 0.2619215720070951,
+      "horse_number": 14,
+      "odds": 5.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103051",
+      "horse_name": "ミズノミヤコ",
+      "score": 0.24005652509631553,
+      "horse_number": 4,
+      "odds": 27.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104680",
+      "horse_name": "サートゥルチェア",
+      "score": 0.21989204303262133,
+      "horse_number": 16,
+      "odds": 15.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103686",
+      "horse_name": "クイーンズレイン",
+      "score": 0.1802276244665217,
+      "horse_number": 10,
+      "odds": 21.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107179",
+      "horse_name": "ダーリングハースト",
+      "score": 0.1647664365410677,
+      "horse_number": 8,
+      "odds": 3.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106411",
+      "horse_name": "マンサニージャ",
+      "score": 0.1313742504938121,
+      "horse_number": 5,
+      "odds": 38.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105243",
+      "horse_name": "アルペンローゼ",
+      "score": -0.09450672891949265,
+      "horse_number": 7,
+      "odds": 51.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107243",
+      "horse_name": "2023107243",
+      "score": -0.13045856632433322,
+      "horse_number": 2,
+      "odds": 21.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103321",
+      "horse_name": "キコリータ",
+      "score": -0.286024175057046,
+      "horse_number": 11,
+      "odds": 43.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101328",
+      "horse_name": "2023101328",
+      "score": -0.47293600501096866,
+      "horse_number": 9,
+      "odds": 108.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101629",
+      "horse_name": "ジーティーウブラブ",
+      "score": -0.546418385722876,
+      "horse_number": 13,
+      "odds": 81.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106592",
+      "horse_name": "マトリカリア",
+      "score": -0.5467766155598762,
+      "horse_number": 6,
+      "odds": 128.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103465",
+      "horse_name": "スカーレットジーン",
+      "score": -0.6121130178856828,
+      "horse_number": 1,
+      "odds": 147.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102163",
+      "horse_name": "ソルトバーン",
+      "score": -0.6238524678642596,
+      "horse_number": 12,
+      "odds": 161.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023109063",
+      "horse_name": "シンデレラヒメ",
+      "score": -0.7344997899121097,
+      "horse_number": 3,
+      "odds": 206.1
+    }
+  ]
+}
