@@ -1,0 +1,128 @@
+{
+  "race_id": "202610010808",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-15 13:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110012",
+      "horse_name": "アークドール",
+      "score": 0.00724398931105376,
+      "horse_number": 7,
+      "odds": 5.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105177",
+      "horse_name": "グリプトグラフィ",
+      "score": -0.03569726542503403,
+      "horse_number": 15,
+      "odds": 7.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101003",
+      "horse_name": "ラブカ",
+      "score": -0.035822848317915615,
+      "horse_number": 11,
+      "odds": 14.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102383",
+      "horse_name": "ニヒトツーゼーア",
+      "score": -0.14086252136695068,
+      "horse_number": 4,
+      "odds": 6.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106566",
+      "horse_name": "ダイシンレアレア",
+      "score": -0.17446390704882483,
+      "horse_number": 2,
+      "odds": 14.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105506",
+      "horse_name": "シドニーホバート",
+      "score": -0.17899494457068926,
+      "horse_number": 13,
+      "odds": 13.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104403",
+      "horse_name": "ニシノミチアキ",
+      "score": -0.21063225754077067,
+      "horse_number": 12,
+      "odds": 16.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100497",
+      "horse_name": "スマートブル",
+      "score": -0.33457341838087035,
+      "horse_number": 10,
+      "odds": 9.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103293",
+      "horse_name": "リアンクトワ",
+      "score": -0.3836502627910544,
+      "horse_number": 8,
+      "odds": 35.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103587",
+      "horse_name": "ミラクルブルー",
+      "score": -0.4148481748174948,
+      "horse_number": 5,
+      "odds": 20.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105493",
+      "horse_name": "イエローブリック",
+      "score": -0.4331680972063978,
+      "horse_number": 1,
+      "odds": 32.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107301",
+      "horse_name": "イプシロンナンバー",
+      "score": -0.4754396833875101,
+      "horse_number": 6,
+      "odds": 5.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106180",
+      "horse_name": "シーリュウシー",
+      "score": -0.4946923493481409,
+      "horse_number": 9,
+      "odds": 16.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022107299",
+      "horse_name": "クレスコドルフィン",
+      "score": -0.5271741175832952,
+      "horse_number": 14,
+      "odds": 26.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021105074",
+      "horse_name": "モヴレクス",
+      "score": -0.5510724124602285,
+      "horse_number": 3,
+      "odds": 34.9
+    }
+  ]
+}

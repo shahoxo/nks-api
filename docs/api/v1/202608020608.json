@@ -1,0 +1,104 @@
+{
+  "race_id": "202608020608",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-15 13:45",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110102",
+      "horse_name": "グレートシール",
+      "score": 0.4827533595370429,
+      "horse_number": 9,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102539",
+      "horse_name": "アレンテージョ",
+      "score": 0.16392299530089346,
+      "horse_number": 11,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105769",
+      "horse_name": "ピースヒロフェイス",
+      "score": 0.022384959244825538,
+      "horse_number": 5,
+      "odds": 9.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104719",
+      "horse_name": "ダノンカゼルタ",
+      "score": -0.01896487302845965,
+      "horse_number": 12,
+      "odds": 20.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106180",
+      "horse_name": "シャインバオバブ",
+      "score": -0.07910025484446073,
+      "horse_number": 8,
+      "odds": 11.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104598",
+      "horse_name": "ドルチェリターン",
+      "score": -0.19598856288925376,
+      "horse_number": 1,
+      "odds": 7.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104820",
+      "horse_name": "メアヴィア",
+      "score": -0.2154715100777263,
+      "horse_number": 6,
+      "odds": 15.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106715",
+      "horse_name": "ギザキズラヴ",
+      "score": -0.22329452923780824,
+      "horse_number": 3,
+      "odds": 8.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105936",
+      "horse_name": "ウィテカービート",
+      "score": -0.5173024414353192,
+      "horse_number": 4,
+      "odds": 36.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102736",
+      "horse_name": "ビヨンドザドリーム",
+      "score": -0.5472916750833359,
+      "horse_number": 10,
+      "odds": 12.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102162",
+      "horse_name": "グディンナ",
+      "score": -0.588214498764502,
+      "horse_number": 2,
+      "odds": 51.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106790",
+      "horse_name": "ケアンズ",
+      "score": -0.5907216745266844,
+      "horse_number": 7,
+      "odds": 54.4
+    }
+  ]
+}

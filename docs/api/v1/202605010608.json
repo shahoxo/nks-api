@@ -1,0 +1,120 @@
+{
+  "race_id": "202605010608",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-02-15 13:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105070",
+      "horse_name": "ジャサルディア",
+      "score": 0.2473683083071025,
+      "horse_number": 10,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104893",
+      "horse_name": "ダノンエンブレム",
+      "score": 0.19304166288125826,
+      "horse_number": 4,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100564",
+      "horse_name": "エフォートレス",
+      "score": 0.17985109856569897,
+      "horse_number": 2,
+      "odds": 10.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102200",
+      "horse_name": "レッドライトニング",
+      "score": 0.060833397312211684,
+      "horse_number": 5,
+      "odds": 21.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105590",
+      "horse_name": "ワンモアスマイル",
+      "score": 0.05070343101826896,
+      "horse_number": 7,
+      "odds": 16.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103388",
+      "horse_name": "フェイト",
+      "score": 0.002985092383440643,
+      "horse_number": 1,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105584",
+      "horse_name": "ツーネサーン",
+      "score": -0.03168985968980603,
+      "horse_number": 12,
+      "odds": 8.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102106",
+      "horse_name": "ツルマウカタチ",
+      "score": -0.04387691996177952,
+      "horse_number": 11,
+      "odds": 8.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103486",
+      "horse_name": "ホウオウシェリー",
+      "score": -0.04949296554701106,
+      "horse_number": 3,
+      "odds": 17.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105367",
+      "horse_name": "コンテネレッツア",
+      "score": -0.17278350843558163,
+      "horse_number": 6,
+      "odds": 13.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103799",
+      "horse_name": "ケイケイ",
+      "score": -0.333491650220685,
+      "horse_number": 8,
+      "odds": 29.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101258",
+      "horse_name": "コスモオピニオン",
+      "score": -0.4145619264630147,
+      "horse_number": 14,
+      "odds": 56.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104960",
+      "horse_name": "トロピカルヒーロー",
+      "score": -0.5530974180867849,
+      "horse_number": 13,
+      "odds": 129.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104365",
+      "horse_name": "リュウノタブーク",
+      "score": -0.6318373387288261,
+      "horse_number": 9,
+      "odds": 108.2
+    }
+  ]
+}

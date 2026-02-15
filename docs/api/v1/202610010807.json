@@ -1,0 +1,120 @@
+{
+  "race_id": "202610010807",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-15 13:05",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104980",
+      "horse_name": "ダノンピクチャー",
+      "score": 0.05290704001073487,
+      "horse_number": 10,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105839",
+      "horse_name": "アスクデッドヒート",
+      "score": 0.03810565751125647,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105189",
+      "horse_name": "ウインリュクス",
+      "score": 0.033048414702944076,
+      "horse_number": 9,
+      "odds": 7.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105687",
+      "horse_name": "オーサムユニバンス",
+      "score": 0.015141471035968388,
+      "horse_number": 14,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105597",
+      "horse_name": "ゲンジ",
+      "score": 0.0068246965057944566,
+      "horse_number": 1,
+      "odds": 3.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106940",
+      "horse_name": "ローレルオーブ",
+      "score": 0.001843372600670864,
+      "horse_number": 13,
+      "odds": 10.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101102",
+      "horse_name": "ウインポセイドン",
+      "score": -0.2650969829181958,
+      "horse_number": 4,
+      "odds": 16.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105784",
+      "horse_name": "リアルファインド",
+      "score": -0.31111323570699206,
+      "horse_number": 2,
+      "odds": 37.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105796",
+      "horse_name": "ペリプルス",
+      "score": -0.3771269356930729,
+      "horse_number": 3,
+      "odds": 59.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104661",
+      "horse_name": "ジーティートシオー",
+      "score": -0.4289809145167526,
+      "horse_number": 8,
+      "odds": 56.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105292",
+      "horse_name": "ヴァレッタカズマ",
+      "score": -0.43547186665161053,
+      "horse_number": 6,
+      "odds": 18.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105875",
+      "horse_name": "レイフロレット",
+      "score": -0.44501396204942567,
+      "horse_number": 12,
+      "odds": 53.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101029",
+      "horse_name": "アスクメークシェア",
+      "score": -0.5719778936462864,
+      "horse_number": 7,
+      "odds": 29.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106684",
+      "horse_name": "ドラギニャン",
+      "score": -0.5860174636782842,
+      "horse_number": 11,
+      "odds": 102.2
+    }
+  ]
+}
