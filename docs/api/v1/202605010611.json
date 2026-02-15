@@ -1,0 +1,80 @@
+{
+  "race_id": "202605010611",
+  "race_name": "共同通信杯",
+  "race_time": "2026-02-15 15:45",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107089",
+      "horse_name": "ロブチェン",
+      "score": 0.3573065063317112,
+      "horse_number": 6,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100724",
+      "horse_name": "サノノグレーター",
+      "score": 0.26107246031503345,
+      "horse_number": 1,
+      "odds": 9.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106983",
+      "horse_name": "ベレシート",
+      "score": 0.25831947700317676,
+      "horse_number": 7,
+      "odds": 6.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103604",
+      "horse_name": "リアライズシリウス",
+      "score": 0.24688848272509406,
+      "horse_number": 5,
+      "odds": 4.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105238",
+      "horse_name": "ラヴェニュー",
+      "score": 0.19564468291711284,
+      "horse_number": 8,
+      "odds": 2.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103452",
+      "horse_name": "ディバインウインド",
+      "score": 0.09179959340114362,
+      "horse_number": 4,
+      "odds": 8.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102814",
+      "horse_name": "イージーライダー",
+      "score": -0.012893413336011614,
+      "horse_number": 2,
+      "odds": 90.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105314",
+      "horse_name": "サトノヴァンクル",
+      "score": -0.05421290788680386,
+      "horse_number": 9,
+      "odds": 33.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100681",
+      "horse_name": "ガリレア",
+      "score": -0.23583118447407125,
+      "horse_number": 3,
+      "odds": 70.9
+    }
+  ]
+}

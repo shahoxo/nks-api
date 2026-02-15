@@ -1,0 +1,112 @@
+{
+  "race_id": "202610010812",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-15 16:01",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103911",
+      "horse_name": "ショウナンタハティ",
+      "score": -0.031192283001778096,
+      "horse_number": 10,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102394",
+      "horse_name": "マーウォルス",
+      "score": -0.03323356696878561,
+      "horse_number": 12,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104910",
+      "horse_name": "レイザリオ",
+      "score": -0.06531997118461058,
+      "horse_number": 13,
+      "odds": 5.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103946",
+      "horse_name": "スマートクラビ",
+      "score": -0.08701545894986795,
+      "horse_number": 8,
+      "odds": 12.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103320",
+      "horse_name": "サンライズシア",
+      "score": -0.15546513319676977,
+      "horse_number": 7,
+      "odds": 4.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106045",
+      "horse_name": "ウィズマスタング",
+      "score": -0.1790526887254944,
+      "horse_number": 5,
+      "odds": 10.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104880",
+      "horse_name": "インターアーバン",
+      "score": -0.3129657477518413,
+      "horse_number": 2,
+      "odds": 18.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101548",
+      "horse_name": "アスタールテニウム",
+      "score": -0.5347582888463086,
+      "horse_number": 9,
+      "odds": 56.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102567",
+      "horse_name": "オロパタジン",
+      "score": -0.5494931663403189,
+      "horse_number": 1,
+      "odds": 8.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102984",
+      "horse_name": "ビスケットマリー",
+      "score": -0.5506325049144988,
+      "horse_number": 3,
+      "odds": 28.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019101233",
+      "horse_name": "アイファーファイト",
+      "score": -0.5719778936462864,
+      "horse_number": 11,
+      "odds": 53.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101153",
+      "horse_name": "ピエナクレスコ",
+      "score": -0.5756804866807193,
+      "horse_number": 4,
+      "odds": 49.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021107279",
+      "horse_name": "トクシージェネラル",
+      "score": -0.6906017329490806,
+      "horse_number": 6,
+      "odds": 17.1
+    }
+  ]
+}

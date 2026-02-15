@@ -1,0 +1,104 @@
+{
+  "race_id": "202608020611",
+  "race_name": "京都記念",
+  "race_time": "2026-02-15 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105521",
+      "horse_name": "ヘデントール",
+      "score": 0.5233229879899531,
+      "horse_number": 1,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105099",
+      "horse_name": "エリキング",
+      "score": 0.5139613958707764,
+      "horse_number": 6,
+      "odds": 1.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105073",
+      "horse_name": "エコロディノス",
+      "score": 0.1341897354138341,
+      "horse_number": 4,
+      "odds": 10.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103101",
+      "horse_name": "シェイクユアハート",
+      "score": -0.024608705971975307,
+      "horse_number": 8,
+      "odds": 13.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100913",
+      "horse_name": "ジューンテイク",
+      "score": -0.0396148842598321,
+      "horse_number": 12,
+      "odds": 20.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105541",
+      "horse_name": "サフィラ",
+      "score": -0.09828868304198532,
+      "horse_number": 3,
+      "odds": 20.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019100792",
+      "horse_name": "マイネルクリソーラ",
+      "score": -0.11712468431922463,
+      "horse_number": 11,
+      "odds": 58.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103025",
+      "horse_name": "ドクタードリトル",
+      "score": -0.1445522293441782,
+      "horse_number": 9,
+      "odds": 87.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018105012",
+      "horse_name": "ヨーホーレイク",
+      "score": -0.1456924798150873,
+      "horse_number": 2,
+      "odds": 8.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020105633",
+      "horse_name": "リビアングラス",
+      "score": -0.2716646444503648,
+      "horse_number": 10,
+      "odds": 37.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2017103000",
+      "horse_name": "バビット",
+      "score": -0.3911595764393604,
+      "horse_number": 5,
+      "odds": 50.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104091",
+      "horse_name": "メイショウブレゲ",
+      "score": -0.4813562160131134,
+      "horse_number": 7,
+      "odds": 108.5
+    }
+  ]
+}

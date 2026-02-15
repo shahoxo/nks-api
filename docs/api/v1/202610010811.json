@@ -1,0 +1,152 @@
+{
+  "race_id": "202610010811",
+  "race_name": "北九州短距離",
+  "race_time": "2026-02-15 15:15",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103434",
+      "horse_name": "カルロヴェローチェ",
+      "score": 0.21280899044130425,
+      "horse_number": 11,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102887",
+      "horse_name": "ナムラクララ",
+      "score": 0.09493272242513856,
+      "horse_number": 18,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2018103515",
+      "horse_name": "カンティーユ",
+      "score": 0.08218805295191886,
+      "horse_number": 9,
+      "odds": 13.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100522",
+      "horse_name": "ジョーメッドヴィン",
+      "score": 0.013330981311949968,
+      "horse_number": 7,
+      "odds": 9.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020102672",
+      "horse_name": "メイクアスナッチ",
+      "score": -0.032153261481365644,
+      "horse_number": 5,
+      "odds": 28.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101872",
+      "horse_name": "デイトナモード",
+      "score": -0.0605621606676194,
+      "horse_number": 2,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103356",
+      "horse_name": "クファシル",
+      "score": -0.07203062549423801,
+      "horse_number": 14,
+      "odds": 41.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020109102",
+      "horse_name": "サウザンサニー",
+      "score": -0.07992058362173825,
+      "horse_number": 10,
+      "odds": 18.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102315",
+      "horse_name": "アスクワンタイム",
+      "score": -0.17788563781118402,
+      "horse_number": 13,
+      "odds": 11.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019110001",
+      "horse_name": "ショウナンハクラク",
+      "score": -0.22716681596572952,
+      "horse_number": 16,
+      "odds": 45.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104911",
+      "horse_name": "プルパレイ",
+      "score": -0.24571231485375275,
+      "horse_number": 1,
+      "odds": 59.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105400",
+      "horse_name": "タマモブラックタイ",
+      "score": -0.25991589841644097,
+      "horse_number": 17,
+      "odds": 20.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019100751",
+      "horse_name": "マイネルレノン",
+      "score": -0.2799440901692074,
+      "horse_number": 15,
+      "odds": 47.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103594",
+      "horse_name": "レッドアヴァンティ",
+      "score": -0.35471559354514365,
+      "horse_number": 6,
+      "odds": 59.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101897",
+      "horse_name": "レッドヒルシューズ",
+      "score": -0.4189391780663524,
+      "horse_number": 4,
+      "odds": 23.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103304",
+      "horse_name": "ダンツエラン",
+      "score": -0.4838630046820489,
+      "horse_number": 12,
+      "odds": 17.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2018102155",
+      "horse_name": "マイネルジェロディ",
+      "score": -0.5121403619022591,
+      "horse_number": 8,
+      "odds": 32.1
+    },
+    {
+      "rank": 18,
+      "horse_id": "2018104347",
+      "horse_name": "ユキノファラオ",
+      "score": -0.6791938140005536,
+      "horse_number": 3,
+      "odds": 134.0
+    }
+  ]
+}
