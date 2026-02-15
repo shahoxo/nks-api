@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010612",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-02-15 16:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105583",
+      "horse_name": "ストーンズ",
+      "score": 0.18699276667396875,
+      "horse_number": 9,
+      "odds": 5.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106639",
+      "horse_name": "モーニングマジック",
+      "score": 0.17673539161164054,
+      "horse_number": 13,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019106808",
+      "horse_name": "ウィンダミア",
+      "score": 0.1589390812524406,
+      "horse_number": 6,
+      "odds": 28.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103630",
+      "horse_name": "ウルスクローム",
+      "score": 0.11978167899799542,
+      "horse_number": 5,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019105041",
+      "horse_name": "ホウオウプレミア",
+      "score": 0.11963993398177343,
+      "horse_number": 12,
+      "odds": 8.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104674",
+      "horse_name": "フィドルファドル",
+      "score": 0.11168803604644499,
+      "horse_number": 3,
+      "odds": 8.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105495",
+      "horse_name": "マーゴットゲイン",
+      "score": 0.10505871925936498,
+      "horse_number": 16,
+      "odds": 15.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106328",
+      "horse_name": "クインズデネブ",
+      "score": 0.07729265210679971,
+      "horse_number": 1,
+      "odds": 9.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105229",
+      "horse_name": "シーニックビュー",
+      "score": 0.0018148264301241024,
+      "horse_number": 15,
+      "odds": 9.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104514",
+      "horse_name": "ハリウッドブルース",
+      "score": -0.09741356817016336,
+      "horse_number": 4,
+      "odds": 43.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103218",
+      "horse_name": "フミサウンド",
+      "score": -0.1257837276045965,
+      "horse_number": 8,
+      "odds": 24.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105798",
+      "horse_name": "オンザスクエア",
+      "score": -0.33150344147510796,
+      "horse_number": 11,
+      "odds": 50.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019101753",
+      "horse_name": "アオカミ",
+      "score": -0.4573947879156749,
+      "horse_number": 2,
+      "odds": 96.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105471",
+      "horse_name": "マンノステータス",
+      "score": -0.5812767454932501,
+      "horse_number": 7,
+      "odds": 77.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100714",
+      "horse_name": "オリビアジュテーム",
+      "score": -0.6087731493607471,
+      "horse_number": 14,
+      "odds": 98.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019102341",
+      "horse_name": "サイモンソーラン",
+      "score": -0.6318373387288261,
+      "horse_number": 10,
+      "odds": 58.3
+    }
+  ]
+}
