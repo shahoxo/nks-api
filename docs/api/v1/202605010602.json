@@ -1,0 +1,112 @@
+{
+  "race_id": "202605010602",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-15 10:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105281",
+      "horse_name": "ホウオウモチーヴ",
+      "score": 0.34188378823091137,
+      "horse_number": 2,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106177",
+      "horse_name": "エクセルクラウン",
+      "score": 0.05320987228844974,
+      "horse_number": 10,
+      "odds": 12.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105162",
+      "horse_name": "コパノエイダン",
+      "score": 0.03694806569870965,
+      "horse_number": 12,
+      "odds": 4.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102336",
+      "horse_name": "ダンシングアウェイ",
+      "score": -0.03828434825387185,
+      "horse_number": 7,
+      "odds": 14.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100800",
+      "horse_name": "バトルモクオ",
+      "score": -0.26445189164404215,
+      "horse_number": 5,
+      "odds": 80.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103438",
+      "horse_name": "ツインドライヴ",
+      "score": -0.3383067106251949,
+      "horse_number": 13,
+      "odds": 5.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104686",
+      "horse_name": "2023104686",
+      "score": -0.43459214401799773,
+      "horse_number": 8,
+      "odds": 21.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106595",
+      "horse_name": "アイムスティルミー",
+      "score": -0.4899614847761693,
+      "horse_number": 1,
+      "odds": 26.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102833",
+      "horse_name": "グランドスウェル",
+      "score": -0.5300080494461484,
+      "horse_number": 9,
+      "odds": 14.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102107",
+      "horse_name": "クリュメノス",
+      "score": -0.53707871389432,
+      "horse_number": 6,
+      "odds": 26.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101917",
+      "horse_name": "マイネルアイフェル",
+      "score": -0.5844092227108343,
+      "horse_number": 11,
+      "odds": 57.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102333",
+      "horse_name": "ゴールドエンバー",
+      "score": -0.6199831223542747,
+      "horse_number": 3,
+      "odds": 40.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104002",
+      "horse_name": "ハルノアメ",
+      "score": -0.630370253879574,
+      "horse_number": 4,
+      "odds": 63.7
+    }
+  ]
+}

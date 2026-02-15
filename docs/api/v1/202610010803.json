@@ -1,0 +1,120 @@
+{
+  "race_id": "202610010803",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-15 10:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101117",
+      "horse_name": "アイファーモービル",
+      "score": 0.14252786124992287,
+      "horse_number": 2,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020102592",
+      "horse_name": "アフトクラーティラ",
+      "score": 0.11283342340963051,
+      "horse_number": 1,
+      "odds": 9.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100091",
+      "horse_name": "キャリーグレイス",
+      "score": 0.07410704530280182,
+      "horse_number": 11,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100194",
+      "horse_name": "ハヤテノツバサ",
+      "score": 0.04474301994232165,
+      "horse_number": 14,
+      "odds": 4.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104404",
+      "horse_name": "シュークリーム",
+      "score": -0.028342384810383578,
+      "horse_number": 6,
+      "odds": 5.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102799",
+      "horse_name": "タイセイアビリティ",
+      "score": -0.09763217779464292,
+      "horse_number": 13,
+      "odds": 20.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101204",
+      "horse_name": "サツキレジーナ",
+      "score": -0.1018252438681209,
+      "horse_number": 5,
+      "odds": 13.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102640",
+      "horse_name": "サイモンオリーブ",
+      "score": -0.4408474339865853,
+      "horse_number": 4,
+      "odds": 26.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100651",
+      "horse_name": "インユアアイズ",
+      "score": -0.4558029253393524,
+      "horse_number": 3,
+      "odds": 14.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106190",
+      "horse_name": "ラインパシオン",
+      "score": -0.46487265377782916,
+      "horse_number": 12,
+      "odds": 46.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105868",
+      "horse_name": "バーケンティン",
+      "score": -0.48939039986091015,
+      "horse_number": 10,
+      "odds": 11.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2017104266",
+      "horse_name": "カップッチョ",
+      "score": -0.5077361470676942,
+      "horse_number": 8,
+      "odds": 53.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022107300",
+      "horse_name": "シンガソング",
+      "score": -0.5672749854715552,
+      "horse_number": 9,
+      "odds": 37.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101086",
+      "horse_name": "トリプルバレル",
+      "score": -0.5672749854715552,
+      "horse_number": 7,
+      "odds": 33.5
+    }
+  ]
+}
