@@ -1,0 +1,152 @@
+{
+  "race_id": "202610010810",
+  "race_name": "大濠特別",
+  "race_time": "2026-02-15 14:40",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103194",
+      "horse_name": "メイショウセイロウ",
+      "score": 0.2485007390023426,
+      "horse_number": 16,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106351",
+      "horse_name": "ベビーズブレス",
+      "score": 0.032663654034818315,
+      "horse_number": 6,
+      "odds": 19.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020106698",
+      "horse_name": "バンディート",
+      "score": 0.003269696556859019,
+      "horse_number": 10,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100632",
+      "horse_name": "ハリウッドメモリー",
+      "score": -0.00510443169034593,
+      "horse_number": 7,
+      "odds": 5.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101686",
+      "horse_name": "インブロリオ",
+      "score": -0.0125777350596335,
+      "horse_number": 5,
+      "odds": 7.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104698",
+      "horse_name": "ブルーサンセット",
+      "score": -0.05254071598776091,
+      "horse_number": 3,
+      "odds": 19.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100365",
+      "horse_name": "トウカイエルデ",
+      "score": -0.05948392571728931,
+      "horse_number": 11,
+      "odds": 30.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106987",
+      "horse_name": "スムースベルベット",
+      "score": -0.10060398689922204,
+      "horse_number": 13,
+      "odds": 13.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103278",
+      "horse_name": "メイショウミリオレ",
+      "score": -0.13216812413672122,
+      "horse_number": 8,
+      "odds": 39.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104087",
+      "horse_name": "グランツベリー",
+      "score": -0.13940413863747225,
+      "horse_number": 15,
+      "odds": 25.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019103996",
+      "horse_name": "タイキエクセロン",
+      "score": -0.2204645355443504,
+      "horse_number": 17,
+      "odds": 35.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102755",
+      "horse_name": "ジョウゲンノツキ",
+      "score": -0.37640604530847427,
+      "horse_number": 18,
+      "odds": 44.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101378",
+      "horse_name": "アイヲツグモノ",
+      "score": -0.4010197083498308,
+      "horse_number": 12,
+      "odds": 44.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100144",
+      "horse_name": "ロードトレゾール",
+      "score": -0.4469233680925606,
+      "horse_number": 1,
+      "odds": 7.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105803",
+      "horse_name": "マイネルラッシュ",
+      "score": -0.4553908924519972,
+      "horse_number": 14,
+      "odds": 42.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103898",
+      "horse_name": "イグニション",
+      "score": -0.4664818068361425,
+      "horse_number": 9,
+      "odds": 32.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022101959",
+      "horse_name": "ペプチドクレマチス",
+      "score": -0.48270237819447115,
+      "horse_number": 2,
+      "odds": 21.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022102220",
+      "horse_name": "ニシノラヴァンダ",
+      "score": -0.5571203828274278,
+      "horse_number": 4,
+      "odds": 14.4
+    }
+  ]
+}

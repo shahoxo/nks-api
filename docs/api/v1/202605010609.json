@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010609",
+  "race_name": "雲雀S",
+  "race_time": "2026-02-15 14:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110030",
+      "horse_name": "アンパドゥ",
+      "score": 0.40812777719273485,
+      "horse_number": 14,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104814",
+      "horse_name": "ダノンセンチュリー",
+      "score": 0.35253323031292894,
+      "horse_number": 4,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104594",
+      "horse_name": "ヒシアマン",
+      "score": 0.3448209522633712,
+      "horse_number": 15,
+      "odds": 4.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105578",
+      "horse_name": "ショウナンラピダス",
+      "score": 0.23022129116499906,
+      "horse_number": 1,
+      "odds": 13.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105105",
+      "horse_name": "ミラビリスマジック",
+      "score": 0.21641918059550802,
+      "horse_number": 11,
+      "odds": 31.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103259",
+      "horse_name": "ミッキースピネル",
+      "score": 0.21222166771486364,
+      "horse_number": 16,
+      "odds": 17.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106470",
+      "horse_name": "アンダースコア",
+      "score": 0.19568972853140137,
+      "horse_number": 8,
+      "odds": 22.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110088",
+      "horse_name": "キュクヌス",
+      "score": 0.06146486267744033,
+      "horse_number": 3,
+      "odds": 14.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105837",
+      "horse_name": "レッドアトレーヴ",
+      "score": -0.01926186644516801,
+      "horse_number": 12,
+      "odds": 16.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102419",
+      "horse_name": "ファインライン",
+      "score": -0.03229182718855196,
+      "horse_number": 13,
+      "odds": 28.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105830",
+      "horse_name": "モンドデラモーレ",
+      "score": -0.03549562829909896,
+      "horse_number": 10,
+      "odds": 9.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104167",
+      "horse_name": "エイムフォーエース",
+      "score": -0.09269964006103844,
+      "horse_number": 5,
+      "odds": 50.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106900",
+      "horse_name": "アームテイル",
+      "score": -0.20741780923191072,
+      "horse_number": 2,
+      "odds": 95.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018106154",
+      "horse_name": "エスコバル",
+      "score": -0.2939507918270605,
+      "horse_number": 9,
+      "odds": 68.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021105757",
+      "horse_name": "テウメッサ",
+      "score": -0.398931298083281,
+      "horse_number": 6,
+      "odds": 45.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2016105797",
+      "horse_name": "コスモエスパーダ",
+      "score": -0.5409049914905244,
+      "horse_number": 7,
+      "odds": 163.5
+    }
+  ]
+}

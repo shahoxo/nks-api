@@ -1,0 +1,88 @@
+{
+  "race_id": "202608020610",
+  "race_name": "北山S",
+  "race_time": "2026-02-15 14:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105722",
+      "horse_name": "グランドプラージュ",
+      "score": 0.45993395223242384,
+      "horse_number": 10,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110121",
+      "horse_name": "ゴールデンクラウド",
+      "score": 0.32579067305861076,
+      "horse_number": 4,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102516",
+      "horse_name": "バッケンレコード",
+      "score": 0.27759547429790066,
+      "horse_number": 1,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104092",
+      "horse_name": "ペンナヴェローチェ",
+      "score": 0.2662860628737379,
+      "horse_number": 5,
+      "odds": 5.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100734",
+      "horse_name": "レーウィン",
+      "score": -0.015290971256565115,
+      "horse_number": 2,
+      "odds": 20.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104745",
+      "horse_name": "シャルクハフト",
+      "score": -0.01531016181820908,
+      "horse_number": 3,
+      "odds": 34.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102389",
+      "horse_name": "トウカイポワール",
+      "score": -0.23323793925113706,
+      "horse_number": 9,
+      "odds": 30.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018104646",
+      "horse_name": "オンザライン",
+      "score": -0.25827464362213526,
+      "horse_number": 7,
+      "odds": 77.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104845",
+      "horse_name": "ギーロカスタル",
+      "score": -0.30364877904936305,
+      "horse_number": 6,
+      "odds": 110.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103263",
+      "horse_name": "メイショウソウタ",
+      "score": -0.4179296449214638,
+      "horse_number": 8,
+      "odds": 23.5
+    }
+  ]
+}

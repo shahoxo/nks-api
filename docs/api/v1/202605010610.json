@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010610",
+  "race_name": "バレンタイン",
+  "race_time": "2026-02-15 15:01",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106942",
+      "horse_name": "ドンインザムード",
+      "score": 0.2919598764533597,
+      "horse_number": 6,
+      "odds": 4.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106587",
+      "horse_name": "エストレヤデベレン",
+      "score": 0.2621319718525399,
+      "horse_number": 11,
+      "odds": 7.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2018102040",
+      "horse_name": "ヴィヴァン",
+      "score": 0.21717378930600503,
+      "horse_number": 1,
+      "odds": 21.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101373",
+      "horse_name": "バトゥーキ",
+      "score": 0.20178295989181122,
+      "horse_number": 9,
+      "odds": 8.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103661",
+      "horse_name": "フリームファクシ",
+      "score": 0.08847682294156692,
+      "horse_number": 4,
+      "odds": 5.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110112",
+      "horse_name": "ウェットシーズン",
+      "score": 0.0807537417088579,
+      "horse_number": 2,
+      "odds": 7.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102843",
+      "horse_name": "アッチャゴーラ",
+      "score": 0.07533620578920282,
+      "horse_number": 15,
+      "odds": 22.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110148",
+      "horse_name": "ノーブルロジャー",
+      "score": 0.06387900389469786,
+      "horse_number": 3,
+      "odds": 8.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105926",
+      "horse_name": "レディントン",
+      "score": 0.048696816419144195,
+      "horse_number": 7,
+      "odds": 20.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106637",
+      "horse_name": "アンシール",
+      "score": 0.007303697845660113,
+      "horse_number": 14,
+      "odds": 18.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106873",
+      "horse_name": "オウギノカナメ",
+      "score": -0.20211138880628962,
+      "horse_number": 5,
+      "odds": 16.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106756",
+      "horse_name": "ハチメンロッピ",
+      "score": -0.29799919600780334,
+      "horse_number": 10,
+      "odds": 37.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103063",
+      "horse_name": "マルディランダ",
+      "score": -0.35199514043126073,
+      "horse_number": 8,
+      "odds": 53.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019101681",
+      "horse_name": "サンライズホーク",
+      "score": -0.40125349188030446,
+      "horse_number": 13,
+      "odds": 82.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019105482",
+      "horse_name": "アサヒ",
+      "score": -0.436860279687886,
+      "horse_number": 12,
+      "odds": 47.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105545",
+      "horse_name": "アルムラトゥール",
+      "score": -0.46265029375353317,
+      "horse_number": 16,
+      "odds": 44.7
+    }
+  ]
+}
