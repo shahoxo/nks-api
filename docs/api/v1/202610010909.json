@@ -1,0 +1,88 @@
+{
+  "race_id": "202610010909",
+  "race_name": "あざみ賞",
+  "race_time": "2026-02-21 14:10",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102577",
+      "horse_name": "アンジュプロミス",
+      "score": 0.3393567062130693,
+      "horse_number": 3,
+      "odds": 5.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100997",
+      "horse_name": "デルマリシリ",
+      "score": 0.22895153535023557,
+      "horse_number": 10,
+      "odds": 2.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106485",
+      "horse_name": "シェーロドラート",
+      "score": 0.20198986089636017,
+      "horse_number": 6,
+      "odds": 9.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101727",
+      "horse_name": "アグネスクレスト",
+      "score": 0.1337450905656765,
+      "horse_number": 1,
+      "odds": 9.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107279",
+      "horse_name": "ガラベイヤ",
+      "score": 0.04099220042700295,
+      "horse_number": 4,
+      "odds": 5.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100956",
+      "horse_name": "オンザマーチ",
+      "score": -0.1393598367562917,
+      "horse_number": 9,
+      "odds": 22.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106184",
+      "horse_name": "ネネキリマル",
+      "score": -0.33269930245784346,
+      "horse_number": 7,
+      "odds": 7.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104011",
+      "horse_name": "トモジャプレジール",
+      "score": -0.37640604530847427,
+      "horse_number": 5,
+      "odds": 19.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106107",
+      "horse_name": "ベルフラム",
+      "score": -0.556752673996198,
+      "horse_number": 2,
+      "odds": 28.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106197",
+      "horse_name": "フレンドモナコ",
+      "score": -0.5938962629264705,
+      "horse_number": 8,
+      "odds": 43.8
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202610010910",
+  "race_name": "皿倉山特別",
+  "race_time": "2026-02-21 14:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105503",
+      "horse_name": "クルミナーレ",
+      "score": 0.23726822264400121,
+      "horse_number": 14,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104313",
+      "horse_name": "ドーバーブライト",
+      "score": 0.21925655367202393,
+      "horse_number": 1,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102988",
+      "horse_name": "スズカミエール",
+      "score": 0.20026018944696986,
+      "horse_number": 10,
+      "odds": 17.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106194",
+      "horse_name": "ウインデイジー",
+      "score": 0.004481461692890203,
+      "horse_number": 15,
+      "odds": 10.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103369",
+      "horse_name": "パンデアスカル",
+      "score": -0.007821247803973443,
+      "horse_number": 13,
+      "odds": 30.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105505",
+      "horse_name": "ベイラム",
+      "score": -0.011803395137227876,
+      "horse_number": 4,
+      "odds": 15.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105160",
+      "horse_name": "カエルム",
+      "score": -0.09598854819865772,
+      "horse_number": 7,
+      "odds": 17.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105048",
+      "horse_name": "ゴージョニーゴー",
+      "score": -0.1737656408751812,
+      "horse_number": 12,
+      "odds": 7.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105221",
+      "horse_name": "ダブルジャッジ",
+      "score": -0.17910666764155778,
+      "horse_number": 3,
+      "odds": 34.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103976",
+      "horse_name": "エコロレイズ",
+      "score": -0.2665045300032079,
+      "horse_number": 9,
+      "odds": 19.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105485",
+      "horse_name": "ボンドロア",
+      "score": -0.2846148273961502,
+      "horse_number": 8,
+      "odds": 10.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106694",
+      "horse_name": "ヴァイザーバルコ",
+      "score": -0.3719557355866788,
+      "horse_number": 2,
+      "odds": 13.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105205",
+      "horse_name": "ウインネモフィラ",
+      "score": -0.42465261381222164,
+      "horse_number": 16,
+      "odds": 32.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018102917",
+      "horse_name": "ネイチャーシップ",
+      "score": -0.475738888945783,
+      "horse_number": 11,
+      "odds": 55.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104553",
+      "horse_name": "パープルクラウド",
+      "score": -0.4778580772825697,
+      "horse_number": 6,
+      "odds": 50.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020100233",
+      "horse_name": "セイウンパシュート",
+      "score": -0.5431529973283721,
+      "horse_number": 5,
+      "odds": 24.1
+    }
+  ]
+}

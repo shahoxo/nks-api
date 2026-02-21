@@ -1,0 +1,64 @@
+{
+  "race_id": "202605010709",
+  "race_name": "フリージア賞",
+  "race_time": "2026-02-21 14:31",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107389",
+      "horse_name": "チャリングクロス",
+      "score": 0.49322290839183625,
+      "horse_number": 6,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104224",
+      "horse_name": "リッツパーティー",
+      "score": 0.289764293042732,
+      "horse_number": 1,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106433",
+      "horse_name": "ファムクラジューズ",
+      "score": 0.20066021514071525,
+      "horse_number": 4,
+      "odds": 4.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104386",
+      "horse_name": "カムアップローゼス",
+      "score": 0.12033634908100375,
+      "horse_number": 5,
+      "odds": 16.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106924",
+      "horse_name": "ジャスティンシカゴ",
+      "score": -0.1135899035057538,
+      "horse_number": 3,
+      "odds": 11.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106451",
+      "horse_name": "コスモアマデウス",
+      "score": -0.5270927781021861,
+      "horse_number": 2,
+      "odds": 74.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104261",
+      "horse_name": "アロハオエ",
+      "score": -0.530974633370073,
+      "horse_number": 7,
+      "odds": 67.6
+    }
+  ]
+}

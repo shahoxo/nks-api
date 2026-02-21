@@ -1,0 +1,152 @@
+{
+  "race_id": "202609010109",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-21 14:20",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105871",
+      "horse_name": "レッドフェルメール",
+      "score": 0.42804276103055183,
+      "horse_number": 13,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104647",
+      "horse_name": "エーデルヴェーグ",
+      "score": 0.2519137550341321,
+      "horse_number": 17,
+      "odds": 7.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105281",
+      "horse_name": "ダノンブギ",
+      "score": 0.22787412988985106,
+      "horse_number": 6,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102675",
+      "horse_name": "ダノンクロム",
+      "score": 0.14702002082245907,
+      "horse_number": 8,
+      "odds": 15.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105558",
+      "horse_name": "ロケベンドラ",
+      "score": 0.08019219682423037,
+      "horse_number": 15,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101039",
+      "horse_name": "オーケーダイナ",
+      "score": -0.02543190630272927,
+      "horse_number": 2,
+      "odds": 26.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105765",
+      "horse_name": "ミッキースターダム",
+      "score": -0.03673406547644408,
+      "horse_number": 11,
+      "odds": 13.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102954",
+      "horse_name": "アンジュアルディ",
+      "score": -0.040463543716580765,
+      "horse_number": 14,
+      "odds": 12.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105416",
+      "horse_name": "ラガークイン",
+      "score": -0.07557034422797146,
+      "horse_number": 7,
+      "odds": 52.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103227",
+      "horse_name": "レッドイステル",
+      "score": -0.07993247324704877,
+      "horse_number": 12,
+      "odds": 17.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102151",
+      "horse_name": "モズイージス",
+      "score": -0.10189592013915419,
+      "horse_number": 5,
+      "odds": 73.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105215",
+      "horse_name": "ジーティームッシュ",
+      "score": -0.10349894425317432,
+      "horse_number": 10,
+      "odds": 61.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106354",
+      "horse_name": "オーバースタンド",
+      "score": -0.12659475196732153,
+      "horse_number": 1,
+      "odds": 16.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102445",
+      "horse_name": "トウカイフルーレ",
+      "score": -0.16651699072712348,
+      "horse_number": 16,
+      "odds": 117.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103441",
+      "horse_name": "フラッシングレート",
+      "score": -0.1735065406878485,
+      "horse_number": 3,
+      "odds": 32.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104879",
+      "horse_name": "テーオーシュタイン",
+      "score": -0.27152796863788253,
+      "horse_number": 4,
+      "odds": 51.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022100850",
+      "horse_name": "トウカイリュタン",
+      "score": -0.2745035059912584,
+      "horse_number": 9,
+      "odds": 117.0
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022105027",
+      "horse_name": "プロクレイア",
+      "score": -0.27678305360942496,
+      "horse_number": 18,
+      "odds": 57.6
+    }
+  ]
+}
