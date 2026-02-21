@@ -1,0 +1,120 @@
+{
+  "race_id": "202610010903",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-21 10:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102661",
+      "horse_name": "タナスーペルノーバ",
+      "score": 0.18077686868317272,
+      "horse_number": 11,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023109140",
+      "horse_name": "コウユーネロガ",
+      "score": 0.1140821964868321,
+      "horse_number": 5,
+      "odds": 16.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103625",
+      "horse_name": "エコロレバン",
+      "score": 0.06502550706041711,
+      "horse_number": 4,
+      "odds": 4.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102841",
+      "horse_name": "ショコラキュイ",
+      "score": 0.02038732747065612,
+      "horse_number": 3,
+      "odds": 8.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101676",
+      "horse_name": "ファンシーフリル",
+      "score": -0.017891423566035212,
+      "horse_number": 8,
+      "odds": 3.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101061",
+      "horse_name": "カレンココナ",
+      "score": -0.03596768966988157,
+      "horse_number": 2,
+      "odds": 14.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100798",
+      "horse_name": "マリノムーンリーフ",
+      "score": -0.05490935174244471,
+      "horse_number": 1,
+      "odds": 29.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023109031",
+      "horse_name": "ココソラーレ",
+      "score": -0.19768441055150968,
+      "horse_number": 12,
+      "odds": 42.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104561",
+      "horse_name": "ジェム",
+      "score": -0.28298439441495976,
+      "horse_number": 9,
+      "odds": 34.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103559",
+      "horse_name": "レイナデルアイレ",
+      "score": -0.4319443772121474,
+      "horse_number": 14,
+      "odds": 30.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102023",
+      "horse_name": "タイセイガナール",
+      "score": -0.4647998686278685,
+      "horse_number": 13,
+      "odds": 21.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105728",
+      "horse_name": "モズタイシソウシ",
+      "score": -0.49679794587460246,
+      "horse_number": 7,
+      "odds": 12.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103829",
+      "horse_name": "クレスコフェーヴ",
+      "score": -0.6028557547896995,
+      "horse_number": 10,
+      "odds": 80.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023107544",
+      "horse_name": "カンフージョン",
+      "score": -0.6823123740050003,
+      "horse_number": 6,
+      "odds": 24.7
+    }
+  ]
+}

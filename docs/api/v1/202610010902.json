@@ -1,0 +1,152 @@
+{
+  "race_id": "202610010902",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-21 10:15",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100096",
+      "horse_name": "ジュエルブリス",
+      "score": 0.3192979003988128,
+      "horse_number": 2,
+      "odds": 14.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104374",
+      "horse_name": "ブライトエンジェル",
+      "score": 0.2777340812078736,
+      "horse_number": 10,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106862",
+      "horse_name": "ハッピーローヴァー",
+      "score": 0.2704138224169491,
+      "horse_number": 8,
+      "odds": 5.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105791",
+      "horse_name": "メカニックバレエ",
+      "score": 0.22617633709218005,
+      "horse_number": 9,
+      "odds": 14.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107269",
+      "horse_name": "ムーンリットアイル",
+      "score": 0.21097862792839095,
+      "horse_number": 18,
+      "odds": 2.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104875",
+      "horse_name": "ダブルチャレンジ",
+      "score": 0.03244980863598077,
+      "horse_number": 13,
+      "odds": 25.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102402",
+      "horse_name": "グローリアスダンス",
+      "score": 0.001158461505550848,
+      "horse_number": 4,
+      "odds": 51.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104867",
+      "horse_name": "マティンデ",
+      "score": -0.04877166421892961,
+      "horse_number": 17,
+      "odds": 7.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102889",
+      "horse_name": "エボニードール",
+      "score": -0.1777068895290259,
+      "horse_number": 14,
+      "odds": 39.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102739",
+      "horse_name": "テクノピーチ",
+      "score": -0.24540858381580125,
+      "horse_number": 6,
+      "odds": 73.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103763",
+      "horse_name": "レガリアーナ",
+      "score": -0.31977131632491346,
+      "horse_number": 7,
+      "odds": 66.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104027",
+      "horse_name": "ダンツアラーム",
+      "score": -0.3510742725747562,
+      "horse_number": 1,
+      "odds": 29.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104449",
+      "horse_name": "テリオスルミ",
+      "score": -0.3816583916997003,
+      "horse_number": 5,
+      "odds": 92.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103428",
+      "horse_name": "2023103428",
+      "score": -0.45237472405940704,
+      "horse_number": 16,
+      "odds": 56.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106156",
+      "horse_name": "2023106156",
+      "score": -0.4526874950906882,
+      "horse_number": 3,
+      "odds": 111.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105736",
+      "horse_name": "ルビーブロンド",
+      "score": -0.5465142732912798,
+      "horse_number": 15,
+      "odds": 58.5
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023103226",
+      "horse_name": "エリースノー",
+      "score": -0.6316458106269672,
+      "horse_number": 11,
+      "odds": 56.4
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023104082",
+      "horse_name": "エンチャンテッド",
+      "score": -0.6518943205472477,
+      "horse_number": 12,
+      "odds": 130.6
+    }
+  ]
+}

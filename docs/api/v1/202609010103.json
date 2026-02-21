@@ -1,0 +1,136 @@
+{
+  "race_id": "202609010103",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-21 10:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104805",
+      "horse_name": "オプティモ",
+      "score": 0.3027739057242391,
+      "horse_number": 9,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103603",
+      "horse_name": "レッドジェルブロワ",
+      "score": 0.19855596525170502,
+      "horse_number": 10,
+      "odds": 19.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102160",
+      "horse_name": "アルデキングダム",
+      "score": 0.15623376646971404,
+      "horse_number": 5,
+      "odds": 3.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106669",
+      "horse_name": "オウケンブラッド",
+      "score": 0.15411483844291396,
+      "horse_number": 13,
+      "odds": 5.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101443",
+      "horse_name": "フィーユレアル",
+      "score": 0.05150137629946758,
+      "horse_number": 1,
+      "odds": 41.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102594",
+      "horse_name": "ジャガーライズ",
+      "score": -0.06012903126522681,
+      "horse_number": 7,
+      "odds": 21.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102104",
+      "horse_name": "レッツエンジョイ",
+      "score": -0.12973764883677072,
+      "horse_number": 3,
+      "odds": 23.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100596",
+      "horse_name": "ジャーナーリア",
+      "score": -0.18303078278934198,
+      "horse_number": 12,
+      "odds": 10.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023109092",
+      "horse_name": "ウイントッペン",
+      "score": -0.2711959852901062,
+      "horse_number": 8,
+      "odds": 30.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103501",
+      "horse_name": "シンゼンイセ",
+      "score": -0.30727789167778863,
+      "horse_number": 2,
+      "odds": 76.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105049",
+      "horse_name": "ハルカオル",
+      "score": -0.49679794587460246,
+      "horse_number": 16,
+      "odds": 18.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103134",
+      "horse_name": "ボンヴィアッジョ",
+      "score": -0.5116890280180644,
+      "horse_number": 6,
+      "odds": 96.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103425",
+      "horse_name": "シャマレル",
+      "score": -0.5670515164495529,
+      "horse_number": 4,
+      "odds": 68.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104154",
+      "horse_name": "カセノソレイユ",
+      "score": -0.5882235119409787,
+      "horse_number": 14,
+      "odds": 104.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104959",
+      "horse_name": "ナムラキングダム",
+      "score": -0.6956322148371195,
+      "horse_number": 11,
+      "odds": 0.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100016",
+      "horse_name": "マサノハヤブサ",
+      "score": -0.6997242947219148,
+      "horse_number": 15,
+      "odds": 155.7
+    }
+  ]
+}
