@@ -1,0 +1,112 @@
+{
+  "race_id": "202610010911",
+  "race_name": "小倉城S",
+  "race_time": "2026-02-21 15:20",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102885",
+      "horse_name": "ドゥラリス",
+      "score": 0.1511853984297582,
+      "horse_number": 11,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020106063",
+      "horse_name": "ゴッドブルービー",
+      "score": 0.08737467274528561,
+      "horse_number": 5,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019104632",
+      "horse_name": "プルートマスター",
+      "score": -0.0588927845198623,
+      "horse_number": 9,
+      "odds": 8.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103928",
+      "horse_name": "ホウオウスーペリア",
+      "score": -0.07903034957991935,
+      "horse_number": 13,
+      "odds": 9.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103502",
+      "horse_name": "アイウィル",
+      "score": -0.09213972268117439,
+      "horse_number": 12,
+      "odds": 20.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102982",
+      "horse_name": "ベルダイナフェロー",
+      "score": -0.12327618398869872,
+      "horse_number": 2,
+      "odds": 36.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102862",
+      "horse_name": "レシプロシティ",
+      "score": -0.12334393263138091,
+      "horse_number": 7,
+      "odds": 11.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106635",
+      "horse_name": "メイショウシナノ",
+      "score": -0.15965309145757117,
+      "horse_number": 3,
+      "odds": 8.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105431",
+      "horse_name": "ヘルモーズ",
+      "score": -0.1602496349259933,
+      "horse_number": 8,
+      "odds": 14.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100980",
+      "horse_name": "オーケーバーディー",
+      "score": -0.18722045386877068,
+      "horse_number": 6,
+      "odds": 7.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021109027",
+      "horse_name": "テーオールビー",
+      "score": -0.19900279483603198,
+      "horse_number": 1,
+      "odds": 20.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018106458",
+      "horse_name": "メイショウミカワ",
+      "score": -0.28076878862019916,
+      "horse_number": 4,
+      "odds": 17.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102083",
+      "horse_name": "スマートリアファル",
+      "score": -0.4791103320071868,
+      "horse_number": 10,
+      "odds": 63.4
+    }
+  ]
+}

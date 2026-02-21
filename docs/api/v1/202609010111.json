@@ -1,0 +1,152 @@
+{
+  "race_id": "202609010111",
+  "race_name": "阪急杯",
+  "race_time": "2026-02-21 15:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110160",
+      "horse_name": "ソンシ",
+      "score": 0.507342293661278,
+      "horse_number": 1,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104933",
+      "horse_name": "ディアナザール",
+      "score": 0.2979115510413572,
+      "horse_number": 8,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106768",
+      "horse_name": "マイネルチケット",
+      "score": 0.2776608991484558,
+      "horse_number": 9,
+      "odds": 5.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100935",
+      "horse_name": "ララマセラシオン",
+      "score": 0.1864808152997677,
+      "horse_number": 6,
+      "odds": 39.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103051",
+      "horse_name": "ヤンキーバローズ",
+      "score": 0.1296205088990327,
+      "horse_number": 13,
+      "odds": 8.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102888",
+      "horse_name": "ナムラアトム",
+      "score": 0.11846052893158636,
+      "horse_number": 4,
+      "odds": 18.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105806",
+      "horse_name": "ドロップオブライト",
+      "score": 0.0975675707777144,
+      "horse_number": 5,
+      "odds": 10.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018105454",
+      "horse_name": "グレイイングリーン",
+      "score": 0.08879252760271708,
+      "horse_number": 10,
+      "odds": 27.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104830",
+      "horse_name": "グロリアラウス",
+      "score": 0.05743575180771626,
+      "horse_number": 15,
+      "odds": 42.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101503",
+      "horse_name": "カンチェンジュンガ",
+      "score": 0.044072778963479574,
+      "horse_number": 18,
+      "odds": 9.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020110155",
+      "horse_name": "レイベリング",
+      "score": 0.02228621614955451,
+      "horse_number": 2,
+      "odds": 21.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105154",
+      "horse_name": "アサカラキング",
+      "score": 0.019172981561173474,
+      "horse_number": 7,
+      "odds": 13.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2017104172",
+      "horse_name": "メイショウチタン",
+      "score": -0.07284418405055178,
+      "horse_number": 16,
+      "odds": 98.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105755",
+      "horse_name": "スリールミニョン",
+      "score": -0.0898140788906401,
+      "horse_number": 3,
+      "odds": 29.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019103714",
+      "horse_name": "メイショウソラフネ",
+      "score": -0.10175493626091997,
+      "horse_number": 17,
+      "odds": 70.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021100019",
+      "horse_name": "マサノカナリア",
+      "score": -0.137400568056239,
+      "horse_number": 14,
+      "odds": 36.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2018105610",
+      "horse_name": "ダディーズビビッド",
+      "score": -0.24933855537714625,
+      "horse_number": 11,
+      "odds": 109.6
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022104751",
+      "horse_name": "アルテヴェローチェ",
+      "score": -0.32413109116556993,
+      "horse_number": 12,
+      "odds": 83.6
+    }
+  ]
+}
