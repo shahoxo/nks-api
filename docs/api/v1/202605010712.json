@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010712",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-21 16:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105585",
+      "horse_name": "クラリネットソナタ",
+      "score": 0.4187040623820063,
+      "horse_number": 16,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100994",
+      "horse_name": "ルヴァレドクール",
+      "score": 0.3061475669915274,
+      "horse_number": 12,
+      "odds": 3.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105241",
+      "horse_name": "ソナタン",
+      "score": 0.22159920867012017,
+      "horse_number": 11,
+      "odds": 7.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103303",
+      "horse_name": "ドリーミングアップ",
+      "score": 0.1133072199438445,
+      "horse_number": 10,
+      "odds": 17.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106718",
+      "horse_name": "ボルトテソーロ",
+      "score": 0.11245673457556725,
+      "horse_number": 13,
+      "odds": 36.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105853",
+      "horse_name": "リュケイオン",
+      "score": 0.028296361506810638,
+      "horse_number": 5,
+      "odds": 17.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104314",
+      "horse_name": "ダンツティアラ",
+      "score": 0.01795555158490395,
+      "horse_number": 8,
+      "odds": 8.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103129",
+      "horse_name": "マリンバンカー",
+      "score": -0.03643411600333614,
+      "horse_number": 7,
+      "odds": 28.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106427",
+      "horse_name": "ニシノケンタマン",
+      "score": -0.04864749768111283,
+      "horse_number": 1,
+      "odds": 22.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105130",
+      "horse_name": "スターエンブレム",
+      "score": -0.09275252462433897,
+      "horse_number": 14,
+      "odds": 25.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106975",
+      "horse_name": "ハクシンブライアン",
+      "score": -0.12003529354616826,
+      "horse_number": 4,
+      "odds": 20.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104981",
+      "horse_name": "ユーディキウム",
+      "score": -0.2024417680349515,
+      "horse_number": 15,
+      "odds": 38.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104897",
+      "horse_name": "レッドベルダンス",
+      "score": -0.22920683768590483,
+      "horse_number": 2,
+      "odds": 36.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102769",
+      "horse_name": "コーシューパンジャ",
+      "score": -0.2968044862790514,
+      "horse_number": 3,
+      "odds": 13.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106974",
+      "horse_name": "サムワンライクユー",
+      "score": -0.299820528382274,
+      "horse_number": 6,
+      "odds": 63.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022105076",
+      "horse_name": "スクレイピング",
+      "score": -0.3947705764860181,
+      "horse_number": 9,
+      "odds": 58.2
+    }
+  ]
+}

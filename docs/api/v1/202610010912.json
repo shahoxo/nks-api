@@ -1,0 +1,152 @@
+{
+  "race_id": "202610010912",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-21 16:01",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101405",
+      "horse_name": "ララバニュルス",
+      "score": 0.2803770707114104,
+      "horse_number": 13,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106389",
+      "horse_name": "ベルビースタローン",
+      "score": 0.12149700642375492,
+      "horse_number": 9,
+      "odds": 6.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101683",
+      "horse_name": "ウィンストン",
+      "score": 0.06815484064740712,
+      "horse_number": 18,
+      "odds": 9.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104137",
+      "horse_name": "ミエノブラボー",
+      "score": -0.01271960017870321,
+      "horse_number": 1,
+      "odds": 8.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103488",
+      "horse_name": "ジャンヌローサ",
+      "score": -0.017875580724616588,
+      "horse_number": 4,
+      "odds": 15.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101100",
+      "horse_name": "ルクスアドラー",
+      "score": -0.11294149165339683,
+      "horse_number": 7,
+      "odds": 40.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100075",
+      "horse_name": "ブラックティンカー",
+      "score": -0.12991700597840558,
+      "horse_number": 10,
+      "odds": 18.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100707",
+      "horse_name": "クレセントウイング",
+      "score": -0.16059880430089926,
+      "horse_number": 14,
+      "odds": 11.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106647",
+      "horse_name": "テイクイットオール",
+      "score": -0.1762478823252736,
+      "horse_number": 12,
+      "odds": 23.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102770",
+      "horse_name": "セディバン",
+      "score": -0.2119479175454372,
+      "horse_number": 6,
+      "odds": 12.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106798",
+      "horse_name": "メイショウオオミネ",
+      "score": -0.2362380875571375,
+      "horse_number": 17,
+      "odds": 33.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103121",
+      "horse_name": "ダノンゴーイチ",
+      "score": -0.25521977217726843,
+      "horse_number": 15,
+      "odds": 10.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103150",
+      "horse_name": "ジュエルハウス",
+      "score": -0.2768181116711279,
+      "horse_number": 11,
+      "odds": 39.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106438",
+      "horse_name": "タマモブラウンタイ",
+      "score": -0.33928398051615916,
+      "horse_number": 3,
+      "odds": 12.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103885",
+      "horse_name": "クリノゴッホ",
+      "score": -0.3817544241322959,
+      "horse_number": 2,
+      "odds": 38.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104878",
+      "horse_name": "キングヴァージル",
+      "score": -0.5047070653030474,
+      "horse_number": 8,
+      "odds": 30.2
+    },
+    {
+      "rank": 17,
+      "horse_id": "2021104140",
+      "horse_name": "グレースルージュ",
+      "score": -0.6906017329490806,
+      "horse_number": 16,
+      "odds": 63.6
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021104792",
+      "horse_name": "メードス",
+      "score": -0.6970415147616792,
+      "horse_number": 5,
+      "odds": 61.6
+    }
+  ]
+}

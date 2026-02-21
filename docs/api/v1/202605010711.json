@@ -1,0 +1,128 @@
+{
+  "race_id": "202605010711",
+  "race_name": "ダイヤモンド",
+  "race_time": "2026-02-21 15:45",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104855",
+      "horse_name": "ホーエリート",
+      "score": 0.3999184777443504,
+      "horse_number": 12,
+      "odds": 6.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105829",
+      "horse_name": "スティンガーグラス",
+      "score": 0.34554128657685057,
+      "horse_number": 13,
+      "odds": 2.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103060",
+      "horse_name": "ヴェルテンベルク",
+      "score": 0.34448027659266944,
+      "horse_number": 2,
+      "odds": 9.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019104742",
+      "horse_name": "レッドバリエンテ",
+      "score": 0.30694741932011077,
+      "horse_number": 6,
+      "odds": 12.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105910",
+      "horse_name": "ローザサンリヴァル",
+      "score": 0.262324450891165,
+      "horse_number": 11,
+      "odds": 24.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105798",
+      "horse_name": "マイネルカンパーナ",
+      "score": 0.16625199260917908,
+      "horse_number": 14,
+      "odds": 11.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100593",
+      "horse_name": "ヴォランテ",
+      "score": 0.07673886731055302,
+      "horse_number": 10,
+      "odds": 13.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018101348",
+      "horse_name": "シルブロン",
+      "score": 0.024073362300298433,
+      "horse_number": 9,
+      "odds": 61.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104218",
+      "horse_name": "ファウストラーゼン",
+      "score": -0.051089593643383086,
+      "horse_number": 8,
+      "odds": 7.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019104658",
+      "horse_name": "ボーンディスウェイ",
+      "score": -0.05887891188827056,
+      "horse_number": 15,
+      "odds": 20.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102870",
+      "horse_name": "ブレイヴロッカー",
+      "score": -0.0618387927806048,
+      "horse_number": 1,
+      "odds": 29.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019101847",
+      "horse_name": "ミクソロジー",
+      "score": -0.08190241645926712,
+      "horse_number": 4,
+      "odds": 49.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104720",
+      "horse_name": "ファイアンクランツ",
+      "score": -0.15076440917965633,
+      "horse_number": 3,
+      "odds": 9.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104971",
+      "horse_name": "トータルクラリティ",
+      "score": -0.45045921450599924,
+      "horse_number": 5,
+      "odds": 117.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103439",
+      "horse_name": "サスツルギ",
+      "score": -0.7119086895610325,
+      "horse_number": 7,
+      "odds": 132.4
+    }
+  ]
+}
