@@ -1,0 +1,136 @@
+{
+  "race_id": "202610010906",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-21 12:40",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103758",
+      "horse_name": "ヴィスメンティス",
+      "score": 0.24024155758846788,
+      "horse_number": 7,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107227",
+      "horse_name": "レッドラージャ",
+      "score": 0.21989127314101006,
+      "horse_number": 10,
+      "odds": 3.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105513",
+      "horse_name": "エイシンビーコン",
+      "score": 0.19620317277802984,
+      "horse_number": 4,
+      "odds": 7.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103155",
+      "horse_name": "エグジスタンス",
+      "score": -0.006220104818655894,
+      "horse_number": 5,
+      "odds": 15.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102718",
+      "horse_name": "レイワノキセキ",
+      "score": -0.20561119358924698,
+      "horse_number": 2,
+      "odds": 8.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100238",
+      "horse_name": "ラップトップ",
+      "score": -0.21406499763903752,
+      "horse_number": 13,
+      "odds": 6.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105423",
+      "horse_name": "ゲレーロアスール",
+      "score": -0.24795854715012597,
+      "horse_number": 16,
+      "odds": 90.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105237",
+      "horse_name": "アスクウルトラモア",
+      "score": -0.29762373229374617,
+      "horse_number": 11,
+      "odds": 114.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106054",
+      "horse_name": "ジーティーシップ",
+      "score": -0.30535556979086764,
+      "horse_number": 1,
+      "odds": 52.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106088",
+      "horse_name": "ベジョータ",
+      "score": -0.30606029483476693,
+      "horse_number": 8,
+      "odds": 119.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106040",
+      "horse_name": "ヘヴンリーサイン",
+      "score": -0.3438904642853175,
+      "horse_number": 12,
+      "odds": 39.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104075",
+      "horse_name": "フェブリノ",
+      "score": -0.37024268349477757,
+      "horse_number": 3,
+      "odds": 38.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102025",
+      "horse_name": "フィラーエ",
+      "score": -0.39876372251455083,
+      "horse_number": 6,
+      "odds": 13.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105256",
+      "horse_name": "タイセイグローバル",
+      "score": -0.4938481670671474,
+      "horse_number": 14,
+      "odds": 17.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104918",
+      "horse_name": "フィティテラ",
+      "score": -0.622384537432268,
+      "horse_number": 9,
+      "odds": 144.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023103273",
+      "horse_name": "ジュリ",
+      "score": -0.663154355080354,
+      "horse_number": 15,
+      "odds": 87.9
+    }
+  ]
+}

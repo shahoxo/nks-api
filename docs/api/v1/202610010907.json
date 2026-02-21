@@ -1,0 +1,136 @@
+{
+  "race_id": "202610010907",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-21 13:10",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105695",
+      "horse_name": "ディニテ",
+      "score": 0.16182546012713403,
+      "horse_number": 13,
+      "odds": 6.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104419",
+      "horse_name": "ローズマイスター",
+      "score": 0.04351467246354295,
+      "horse_number": 14,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104945",
+      "horse_name": "ポンピエ",
+      "score": 0.018621934040104222,
+      "horse_number": 5,
+      "odds": 7.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103389",
+      "horse_name": "ブリスキー",
+      "score": -0.020865005327266317,
+      "horse_number": 6,
+      "odds": 12.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103229",
+      "horse_name": "ウォーターパラディ",
+      "score": -0.07652454396321942,
+      "horse_number": 2,
+      "odds": 10.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102494",
+      "horse_name": "ブーケドグレイス",
+      "score": -0.08945985809033276,
+      "horse_number": 8,
+      "odds": 28.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104724",
+      "horse_name": "ハルフロンティア",
+      "score": -0.253959986905195,
+      "horse_number": 11,
+      "odds": 42.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105458",
+      "horse_name": "ピリカサンライズ",
+      "score": -0.3496885510320942,
+      "horse_number": 9,
+      "odds": 41.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100912",
+      "horse_name": "ココデイック",
+      "score": -0.38611690090218154,
+      "horse_number": 15,
+      "odds": 8.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104555",
+      "horse_name": "ゴッドヴァレー",
+      "score": -0.46038178916438544,
+      "horse_number": 12,
+      "odds": 10.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104729",
+      "horse_name": "サマーナイト",
+      "score": -0.500997491318687,
+      "horse_number": 10,
+      "odds": 46.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104474",
+      "horse_name": "ハイグッドワールド",
+      "score": -0.5288413384287328,
+      "horse_number": 1,
+      "odds": 31.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100711",
+      "horse_name": "ケイアイアルタイル",
+      "score": -0.535319610198195,
+      "horse_number": 3,
+      "odds": 11.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021107356",
+      "horse_name": "ドレアンティア",
+      "score": -0.5714169627056976,
+      "horse_number": 4,
+      "odds": 17.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103469",
+      "horse_name": "インピッシュ",
+      "score": -0.5970618435386312,
+      "horse_number": 16,
+      "odds": 48.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103011",
+      "horse_name": "ブルーユンチェリー",
+      "score": -0.6533614053964997,
+      "horse_number": 7,
+      "odds": 59.6
+    }
+  ]
+}
