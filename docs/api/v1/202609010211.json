@@ -1,0 +1,104 @@
+{
+  "race_id": "202609010211",
+  "race_name": "令月S",
+  "race_time": "2026-02-22 15:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020101373",
+      "horse_name": "バトゥーキ",
+      "score": 0.16396546252830635,
+      "horse_number": 7,
+      "odds": 8.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110151",
+      "horse_name": "ゲッティヴィラ",
+      "score": 0.060889246704905975,
+      "horse_number": 11,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100768",
+      "horse_name": "ジョーローリット",
+      "score": 0.02473852598249974,
+      "horse_number": 1,
+      "odds": 3.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019100252",
+      "horse_name": "マルモリスペシャル",
+      "score": 0.01842569023168772,
+      "horse_number": 3,
+      "odds": 13.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106557",
+      "horse_name": "コンクイスタ",
+      "score": -0.03705080315577295,
+      "horse_number": 8,
+      "odds": 3.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105545",
+      "horse_name": "アルムラトゥール",
+      "score": -0.1409550343015257,
+      "horse_number": 4,
+      "odds": 16.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018101739",
+      "horse_name": "ケイアイシェルビー",
+      "score": -0.15471394818024972,
+      "horse_number": 12,
+      "odds": 34.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110056",
+      "horse_name": "エコロガイア",
+      "score": -0.19621869264015745,
+      "horse_number": 6,
+      "odds": 12.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022110140",
+      "horse_name": "ポールセン",
+      "score": -0.22048690850059502,
+      "horse_number": 5,
+      "odds": 13.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020110131",
+      "horse_name": "メタマックス",
+      "score": -0.2590751737150767,
+      "horse_number": 9,
+      "odds": 29.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100168",
+      "horse_name": "ロードラディウス",
+      "score": -0.5110611219783722,
+      "horse_number": 10,
+      "odds": 34.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105387",
+      "horse_name": "アンデスビエント",
+      "score": -0.6360304043193064,
+      "horse_number": 2,
+      "odds": 36.0
+    }
+  ]
+}

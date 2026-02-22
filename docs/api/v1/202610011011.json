@@ -1,0 +1,136 @@
+{
+  "race_id": "202610011011",
+  "race_name": "小倉大賞典",
+  "race_time": "2026-02-22 15:15",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105442",
+      "horse_name": "エラトー",
+      "score": 0.2939655738045514,
+      "horse_number": 14,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106752",
+      "horse_name": "パレハ",
+      "score": 0.18126686331588754,
+      "horse_number": 6,
+      "odds": 8.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106548",
+      "horse_name": "タガノデュード",
+      "score": 0.13871319959605127,
+      "horse_number": 16,
+      "odds": 11.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105808",
+      "horse_name": "ガイアメンテ",
+      "score": 0.07453770752416336,
+      "horse_number": 13,
+      "odds": 13.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102895",
+      "horse_name": "ナムラエイハブ",
+      "score": 0.07333170740229282,
+      "horse_number": 9,
+      "odds": 13.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019103823",
+      "horse_name": "リカンカブール",
+      "score": 0.041982830250150475,
+      "horse_number": 15,
+      "odds": 20.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101648",
+      "horse_name": "センツブラッド",
+      "score": 0.026277996091601495,
+      "horse_number": 12,
+      "odds": 5.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019100965",
+      "horse_name": "マテンロウオリオン",
+      "score": -0.01347606000636249,
+      "horse_number": 1,
+      "odds": 6.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101784",
+      "horse_name": "ラケマーダ",
+      "score": -0.015255607968189332,
+      "horse_number": 8,
+      "odds": 39.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019100318",
+      "horse_name": "ケイアイセナ",
+      "score": -0.034946595547578375,
+      "horse_number": 10,
+      "odds": 5.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105424",
+      "horse_name": "シルトホルン",
+      "score": -0.1618983807390729,
+      "horse_number": 7,
+      "odds": 20.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105239",
+      "horse_name": "ショウナンアデイブ",
+      "score": -0.16660009887409766,
+      "horse_number": 4,
+      "odds": 19.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2017110138",
+      "horse_name": "エアファンディタ",
+      "score": -0.16788338698052374,
+      "horse_number": 3,
+      "odds": 76.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019105532",
+      "horse_name": "エピファニー",
+      "score": -0.2582535309439592,
+      "horse_number": 11,
+      "odds": 28.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019101348",
+      "horse_name": "ビーアストニッシド",
+      "score": -0.5488449115467254,
+      "horse_number": 2,
+      "odds": 93.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2016102370",
+      "horse_name": "ヘリオス",
+      "score": -0.6290179124528512,
+      "horse_number": 5,
+      "odds": 105.7
+    }
+  ]
+}

@@ -10,7 +10,7 @@
       "horse_name": "レイニング",
       "score": 0.453635360795809,
       "horse_number": 3,
-      "odds": 3.3
+      "odds": 2.7
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "サクラファレル",
       "score": 0.42164443260753487,
       "horse_number": 8,
-      "odds": 2.2
+      "odds": 2.5
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "ユキワリザクラ",
       "score": 0.35557104082646906,
       "horse_number": 5,
-      "odds": 14.2
+      "odds": 13.0
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "パンジャ",
       "score": 0.3218013130409264,
       "horse_number": 4,
-      "odds": 19.3
+      "odds": 23.9
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "ディヴァインスター",
       "score": 0.3127110034845174,
       "horse_number": 13,
-      "odds": 38.6
+      "odds": 54.1
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "ウイントレメンデス",
       "score": 0.3041148496288282,
       "horse_number": 12,
-      "odds": 17.0
+      "odds": 19.9
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "ログラール",
       "score": 0.2864914373528881,
       "horse_number": 6,
-      "odds": 16.2
+      "odds": 13.8
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "アスクセクシーモア",
       "score": 0.25789796017846883,
       "horse_number": 14,
-      "odds": 20.7
+      "odds": 30.5
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "グーテンベルク",
       "score": 0.19006861278561443,
       "horse_number": 7,
-      "odds": 18.7
+      "odds": 17.5
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "ウインオーディン",
       "score": 0.1181041394368637,
       "horse_number": 2,
-      "odds": 14.3
+      "odds": 13.6
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "ライトトラック",
       "score": 0.0744820245390972,
       "horse_number": 11,
-      "odds": 21.6
+      "odds": 22.5
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "マルチャン",
       "score": -0.35477131545877255,
       "horse_number": 10,
-      "odds": 87.3
+      "odds": 119.9
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "ダニーデン",
       "score": -0.5057574443112394,
       "horse_number": 9,
-      "odds": 120.4
+      "odds": 176.7
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "ブランデーロック",
       "score": -0.5274013950000556,
       "horse_number": 1,
-      "odds": 91.2
+      "odds": 145.4
     }
   ]
 }
