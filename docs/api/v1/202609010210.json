@@ -1,0 +1,72 @@
+{
+  "race_id": "202609010210",
+  "race_name": "戎橋S",
+  "race_time": "2026-02-22 14:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020102310",
+      "horse_name": "キタサンダムール",
+      "score": 0.17346384860672426,
+      "horse_number": 3,
+      "odds": 8.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104588",
+      "horse_name": "タイセイカレント",
+      "score": 0.16856765805995744,
+      "horse_number": 7,
+      "odds": 2.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019102106",
+      "horse_name": "ブリュットミレジメ",
+      "score": 0.06915548659587369,
+      "horse_number": 4,
+      "odds": 10.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020110039",
+      "horse_name": "ユハンヌス",
+      "score": 0.053820581302310516,
+      "horse_number": 1,
+      "odds": 6.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104928",
+      "horse_name": "トラペジスト",
+      "score": -0.01706501402161316,
+      "horse_number": 8,
+      "odds": 7.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103875",
+      "horse_name": "アイサンサン",
+      "score": -0.16717906646520966,
+      "horse_number": 2,
+      "odds": 3.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018104633",
+      "horse_name": "テーオーダヴィンチ",
+      "score": -0.3622974180166156,
+      "horse_number": 6,
+      "odds": 17.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018103406",
+      "horse_name": "トーホウディアス",
+      "score": -0.5279181989681963,
+      "horse_number": 5,
+      "odds": 29.7
+    }
+  ]
+}

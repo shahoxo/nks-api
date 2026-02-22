@@ -1,0 +1,88 @@
+{
+  "race_id": "202605010809",
+  "race_name": "ヒヤシンスS",
+  "race_time": "2026-02-22 14:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103142",
+      "horse_name": "イッテラッシャイ",
+      "score": 0.3619873847109133,
+      "horse_number": 6,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023110061",
+      "horse_name": "アルカディアカフェ",
+      "score": 0.3418702420193447,
+      "horse_number": 10,
+      "odds": 2.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102181",
+      "horse_name": "タイキブリッツェン",
+      "score": 0.3013038655095392,
+      "horse_number": 4,
+      "odds": 17.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102553",
+      "horse_name": "ボクマダネムイヨ",
+      "score": 0.25675856797691937,
+      "horse_number": 1,
+      "odds": 6.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023110086",
+      "horse_name": "サマーマッドネス",
+      "score": 0.18951379750301367,
+      "horse_number": 2,
+      "odds": 21.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104414",
+      "horse_name": "シーズザスローン",
+      "score": 0.1842032534522892,
+      "horse_number": 5,
+      "odds": 12.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023110065",
+      "horse_name": "ユウファラオ",
+      "score": 0.147633398202272,
+      "horse_number": 7,
+      "odds": 23.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101148",
+      "horse_name": "ラッキーキッド",
+      "score": 0.13215656593998662,
+      "horse_number": 3,
+      "odds": 35.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101269",
+      "horse_name": "ドンエレクトス",
+      "score": 0.0004993295632887192,
+      "horse_number": 8,
+      "odds": 9.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105137",
+      "horse_name": "ユアフェリシティ",
+      "score": -0.11170411219305244,
+      "horse_number": 9,
+      "odds": 47.5
+    }
+  ]
+}

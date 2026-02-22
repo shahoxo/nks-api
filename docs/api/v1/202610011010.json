@@ -1,0 +1,136 @@
+{
+  "race_id": "202610011010",
+  "race_name": "和布刈特別",
+  "race_time": "2026-02-22 14:40",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103746",
+      "horse_name": "マキシマムビスタ",
+      "score": 0.23192065594873315,
+      "horse_number": 14,
+      "odds": 6.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101106",
+      "horse_name": "スマートスピア",
+      "score": 0.22738994408251356,
+      "horse_number": 15,
+      "odds": 11.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103778",
+      "horse_name": "ライフゲート",
+      "score": 0.19363783951495495,
+      "horse_number": 10,
+      "odds": 10.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105021",
+      "horse_name": "マテンロウブレイブ",
+      "score": 0.15024934991083289,
+      "horse_number": 13,
+      "odds": 4.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103733",
+      "horse_name": "スーパージョック",
+      "score": 0.13589230285572496,
+      "horse_number": 2,
+      "odds": 6.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101045",
+      "horse_name": "タイセイミッション",
+      "score": 0.07116809064133989,
+      "horse_number": 9,
+      "odds": 6.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102739",
+      "horse_name": "ナリタヒカリ",
+      "score": -0.1412380239547736,
+      "horse_number": 4,
+      "odds": 23.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102687",
+      "horse_name": "バックトゥザライト",
+      "score": -0.19800727340573954,
+      "horse_number": 12,
+      "odds": 19.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106521",
+      "horse_name": "キングツェッペリン",
+      "score": -0.19943658111911472,
+      "horse_number": 16,
+      "odds": 30.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022107306",
+      "horse_name": "ストップヤーニング",
+      "score": -0.2025528719008704,
+      "horse_number": 11,
+      "odds": 14.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102491",
+      "horse_name": "プレイテシア",
+      "score": -0.2618110658424553,
+      "horse_number": 3,
+      "odds": 68.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105844",
+      "horse_name": "タイヨウフレア",
+      "score": -0.2618110658424553,
+      "horse_number": 1,
+      "odds": 21.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019101330",
+      "horse_name": "アイファーグローブ",
+      "score": -0.4495376166176872,
+      "horse_number": 7,
+      "odds": 40.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104215",
+      "horse_name": "ケイアイメキラ",
+      "score": -0.4691982655354622,
+      "horse_number": 8,
+      "odds": 29.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019106671",
+      "horse_name": "ワンダフルトゥデイ",
+      "score": -0.5520003421025013,
+      "horse_number": 5,
+      "odds": 40.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105350",
+      "horse_name": "コスモマルーン",
+      "score": -0.57117859716807,
+      "horse_number": 6,
+      "odds": 15.3
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "race_id": "202609010209",
+  "race_name": "天神橋特別",
+  "race_time": "2026-02-22 14:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105534",
+      "horse_name": "シャンパンライフ",
+      "score": 0.25222815306925916,
+      "horse_number": 10,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105127",
+      "horse_name": "テラメリタ",
+      "score": 0.12313666275054506,
+      "horse_number": 9,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105334",
+      "horse_name": "ダノンブランニュー",
+      "score": 0.10217345161371086,
+      "horse_number": 3,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103345",
+      "horse_name": "ウォータークラーク",
+      "score": 0.04642265737098364,
+      "horse_number": 2,
+      "odds": 3.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105552",
+      "horse_name": "ナグルファル",
+      "score": -0.13250964719753394,
+      "horse_number": 6,
+      "odds": 7.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106306",
+      "horse_name": "ゼンダンハヤブサ",
+      "score": -0.20319409768448382,
+      "horse_number": 4,
+      "odds": 13.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105431",
+      "horse_name": "ネーブルオレンジ",
+      "score": -0.28047285016200774,
+      "horse_number": 5,
+      "odds": 14.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101023",
+      "horse_name": "アイファーバトル",
+      "score": -0.2928138238533264,
+      "horse_number": 8,
+      "odds": 135.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101241",
+      "horse_name": "アジュマン",
+      "score": -0.4261836077479888,
+      "horse_number": 7,
+      "odds": 25.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018104841",
+      "horse_name": "リリーブライト",
+      "score": -0.5766429540794782,
+      "horse_number": 1,
+      "odds": 71.1
+    }
+  ]
+}
