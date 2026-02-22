@@ -1,0 +1,112 @@
+{
+  "race_id": "202605010802",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-22 10:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107343",
+      "horse_name": "バスキュール",
+      "score": 0.4976480504984283,
+      "horse_number": 4,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106494",
+      "horse_name": "ビービーアジャイル",
+      "score": 0.34012039403618377,
+      "horse_number": 8,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105177",
+      "horse_name": "タケルムサシ",
+      "score": -0.1280595257052117,
+      "horse_number": 1,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103187",
+      "horse_name": "クワッドマリニン",
+      "score": -0.21690339462455627,
+      "horse_number": 6,
+      "odds": 36.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103433",
+      "horse_name": "レフィノス",
+      "score": -0.37573167285687825,
+      "horse_number": 3,
+      "odds": 31.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106452",
+      "horse_name": "コスモラムバック",
+      "score": -0.47527387920692876,
+      "horse_number": 7,
+      "odds": 49.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102967",
+      "horse_name": "クリムゾンリーフ",
+      "score": -0.5003146322295727,
+      "horse_number": 12,
+      "odds": 14.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023109056",
+      "horse_name": "カミノテイオー",
+      "score": -0.624201143521487,
+      "horse_number": 10,
+      "odds": 93.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104149",
+      "horse_name": "エンゼルランプ",
+      "score": -0.6336370845533565,
+      "horse_number": 5,
+      "odds": 180.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106459",
+      "horse_name": "マイネルスラーヴァ",
+      "score": -0.6835879307523935,
+      "horse_number": 11,
+      "odds": 40.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106170",
+      "horse_name": "ウルヴァリン",
+      "score": -0.6998670045316765,
+      "horse_number": 13,
+      "odds": 188.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101720",
+      "horse_name": "ジューングレイス",
+      "score": -0.7092892104133881,
+      "horse_number": 9,
+      "odds": 45.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100313",
+      "horse_name": "オーキッドワン",
+      "score": -0.7344997899121097,
+      "horse_number": 2,
+      "odds": 91.4
+    }
+  ]
+}

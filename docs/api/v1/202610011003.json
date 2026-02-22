@@ -1,0 +1,120 @@
+{
+  "race_id": "202610011003",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-22 10:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105858",
+      "horse_name": "ラミアメンテ",
+      "score": 0.20991785598853124,
+      "horse_number": 8,
+      "odds": 6.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101864",
+      "horse_name": "マオノクラッシュ",
+      "score": 0.1470422843558738,
+      "horse_number": 3,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101607",
+      "horse_name": "イチトゼロノアイダ",
+      "score": 0.1389775649550115,
+      "horse_number": 11,
+      "odds": 13.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019103285",
+      "horse_name": "クリノミニスター",
+      "score": 0.05755329932603766,
+      "horse_number": 12,
+      "odds": 9.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103513",
+      "horse_name": "ナンヨークリスタル",
+      "score": -0.03946309837736099,
+      "horse_number": 6,
+      "odds": 9.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103078",
+      "horse_name": "ナムラモモ",
+      "score": -0.08193033876962767,
+      "horse_number": 2,
+      "odds": 5.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104671",
+      "horse_name": "ミライハーモニー",
+      "score": -0.10339595503565757,
+      "horse_number": 4,
+      "odds": 7.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022110126",
+      "horse_name": "エコロカディス",
+      "score": -0.18086721401947906,
+      "horse_number": 7,
+      "odds": 20.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104404",
+      "horse_name": "シュークリーム",
+      "score": -0.18640145542590777,
+      "horse_number": 10,
+      "odds": 15.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101443",
+      "horse_name": "エブライト",
+      "score": -0.21202384156251197,
+      "horse_number": 14,
+      "odds": 20.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100188",
+      "horse_name": "ヨーグルトナン",
+      "score": -0.2877752985563957,
+      "horse_number": 13,
+      "odds": 49.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100662",
+      "horse_name": "ベニシア",
+      "score": -0.48512116369810954,
+      "horse_number": 1,
+      "odds": 46.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101571",
+      "horse_name": "ハッピーダンシング",
+      "score": -0.6130743365699393,
+      "horse_number": 5,
+      "odds": 57.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102798",
+      "horse_name": "サイモンプレジール",
+      "score": -0.6318373387288261,
+      "horse_number": 9,
+      "odds": 59.7
+    }
+  ]
+}

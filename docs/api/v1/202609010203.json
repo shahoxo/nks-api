@@ -1,0 +1,96 @@
+{
+  "race_id": "202609010203",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-22 10:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103596",
+      "horse_name": "ファイアスピリット",
+      "score": 0.22433292098285104,
+      "horse_number": 9,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100969",
+      "horse_name": "タイセイゼスティ",
+      "score": 0.09587275366359023,
+      "horse_number": 3,
+      "odds": 8.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107314",
+      "horse_name": "ラジャブルック",
+      "score": -0.0006318204802285669,
+      "horse_number": 7,
+      "odds": 8.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106547",
+      "horse_name": "サンライズアーサー",
+      "score": -0.004404233810555611,
+      "horse_number": 5,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105127",
+      "horse_name": "キングスペード",
+      "score": -0.11112616615366652,
+      "horse_number": 2,
+      "odds": 11.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100235",
+      "horse_name": "ビズロード",
+      "score": -0.44968670427982527,
+      "horse_number": 11,
+      "odds": 18.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100329",
+      "horse_name": "アフリカンブラック",
+      "score": -0.5116628532259875,
+      "horse_number": 6,
+      "odds": 47.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106696",
+      "horse_name": "ユウブルボン",
+      "score": -0.5670515164495529,
+      "horse_number": 4,
+      "odds": 120.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101714",
+      "horse_name": "ワンダーゾルダート",
+      "score": -0.6028557547896995,
+      "horse_number": 8,
+      "odds": 41.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101329",
+      "horse_name": "テイエムテンジン",
+      "score": -0.6518943205472477,
+      "horse_number": 10,
+      "odds": 30.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104546",
+      "horse_name": "テーオーシュテルン",
+      "score": -0.6887521558175991,
+      "horse_number": 1,
+      "odds": 32.4
+    }
+  ]
+}

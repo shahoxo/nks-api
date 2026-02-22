@@ -1,0 +1,152 @@
+{
+  "race_id": "202610011002",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-22 10:15",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102185",
+      "horse_name": "ドラムメジャー",
+      "score": 0.3547882092616732,
+      "horse_number": 16,
+      "odds": 4.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104015",
+      "horse_name": "ロジケープ",
+      "score": 0.3198734172050175,
+      "horse_number": 10,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102564",
+      "horse_name": "フクオトコ",
+      "score": 0.30669472487609933,
+      "horse_number": 13,
+      "odds": 4.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101722",
+      "horse_name": "ジューンオアシス",
+      "score": 0.22533655292464927,
+      "horse_number": 15,
+      "odds": 18.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105670",
+      "horse_name": "レッドアイスピア",
+      "score": 0.20758580200012539,
+      "horse_number": 2,
+      "odds": 18.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105817",
+      "horse_name": "バレンタインビスタ",
+      "score": 0.13416366104374608,
+      "horse_number": 18,
+      "odds": 8.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101498",
+      "horse_name": "ベアコルム",
+      "score": 0.12230005895728513,
+      "horse_number": 11,
+      "odds": 15.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107311",
+      "horse_name": "ペスキエーラ",
+      "score": -0.12154373498446476,
+      "horse_number": 8,
+      "odds": 15.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105987",
+      "horse_name": "ウインハルフォード",
+      "score": -0.12441278139646358,
+      "horse_number": 14,
+      "odds": 14.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100215",
+      "horse_name": "スピットブレイク",
+      "score": -0.27387665304779985,
+      "horse_number": 5,
+      "odds": 21.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103327",
+      "horse_name": "マスカットオマーン",
+      "score": -0.3117209853668355,
+      "horse_number": 3,
+      "odds": 97.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105199",
+      "horse_name": "キミノナハオリョウ",
+      "score": -0.3233301558609885,
+      "horse_number": 17,
+      "odds": 68.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106687",
+      "horse_name": "ヒャクレツケン",
+      "score": -0.33682687465926575,
+      "horse_number": 6,
+      "odds": 121.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100792",
+      "horse_name": "イーリスアスター",
+      "score": -0.42518400422857283,
+      "horse_number": 7,
+      "odds": 160.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106263",
+      "horse_name": "ニシノツネオ",
+      "score": -0.503907160160415,
+      "horse_number": 9,
+      "odds": 140.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104005",
+      "horse_name": "カネトシパンドラ",
+      "score": -0.5240424937039242,
+      "horse_number": 4,
+      "odds": 104.3
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023103702",
+      "horse_name": "リアアーテシアン",
+      "score": -0.6205408552869341,
+      "horse_number": 12,
+      "odds": 85.6
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023106207",
+      "horse_name": "スリーマドンナ",
+      "score": -0.7295377203336686,
+      "horse_number": 1,
+      "odds": 140.8
+    }
+  ]
+}

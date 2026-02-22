@@ -1,0 +1,136 @@
+{
+  "race_id": "202609010202",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-22 10:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102131",
+      "horse_name": "ラヴネヴァーダイズ",
+      "score": 0.08487291473382293,
+      "horse_number": 8,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106232",
+      "horse_name": "ナムラオットー",
+      "score": -0.024851301535026998,
+      "horse_number": 1,
+      "odds": 34.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105839",
+      "horse_name": "メリフルアス",
+      "score": -0.05198270404958226,
+      "horse_number": 14,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104050",
+      "horse_name": "2023104050",
+      "score": -0.198631278191119,
+      "horse_number": 6,
+      "odds": 6.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106566",
+      "horse_name": "メイショウジーニー",
+      "score": -0.239206615242722,
+      "horse_number": 7,
+      "odds": 12.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102464",
+      "horse_name": "アクアマイスター",
+      "score": -0.2636603925596873,
+      "horse_number": 10,
+      "odds": 13.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106556",
+      "horse_name": "サンライズロイ",
+      "score": -0.4189357507786289,
+      "horse_number": 13,
+      "odds": 18.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106572",
+      "horse_name": "メイショウボンテン",
+      "score": -0.44854070775981614,
+      "horse_number": 15,
+      "odds": 91.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100633",
+      "horse_name": "アイアンナックル",
+      "score": -0.4537982826688385,
+      "horse_number": 12,
+      "odds": 17.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103942",
+      "horse_name": "ソードスレイプニル",
+      "score": -0.4926033863911503,
+      "horse_number": 2,
+      "odds": 21.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106336",
+      "horse_name": "ジーティーヒラリ",
+      "score": -0.5345408256050103,
+      "horse_number": 5,
+      "odds": 72.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104972",
+      "horse_name": "コパノルーカス",
+      "score": -0.5743292283173295,
+      "horse_number": 9,
+      "odds": 51.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100903",
+      "horse_name": "サンライズキース",
+      "score": -0.6336370845533565,
+      "horse_number": 16,
+      "odds": 51.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105542",
+      "horse_name": "トモエナゲ",
+      "score": -0.7344997899121097,
+      "horse_number": 11,
+      "odds": 143.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103189",
+      "horse_name": "スラッシュ",
+      "score": -0.7560238565797833,
+      "horse_number": 4,
+      "odds": 88.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102554",
+      "horse_name": "イチザペガサス",
+      "score": -0.7560238565797833,
+      "horse_number": 3,
+      "odds": 105.9
+    }
+  ]
+}
