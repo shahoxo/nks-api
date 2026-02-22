@@ -1,0 +1,152 @@
+{
+  "race_id": "202610011012",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-22 16:01",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105398",
+      "horse_name": "セゾンデフィーユ",
+      "score": 0.35510521808673534,
+      "horse_number": 15,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106835",
+      "horse_name": "セガンティーニ",
+      "score": 0.17596467857308265,
+      "horse_number": 16,
+      "odds": 13.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107147",
+      "horse_name": "キョラムン",
+      "score": 0.0952410512484005,
+      "horse_number": 7,
+      "odds": 8.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101414",
+      "horse_name": "ベルファスト",
+      "score": 0.05997272666070817,
+      "horse_number": 17,
+      "odds": 9.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103410",
+      "horse_name": "ディバイングレース",
+      "score": 0.014127003216177783,
+      "horse_number": 4,
+      "odds": 25.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104874",
+      "horse_name": "ホウオウガイア",
+      "score": -0.020708502195617734,
+      "horse_number": 1,
+      "odds": 11.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105484",
+      "horse_name": "ベランジェール",
+      "score": -0.06375906114999907,
+      "horse_number": 3,
+      "odds": 12.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105583",
+      "horse_name": "セイプリーズ",
+      "score": -0.16270528337638787,
+      "horse_number": 6,
+      "odds": 7.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100547",
+      "horse_name": "アサクサグレース",
+      "score": -0.1890971233567388,
+      "horse_number": 18,
+      "odds": 24.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103493",
+      "horse_name": "イリスアスール",
+      "score": -0.19009875495664533,
+      "horse_number": 10,
+      "odds": 17.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106065",
+      "horse_name": "ホリーアン",
+      "score": -0.2992737938703157,
+      "horse_number": 12,
+      "odds": 40.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106016",
+      "horse_name": "ブライアーヒル",
+      "score": -0.3200613599093656,
+      "horse_number": 2,
+      "odds": 30.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022107342",
+      "horse_name": "ザラタン",
+      "score": -0.3416545831655879,
+      "horse_number": 11,
+      "odds": 13.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105956",
+      "horse_name": "ロンドンアームズ",
+      "score": -0.3692057089232779,
+      "horse_number": 14,
+      "odds": 19.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104122",
+      "horse_name": "スカイダイバー",
+      "score": -0.41962364053594214,
+      "horse_number": 5,
+      "odds": 69.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104593",
+      "horse_name": "ベルアーブル",
+      "score": -0.5047800979884612,
+      "horse_number": 13,
+      "odds": 50.9
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022103443",
+      "horse_name": "ポップグルーヴ",
+      "score": -0.5722916006018547,
+      "horse_number": 9,
+      "odds": 64.2
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022100216",
+      "horse_name": "アルマグラース",
+      "score": -0.6318373387288261,
+      "horse_number": 8,
+      "odds": 80.0
+    }
+  ]
+}
