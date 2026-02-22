@@ -1,0 +1,120 @@
+{
+  "race_id": "202610011007",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-22 13:05",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101445",
+      "horse_name": "マテンロウカナロア",
+      "score": 0.17603963359957653,
+      "horse_number": 6,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101677",
+      "horse_name": "マンオブザマッチ",
+      "score": 0.029104801548350892,
+      "horse_number": 8,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104452",
+      "horse_name": "ミュークチェルシー",
+      "score": -0.03323356696878561,
+      "horse_number": 14,
+      "odds": 17.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101044",
+      "horse_name": "グレイスフルマーチ",
+      "score": -0.05622932512952725,
+      "horse_number": 10,
+      "odds": 8.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105772",
+      "horse_name": "ホウオウバローロ",
+      "score": -0.09894321231070664,
+      "horse_number": 5,
+      "odds": 8.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105794",
+      "horse_name": "ラテライト",
+      "score": -0.1012643129275322,
+      "horse_number": 13,
+      "odds": 16.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101430",
+      "horse_name": "プロスペクト",
+      "score": -0.22627977568914298,
+      "horse_number": 11,
+      "odds": 32.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103448",
+      "horse_name": "ツーピース",
+      "score": -0.26705940581129767,
+      "horse_number": 7,
+      "odds": 20.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100387",
+      "horse_name": "マーベリックシチー",
+      "score": -0.41992314076273207,
+      "horse_number": 2,
+      "odds": 8.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105335",
+      "horse_name": "キミオモウハナ",
+      "score": -0.4816637722280297,
+      "horse_number": 1,
+      "odds": 22.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019106615",
+      "horse_name": "ウイングスオブラヴ",
+      "score": -0.4843244219384072,
+      "horse_number": 9,
+      "odds": 49.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101464",
+      "horse_name": "ミッションルース",
+      "score": -0.5039392620218299,
+      "horse_number": 12,
+      "odds": 10.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019104005",
+      "horse_name": "ブレットフライ",
+      "score": -0.5517293837260059,
+      "horse_number": 4,
+      "odds": 42.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103204",
+      "horse_name": "クールシェルタ",
+      "score": -0.6318373387288261,
+      "horse_number": 3,
+      "odds": 56.7
+    }
+  ]
+}

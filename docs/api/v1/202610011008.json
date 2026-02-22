@@ -1,0 +1,120 @@
+{
+  "race_id": "202610011008",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-22 13:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100781",
+      "horse_name": "ルールーリマ",
+      "score": 0.2809034284224355,
+      "horse_number": 2,
+      "odds": 4.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100081",
+      "horse_name": "マイネルビスマルク",
+      "score": 0.22565312737720056,
+      "horse_number": 9,
+      "odds": 11.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104973",
+      "horse_name": "バズアップビート",
+      "score": 0.11815148022006869,
+      "horse_number": 8,
+      "odds": 4.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106811",
+      "horse_name": "マイネルアウルム",
+      "score": 0.019093418986021723,
+      "horse_number": 11,
+      "odds": 6.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019100915",
+      "horse_name": "ゼンノインヴォーク",
+      "score": 0.018238692362624882,
+      "horse_number": 10,
+      "odds": 8.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105400",
+      "horse_name": "ピティロディア",
+      "score": -0.043077778312632105,
+      "horse_number": 1,
+      "odds": 20.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105182",
+      "horse_name": "メリザンド",
+      "score": -0.0959510085788665,
+      "horse_number": 3,
+      "odds": 11.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105113",
+      "horse_name": "ダノンアトラス",
+      "score": -0.14062891917321194,
+      "horse_number": 5,
+      "odds": 11.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101280",
+      "horse_name": "ジェロニモス",
+      "score": -0.15431031205870493,
+      "horse_number": 13,
+      "odds": 15.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103520",
+      "horse_name": "デルシエロ",
+      "score": -0.18806188696910375,
+      "horse_number": 7,
+      "odds": 19.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105614",
+      "horse_name": "ポッポノフェスタ",
+      "score": -0.1883293227837313,
+      "horse_number": 6,
+      "odds": 31.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106116",
+      "horse_name": "ラッキーダンス",
+      "score": -0.36904656873318514,
+      "horse_number": 12,
+      "odds": 26.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101166",
+      "horse_name": "ノーマジック",
+      "score": -0.5491841488368587,
+      "horse_number": 14,
+      "odds": 108.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106361",
+      "horse_name": "ボナーテソーロ",
+      "score": -0.550054275147251,
+      "horse_number": 4,
+      "odds": 43.3
+    }
+  ]
+}

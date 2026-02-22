@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010807",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-02-22 13:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105180",
+      "horse_name": "アカデミア",
+      "score": 0.3862607865180054,
+      "horse_number": 11,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102039",
+      "horse_name": "サノノワンダー",
+      "score": 0.3305409124283842,
+      "horse_number": 5,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105439",
+      "horse_name": "ドラゴン",
+      "score": 0.32565518428753554,
+      "horse_number": 16,
+      "odds": 7.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110097",
+      "horse_name": "ブルーワール",
+      "score": 0.1486187279066458,
+      "horse_number": 10,
+      "odds": 10.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102595",
+      "horse_name": "バルダンツァ",
+      "score": 0.10261547538412517,
+      "horse_number": 1,
+      "odds": 20.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105390",
+      "horse_name": "パッションリッチ",
+      "score": -0.01303780741293347,
+      "horse_number": 3,
+      "odds": 10.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102676",
+      "horse_name": "コーカサスゴールド",
+      "score": -0.024664860878461113,
+      "horse_number": 14,
+      "odds": 8.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101553",
+      "horse_name": "スマートシーカー",
+      "score": -0.04565208820858392,
+      "horse_number": 2,
+      "odds": 31.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104810",
+      "horse_name": "サトノシュトラーセ",
+      "score": -0.08504944937744556,
+      "horse_number": 12,
+      "odds": 22.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105085",
+      "horse_name": "ゴヴェルナーレリコ",
+      "score": -0.12820523666108743,
+      "horse_number": 15,
+      "odds": 51.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106126",
+      "horse_name": "タイセイアディクト",
+      "score": -0.1529320434240766,
+      "horse_number": 13,
+      "odds": 12.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104953",
+      "horse_name": "インペリアルライン",
+      "score": -0.18183962168040607,
+      "horse_number": 9,
+      "odds": 19.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106337",
+      "horse_name": "ダブルメッセージ",
+      "score": -0.2821120633618893,
+      "horse_number": 4,
+      "odds": 19.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105885",
+      "horse_name": "キャネル",
+      "score": -0.30945357584315936,
+      "horse_number": 7,
+      "odds": 88.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104889",
+      "horse_name": "ラファールドール",
+      "score": -0.37911110622454547,
+      "horse_number": 8,
+      "odds": 52.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021107266",
+      "horse_name": "スプレーフォール",
+      "score": -0.6238516222815199,
+      "horse_number": 6,
+      "odds": 105.0
+    }
+  ]
+}
