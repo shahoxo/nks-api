@@ -1,0 +1,136 @@
+{
+  "race_id": "202605010812",
+  "race_name": "大島特別",
+  "race_time": "2026-02-22 16:30",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102790",
+      "horse_name": "カネショウレジェン",
+      "score": 0.45687263308167825,
+      "horse_number": 16,
+      "odds": 5.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102154",
+      "horse_name": "アスクアイルビゼア",
+      "score": 0.24823526905261772,
+      "horse_number": 3,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101660",
+      "horse_name": "アンクエンチャブル",
+      "score": 0.23713976357306077,
+      "horse_number": 2,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104009",
+      "horse_name": "トラヴェリンバンド",
+      "score": 0.23132895639885886,
+      "horse_number": 15,
+      "odds": 15.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110130",
+      "horse_name": "ベラジオワールド",
+      "score": 0.20235668628800565,
+      "horse_number": 4,
+      "odds": 7.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022107130",
+      "horse_name": "マサノユニコーン",
+      "score": 0.18760390842899138,
+      "horse_number": 9,
+      "odds": 10.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106609",
+      "horse_name": "ヤマニンバロネス",
+      "score": 0.1779909872237408,
+      "horse_number": 7,
+      "odds": 9.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110161",
+      "horse_name": "セントラルヴァレー",
+      "score": 0.06930511259043737,
+      "horse_number": 10,
+      "odds": 12.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101905",
+      "horse_name": "キョウエイカンセ",
+      "score": 0.062464900441374524,
+      "horse_number": 5,
+      "odds": 12.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102797",
+      "horse_name": "フィリップ",
+      "score": 0.05116857562801578,
+      "horse_number": 1,
+      "odds": 36.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105232",
+      "horse_name": "イブニングタイド",
+      "score": -0.09415312152953759,
+      "horse_number": 12,
+      "odds": 24.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105321",
+      "horse_name": "エーデル",
+      "score": -0.1375984060731021,
+      "horse_number": 14,
+      "odds": 21.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105086",
+      "horse_name": "フクチャントウメイ",
+      "score": -0.2279991809027214,
+      "horse_number": 13,
+      "odds": 93.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104777",
+      "horse_name": "クォーツァイト",
+      "score": -0.3387222558883372,
+      "horse_number": 11,
+      "odds": 53.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022107288",
+      "horse_name": "リアルクィーン",
+      "score": -0.44729720081248814,
+      "horse_number": 8,
+      "odds": 57.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021100626",
+      "horse_name": "ビッグショータイム",
+      "score": -0.7560238565797833,
+      "horse_number": 6,
+      "odds": 82.7
+    }
+  ]
+}
