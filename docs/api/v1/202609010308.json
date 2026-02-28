@@ -1,0 +1,128 @@
+{
+  "race_id": "202609010308",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-02-28 13:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103226",
+      "horse_name": "ウエヲムイテゴラン",
+      "score": 0.15947324495107779,
+      "horse_number": 4,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105787",
+      "horse_name": "コンアフェット",
+      "score": 0.1329034328429501,
+      "horse_number": 11,
+      "odds": 11.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104432",
+      "horse_name": "レイバックスピン",
+      "score": 0.10281142791652914,
+      "horse_number": 10,
+      "odds": 7.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105616",
+      "horse_name": "エルフストラック",
+      "score": 0.10060688051156454,
+      "horse_number": 5,
+      "odds": 8.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105058",
+      "horse_name": "ヴァンアグレアブル",
+      "score": 0.09407577820621633,
+      "horse_number": 7,
+      "odds": 8.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100159",
+      "horse_name": "クインズショコラ",
+      "score": 0.07882456227918971,
+      "horse_number": 9,
+      "odds": 8.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102138",
+      "horse_name": "プリンセッサ",
+      "score": 0.04177592764661767,
+      "horse_number": 6,
+      "odds": 7.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103515",
+      "horse_name": "ユウェンタース",
+      "score": -0.00964492069980543,
+      "horse_number": 14,
+      "odds": 33.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106618",
+      "horse_name": "マハナ",
+      "score": -0.04193026343166134,
+      "horse_number": 12,
+      "odds": 22.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103556",
+      "horse_name": "ブルーペクトライト",
+      "score": -0.19793117566220386,
+      "horse_number": 2,
+      "odds": 38.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105772",
+      "horse_name": "カロローザ",
+      "score": -0.2516284501729898,
+      "horse_number": 13,
+      "odds": 10.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103246",
+      "horse_name": "ウィンターダフネ",
+      "score": -0.2588876716028711,
+      "horse_number": 3,
+      "odds": 37.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021107262",
+      "horse_name": "サンキャメロン",
+      "score": -0.31575423126070223,
+      "horse_number": 8,
+      "odds": 114.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104687",
+      "horse_name": "ラヴァブル",
+      "score": -0.348280745200932,
+      "horse_number": 15,
+      "odds": 41.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103209",
+      "horse_name": "メイショウリリー",
+      "score": -0.5449552747690097,
+      "horse_number": 1,
+      "odds": 52.4
+    }
+  ]
+}

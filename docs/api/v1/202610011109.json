@@ -1,0 +1,136 @@
+{
+  "race_id": "202610011109",
+  "race_name": "脊振山特別",
+  "race_time": "2026-02-28 14:10",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104899",
+      "horse_name": "ジュンライデン",
+      "score": 0.09157110485592763,
+      "horse_number": 8,
+      "odds": 6.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104692",
+      "horse_name": "バースライト",
+      "score": 0.07448000993338363,
+      "horse_number": 12,
+      "odds": 8.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105839",
+      "horse_name": "アスクデッドヒート",
+      "score": 0.04085524058798791,
+      "horse_number": 16,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103910",
+      "horse_name": "レジェンドシップ",
+      "score": 0.017935416348261315,
+      "horse_number": 2,
+      "odds": 6.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103845",
+      "horse_name": "ニホンピロゴルディ",
+      "score": -0.006100056953555506,
+      "horse_number": 3,
+      "odds": 10.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104793",
+      "horse_name": "サラコスティ",
+      "score": -0.010242038639689862,
+      "horse_number": 9,
+      "odds": 4.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101003",
+      "horse_name": "ラブカ",
+      "score": -0.10764092148731674,
+      "horse_number": 5,
+      "odds": 33.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102379",
+      "horse_name": "テイクザクラウン",
+      "score": -0.14181126063797656,
+      "horse_number": 15,
+      "odds": 16.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105982",
+      "horse_name": "サンライズガッツ",
+      "score": -0.24344232396378548,
+      "horse_number": 14,
+      "odds": 16.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104661",
+      "horse_name": "ジーティートシオー",
+      "score": -0.31008098230194253,
+      "horse_number": 6,
+      "odds": 10.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101088",
+      "horse_name": "テイキットイージー",
+      "score": -0.36356395889540627,
+      "horse_number": 1,
+      "odds": 28.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106770",
+      "horse_name": "マイネルボス",
+      "score": -0.396886634847676,
+      "horse_number": 13,
+      "odds": 49.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104413",
+      "horse_name": "マハートマーベル",
+      "score": -0.48960636591665396,
+      "horse_number": 7,
+      "odds": 40.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106180",
+      "horse_name": "シーリュウシー",
+      "score": -0.4946923493481409,
+      "horse_number": 11,
+      "odds": 48.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105796",
+      "horse_name": "ペリプルス",
+      "score": -0.5065136855316473,
+      "horse_number": 10,
+      "odds": 58.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104986",
+      "horse_name": "ロジウムエポック",
+      "score": -0.5431529973283721,
+      "horse_number": 4,
+      "odds": 78.3
+    }
+  ]
+}
