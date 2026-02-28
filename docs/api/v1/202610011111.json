@@ -1,0 +1,128 @@
+{
+  "race_id": "202610011111",
+  "race_name": "別府特別",
+  "race_time": "2026-02-28 15:20",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104167",
+      "horse_name": "タイセイリコルド",
+      "score": 0.18802010296421506,
+      "horse_number": 7,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104669",
+      "horse_name": "クラヴァンス",
+      "score": 0.13136862799062743,
+      "horse_number": 14,
+      "odds": 6.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105345",
+      "horse_name": "シンゼンカガ",
+      "score": 0.10187664732659883,
+      "horse_number": 8,
+      "odds": 13.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104208",
+      "horse_name": "ニホンピロホリデー",
+      "score": 0.017458327423458132,
+      "horse_number": 3,
+      "odds": 23.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104845",
+      "horse_name": "ホウオウアートマン",
+      "score": -0.029065989047407655,
+      "horse_number": 9,
+      "odds": 5.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106813",
+      "horse_name": "マイネルフーガ",
+      "score": -0.031771231099328855,
+      "horse_number": 6,
+      "odds": 9.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106642",
+      "horse_name": "ファミリーツリー",
+      "score": -0.05237927025408552,
+      "horse_number": 5,
+      "odds": 14.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110078",
+      "horse_name": "オメガインペリアル",
+      "score": -0.0953942299287053,
+      "horse_number": 1,
+      "odds": 28.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106077",
+      "horse_name": "プリズマジコ",
+      "score": -0.14758225582538848,
+      "horse_number": 2,
+      "odds": 12.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019100606",
+      "horse_name": "ヤマニンループ",
+      "score": -0.15120144533759672,
+      "horse_number": 13,
+      "odds": 20.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105018",
+      "horse_name": "バルティカ",
+      "score": -0.16768087798168205,
+      "horse_number": 4,
+      "odds": 18.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103790",
+      "horse_name": "フナデ",
+      "score": -0.24097693298099343,
+      "horse_number": 11,
+      "odds": 10.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100640",
+      "horse_name": "プラニスフェリオ",
+      "score": -0.2725397900849715,
+      "horse_number": 10,
+      "odds": 41.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018103560",
+      "horse_name": "ワザモノ",
+      "score": -0.2972943630656805,
+      "horse_number": 12,
+      "odds": 48.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021106826",
+      "horse_name": "レッセパッセ",
+      "score": -0.3589784673655255,
+      "horse_number": 15,
+      "odds": 30.3
+    }
+  ]
+}

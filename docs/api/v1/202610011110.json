@@ -1,0 +1,136 @@
+{
+  "race_id": "202610011110",
+  "race_name": "早鞆特別",
+  "race_time": "2026-02-28 14:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102905",
+      "horse_name": "ディアウス",
+      "score": 0.26781261713829524,
+      "horse_number": 10,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103002",
+      "horse_name": "アラナコア",
+      "score": 0.09547394982704382,
+      "horse_number": 4,
+      "odds": 12.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105554",
+      "horse_name": "ゼロスネーク",
+      "score": 0.09514533601233596,
+      "horse_number": 15,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103186",
+      "horse_name": "テーオーライマン",
+      "score": 0.032708843207673595,
+      "horse_number": 12,
+      "odds": 4.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102394",
+      "horse_name": "マーウォルス",
+      "score": -0.006249470895748549,
+      "horse_number": 13,
+      "odds": 17.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103619",
+      "horse_name": "タマモジャスミン",
+      "score": -0.04139793085550352,
+      "horse_number": 5,
+      "odds": 22.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104320",
+      "horse_name": "キングベルベット",
+      "score": -0.07998105572983599,
+      "horse_number": 6,
+      "odds": 6.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104039",
+      "horse_name": "ジュンラトゥール",
+      "score": -0.12697808247955172,
+      "horse_number": 9,
+      "odds": 23.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104791",
+      "horse_name": "プウスカンドゥール",
+      "score": -0.20709970080821033,
+      "horse_number": 16,
+      "odds": 21.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103270",
+      "horse_name": "ダミエ",
+      "score": -0.21242371585752673,
+      "horse_number": 7,
+      "odds": 57.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022110069",
+      "horse_name": "ジューンエオス",
+      "score": -0.2132726749210039,
+      "horse_number": 14,
+      "odds": 15.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021110130",
+      "horse_name": "ドッビアーコ",
+      "score": -0.2282095953799946,
+      "horse_number": 11,
+      "odds": 45.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103161",
+      "horse_name": "トーレ",
+      "score": -0.33367107887217257,
+      "horse_number": 2,
+      "odds": 39.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103939",
+      "horse_name": "スマートプレシャス",
+      "score": -0.3497620681003975,
+      "horse_number": 1,
+      "odds": 10.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018110132",
+      "horse_name": "アメリカンエール",
+      "score": -0.500997491318687,
+      "horse_number": 8,
+      "odds": 38.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018100961",
+      "horse_name": "スカイドゥエラー",
+      "score": -0.529584698516002,
+      "horse_number": 3,
+      "odds": 71.3
+    }
+  ]
+}
