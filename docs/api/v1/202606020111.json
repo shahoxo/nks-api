@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020111",
+  "race_name": "オーシャンS",
+  "race_time": "2026-02-28 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019105394",
+      "horse_name": "ママコチャ",
+      "score": 0.5233146345745111,
+      "horse_number": 14,
+      "odds": 5.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103066",
+      "horse_name": "レイピア",
+      "score": 0.3999184777443504,
+      "horse_number": 2,
+      "odds": 13.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105836",
+      "horse_name": "ファンダム",
+      "score": 0.3670605222403827,
+      "horse_number": 1,
+      "odds": 4.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106851",
+      "horse_name": "ルガル",
+      "score": 0.2664767976022438,
+      "horse_number": 5,
+      "odds": 3.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102434",
+      "horse_name": "ルージュラナキラ",
+      "score": 0.15754460480841143,
+      "horse_number": 11,
+      "odds": 36.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021107058",
+      "horse_name": "ピューロマジック",
+      "score": 0.150419757974724,
+      "horse_number": 10,
+      "odds": 26.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018106055",
+      "horse_name": "ヨシノイースター",
+      "score": 0.1393040798597549,
+      "horse_number": 16,
+      "odds": 45.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110164",
+      "horse_name": "インビンシブルパパ",
+      "score": 0.1346812630940808,
+      "horse_number": 9,
+      "odds": 13.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102020",
+      "horse_name": "フリッカージャブ",
+      "score": 0.12227960565507495,
+      "horse_number": 15,
+      "odds": 7.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100896",
+      "horse_name": "ビッグシーザー",
+      "score": 0.058495605254589134,
+      "horse_number": 13,
+      "odds": 18.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103661",
+      "horse_name": "フリームファクシ",
+      "score": 0.01028476544799538,
+      "horse_number": 7,
+      "odds": 84.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2017101423",
+      "horse_name": "ウイングレイテスト",
+      "score": -0.020994372850576624,
+      "horse_number": 4,
+      "odds": 26.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101924",
+      "horse_name": "フィオライア",
+      "score": -0.15475368108415077,
+      "horse_number": 8,
+      "odds": 49.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102320",
+      "horse_name": "ペアポルックス",
+      "score": -0.16457052506081218,
+      "horse_number": 3,
+      "odds": 19.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019105658",
+      "horse_name": "オタルエバー",
+      "score": -0.29946603307010183,
+      "horse_number": 12,
+      "odds": 230.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2016104668",
+      "horse_name": "カリボール",
+      "score": -0.43573894350549547,
+      "horse_number": 6,
+      "odds": 156.8
+    }
+  ]
+}
