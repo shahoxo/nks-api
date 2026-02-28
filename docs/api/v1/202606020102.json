@@ -1,0 +1,128 @@
+{
+  "race_id": "202606020102",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-28 10:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104103",
+      "horse_name": "パラダイスフェイス",
+      "score": 0.12088035217794386,
+      "horse_number": 9,
+      "odds": 1.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103519",
+      "horse_name": "サウジバラード",
+      "score": -0.020720546276283128,
+      "horse_number": 11,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106860",
+      "horse_name": "2023106860",
+      "score": -0.023251599695867833,
+      "horse_number": 6,
+      "odds": 15.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106646",
+      "horse_name": "スカイレックス",
+      "score": -0.07717973971223961,
+      "horse_number": 15,
+      "odds": 18.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105662",
+      "horse_name": "ドゥーニ",
+      "score": -0.14541074111419536,
+      "horse_number": 13,
+      "odds": 29.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100624",
+      "horse_name": "ファーストシーン",
+      "score": -0.4302123777707988,
+      "horse_number": 4,
+      "odds": 100.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100045",
+      "horse_name": "2023100045",
+      "score": -0.4939617137433969,
+      "horse_number": 14,
+      "odds": 46.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106314",
+      "horse_name": "ジェイエルグリーン",
+      "score": -0.5020159069470821,
+      "horse_number": 12,
+      "odds": 38.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100892",
+      "horse_name": "オダイ",
+      "score": -0.5393606452573874,
+      "horse_number": 3,
+      "odds": 63.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101280",
+      "horse_name": "ブレイシオン",
+      "score": -0.5582485515378649,
+      "horse_number": 7,
+      "odds": 127.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106154",
+      "horse_name": "オーシャンドリーム",
+      "score": -0.5844092227108343,
+      "horse_number": 2,
+      "odds": 43.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102941",
+      "horse_name": "フォーエバーラブ",
+      "score": -0.6740794138889812,
+      "horse_number": 1,
+      "odds": 82.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103060",
+      "horse_name": "アマビエ",
+      "score": -0.7212483613895885,
+      "horse_number": 5,
+      "odds": 114.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101693",
+      "horse_name": "ヴァルク",
+      "score": -0.745636725054484,
+      "horse_number": 10,
+      "odds": 113.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102911",
+      "horse_name": "スターゲイザー",
+      "score": -0.7560238565797833,
+      "horse_number": 8,
+      "odds": 84.0
+    }
+  ]
+}

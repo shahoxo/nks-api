@@ -1,0 +1,136 @@
+{
+  "race_id": "202609010303",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-28 10:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023110106",
+      "horse_name": "ブルーマッキンジー",
+      "score": 0.2160483764108283,
+      "horse_number": 8,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101900",
+      "horse_name": "レッドレベンディス",
+      "score": 0.1221677359975745,
+      "horse_number": 13,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101500",
+      "horse_name": "クロカミジョウ",
+      "score": 0.10843115977708385,
+      "horse_number": 2,
+      "odds": 12.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101115",
+      "horse_name": "カーリキュー",
+      "score": 0.03184624986789813,
+      "horse_number": 9,
+      "odds": 3.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103443",
+      "horse_name": "アリハム",
+      "score": -0.06822784214161037,
+      "horse_number": 1,
+      "odds": 7.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107531",
+      "horse_name": "ジャスパーレオン",
+      "score": -0.13518755934597676,
+      "horse_number": 14,
+      "odds": 32.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105666",
+      "horse_name": "アスターリコッタ",
+      "score": -0.29666017360880154,
+      "horse_number": 6,
+      "odds": 74.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106567",
+      "horse_name": "メイショウテンジン",
+      "score": -0.3040317084941956,
+      "horse_number": 4,
+      "odds": 7.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107190",
+      "horse_name": "グランビスタ",
+      "score": -0.32006600838953403,
+      "horse_number": 12,
+      "odds": 18.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104999",
+      "horse_name": "メイショウマドンナ",
+      "score": -0.4541775131533756,
+      "horse_number": 7,
+      "odds": 39.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023110020",
+      "horse_name": "アウトザロー",
+      "score": -0.45973994149123676,
+      "horse_number": 15,
+      "odds": 37.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103660",
+      "horse_name": "セレナブリーズ",
+      "score": -0.4609876322119698,
+      "horse_number": 16,
+      "odds": 46.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103080",
+      "horse_name": "リオマダムレッド",
+      "score": -0.49063102373391737,
+      "horse_number": 11,
+      "odds": 36.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105012",
+      "horse_name": "アイク",
+      "score": -0.6732626067852269,
+      "horse_number": 3,
+      "odds": 77.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103393",
+      "horse_name": "ヴァルボリ",
+      "score": -0.7295377203336686,
+      "horse_number": 10,
+      "odds": 163.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023102831",
+      "horse_name": "シュネードリーム",
+      "score": -0.735775346659503,
+      "horse_number": 5,
+      "odds": 159.0
+    }
+  ]
+}

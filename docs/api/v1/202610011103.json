@@ -1,0 +1,120 @@
+{
+  "race_id": "202610011103",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-28 10:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101624",
+      "horse_name": "キャンドルマス",
+      "score": 0.130202016844997,
+      "horse_number": 8,
+      "odds": 11.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103237",
+      "horse_name": "メイショウホダワラ",
+      "score": 0.07422856477274263,
+      "horse_number": 1,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103451",
+      "horse_name": "プルミエールパス",
+      "score": 0.06710426560994857,
+      "horse_number": 2,
+      "odds": 8.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104671",
+      "horse_name": "ミライハーモニー",
+      "score": -0.008810741037146175,
+      "horse_number": 13,
+      "odds": 5.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100091",
+      "horse_name": "キャリーグレイス",
+      "score": -0.08380478348921022,
+      "horse_number": 6,
+      "odds": 4.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101082",
+      "horse_name": "フェアリーメドウ",
+      "score": -0.11106830024725271,
+      "horse_number": 7,
+      "odds": 24.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102594",
+      "horse_name": "ミキノバカラ",
+      "score": -0.22747255212552533,
+      "horse_number": 5,
+      "odds": 9.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103256",
+      "horse_name": "カフジキアッキエレ",
+      "score": -0.2837168233514803,
+      "horse_number": 9,
+      "odds": 33.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103485",
+      "horse_name": "アスコットアイ",
+      "score": -0.32320722584080014,
+      "horse_number": 10,
+      "odds": 9.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105868",
+      "horse_name": "バーケンティン",
+      "score": -0.4591606292312963,
+      "horse_number": 12,
+      "odds": 11.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104141",
+      "horse_name": "ハジメテノチュウ",
+      "score": -0.5970618435386312,
+      "horse_number": 14,
+      "odds": 63.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100076",
+      "horse_name": "ダイチラポール",
+      "score": -0.6333228464902197,
+      "horse_number": 3,
+      "odds": 35.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101363",
+      "horse_name": "アイランドピーク",
+      "score": -0.6583956367143762,
+      "horse_number": 4,
+      "odds": 49.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018100170",
+      "horse_name": "アポロハクジャ",
+      "score": -0.6783429378640029,
+      "horse_number": 11,
+      "odds": 154.6
+    }
+  ]
+}

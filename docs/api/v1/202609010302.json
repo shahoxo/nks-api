@@ -1,0 +1,120 @@
+{
+  "race_id": "202609010302",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-28 10:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105281",
+      "horse_name": "ホウオウモチーヴ",
+      "score": 0.3061712926987934,
+      "horse_number": 2,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105342",
+      "horse_name": "ゲタリア",
+      "score": 0.05757163549926177,
+      "horse_number": 1,
+      "odds": 3.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104939",
+      "horse_name": "クリュギスト",
+      "score": 0.01203954539012769,
+      "horse_number": 7,
+      "odds": 3.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103734",
+      "horse_name": "アスクドゥチャンプ",
+      "score": -0.055164611088953916,
+      "horse_number": 8,
+      "odds": 13.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102726",
+      "horse_name": "タロ",
+      "score": -0.17858281986372532,
+      "horse_number": 11,
+      "odds": 13.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100371",
+      "horse_name": "スパルタンエックス",
+      "score": -0.39054757124581674,
+      "horse_number": 6,
+      "odds": 15.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105245",
+      "horse_name": "オメガヒストリー",
+      "score": -0.3970182940258631,
+      "horse_number": 5,
+      "odds": 88.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104408",
+      "horse_name": "ナウオアネヴァー",
+      "score": -0.4510089581573148,
+      "horse_number": 12,
+      "odds": 22.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103378",
+      "horse_name": "レザーアンドレース",
+      "score": -0.5168957249647579,
+      "horse_number": 10,
+      "odds": 29.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104444",
+      "horse_name": "ハイヴァン",
+      "score": -0.583457255275273,
+      "horse_number": 4,
+      "odds": 103.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101670",
+      "horse_name": "ライクアストリーク",
+      "score": -0.5974775154644739,
+      "horse_number": 3,
+      "odds": 43.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104348",
+      "horse_name": "エクヴァータル",
+      "score": -0.6121130178856828,
+      "horse_number": 9,
+      "odds": 94.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105722",
+      "horse_name": "ロードエルドラド",
+      "score": -0.6668471881249025,
+      "horse_number": 14,
+      "odds": 49.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104499",
+      "horse_name": "ビナハイバン",
+      "score": -0.7560238565797833,
+      "horse_number": 13,
+      "odds": 150.8
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "race_id": "202610011102",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-28 10:15",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102151",
+      "horse_name": "スッサンエア",
+      "score": 0.34385842738746997,
+      "horse_number": 7,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101122",
+      "horse_name": "ヒッグスボソン",
+      "score": 0.15900722352289104,
+      "horse_number": 13,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102363",
+      "horse_name": "ウインドトリック",
+      "score": 0.09043005107605992,
+      "horse_number": 15,
+      "odds": 5.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104079",
+      "horse_name": "メローネ",
+      "score": 0.09041604195090724,
+      "horse_number": 11,
+      "odds": 17.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104875",
+      "horse_name": "ダブルチャレンジ",
+      "score": 0.03288842723852772,
+      "horse_number": 8,
+      "odds": 5.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103668",
+      "horse_name": "カテドラルクォーツ",
+      "score": -0.14829539335745878,
+      "horse_number": 12,
+      "odds": 38.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107221",
+      "horse_name": "シャンドラファール",
+      "score": -0.25430709445121746,
+      "horse_number": 3,
+      "odds": 15.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100300",
+      "horse_name": "2023100300",
+      "score": -0.27848790697873865,
+      "horse_number": 16,
+      "odds": 33.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106420",
+      "horse_name": "コスモファーブロス",
+      "score": -0.2966150285391889,
+      "horse_number": 6,
+      "odds": 22.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105570",
+      "horse_name": "セイウンプーパ",
+      "score": -0.30286887148588126,
+      "horse_number": 5,
+      "odds": 44.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105450",
+      "horse_name": "プレシャスフェザー",
+      "score": -0.3091255338650577,
+      "horse_number": 17,
+      "odds": 49.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101092",
+      "horse_name": "ブレッティレディ",
+      "score": -0.3759747418648439,
+      "horse_number": 10,
+      "odds": 81.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106687",
+      "horse_name": "ヒャクレツケン",
+      "score": -0.40342716168234755,
+      "horse_number": 14,
+      "odds": 20.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106437",
+      "horse_name": "リュウセイコウテイ",
+      "score": -0.4306434621144292,
+      "horse_number": 2,
+      "odds": 34.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106429",
+      "horse_name": "メーレスブリーゼ",
+      "score": -0.4834636834194097,
+      "horse_number": 18,
+      "odds": 51.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023103042",
+      "horse_name": "グリッタードール",
+      "score": -0.5281616935155898,
+      "horse_number": 4,
+      "odds": 15.2
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023100202",
+      "horse_name": "プレヒティヒ",
+      "score": -0.5362231549469464,
+      "horse_number": 1,
+      "odds": 47.0
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023100628",
+      "horse_name": "メモリーデイズ",
+      "score": -0.5484265169651755,
+      "horse_number": 9,
+      "odds": 52.9
+    }
+  ]
+}
