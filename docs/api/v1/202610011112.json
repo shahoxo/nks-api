@@ -1,0 +1,152 @@
+{
+  "race_id": "202610011112",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-28 16:01",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105279",
+      "horse_name": "ルパヴィヨン",
+      "score": 0.1260161277442352,
+      "horse_number": 18,
+      "odds": 6.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106835",
+      "horse_name": "セガンティーニ",
+      "score": 0.09490064658484251,
+      "horse_number": 13,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102878",
+      "horse_name": "ナンナンプー",
+      "score": -0.0164600550069806,
+      "horse_number": 17,
+      "odds": 7.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103039",
+      "horse_name": "スネーフリンガ",
+      "score": -0.10668978563648523,
+      "horse_number": 7,
+      "odds": 16.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103488",
+      "horse_name": "ジャンヌローサ",
+      "score": -0.13418908660003512,
+      "horse_number": 10,
+      "odds": 12.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106206",
+      "horse_name": "ウインラウダ",
+      "score": -0.15380616215523338,
+      "horse_number": 1,
+      "odds": 8.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106433",
+      "horse_name": "アーサーズウェイン",
+      "score": -0.20319409768448382,
+      "horse_number": 4,
+      "odds": 12.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100795",
+      "horse_name": "ベルタソ",
+      "score": -0.20940727570089124,
+      "horse_number": 8,
+      "odds": 20.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102950",
+      "horse_name": "テクノデザイン",
+      "score": -0.2639946330768684,
+      "horse_number": 6,
+      "odds": 60.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104900",
+      "horse_name": "クロユキ",
+      "score": -0.3195119439765811,
+      "horse_number": 11,
+      "odds": 27.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101015",
+      "horse_name": "スーパーバイザー",
+      "score": -0.3299558653938317,
+      "horse_number": 3,
+      "odds": 29.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022110063",
+      "horse_name": "サディーク",
+      "score": -0.3346825409487427,
+      "horse_number": 5,
+      "odds": 7.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101652",
+      "horse_name": "ドライグ",
+      "score": -0.38545312993082925,
+      "horse_number": 9,
+      "odds": 13.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019101794",
+      "horse_name": "ヒメカミノイタダキ",
+      "score": -0.43715892018401503,
+      "horse_number": 2,
+      "odds": 41.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021110079",
+      "horse_name": "ヴァイタルピース",
+      "score": -0.463830248296494,
+      "horse_number": 16,
+      "odds": 62.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101386",
+      "horse_name": "ホシニネガイヲ",
+      "score": -0.5113929901287999,
+      "horse_number": 15,
+      "odds": 21.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2019110122",
+      "horse_name": "ブラヴィーノ",
+      "score": -0.5645449839303281,
+      "horse_number": 12,
+      "odds": 85.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021106178",
+      "horse_name": "シュシュトディエス",
+      "score": -0.6318373387288261,
+      "horse_number": 14,
+      "odds": 62.2
+    }
+  ]
+}

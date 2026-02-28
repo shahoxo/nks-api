@@ -1,0 +1,152 @@
+{
+  "race_id": "202609010312",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-02-28 16:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100171",
+      "horse_name": "ダノンキラウェア",
+      "score": 0.33069514543191586,
+      "horse_number": 17,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104694",
+      "horse_name": "ブルクトーア",
+      "score": 0.22047286055042564,
+      "horse_number": 6,
+      "odds": 4.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105299",
+      "horse_name": "リアライズ",
+      "score": 0.19489156212154948,
+      "horse_number": 9,
+      "odds": 26.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103171",
+      "horse_name": "タイキヴァンクール",
+      "score": 0.04910973761608917,
+      "horse_number": 11,
+      "odds": 11.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101195",
+      "horse_name": "ゴルトリッチ",
+      "score": 0.009827601563836646,
+      "horse_number": 8,
+      "odds": 58.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103969",
+      "horse_name": "ヨウシタンレイ",
+      "score": 0.007468049743292341,
+      "horse_number": 4,
+      "odds": 20.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101229",
+      "horse_name": "レディメローラ",
+      "score": -0.009129371608128444,
+      "horse_number": 7,
+      "odds": 84.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021110023",
+      "horse_name": "エクストラバック",
+      "score": -0.06277445406578025,
+      "horse_number": 12,
+      "odds": 9.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103632",
+      "horse_name": "スイミーユニバンス",
+      "score": -0.0933830873061704,
+      "horse_number": 16,
+      "odds": 36.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018100097",
+      "horse_name": "スマートルシーダ",
+      "score": -0.1526652591711964,
+      "horse_number": 15,
+      "odds": 50.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105253",
+      "horse_name": "ウィップスティッチ",
+      "score": -0.24704909417777615,
+      "horse_number": 18,
+      "odds": 29.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103862",
+      "horse_name": "サダメ",
+      "score": -0.2928138238533264,
+      "horse_number": 1,
+      "odds": 35.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105812",
+      "horse_name": "ビップジーニー",
+      "score": -0.372599209259052,
+      "horse_number": 14,
+      "odds": 21.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100642",
+      "horse_name": "キャッスルレイク",
+      "score": -0.41139582293743404,
+      "horse_number": 5,
+      "odds": 39.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105445",
+      "horse_name": "イスラコラソン",
+      "score": -0.4224045246850702,
+      "horse_number": 2,
+      "odds": 79.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104316",
+      "horse_name": "ユキノエミリオ",
+      "score": -0.4603826674919258,
+      "horse_number": 10,
+      "odds": 88.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020104825",
+      "horse_name": "スカプラリオ",
+      "score": -0.4882445502785312,
+      "horse_number": 3,
+      "odds": 142.8
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022104050",
+      "horse_name": "プチプラージュ",
+      "score": -0.6277900402662383,
+      "horse_number": 13,
+      "odds": 119.5
+    }
+  ]
+}
