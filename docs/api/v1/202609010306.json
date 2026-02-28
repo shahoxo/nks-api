@@ -1,0 +1,112 @@
+{
+  "race_id": "202609010306",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-02-28 12:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104267",
+      "horse_name": "レヴァンテシチー",
+      "score": 0.09286288465427352,
+      "horse_number": 5,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102223",
+      "horse_name": "サイモンシュバリエ",
+      "score": -0.022413980631177464,
+      "horse_number": 1,
+      "odds": 8.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105848",
+      "horse_name": "ステイクオール",
+      "score": -0.04246632909910768,
+      "horse_number": 4,
+      "odds": 10.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100655",
+      "horse_name": "レーヌマロン",
+      "score": -0.16998329099231976,
+      "horse_number": 13,
+      "odds": 26.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103320",
+      "horse_name": "サンライズシア",
+      "score": -0.18630896196557567,
+      "horse_number": 10,
+      "odds": 13.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106924",
+      "horse_name": "ハイクオリティ",
+      "score": -0.2222708085110459,
+      "horse_number": 8,
+      "odds": 2.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100753",
+      "horse_name": "2021100753",
+      "score": -0.4189935425905583,
+      "horse_number": 3,
+      "odds": 130.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104311",
+      "horse_name": "ヤングアメリカンズ",
+      "score": -0.49654862007061173,
+      "horse_number": 6,
+      "odds": 70.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100695",
+      "horse_name": "ヴェストラン",
+      "score": -0.5253666773487896,
+      "horse_number": 9,
+      "odds": 63.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022107325",
+      "horse_name": "レーンアジリティ",
+      "score": -0.5331783267970392,
+      "horse_number": 7,
+      "odds": 10.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022107233",
+      "horse_name": "エポカリーナ",
+      "score": -0.5481253291523164,
+      "horse_number": 2,
+      "odds": 34.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103250",
+      "horse_name": "メイショウハリソン",
+      "score": -0.5650305604640254,
+      "horse_number": 12,
+      "odds": 69.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022107299",
+      "horse_name": "クレスコドルフィン",
+      "score": -0.5756804866807193,
+      "horse_number": 11,
+      "odds": 107.5
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "race_id": "202609010305",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-28 12:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104830",
+      "horse_name": "リアライズルミナス",
+      "score": 0.37709047227435266,
+      "horse_number": 7,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106188",
+      "horse_name": "ビッグヒーロー",
+      "score": 0.3351829919642481,
+      "horse_number": 12,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106404",
+      "horse_name": "ペアピーターソン",
+      "score": 0.23368325849632482,
+      "horse_number": 3,
+      "odds": 10.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105247",
+      "horse_name": "サトノアグード",
+      "score": 0.22110876416245326,
+      "horse_number": 5,
+      "odds": 3.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104552",
+      "horse_name": "フウセン",
+      "score": 0.17806378094775668,
+      "horse_number": 14,
+      "odds": 15.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103348",
+      "horse_name": "オーロラボレアリス",
+      "score": 0.1345236236733763,
+      "horse_number": 2,
+      "odds": 20.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104395",
+      "horse_name": "レッドホット",
+      "score": 0.047389427767767486,
+      "horse_number": 10,
+      "odds": 30.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023110015",
+      "horse_name": "パーシャングレー",
+      "score": -0.018699565858382575,
+      "horse_number": 6,
+      "odds": 16.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101094",
+      "horse_name": "ヒバリノコ",
+      "score": -0.050720484833326196,
+      "horse_number": 8,
+      "odds": 41.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107511",
+      "horse_name": "マイシドニー",
+      "score": -0.09247928503816151,
+      "horse_number": 13,
+      "odds": 43.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102544",
+      "horse_name": "ミルトメテオ",
+      "score": -0.12461956196924795,
+      "horse_number": 9,
+      "odds": 70.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104782",
+      "horse_name": "2023104782",
+      "score": -0.4526874950906882,
+      "horse_number": 11,
+      "odds": 76.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023109089",
+      "horse_name": "アメアメフレフレ",
+      "score": -0.5567544997303129,
+      "horse_number": 4,
+      "odds": 142.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102327",
+      "horse_name": "ウエスタンオレンジ",
+      "score": -0.7560238565797833,
+      "horse_number": 1,
+      "odds": 163.0
+    }
+  ]
+}

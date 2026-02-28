@@ -1,0 +1,152 @@
+{
+  "race_id": "202606020105",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-02-28 12:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103792",
+      "horse_name": "セットエトワール",
+      "score": 0.3331638165335701,
+      "horse_number": 2,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107225",
+      "horse_name": "セツナサ",
+      "score": 0.267811846150644,
+      "horse_number": 12,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105606",
+      "horse_name": "レッドリファインド",
+      "score": 0.20437795569710704,
+      "horse_number": 7,
+      "odds": 14.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103435",
+      "horse_name": "ピエスユニーク",
+      "score": 0.14008385555499916,
+      "horse_number": 8,
+      "odds": 12.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105449",
+      "horse_name": "ミナヅキ",
+      "score": 0.10868159574562054,
+      "horse_number": 17,
+      "odds": 13.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106416",
+      "horse_name": "ゼータレティクル",
+      "score": -0.03462667213136571,
+      "horse_number": 10,
+      "odds": 20.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104023",
+      "horse_name": "コスモアンタレス",
+      "score": -0.04160714064734202,
+      "horse_number": 4,
+      "odds": 35.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103328",
+      "horse_name": "2023103328",
+      "score": -0.15849582653885877,
+      "horse_number": 6,
+      "odds": 15.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103799",
+      "horse_name": "フォンドルレール",
+      "score": -0.18523916348892236,
+      "horse_number": 9,
+      "odds": 9.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107161",
+      "horse_name": "2023107161",
+      "score": -0.19439255165507405,
+      "horse_number": 16,
+      "odds": 8.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023107033",
+      "horse_name": "ギルドホール",
+      "score": -0.21954905417449627,
+      "horse_number": 3,
+      "odds": 21.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105575",
+      "horse_name": "ホープフルワールド",
+      "score": -0.3173229983567543,
+      "horse_number": 15,
+      "odds": 48.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106436",
+      "horse_name": "マイネルシュラハト",
+      "score": -0.46849270167241697,
+      "horse_number": 18,
+      "odds": 20.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100706",
+      "horse_name": "ピコパープル",
+      "score": -0.4917357253597575,
+      "horse_number": 13,
+      "odds": 68.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105618",
+      "horse_name": "ホウオウライラック",
+      "score": -0.5002635857274718,
+      "horse_number": 11,
+      "odds": 49.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104926",
+      "horse_name": "アルタティール",
+      "score": -0.5210184733532521,
+      "horse_number": 1,
+      "odds": 48.2
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023102689",
+      "horse_name": "カキュウ",
+      "score": -0.6518943205472477,
+      "horse_number": 5,
+      "odds": 42.2
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023104490",
+      "horse_name": "マイネルエトルタ",
+      "score": -0.7385016702365806,
+      "horse_number": 14,
+      "odds": 53.2
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "race_id": "202606020106",
+  "race_name": "3歳1勝クラス",
+  "race_time": "2026-02-28 13:00",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104443",
+      "horse_name": "フロレセール",
+      "score": 0.507342293661278,
+      "horse_number": 8,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104909",
+      "horse_name": "レオアジャイル",
+      "score": 0.31896998449902614,
+      "horse_number": 6,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107183",
+      "horse_name": "フォルナックス",
+      "score": 0.29307305616992474,
+      "horse_number": 3,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106469",
+      "horse_name": "スタニングレディ",
+      "score": 0.1578152005641881,
+      "horse_number": 9,
+      "odds": 9.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107060",
+      "horse_name": "エコールナヴァール",
+      "score": 0.09876772103124752,
+      "horse_number": 4,
+      "odds": 24.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103472",
+      "horse_name": "ドナルンバ",
+      "score": 0.07077674561052232,
+      "horse_number": 5,
+      "odds": 10.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104487",
+      "horse_name": "アイドクレース",
+      "score": -0.10818597593010135,
+      "horse_number": 1,
+      "odds": 22.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106412",
+      "horse_name": "ユメシルベ",
+      "score": -0.1372075503434602,
+      "horse_number": 2,
+      "odds": 17.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101438",
+      "horse_name": "スミレノハナ",
+      "score": -0.7560238565797833,
+      "horse_number": 7,
+      "odds": 68.5
+    }
+  ]
+}
