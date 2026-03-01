@@ -1,0 +1,104 @@
+{
+  "race_id": "202609010403",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-01 10:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102706",
+      "horse_name": "レイサンソク",
+      "score": 0.3518745519547346,
+      "horse_number": 7,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105124",
+      "horse_name": "キングズテイル",
+      "score": 0.26174825231879206,
+      "horse_number": 3,
+      "odds": 5.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107258",
+      "horse_name": "シャローファースト",
+      "score": 0.09349338822455781,
+      "horse_number": 12,
+      "odds": 15.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103424",
+      "horse_name": "デルマバンダイサン",
+      "score": -0.026566122080381643,
+      "horse_number": 8,
+      "odds": 14.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102593",
+      "horse_name": "ジャスティンレビン",
+      "score": -0.0737988190393595,
+      "horse_number": 4,
+      "odds": 6.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107351",
+      "horse_name": "クラッチスラッガー",
+      "score": -0.12019183787732986,
+      "horse_number": 11,
+      "odds": 30.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101665",
+      "horse_name": "ウォーターハクビ",
+      "score": -0.1379046821102757,
+      "horse_number": 6,
+      "odds": 22.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103152",
+      "horse_name": "メイショウジンライ",
+      "score": -0.18317635127622628,
+      "horse_number": 2,
+      "odds": 14.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104067",
+      "horse_name": "オーバーランダー",
+      "score": -0.22889686981099147,
+      "horse_number": 1,
+      "odds": 29.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100477",
+      "horse_name": "クリノリキオー",
+      "score": -0.32033605149181177,
+      "horse_number": 5,
+      "odds": 16.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102380",
+      "horse_name": "ルペイドゥロール",
+      "score": -0.42430565174684665,
+      "horse_number": 10,
+      "odds": 43.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104172",
+      "horse_name": "リリーサンダー",
+      "score": -0.5978789189436949,
+      "horse_number": 9,
+      "odds": 53.1
+    }
+  ]
+}
