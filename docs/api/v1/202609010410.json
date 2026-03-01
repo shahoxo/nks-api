@@ -1,0 +1,120 @@
+{
+  "race_id": "202609010410",
+  "race_name": "伊丹S",
+  "race_time": "2026-03-01 14:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102256",
+      "horse_name": "ノーブルスカイ",
+      "score": 0.22859640195221376,
+      "horse_number": 7,
+      "odds": 7.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105775",
+      "horse_name": "ルグランヴァン",
+      "score": 0.2068826054514336,
+      "horse_number": 3,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107134",
+      "horse_name": "タガノマカシヤ",
+      "score": 0.1316368368708998,
+      "horse_number": 10,
+      "odds": 4.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105255",
+      "horse_name": "ハワイアンティアレ",
+      "score": 0.06105427991496594,
+      "horse_number": 5,
+      "odds": 9.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019101864",
+      "horse_name": "クロニクル",
+      "score": 0.015877125380831268,
+      "horse_number": 8,
+      "odds": 14.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021107192",
+      "horse_name": "アラレタバシル",
+      "score": 0.013293525669280205,
+      "horse_number": 13,
+      "odds": 6.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101143",
+      "horse_name": "イージーオンミー",
+      "score": -0.05331352744095086,
+      "horse_number": 6,
+      "odds": 48.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100736",
+      "horse_name": "ポッドフォルク",
+      "score": -0.07474746336866078,
+      "horse_number": 4,
+      "odds": 16.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105425",
+      "horse_name": "ベルウェザー",
+      "score": -0.17237994306123353,
+      "horse_number": 2,
+      "odds": 9.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103199",
+      "horse_name": "ビップスコーピオン",
+      "score": -0.1898703878527853,
+      "horse_number": 11,
+      "odds": 49.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020110026",
+      "horse_name": "ダブルジョーク",
+      "score": -0.24056265806720822,
+      "horse_number": 9,
+      "odds": 16.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102389",
+      "horse_name": "トウカイポワール",
+      "score": -0.2519311016851235,
+      "horse_number": 1,
+      "odds": 33.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018110117",
+      "horse_name": "フランスゴデイナ",
+      "score": -0.2919806376653584,
+      "horse_number": 14,
+      "odds": 86.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102993",
+      "horse_name": "ポルポラジール",
+      "score": -0.489956603670174,
+      "horse_number": 12,
+      "odds": 18.8
+    }
+  ]
+}

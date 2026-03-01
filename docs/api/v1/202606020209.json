@@ -1,0 +1,88 @@
+{
+  "race_id": "202606020209",
+  "race_name": "富里特別",
+  "race_time": "2026-03-01 14:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105585",
+      "horse_name": "カリーニョ",
+      "score": 0.49492773580679766,
+      "horse_number": 5,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101480",
+      "horse_name": "キャピタルリッチ",
+      "score": 0.1362974542900276,
+      "horse_number": 9,
+      "odds": 8.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105375",
+      "horse_name": "バードウォッチャー",
+      "score": 0.11036362246579819,
+      "horse_number": 6,
+      "odds": 7.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105106",
+      "horse_name": "タッチアンドムーブ",
+      "score": 0.011593586857381998,
+      "horse_number": 4,
+      "odds": 21.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106595",
+      "horse_name": "ヤマニンアドホック",
+      "score": 0.010921959912854221,
+      "horse_number": 8,
+      "odds": 4.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020100742",
+      "horse_name": "ブラックヴァール",
+      "score": -0.038786877949146176,
+      "horse_number": 1,
+      "odds": 19.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104781",
+      "horse_name": "ゴーソーファー",
+      "score": -0.07865742241875258,
+      "horse_number": 10,
+      "odds": 16.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103310",
+      "horse_name": "レイヤードレッド",
+      "score": -0.2204645355443504,
+      "horse_number": 3,
+      "odds": 26.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100660",
+      "horse_name": "ダイシンアポロン",
+      "score": -0.24524314681657847,
+      "horse_number": 2,
+      "odds": 18.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022107287",
+      "horse_name": "アメージング",
+      "score": -0.27876638054868524,
+      "horse_number": 7,
+      "odds": 41.1
+    }
+  ]
+}

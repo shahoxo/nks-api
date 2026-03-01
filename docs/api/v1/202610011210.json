@@ -1,0 +1,152 @@
+{
+  "race_id": "202610011210",
+  "race_name": "西日本新聞杯",
+  "race_time": "2026-03-01 14:40",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100248",
+      "horse_name": "セイウンデセオ",
+      "score": 0.21218388558799534,
+      "horse_number": 15,
+      "odds": 10.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106905",
+      "horse_name": "ワインクーラー",
+      "score": 0.18829296033544995,
+      "horse_number": 5,
+      "odds": 12.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110087",
+      "horse_name": "ララアヴリル",
+      "score": 0.1600598984788935,
+      "horse_number": 11,
+      "odds": 12.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104197",
+      "horse_name": "カウンターセブン",
+      "score": 0.1165626239740888,
+      "horse_number": 1,
+      "odds": 6.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2018100442",
+      "horse_name": "モーデン",
+      "score": 0.09321279311194361,
+      "horse_number": 16,
+      "odds": 14.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106661",
+      "horse_name": "ヒーローインチーフ",
+      "score": 0.07423182090578585,
+      "horse_number": 18,
+      "odds": 3.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106605",
+      "horse_name": "ヤマニンレセディ",
+      "score": 0.06807956913849798,
+      "horse_number": 8,
+      "odds": 19.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100271",
+      "horse_name": "フォティック",
+      "score": -0.016129640402663136,
+      "horse_number": 10,
+      "odds": 16.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105409",
+      "horse_name": "ディアドコス",
+      "score": -0.04655927789218081,
+      "horse_number": 7,
+      "odds": 38.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105873",
+      "horse_name": "シュブロンレーヴル",
+      "score": -0.08647855420512252,
+      "horse_number": 13,
+      "odds": 16.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103299",
+      "horse_name": "シアター",
+      "score": -0.13009193286855592,
+      "horse_number": 17,
+      "odds": 9.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105803",
+      "horse_name": "マイネルラッシュ",
+      "score": -0.217270870576101,
+      "horse_number": 9,
+      "odds": 32.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104074",
+      "horse_name": "ラブディーヴァ",
+      "score": -0.22117697537530812,
+      "horse_number": 3,
+      "odds": 15.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104498",
+      "horse_name": "インプロバイザー",
+      "score": -0.26411528747191027,
+      "horse_number": 2,
+      "odds": 24.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103898",
+      "horse_name": "イグニション",
+      "score": -0.26611529468445533,
+      "horse_number": 14,
+      "odds": 38.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2017101767",
+      "horse_name": "ベンガン",
+      "score": -0.2676193168537477,
+      "horse_number": 12,
+      "odds": 54.3
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022106187",
+      "horse_name": "ゼンダンタカ",
+      "score": -0.412966073423893,
+      "horse_number": 4,
+      "odds": 44.7
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022109145",
+      "horse_name": "エイヨーアメジスト",
+      "score": -0.5608508333910796,
+      "horse_number": 6,
+      "odds": 79.8
+    }
+  ]
+}

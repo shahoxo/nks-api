@@ -1,0 +1,128 @@
+{
+  "race_id": "202606020210",
+  "race_name": "アクアマリン",
+  "race_time": "2026-03-01 15:01",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110014",
+      "horse_name": "マックアルイーン",
+      "score": 0.409356353425247,
+      "horse_number": 12,
+      "odds": 5.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105358",
+      "horse_name": "アスティスプマンテ",
+      "score": 0.2884104567709416,
+      "horse_number": 8,
+      "odds": 13.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110034",
+      "horse_name": "ソーダーンライト",
+      "score": 0.20723460515309589,
+      "horse_number": 2,
+      "odds": 2.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101443",
+      "horse_name": "サウスバンク",
+      "score": 0.1798848045325825,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103592",
+      "horse_name": "ルシード",
+      "score": 0.16902947206635016,
+      "horse_number": 15,
+      "odds": 15.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102140",
+      "horse_name": "アンビバレント",
+      "score": 0.10665472516048503,
+      "horse_number": 14,
+      "odds": 9.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105880",
+      "horse_name": "レッドエヴァンス",
+      "score": 0.022150270065375583,
+      "horse_number": 9,
+      "odds": 14.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105054",
+      "horse_name": "モンシュマン",
+      "score": 0.0053284664094434405,
+      "horse_number": 13,
+      "odds": 23.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104401",
+      "horse_name": "ヴェサリウス",
+      "score": -0.053003798389098286,
+      "horse_number": 1,
+      "odds": 9.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102670",
+      "horse_name": "イサチルシーサイド",
+      "score": -0.12565878433406802,
+      "horse_number": 6,
+      "odds": 20.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021110132",
+      "horse_name": "ジャスパーノワール",
+      "score": -0.2547321233558182,
+      "horse_number": 4,
+      "odds": 39.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105198",
+      "horse_name": "ウインスノーライト",
+      "score": -0.40998178301479765,
+      "horse_number": 3,
+      "odds": 71.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102299",
+      "horse_name": "アシャカタカ",
+      "score": -0.5361573133709966,
+      "horse_number": 7,
+      "odds": 56.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019107075",
+      "horse_name": "ブランデーロック",
+      "score": -0.5404739295466654,
+      "horse_number": 5,
+      "odds": 77.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104203",
+      "horse_name": "スピードオブライト",
+      "score": -0.5605704931179395,
+      "horse_number": 11,
+      "odds": 69.5
+    }
+  ]
+}
