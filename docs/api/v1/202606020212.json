@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020212",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-03-01 16:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100899",
+      "horse_name": "ビッグドリーム",
+      "score": 0.4280870699581653,
+      "horse_number": 12,
+      "odds": 2.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100729",
+      "horse_name": "ビーマックス",
+      "score": 0.1705407799489954,
+      "horse_number": 9,
+      "odds": 20.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110006",
+      "horse_name": "カラヴァジェスティ",
+      "score": 0.1221677359975745,
+      "horse_number": 10,
+      "odds": 14.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103704",
+      "horse_name": "アスゴッド",
+      "score": 0.11493191550009757,
+      "horse_number": 14,
+      "odds": 27.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110088",
+      "horse_name": "オトメナシャチョウ",
+      "score": 0.10115157180259636,
+      "horse_number": 4,
+      "odds": 16.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105429",
+      "horse_name": "アグラード",
+      "score": 0.03204310247305492,
+      "horse_number": 15,
+      "odds": 36.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103859",
+      "horse_name": "タイセイルヴァン",
+      "score": 0.030318516406941907,
+      "horse_number": 2,
+      "odds": 29.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100363",
+      "horse_name": "キョウエイカンフ",
+      "score": 0.022249334241010818,
+      "horse_number": 7,
+      "odds": 4.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020110127",
+      "horse_name": "ジョヴィアン",
+      "score": -0.02300140397425228,
+      "horse_number": 11,
+      "odds": 15.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106261",
+      "horse_name": "タッカージーティー",
+      "score": -0.04068949734026041,
+      "horse_number": 13,
+      "odds": 12.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100304",
+      "horse_name": "エスシーレベッカ",
+      "score": -0.13567970776566549,
+      "horse_number": 6,
+      "odds": 21.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100417",
+      "horse_name": "ガーネットウインク",
+      "score": -0.15452734931702286,
+      "horse_number": 5,
+      "odds": 24.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105619",
+      "horse_name": "スミレファースト",
+      "score": -0.24927311121445372,
+      "horse_number": 3,
+      "odds": 21.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103706",
+      "horse_name": "アルジェンタージョ",
+      "score": -0.26883358509268906,
+      "horse_number": 8,
+      "odds": 117.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100418",
+      "horse_name": "ラストシャリナ",
+      "score": -0.4645347085580128,
+      "horse_number": 1,
+      "odds": 37.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021109113",
+      "horse_name": "アベベ",
+      "score": -0.5833309696314021,
+      "horse_number": 16,
+      "odds": 70.1
+    }
+  ]
+}

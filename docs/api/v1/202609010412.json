@@ -1,0 +1,136 @@
+{
+  "race_id": "202609010412",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-03-01 16:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100158",
+      "horse_name": "ダノンモンテローザ",
+      "score": 0.2656280889637787,
+      "horse_number": 2,
+      "odds": 4.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103609",
+      "horse_name": "モカラマーズ",
+      "score": 0.215977119073282,
+      "horse_number": 3,
+      "odds": 7.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021110057",
+      "horse_name": "ボディブロー",
+      "score": 0.18624415982182557,
+      "horse_number": 14,
+      "odds": 13.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102754",
+      "horse_name": "ランスオブセヘル",
+      "score": 0.11288063830918846,
+      "horse_number": 6,
+      "odds": 9.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104210",
+      "horse_name": "ニホンピロトッティ",
+      "score": 0.08416282501546873,
+      "horse_number": 9,
+      "odds": 25.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103947",
+      "horse_name": "ルクスレゼルヴァ",
+      "score": 0.05060018064897488,
+      "horse_number": 10,
+      "odds": 29.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103630",
+      "horse_name": "ウルスクローム",
+      "score": 0.002247770894380563,
+      "horse_number": 15,
+      "odds": 5.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100654",
+      "horse_name": "セルヴァンス",
+      "score": -0.012909187937926166,
+      "horse_number": 8,
+      "odds": 28.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101557",
+      "horse_name": "アスタールフナ",
+      "score": -0.0723199588068331,
+      "horse_number": 4,
+      "odds": 3.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102259",
+      "horse_name": "クリノオリーブ",
+      "score": -0.1116444005629172,
+      "horse_number": 11,
+      "odds": 31.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106983",
+      "horse_name": "ゼンノツキヨミ",
+      "score": -0.12317063259990842,
+      "horse_number": 5,
+      "odds": 17.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019103996",
+      "horse_name": "タイキエクセロン",
+      "score": -0.149910966083821,
+      "horse_number": 16,
+      "odds": 90.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105711",
+      "horse_name": "ズバットマサムネ",
+      "score": -0.28152249973582577,
+      "horse_number": 12,
+      "odds": 51.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021109086",
+      "horse_name": "サミアド",
+      "score": -0.3228808581355745,
+      "horse_number": 13,
+      "odds": 57.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103779",
+      "horse_name": "エンプレスペイ",
+      "score": -0.4016291006547681,
+      "horse_number": 7,
+      "odds": 174.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019100871",
+      "horse_name": "ブルーノート",
+      "score": -0.5627112550012691,
+      "horse_number": 1,
+      "odds": 181.5
+    }
+  ]
+}
