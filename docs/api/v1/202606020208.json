@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020208",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-01 13:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104619",
+      "horse_name": "ヘルヴェティオス",
+      "score": 0.49492773580679766,
+      "horse_number": 12,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020106930",
+      "horse_name": "シャーンゴッセ",
+      "score": 0.2753523245768566,
+      "horse_number": 5,
+      "odds": 9.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104058",
+      "horse_name": "ライトニングゼウス",
+      "score": 0.1796247303941329,
+      "horse_number": 9,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019106520",
+      "horse_name": "スノーホルンロード",
+      "score": 0.1646087096776495,
+      "horse_number": 16,
+      "odds": 16.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103994",
+      "horse_name": "タッカーバレット",
+      "score": 0.14297555791444913,
+      "horse_number": 10,
+      "odds": 28.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102103",
+      "horse_name": "レイアポポ",
+      "score": 0.06389298607901907,
+      "horse_number": 8,
+      "odds": 19.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102696",
+      "horse_name": "ラブリーガール",
+      "score": -0.04551082889293038,
+      "horse_number": 1,
+      "odds": 33.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100046",
+      "horse_name": "ペイシャマリーン",
+      "score": -0.058601622899422334,
+      "horse_number": 3,
+      "odds": 7.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104678",
+      "horse_name": "エルムラント",
+      "score": -0.06964014094849114,
+      "horse_number": 6,
+      "odds": 34.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104174",
+      "horse_name": "レジーナローズ",
+      "score": -0.10527066075457292,
+      "horse_number": 2,
+      "odds": 24.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104490",
+      "horse_name": "トニケンサンバ",
+      "score": -0.2273084323940441,
+      "horse_number": 14,
+      "odds": 7.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104303",
+      "horse_name": "ナムラペルル",
+      "score": -0.24046567711066777,
+      "horse_number": 7,
+      "odds": 19.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105494",
+      "horse_name": "フクチャンヒメ",
+      "score": -0.403397156581925,
+      "horse_number": 11,
+      "odds": 65.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102756",
+      "horse_name": "アンビシュー",
+      "score": -0.421442286969521,
+      "horse_number": 13,
+      "odds": 133.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100506",
+      "horse_name": "キングクレオール",
+      "score": -0.46377577496632205,
+      "horse_number": 4,
+      "odds": 125.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103326",
+      "horse_name": "ガールネクストドア",
+      "score": -0.5133138658359971,
+      "horse_number": 15,
+      "odds": 93.2
+    }
+  ]
+}

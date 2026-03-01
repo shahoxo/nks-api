@@ -1,0 +1,128 @@
+{
+  "race_id": "202610011208",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-01 13:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105711",
+      "horse_name": "ヴァリオーサ",
+      "score": -0.010340488492250995,
+      "horse_number": 14,
+      "odds": 13.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020104744",
+      "horse_name": "ノーブルアクト",
+      "score": -0.02885973023053895,
+      "horse_number": 5,
+      "odds": 10.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103723",
+      "horse_name": "アンリーベイビー",
+      "score": -0.03612206917442043,
+      "horse_number": 3,
+      "odds": 5.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101580",
+      "horse_name": "ビジュードネージュ",
+      "score": -0.08608881987003085,
+      "horse_number": 10,
+      "odds": 14.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022107317",
+      "horse_name": "カルミアクラウン",
+      "score": -0.08796348575541538,
+      "horse_number": 7,
+      "odds": 3.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105267",
+      "horse_name": "サウンドルーチェ",
+      "score": -0.15463951701901693,
+      "horse_number": 13,
+      "odds": 9.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106185",
+      "horse_name": "ラグナトーレ",
+      "score": -0.27349130703083535,
+      "horse_number": 6,
+      "odds": 7.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103720",
+      "horse_name": "カルネヴァーレ",
+      "score": -0.2877672572542176,
+      "horse_number": 8,
+      "odds": 8.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105503",
+      "horse_name": "カルドウェル",
+      "score": -0.39567187286570094,
+      "horse_number": 11,
+      "odds": 32.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103228",
+      "horse_name": "メイショウハマギク",
+      "score": -0.4148977057837976,
+      "horse_number": 2,
+      "odds": 30.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105217",
+      "horse_name": "ヴァイオパイシーズ",
+      "score": -0.5659496401024298,
+      "horse_number": 15,
+      "odds": 13.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104435",
+      "horse_name": "プリマドンナアスク",
+      "score": -0.59350196031396,
+      "horse_number": 1,
+      "odds": 20.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101166",
+      "horse_name": "ノーマジック",
+      "score": -0.605532600853436,
+      "horse_number": 9,
+      "odds": 67.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106419",
+      "horse_name": "ココボロ",
+      "score": -0.6318373387288261,
+      "horse_number": 12,
+      "odds": 129.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103011",
+      "horse_name": "ブルーユンチェリー",
+      "score": -0.6533614053964997,
+      "horse_number": 4,
+      "odds": 59.4
+    }
+  ]
+}

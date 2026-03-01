@@ -1,0 +1,128 @@
+{
+  "race_id": "202609010408",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-01 13:45",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105868",
+      "horse_name": "レベルスルール",
+      "score": 0.3016434473278856,
+      "horse_number": 3,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105334",
+      "horse_name": "ダノンブランニュー",
+      "score": 0.19033020317098623,
+      "horse_number": 14,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107248",
+      "horse_name": "ルシャリオ",
+      "score": 0.1866659945294825,
+      "horse_number": 10,
+      "odds": 16.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104992",
+      "horse_name": "フェイトライン",
+      "score": 0.12113581994314294,
+      "horse_number": 6,
+      "odds": 10.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104611",
+      "horse_name": "ジュンライトニング",
+      "score": -0.09920378695837678,
+      "horse_number": 12,
+      "odds": 22.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106634",
+      "horse_name": "アンビアンス",
+      "score": -0.1473679687383895,
+      "horse_number": 5,
+      "odds": 10.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104940",
+      "horse_name": "エイカイカッシーナ",
+      "score": -0.1887946849895681,
+      "horse_number": 2,
+      "odds": 30.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104000",
+      "horse_name": "メイショウタクボク",
+      "score": -0.2654803282313654,
+      "horse_number": 9,
+      "odds": 49.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106807",
+      "horse_name": "マイネルイグザルト",
+      "score": -0.33041477720430473,
+      "horse_number": 13,
+      "odds": 51.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106224",
+      "horse_name": "ウインリベラシオン",
+      "score": -0.5039016063549897,
+      "horse_number": 15,
+      "odds": 21.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102801",
+      "horse_name": "ドゥラシェーナ",
+      "score": -0.5454025249292438,
+      "horse_number": 8,
+      "odds": 68.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105936",
+      "horse_name": "ウィテカービート",
+      "score": -0.5722916006018547,
+      "horse_number": 7,
+      "odds": 103.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106790",
+      "horse_name": "ケアンズ",
+      "score": -0.5766429540794782,
+      "horse_number": 1,
+      "odds": 36.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102736",
+      "horse_name": "ビヨンドザドリーム",
+      "score": -0.588214498764502,
+      "horse_number": 11,
+      "odds": 81.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022100481",
+      "horse_name": "アクロスザリバー",
+      "score": -0.5970618435386312,
+      "horse_number": 4,
+      "odds": 159.1
+    }
+  ]
+}

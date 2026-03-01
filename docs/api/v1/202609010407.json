@@ -1,0 +1,136 @@
+{
+  "race_id": "202609010407",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-01 13:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020100683",
+      "horse_name": "カフェノワール",
+      "score": 0.18219727976861916,
+      "horse_number": 7,
+      "odds": 5.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100906",
+      "horse_name": "ペレグリン",
+      "score": 0.1631462310195776,
+      "horse_number": 11,
+      "odds": 5.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103837",
+      "horse_name": "クインズシャウラ",
+      "score": 0.08193025170212423,
+      "horse_number": 8,
+      "odds": 17.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105857",
+      "horse_name": "ラウルベア",
+      "score": 0.07668717276363257,
+      "horse_number": 4,
+      "odds": 19.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106332",
+      "horse_name": "ミルミナーヴァ",
+      "score": 0.03980486975408917,
+      "horse_number": 3,
+      "odds": 3.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103954",
+      "horse_name": "クインズメレンゲ",
+      "score": -0.050496673556400445,
+      "horse_number": 10,
+      "odds": 38.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020107214",
+      "horse_name": "コーリンラズベリー",
+      "score": -0.060828546434270284,
+      "horse_number": 5,
+      "odds": 23.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105715",
+      "horse_name": "アルバニー",
+      "score": -0.08929454746178334,
+      "horse_number": 1,
+      "odds": 8.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103550",
+      "horse_name": "キープライジング",
+      "score": -0.09011257933188518,
+      "horse_number": 15,
+      "odds": 20.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106942",
+      "horse_name": "レイム",
+      "score": -0.13833370579618637,
+      "horse_number": 6,
+      "odds": 0.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100357",
+      "horse_name": "デボラ",
+      "score": -0.369238597145108,
+      "horse_number": 13,
+      "odds": 13.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101064",
+      "horse_name": "ノイヤー",
+      "score": -0.39695203233035203,
+      "horse_number": 16,
+      "odds": 22.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101891",
+      "horse_name": "スパークルジョイ",
+      "score": -0.47062662991125276,
+      "horse_number": 12,
+      "odds": 22.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101920",
+      "horse_name": "メラヴィリオーザ",
+      "score": -0.6118079766234411,
+      "horse_number": 14,
+      "odds": 40.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106767",
+      "horse_name": "ミッシオーネ",
+      "score": -0.6333178310499794,
+      "horse_number": 9,
+      "odds": 23.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103737",
+      "horse_name": "シューンカイゼリン",
+      "score": -0.6556003361416146,
+      "horse_number": 2,
+      "odds": 44.8
+    }
+  ]
+}

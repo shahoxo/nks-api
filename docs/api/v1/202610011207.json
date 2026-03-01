@@ -1,0 +1,152 @@
+{
+  "race_id": "202610011207",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-01 13:05",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103932",
+      "horse_name": "ジェニファー",
+      "score": 0.16876192173179988,
+      "horse_number": 5,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104137",
+      "horse_name": "ミエノブラボー",
+      "score": 0.137981097608181,
+      "horse_number": 9,
+      "odds": 7.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104221",
+      "horse_name": "ペイシャアーサー",
+      "score": 0.1223335615959432,
+      "horse_number": 18,
+      "odds": 8.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102406",
+      "horse_name": "ヒットザグラウンド",
+      "score": 0.07150663154926903,
+      "horse_number": 7,
+      "odds": 10.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104186",
+      "horse_name": "ヴェントゥーラ",
+      "score": 0.04679429634070489,
+      "horse_number": 17,
+      "odds": 6.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104117",
+      "horse_name": "レインオンミー",
+      "score": 0.04352469903408334,
+      "horse_number": 8,
+      "odds": 27.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100759",
+      "horse_name": "アルマロクザン",
+      "score": -0.03006296115190063,
+      "horse_number": 2,
+      "odds": 14.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103880",
+      "horse_name": "ユメシバイ",
+      "score": -0.06046949254053424,
+      "horse_number": 15,
+      "odds": 6.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104806",
+      "horse_name": "レオナルドスター",
+      "score": -0.10166969514780372,
+      "horse_number": 4,
+      "odds": 12.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105212",
+      "horse_name": "エコロハート",
+      "score": -0.11834455387836955,
+      "horse_number": 11,
+      "odds": 18.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106586",
+      "horse_name": "ラブカムーン",
+      "score": -0.21384287270950925,
+      "horse_number": 16,
+      "odds": 86.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102641",
+      "horse_name": "グランルーチェ",
+      "score": -0.30843722915012817,
+      "horse_number": 14,
+      "odds": 73.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101595",
+      "horse_name": "ヴィヴァクラウン",
+      "score": -0.36655166618891233,
+      "horse_number": 6,
+      "odds": 28.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102269",
+      "horse_name": "ツィスカリーゼ",
+      "score": -0.39373577303036267,
+      "horse_number": 12,
+      "odds": 44.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021105175",
+      "horse_name": "セントキルダ",
+      "score": -0.4287621163567928,
+      "horse_number": 10,
+      "odds": 91.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021106648",
+      "horse_name": "ベネメレンティ",
+      "score": -0.5722916006018547,
+      "horse_number": 1,
+      "odds": 93.3
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022107258",
+      "horse_name": "ラブアイミー",
+      "score": -0.5731733109185368,
+      "horse_number": 13,
+      "odds": 72.0
+    },
+    {
+      "rank": 18,
+      "horse_id": "2019106409",
+      "horse_name": "サンマルヴァレー",
+      "score": -0.6318373387288261,
+      "horse_number": 3,
+      "odds": 184.2
+    }
+  ]
+}
