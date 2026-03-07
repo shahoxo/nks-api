@@ -1,0 +1,112 @@
+{
+  "race_id": "202609010503",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-07 10:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103904",
+      "horse_name": "アビル",
+      "score": 0.34596932273666536,
+      "horse_number": 6,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100969",
+      "horse_name": "タイセイゼスティ",
+      "score": 0.09398647697122126,
+      "horse_number": 13,
+      "odds": 10.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102949",
+      "horse_name": "ドントゥール",
+      "score": 0.08583003001437199,
+      "horse_number": 5,
+      "odds": 25.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100666",
+      "horse_name": "テンマジックアワー",
+      "score": 0.03585059351243774,
+      "horse_number": 8,
+      "odds": 5.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102630",
+      "horse_name": "グランシャン",
+      "score": -0.012915898533106476,
+      "horse_number": 9,
+      "odds": 27.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103332",
+      "horse_name": "ウェイヴムーン",
+      "score": -0.07787938977771082,
+      "horse_number": 1,
+      "odds": 25.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105127",
+      "horse_name": "キングスペード",
+      "score": -0.08278644464969569,
+      "horse_number": 12,
+      "odds": 16.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101904",
+      "horse_name": "ジェラルリスト",
+      "score": -0.11009243996474058,
+      "horse_number": 7,
+      "odds": 34.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104100",
+      "horse_name": "ハイドパーク",
+      "score": -0.16540092538929593,
+      "horse_number": 2,
+      "odds": 22.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105444",
+      "horse_name": "ポップアップ",
+      "score": -0.24513252752041478,
+      "horse_number": 11,
+      "odds": 48.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102177",
+      "horse_name": "タイキジュビリー",
+      "score": -0.3490969524302963,
+      "horse_number": 3,
+      "odds": 8.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102943",
+      "horse_name": "ブレイブメンロード",
+      "score": -0.4302123777707988,
+      "horse_number": 10,
+      "odds": 43.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101586",
+      "horse_name": "リオンサーガ",
+      "score": -0.6299256088243421,
+      "horse_number": 4,
+      "odds": 112.3
+    }
+  ]
+}

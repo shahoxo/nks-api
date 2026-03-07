@@ -1,0 +1,136 @@
+{
+  "race_id": "202609010502",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-07 10:20",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106321",
+      "horse_name": "アパレイユ",
+      "score": 0.3649277549364418,
+      "horse_number": 7,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102255",
+      "horse_name": "セッシュウ",
+      "score": 0.27870850376539824,
+      "horse_number": 3,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103163",
+      "horse_name": "キープシャイニング",
+      "score": 0.09387499127960111,
+      "horse_number": 9,
+      "odds": 8.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102763",
+      "horse_name": "ルクスドリーム",
+      "score": 0.030885216601879213,
+      "horse_number": 16,
+      "odds": 12.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103065",
+      "horse_name": "クラン",
+      "score": 0.004252500480066827,
+      "horse_number": 2,
+      "odds": 26.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106561",
+      "horse_name": "2023106561",
+      "score": -0.1711980269604191,
+      "horse_number": 8,
+      "odds": 109.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102453",
+      "horse_name": "フランシーヌ",
+      "score": -0.17542982971964002,
+      "horse_number": 11,
+      "odds": 52.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103498",
+      "horse_name": "ライゼシュトゥルム",
+      "score": -0.22054037981646218,
+      "horse_number": 10,
+      "odds": 47.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105761",
+      "horse_name": "ケイアイブラック",
+      "score": -0.3427812838524732,
+      "horse_number": 15,
+      "odds": 68.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105340",
+      "horse_name": "レッドフレーザー",
+      "score": -0.3869761920753235,
+      "horse_number": 4,
+      "odds": 22.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104328",
+      "horse_name": "アルムアポジェ",
+      "score": -0.44662448681528466,
+      "horse_number": 6,
+      "odds": 31.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104481",
+      "horse_name": "2023104481",
+      "score": -0.5605472818472005,
+      "horse_number": 14,
+      "odds": 34.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100903",
+      "horse_name": "サンライズキース",
+      "score": -0.6121130178856828,
+      "horse_number": 5,
+      "odds": 185.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103054",
+      "horse_name": "ヤマトチャージ",
+      "score": -0.6832691781178927,
+      "horse_number": 1,
+      "odds": 96.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102657",
+      "horse_name": "ロマンズロック",
+      "score": -0.7265140734648036,
+      "horse_number": 13,
+      "odds": 236.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023101633",
+      "horse_name": "クランドゥルス",
+      "score": -0.7385016702365806,
+      "horse_number": 12,
+      "odds": 138.4
+    }
+  ]
+}
