@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020312",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-07 16:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102962",
+      "horse_name": "アンダーザライト",
+      "score": 0.3375868269861643,
+      "horse_number": 3,
+      "odds": 19.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105184",
+      "horse_name": "ライネリーベ",
+      "score": 0.24370302888277715,
+      "horse_number": 2,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102988",
+      "horse_name": "トレヴィ",
+      "score": 0.23730814962829228,
+      "horse_number": 16,
+      "odds": 15.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105864",
+      "horse_name": "キアラメンテ",
+      "score": 0.23566029528195998,
+      "horse_number": 13,
+      "odds": 17.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106393",
+      "horse_name": "ブラックジェダイト",
+      "score": 0.1489351011607522,
+      "horse_number": 8,
+      "odds": 2.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102088",
+      "horse_name": "ユーティジャーニー",
+      "score": 0.1211825758145251,
+      "horse_number": 12,
+      "odds": 33.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105293",
+      "horse_name": "キャトルエピス",
+      "score": 0.021327976916899125,
+      "horse_number": 11,
+      "odds": 19.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103705",
+      "horse_name": "レッドロスタム",
+      "score": 0.01327056417960381,
+      "horse_number": 15,
+      "odds": 15.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103145",
+      "horse_name": "レッドレナート",
+      "score": -0.007228670355073477,
+      "horse_number": 4,
+      "odds": 8.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105473",
+      "horse_name": "ラヴスコール",
+      "score": -0.09746745725444687,
+      "horse_number": 6,
+      "odds": 26.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102135",
+      "horse_name": "ゴーゴータカシ",
+      "score": -0.15885621449252874,
+      "horse_number": 5,
+      "odds": 23.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105866",
+      "horse_name": "ティティナ",
+      "score": -0.22249880950547068,
+      "horse_number": 1,
+      "odds": 18.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103394",
+      "horse_name": "ドルビナ",
+      "score": -0.24534694082580089,
+      "horse_number": 10,
+      "odds": 42.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100901",
+      "horse_name": "ランスロット",
+      "score": -0.34142556890276266,
+      "horse_number": 9,
+      "odds": 118.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104533",
+      "horse_name": "チョングク",
+      "score": -0.5321616921100607,
+      "horse_number": 7,
+      "odds": 92.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103629",
+      "horse_name": "ウーバーストロング",
+      "score": -0.7344997899121097,
+      "horse_number": 14,
+      "odds": 106.3
+    }
+  ]
+}
