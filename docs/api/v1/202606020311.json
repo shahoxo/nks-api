@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020311",
+  "race_name": "中山牝馬S",
+  "race_time": "2026-03-07 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100244",
+      "horse_name": "ニシノティアモ",
+      "score": 0.260822877652821,
+      "horse_number": 14,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103546",
+      "horse_name": "パラディレーヌ",
+      "score": 0.20352135104375407,
+      "horse_number": 4,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105738",
+      "horse_name": "アンゴラブラック",
+      "score": 0.1955575263366919,
+      "horse_number": 10,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103577",
+      "horse_name": "ポルカリズム",
+      "score": 0.17639187913246918,
+      "horse_number": 12,
+      "odds": 24.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105581",
+      "horse_name": "フレミングフープ",
+      "score": 0.12185457812434153,
+      "horse_number": 7,
+      "odds": 15.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105743",
+      "horse_name": "ステレンボッシュ",
+      "score": 0.11891838040249607,
+      "horse_number": 9,
+      "odds": 19.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105138",
+      "horse_name": "エセルフリーダ",
+      "score": 0.025508220963028676,
+      "horse_number": 3,
+      "odds": 16.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105228",
+      "horse_name": "レディーヴァリュー",
+      "score": -0.026180321584197638,
+      "horse_number": 8,
+      "odds": 72.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101250",
+      "horse_name": "クリノメイ",
+      "score": -0.03773580235950899,
+      "horse_number": 1,
+      "odds": 29.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021107179",
+      "horse_name": "ボンドガール",
+      "score": -0.04211579760737874,
+      "horse_number": 5,
+      "odds": 10.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105346",
+      "horse_name": "レーゼドラマ",
+      "score": -0.05335464709582241,
+      "horse_number": 16,
+      "odds": 19.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103099",
+      "horse_name": "ビヨンドザヴァレー",
+      "score": -0.06240642065297241,
+      "horse_number": 2,
+      "odds": 28.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102296",
+      "horse_name": "ケリフレッドアスク",
+      "score": -0.13351713555509417,
+      "horse_number": 15,
+      "odds": 52.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103205",
+      "horse_name": "エリカエクスプレス",
+      "score": -0.14303968946826248,
+      "horse_number": 13,
+      "odds": 6.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103304",
+      "horse_name": "アンリーロード",
+      "score": -0.294609439454858,
+      "horse_number": 6,
+      "odds": 127.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019105768",
+      "horse_name": "フィールシンパシー",
+      "score": -0.3410416040094521,
+      "horse_number": 11,
+      "odds": 95.8
+    }
+  ]
+}

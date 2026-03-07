@@ -1,0 +1,152 @@
+{
+  "race_id": "202609010511",
+  "race_name": "フィリーズR",
+  "race_time": "2026-03-07 15:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107020",
+      "horse_name": "サンアントワーヌ",
+      "score": 0.12733790645899984,
+      "horse_number": 17,
+      "odds": 5.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104034",
+      "horse_name": "テイエムスティール",
+      "score": 0.09075891915222749,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101159",
+      "horse_name": "アイニードユー",
+      "score": 0.08317737327541894,
+      "horse_number": 7,
+      "odds": 10.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103086",
+      "horse_name": "イヌボウノウタゴエ",
+      "score": 0.0755225523238244,
+      "horse_number": 18,
+      "odds": 35.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107264",
+      "horse_name": "デアヴェローチェ",
+      "score": 0.03600735910560199,
+      "horse_number": 13,
+      "odds": 8.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106185",
+      "horse_name": "コラルリーフ",
+      "score": 0.03473977827922252,
+      "horse_number": 14,
+      "odds": 17.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103355",
+      "horse_name": "クリエープキー",
+      "score": 0.03277150206204533,
+      "horse_number": 11,
+      "odds": 35.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105027",
+      "horse_name": "タイニーワンダー",
+      "score": 0.0033915654382101683,
+      "horse_number": 6,
+      "odds": 48.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100914",
+      "horse_name": "タイセイフレッサ",
+      "score": -0.014630462829619398,
+      "horse_number": 9,
+      "odds": 121.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103721",
+      "horse_name": "ルージュサウダージ",
+      "score": -0.015949546929254158,
+      "horse_number": 8,
+      "odds": 15.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103293",
+      "horse_name": "ラスティングスノー",
+      "score": -0.06282010559109606,
+      "horse_number": 10,
+      "odds": 34.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105347",
+      "horse_name": "ショウナンカリス",
+      "score": -0.07498147039334371,
+      "horse_number": 4,
+      "odds": 5.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103247",
+      "horse_name": "フルールジェンヌ",
+      "score": -0.17678498894039155,
+      "horse_number": 1,
+      "odds": 123.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105277",
+      "horse_name": "ファニーバニー",
+      "score": -0.18978958969951146,
+      "horse_number": 16,
+      "odds": 17.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102694",
+      "horse_name": "トワニ",
+      "score": -0.21304502848096932,
+      "horse_number": 12,
+      "odds": 28.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023107187",
+      "horse_name": "ギリーズボール",
+      "score": -0.2504111619927105,
+      "horse_number": 2,
+      "odds": 22.1
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023102991",
+      "horse_name": "ローズカリス",
+      "score": -0.26818316850579954,
+      "horse_number": 15,
+      "odds": 42.8
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023103503",
+      "horse_name": "プレセピオ",
+      "score": -0.2817858599674993,
+      "horse_number": 3,
+      "odds": 19.0
+    }
+  ]
+}
