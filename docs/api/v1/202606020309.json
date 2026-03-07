@@ -1,0 +1,112 @@
+{
+  "race_id": "202606020309",
+  "race_name": "潮来特別",
+  "race_time": "2026-03-07 14:31",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104799",
+      "horse_name": "ピックデムッシュ",
+      "score": 0.49492773580679766,
+      "horse_number": 8,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106709",
+      "horse_name": "レーヴドロペラ",
+      "score": 0.07667731328977107,
+      "horse_number": 9,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105160",
+      "horse_name": "カエルム",
+      "score": 0.056899574633588496,
+      "horse_number": 12,
+      "odds": 18.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103718",
+      "horse_name": "オールマイデイズ",
+      "score": 0.04032476463059877,
+      "horse_number": 6,
+      "odds": 9.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105002",
+      "horse_name": "サラトガチップス",
+      "score": -0.035418767796958656,
+      "horse_number": 5,
+      "odds": 15.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101701",
+      "horse_name": "クリフハンガー",
+      "score": -0.07317103520896197,
+      "horse_number": 2,
+      "odds": 16.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103406",
+      "horse_name": "ラーシャローム",
+      "score": -0.24201646796518964,
+      "horse_number": 11,
+      "odds": 24.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019103728",
+      "horse_name": "トクシースタローン",
+      "score": -0.25885064894086657,
+      "horse_number": 3,
+      "odds": 56.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104928",
+      "horse_name": "ヴィブラツィオーネ",
+      "score": -0.2734416633856411,
+      "horse_number": 13,
+      "odds": 102.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102738",
+      "horse_name": "エーオーキング",
+      "score": -0.2940665820553227,
+      "horse_number": 7,
+      "odds": 30.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102725",
+      "horse_name": "ソワドリヨン",
+      "score": -0.3235857185395253,
+      "horse_number": 4,
+      "odds": 39.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106694",
+      "horse_name": "ヴァイザーバルコ",
+      "score": -0.39255785720955494,
+      "horse_number": 10,
+      "odds": 43.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105737",
+      "horse_name": "ワイズゴールド",
+      "score": -0.5566279760320356,
+      "horse_number": 1,
+      "odds": 41.8
+    }
+  ]
+}

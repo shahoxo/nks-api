@@ -1,0 +1,120 @@
+{
+  "race_id": "202606020308",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-07 13:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105258",
+      "horse_name": "ホークライト",
+      "score": 0.4207674551058517,
+      "horse_number": 5,
+      "odds": 1.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105990",
+      "horse_name": "クニノハッピー",
+      "score": 0.060881157889824636,
+      "horse_number": 9,
+      "odds": 13.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103017",
+      "horse_name": "オウケンシルヴァー",
+      "score": -0.010608565324964535,
+      "horse_number": 11,
+      "odds": 17.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104062",
+      "horse_name": "カージオイド",
+      "score": -0.09908988845442492,
+      "horse_number": 13,
+      "odds": 21.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106209",
+      "horse_name": "プレジール",
+      "score": -0.1853915925513005,
+      "horse_number": 8,
+      "odds": 20.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100028",
+      "horse_name": "フェスタリア",
+      "score": -0.2441350807117427,
+      "horse_number": 3,
+      "odds": 19.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106974",
+      "horse_name": "サムワンライクユー",
+      "score": -0.299820528382274,
+      "horse_number": 10,
+      "odds": 51.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100257",
+      "horse_name": "キャストロペペ",
+      "score": -0.32837889218904437,
+      "horse_number": 12,
+      "odds": 41.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104312",
+      "horse_name": "ディースプレマシー",
+      "score": -0.4823969210013167,
+      "horse_number": 6,
+      "odds": 52.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103208",
+      "horse_name": "プルメリアクヒオ",
+      "score": -0.558383259693521,
+      "horse_number": 2,
+      "odds": 34.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101591",
+      "horse_name": "ファーマシャイン",
+      "score": -0.5867758372926961,
+      "horse_number": 14,
+      "odds": 72.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106070",
+      "horse_name": "ブリスフル",
+      "score": -0.5970618435386312,
+      "horse_number": 1,
+      "odds": 191.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105451",
+      "horse_name": "オウケンヴィーナス",
+      "score": -0.5970618435386312,
+      "horse_number": 4,
+      "odds": 199.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103691",
+      "horse_name": "ミルトパワー",
+      "score": -0.6546627932857848,
+      "horse_number": 7,
+      "odds": 137.9
+    }
+  ]
+}
