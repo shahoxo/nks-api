@@ -1,0 +1,72 @@
+{
+  "race_id": "202609010507",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-07 13:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110123",
+      "horse_name": "クロノスバレット",
+      "score": 0.13837655765601575,
+      "horse_number": 2,
+      "odds": 7.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103242",
+      "horse_name": "ダノンヴェステル",
+      "score": 0.08993686540336411,
+      "horse_number": 6,
+      "odds": 1.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019104261",
+      "horse_name": "メイショウオグマ",
+      "score": 0.041145988503246286,
+      "horse_number": 1,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103227",
+      "horse_name": "レッドイステル",
+      "score": -0.01758652321148904,
+      "horse_number": 7,
+      "odds": 5.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104792",
+      "horse_name": "メードス",
+      "score": -0.1300510592282996,
+      "horse_number": 5,
+      "odds": 14.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101725",
+      "horse_name": "ドゥラルーナ",
+      "score": -0.3971651946435075,
+      "horse_number": 3,
+      "odds": 27.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106631",
+      "horse_name": "バシリス",
+      "score": -0.49258247787958365,
+      "horse_number": 4,
+      "odds": 9.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019100689",
+      "horse_name": "リリーアロー",
+      "score": -0.5449257277129022,
+      "horse_number": 8,
+      "odds": 26.8
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202609010506",
+  "race_name": "3歳1勝クラス",
+  "race_time": "2026-03-07 12:40",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104798",
+      "horse_name": "ランスオブキング",
+      "score": 0.22681609391830232,
+      "horse_number": 4,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023110091",
+      "horse_name": "イダテンシャチョウ",
+      "score": 0.19356059641386136,
+      "horse_number": 10,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101951",
+      "horse_name": "メイショウバルク",
+      "score": 0.13121173803938532,
+      "horse_number": 7,
+      "odds": 10.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101146",
+      "horse_name": "アンプイットアップ",
+      "score": 0.10791441270866371,
+      "horse_number": 2,
+      "odds": 32.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105806",
+      "horse_name": "ロードヴィゴラス",
+      "score": 0.008487408089628631,
+      "horse_number": 12,
+      "odds": 26.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102213",
+      "horse_name": "プルメリアリノ",
+      "score": -0.00912693299938503,
+      "horse_number": 3,
+      "odds": 6.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105815",
+      "horse_name": "エスカレイト",
+      "score": -0.014806503482137315,
+      "horse_number": 9,
+      "odds": 11.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104044",
+      "horse_name": "モンサンゴールデン",
+      "score": -0.02656063109225814,
+      "horse_number": 11,
+      "odds": 9.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105591",
+      "horse_name": "マメタンク",
+      "score": -0.0905836964571538,
+      "horse_number": 6,
+      "odds": 7.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103699",
+      "horse_name": "パドゼフィール",
+      "score": -0.1178372326997488,
+      "horse_number": 8,
+      "odds": 29.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023110088",
+      "horse_name": "ジャンシ",
+      "score": -0.12432624125730415,
+      "horse_number": 5,
+      "odds": 31.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100630",
+      "horse_name": "エムフォー",
+      "score": -0.21785095499166585,
+      "horse_number": 1,
+      "odds": 11.9
+    }
+  ]
+}
