@@ -1,0 +1,128 @@
+{
+  "race_id": "202609010510",
+  "race_name": "なにわS",
+  "race_time": "2026-03-07 14:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103680",
+      "horse_name": "ラファル",
+      "score": 0.36540392925002574,
+      "horse_number": 3,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020104597",
+      "horse_name": "ショウナンアビアス",
+      "score": 0.21383088694322072,
+      "horse_number": 2,
+      "odds": 6.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106604",
+      "horse_name": "ヤマニンシュラ",
+      "score": 0.12706378202007207,
+      "horse_number": 1,
+      "odds": 6.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104972",
+      "horse_name": "スリーピース",
+      "score": 0.025116018102568794,
+      "horse_number": 11,
+      "odds": 18.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105905",
+      "horse_name": "トーアジョウトウ",
+      "score": 0.023534048593043616,
+      "horse_number": 14,
+      "odds": 21.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103204",
+      "horse_name": "アイアムユウシュン",
+      "score": -0.03716354959287067,
+      "horse_number": 12,
+      "odds": 17.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020107082",
+      "horse_name": "ライジン",
+      "score": -0.1296816408638012,
+      "horse_number": 5,
+      "odds": 23.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105415",
+      "horse_name": "タカネノハナコサン",
+      "score": -0.1675344070523801,
+      "horse_number": 8,
+      "odds": 3.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019100110",
+      "horse_name": "ナッカーフェイス",
+      "score": -0.1945520998732001,
+      "horse_number": 9,
+      "odds": 34.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102814",
+      "horse_name": "ジャスリー",
+      "score": -0.19531086926258423,
+      "horse_number": 13,
+      "odds": 30.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106421",
+      "horse_name": "キタノソワレ",
+      "score": -0.25162396797888986,
+      "horse_number": 10,
+      "odds": 27.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105250",
+      "horse_name": "ビルカール",
+      "score": -0.34675663604141865,
+      "horse_number": 15,
+      "odds": 18.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105058",
+      "horse_name": "ミユキアイラブユー",
+      "score": -0.39970394257676806,
+      "horse_number": 6,
+      "odds": 50.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020109094",
+      "horse_name": "ナスノカンゲツ",
+      "score": -0.4152008441882856,
+      "horse_number": 4,
+      "odds": 86.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019104260",
+      "horse_name": "メイショウクリフト",
+      "score": -0.5411915298762525,
+      "horse_number": 7,
+      "odds": 70.8
+    }
+  ]
+}
