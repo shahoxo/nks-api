@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020412",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-03-08 16:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105077",
+      "horse_name": "レイククレセント",
+      "score": 0.2671241826395118,
+      "horse_number": 7,
+      "odds": 6.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101573",
+      "horse_name": "ポッドロワール",
+      "score": 0.22647908260582256,
+      "horse_number": 16,
+      "odds": 9.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102939",
+      "horse_name": "アオイレーギーナ",
+      "score": 0.16863258719355928,
+      "horse_number": 6,
+      "odds": 5.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102421",
+      "horse_name": "ビービーエフォート",
+      "score": 0.11658318794681789,
+      "horse_number": 5,
+      "odds": 27.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105833",
+      "horse_name": "カリーシ",
+      "score": 0.06152113065601058,
+      "horse_number": 13,
+      "odds": 21.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104665",
+      "horse_name": "レザンノワール",
+      "score": 0.05390305451737431,
+      "horse_number": 3,
+      "odds": 6.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103278",
+      "horse_name": "メイショウミリオレ",
+      "score": -0.041503378348699875,
+      "horse_number": 12,
+      "odds": 38.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106987",
+      "horse_name": "スムースベルベット",
+      "score": -0.08309561748857103,
+      "horse_number": 10,
+      "odds": 13.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021110165",
+      "horse_name": "ピコアーガイル",
+      "score": -0.08386097571746882,
+      "horse_number": 15,
+      "odds": 8.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106821",
+      "horse_name": "ピースフルナイト",
+      "score": -0.1349330020131769,
+      "horse_number": 9,
+      "odds": 37.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103486",
+      "horse_name": "ホウオウシェリー",
+      "score": -0.15353862192368514,
+      "horse_number": 8,
+      "odds": 10.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102535",
+      "horse_name": "トーセントラム",
+      "score": -0.18484641015691736,
+      "horse_number": 2,
+      "odds": 31.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100144",
+      "horse_name": "ロードトレゾール",
+      "score": -0.2430411372237424,
+      "horse_number": 4,
+      "odds": 7.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104490",
+      "horse_name": "エクセルゴールド",
+      "score": -0.2456029588517968,
+      "horse_number": 1,
+      "odds": 51.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018103485",
+      "horse_name": "ジャガード",
+      "score": -0.339662975954938,
+      "horse_number": 11,
+      "odds": 97.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019109096",
+      "horse_name": "ダイヤモンドフジ",
+      "score": -0.5511684527854172,
+      "horse_number": 14,
+      "odds": 89.7
+    }
+  ]
+}
