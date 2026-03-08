@@ -1,0 +1,88 @@
+{
+  "race_id": "202606020411",
+  "race_name": "弥生賞",
+  "race_time": "2026-03-08 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107247",
+      "horse_name": "バステール",
+      "score": 0.38238326247355037,
+      "horse_number": 8,
+      "odds": 5.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105311",
+      "horse_name": "アドマイヤクワッズ",
+      "score": 0.27197210515569636,
+      "horse_number": 6,
+      "odds": 2.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105354",
+      "horse_name": "バリオス",
+      "score": 0.2295860848163773,
+      "horse_number": 10,
+      "odds": 17.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106861",
+      "horse_name": "タイダルロック",
+      "score": 0.2143849441456744,
+      "horse_number": 5,
+      "odds": 7.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103687",
+      "horse_name": "ライヒスアドラー",
+      "score": 0.16063091584696804,
+      "horse_number": 4,
+      "odds": 3.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104346",
+      "horse_name": "ステラスペース",
+      "score": -0.19454318895468403,
+      "horse_number": 1,
+      "odds": 13.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103814",
+      "horse_name": "アメテュストス",
+      "score": -0.19898774347530754,
+      "horse_number": 9,
+      "odds": 25.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106492",
+      "horse_name": "コスモギガンティア",
+      "score": -0.3505491473529069,
+      "horse_number": 3,
+      "odds": 61.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105433",
+      "horse_name": "モウエエデショー",
+      "score": -0.3933011243184663,
+      "horse_number": 7,
+      "odds": 84.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103986",
+      "horse_name": "メイショウソラリス",
+      "score": -0.47630556565457316,
+      "horse_number": 2,
+      "odds": 41.4
+    }
+  ]
+}

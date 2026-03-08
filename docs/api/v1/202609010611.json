@@ -1,0 +1,112 @@
+{
+  "race_id": "202609010611",
+  "race_name": "大阪城S",
+  "race_time": "2026-03-08 15:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104812",
+      "horse_name": "テリオスララ",
+      "score": 0.3124621770291119,
+      "horse_number": 5,
+      "odds": 7.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019105302",
+      "horse_name": "グランディア",
+      "score": 0.30773037539072284,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019104711",
+      "horse_name": "トーセンリョウ",
+      "score": 0.2531350086292112,
+      "horse_number": 1,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104922",
+      "horse_name": "リラエンブレム",
+      "score": 0.23292209792524704,
+      "horse_number": 9,
+      "odds": 9.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105283",
+      "horse_name": "ブルーミンデザイン",
+      "score": 0.22456196703899256,
+      "horse_number": 11,
+      "odds": 16.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106449",
+      "horse_name": "サブマリーナ",
+      "score": 0.22423261153670293,
+      "horse_number": 8,
+      "odds": 4.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102895",
+      "horse_name": "ナムラエイハブ",
+      "score": 0.2059612777629088,
+      "horse_number": 4,
+      "odds": 8.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104564",
+      "horse_name": "ニホンピロキーフ",
+      "score": 0.19957343260507782,
+      "horse_number": 13,
+      "odds": 9.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018102020",
+      "horse_name": "ヤマニンサンパ",
+      "score": 0.07177374348722727,
+      "horse_number": 7,
+      "odds": 34.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019100628",
+      "horse_name": "トゥデイイズザデイ",
+      "score": 0.03581136730674185,
+      "horse_number": 12,
+      "odds": 40.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105197",
+      "horse_name": "ブラックシールド",
+      "score": -0.015178333595731515,
+      "horse_number": 10,
+      "odds": 59.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105891",
+      "horse_name": "ドラゴンブースト",
+      "score": -0.058803140867975,
+      "horse_number": 2,
+      "odds": 11.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019104998",
+      "horse_name": "ショウナンマグマ",
+      "score": -0.2162855965605305,
+      "horse_number": 3,
+      "odds": 38.5
+    }
+  ]
+}

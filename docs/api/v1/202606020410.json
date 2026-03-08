@@ -1,0 +1,128 @@
+{
+  "race_id": "202606020410",
+  "race_name": "総武S",
+  "race_time": "2026-03-08 15:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105824",
+      "horse_name": "アマンテビアンコ",
+      "score": 0.4367397960190848,
+      "horse_number": 12,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019106748",
+      "horse_name": "リチュアル",
+      "score": 0.33019141591665246,
+      "horse_number": 4,
+      "odds": 13.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104983",
+      "horse_name": "イムホテプ",
+      "score": 0.25020561186035173,
+      "horse_number": 1,
+      "odds": 4.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103941",
+      "horse_name": "ルヴァンユニベール",
+      "score": 0.15163174335007157,
+      "horse_number": 5,
+      "odds": 22.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101253",
+      "horse_name": "クラウンシエンタ",
+      "score": 0.06319300454122591,
+      "horse_number": 11,
+      "odds": 13.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104824",
+      "horse_name": "アスクデビューモア",
+      "score": 0.044495457066612204,
+      "horse_number": 7,
+      "odds": 28.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105801",
+      "horse_name": "ミアネーロ",
+      "score": 0.009087933463542513,
+      "horse_number": 3,
+      "odds": 18.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103717",
+      "horse_name": "レヴォントゥレット",
+      "score": -0.01588580017060299,
+      "horse_number": 8,
+      "odds": 6.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018105431",
+      "horse_name": "ミッキーヌチバナ",
+      "score": -0.04378650751194069,
+      "horse_number": 13,
+      "odds": 21.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100116",
+      "horse_name": "アクションプラン",
+      "score": -0.09352124973683631,
+      "horse_number": 14,
+      "odds": 6.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106925",
+      "horse_name": "ハグ",
+      "score": -0.1282668883504459,
+      "horse_number": 10,
+      "odds": 23.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105604",
+      "horse_name": "ブレイクフォース",
+      "score": -0.1380766038676527,
+      "horse_number": 9,
+      "odds": 15.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100761",
+      "horse_name": "マンマリアーレ",
+      "score": -0.15556236905491766,
+      "horse_number": 15,
+      "odds": 85.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020103148",
+      "horse_name": "ショウナンライシン",
+      "score": -0.25899678149877164,
+      "horse_number": 6,
+      "odds": 68.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103566",
+      "horse_name": "シェットランド",
+      "score": -0.3335856142207634,
+      "horse_number": 2,
+      "odds": 185.6
+    }
+  ]
+}
