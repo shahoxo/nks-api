@@ -1,0 +1,120 @@
+{
+  "race_id": "202609010603",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-08 10:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023110073",
+      "horse_name": "ワザオギ",
+      "score": 0.3702709340064257,
+      "horse_number": 14,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023110081",
+      "horse_name": "アメリカンイズム",
+      "score": 0.07225850406012277,
+      "horse_number": 6,
+      "odds": 2.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100715",
+      "horse_name": "ピエナオルカ",
+      "score": -0.018921235740781868,
+      "horse_number": 7,
+      "odds": 9.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106397",
+      "horse_name": "ストロングボーイ",
+      "score": -0.04207950595849137,
+      "horse_number": 11,
+      "odds": 7.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104674",
+      "horse_name": "タイセイサーブル",
+      "score": -0.10212244614972005,
+      "horse_number": 10,
+      "odds": 15.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107528",
+      "horse_name": "ブクブクー",
+      "score": -0.2418384185804179,
+      "horse_number": 5,
+      "odds": 21.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100098",
+      "horse_name": "2023100098",
+      "score": -0.27951708349286464,
+      "horse_number": 8,
+      "odds": 68.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023110031",
+      "horse_name": "マイカラー",
+      "score": -0.3355543528424051,
+      "horse_number": 13,
+      "odds": 32.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101574",
+      "horse_name": "2023101574",
+      "score": -0.3675421481333274,
+      "horse_number": 1,
+      "odds": 48.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103313",
+      "horse_name": "サンセットロード",
+      "score": -0.47393895483318027,
+      "horse_number": 2,
+      "odds": 107.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105467",
+      "horse_name": "ショーンバローズ",
+      "score": -0.49245956584545514,
+      "horse_number": 9,
+      "odds": 17.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100645",
+      "horse_name": "2023100645",
+      "score": -0.5605472818472005,
+      "horse_number": 4,
+      "odds": 56.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106126",
+      "horse_name": "イロゴルシ",
+      "score": -0.630370253879574,
+      "horse_number": 12,
+      "odds": 72.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100774",
+      "horse_name": "レグラヴィエール",
+      "score": -0.6546627932857848,
+      "horse_number": 3,
+      "odds": 57.3
+    }
+  ]
+}

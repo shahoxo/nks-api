@@ -1,0 +1,136 @@
+{
+  "race_id": "202609010602",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-08 10:20",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100376",
+      "horse_name": "プレデンシア",
+      "score": 0.1521214985285926,
+      "horse_number": 12,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106637",
+      "horse_name": "アームズレジェンド",
+      "score": 0.14339187178065207,
+      "horse_number": 9,
+      "odds": 1.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100050",
+      "horse_name": "2023100050",
+      "score": -0.07052510360241106,
+      "horse_number": 13,
+      "odds": 122.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102661",
+      "horse_name": "タナスーペルノーバ",
+      "score": -0.08555250435422039,
+      "horse_number": 3,
+      "odds": 6.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103534",
+      "horse_name": "マユナイト",
+      "score": -0.21754331233359014,
+      "horse_number": 6,
+      "odds": 33.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102063",
+      "horse_name": "アリディプラチノ",
+      "score": -0.2840572181149685,
+      "horse_number": 2,
+      "odds": 19.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100338",
+      "horse_name": "2023100338",
+      "score": -0.3547770821833051,
+      "horse_number": 16,
+      "odds": 121.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102464",
+      "horse_name": "アクアマイスター",
+      "score": -0.37743708778565743,
+      "horse_number": 7,
+      "odds": 8.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102968",
+      "horse_name": "キャスケード",
+      "score": -0.4271818029599659,
+      "horse_number": 4,
+      "odds": 75.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103036",
+      "horse_name": "カガラプンツェル",
+      "score": -0.44798296838764584,
+      "horse_number": 11,
+      "odds": 38.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101263",
+      "horse_name": "2023101263",
+      "score": -0.46243113683733594,
+      "horse_number": 5,
+      "odds": 105.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105118",
+      "horse_name": "2023105118",
+      "score": -0.54029877192692,
+      "horse_number": 1,
+      "odds": 119.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104747",
+      "horse_name": "2023104747",
+      "score": -0.5605472818472005,
+      "horse_number": 10,
+      "odds": 38.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104549",
+      "horse_name": "ジャズホリック",
+      "score": -0.5743292283173295,
+      "horse_number": 14,
+      "odds": 88.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104997",
+      "horse_name": "メッチャエエヤン",
+      "score": -0.6049970249155222,
+      "horse_number": 8,
+      "odds": 57.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106319",
+      "horse_name": "ルヴレアール",
+      "score": -0.6887521558175991,
+      "horse_number": 15,
+      "odds": 71.9
+    }
+  ]
+}
