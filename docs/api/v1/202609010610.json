@@ -1,0 +1,120 @@
+{
+  "race_id": "202609010610",
+  "race_name": "岸和田S",
+  "race_time": "2026-03-08 14:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105618",
+      "horse_name": "スマートワイス",
+      "score": 0.36540392925002574,
+      "horse_number": 9,
+      "odds": 6.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103245",
+      "horse_name": "ミッキージュエリー",
+      "score": 0.27443587641161327,
+      "horse_number": 14,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104588",
+      "horse_name": "タイセイカレント",
+      "score": 0.2147079704911074,
+      "horse_number": 7,
+      "odds": 5.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104854",
+      "horse_name": "ミナデオロ",
+      "score": 0.19072039278387815,
+      "horse_number": 8,
+      "odds": 11.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020110039",
+      "horse_name": "ユハンヌス",
+      "score": 0.021739421160564966,
+      "horse_number": 4,
+      "odds": 18.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100403",
+      "horse_name": "ウォーターガーベラ",
+      "score": 0.011867258693801909,
+      "horse_number": 13,
+      "odds": 8.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105161",
+      "horse_name": "ケーブパール",
+      "score": 0.011291933684693879,
+      "horse_number": 5,
+      "odds": 13.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103428",
+      "horse_name": "スイープアワーズ",
+      "score": -0.023370751952877883,
+      "horse_number": 11,
+      "odds": 12.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104013",
+      "horse_name": "プッシュオン",
+      "score": -0.0703707498124438,
+      "horse_number": 3,
+      "odds": 16.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102419",
+      "horse_name": "ファインライン",
+      "score": -0.11198200255817554,
+      "horse_number": 1,
+      "odds": 16.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104167",
+      "horse_name": "エイムフォーエース",
+      "score": -0.16976004134883804,
+      "horse_number": 12,
+      "odds": 54.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105783",
+      "horse_name": "ネーヴェフレスカ",
+      "score": -0.2513239929927501,
+      "horse_number": 6,
+      "odds": 23.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100906",
+      "horse_name": "フライングブレード",
+      "score": -0.2743596499061602,
+      "horse_number": 2,
+      "odds": 31.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103754",
+      "horse_name": "ミストレス",
+      "score": -0.29596163854363344,
+      "horse_number": 10,
+      "odds": 32.9
+    }
+  ]
+}
