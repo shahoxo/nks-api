@@ -1,0 +1,96 @@
+{
+  "race_id": "202606020407",
+  "race_name": "3歳1勝クラス",
+  "race_time": "2026-03-08 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107039",
+      "horse_name": "ランズダウンロード",
+      "score": 0.4979890549575433,
+      "horse_number": 3,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107191",
+      "horse_name": "マルガ",
+      "score": 0.2994602030404381,
+      "horse_number": 1,
+      "odds": 2.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105084",
+      "horse_name": "コルテオソレイユ",
+      "score": 0.2706666310476826,
+      "horse_number": 5,
+      "odds": 5.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103440",
+      "horse_name": "サーディンラン",
+      "score": 0.1714173372743092,
+      "horse_number": 10,
+      "odds": 30.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106269",
+      "horse_name": "ニシノセイドウ",
+      "score": 0.14801382850930464,
+      "horse_number": 6,
+      "odds": 33.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106477",
+      "horse_name": "ベレーバスク",
+      "score": 0.1335730678340967,
+      "horse_number": 8,
+      "odds": 27.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103326",
+      "horse_name": "ディールメーカー",
+      "score": 0.1250555320306723,
+      "horse_number": 4,
+      "odds": 3.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103980",
+      "horse_name": "ポペット",
+      "score": 0.01700110320986441,
+      "horse_number": 11,
+      "odds": 18.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101727",
+      "horse_name": "アグネスクレスト",
+      "score": -0.00023914411756187273,
+      "horse_number": 7,
+      "odds": 77.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102743",
+      "horse_name": "ショーリバース",
+      "score": -0.10354025560812656,
+      "horse_number": 2,
+      "odds": 13.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103085",
+      "horse_name": "トリスティ",
+      "score": -0.3880646664657574,
+      "horse_number": 9,
+      "odds": 149.6
+    }
+  ]
+}

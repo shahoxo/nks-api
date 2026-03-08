@@ -1,0 +1,80 @@
+{
+  "race_id": "202609010607",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-08 13:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102303",
+      "horse_name": "アスクコモンタレヴ",
+      "score": 0.3120840117723272,
+      "horse_number": 5,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103770",
+      "horse_name": "ビゾー",
+      "score": 0.1769338753282788,
+      "horse_number": 8,
+      "odds": 8.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103705",
+      "horse_name": "エレガンシア",
+      "score": 0.05207176790485206,
+      "horse_number": 1,
+      "odds": 5.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106618",
+      "horse_name": "ジェルブロア",
+      "score": 0.024602365858911363,
+      "horse_number": 6,
+      "odds": 12.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102919",
+      "horse_name": "ワイドモヒート",
+      "score": 0.016462313824606344,
+      "horse_number": 3,
+      "odds": 28.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100081",
+      "horse_name": "マイネルビスマルク",
+      "score": -0.03386880548232152,
+      "horse_number": 9,
+      "odds": 23.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101102",
+      "horse_name": "ウインポセイドン",
+      "score": -0.25281214176000777,
+      "horse_number": 7,
+      "odds": 17.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102802",
+      "horse_name": "イリスレーン",
+      "score": -0.3774050467690258,
+      "horse_number": 2,
+      "odds": 25.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104724",
+      "horse_name": "ハルフロンティア",
+      "score": -0.43461257592381347,
+      "horse_number": 4,
+      "odds": 86.4
+    }
+  ]
+}
