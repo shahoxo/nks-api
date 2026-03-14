@@ -1,0 +1,120 @@
+{
+  "race_id": "202607010111",
+  "race_name": "中京スポーツ",
+  "race_time": "2026-03-14 15:20",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101106",
+      "horse_name": "スマートスピア",
+      "score": 0.29115317824738823,
+      "horse_number": 9,
+      "odds": 4.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102228",
+      "horse_name": "テーオーマルコーニ",
+      "score": 0.2035356140436675,
+      "horse_number": 7,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021106054",
+      "horse_name": "ケーヴァラ",
+      "score": 0.05835454624087845,
+      "horse_number": 14,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104039",
+      "horse_name": "ジュンラトゥール",
+      "score": 0.023831940589899108,
+      "horse_number": 6,
+      "odds": 9.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101533",
+      "horse_name": "シンボリノエル",
+      "score": -0.16000333656206966,
+      "horse_number": 12,
+      "odds": 12.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101305",
+      "horse_name": "サンカルミア",
+      "score": -0.16359250281071022,
+      "horse_number": 10,
+      "odds": 18.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105984",
+      "horse_name": "モモンウールー",
+      "score": -0.3087575101341456,
+      "horse_number": 13,
+      "odds": 8.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105670",
+      "horse_name": "タッチャブル",
+      "score": -0.3197637300693019,
+      "horse_number": 3,
+      "odds": 22.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105330",
+      "horse_name": "パーサヴィアランス",
+      "score": -0.49676672134336264,
+      "horse_number": 5,
+      "odds": 46.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103753",
+      "horse_name": "ネクストダンサー",
+      "score": -0.5431529973283721,
+      "horse_number": 2,
+      "odds": 13.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106491",
+      "horse_name": "メイショウジェンマ",
+      "score": -0.5768133336183507,
+      "horse_number": 11,
+      "odds": 56.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100629",
+      "horse_name": "サイモンコーラル",
+      "score": -0.6231610526085567,
+      "horse_number": 8,
+      "odds": 50.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2017106722",
+      "horse_name": "サイモンルモンド",
+      "score": -0.6815536661455034,
+      "horse_number": 1,
+      "odds": 74.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022107047",
+      "horse_name": "コパノヴィンセント",
+      "score": -0.6997242947219148,
+      "horse_number": 4,
+      "odds": 51.5
+    }
+  ]
+}

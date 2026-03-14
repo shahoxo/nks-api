@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020510",
+  "race_name": "幕張S",
+  "race_time": "2026-03-14 15:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104594",
+      "horse_name": "ヒシアマン",
+      "score": 0.41567251210368494,
+      "horse_number": 7,
+      "odds": 2.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101422",
+      "horse_name": "マテンロウブラボー",
+      "score": 0.3317917463242042,
+      "horse_number": 6,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101669",
+      "horse_name": "ストレイトトーカー",
+      "score": 0.23415567176345337,
+      "horse_number": 13,
+      "odds": 12.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101765",
+      "horse_name": "ピコローズ",
+      "score": 0.21704195956017347,
+      "horse_number": 5,
+      "odds": 15.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105326",
+      "horse_name": "コートアリシアン",
+      "score": 0.1487722272412031,
+      "horse_number": 10,
+      "odds": 4.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110088",
+      "horse_name": "キュクヌス",
+      "score": -0.00036108468091217323,
+      "horse_number": 8,
+      "odds": 11.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104189",
+      "horse_name": "テリオスサラ",
+      "score": -0.023818779387424528,
+      "horse_number": 2,
+      "odds": 16.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105185",
+      "horse_name": "ウインレイアー",
+      "score": -0.11837823996274878,
+      "horse_number": 15,
+      "odds": 23.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101772",
+      "horse_name": "メタルスピード",
+      "score": -0.18001131412979532,
+      "horse_number": 16,
+      "odds": 47.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104326",
+      "horse_name": "ユキノロイヤル",
+      "score": -0.21924857044179488,
+      "horse_number": 11,
+      "odds": 35.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103049",
+      "horse_name": "ミカッテヨンデイイ",
+      "score": -0.2551283416268233,
+      "horse_number": 14,
+      "odds": 52.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018105996",
+      "horse_name": "サムハンター",
+      "score": -0.3744483325173201,
+      "horse_number": 12,
+      "odds": 25.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103881",
+      "horse_name": "ツキノアカリ",
+      "score": -0.4178542083630282,
+      "horse_number": 1,
+      "odds": 42.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018105157",
+      "horse_name": "ディープリッチ",
+      "score": -0.4451718643767245,
+      "horse_number": 3,
+      "odds": 158.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018106663",
+      "horse_name": "エアミアーニ",
+      "score": -0.46412999743568695,
+      "horse_number": 4,
+      "odds": 71.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018104757",
+      "horse_name": "ジュノー",
+      "score": -0.48287310189905663,
+      "horse_number": 9,
+      "odds": 124.3
+    }
+  ]
+}

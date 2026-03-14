@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020511",
+  "race_name": "アネモネS",
+  "race_time": "2026-03-14 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107172",
+      "horse_name": "バルボアパーク",
+      "score": 0.5277397766811032,
+      "horse_number": 2,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106999",
+      "horse_name": "エピッククイーン",
+      "score": 0.3852815771568929,
+      "horse_number": 7,
+      "odds": 8.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103648",
+      "horse_name": "ファンクション",
+      "score": 0.27554552151106915,
+      "horse_number": 10,
+      "odds": 9.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107069",
+      "horse_name": "ディアダイヤモンド",
+      "score": 0.27437006206806197,
+      "horse_number": 4,
+      "odds": 6.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103153",
+      "horse_name": "ベルサンローラン",
+      "score": 0.25982485972767866,
+      "horse_number": 15,
+      "odds": 14.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104303",
+      "horse_name": "リアライズリバティ",
+      "score": 0.22576594076384648,
+      "horse_number": 9,
+      "odds": 8.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105420",
+      "horse_name": "ナイスプレーアスク",
+      "score": 0.21027291431124073,
+      "horse_number": 14,
+      "odds": 18.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102615",
+      "horse_name": "ホワイトオーキッド",
+      "score": 0.16764298630623262,
+      "horse_number": 1,
+      "odds": 14.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105345",
+      "horse_name": "ルージュダリア",
+      "score": 0.16212735998563899,
+      "horse_number": 13,
+      "odds": 8.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105344",
+      "horse_name": "2023105344",
+      "score": 0.15342711634625977,
+      "horse_number": 16,
+      "odds": 41.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105035",
+      "horse_name": "メイショウハッケイ",
+      "score": 0.11952426811343332,
+      "horse_number": 12,
+      "odds": 23.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103356",
+      "horse_name": "ヴァリスマリネリス",
+      "score": 0.03615652451262556,
+      "horse_number": 11,
+      "odds": 14.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106780",
+      "horse_name": "ランプローグ",
+      "score": -0.009110779517386643,
+      "horse_number": 5,
+      "odds": 67.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104991",
+      "horse_name": "ヘルモソブレード",
+      "score": -0.04355929638431609,
+      "horse_number": 3,
+      "odds": 107.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023107078",
+      "horse_name": "スマイルカーブ",
+      "score": -0.4109715719201071,
+      "horse_number": 8,
+      "odds": 131.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023102567",
+      "horse_name": "2023102567",
+      "score": -0.4526874950906882,
+      "horse_number": 6,
+      "odds": 75.0
+    }
+  ]
+}
