@@ -1,0 +1,136 @@
+{
+  "race_id": "202609010702",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-14 10:20",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105838",
+      "horse_name": "ロードステラート",
+      "score": 0.1645426901512205,
+      "horse_number": 6,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101003",
+      "horse_name": "ジューンアゲイン",
+      "score": 0.15111622086564364,
+      "horse_number": 13,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100596",
+      "horse_name": "ジャーナーリア",
+      "score": 0.06105044467361119,
+      "horse_number": 2,
+      "odds": 2.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104397",
+      "horse_name": "エバイダンス",
+      "score": 0.013632534466782097,
+      "horse_number": 8,
+      "odds": 7.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101380",
+      "horse_name": "2023101380",
+      "score": -0.13861652560051263,
+      "horse_number": 11,
+      "odds": 32.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103454",
+      "horse_name": "テイクマイハート",
+      "score": -0.15530078664037614,
+      "horse_number": 7,
+      "odds": 9.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106289",
+      "horse_name": "シャープインサイト",
+      "score": -0.4069686590563836,
+      "horse_number": 1,
+      "odds": 55.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105209",
+      "horse_name": "ファツアップ",
+      "score": -0.5158967935393436,
+      "horse_number": 16,
+      "odds": 17.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104326",
+      "horse_name": "2023104326",
+      "score": -0.5427064208962835,
+      "horse_number": 3,
+      "odds": 35.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100457",
+      "horse_name": "ワンダーエイド",
+      "score": -0.5446243222155202,
+      "horse_number": 15,
+      "odds": 118.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105019",
+      "horse_name": "ショーライトイヤー",
+      "score": -0.5491501395383548,
+      "horse_number": 9,
+      "odds": 21.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103562",
+      "horse_name": "マルカアルバ",
+      "score": -0.6058360776825296,
+      "horse_number": 14,
+      "odds": 31.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106019",
+      "horse_name": "エントルード",
+      "score": -0.6215908805119343,
+      "horse_number": 5,
+      "odds": 110.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104959",
+      "horse_name": "ナムラキングダム",
+      "score": -0.6552430327524972,
+      "horse_number": 12,
+      "odds": 134.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102429",
+      "horse_name": "ビーチェ",
+      "score": -0.6732626067852269,
+      "horse_number": 10,
+      "odds": 46.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100017",
+      "horse_name": "アンタレス",
+      "score": -0.700999851469308,
+      "horse_number": 4,
+      "odds": 58.3
+    }
+  ]
+}
