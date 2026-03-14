@@ -1,0 +1,136 @@
+{
+  "race_id": "202607010107",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-14 13:00",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105078",
+      "horse_name": "ミッキーマドンナ",
+      "score": 0.30666804516043783,
+      "horse_number": 6,
+      "odds": 2.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100081",
+      "horse_name": "ゴールドブレス",
+      "score": 0.12331109294775673,
+      "horse_number": 5,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104171",
+      "horse_name": "スナークピカソ",
+      "score": 0.01994859501610391,
+      "horse_number": 1,
+      "odds": 16.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103473",
+      "horse_name": "ベルサ",
+      "score": 0.01190954768408236,
+      "horse_number": 2,
+      "odds": 7.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105831",
+      "horse_name": "フェルシナ",
+      "score": -0.06194975202979965,
+      "horse_number": 7,
+      "odds": 8.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104919",
+      "horse_name": "ベイリークロア",
+      "score": -0.10424886785906175,
+      "horse_number": 16,
+      "odds": 31.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101315",
+      "horse_name": "スタンピー",
+      "score": -0.12964541615573116,
+      "horse_number": 8,
+      "odds": 27.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105773",
+      "horse_name": "リアライズオーラム",
+      "score": -0.15125074579966874,
+      "horse_number": 3,
+      "odds": 14.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106354",
+      "horse_name": "オーバースタンド",
+      "score": -0.2037577724067022,
+      "horse_number": 13,
+      "odds": 47.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106817",
+      "horse_name": "タイキバルドル",
+      "score": -0.30470179209740716,
+      "horse_number": 11,
+      "odds": 39.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104385",
+      "horse_name": "ラマヌジャン",
+      "score": -0.334038316818559,
+      "horse_number": 10,
+      "odds": 102.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107149",
+      "horse_name": "ヴォラヴィア",
+      "score": -0.36217478440387696,
+      "horse_number": 4,
+      "odds": 30.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101188",
+      "horse_name": "アラスカフレイバー",
+      "score": -0.4330917443362342,
+      "horse_number": 14,
+      "odds": 47.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100700",
+      "horse_name": "ポッドロルフ",
+      "score": -0.5313687769206885,
+      "horse_number": 9,
+      "odds": 67.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021105047",
+      "horse_name": "マサハヤヴォス",
+      "score": -0.6238516222815199,
+      "horse_number": 15,
+      "odds": 53.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101086",
+      "horse_name": "トリプルバレル",
+      "score": -0.6546627932857848,
+      "horse_number": 12,
+      "odds": 30.4
+    }
+  ]
+}

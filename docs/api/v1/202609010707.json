@@ -1,0 +1,136 @@
+{
+  "race_id": "202609010707",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-14 13:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105094",
+      "horse_name": "コーラルクラウン",
+      "score": 0.4206613332214785,
+      "horse_number": 2,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104890",
+      "horse_name": "エンダードラゴン",
+      "score": 0.30567056720986874,
+      "horse_number": 16,
+      "odds": 3.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104801",
+      "horse_name": "ハッコウイチウ",
+      "score": 0.1600872607566743,
+      "horse_number": 11,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102360",
+      "horse_name": "シュテルンビルト",
+      "score": 0.1209037572547763,
+      "horse_number": 6,
+      "odds": 10.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020110051",
+      "horse_name": "ザングウィル",
+      "score": -0.028576515965000725,
+      "horse_number": 7,
+      "odds": 18.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103775",
+      "horse_name": "テイエムパイロット",
+      "score": -0.09279653871434873,
+      "horse_number": 14,
+      "odds": 11.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105862",
+      "horse_name": "フェリーニ",
+      "score": -0.1114177277934019,
+      "horse_number": 5,
+      "odds": 22.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105321",
+      "horse_name": "ハウリングウィンド",
+      "score": -0.1477840120784233,
+      "horse_number": 8,
+      "odds": 18.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101403",
+      "horse_name": "タイセイレグノ",
+      "score": -0.17095864542483327,
+      "horse_number": 13,
+      "odds": 37.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106583",
+      "horse_name": "ケイアイブイスリー",
+      "score": -0.18514875706260045,
+      "horse_number": 4,
+      "odds": 43.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100652",
+      "horse_name": "ラピダリア",
+      "score": -0.25150836056306225,
+      "horse_number": 15,
+      "odds": 73.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106177",
+      "horse_name": "バルミラクル",
+      "score": -0.26600222073462115,
+      "horse_number": 9,
+      "odds": 52.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102728",
+      "horse_name": "ポルトドール",
+      "score": -0.3887592750218386,
+      "horse_number": 10,
+      "odds": 47.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101408",
+      "horse_name": "フェニーチェドーロ",
+      "score": -0.4335287163557143,
+      "horse_number": 1,
+      "odds": 81.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106997",
+      "horse_name": "スターペスショウマ",
+      "score": -0.45340087968564347,
+      "horse_number": 3,
+      "odds": 96.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102052",
+      "horse_name": "セルズパワー",
+      "score": -0.4634941054831818,
+      "horse_number": 12,
+      "odds": 25.9
+    }
+  ]
+}

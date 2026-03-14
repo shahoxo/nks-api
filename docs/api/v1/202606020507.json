@@ -1,0 +1,88 @@
+{
+  "race_id": "202606020507",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-14 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105118",
+      "horse_name": "ノクターン",
+      "score": 0.5233146345745111,
+      "horse_number": 7,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104980",
+      "horse_name": "ダノンピクチャー",
+      "score": 0.2683951210551324,
+      "horse_number": 1,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105132",
+      "horse_name": "オリオアルセーリオ",
+      "score": 0.1501526603832184,
+      "horse_number": 6,
+      "odds": 15.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019105292",
+      "horse_name": "ヴァレッタカズマ",
+      "score": 0.023100266124463788,
+      "horse_number": 10,
+      "odds": 74.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106972",
+      "horse_name": "トラストボス",
+      "score": -0.0024649010414918094,
+      "horse_number": 9,
+      "odds": 14.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101916",
+      "horse_name": "ペネトレイトゴー",
+      "score": -0.09598854819865772,
+      "horse_number": 2,
+      "odds": 29.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103510",
+      "horse_name": "キングズトゥルー",
+      "score": -0.09924289991647313,
+      "horse_number": 4,
+      "odds": 5.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101088",
+      "horse_name": "テイキットイージー",
+      "score": -0.3780399226467934,
+      "horse_number": 5,
+      "odds": 68.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103237",
+      "horse_name": "ジャスティンライズ",
+      "score": -0.5692536509494935,
+      "horse_number": 3,
+      "odds": 69.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100579",
+      "horse_name": "ラムゼイテソーロ",
+      "score": -0.585102692562431,
+      "horse_number": 8,
+      "odds": 39.6
+    }
+  ]
+}

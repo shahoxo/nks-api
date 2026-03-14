@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020506",
+  "race_name": "3歳1勝クラス",
+  "race_time": "2026-03-14 12:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107275",
+      "horse_name": "パッセージピーク",
+      "score": 0.3961785209816166,
+      "horse_number": 9,
+      "odds": 7.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102263",
+      "horse_name": "ステラデルークス",
+      "score": 0.3389876915201962,
+      "horse_number": 13,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104387",
+      "horse_name": "チェリヴェント",
+      "score": 0.29427861729873034,
+      "horse_number": 11,
+      "odds": 9.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104927",
+      "horse_name": "テンカムテキ",
+      "score": 0.24287671533367033,
+      "horse_number": 12,
+      "odds": 2.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102120",
+      "horse_name": "システマソラー",
+      "score": 0.2130708210432391,
+      "horse_number": 1,
+      "odds": 17.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101383",
+      "horse_name": "ガンダ",
+      "score": 0.18600885770433684,
+      "horse_number": 4,
+      "odds": 11.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101642",
+      "horse_name": "ベルウッドピース",
+      "score": 0.08269092844472863,
+      "horse_number": 16,
+      "odds": 38.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101362",
+      "horse_name": "デルマホダカ",
+      "score": 0.07721664545776273,
+      "horse_number": 2,
+      "odds": 59.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101793",
+      "horse_name": "エスシービクトリア",
+      "score": 0.046166945487019856,
+      "horse_number": 15,
+      "odds": 20.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100433",
+      "horse_name": "サンデーパーティー",
+      "score": 0.0382162425476557,
+      "horse_number": 10,
+      "odds": 55.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101154",
+      "horse_name": "ファイアマン",
+      "score": 0.013726491651602758,
+      "horse_number": 8,
+      "odds": 9.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103962",
+      "horse_name": "オクトーバーナイン",
+      "score": -0.04087169511419947,
+      "horse_number": 6,
+      "odds": 15.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105381",
+      "horse_name": "ハイライトニング",
+      "score": -0.04201393759452489,
+      "horse_number": 7,
+      "odds": 67.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105013",
+      "horse_name": "サンダーヴィント",
+      "score": -0.11652181614609024,
+      "horse_number": 3,
+      "odds": 26.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102283",
+      "horse_name": "オトシダマ",
+      "score": -0.12061301861812898,
+      "horse_number": 14,
+      "odds": 87.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105783",
+      "horse_name": "ホールドザデイ",
+      "score": -0.17257727241485726,
+      "horse_number": 5,
+      "odds": 59.5
+    }
+  ]
+}
