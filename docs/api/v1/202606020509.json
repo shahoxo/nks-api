@@ -1,0 +1,96 @@
+{
+  "race_id": "202606020509",
+  "race_name": "房総特別",
+  "race_time": "2026-03-14 14:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101134",
+      "horse_name": "テンミラクルスター",
+      "score": 0.3743801370926963,
+      "horse_number": 9,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105166",
+      "horse_name": "ヨヒーン",
+      "score": 0.19451256679594695,
+      "horse_number": 11,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105057",
+      "horse_name": "ノビリシマビジョン",
+      "score": 0.09629719982743935,
+      "horse_number": 3,
+      "odds": 4.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105981",
+      "horse_name": "ブラックルビー",
+      "score": 0.04529197626805413,
+      "horse_number": 1,
+      "odds": 13.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105131",
+      "horse_name": "キューティリップ",
+      "score": -0.029968702077474468,
+      "horse_number": 8,
+      "odds": 12.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105977",
+      "horse_name": "ロートホルン",
+      "score": -0.039933393997525414,
+      "horse_number": 10,
+      "odds": 9.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103533",
+      "horse_name": "ホウオウシンデレラ",
+      "score": -0.08321896645969841,
+      "horse_number": 6,
+      "odds": 25.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106667",
+      "horse_name": "ヴォワラクテ",
+      "score": -0.09325932986928898,
+      "horse_number": 7,
+      "odds": 42.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103929",
+      "horse_name": "オルノア",
+      "score": -0.11659643576001481,
+      "horse_number": 4,
+      "odds": 11.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104781",
+      "horse_name": "ゴーソーファー",
+      "score": -0.21152870903369891,
+      "horse_number": 5,
+      "odds": 18.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103878",
+      "horse_name": "ジャンビ",
+      "score": -0.579816863364277,
+      "horse_number": 2,
+      "odds": 42.5
+    }
+  ]
+}

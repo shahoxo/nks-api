@@ -1,0 +1,88 @@
+{
+  "race_id": "202607010110",
+  "race_name": "茶臼山高原特",
+  "race_time": "2026-03-14 14:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101603",
+      "horse_name": "ナイトスラッガー",
+      "score": 0.17179893352538433,
+      "horse_number": 6,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101454",
+      "horse_name": "ステラクラウン",
+      "score": 0.14569438291874434,
+      "horse_number": 7,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105345",
+      "horse_name": "シンゼンカガ",
+      "score": 0.05754743811835673,
+      "horse_number": 1,
+      "odds": 3.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105068",
+      "horse_name": "メディテラニアン",
+      "score": 0.0004437859276813583,
+      "horse_number": 4,
+      "odds": 3.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103522",
+      "horse_name": "ジェットブレード",
+      "score": -0.0953942299287053,
+      "horse_number": 2,
+      "odds": 14.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105072",
+      "horse_name": "ディーガレジェンド",
+      "score": -0.10126140636334059,
+      "horse_number": 5,
+      "odds": 8.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103255",
+      "horse_name": "ジャスティンガルフ",
+      "score": -0.11487791544121559,
+      "horse_number": 8,
+      "odds": 20.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019101007",
+      "horse_name": "タケトンボ",
+      "score": -0.17003482917039922,
+      "horse_number": 9,
+      "odds": 17.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103560",
+      "horse_name": "ジェモロジー",
+      "score": -0.3122439103738632,
+      "horse_number": 10,
+      "odds": 36.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019104531",
+      "horse_name": "バンフィエルド",
+      "score": -0.5109639952534428,
+      "horse_number": 3,
+      "odds": 56.6
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "race_id": "202609010709",
+  "race_name": "讃岐特別",
+  "race_time": "2026-03-14 14:20",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100365",
+      "horse_name": "トウカイエルデ",
+      "score": 0.18341208632832057,
+      "horse_number": 14,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106555",
+      "horse_name": "タガノアンファン",
+      "score": 0.06600348048336076,
+      "horse_number": 12,
+      "odds": 7.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100962",
+      "horse_name": "クイーンズデイ",
+      "score": 0.05000889183496479,
+      "horse_number": 15,
+      "odds": 9.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110056",
+      "horse_name": "フードマン",
+      "score": 0.02137742573678846,
+      "horse_number": 1,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106351",
+      "horse_name": "ベビーズブレス",
+      "score": -0.009688639367010848,
+      "horse_number": 10,
+      "odds": 22.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100547",
+      "horse_name": "アサクサグレース",
+      "score": -0.04949582689101978,
+      "horse_number": 5,
+      "odds": 8.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101195",
+      "horse_name": "ゴルトリッチ",
+      "score": -0.05662141857416263,
+      "horse_number": 13,
+      "odds": 42.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105409",
+      "horse_name": "ディアドコス",
+      "score": -0.061323393871923725,
+      "horse_number": 6,
+      "odds": 14.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105092",
+      "horse_name": "ソングオブライフ",
+      "score": -0.11089159190661553,
+      "horse_number": 7,
+      "odds": 6.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105659",
+      "horse_name": "アムールリーベ",
+      "score": -0.15321390949425476,
+      "horse_number": 2,
+      "odds": 6.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102914",
+      "horse_name": "モズトキキ",
+      "score": -0.252794805113894,
+      "horse_number": 4,
+      "odds": 19.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104387",
+      "horse_name": "キントラダンサー",
+      "score": -0.26329290262966676,
+      "horse_number": 9,
+      "odds": 14.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103193",
+      "horse_name": "トリップトゥムーン",
+      "score": -0.43605808788853295,
+      "horse_number": 8,
+      "odds": 132.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018100097",
+      "horse_name": "スマートルシーダ",
+      "score": -0.5057238960877549,
+      "horse_number": 11,
+      "odds": 57.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019106870",
+      "horse_name": "カジュフェイス",
+      "score": -0.575948989653566,
+      "horse_number": 3,
+      "odds": 42.3
+    }
+  ]
+}
