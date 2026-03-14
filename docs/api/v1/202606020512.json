@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020512",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-03-14 16:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104762",
+      "horse_name": "レッドアレグロ",
+      "score": 0.14388948775428922,
+      "horse_number": 10,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100363",
+      "horse_name": "キョウエイカンフ",
+      "score": 0.0893615501199523,
+      "horse_number": 14,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103670",
+      "horse_name": "ショウナンハクウン",
+      "score": 0.042588751164239866,
+      "horse_number": 6,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106298",
+      "horse_name": "モリノレッドスター",
+      "score": 0.03382952701157986,
+      "horse_number": 12,
+      "odds": 8.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105949",
+      "horse_name": "ケンキョ",
+      "score": 0.001619955587648215,
+      "horse_number": 3,
+      "odds": 16.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106119",
+      "horse_name": "タイセイピューマ",
+      "score": -0.042633502832848225,
+      "horse_number": 11,
+      "odds": 9.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103937",
+      "horse_name": "ラヴァグロウ",
+      "score": -0.191883051719709,
+      "horse_number": 1,
+      "odds": 37.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100382",
+      "horse_name": "ケープアグラス",
+      "score": -0.19793117566220386,
+      "horse_number": 13,
+      "odds": 27.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103706",
+      "horse_name": "アルジェンタージョ",
+      "score": -0.21565714501746128,
+      "horse_number": 16,
+      "odds": 47.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106169",
+      "horse_name": "カワキタマナレア",
+      "score": -0.25947047075032603,
+      "horse_number": 7,
+      "odds": 15.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106941",
+      "horse_name": "サンドブラスト",
+      "score": -0.3210371181853991,
+      "horse_number": 15,
+      "odds": 13.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102896",
+      "horse_name": "ロミオボス",
+      "score": -0.35583232931101716,
+      "horse_number": 9,
+      "odds": 120.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020103931",
+      "horse_name": "ヴィクトリーロード",
+      "score": -0.4391806748049535,
+      "horse_number": 4,
+      "odds": 33.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103549",
+      "horse_name": "ホウオウフロイト",
+      "score": -0.47132087737822814,
+      "horse_number": 2,
+      "odds": 60.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103710",
+      "horse_name": "ヘルメース",
+      "score": -0.5945546677764488,
+      "horse_number": 8,
+      "odds": 28.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106562",
+      "horse_name": "バンブトンプロ",
+      "score": -0.6318373387288261,
+      "horse_number": 5,
+      "odds": 124.8
+    }
+  ]
+}
