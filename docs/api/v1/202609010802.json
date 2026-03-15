@@ -1,0 +1,120 @@
+{
+  "race_id": "202609010802",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-15 10:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100929",
+      "horse_name": "ヴェロシア",
+      "score": 0.0028929356091352797,
+      "horse_number": 14,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102836",
+      "horse_name": "ミランド",
+      "score": -0.153978836297677,
+      "horse_number": 13,
+      "odds": 7.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101714",
+      "horse_name": "ワンダーゾルダート",
+      "score": -0.2674274168784077,
+      "horse_number": 4,
+      "odds": 4.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102582",
+      "horse_name": "テイエムスターラン",
+      "score": -0.30699412406369964,
+      "horse_number": 3,
+      "odds": 5.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103690",
+      "horse_name": "サーブルディアマン",
+      "score": -0.3289963957712704,
+      "horse_number": 1,
+      "odds": 7.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106271",
+      "horse_name": "ニシノエビガタメ",
+      "score": -0.3897100321654632,
+      "horse_number": 8,
+      "odds": 14.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106643",
+      "horse_name": "グンバイ",
+      "score": -0.40434141659147915,
+      "horse_number": 11,
+      "odds": 10.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100664",
+      "horse_name": "2023100664",
+      "score": -0.45515342496955935,
+      "horse_number": 12,
+      "odds": 55.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105122",
+      "horse_name": "サラサダンディー",
+      "score": -0.5267897217018535,
+      "horse_number": 2,
+      "odds": 16.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103213",
+      "horse_name": "2023103213",
+      "score": -0.5605472818472005,
+      "horse_number": 6,
+      "odds": 23.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101979",
+      "horse_name": "サンオブザサン",
+      "score": -0.5657651381473221,
+      "horse_number": 10,
+      "odds": 11.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102903",
+      "horse_name": "スナークホクサイ",
+      "score": -0.6277410453752261,
+      "horse_number": 5,
+      "odds": 20.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101670",
+      "horse_name": "ライクアストリーク",
+      "score": -0.6376091024058707,
+      "horse_number": 7,
+      "odds": 56.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102773",
+      "horse_name": "ハイビッグゴールド",
+      "score": -0.6421295776501199,
+      "horse_number": 9,
+      "odds": 28.7
+    }
+  ]
+}

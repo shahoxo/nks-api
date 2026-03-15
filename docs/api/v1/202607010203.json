@@ -1,0 +1,136 @@
+{
+  "race_id": "202607010203",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-15 10:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103394",
+      "horse_name": "フレッチャアズーラ",
+      "score": 0.5036586652544154,
+      "horse_number": 12,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102494",
+      "horse_name": "スリラーナイト",
+      "score": 0.19017719389416954,
+      "horse_number": 1,
+      "odds": 8.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104994",
+      "horse_name": "2023104994",
+      "score": 0.18489530560739403,
+      "horse_number": 7,
+      "odds": 18.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103426",
+      "horse_name": "2023103426",
+      "score": 0.1677568544996465,
+      "horse_number": 9,
+      "odds": 29.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107270",
+      "horse_name": "2023107270",
+      "score": 0.06750160230379759,
+      "horse_number": 11,
+      "odds": 18.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100144",
+      "horse_name": "エンブルーシャ",
+      "score": -0.049560782366001005,
+      "horse_number": 2,
+      "odds": 17.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107239",
+      "horse_name": "ダノンプレリュード",
+      "score": -0.12811629959643092,
+      "horse_number": 14,
+      "odds": 24.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100238",
+      "horse_name": "ラップトップ",
+      "score": -0.13418908660003512,
+      "horse_number": 4,
+      "odds": 16.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102724",
+      "horse_name": "2023102724",
+      "score": -0.13861652560051263,
+      "horse_number": 10,
+      "odds": 29.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106468",
+      "horse_name": "ガミーヌ",
+      "score": -0.14957456277883865,
+      "horse_number": 16,
+      "odds": 62.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104338",
+      "horse_name": "2023104338",
+      "score": -0.2550557583130965,
+      "horse_number": 8,
+      "odds": 31.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101315",
+      "horse_name": "サンエンジェルス",
+      "score": -0.29383645502957595,
+      "horse_number": 5,
+      "odds": 45.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105878",
+      "horse_name": "2023105878",
+      "score": -0.31647342020292296,
+      "horse_number": 3,
+      "odds": 27.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103816",
+      "horse_name": "オドラタス",
+      "score": -0.3439903435167373,
+      "horse_number": 13,
+      "odds": 61.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104634",
+      "horse_name": "2023104634",
+      "score": -0.34922312670524347,
+      "horse_number": 6,
+      "odds": 53.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104258",
+      "horse_name": "2023104258",
+      "score": -0.47293600501096866,
+      "horse_number": 15,
+      "odds": 105.7
+    }
+  ]
+}

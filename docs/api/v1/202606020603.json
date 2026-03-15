@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020603",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-15 11:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107532",
+      "horse_name": "ミスタートントン",
+      "score": 0.2112073986995992,
+      "horse_number": 10,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106658",
+      "horse_name": "ニンジャトットリ",
+      "score": -0.035415147910414245,
+      "horse_number": 6,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101516",
+      "horse_name": "2023101516",
+      "score": -0.12177085847012178,
+      "horse_number": 2,
+      "odds": 16.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104432",
+      "horse_name": "カラクリスピリッツ",
+      "score": -0.13486994936395608,
+      "horse_number": 16,
+      "odds": 9.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103955",
+      "horse_name": "ノブステップ",
+      "score": -0.2506554269569889,
+      "horse_number": 13,
+      "odds": 18.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101448",
+      "horse_name": "スラッシュコード",
+      "score": -0.3923726784659842,
+      "horse_number": 11,
+      "odds": 22.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105777",
+      "horse_name": "ノブピースオブラブ",
+      "score": -0.4302888267637446,
+      "horse_number": 5,
+      "odds": 34.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103088",
+      "horse_name": "トウシンライオット",
+      "score": -0.4541775131533756,
+      "horse_number": 8,
+      "odds": 31.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100531",
+      "horse_name": "ショウナンタヅナ",
+      "score": -0.5423546753217996,
+      "horse_number": 4,
+      "odds": 35.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100845",
+      "horse_name": "フクノハリファ",
+      "score": -0.5475308385728224,
+      "horse_number": 3,
+      "odds": 65.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102881",
+      "horse_name": "フレンドリーエール",
+      "score": -0.5741361404475822,
+      "horse_number": 1,
+      "odds": 26.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105196",
+      "horse_name": "ワンダーバリエンス",
+      "score": -0.6121130178856828,
+      "horse_number": 12,
+      "odds": 79.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101878",
+      "horse_name": "ナンヨーリクエスト",
+      "score": -0.6138176512749651,
+      "horse_number": 14,
+      "odds": 88.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023107509",
+      "horse_name": "ピコレーヴ",
+      "score": -0.7295377203336686,
+      "horse_number": 15,
+      "odds": 21.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103303",
+      "horse_name": "リゼクールグレー",
+      "score": -0.7498547462216962,
+      "horse_number": 9,
+      "odds": 40.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104147",
+      "horse_name": "エールオンマインド",
+      "score": -0.7560238565797833,
+      "horse_number": 7,
+      "odds": 162.1
+    }
+  ]
+}
