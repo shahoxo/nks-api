@@ -1,0 +1,128 @@
+{
+  "race_id": "202606020607",
+  "race_name": "3歳1勝クラス",
+  "race_time": "2026-03-15 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104015",
+      "horse_name": "ロジケープ",
+      "score": 0.3235049667754437,
+      "horse_number": 7,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103710",
+      "horse_name": "ハイヤーマーク",
+      "score": 0.3104566722035291,
+      "horse_number": 4,
+      "odds": 5.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102440",
+      "horse_name": "ホウオウヘッセン",
+      "score": 0.23005977647652304,
+      "horse_number": 3,
+      "odds": 13.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101632",
+      "horse_name": "マーゴットミスト",
+      "score": 0.13480978005731908,
+      "horse_number": 14,
+      "odds": 10.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103032",
+      "horse_name": "ロンドンオービタル",
+      "score": 0.11087790245873243,
+      "horse_number": 11,
+      "odds": 15.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107231",
+      "horse_name": "ニルマーネル",
+      "score": 0.05942420427026145,
+      "horse_number": 15,
+      "odds": 14.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103137",
+      "horse_name": "ハッピーラッキー",
+      "score": 0.005003708487250569,
+      "horse_number": 2,
+      "odds": 16.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023110055",
+      "horse_name": "グッドピース",
+      "score": -0.041050473849231266,
+      "horse_number": 1,
+      "odds": 4.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023110097",
+      "horse_name": "ジャスパールビー",
+      "score": -0.11191733192628993,
+      "horse_number": 13,
+      "odds": 41.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106484",
+      "horse_name": "フェーダーローター",
+      "score": -0.2594256713209707,
+      "horse_number": 10,
+      "odds": 26.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104198",
+      "horse_name": "2023104198",
+      "score": -0.2784858002978946,
+      "horse_number": 5,
+      "odds": 116.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103037",
+      "horse_name": "コパノトーマス",
+      "score": -0.3667395970113396,
+      "horse_number": 8,
+      "odds": 17.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106256",
+      "horse_name": "セイウンアインス",
+      "score": -0.5368718729071473,
+      "horse_number": 9,
+      "odds": 96.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101551",
+      "horse_name": "エムティリオ",
+      "score": -0.5788895145460236,
+      "horse_number": 12,
+      "odds": 83.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106479",
+      "horse_name": "フォトンゲイザー",
+      "score": -0.5938962629264705,
+      "horse_number": 6,
+      "odds": 59.3
+    }
+  ]
+}

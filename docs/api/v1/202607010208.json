@@ -1,0 +1,104 @@
+{
+  "race_id": "202607010208",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-15 13:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105030",
+      "horse_name": "エリーナストーム",
+      "score": 0.2857117947513099,
+      "horse_number": 10,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106817",
+      "horse_name": "マイネルアレス",
+      "score": 0.28563615988997093,
+      "horse_number": 9,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102573",
+      "horse_name": "メイショウアイル",
+      "score": 0.12404735062456694,
+      "horse_number": 4,
+      "odds": 4.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105477",
+      "horse_name": "デルマケセラセラ",
+      "score": 0.015485090841417262,
+      "horse_number": 3,
+      "odds": 20.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102295",
+      "horse_name": "マドモアゼルアスク",
+      "score": -0.08679544280439962,
+      "horse_number": 7,
+      "odds": 7.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106224",
+      "horse_name": "ウインリベラシオン",
+      "score": -0.12188033820650473,
+      "horse_number": 2,
+      "odds": 4.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103520",
+      "horse_name": "デルシエロ",
+      "score": -0.18806188696910375,
+      "horse_number": 8,
+      "odds": 18.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104820",
+      "horse_name": "メアヴィア",
+      "score": -0.34535642490057356,
+      "horse_number": 1,
+      "odds": 12.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105076",
+      "horse_name": "フォーグッド",
+      "score": -0.3868426849049326,
+      "horse_number": 12,
+      "odds": 16.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106790",
+      "horse_name": "ケアンズ",
+      "score": -0.5270431651630554,
+      "horse_number": 6,
+      "odds": 36.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022107010",
+      "horse_name": "ローレルランウェイ",
+      "score": -0.5456601730905545,
+      "horse_number": 5,
+      "odds": 30.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102763",
+      "horse_name": "レイホープ",
+      "score": -0.7344997899121097,
+      "horse_number": 11,
+      "odds": 111.1
+    }
+  ]
+}

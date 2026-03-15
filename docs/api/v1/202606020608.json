@@ -1,0 +1,88 @@
+{
+  "race_id": "202606020608",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-03-15 13:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104818",
+      "horse_name": "クライスレリアーナ",
+      "score": 0.453635360795809,
+      "horse_number": 8,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101230",
+      "horse_name": "インパクトシー",
+      "score": 0.26422504570342914,
+      "horse_number": 1,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105478",
+      "horse_name": "ダノンミッション",
+      "score": 0.19189816254537445,
+      "horse_number": 7,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102106",
+      "horse_name": "ツルマウカタチ",
+      "score": -0.006641135631344764,
+      "horse_number": 4,
+      "odds": 19.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020101258",
+      "horse_name": "コスモオピニオン",
+      "score": -0.028139697394033505,
+      "horse_number": 3,
+      "odds": 27.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105252",
+      "horse_name": "シャンパンマーク",
+      "score": -0.1322350822384015,
+      "horse_number": 6,
+      "odds": 29.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105431",
+      "horse_name": "ネーブルオレンジ",
+      "score": -0.25763171872262686,
+      "horse_number": 5,
+      "odds": 37.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101469",
+      "horse_name": "ヴェナートル",
+      "score": -0.3539135084721861,
+      "horse_number": 2,
+      "odds": 77.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106415",
+      "horse_name": "ロゼル",
+      "score": -0.3645012370891264,
+      "horse_number": 10,
+      "odds": 27.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104751",
+      "horse_name": "オリエンタルナイト",
+      "score": -0.5570817432018512,
+      "horse_number": 9,
+      "odds": 54.5
+    }
+  ]
+}

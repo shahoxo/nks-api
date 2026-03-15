@@ -1,0 +1,112 @@
+{
+  "race_id": "202609010807",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-15 13:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104647",
+      "horse_name": "エーデルヴェーグ",
+      "score": 0.22757255039015412,
+      "horse_number": 3,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104992",
+      "horse_name": "フェイトライン",
+      "score": 0.1829135223293984,
+      "horse_number": 11,
+      "odds": 8.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103100",
+      "horse_name": "リオンプライム",
+      "score": 0.0023274506744156978,
+      "horse_number": 8,
+      "odds": 12.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104817",
+      "horse_name": "ペールノエル",
+      "score": 0.0013281954240408865,
+      "horse_number": 13,
+      "odds": 9.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104879",
+      "horse_name": "テーオーシュタイン",
+      "score": -0.043077778312632105,
+      "horse_number": 10,
+      "odds": 5.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105022",
+      "horse_name": "グローブアマランス",
+      "score": -0.05509734443513708,
+      "horse_number": 1,
+      "odds": 10.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105215",
+      "horse_name": "ジーティームッシュ",
+      "score": -0.17125921635976515,
+      "horse_number": 6,
+      "odds": 14.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103249",
+      "horse_name": "メイショウアボット",
+      "score": -0.1760430223069378,
+      "horse_number": 7,
+      "odds": 30.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103441",
+      "horse_name": "フラッシングレート",
+      "score": -0.2233622255598927,
+      "horse_number": 5,
+      "odds": 12.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104611",
+      "horse_name": "ジュンライトニング",
+      "score": -0.24519216959508575,
+      "horse_number": 2,
+      "odds": 23.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102445",
+      "horse_name": "トウカイフルーレ",
+      "score": -0.2688551537390925,
+      "horse_number": 4,
+      "odds": 25.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101562",
+      "horse_name": "ダイシンラー",
+      "score": -0.2781349610023184,
+      "horse_number": 9,
+      "odds": 13.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104947",
+      "horse_name": "フラワームーン",
+      "score": -0.3344844537542864,
+      "horse_number": 12,
+      "odds": 64.9
+    }
+  ]
+}

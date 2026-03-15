@@ -1,0 +1,96 @@
+{
+  "race_id": "202609010808",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-03-15 13:45",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103002",
+      "horse_name": "アラナコア",
+      "score": 0.11722729229207726,
+      "horse_number": 6,
+      "odds": 4.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103746",
+      "horse_name": "マキシマムビスタ",
+      "score": 0.09824229952268651,
+      "horse_number": 5,
+      "odds": 7.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100711",
+      "horse_name": "ケイアイアルタイル",
+      "score": 0.04468669745452,
+      "horse_number": 8,
+      "odds": 12.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106564",
+      "horse_name": "タガノアニマシオン",
+      "score": -0.006112511056733508,
+      "horse_number": 10,
+      "odds": 5.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022107306",
+      "horse_name": "ストップヤーニング",
+      "score": -0.04717847163455027,
+      "horse_number": 1,
+      "odds": 3.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110130",
+      "horse_name": "ドッビアーコ",
+      "score": -0.1579282181490192,
+      "horse_number": 2,
+      "odds": 20.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102956",
+      "horse_name": "エンマ",
+      "score": -0.1851226426479117,
+      "horse_number": 9,
+      "odds": 8.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104215",
+      "horse_name": "ケイアイメキラ",
+      "score": -0.24588816767980795,
+      "horse_number": 11,
+      "odds": 14.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100640",
+      "horse_name": "プラニスフェリオ",
+      "score": -0.40327921557588875,
+      "horse_number": 3,
+      "odds": 35.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105971",
+      "horse_name": "フラッシング",
+      "score": -0.40578639133807115,
+      "horse_number": 4,
+      "odds": 55.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105221",
+      "horse_name": "ダブルジャッジ",
+      "score": -0.6341015123342233,
+      "horse_number": 7,
+      "odds": 19.6
+    }
+  ]
+}
