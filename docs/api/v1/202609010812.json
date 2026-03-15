@@ -1,0 +1,112 @@
+{
+  "race_id": "202609010812",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-03-15 16:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106639",
+      "horse_name": "モーニングマジック",
+      "score": 0.2502647004214625,
+      "horse_number": 8,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101121",
+      "horse_name": "ミライテーラー",
+      "score": 0.12046010591597196,
+      "horse_number": 7,
+      "odds": 9.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105964",
+      "horse_name": "スニーカースキル",
+      "score": 0.017320555878369205,
+      "horse_number": 5,
+      "odds": 9.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106471",
+      "horse_name": "キタノライブリー",
+      "score": -0.006810401836337258,
+      "horse_number": 2,
+      "odds": 16.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100716",
+      "horse_name": "カネトシフラム",
+      "score": -0.008230105436302,
+      "horse_number": 12,
+      "odds": 14.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106609",
+      "horse_name": "ヤマニンバロネス",
+      "score": -0.02537571659659775,
+      "horse_number": 9,
+      "odds": 4.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102259",
+      "horse_name": "クリノオリーブ",
+      "score": -0.060176862032531996,
+      "horse_number": 1,
+      "odds": 12.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104399",
+      "horse_name": "ラヴオントップ",
+      "score": -0.08357339242710601,
+      "horse_number": 6,
+      "odds": 17.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019100566",
+      "horse_name": "ミロワール",
+      "score": -0.10825829539600526,
+      "horse_number": 10,
+      "odds": 25.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102739",
+      "horse_name": "ナリタヒカリ",
+      "score": -0.1764306374055168,
+      "horse_number": 3,
+      "odds": 57.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106177",
+      "horse_name": "タマモナポリ",
+      "score": -0.22919730935880891,
+      "horse_number": 13,
+      "odds": 12.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104917",
+      "horse_name": "エターナルプロミス",
+      "score": -0.5285825139630671,
+      "horse_number": 4,
+      "odds": 7.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100933",
+      "horse_name": "エルサトアナ",
+      "score": -0.5823114614240592,
+      "horse_number": 11,
+      "odds": 43.3
+    }
+  ]
+}
