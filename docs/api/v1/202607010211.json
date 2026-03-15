@@ -1,0 +1,120 @@
+{
+  "race_id": "202607010211",
+  "race_name": "金鯱賞",
+  "race_time": "2026-03-15 15:15",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105414",
+      "horse_name": "クイーンズウォーク",
+      "score": 0.4842750312455615,
+      "horse_number": 12,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106738",
+      "horse_name": "ヴィレム",
+      "score": 0.30174283353716874,
+      "horse_number": 6,
+      "odds": 6.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019105556",
+      "horse_name": "ドゥラドーレス",
+      "score": 0.3009169499047795,
+      "horse_number": 1,
+      "odds": 6.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100913",
+      "horse_name": "ジューンテイク",
+      "score": 0.24306123158317572,
+      "horse_number": 2,
+      "odds": 8.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103101",
+      "horse_name": "シェイクユアハート",
+      "score": 0.04440055899203145,
+      "horse_number": 9,
+      "odds": 11.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103995",
+      "horse_name": "ジョバンニ",
+      "score": 0.016588977531358493,
+      "horse_number": 3,
+      "odds": 8.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105436",
+      "horse_name": "アーバンシック",
+      "score": -0.028064993468808322,
+      "horse_number": 4,
+      "odds": 10.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103941",
+      "horse_name": "ホウオウビスケッツ",
+      "score": -0.044783501601958195,
+      "horse_number": 13,
+      "odds": 10.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103975",
+      "horse_name": "セキトバイースト",
+      "score": -0.05845538536258481,
+      "horse_number": 10,
+      "odds": 20.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104324",
+      "horse_name": "ディマイザキッド",
+      "score": -0.059420150658615514,
+      "horse_number": 5,
+      "odds": 31.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105541",
+      "horse_name": "サフィラ",
+      "score": -0.1375635163021615,
+      "horse_number": 14,
+      "odds": 67.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2017104756",
+      "horse_name": "アラタ",
+      "score": -0.20985578251047918,
+      "horse_number": 8,
+      "odds": 86.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100254",
+      "horse_name": "ニシノレヴナント",
+      "score": -0.22569109901152773,
+      "horse_number": 7,
+      "odds": 68.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104828",
+      "horse_name": "キングズパレス",
+      "score": -0.28956613240813417,
+      "horse_number": 11,
+      "odds": 52.8
+    }
+  ]
+}

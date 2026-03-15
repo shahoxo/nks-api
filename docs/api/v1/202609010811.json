@@ -1,0 +1,136 @@
+{
+  "race_id": "202609010811",
+  "race_name": "米子城S",
+  "race_time": "2026-03-15 15:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100522",
+      "horse_name": "ジョーメッドヴィン",
+      "score": 0.12311670150724822,
+      "horse_number": 9,
+      "odds": 11.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019105459",
+      "horse_name": "ソウテン",
+      "score": 0.03518086228752195,
+      "horse_number": 15,
+      "odds": 9.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103517",
+      "horse_name": "レッドシュヴェルト",
+      "score": 0.021739421160564966,
+      "horse_number": 3,
+      "odds": 11.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102315",
+      "horse_name": "アスクワンタイム",
+      "score": 0.021739421160564966,
+      "horse_number": 8,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019104911",
+      "horse_name": "プルパレイ",
+      "score": -0.0941529862172058,
+      "horse_number": 14,
+      "odds": 30.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104955",
+      "horse_name": "イフェイオン",
+      "score": -0.10009739213650629,
+      "horse_number": 1,
+      "odds": 15.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101543",
+      "horse_name": "グランテスト",
+      "score": -0.11889803190144564,
+      "horse_number": 13,
+      "odds": 9.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105400",
+      "horse_name": "タマモブラックタイ",
+      "score": -0.18650053140569647,
+      "horse_number": 12,
+      "odds": 17.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103962",
+      "horse_name": "ステークホルダー",
+      "score": -0.25277161119422387,
+      "horse_number": 16,
+      "odds": 47.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019103714",
+      "horse_name": "メイショウソラフネ",
+      "score": -0.2547133977406579,
+      "horse_number": 11,
+      "odds": 14.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101588",
+      "horse_name": "ロンドンプラン",
+      "score": -0.28709165057972036,
+      "horse_number": 2,
+      "odds": 32.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100494",
+      "horse_name": "ガロンヌ",
+      "score": -0.30625855413312913,
+      "horse_number": 10,
+      "odds": 27.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018102155",
+      "horse_name": "マイネルジェロディ",
+      "score": -0.3685290662285098,
+      "horse_number": 5,
+      "odds": 69.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019100214",
+      "horse_name": "ウインモナーク",
+      "score": -0.4583099413256285,
+      "horse_number": 6,
+      "odds": 15.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019103422",
+      "horse_name": "テイエムスパーダ",
+      "score": -0.46231523025769705,
+      "horse_number": 4,
+      "odds": 7.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104556",
+      "horse_name": "カルチャーデイ",
+      "score": -0.46732379874982977,
+      "horse_number": 7,
+      "odds": 4.5
+    }
+  ]
+}

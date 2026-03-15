@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020611",
+  "race_name": "スプリングS",
+  "race_time": "2026-03-15 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106925",
+      "horse_name": "クレパスキュラー",
+      "score": 0.39913101228791736,
+      "horse_number": 12,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100627",
+      "horse_name": "テルヒコウ",
+      "score": 0.24418792346166035,
+      "horse_number": 11,
+      "odds": 18.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107321",
+      "horse_name": "アウダーシア",
+      "score": 0.19130915677513533,
+      "horse_number": 15,
+      "odds": 17.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101449",
+      "horse_name": "サウンドムーブ",
+      "score": 0.15115943086086703,
+      "horse_number": 16,
+      "odds": 13.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106400",
+      "horse_name": "アスクエジンバラ",
+      "score": 0.09975666976195398,
+      "horse_number": 2,
+      "odds": 5.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101102",
+      "horse_name": "ミスターライト",
+      "score": 0.06309687466374553,
+      "horse_number": 13,
+      "odds": 14.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106978",
+      "horse_name": "アクロフェイズ",
+      "score": 0.004555698640203308,
+      "horse_number": 14,
+      "odds": 27.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102178",
+      "horse_name": "タイキルッジェーロ",
+      "score": -0.028762207996186888,
+      "horse_number": 3,
+      "odds": 56.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100940",
+      "horse_name": "ラストスマイル",
+      "score": -0.031190925775606927,
+      "horse_number": 4,
+      "odds": 15.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104885",
+      "horse_name": "ジーネキング",
+      "score": -0.035383953324923056,
+      "horse_number": 7,
+      "odds": 55.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100207",
+      "horse_name": "マイネルシンベリン",
+      "score": -0.11240217055579271,
+      "horse_number": 8,
+      "odds": 62.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103875",
+      "horse_name": "マカナアネラ",
+      "score": -0.12422879127998936,
+      "horse_number": 9,
+      "odds": 217.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100724",
+      "horse_name": "サノノグレーター",
+      "score": -0.15225047553703475,
+      "horse_number": 10,
+      "odds": 12.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101577",
+      "horse_name": "フレイムスター",
+      "score": -0.18442602010068918,
+      "horse_number": 5,
+      "odds": 181.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100681",
+      "horse_name": "ガリレア",
+      "score": -0.4116410303466208,
+      "horse_number": 6,
+      "odds": 23.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100380",
+      "horse_name": "2023100380",
+      "score": -0.4618563848934708,
+      "horse_number": 1,
+      "odds": 220.0
+    }
+  ]
+}
