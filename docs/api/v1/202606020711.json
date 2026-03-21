@@ -10,7 +10,7 @@
       "horse_name": "イクシード",
       "score": 0.4979890549575433,
       "horse_number": 8,
-      "odds": 2.8
+      "odds": 2.5
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "horse_name": "エアビーアゲイル",
       "score": 0.20708454467550608,
       "horse_number": 1,
-      "odds": 13.3
+      "odds": 12.3
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "horse_name": "アメティスタ",
       "score": 0.17309049821788328,
       "horse_number": 13,
-      "odds": 6.7
+      "odds": 6.2
     },
     {
       "rank": 4,
@@ -34,7 +34,7 @@
       "horse_name": "コズミックボックス",
       "score": 0.14018173379732374,
       "horse_number": 16,
-      "odds": 52.4
+      "odds": 61.9
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "horse_name": "クリスレジーナ",
       "score": 0.12355849998205237,
       "horse_number": 5,
-      "odds": 18.4
+      "odds": 19.6
     },
     {
       "rank": 6,
@@ -50,7 +50,7 @@
       "horse_name": "ロンギングセリーヌ",
       "score": 0.11215345350151545,
       "horse_number": 11,
-      "odds": 39.7
+      "odds": 49.8
     },
     {
       "rank": 7,
@@ -58,7 +58,7 @@
       "horse_name": "ゴディアーモ",
       "score": 0.05627776001221857,
       "horse_number": 3,
-      "odds": 4.3
+      "odds": 4.1
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "horse_name": "カラペルソナ",
       "score": 0.04875361328342655,
       "horse_number": 14,
-      "odds": 6.2
+      "odds": 7.4
     },
     {
       "rank": 9,
@@ -74,7 +74,7 @@
       "horse_name": "アーリーハーベスト",
       "score": 0.004185807806078287,
       "horse_number": 7,
-      "odds": 70.8
+      "odds": 98.2
     },
     {
       "rank": 10,
@@ -82,7 +82,7 @@
       "horse_name": "ラコンチャビエン",
       "score": -0.015233378401251864,
       "horse_number": 6,
-      "odds": 60.1
+      "odds": 76.4
     },
     {
       "rank": 11,
@@ -90,7 +90,7 @@
       "horse_name": "リュクスパトロール",
       "score": -0.06619425123869485,
       "horse_number": 15,
-      "odds": 89.6
+      "odds": 115.8
     },
     {
       "rank": 12,
@@ -98,7 +98,7 @@
       "horse_name": "スマートプリエール",
       "score": -0.07700261812818335,
       "horse_number": 10,
-      "odds": 14.8
+      "odds": 13.9
     },
     {
       "rank": 13,
@@ -106,7 +106,7 @@
       "horse_name": "ナックホワイト",
       "score": -0.15517207634500324,
       "horse_number": 2,
-      "odds": 96.1
+      "odds": 134.9
     },
     {
       "rank": 14,
@@ -114,7 +114,7 @@
       "horse_name": "バースデイフライト",
       "score": -0.25549366209676866,
       "horse_number": 12,
-      "odds": 68.1
+      "odds": 87.8
     },
     {
       "rank": 15,
@@ -122,7 +122,7 @@
       "horse_name": "ヴィスコンテッサ",
       "score": -0.27380761836048206,
       "horse_number": 9,
-      "odds": 22.6
+      "odds": 30.0
     },
     {
       "rank": 16,
@@ -130,7 +130,7 @@
       "horse_name": "ヒルデグリム",
       "score": -0.5904625878916535,
       "horse_number": 4,
-      "odds": 206.9
+      "odds": 338.6
     }
   ]
 }
