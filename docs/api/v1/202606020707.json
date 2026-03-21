@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020707",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-21 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101450",
+      "horse_name": "ブルージャイアント",
+      "score": 0.11897225514468397,
+      "horse_number": 16,
+      "odds": 13.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101404",
+      "horse_name": "クラリティー",
+      "score": -0.013598208199199095,
+      "horse_number": 12,
+      "odds": 16.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104740",
+      "horse_name": "コズミックダンサー",
+      "score": -0.020841460851243068,
+      "horse_number": 5,
+      "odds": 8.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106566",
+      "horse_name": "ダイシンレアレア",
+      "score": -0.0352930354167182,
+      "horse_number": 15,
+      "odds": 6.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103587",
+      "horse_name": "ミラクルブルー",
+      "score": -0.10569679154143959,
+      "horse_number": 11,
+      "odds": 17.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102058",
+      "horse_name": "スマートクオーレ",
+      "score": -0.15020331333124023,
+      "horse_number": 4,
+      "odds": 3.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105337",
+      "horse_name": "カサビセンス",
+      "score": -0.23434839531924698,
+      "horse_number": 13,
+      "odds": 47.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101201",
+      "horse_name": "ロードインフェルノ",
+      "score": -0.25647350936201674,
+      "horse_number": 14,
+      "odds": 12.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104850",
+      "horse_name": "セージグリーン",
+      "score": -0.3035659006731949,
+      "horse_number": 3,
+      "odds": 60.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019103219",
+      "horse_name": "ブレイクザアイス",
+      "score": -0.3827594496540464,
+      "horse_number": 9,
+      "odds": 21.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106209",
+      "horse_name": "プレジール",
+      "score": -0.5494263522926264,
+      "horse_number": 2,
+      "odds": 15.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103156",
+      "horse_name": "タイキフィアリーベ",
+      "score": -0.5506325049144988,
+      "horse_number": 8,
+      "odds": 31.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101436",
+      "horse_name": "サラニキケン",
+      "score": -0.5735675088816614,
+      "horse_number": 7,
+      "odds": 23.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101438",
+      "horse_name": "レッドルイナール",
+      "score": -0.5953765005072319,
+      "horse_number": 6,
+      "odds": 30.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104822",
+      "horse_name": "リボルトバレット",
+      "score": -0.626875269150385,
+      "horse_number": 1,
+      "odds": 7.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021105209",
+      "horse_name": "チビノシエラザード",
+      "score": -0.6296634170597682,
+      "horse_number": 10,
+      "odds": 45.5
+    }
+  ]
+}

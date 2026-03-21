@@ -1,0 +1,136 @@
+{
+  "race_id": "202607010307",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-21 13:00",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105242",
+      "horse_name": "フォースミラクル",
+      "score": 0.2168662058363603,
+      "horse_number": 5,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103303",
+      "horse_name": "ドリーミングアップ",
+      "score": 0.1593010201978508,
+      "horse_number": 13,
+      "odds": 7.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105257",
+      "horse_name": "ウフドゥウフ",
+      "score": 0.15176749199283532,
+      "horse_number": 16,
+      "odds": 13.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103634",
+      "horse_name": "メイショウサトノヒ",
+      "score": 0.10015385385915553,
+      "horse_number": 11,
+      "odds": 20.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104234",
+      "horse_name": "エムティエスターテ",
+      "score": 0.03971020138258529,
+      "horse_number": 8,
+      "odds": 5.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100327",
+      "horse_name": "ジェミート",
+      "score": 0.025188303876430562,
+      "horse_number": 7,
+      "odds": 8.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104945",
+      "horse_name": "ポンピエ",
+      "score": -0.014968568742080125,
+      "horse_number": 10,
+      "odds": 8.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103482",
+      "horse_name": "ステラノヴァ",
+      "score": -0.05164825388465209,
+      "horse_number": 3,
+      "odds": 40.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105321",
+      "horse_name": "ハウリングウィンド",
+      "score": -0.09339648029617298,
+      "horse_number": 15,
+      "odds": 8.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101062",
+      "horse_name": "インディゴ",
+      "score": -0.09434324470193134,
+      "horse_number": 1,
+      "odds": 19.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102952",
+      "horse_name": "ユージュアーナ",
+      "score": -0.14211029319493182,
+      "horse_number": 14,
+      "odds": 70.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105548",
+      "horse_name": "プロスペクトパーク",
+      "score": -0.30146885621423336,
+      "horse_number": 6,
+      "odds": 19.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102813",
+      "horse_name": "ハイケンス",
+      "score": -0.3225802284128537,
+      "horse_number": 4,
+      "odds": 55.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104618",
+      "horse_name": "タリスマン",
+      "score": -0.5470264755512747,
+      "horse_number": 9,
+      "odds": 95.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105459",
+      "horse_name": "エテオクロス",
+      "score": -0.6318373387288261,
+      "horse_number": 2,
+      "odds": 39.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021107147",
+      "horse_name": "フクノスナノバラ",
+      "score": -0.7169776035689069,
+      "horse_number": 12,
+      "odds": 55.0
+    }
+  ]
+}
