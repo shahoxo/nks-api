@@ -1,0 +1,72 @@
+{
+  "race_id": "202609010909",
+  "race_name": "淡路特別",
+  "race_time": "2026-03-21 14:20",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104167",
+      "horse_name": "タイセイリコルド",
+      "score": 0.3355150750453808,
+      "horse_number": 2,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105587",
+      "horse_name": "サトノソティラス",
+      "score": 0.15371028621148872,
+      "horse_number": 8,
+      "odds": 9.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020104491",
+      "horse_name": "ファームツエンティ",
+      "score": 0.13172649809845213,
+      "horse_number": 3,
+      "odds": 3.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106194",
+      "horse_name": "ウインデイジー",
+      "score": 0.06582427556524165,
+      "horse_number": 5,
+      "odds": 6.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105048",
+      "horse_name": "ゴージョニーゴー",
+      "score": 0.02501488860234594,
+      "horse_number": 6,
+      "odds": 3.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104623",
+      "horse_name": "コリカンチャ",
+      "score": -0.012409811863001172,
+      "horse_number": 1,
+      "odds": 17.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105285",
+      "horse_name": "ライフセービング",
+      "score": -0.37003447168542064,
+      "horse_number": 4,
+      "odds": 31.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103033",
+      "horse_name": "ハイラント",
+      "score": -0.3863128032239662,
+      "horse_number": 7,
+      "odds": 24.7
+    }
+  ]
+}

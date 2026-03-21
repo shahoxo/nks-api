@@ -1,0 +1,88 @@
+{
+  "race_id": "202607010309",
+  "race_name": "岡崎特別",
+  "race_time": "2026-03-21 14:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100171",
+      "horse_name": "ダノンキラウェア",
+      "score": 0.44880817149583696,
+      "horse_number": 10,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103060",
+      "horse_name": "ホーリーブラッサム",
+      "score": 0.3384486018273396,
+      "horse_number": 5,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110038",
+      "horse_name": "ミクストベリーズ",
+      "score": 0.25659436831383187,
+      "horse_number": 4,
+      "odds": 10.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104734",
+      "horse_name": "ワース",
+      "score": 0.19425369563484857,
+      "horse_number": 3,
+      "odds": 12.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106123",
+      "horse_name": "ガンマジーティーピ",
+      "score": 0.1354749478344107,
+      "horse_number": 7,
+      "odds": 9.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104053",
+      "horse_name": "ミトノオルフェ",
+      "score": 0.11584029483340431,
+      "horse_number": 1,
+      "odds": 6.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101557",
+      "horse_name": "パルティクラール",
+      "score": 0.07452474618178778,
+      "horse_number": 6,
+      "odds": 8.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103171",
+      "horse_name": "タイキヴァンクール",
+      "score": -0.003868145619100322,
+      "horse_number": 9,
+      "odds": 16.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019104818",
+      "horse_name": "メイケイバートン",
+      "score": -0.17907328221407473,
+      "horse_number": 8,
+      "odds": 19.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104285",
+      "horse_name": "ラーテル",
+      "score": -0.6318373387288261,
+      "horse_number": 2,
+      "odds": 71.2
+    }
+  ]
+}

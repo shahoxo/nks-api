@@ -1,0 +1,136 @@
+{
+  "race_id": "202607010310",
+  "race_name": "豊明S",
+  "race_time": "2026-03-21 14:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100204",
+      "horse_name": "ピエマンソン",
+      "score": 0.4832611822345902,
+      "horse_number": 6,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110138",
+      "horse_name": "ドラゴンテイラー",
+      "score": 0.3887396487889623,
+      "horse_number": 13,
+      "odds": 8.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019100553",
+      "horse_name": "ドンレパルス",
+      "score": 0.21241343420077924,
+      "horse_number": 1,
+      "odds": 11.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105775",
+      "horse_name": "ルージュスタニング",
+      "score": 0.14177570336879367,
+      "horse_number": 2,
+      "odds": 23.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105832",
+      "horse_name": "セギレエルビエント",
+      "score": 0.1413444787154576,
+      "horse_number": 9,
+      "odds": 12.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106328",
+      "horse_name": "クインズデネブ",
+      "score": 0.1148544597193949,
+      "horse_number": 11,
+      "odds": 24.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106594",
+      "horse_name": "ヤマニンアストロン",
+      "score": 0.07415804090171414,
+      "horse_number": 3,
+      "odds": 4.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102718",
+      "horse_name": "ノボリショウリュウ",
+      "score": 0.050941885720802944,
+      "horse_number": 16,
+      "odds": 14.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103711",
+      "horse_name": "ロサンゼルス",
+      "score": -0.14199707650518642,
+      "horse_number": 4,
+      "odds": 31.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103407",
+      "horse_name": "スリリングチェイス",
+      "score": -0.176826928413496,
+      "horse_number": 5,
+      "odds": 40.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100098",
+      "horse_name": "ベルギューン",
+      "score": -0.2924108878071554,
+      "horse_number": 8,
+      "odds": 13.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020110034",
+      "horse_name": "ハードワイヤード",
+      "score": -0.32956273617783866,
+      "horse_number": 15,
+      "odds": 86.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105379",
+      "horse_name": "ルシフェル",
+      "score": -0.4651574695157157,
+      "horse_number": 14,
+      "odds": 15.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104784",
+      "horse_name": "オペラプラージュ",
+      "score": -0.46876203131787963,
+      "horse_number": 12,
+      "odds": 72.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019110053",
+      "horse_name": "ジュタロウ",
+      "score": -0.6184834927814631,
+      "horse_number": 10,
+      "odds": 59.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103279",
+      "horse_name": "ショーモン",
+      "score": -0.7142512799918292,
+      "horse_number": 7,
+      "odds": 120.4
+    }
+  ]
+}

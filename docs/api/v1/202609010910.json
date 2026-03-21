@@ -1,0 +1,136 @@
+{
+  "race_id": "202609010910",
+  "race_name": "淀屋橋S",
+  "race_time": "2026-03-21 14:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2018100442",
+      "horse_name": "モーデン",
+      "score": 0.19004797871378137,
+      "horse_number": 9,
+      "odds": 9.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102461",
+      "horse_name": "バンドシェル",
+      "score": 0.17347031890780415,
+      "horse_number": 11,
+      "odds": 6.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020106901",
+      "horse_name": "メイショウピース",
+      "score": 0.11749369332448638,
+      "horse_number": 2,
+      "odds": 11.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110108",
+      "horse_name": "エコロジーク",
+      "score": 0.03476455747547495,
+      "horse_number": 15,
+      "odds": 8.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101443",
+      "horse_name": "サウスバンク",
+      "score": 0.0015032616705008056,
+      "horse_number": 6,
+      "odds": 6.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105202",
+      "horse_name": "ポエットリー",
+      "score": -0.08618717685394375,
+      "horse_number": 16,
+      "odds": 12.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104194",
+      "horse_name": "ルーフ",
+      "score": -0.10118311923508494,
+      "horse_number": 7,
+      "odds": 9.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105242",
+      "horse_name": "シカゴスティング",
+      "score": -0.18336645757530312,
+      "horse_number": 13,
+      "odds": 11.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102679",
+      "horse_name": "アニトラ",
+      "score": -0.24854979786071552,
+      "horse_number": 8,
+      "odds": 17.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103284",
+      "horse_name": "トールキン",
+      "score": -0.26770232466680066,
+      "horse_number": 14,
+      "odds": 43.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106666",
+      "horse_name": "ドゥアムール",
+      "score": -0.277340072002211,
+      "horse_number": 12,
+      "odds": 22.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103092",
+      "horse_name": "ナムラローズマリー",
+      "score": -0.3220255812080635,
+      "horse_number": 10,
+      "odds": 15.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019103898",
+      "horse_name": "スーサンアッシャー",
+      "score": -0.3279522458046503,
+      "horse_number": 5,
+      "odds": 29.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101382",
+      "horse_name": "ブリックワーク",
+      "score": -0.39076982238645674,
+      "horse_number": 3,
+      "odds": 21.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104941",
+      "horse_name": "セシリエプラージュ",
+      "score": -0.4352595262244301,
+      "horse_number": 4,
+      "odds": 14.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019107016",
+      "horse_name": "ウナギノボリ",
+      "score": -0.569470717884104,
+      "horse_number": 1,
+      "odds": 41.8
+    }
+  ]
+}
