@@ -1,0 +1,112 @@
+{
+  "race_id": "202607010303",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-21 10:40",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103092",
+      "horse_name": "セルジュバローズ",
+      "score": 0.1364392565590933,
+      "horse_number": 1,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103152",
+      "horse_name": "メイショウジンライ",
+      "score": 0.03585059351243774,
+      "horse_number": 7,
+      "odds": 5.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103098",
+      "horse_name": "ピースビート",
+      "score": -0.13114257214146732,
+      "horse_number": 5,
+      "odds": 31.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100404",
+      "horse_name": "ゴーレジェンド",
+      "score": -0.30767281667189167,
+      "horse_number": 13,
+      "odds": 59.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100018",
+      "horse_name": "マサノシリウス",
+      "score": -0.38659887072263766,
+      "horse_number": 3,
+      "odds": 20.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105329",
+      "horse_name": "エクストラプッシュ",
+      "score": -0.39738989036955696,
+      "horse_number": 4,
+      "odds": 11.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104395",
+      "horse_name": "レッドホット",
+      "score": -0.41189335634271484,
+      "horse_number": 11,
+      "odds": 8.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102242",
+      "horse_name": "メイショウイッカク",
+      "score": -0.5363325185210105,
+      "horse_number": 9,
+      "odds": 61.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101694",
+      "horse_name": "ケンフィールド",
+      "score": -0.554478304821026,
+      "horse_number": 6,
+      "odds": 29.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106756",
+      "horse_name": "オパールテソーロ",
+      "score": -0.6956322148371195,
+      "horse_number": 2,
+      "odds": 67.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103932",
+      "horse_name": "ロイヤルタイム",
+      "score": -0.7142512799918292,
+      "horse_number": 12,
+      "odds": 51.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106139",
+      "horse_name": "レヴロード",
+      "score": -0.7498547462216962,
+      "horse_number": 8,
+      "odds": 57.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105539",
+      "horse_name": "ツキノコブネ",
+      "score": -0.7560238565797833,
+      "horse_number": 10,
+      "odds": 120.9
+    }
+  ]
+}

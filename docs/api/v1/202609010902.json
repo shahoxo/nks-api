@@ -1,0 +1,112 @@
+{
+  "race_id": "202609010902",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-21 10:20",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102131",
+      "horse_name": "ラヴネヴァーダイズ",
+      "score": 0.06588179174466545,
+      "horse_number": 10,
+      "odds": 1.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106653",
+      "horse_name": "ローメット",
+      "score": -0.21062968818444866,
+      "horse_number": 9,
+      "odds": 16.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105457",
+      "horse_name": "ヒナタ",
+      "score": -0.2915838055185637,
+      "horse_number": 8,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104982",
+      "horse_name": "2023104982",
+      "score": -0.3748198600011041,
+      "horse_number": 1,
+      "odds": 27.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101610",
+      "horse_name": "クリコファルコン",
+      "score": -0.39949925265061725,
+      "horse_number": 2,
+      "odds": 31.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104999",
+      "horse_name": "メイショウマドンナ",
+      "score": -0.4747674487175041,
+      "horse_number": 3,
+      "odds": 15.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101949",
+      "horse_name": "2023101949",
+      "score": -0.5605472818472005,
+      "horse_number": 7,
+      "odds": 80.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102346",
+      "horse_name": "バーニングラン",
+      "score": -0.6139813350466119,
+      "horse_number": 12,
+      "odds": 89.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100806",
+      "horse_name": "マリノステアハート",
+      "score": -0.7092892104133881,
+      "horse_number": 5,
+      "odds": 71.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100850",
+      "horse_name": "エナクローム",
+      "score": -0.7212483613895885,
+      "horse_number": 11,
+      "odds": 107.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102831",
+      "horse_name": "シュネードリーム",
+      "score": -0.735775346659503,
+      "horse_number": 4,
+      "odds": 58.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104811",
+      "horse_name": "ピクシーゲイル",
+      "score": -0.7560238565797833,
+      "horse_number": 13,
+      "odds": 49.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104481",
+      "horse_name": "ナツノオジョウサマ",
+      "score": -0.7560238565797833,
+      "horse_number": 6,
+      "odds": 18.9
+    }
+  ]
+}

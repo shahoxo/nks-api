@@ -1,0 +1,104 @@
+{
+  "race_id": "202606020702",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-21 10:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101814",
+      "horse_name": "アオイミズホ",
+      "score": 0.06408316847068767,
+      "horse_number": 6,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106646",
+      "horse_name": "スカイレックス",
+      "score": -0.06101249558703404,
+      "horse_number": 3,
+      "odds": 2.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102750",
+      "horse_name": "2023102750",
+      "score": -0.11332760799967728,
+      "horse_number": 8,
+      "odds": 8.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107305",
+      "horse_name": "グラムエッジ",
+      "score": -0.18683267085262295,
+      "horse_number": 11,
+      "odds": 17.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106929",
+      "horse_name": "コウソクユノ",
+      "score": -0.2147923983084326,
+      "horse_number": 9,
+      "odds": 20.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101651",
+      "horse_name": "ランブレイ",
+      "score": -0.28006703170541425,
+      "horse_number": 12,
+      "odds": 13.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100037",
+      "horse_name": "ケイジ",
+      "score": -0.41044181872134605,
+      "horse_number": 4,
+      "odds": 22.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106562",
+      "horse_name": "2023106562",
+      "score": -0.4368344035414753,
+      "horse_number": 10,
+      "odds": 19.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106904",
+      "horse_name": "パンパネイラ",
+      "score": -0.5393606452573874,
+      "horse_number": 5,
+      "odds": 16.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102893",
+      "horse_name": "アイアムアッパレ",
+      "score": -0.5628851560431606,
+      "horse_number": 1,
+      "odds": 34.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104511",
+      "horse_name": "ゴールドフリーダム",
+      "score": -0.5906374213475926,
+      "horse_number": 2,
+      "odds": 12.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102971",
+      "horse_name": "サドルトウショウ",
+      "score": -0.7560238565797833,
+      "horse_number": 7,
+      "odds": 93.4
+    }
+  ]
+}

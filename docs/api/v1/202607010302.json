@@ -1,0 +1,136 @@
+{
+  "race_id": "202607010302",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-21 10:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105561",
+      "horse_name": "シャインフォーミー",
+      "score": 0.25714264018373817,
+      "horse_number": 16,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101143",
+      "horse_name": "ライトニングロッド",
+      "score": 0.221620487727433,
+      "horse_number": 2,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103693",
+      "horse_name": "スノーランス",
+      "score": 0.16562655281394045,
+      "horse_number": 4,
+      "odds": 4.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101500",
+      "horse_name": "クロカミジョウ",
+      "score": 0.08416951345801023,
+      "horse_number": 1,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106191",
+      "horse_name": "ムルーデ",
+      "score": -0.10405680795160598,
+      "horse_number": 15,
+      "odds": 16.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102394",
+      "horse_name": "トゥレイス",
+      "score": -0.21042079237194786,
+      "horse_number": 8,
+      "odds": 16.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100757",
+      "horse_name": "コウユーニポポニコ",
+      "score": -0.2274870513159386,
+      "horse_number": 12,
+      "odds": 38.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105737",
+      "horse_name": "エナジーアユ",
+      "score": -0.2671440660092306,
+      "horse_number": 9,
+      "odds": 34.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102176",
+      "horse_name": "スノーガーネット",
+      "score": -0.3213018828966573,
+      "horse_number": 6,
+      "odds": 55.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106786",
+      "horse_name": "ヴェルジーネ",
+      "score": -0.3319836067195474,
+      "horse_number": 10,
+      "odds": 37.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102468",
+      "horse_name": "2023102468",
+      "score": -0.35697899905018715,
+      "horse_number": 3,
+      "odds": 88.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106006",
+      "horse_name": "2023106006",
+      "score": -0.3957872878240247,
+      "horse_number": 7,
+      "odds": 34.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102448",
+      "horse_name": "タマモビスケット",
+      "score": -0.47577041354019356,
+      "horse_number": 5,
+      "odds": 29.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103779",
+      "horse_name": "トリエンナーレ",
+      "score": -0.4960190971272357,
+      "horse_number": 14,
+      "odds": 33.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101549",
+      "horse_name": "ウチュウノハナ",
+      "score": -0.49679794587460246,
+      "horse_number": 13,
+      "odds": 152.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106402",
+      "horse_name": "マドンナアスク",
+      "score": -0.7212483613895885,
+      "horse_number": 11,
+      "odds": 120.1
+    }
+  ]
+}
