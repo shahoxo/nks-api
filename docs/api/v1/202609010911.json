@@ -1,0 +1,104 @@
+{
+  "race_id": "202609010911",
+  "race_name": "若葉S",
+  "race_time": "2026-03-21 15:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105645",
+      "horse_name": "サヴォアフェール",
+      "score": 0.4027203367957739,
+      "horse_number": 7,
+      "odds": 8.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104996",
+      "horse_name": "キッコベッロ",
+      "score": 0.39914055192051756,
+      "horse_number": 12,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100946",
+      "horse_name": "マテンロウゲイル",
+      "score": 0.3837180040291337,
+      "horse_number": 1,
+      "odds": 2.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105818",
+      "horse_name": "ロードフィレール",
+      "score": 0.3750408276062024,
+      "horse_number": 9,
+      "odds": 8.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105965",
+      "horse_name": "コレオシークエンス",
+      "score": 0.3275058201272936,
+      "horse_number": 2,
+      "odds": 7.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107036",
+      "horse_name": "ショウナンバンライ",
+      "score": 0.3194546999525033,
+      "horse_number": 4,
+      "odds": 28.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107368",
+      "horse_name": "コロナドブリッジ",
+      "score": 0.29428297627794975,
+      "horse_number": 3,
+      "odds": 9.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105534",
+      "horse_name": "エイシンイグニース",
+      "score": 0.18077686868317272,
+      "horse_number": 8,
+      "odds": 32.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102810",
+      "horse_name": "エチゴドラゴン",
+      "score": 0.10115670869190596,
+      "horse_number": 5,
+      "odds": 12.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100840",
+      "horse_name": "ミリオンクラウン",
+      "score": 0.06977038391050737,
+      "horse_number": 10,
+      "odds": 123.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104492",
+      "horse_name": "ブラックハヤテ",
+      "score": -0.0539132619743128,
+      "horse_number": 6,
+      "odds": 13.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101414",
+      "horse_name": "コレデヨカロウ",
+      "score": -0.6039085659428862,
+      "horse_number": 11,
+      "odds": 149.1
+    }
+  ]
+}

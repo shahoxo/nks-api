@@ -1,0 +1,144 @@
+{
+  "race_id": "202607010311",
+  "race_name": "ファルコンS",
+  "race_time": "2026-03-21 15:20",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105685",
+      "horse_name": "ダイヤモンドノット",
+      "score": 0.48202225956352246,
+      "horse_number": 9,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103160",
+      "horse_name": "メイクワンズデイ",
+      "score": 0.17484076218719252,
+      "horse_number": 2,
+      "odds": 22.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106431",
+      "horse_name": "トライアンフパス",
+      "score": 0.15747183491400588,
+      "horse_number": 3,
+      "odds": 63.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104355",
+      "horse_name": "テルヴィセクス",
+      "score": 0.14187961800571416,
+      "horse_number": 15,
+      "odds": 59.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103162",
+      "horse_name": "タマモイカロス",
+      "score": 0.13568078148657844,
+      "horse_number": 17,
+      "odds": 13.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107520",
+      "horse_name": "プリンセスモコ",
+      "score": 0.11814041851312572,
+      "horse_number": 13,
+      "odds": 23.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103418",
+      "horse_name": "フクチャンショウ",
+      "score": 0.10053907180317416,
+      "horse_number": 7,
+      "odds": 10.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103917",
+      "horse_name": "タイセイアストロ",
+      "score": 0.09698319621668706,
+      "horse_number": 4,
+      "odds": 7.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100797",
+      "horse_name": "ハッピーエンジェル",
+      "score": 0.08148530363750142,
+      "horse_number": 6,
+      "odds": 16.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104960",
+      "horse_name": "アスミル",
+      "score": 0.052762740188013815,
+      "horse_number": 5,
+      "odds": 91.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104313",
+      "horse_name": "タガノアラリア",
+      "score": 0.021865769467801312,
+      "horse_number": 11,
+      "odds": 11.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105273",
+      "horse_name": "フォーゲル",
+      "score": -0.032354607840992124,
+      "horse_number": 14,
+      "odds": 49.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023107276",
+      "horse_name": "カフェラバー",
+      "score": -0.06995667672972358,
+      "horse_number": 1,
+      "odds": 22.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105505",
+      "horse_name": "エイシンディード",
+      "score": -0.08697393007937733,
+      "horse_number": 10,
+      "odds": 18.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023110075",
+      "horse_name": "プルヴォワール",
+      "score": -0.11608942543472837,
+      "horse_number": 12,
+      "odds": 191.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105356",
+      "horse_name": "マーゴットブロー",
+      "score": -0.12099202747085837,
+      "horse_number": 8,
+      "odds": 82.5
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023104232",
+      "horse_name": "タヤスロレンヌ",
+      "score": -0.4160662118247773,
+      "horse_number": 16,
+      "odds": 172.5
+    }
+  ]
+}

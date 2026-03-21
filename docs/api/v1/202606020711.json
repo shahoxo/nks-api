@@ -1,0 +1,136 @@
+{
+  "race_id": "202606020711",
+  "race_name": "フラワーC",
+  "race_time": "2026-03-21 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107030",
+      "horse_name": "イクシード",
+      "score": 0.4979890549575433,
+      "horse_number": 8,
+      "odds": 2.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103342",
+      "horse_name": "エアビーアゲイル",
+      "score": 0.20708454467550608,
+      "horse_number": 1,
+      "odds": 13.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105807",
+      "horse_name": "アメティスタ",
+      "score": 0.17309049821788328,
+      "horse_number": 13,
+      "odds": 6.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107353",
+      "horse_name": "コズミックボックス",
+      "score": 0.14018173379732374,
+      "horse_number": 16,
+      "odds": 52.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102091",
+      "horse_name": "クリスレジーナ",
+      "score": 0.12355849998205237,
+      "horse_number": 5,
+      "odds": 18.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105246",
+      "horse_name": "ロンギングセリーヌ",
+      "score": 0.11215345350151545,
+      "horse_number": 11,
+      "odds": 39.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107159",
+      "horse_name": "ゴディアーモ",
+      "score": 0.05627776001221857,
+      "horse_number": 3,
+      "odds": 4.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103371",
+      "horse_name": "カラペルソナ",
+      "score": 0.04875361328342655,
+      "horse_number": 14,
+      "odds": 6.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107071",
+      "horse_name": "アーリーハーベスト",
+      "score": 0.004185807806078287,
+      "horse_number": 7,
+      "odds": 70.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102584",
+      "horse_name": "ラコンチャビエン",
+      "score": -0.015233378401251864,
+      "horse_number": 6,
+      "odds": 60.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105259",
+      "horse_name": "リュクスパトロール",
+      "score": -0.06619425123869485,
+      "horse_number": 15,
+      "odds": 89.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023107079",
+      "horse_name": "スマートプリエール",
+      "score": -0.07700261812818335,
+      "horse_number": 10,
+      "odds": 14.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103885",
+      "horse_name": "ナックホワイト",
+      "score": -0.15517207634500324,
+      "horse_number": 2,
+      "odds": 96.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102906",
+      "horse_name": "バースデイフライト",
+      "score": -0.25549366209676866,
+      "horse_number": 12,
+      "odds": 68.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023107244",
+      "horse_name": "ヴィスコンテッサ",
+      "score": -0.27380761836048206,
+      "horse_number": 9,
+      "odds": 22.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106457",
+      "horse_name": "ヒルデグリム",
+      "score": -0.5904625878916535,
+      "horse_number": 4,
+      "odds": 206.9
+    }
+  ]
+}
