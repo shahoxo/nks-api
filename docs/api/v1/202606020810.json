@@ -1,0 +1,80 @@
+{
+  "race_id": "202606020810",
+  "race_name": "スピカS",
+  "race_time": "2026-03-22 14:50",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101192",
+      "horse_name": "エストゥペンダ",
+      "score": 0.35663950145768764,
+      "horse_number": 8,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105175",
+      "horse_name": "フィーリウス",
+      "score": 0.24953985786640498,
+      "horse_number": 5,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019100790",
+      "horse_name": "マイネルトルファン",
+      "score": 0.11833508588518024,
+      "horse_number": 9,
+      "odds": 17.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104813",
+      "horse_name": "ジュタ",
+      "score": -0.027060590833447924,
+      "horse_number": 4,
+      "odds": 5.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105777",
+      "horse_name": "ドゥカート",
+      "score": -0.07094540688277483,
+      "horse_number": 7,
+      "odds": 10.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105453",
+      "horse_name": "エラン",
+      "score": -0.08968217948922286,
+      "horse_number": 2,
+      "odds": 10.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100809",
+      "horse_name": "アマイ",
+      "score": -0.11367093902998791,
+      "horse_number": 1,
+      "odds": 10.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106535",
+      "horse_name": "モズロックンロール",
+      "score": -0.2483404173964657,
+      "horse_number": 6,
+      "odds": 21.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106527",
+      "horse_name": "レディベル",
+      "score": -0.3837002875175545,
+      "horse_number": 3,
+      "odds": 44.3
+    }
+  ]
+}

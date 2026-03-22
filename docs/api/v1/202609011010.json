@@ -1,0 +1,136 @@
+{
+  "race_id": "202609011010",
+  "race_name": "レグルスS",
+  "race_time": "2026-03-22 15:01",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104646",
+      "horse_name": "ジンセイ",
+      "score": 0.3819786939346439,
+      "horse_number": 11,
+      "odds": 6.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100061",
+      "horse_name": "モックモック",
+      "score": 0.3672853879326658,
+      "horse_number": 5,
+      "odds": 6.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106553",
+      "horse_name": "タガノバビロン",
+      "score": 0.364765029633091,
+      "horse_number": 7,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105630",
+      "horse_name": "ルシュヴァルドール",
+      "score": 0.2584937273349689,
+      "horse_number": 8,
+      "odds": 4.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100154",
+      "horse_name": "メイショウズイウン",
+      "score": 0.2544737569712665,
+      "horse_number": 6,
+      "odds": 17.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105639",
+      "horse_name": "ハギノサステナブル",
+      "score": 0.22334891083872094,
+      "horse_number": 9,
+      "odds": 12.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100653",
+      "horse_name": "ロードラビリンス",
+      "score": 0.16604921531723288,
+      "horse_number": 16,
+      "odds": 15.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102117",
+      "horse_name": "シュラザック",
+      "score": 0.1427454899961138,
+      "horse_number": 2,
+      "odds": 43.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105262",
+      "horse_name": "カペルブリュッケ",
+      "score": 0.060889246704905975,
+      "horse_number": 1,
+      "odds": 25.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102750",
+      "horse_name": "タイトニット",
+      "score": 0.013568111697746018,
+      "horse_number": 15,
+      "odds": 11.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101579",
+      "horse_name": "レッドプロフェシー",
+      "score": -0.00019240259676076704,
+      "horse_number": 10,
+      "odds": 29.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020110081",
+      "horse_name": "テーオーグランビル",
+      "score": -0.0019323161154486228,
+      "horse_number": 4,
+      "odds": 10.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019104089",
+      "horse_name": "メイショウユズルハ",
+      "score": -0.06635145438834232,
+      "horse_number": 14,
+      "odds": 51.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101024",
+      "horse_name": "ピースオブザライフ",
+      "score": -0.22897857740162963,
+      "horse_number": 12,
+      "odds": 86.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019105416",
+      "horse_name": "グーデンドラーク",
+      "score": -0.48347649094379974,
+      "horse_number": 3,
+      "odds": 28.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019105993",
+      "horse_name": "ラインオブソウル",
+      "score": -0.5494931663403189,
+      "horse_number": 13,
+      "odds": 68.3
+    }
+  ]
+}

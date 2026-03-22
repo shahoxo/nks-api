@@ -1,0 +1,136 @@
+{
+  "race_id": "202607010410",
+  "race_name": "弥富特別",
+  "race_time": "2026-03-22 14:40",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022107301",
+      "horse_name": "イプシロンナンバー",
+      "score": 0.10505551986498404,
+      "horse_number": 15,
+      "odds": 10.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103186",
+      "horse_name": "テーオーライマン",
+      "score": 0.0836342060210873,
+      "horse_number": 6,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105055",
+      "horse_name": "レッドボブ",
+      "score": 0.06295101591150326,
+      "horse_number": 11,
+      "odds": 11.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110135",
+      "horse_name": "ゼンエスポワール",
+      "score": 0.03791001064551183,
+      "horse_number": 10,
+      "odds": 11.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106126",
+      "horse_name": "タイセイアディクト",
+      "score": 0.031033864175878577,
+      "horse_number": 9,
+      "odds": 9.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102676",
+      "horse_name": "コーカサスゴールド",
+      "score": 0.01541045648674615,
+      "horse_number": 8,
+      "odds": 6.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106393",
+      "horse_name": "ノボリクレバー",
+      "score": 0.007842566893041102,
+      "horse_number": 12,
+      "odds": 19.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105053",
+      "horse_name": "スルーザナイト",
+      "score": -0.0019372221109839006,
+      "horse_number": 14,
+      "odds": 16.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100771",
+      "horse_name": "ジョータルマエ",
+      "score": -0.08404952834528116,
+      "horse_number": 3,
+      "odds": 8.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102595",
+      "horse_name": "バルダンツァ",
+      "score": -0.10687495927381792,
+      "horse_number": 13,
+      "odds": 11.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102436",
+      "horse_name": "レッドリベルタ",
+      "score": -0.11568709328776548,
+      "horse_number": 16,
+      "odds": 6.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100526",
+      "horse_name": "コスモコンフェルマ",
+      "score": -0.18875480286642685,
+      "horse_number": 2,
+      "odds": 20.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102077",
+      "horse_name": "シゲルカミカゼ",
+      "score": -0.4427766797910598,
+      "horse_number": 4,
+      "odds": 52.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100606",
+      "horse_name": "ベルイストワール",
+      "score": -0.5431529973283721,
+      "horse_number": 1,
+      "odds": 51.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106337",
+      "horse_name": "ダブルメッセージ",
+      "score": -0.5577691174782853,
+      "horse_number": 7,
+      "odds": 69.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2017103267",
+      "horse_name": "エクストラノート",
+      "score": -0.569470717884104,
+      "horse_number": 5,
+      "odds": 65.6
+    }
+  ]
+}
