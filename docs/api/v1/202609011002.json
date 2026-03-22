@@ -1,0 +1,112 @@
+{
+  "race_id": "202609011002",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-22 10:35",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106817",
+      "horse_name": "アルペングロー",
+      "score": 0.3524662003455301,
+      "horse_number": 3,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105508",
+      "horse_name": "エイシンリブウェル",
+      "score": 0.2595446083695795,
+      "horse_number": 4,
+      "odds": 3.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105468",
+      "horse_name": "アーサーバローズ",
+      "score": 0.039992341110964995,
+      "horse_number": 1,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102593",
+      "horse_name": "ジャスティンレビン",
+      "score": 0.01074512990538504,
+      "horse_number": 12,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107527",
+      "horse_name": "2023107527",
+      "score": -0.19410553886099438,
+      "horse_number": 2,
+      "odds": 37.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023110018",
+      "horse_name": "2023110018",
+      "score": -0.2262278024367445,
+      "horse_number": 13,
+      "odds": 35.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023110080",
+      "horse_name": "アメリカンサクラ",
+      "score": -0.2321675307819993,
+      "horse_number": 6,
+      "odds": 32.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107528",
+      "horse_name": "ブクブクー",
+      "score": -0.2865967456931884,
+      "horse_number": 5,
+      "odds": 39.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104745",
+      "horse_name": "2023104745",
+      "score": -0.409897117356591,
+      "horse_number": 7,
+      "odds": 25.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102098",
+      "horse_name": "ワールドロイヤル",
+      "score": -0.5300080494461484,
+      "horse_number": 11,
+      "odds": 15.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102061",
+      "horse_name": "メイショウゴッホ",
+      "score": -0.6546627932857848,
+      "horse_number": 10,
+      "odds": 77.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105994",
+      "horse_name": "ビップレグルス",
+      "score": -0.7212483613895885,
+      "horse_number": 9,
+      "odds": 192.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102184",
+      "horse_name": "タイキフォルティス",
+      "score": -0.7385016702365806,
+      "horse_number": 8,
+      "odds": 92.2
+    }
+  ]
+}

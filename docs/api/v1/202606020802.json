@@ -1,0 +1,128 @@
+{
+  "race_id": "202606020802",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-22 10:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101124",
+      "horse_name": "アイデアユー",
+      "score": 0.32627680860559005,
+      "horse_number": 6,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106954",
+      "horse_name": "イーグルロック",
+      "score": 0.21005392811292894,
+      "horse_number": 3,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106801",
+      "horse_name": "ラヴィニアパーク",
+      "score": -0.012080830227579513,
+      "horse_number": 7,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023110019",
+      "horse_name": "ラッキースウィッチ",
+      "score": -0.13258164310613088,
+      "horse_number": 11,
+      "odds": 10.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104671",
+      "horse_name": "ブッチギレ",
+      "score": -0.21546764260506784,
+      "horse_number": 4,
+      "odds": 43.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102319",
+      "horse_name": "ロジシーザ",
+      "score": -0.2771463725821571,
+      "horse_number": 13,
+      "odds": 31.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107394",
+      "horse_name": "イサチルシーキング",
+      "score": -0.3328049656443871,
+      "horse_number": 9,
+      "odds": 13.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023109055",
+      "horse_name": "プリンセスダーコ",
+      "score": -0.4574045295015905,
+      "horse_number": 1,
+      "odds": 21.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100737",
+      "horse_name": "トーケンジンロック",
+      "score": -0.5393606452573874,
+      "horse_number": 2,
+      "odds": 21.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104578",
+      "horse_name": "2023104578",
+      "score": -0.5427064208962835,
+      "horse_number": 12,
+      "odds": 142.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101301",
+      "horse_name": "クアッドフォルツァ",
+      "score": -0.5924572683789382,
+      "horse_number": 10,
+      "odds": 67.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101693",
+      "horse_name": "ヴァルク",
+      "score": -0.622384537432268,
+      "horse_number": 14,
+      "odds": 68.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023107188",
+      "horse_name": "シュタットパーク",
+      "score": -0.6732626067852269,
+      "horse_number": 15,
+      "odds": 37.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104737",
+      "horse_name": "レッツゴーファイト",
+      "score": -0.7498547462216962,
+      "horse_number": 8,
+      "odds": 86.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100027",
+      "horse_name": "ネオアカジョウ",
+      "score": -0.7560238565797833,
+      "horse_number": 5,
+      "odds": 231.5
+    }
+  ]
+}

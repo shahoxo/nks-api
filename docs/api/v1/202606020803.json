@@ -1,0 +1,120 @@
+{
+  "race_id": "202606020803",
+  "race_name": "3歳1勝クラス",
+  "race_time": "2026-03-22 10:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023110008",
+      "horse_name": "モーゲンセン",
+      "score": 0.3902364902042421,
+      "horse_number": 9,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023110103",
+      "horse_name": "タカスタカスタカス",
+      "score": 0.36185101335440417,
+      "horse_number": 2,
+      "odds": 4.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103341",
+      "horse_name": "エアサロメ",
+      "score": 0.24310289027092452,
+      "horse_number": 11,
+      "odds": 18.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023110090",
+      "horse_name": "エコロレーヴ",
+      "score": 0.14162659703214278,
+      "horse_number": 12,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101616",
+      "horse_name": "ファンシーズ",
+      "score": 0.12843346923426824,
+      "horse_number": 10,
+      "odds": 30.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101106",
+      "horse_name": "クイーンレグナント",
+      "score": 0.001768277539140467,
+      "horse_number": 13,
+      "odds": 17.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100095",
+      "horse_name": "ビップムーラン",
+      "score": -0.06177568043660252,
+      "horse_number": 5,
+      "odds": 29.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100583",
+      "horse_name": "フュルスティン",
+      "score": -0.09398068273442188,
+      "horse_number": 7,
+      "odds": 21.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104658",
+      "horse_name": "ライヴレッドアイ",
+      "score": -0.13020045718008955,
+      "horse_number": 8,
+      "odds": 5.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102767",
+      "horse_name": "ルクスポップスター",
+      "score": -0.1548509142248361,
+      "horse_number": 14,
+      "odds": 19.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101645",
+      "horse_name": "ヒナノムサシ",
+      "score": -0.2514857209218892,
+      "horse_number": 3,
+      "odds": 70.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106312",
+      "horse_name": "ジェイエルキャリア",
+      "score": -0.4305286942672115,
+      "horse_number": 4,
+      "odds": 40.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103968",
+      "horse_name": "タイセイエキサイト",
+      "score": -0.6092462383777489,
+      "horse_number": 1,
+      "odds": 123.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100833",
+      "horse_name": "シエルライズ",
+      "score": -0.6741248999926791,
+      "horse_number": 6,
+      "odds": 82.1
+    }
+  ]
+}

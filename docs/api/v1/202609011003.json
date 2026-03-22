@@ -1,0 +1,112 @@
+{
+  "race_id": "202609011003",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-22 11:05",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105187",
+      "horse_name": "アドフランマム",
+      "score": 0.226255982745241,
+      "horse_number": 12,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103810",
+      "horse_name": "キャッチアシーフ",
+      "score": 0.09057930749586444,
+      "horse_number": 8,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101810",
+      "horse_name": "ヴォンドゥ",
+      "score": -0.009388419972125757,
+      "horse_number": 10,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100452",
+      "horse_name": "マクアケ",
+      "score": -0.02861441795770414,
+      "horse_number": 13,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106567",
+      "horse_name": "メイショウテンジン",
+      "score": -0.21283957980920012,
+      "horse_number": 7,
+      "odds": 3.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103763",
+      "horse_name": "レガリアーナ",
+      "score": -0.4574045295015905,
+      "horse_number": 5,
+      "odds": 29.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101606",
+      "horse_name": "ダイメイプリンス",
+      "score": -0.6111465130663065,
+      "horse_number": 6,
+      "odds": 21.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023109031",
+      "horse_name": "ココソラーレ",
+      "score": -0.624201143521487,
+      "horse_number": 4,
+      "odds": 47.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105118",
+      "horse_name": "マリーイメル",
+      "score": -0.6299256088243421,
+      "horse_number": 9,
+      "odds": 45.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103054",
+      "horse_name": "ヤマトチャージ",
+      "score": -0.6967160003437562,
+      "horse_number": 3,
+      "odds": 23.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106239",
+      "horse_name": "ナムラステラ",
+      "score": -0.7212483613895885,
+      "horse_number": 2,
+      "odds": 47.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101364",
+      "horse_name": "デルマアソ",
+      "score": -0.7560238565797833,
+      "horse_number": 11,
+      "odds": 127.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100693",
+      "horse_name": "キタノローズ",
+      "score": -0.7560238565797833,
+      "horse_number": 1,
+      "odds": 53.9
+    }
+  ]
+}
