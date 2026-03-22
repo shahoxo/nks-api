@@ -1,0 +1,152 @@
+{
+  "race_id": "202607010408",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-22 13:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105557",
+      "horse_name": "エイヘンハールト",
+      "score": 0.29257823237580355,
+      "horse_number": 14,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107182",
+      "horse_name": "ディオデルマーレ",
+      "score": 0.28848164905591794,
+      "horse_number": 15,
+      "odds": 6.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102395",
+      "horse_name": "チムグクル",
+      "score": 0.246524927810226,
+      "horse_number": 12,
+      "odds": 4.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100958",
+      "horse_name": "ビッグフラワー",
+      "score": 0.16133334487638654,
+      "horse_number": 3,
+      "odds": 13.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105162",
+      "horse_name": "ルージュナリッシュ",
+      "score": 0.032139785902925974,
+      "horse_number": 7,
+      "odds": 9.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104137",
+      "horse_name": "ミエノブラボー",
+      "score": -0.0010257432059639785,
+      "horse_number": 4,
+      "odds": 11.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105529",
+      "horse_name": "ルクスノア",
+      "score": -0.02185187465933728,
+      "horse_number": 2,
+      "odds": 20.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104758",
+      "horse_name": "ゴコウサス",
+      "score": -0.04544214893219399,
+      "horse_number": 5,
+      "odds": 93.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103586",
+      "horse_name": "ガウラスパーク",
+      "score": -0.16587182839339085,
+      "horse_number": 17,
+      "odds": 35.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106729",
+      "horse_name": "ウインレオネッサ",
+      "score": -0.19952031392948966,
+      "horse_number": 18,
+      "odds": 40.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104221",
+      "horse_name": "ペイシャアーサー",
+      "score": -0.2373011560510609,
+      "horse_number": 6,
+      "odds": 21.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103150",
+      "horse_name": "ジュエルハウス",
+      "score": -0.24499513291503427,
+      "horse_number": 11,
+      "odds": 43.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104870",
+      "horse_name": "フクシマコウヨウ",
+      "score": -0.3048260467704316,
+      "horse_number": 13,
+      "odds": 52.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104198",
+      "horse_name": "シンヒダカゴールド",
+      "score": -0.33901625588862677,
+      "horse_number": 9,
+      "odds": 29.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021110079",
+      "horse_name": "ヴァイタルピース",
+      "score": -0.3537846640521536,
+      "horse_number": 16,
+      "odds": 39.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104106",
+      "horse_name": "ロンティケチャップ",
+      "score": -0.36584400376701964,
+      "horse_number": 10,
+      "odds": 20.9
+    },
+    {
+      "rank": 17,
+      "horse_id": "2021101427",
+      "horse_name": "ガーデンプランナー",
+      "score": -0.5672749854715552,
+      "horse_number": 8,
+      "odds": 100.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022103549",
+      "horse_name": "コムーネ",
+      "score": -0.588214498764502,
+      "horse_number": 1,
+      "odds": 83.3
+    }
+  ]
+}

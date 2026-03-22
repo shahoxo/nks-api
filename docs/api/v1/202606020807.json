@@ -1,0 +1,72 @@
+{
+  "race_id": "202606020807",
+  "race_name": "3歳1勝クラス",
+  "race_time": "2026-03-22 13:15",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107210",
+      "horse_name": "プラウディッツ",
+      "score": 0.453635360795809,
+      "horse_number": 4,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107250",
+      "horse_name": "ラディアントスター",
+      "score": 0.21532554100934465,
+      "horse_number": 2,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106439",
+      "horse_name": "マイネルマスター",
+      "score": -0.10694011130774231,
+      "horse_number": 6,
+      "odds": 12.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106426",
+      "horse_name": "コスモエルヴァル",
+      "score": -0.14151729875980515,
+      "horse_number": 8,
+      "odds": 25.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104156",
+      "horse_name": "グランアルト",
+      "score": -0.18119419634157863,
+      "horse_number": 3,
+      "odds": 14.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100729",
+      "horse_name": "ヘルメスギャング",
+      "score": -0.5002635857274718,
+      "horse_number": 1,
+      "odds": 43.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106694",
+      "horse_name": "ノーウェアマン",
+      "score": -0.547649904920336,
+      "horse_number": 7,
+      "odds": 21.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102281",
+      "horse_name": "フクスケ",
+      "score": -0.6997242947219148,
+      "horse_number": 5,
+      "odds": 95.3
+    }
+  ]
+}
