@@ -1,0 +1,64 @@
+{
+  "race_id": "202609020111",
+  "race_name": "毎日杯",
+  "race_time": "2026-03-28 15:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103899",
+      "horse_name": "カフジエメンタール",
+      "score": 0.3171311598147167,
+      "horse_number": 2,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103480",
+      "horse_name": "アルトラムス",
+      "score": 0.16955109816668937,
+      "horse_number": 4,
+      "odds": 2.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107228",
+      "horse_name": "ウップヘリーア",
+      "score": 0.1279410604495571,
+      "horse_number": 6,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107199",
+      "horse_name": "ローベルクランツ",
+      "score": -0.04477797395346363,
+      "horse_number": 3,
+      "odds": 5.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104414",
+      "horse_name": "シーズザスローン",
+      "score": -0.054539327874026655,
+      "horse_number": 7,
+      "odds": 15.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101577",
+      "horse_name": "フレイムスター",
+      "score": -0.06510528364711812,
+      "horse_number": 1,
+      "odds": 32.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106490",
+      "horse_name": "ブリガンティン",
+      "score": -0.2133418022153281,
+      "horse_number": 5,
+      "odds": 16.3
+    }
+  ]
+}

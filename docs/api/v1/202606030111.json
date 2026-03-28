@@ -1,0 +1,128 @@
+{
+  "race_id": "202606030111",
+  "race_name": "日経賞",
+  "race_time": "2026-03-28 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106120",
+      "horse_name": "ミクニインスパイア",
+      "score": 0.2923096341318865,
+      "horse_number": 1,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110077",
+      "horse_name": "シャイニングソード",
+      "score": 0.28518654026517737,
+      "horse_number": 10,
+      "odds": 13.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2017100464",
+      "horse_name": "エヒト",
+      "score": 0.22645539050818092,
+      "horse_number": 4,
+      "odds": 31.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104902",
+      "horse_name": "マイユニバース",
+      "score": 0.12442516339666429,
+      "horse_number": 15,
+      "odds": 6.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106954",
+      "horse_name": "アスクナイスショー",
+      "score": 0.08258237967368758,
+      "horse_number": 5,
+      "odds": 18.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105552",
+      "horse_name": "ローシャムパーク",
+      "score": 0.05744901236103883,
+      "horse_number": 14,
+      "odds": 6.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106787",
+      "horse_name": "コスモキュランダ",
+      "score": -0.04489662587261115,
+      "horse_number": 7,
+      "odds": 3.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105633",
+      "horse_name": "リビアングラス",
+      "score": -0.09831152929509744,
+      "horse_number": 6,
+      "odds": 41.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020110060",
+      "horse_name": "ホールネス",
+      "score": -0.10016950255835017,
+      "horse_number": 2,
+      "odds": 60.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018104638",
+      "horse_name": "ミステリーウェイ",
+      "score": -0.10179621444140174,
+      "horse_number": 11,
+      "odds": 21.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102870",
+      "horse_name": "ブレイヴロッカー",
+      "score": -0.19013186265122556,
+      "horse_number": 13,
+      "odds": 60.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018104609",
+      "horse_name": "チャックネイト",
+      "score": -0.19110269096120122,
+      "horse_number": 12,
+      "odds": 15.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020105781",
+      "horse_name": "マイネルケレリウス",
+      "score": -0.22716681596572952,
+      "horse_number": 9,
+      "odds": 37.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105799",
+      "horse_name": "クリスマスパレード",
+      "score": -0.2876036438736237,
+      "horse_number": 3,
+      "odds": 32.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019105775",
+      "horse_name": "ホウオウノーサイド",
+      "score": -0.4210825147579523,
+      "horse_number": 8,
+      "odds": 224.2
+    }
+  ]
+}

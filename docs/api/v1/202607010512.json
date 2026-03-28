@@ -1,0 +1,136 @@
+{
+  "race_id": "202607010512",
+  "race_name": "フィリピンT",
+  "race_time": "2026-03-28 16:01",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103525",
+      "horse_name": "ライラ",
+      "score": 0.2536323462946715,
+      "horse_number": 7,
+      "odds": 8.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105550",
+      "horse_name": "ノクナレア",
+      "score": 0.21321308163162417,
+      "horse_number": 11,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104988",
+      "horse_name": "ロンドボス",
+      "score": 0.18863551486198932,
+      "horse_number": 14,
+      "odds": 6.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104929",
+      "horse_name": "ルトゥール",
+      "score": 0.09479023918685524,
+      "horse_number": 16,
+      "odds": 18.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103278",
+      "horse_name": "メイショウミリオレ",
+      "score": 0.0924147521007891,
+      "horse_number": 8,
+      "odds": 14.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105435",
+      "horse_name": "ボンヌソワレ",
+      "score": 0.002425464092762208,
+      "horse_number": 2,
+      "odds": 4.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102729",
+      "horse_name": "インフローレ",
+      "score": -0.013606120108847276,
+      "horse_number": 13,
+      "odds": 33.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104121",
+      "horse_name": "カウンティフェア",
+      "score": -0.05067945397388964,
+      "horse_number": 1,
+      "odds": 18.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103632",
+      "horse_name": "スイミーユニバンス",
+      "score": -0.15722219076349087,
+      "horse_number": 4,
+      "odds": 14.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019106280",
+      "horse_name": "サクラオーラ",
+      "score": -0.16234811741708424,
+      "horse_number": 3,
+      "odds": 9.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101906",
+      "horse_name": "キョウエイボニータ",
+      "score": -0.19596277974806206,
+      "horse_number": 9,
+      "odds": 27.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105659",
+      "horse_name": "アムールリーベ",
+      "score": -0.2241602702948872,
+      "horse_number": 6,
+      "odds": 28.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105415",
+      "horse_name": "ドーンコーラス",
+      "score": -0.23153111040450194,
+      "horse_number": 10,
+      "odds": 31.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100642",
+      "horse_name": "キャッスルレイク",
+      "score": -0.24208673676549158,
+      "horse_number": 12,
+      "odds": 18.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106999",
+      "horse_name": "ニシノクードクール",
+      "score": -0.443857319032962,
+      "horse_number": 15,
+      "odds": 84.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104050",
+      "horse_name": "プチプラージュ",
+      "score": -0.5622852227329896,
+      "horse_number": 5,
+      "odds": 89.9
+    }
+  ]
+}

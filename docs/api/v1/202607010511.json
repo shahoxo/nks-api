@@ -1,0 +1,136 @@
+{
+  "race_id": "202607010511",
+  "race_name": "マレーシアC",
+  "race_time": "2026-03-28 15:20",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106562",
+      "horse_name": "タガノアビー",
+      "score": 0.27219042479689126,
+      "horse_number": 10,
+      "odds": 5.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101197",
+      "horse_name": "マイエレメント",
+      "score": 0.25913521331873074,
+      "horse_number": 6,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105988",
+      "horse_name": "ジーティードレス",
+      "score": 0.1806017684908078,
+      "horse_number": 7,
+      "odds": 11.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103487",
+      "horse_name": "ミッキーツインクル",
+      "score": 0.09578127548870578,
+      "horse_number": 1,
+      "odds": 9.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100201",
+      "horse_name": "コンドゥイア",
+      "score": 0.09187893885608973,
+      "horse_number": 16,
+      "odds": 21.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105157",
+      "horse_name": "ルージュソリテール",
+      "score": 0.08988211456463165,
+      "horse_number": 2,
+      "odds": 4.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102310",
+      "horse_name": "キタサンダムール",
+      "score": 0.07893951866600943,
+      "horse_number": 9,
+      "odds": 38.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100934",
+      "horse_name": "クリニクラウン",
+      "score": 0.06083083016852446,
+      "horse_number": 4,
+      "odds": 13.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100789",
+      "horse_name": "ハニーコム",
+      "score": 0.0060772799900953925,
+      "horse_number": 11,
+      "odds": 35.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105011",
+      "horse_name": "ラーンザロープス",
+      "score": 0.00022871089415545803,
+      "horse_number": 12,
+      "odds": 15.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100403",
+      "horse_name": "ウォーターガーベラ",
+      "score": -0.059993592619504744,
+      "horse_number": 8,
+      "odds": 8.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104153",
+      "horse_name": "エポックヴィーナス",
+      "score": -0.17257176519925715,
+      "horse_number": 3,
+      "odds": 21.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105121",
+      "horse_name": "ピックアチェリー",
+      "score": -0.21693180373939375,
+      "horse_number": 14,
+      "odds": 29.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105800",
+      "horse_name": "ミエスペランサ",
+      "score": -0.2229717100395769,
+      "horse_number": 15,
+      "odds": 64.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101576",
+      "horse_name": "レオテミス",
+      "score": -0.43286343568645713,
+      "horse_number": 5,
+      "odds": 44.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021105105",
+      "horse_name": "ミラビリスマジック",
+      "score": -0.49348127643182926,
+      "horse_number": 13,
+      "odds": 41.1
+    }
+  ]
+}
