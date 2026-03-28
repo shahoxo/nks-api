@@ -1,0 +1,88 @@
+{
+  "race_id": "202606030110",
+  "race_name": "伏竜S",
+  "race_time": "2026-03-28 15:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105351",
+      "horse_name": "チャーリー",
+      "score": 0.41141421640211695,
+      "horse_number": 8,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107082",
+      "horse_name": "リベッチオ",
+      "score": 0.3875257949206971,
+      "horse_number": 2,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023110038",
+      "horse_name": "ダノンバーボン",
+      "score": 0.3389876915201962,
+      "horse_number": 5,
+      "odds": 1.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101592",
+      "horse_name": "テーオーカイザー",
+      "score": 0.2609285184518846,
+      "horse_number": 6,
+      "odds": 37.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103142",
+      "horse_name": "イッテラッシャイ",
+      "score": 0.22550107067484879,
+      "horse_number": 10,
+      "odds": 14.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101148",
+      "horse_name": "ラッキーキッド",
+      "score": 0.21908961531735954,
+      "horse_number": 9,
+      "odds": 25.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101269",
+      "horse_name": "ドンエレクトス",
+      "score": 0.12721563547223508,
+      "horse_number": 1,
+      "odds": 19.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023110079",
+      "horse_name": "アメリカンスタイル",
+      "score": 0.09831616149215086,
+      "horse_number": 7,
+      "odds": 54.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106546",
+      "horse_name": "サンライズケヴィン",
+      "score": 0.07713102872038599,
+      "horse_number": 3,
+      "odds": 28.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105013",
+      "horse_name": "サンダーヴィント",
+      "score": 0.00482269226228722,
+      "horse_number": 4,
+      "odds": 76.5
+    }
+  ]
+}
