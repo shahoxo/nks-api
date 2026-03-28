@@ -1,0 +1,96 @@
+{
+  "race_id": "202609020102",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-28 10:20",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105786",
+      "horse_name": "ロードアマルフィ",
+      "score": 0.15569124510758028,
+      "horse_number": 9,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106397",
+      "horse_name": "ストロングボーイ",
+      "score": 0.05522942511822464,
+      "horse_number": 4,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104172",
+      "horse_name": "リリーサンダー",
+      "score": -0.07886212594926156,
+      "horse_number": 10,
+      "odds": 15.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100902",
+      "horse_name": "サンライズフリード",
+      "score": -0.2782822385309641,
+      "horse_number": 3,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106206",
+      "horse_name": "スズカサートゥル",
+      "score": -0.4721218657723858,
+      "horse_number": 6,
+      "odds": 46.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103682",
+      "horse_name": "コンテナヒーロー",
+      "score": -0.49308647014558815,
+      "horse_number": 8,
+      "odds": 40.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105480",
+      "horse_name": "ジュウハチキン",
+      "score": -0.5740707280774827,
+      "horse_number": 11,
+      "odds": 16.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100774",
+      "horse_name": "レグラヴィエール",
+      "score": -0.5763451076296715,
+      "horse_number": 1,
+      "odds": 49.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100645",
+      "horse_name": "トーレス",
+      "score": -0.6665961087376128,
+      "horse_number": 2,
+      "odds": 57.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100404",
+      "horse_name": "ゴーレジェンド",
+      "score": -0.7273739114969074,
+      "horse_number": 5,
+      "odds": 80.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102778",
+      "horse_name": "ハイラブレジェンド",
+      "score": -0.7560238565797833,
+      "horse_number": 7,
+      "odds": 122.2
+    }
+  ]
+}
