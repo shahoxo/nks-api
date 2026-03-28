@@ -1,0 +1,112 @@
+{
+  "race_id": "202606030107",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-28 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104512",
+      "horse_name": "タマモカンパネラ",
+      "score": 0.2119078262549012,
+      "horse_number": 10,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103785",
+      "horse_name": "マタミカンサン",
+      "score": -0.008698260366096744,
+      "horse_number": 9,
+      "odds": 4.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101250",
+      "horse_name": "ランスノーブル",
+      "score": -0.11605469223243668,
+      "horse_number": 1,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101710",
+      "horse_name": "ヒサエノオモカゲ",
+      "score": -0.12253835140218482,
+      "horse_number": 5,
+      "odds": 17.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103511",
+      "horse_name": "ノンスタンダルド",
+      "score": -0.12379368240930522,
+      "horse_number": 6,
+      "odds": 6.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104181",
+      "horse_name": "ミルキープリンセス",
+      "score": -0.1868482589593946,
+      "horse_number": 2,
+      "odds": 14.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105000",
+      "horse_name": "ミセスリリー",
+      "score": -0.2884386165068985,
+      "horse_number": 13,
+      "odds": 21.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106963",
+      "horse_name": "アンタノバラード",
+      "score": -0.42943014879617536,
+      "horse_number": 7,
+      "odds": 23.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106116",
+      "horse_name": "ラッキーダンス",
+      "score": -0.4774706807474268,
+      "horse_number": 8,
+      "odds": 18.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102349",
+      "horse_name": "ノアチュロス",
+      "score": -0.5535150524070483,
+      "horse_number": 12,
+      "odds": 60.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105116",
+      "horse_name": "マーキュリーダイム",
+      "score": -0.5759137088703242,
+      "horse_number": 11,
+      "odds": 11.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019106416",
+      "horse_name": "キセキノエンジェル",
+      "score": -0.6318373387288261,
+      "horse_number": 3,
+      "odds": 101.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101591",
+      "horse_name": "ファーマシャイン",
+      "score": -0.7344997899121097,
+      "horse_number": 4,
+      "odds": 71.4
+    }
+  ]
+}

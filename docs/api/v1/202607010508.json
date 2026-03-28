@@ -1,0 +1,128 @@
+{
+  "race_id": "202607010508",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-28 13:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106344",
+      "horse_name": "エテルニータ",
+      "score": 0.21387232362954983,
+      "horse_number": 10,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103177",
+      "horse_name": "タイキジパング",
+      "score": 0.12192706481698794,
+      "horse_number": 1,
+      "odds": 12.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106817",
+      "horse_name": "マイネルアレス",
+      "score": 0.1209037572547763,
+      "horse_number": 15,
+      "odds": 10.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101557",
+      "horse_name": "タマモランプ",
+      "score": 0.0035995185700668404,
+      "horse_number": 4,
+      "odds": 9.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102295",
+      "horse_name": "マドモアゼルアスク",
+      "score": -0.03334129663198887,
+      "horse_number": 8,
+      "odds": 8.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100099",
+      "horse_name": "クラウディアイ",
+      "score": -0.05275153545610313,
+      "horse_number": 13,
+      "odds": 6.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101608",
+      "horse_name": "オーシンエス",
+      "score": -0.15527102402097748,
+      "horse_number": 12,
+      "odds": 16.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102552",
+      "horse_name": "クラウドセイル",
+      "score": -0.24009618069250263,
+      "horse_number": 14,
+      "odds": 25.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103278",
+      "horse_name": "ホウオウタイタン",
+      "score": -0.2679029641245612,
+      "horse_number": 5,
+      "odds": 8.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101562",
+      "horse_name": "ダイシンラー",
+      "score": -0.370392222456388,
+      "horse_number": 6,
+      "odds": 15.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106326",
+      "horse_name": "ウィアステーラ",
+      "score": -0.39766950513869836,
+      "horse_number": 11,
+      "odds": 52.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104719",
+      "horse_name": "ダノンカゼルタ",
+      "score": -0.41059871967984873,
+      "horse_number": 9,
+      "odds": 16.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105598",
+      "horse_name": "リアルショット",
+      "score": -0.4499051595382023,
+      "horse_number": 2,
+      "odds": 87.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103509",
+      "horse_name": "シュードタキライト",
+      "score": -0.563358009153262,
+      "horse_number": 7,
+      "odds": 60.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106790",
+      "horse_name": "ケアンズ",
+      "score": -0.5945546677764488,
+      "horse_number": 3,
+      "odds": 86.9
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202609020107",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-28 13:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102388",
+      "horse_name": "ヒミノエトワール",
+      "score": 0.2607868363196823,
+      "horse_number": 9,
+      "odds": 2.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101126",
+      "horse_name": "ルクスコスモス",
+      "score": 0.19669520450214215,
+      "horse_number": 4,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020100683",
+      "horse_name": "カフェノワール",
+      "score": 0.180879665727046,
+      "horse_number": 7,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102952",
+      "horse_name": "ユージュアーナ",
+      "score": -0.010070596664100987,
+      "horse_number": 6,
+      "odds": 13.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105976",
+      "horse_name": "ローマンレイク",
+      "score": -0.08013182791820125,
+      "horse_number": 8,
+      "odds": 27.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106332",
+      "horse_name": "ミルミナーヴァ",
+      "score": -0.1466469084712688,
+      "horse_number": 1,
+      "odds": 10.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106185",
+      "horse_name": "ラグナトーレ",
+      "score": -0.16594158942411352,
+      "horse_number": 10,
+      "odds": 8.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104317",
+      "horse_name": "ミサビスケッツ",
+      "score": -0.20807369482663876,
+      "horse_number": 2,
+      "odds": 14.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100652",
+      "horse_name": "ラピダリア",
+      "score": -0.23438294043484886,
+      "horse_number": 11,
+      "odds": 51.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103075",
+      "horse_name": "メイショウヤマモモ",
+      "score": -0.33390554479541423,
+      "horse_number": 12,
+      "odds": 35.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101920",
+      "horse_name": "メラヴィリオーザ",
+      "score": -0.5298248958867509,
+      "horse_number": 3,
+      "odds": 16.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102998",
+      "horse_name": "アーブルラーブル",
+      "score": -0.700999851469308,
+      "horse_number": 5,
+      "odds": 24.4
+    }
+  ]
+}

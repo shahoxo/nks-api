@@ -1,0 +1,136 @@
+{
+  "race_id": "202607010507",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-28 13:00",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104824",
+      "horse_name": "エンベッカ",
+      "score": 0.20568165303284802,
+      "horse_number": 10,
+      "odds": 8.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106616",
+      "horse_name": "キスアンドクライ",
+      "score": 0.1808392134058167,
+      "horse_number": 1,
+      "odds": 7.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105715",
+      "horse_name": "ジョワイユノエル",
+      "score": 0.09652095685658027,
+      "horse_number": 8,
+      "odds": 7.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106741",
+      "horse_name": "メイリー",
+      "score": 0.0952410512484005,
+      "horse_number": 4,
+      "odds": 20.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105022",
+      "horse_name": "グローブアマランス",
+      "score": 0.09427206692073953,
+      "horse_number": 5,
+      "odds": 5.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104242",
+      "horse_name": "ショウナンラウール",
+      "score": 0.07005225558966245,
+      "horse_number": 11,
+      "odds": 16.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104710",
+      "horse_name": "ムーンライトラガー",
+      "score": 0.059702677867780905,
+      "horse_number": 14,
+      "odds": 4.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105289",
+      "horse_name": "オタルグリーン",
+      "score": 0.023519346442627487,
+      "horse_number": 15,
+      "odds": 17.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104990",
+      "horse_name": "マリーヌ",
+      "score": -0.13051589544159495,
+      "horse_number": 3,
+      "odds": 37.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104905",
+      "horse_name": "チリーゴールド",
+      "score": -0.18854847303368047,
+      "horse_number": 9,
+      "odds": 15.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106796",
+      "horse_name": "レモンバーム",
+      "score": -0.2316844568860015,
+      "horse_number": 16,
+      "odds": 10.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104179",
+      "horse_name": "ツインピークス",
+      "score": -0.453734498625574,
+      "horse_number": 2,
+      "odds": 15.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104918",
+      "horse_name": "シャーリーゴールド",
+      "score": -0.4850745931560396,
+      "horse_number": 6,
+      "odds": 44.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103006",
+      "horse_name": "ヒルノセビリア",
+      "score": -0.5485661685169994,
+      "horse_number": 7,
+      "odds": 82.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103236",
+      "horse_name": "コンバットペスカ",
+      "score": -0.5788895145460236,
+      "horse_number": 13,
+      "odds": 0.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106409",
+      "horse_name": "バーニングフレーム",
+      "score": -0.6318373387288261,
+      "horse_number": 12,
+      "odds": 187.1
+    }
+  ]
+}
