@@ -1,0 +1,152 @@
+{
+  "race_id": "202607010611",
+  "race_name": "高松宮記念",
+  "race_time": "2026-03-29 15:40",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019105394",
+      "horse_name": "ママコチャ",
+      "score": 0.34237411473759166,
+      "horse_number": 10,
+      "odds": 8.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101732",
+      "horse_name": "パンジャタワー",
+      "score": 0.31744775674222286,
+      "horse_number": 1,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2017101429",
+      "horse_name": "ウインカーネリアン",
+      "score": 0.26823411771839456,
+      "horse_number": 8,
+      "odds": 18.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019101700",
+      "horse_name": "サトノレーヴ",
+      "score": 0.2679371018697317,
+      "horse_number": 9,
+      "odds": 4.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019103753",
+      "horse_name": "ナムラクレア",
+      "score": 0.21652820373855108,
+      "horse_number": 13,
+      "odds": 3.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100935",
+      "horse_name": "ララマセラシオン",
+      "score": 0.14310154313677784,
+      "horse_number": 11,
+      "odds": 46.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103066",
+      "horse_name": "レイピア",
+      "score": 0.14025836295316557,
+      "horse_number": 14,
+      "odds": 17.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019105859",
+      "horse_name": "エーティーマクフィ",
+      "score": 0.1368901992365369,
+      "horse_number": 3,
+      "odds": 20.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021110099",
+      "horse_name": "ジューンブレア",
+      "score": 0.10400610366768324,
+      "horse_number": 18,
+      "odds": 15.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018106055",
+      "horse_name": "ヨシノイースター",
+      "score": 0.051488682217628486,
+      "horse_number": 7,
+      "odds": 69.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105496",
+      "horse_name": "レッドモンレーヴ",
+      "score": 0.04733748955311623,
+      "horse_number": 6,
+      "odds": 53.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106601",
+      "horse_name": "ヤマニンアルリフラ",
+      "score": 0.022345321187639454,
+      "horse_number": 5,
+      "odds": 39.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102320",
+      "horse_name": "ペアポルックス",
+      "score": -0.05518802952104616,
+      "horse_number": 17,
+      "odds": 36.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100896",
+      "horse_name": "ビッグシーザー",
+      "score": -0.0747008554253458,
+      "horse_number": 2,
+      "odds": 52.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021105774",
+      "horse_name": "ダノンマッキンリー",
+      "score": -0.13945220030638247,
+      "horse_number": 4,
+      "odds": 62.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021101924",
+      "horse_name": "フィオライア",
+      "score": -0.16798819217864303,
+      "horse_number": 16,
+      "odds": 97.8
+    },
+    {
+      "rank": 17,
+      "horse_id": "2021110164",
+      "horse_name": "インビンシブルパパ",
+      "score": -0.18898141042339708,
+      "horse_number": 15,
+      "odds": 24.2
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021107058",
+      "horse_name": "ピューロマジック",
+      "score": -0.22051037927102557,
+      "horse_number": 12,
+      "odds": 95.4
+    }
+  ]
+}

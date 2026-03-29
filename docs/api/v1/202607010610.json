@@ -1,0 +1,128 @@
+{
+  "race_id": "202607010610",
+  "race_name": "伊勢S",
+  "race_time": "2026-03-29 15:01",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110121",
+      "horse_name": "ゴールデンクラウド",
+      "score": 0.28409549702671355,
+      "horse_number": 8,
+      "odds": 2.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102228",
+      "horse_name": "テーオーマルコーニ",
+      "score": 0.2696053062910153,
+      "horse_number": 14,
+      "odds": 9.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105073",
+      "horse_name": "パカーラン",
+      "score": 0.2538693805400904,
+      "horse_number": 10,
+      "odds": 6.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102062",
+      "horse_name": "ミライヘノカギ",
+      "score": 0.23214350083529403,
+      "horse_number": 15,
+      "odds": 10.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019102143",
+      "horse_name": "フルオール",
+      "score": 0.1238705797231855,
+      "horse_number": 12,
+      "odds": 19.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104411",
+      "horse_name": "マイノワール",
+      "score": 0.09598597390798418,
+      "horse_number": 13,
+      "odds": 13.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021107192",
+      "horse_name": "アラレタバシル",
+      "score": 0.06860678344409178,
+      "horse_number": 4,
+      "odds": 8.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105750",
+      "horse_name": "アルゴナヴィス",
+      "score": 0.004904719413257869,
+      "horse_number": 1,
+      "odds": 24.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104995",
+      "horse_name": "エレクトリックブギ",
+      "score": -0.06510500450702719,
+      "horse_number": 11,
+      "odds": 77.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100709",
+      "horse_name": "カネトシゴウト",
+      "score": -0.13866711925742434,
+      "horse_number": 7,
+      "odds": 20.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103197",
+      "horse_name": "タマモキャリコ",
+      "score": -0.1577261510332475,
+      "horse_number": 5,
+      "odds": 38.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101147",
+      "horse_name": "グロバーテソーロ",
+      "score": -0.44430186766560187,
+      "horse_number": 6,
+      "odds": 101.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101209",
+      "horse_name": "メイショウオーロラ",
+      "score": -0.45276667166340334,
+      "horse_number": 2,
+      "odds": 112.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100260",
+      "horse_name": "エイブラムス",
+      "score": -0.45745472759673067,
+      "horse_number": 9,
+      "odds": 74.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019102983",
+      "horse_name": "キュールエフウジン",
+      "score": -0.5119443587993998,
+      "horse_number": 3,
+      "odds": 122.9
+    }
+  ]
+}

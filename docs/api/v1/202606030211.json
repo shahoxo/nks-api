@@ -1,0 +1,136 @@
+{
+  "race_id": "202606030211",
+  "race_name": "マーチS",
+  "race_time": "2026-03-29 15:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020100116",
+      "horse_name": "アクションプラン",
+      "score": 0.16204580284438116,
+      "horse_number": 7,
+      "odds": 7.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019105604",
+      "horse_name": "ブレイクフォース",
+      "score": 0.14313594108605224,
+      "horse_number": 4,
+      "odds": 11.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103717",
+      "horse_name": "レヴォントゥレット",
+      "score": 0.12724701027500865,
+      "horse_number": 5,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104136",
+      "horse_name": "サンデーファンデー",
+      "score": 0.06881076916436248,
+      "horse_number": 15,
+      "odds": 11.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019100630",
+      "horse_name": "ハピ",
+      "score": 0.021049660324200598,
+      "horse_number": 1,
+      "odds": 0.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102904",
+      "horse_name": "オメガギネス",
+      "score": 0.005113422893770349,
+      "horse_number": 9,
+      "odds": 5.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102874",
+      "horse_name": "ハナウマビーチ",
+      "score": -0.025580629255833834,
+      "horse_number": 12,
+      "odds": 22.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019104245",
+      "horse_name": "ペイシャエス",
+      "score": -0.04757226362132636,
+      "horse_number": 11,
+      "odds": 18.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102280",
+      "horse_name": "チュウワクリスエス",
+      "score": -0.07168980301167222,
+      "horse_number": 14,
+      "odds": 7.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106610",
+      "horse_name": "バスタードサフラン",
+      "score": -0.10351678961172184,
+      "horse_number": 10,
+      "odds": 71.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018105431",
+      "horse_name": "ミッキーヌチバナ",
+      "score": -0.11133739275982396,
+      "horse_number": 13,
+      "odds": 13.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103148",
+      "horse_name": "ショウナンライシン",
+      "score": -0.15785336968776373,
+      "horse_number": 3,
+      "odds": 64.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105546",
+      "horse_name": "マテンロウスカイ",
+      "score": -0.17669990834710522,
+      "horse_number": 2,
+      "odds": 10.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102437",
+      "horse_name": "ヴァルツァーシャル",
+      "score": -0.2234144818533527,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021107001",
+      "horse_name": "ピュアキアン",
+      "score": -0.2260380109791662,
+      "horse_number": 8,
+      "odds": 50.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103043",
+      "horse_name": "コレペティトール",
+      "score": -0.551798231469883,
+      "horse_number": 16,
+      "odds": 81.1
+    }
+  ]
+}

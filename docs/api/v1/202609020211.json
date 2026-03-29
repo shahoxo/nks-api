@@ -1,0 +1,112 @@
+{
+  "race_id": "202609020211",
+  "race_name": "六甲S",
+  "race_time": "2026-03-29 15:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105117",
+      "horse_name": "ベラジオボンド",
+      "score": 0.22792259466104575,
+      "horse_number": 6,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105283",
+      "horse_name": "ブルーミンデザイン",
+      "score": 0.1644357144591142,
+      "horse_number": 9,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2018105454",
+      "horse_name": "グレイイングリーン",
+      "score": 0.13077734245039707,
+      "horse_number": 12,
+      "odds": 11.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102625",
+      "horse_name": "アクートゥス",
+      "score": -0.03507914442391953,
+      "horse_number": 4,
+      "odds": 21.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020107001",
+      "horse_name": "キョウエイブリッサ",
+      "score": -0.06593410266076487,
+      "horse_number": 5,
+      "odds": 6.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019104850",
+      "horse_name": "バレエマスター",
+      "score": -0.08484546491054969,
+      "horse_number": 13,
+      "odds": 39.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018106318",
+      "horse_name": "メイショウシンタケ",
+      "score": -0.09471109704748207,
+      "horse_number": 3,
+      "odds": 12.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100139",
+      "horse_name": "クランフォード",
+      "score": -0.13392410074623934,
+      "horse_number": 7,
+      "odds": 9.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020110133",
+      "horse_name": "フロムダスク",
+      "score": -0.17368017460344734,
+      "horse_number": 10,
+      "odds": 32.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019104756",
+      "horse_name": "オニャンコポン",
+      "score": -0.28247227495843735,
+      "horse_number": 8,
+      "odds": 11.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105071",
+      "horse_name": "ショウナンザナドゥ",
+      "score": -0.39121127939556577,
+      "horse_number": 2,
+      "odds": 12.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105482",
+      "horse_name": "アサヒ",
+      "score": -0.40888188949906523,
+      "horse_number": 11,
+      "odds": 55.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2017104172",
+      "horse_name": "メイショウチタン",
+      "score": -0.42838511761895337,
+      "horse_number": 1,
+      "odds": 23.8
+    }
+  ]
+}
