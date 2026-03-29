@@ -1,0 +1,136 @@
+{
+  "race_id": "202609020212",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-03-29 16:01",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021100158",
+      "horse_name": "ダノンモンテローザ",
+      "score": 0.12773277035711056,
+      "horse_number": 4,
+      "odds": 10.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110111",
+      "horse_name": "ジャスパーソレイユ",
+      "score": 0.050342278145507985,
+      "horse_number": 15,
+      "odds": 10.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105584",
+      "horse_name": "ツーネサーン",
+      "score": 0.03653187791585021,
+      "horse_number": 8,
+      "odds": 8.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104839",
+      "horse_name": "プレアデスグループ",
+      "score": -0.013810957158260802,
+      "horse_number": 13,
+      "odds": 11.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101557",
+      "horse_name": "アスタールフナ",
+      "score": -0.028707544235640262,
+      "horse_number": 5,
+      "odds": 4.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106453",
+      "horse_name": "ハリーケーン",
+      "score": -0.08810375734285084,
+      "horse_number": 10,
+      "odds": 8.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105753",
+      "horse_name": "フェンダー",
+      "score": -0.10705667143187982,
+      "horse_number": 12,
+      "odds": 18.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105957",
+      "horse_name": "ダズリングダンス",
+      "score": -0.13598380907919688,
+      "horse_number": 2,
+      "odds": 26.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105965",
+      "horse_name": "ドンパッショーネ",
+      "score": -0.16904465193730434,
+      "horse_number": 16,
+      "odds": 5.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106698",
+      "horse_name": "バンディート",
+      "score": -0.1733337091637633,
+      "horse_number": 7,
+      "odds": 10.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102966",
+      "horse_name": "サンダーロード",
+      "score": -0.2239189587251697,
+      "horse_number": 6,
+      "odds": 27.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019102321",
+      "horse_name": "キングクー",
+      "score": -0.23408469006002058,
+      "horse_number": 11,
+      "odds": 43.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105711",
+      "horse_name": "ズバットマサムネ",
+      "score": -0.2622177879148389,
+      "horse_number": 9,
+      "odds": 45.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103819",
+      "horse_name": "ストームバンガード",
+      "score": -0.5470264755512747,
+      "horse_number": 1,
+      "odds": 50.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018104534",
+      "horse_name": "アスクキングコング",
+      "score": -0.5529868887808679,
+      "horse_number": 14,
+      "odds": 83.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104960",
+      "horse_name": "トロピカルヒーロー",
+      "score": -0.5530974180867849,
+      "horse_number": 3,
+      "odds": 94.9
+    }
+  ]
+}

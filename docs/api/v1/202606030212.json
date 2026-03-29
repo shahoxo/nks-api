@@ -1,0 +1,96 @@
+{
+  "race_id": "202606030212",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-03-29 16:10",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102421",
+      "horse_name": "ビービーエフォート",
+      "score": 0.23472737763910234,
+      "horse_number": 9,
+      "odds": 4.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101290",
+      "horse_name": "マリノトニトゥルス",
+      "score": 0.07925106828842038,
+      "horse_number": 7,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102635",
+      "horse_name": "バンブルビー",
+      "score": -0.013639573599654935,
+      "horse_number": 2,
+      "odds": 4.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019103996",
+      "horse_name": "タイキエクセロン",
+      "score": -0.020217305136191813,
+      "horse_number": 8,
+      "odds": 21.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105833",
+      "horse_name": "カリーシ",
+      "score": -0.15094511269409136,
+      "horse_number": 5,
+      "odds": 13.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020102535",
+      "horse_name": "トーセントラム",
+      "score": -0.20524630709701,
+      "horse_number": 10,
+      "odds": 14.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101595",
+      "horse_name": "ヴィヴァクラウン",
+      "score": -0.22610656608906024,
+      "horse_number": 6,
+      "odds": 3.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106559",
+      "horse_name": "クインズスピカ",
+      "score": -0.23856707507237043,
+      "horse_number": 1,
+      "odds": 37.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018103485",
+      "horse_name": "ジャガード",
+      "score": -0.339662975954938,
+      "horse_number": 4,
+      "odds": 49.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101469",
+      "horse_name": "ヴェナートル",
+      "score": -0.47862254462953796,
+      "horse_number": 3,
+      "odds": 15.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103947",
+      "horse_name": "ルクスレゼルヴァ",
+      "score": -0.5461482439231121,
+      "horse_number": 11,
+      "odds": 13.9
+    }
+  ]
+}
