@@ -1,0 +1,120 @@
+{
+  "race_id": "202607010602",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-03-29 10:35",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102452",
+      "horse_name": "コスモブラック",
+      "score": 0.3105377625734379,
+      "horse_number": 10,
+      "odds": 2.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023110068",
+      "horse_name": "マテンロウアワー",
+      "score": 0.04201159936819754,
+      "horse_number": 8,
+      "odds": 2.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023110031",
+      "horse_name": "マイカラー",
+      "score": -0.10694974248906411,
+      "horse_number": 12,
+      "odds": 22.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101721",
+      "horse_name": "ノリノドラゴン",
+      "score": -0.15293770092868555,
+      "horse_number": 13,
+      "odds": 7.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106565",
+      "horse_name": "メイショウハチマキ",
+      "score": -0.23167717389650852,
+      "horse_number": 9,
+      "odds": 51.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023110082",
+      "horse_name": "2023110082",
+      "score": -0.3707920463471597,
+      "horse_number": 6,
+      "odds": 38.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106564",
+      "horse_name": "メイショウペイト",
+      "score": -0.38659887072263766,
+      "horse_number": 1,
+      "odds": 37.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107531",
+      "horse_name": "ジャスパーレオン",
+      "score": -0.4308653717997716,
+      "horse_number": 3,
+      "odds": 44.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106562",
+      "horse_name": "2023106562",
+      "score": -0.47293600501096866,
+      "horse_number": 11,
+      "odds": 91.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101948",
+      "horse_name": "キーサーバー",
+      "score": -0.49924943822226875,
+      "horse_number": 2,
+      "odds": 37.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100770",
+      "horse_name": "チェストー",
+      "score": -0.5117090863559145,
+      "horse_number": 7,
+      "odds": 21.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105779",
+      "horse_name": "カシノスパーク",
+      "score": -0.5679670300894952,
+      "horse_number": 14,
+      "odds": 23.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105722",
+      "horse_name": "ロードエルドラド",
+      "score": -0.6668471881249025,
+      "horse_number": 5,
+      "odds": 93.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101735",
+      "horse_name": "リントゥラウル",
+      "score": -0.7385016702365806,
+      "horse_number": 4,
+      "odds": 10.9
+    }
+  ]
+}
