@@ -1,0 +1,112 @@
+{
+  "race_id": "202607010607",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-29 13:25",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102906",
+      "horse_name": "オリジナルファイン",
+      "score": 0.11380330788248101,
+      "horse_number": 5,
+      "odds": 7.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100358",
+      "horse_name": "アイブリンク",
+      "score": 0.06432583773179598,
+      "horse_number": 12,
+      "odds": 7.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105685",
+      "horse_name": "ディペンダブル",
+      "score": 0.06214037542601414,
+      "horse_number": 4,
+      "odds": 6.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100439",
+      "horse_name": "ハギノコラソン",
+      "score": 0.0095356060883214,
+      "horse_number": 3,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101580",
+      "horse_name": "ビジュードネージュ",
+      "score": -0.0712497304310101,
+      "horse_number": 11,
+      "odds": 27.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105968",
+      "horse_name": "グランシャット",
+      "score": -0.2945029129383867,
+      "horse_number": 8,
+      "odds": 40.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104965",
+      "horse_name": "ミラクルダンサー",
+      "score": -0.2983224026181154,
+      "horse_number": 1,
+      "odds": 14.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105982",
+      "horse_name": "ラルガメンテ",
+      "score": -0.31403737677940746,
+      "horse_number": 7,
+      "odds": 12.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100604",
+      "horse_name": "ナムラルッコラ",
+      "score": -0.46036811186331594,
+      "horse_number": 13,
+      "odds": 6.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104754",
+      "horse_name": "ベルフィーヌ",
+      "score": -0.4617094385688225,
+      "horse_number": 2,
+      "odds": 8.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102768",
+      "horse_name": "メイショウウメゴチ",
+      "score": -0.46621248389855285,
+      "horse_number": 6,
+      "odds": 35.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103193",
+      "horse_name": "メイショウバスク",
+      "score": -0.546058992754817,
+      "horse_number": 9,
+      "odds": 27.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106419",
+      "horse_name": "ココボロ",
+      "score": -0.6318373387288261,
+      "horse_number": 10,
+      "odds": 104.9
+    }
+  ]
+}

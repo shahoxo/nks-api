@@ -1,0 +1,128 @@
+{
+  "race_id": "202609020209",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-29 14:05",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101397",
+      "horse_name": "ブルースバローズ",
+      "score": 0.11061298171388562,
+      "horse_number": 8,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019104261",
+      "horse_name": "メイショウオグマ",
+      "score": 0.11046878512344219,
+      "horse_number": 1,
+      "odds": 4.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103775",
+      "horse_name": "テイエムパイロット",
+      "score": -0.15960832997508115,
+      "horse_number": 14,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104222",
+      "horse_name": "リアルフォルゴーレ",
+      "score": -0.23156529819825422,
+      "horse_number": 7,
+      "odds": 15.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104496",
+      "horse_name": "スコーピオンイメル",
+      "score": -0.4134208490119843,
+      "horse_number": 11,
+      "odds": 8.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106177",
+      "horse_name": "バルミラクル",
+      "score": -0.4179972030650503,
+      "horse_number": 9,
+      "odds": 9.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106663",
+      "horse_name": "バレンシア",
+      "score": -0.45020232972186724,
+      "horse_number": 2,
+      "odds": 7.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104385",
+      "horse_name": "ラマヌジャン",
+      "score": -0.46159941174015806,
+      "horse_number": 12,
+      "odds": 43.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104872",
+      "horse_name": "アラバンサ",
+      "score": -0.5409049914905244,
+      "horse_number": 5,
+      "odds": 48.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104413",
+      "horse_name": "マハートマーベル",
+      "score": -0.5449552747690097,
+      "horse_number": 10,
+      "odds": 13.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102273",
+      "horse_name": "ムーンスカイ",
+      "score": -0.5449552747690097,
+      "horse_number": 3,
+      "odds": 44.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104872",
+      "horse_name": "ビルンバウム",
+      "score": -0.5520003421025013,
+      "horse_number": 15,
+      "odds": 14.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100695",
+      "horse_name": "ヴェストラン",
+      "score": -0.6134644907562206,
+      "horse_number": 6,
+      "odds": 40.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017103384",
+      "horse_name": "ヤマカツレオン",
+      "score": -0.6238516222815199,
+      "horse_number": 4,
+      "odds": 29.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104310",
+      "horse_name": "コパノアルベール",
+      "score": -0.6318373387288261,
+      "horse_number": 13,
+      "odds": 57.6
+    }
+  ]
+}

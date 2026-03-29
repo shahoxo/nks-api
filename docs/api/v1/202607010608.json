@@ -1,0 +1,64 @@
+{
+  "race_id": "202607010608",
+  "race_name": "大寒桜賞",
+  "race_time": "2026-03-29 13:55",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106560",
+      "horse_name": "メイショウナルカミ",
+      "score": 0.4402833405762324,
+      "horse_number": 2,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107101",
+      "horse_name": "ダノンハドソン",
+      "score": 0.3389876915201962,
+      "horse_number": 5,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105337",
+      "horse_name": "ボンドマティーニ",
+      "score": 0.2775920515108024,
+      "horse_number": 1,
+      "odds": 3.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106614",
+      "horse_name": "レッドリガーレ",
+      "score": 0.054414307307849685,
+      "horse_number": 6,
+      "odds": 8.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103897",
+      "horse_name": "ショウグンマサムネ",
+      "score": -0.028722296511717635,
+      "horse_number": 3,
+      "odds": 12.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106469",
+      "horse_name": "スタニングレディ",
+      "score": -0.1113208409703785,
+      "horse_number": 4,
+      "odds": 18.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100627",
+      "horse_name": "テルヒコウ",
+      "score": -0.12313223747718693,
+      "horse_number": 7,
+      "odds": 5.0
+    }
+  ]
+}

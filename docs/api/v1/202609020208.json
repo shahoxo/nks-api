@@ -1,0 +1,64 @@
+{
+  "race_id": "202609020208",
+  "race_name": "四国新聞杯",
+  "race_time": "2026-03-29 13:35",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101454",
+      "horse_name": "ステラクラウン",
+      "score": 0.23338442524504294,
+      "horse_number": 5,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105166",
+      "horse_name": "ヨヒーン",
+      "score": 0.08105293516703367,
+      "horse_number": 2,
+      "odds": 9.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105102",
+      "horse_name": "スターリングアップ",
+      "score": 0.016198180307703536,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104914",
+      "horse_name": "キタサンハナビラ",
+      "score": -0.030041258853952695,
+      "horse_number": 7,
+      "odds": 8.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105032",
+      "horse_name": "エバーグルーヴ",
+      "score": -0.04406676610537508,
+      "horse_number": 3,
+      "odds": 10.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101116",
+      "horse_name": "エコテーラー",
+      "score": -0.19942217640152102,
+      "horse_number": 4,
+      "odds": 12.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101434",
+      "horse_name": "ハミング",
+      "score": -0.31688421222371665,
+      "horse_number": 1,
+      "odds": 15.7
+    }
+  ]
+}

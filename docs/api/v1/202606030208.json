@@ -1,0 +1,136 @@
+{
+  "race_id": "202606030208",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-03-29 13:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104619",
+      "horse_name": "ヘルヴェティオス",
+      "score": 0.33422763896213226,
+      "horse_number": 3,
+      "odds": 4.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104678",
+      "horse_name": "エルムラント",
+      "score": 0.17432719881915965,
+      "horse_number": 4,
+      "odds": 8.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019106520",
+      "horse_name": "スノーホルンロード",
+      "score": 0.1301386654525159,
+      "horse_number": 16,
+      "odds": 8.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100050",
+      "horse_name": "ガンハンマー",
+      "score": -0.05738932394163429,
+      "horse_number": 9,
+      "odds": 21.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100574",
+      "horse_name": "ルイステソーロ",
+      "score": -0.10298343893031346,
+      "horse_number": 5,
+      "odds": 3.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105376",
+      "horse_name": "ティピティーナ",
+      "score": -0.12697808247955172,
+      "horse_number": 8,
+      "odds": 9.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100582",
+      "horse_name": "プルシャプラ",
+      "score": -0.44057791124692136,
+      "horse_number": 1,
+      "odds": 22.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103343",
+      "horse_name": "ハヌル",
+      "score": -0.46038178916438544,
+      "horse_number": 11,
+      "odds": 60.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021109088",
+      "horse_name": "アルニラム",
+      "score": -0.463185550766127,
+      "horse_number": 10,
+      "odds": 43.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103342",
+      "horse_name": "カルフ",
+      "score": -0.4679815782058948,
+      "horse_number": 13,
+      "odds": 13.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106767",
+      "horse_name": "ミッシオーネ",
+      "score": -0.5488310238833476,
+      "horse_number": 15,
+      "odds": 21.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106243",
+      "horse_name": "サヨノジャンボリー",
+      "score": -0.6213444465193375,
+      "horse_number": 12,
+      "odds": 18.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105609",
+      "horse_name": "ライヴドライバー",
+      "score": -0.6213444465193375,
+      "horse_number": 2,
+      "odds": 37.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021107012",
+      "horse_name": "キングプロフィット",
+      "score": -0.6231610526085567,
+      "horse_number": 14,
+      "odds": 77.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101363",
+      "horse_name": "アイランドピーク",
+      "score": -0.6293301629666437,
+      "horse_number": 7,
+      "odds": 61.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105909",
+      "horse_name": "アースミューズ",
+      "score": -0.6293301629666437,
+      "horse_number": 6,
+      "odds": 51.7
+    }
+  ]
+}
