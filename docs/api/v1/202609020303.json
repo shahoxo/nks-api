@@ -1,0 +1,120 @@
+{
+  "race_id": "202609020303",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-04 10:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105294",
+      "horse_name": "グリーンゴー",
+      "score": 0.47905813187501434,
+      "horse_number": 13,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105638",
+      "horse_name": "マーゴットバディ",
+      "score": 0.2201274179392252,
+      "horse_number": 6,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105789",
+      "horse_name": "ドンテスタマスター",
+      "score": 0.18076988655454881,
+      "horse_number": 4,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103245",
+      "horse_name": "ゴンタ",
+      "score": -0.141654255469074,
+      "horse_number": 11,
+      "odds": 21.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101234",
+      "horse_name": "2023101234",
+      "score": -0.17135769290594272,
+      "horse_number": 12,
+      "odds": 33.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102844",
+      "horse_name": "テーオータウンズ",
+      "score": -0.3879062377477539,
+      "horse_number": 3,
+      "odds": 26.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104070",
+      "horse_name": "2023104070",
+      "score": -0.4162731225899137,
+      "horse_number": 5,
+      "odds": 88.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102773",
+      "horse_name": "ハイビッグゴールド",
+      "score": -0.5020144381058731,
+      "horse_number": 7,
+      "odds": 22.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102242",
+      "horse_name": "メイショウイッカク",
+      "score": -0.5140378630183393,
+      "horse_number": 10,
+      "odds": 33.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100984",
+      "horse_name": "2023100984",
+      "score": -0.5605472818472005,
+      "horse_number": 2,
+      "odds": 85.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107466",
+      "horse_name": "2023107466",
+      "score": -0.5605472818472005,
+      "horse_number": 1,
+      "odds": 39.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104922",
+      "horse_name": "バンブラボー",
+      "score": -0.5670515164495529,
+      "horse_number": 14,
+      "odds": 39.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102524",
+      "horse_name": "レットフィールマン",
+      "score": -0.622384537432268,
+      "horse_number": 8,
+      "odds": 38.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103599",
+      "horse_name": "ファイヤーナイフ",
+      "score": -0.6558506860683125,
+      "horse_number": 9,
+      "odds": 78.8
+    }
+  ]
+}
