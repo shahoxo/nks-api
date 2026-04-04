@@ -1,0 +1,136 @@
+{
+  "race_id": "202606030311",
+  "race_name": "ダービーCT",
+  "race_time": "2026-04-04 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104893",
+      "horse_name": "ファーヴェント",
+      "score": 0.24343106492265215,
+      "horse_number": 8,
+      "odds": 6.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105454",
+      "horse_name": "ブエナオンダ",
+      "score": 0.12104747338008316,
+      "horse_number": 5,
+      "odds": 12.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019100318",
+      "horse_name": "ケイアイセナ",
+      "score": 0.10146347254181448,
+      "horse_number": 10,
+      "odds": 9.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105230",
+      "horse_name": "ミニトランザット",
+      "score": 0.07182074539883113,
+      "horse_number": 2,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019105118",
+      "horse_name": "ジュンブロッサム",
+      "score": 0.05529733027776592,
+      "horse_number": 14,
+      "odds": 19.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104697",
+      "horse_name": "イミグラントソング",
+      "score": 0.04121077766366213,
+      "horse_number": 13,
+      "odds": 12.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018101343",
+      "horse_name": "ゾンニッヒ",
+      "score": 0.010313397598883844,
+      "horse_number": 1,
+      "odds": 13.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106691",
+      "horse_name": "エンペラーズソード",
+      "score": -0.03402543979881536,
+      "horse_number": 3,
+      "odds": 15.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018105610",
+      "horse_name": "ダディーズビビッド",
+      "score": -0.07850401388337935,
+      "horse_number": 12,
+      "odds": 110.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101772",
+      "horse_name": "メタルスピード",
+      "score": -0.08780683975866217,
+      "horse_number": 4,
+      "odds": 7.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105018",
+      "horse_name": "スズハローム",
+      "score": -0.1427206579088961,
+      "horse_number": 11,
+      "odds": 20.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104094",
+      "horse_name": "シリウスコルト",
+      "score": -0.17392609494225258,
+      "horse_number": 15,
+      "odds": 10.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019104838",
+      "horse_name": "サイルーン",
+      "score": -0.17881244676993865,
+      "horse_number": 16,
+      "odds": 14.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018100184",
+      "horse_name": "タイムトゥヘヴン",
+      "score": -0.21179913505198725,
+      "horse_number": 7,
+      "odds": 24.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019100965",
+      "horse_name": "マテンロウオリオン",
+      "score": -0.2663104018291773,
+      "horse_number": 6,
+      "odds": 12.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105295",
+      "horse_name": "エエヤン",
+      "score": -0.5873115138314651,
+      "horse_number": 9,
+      "odds": 71.0
+    }
+  ]
+}
