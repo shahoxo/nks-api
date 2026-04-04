@@ -1,0 +1,80 @@
+{
+  "race_id": "202609020308",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-04-04 13:40",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105718",
+      "horse_name": "リリーフィールド",
+      "score": 0.04552325940049688,
+      "horse_number": 7,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106555",
+      "horse_name": "タガノアンファン",
+      "score": 0.021105047105629583,
+      "horse_number": 1,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100962",
+      "horse_name": "クイーンズデイ",
+      "score": 0.017652871195424042,
+      "horse_number": 6,
+      "odds": 8.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021110119",
+      "horse_name": "サンドロナイト",
+      "score": -0.03518938984444717,
+      "horse_number": 9,
+      "odds": 6.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105409",
+      "horse_name": "ディアドコス",
+      "score": -0.049050521559752605,
+      "horse_number": 2,
+      "odds": 3.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105958",
+      "horse_name": "ブリーズオンチーク",
+      "score": -0.15644563988457724,
+      "horse_number": 3,
+      "odds": 34.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019100566",
+      "horse_name": "ミロワール",
+      "score": -0.24224335533072128,
+      "horse_number": 5,
+      "odds": 22.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105779",
+      "horse_name": "レッドセニョール",
+      "score": -0.25197543454176996,
+      "horse_number": 4,
+      "odds": 28.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104387",
+      "horse_name": "キントラダンサー",
+      "score": -0.26152018818986417,
+      "horse_number": 8,
+      "odds": 9.7
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202606030307",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-04 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105064",
+      "horse_name": "マリアイリダータ",
+      "score": 0.33837209582072475,
+      "horse_number": 1,
+      "odds": 2.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105796",
+      "horse_name": "アリスメティーク",
+      "score": 0.30632389225621415,
+      "horse_number": 7,
+      "odds": 7.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105131",
+      "horse_name": "キューティリップ",
+      "score": 0.10964258119474138,
+      "horse_number": 10,
+      "odds": 5.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106068",
+      "horse_name": "パストラーレ",
+      "score": 0.07648390660695135,
+      "horse_number": 8,
+      "odds": 8.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105063",
+      "horse_name": "ロジャリーマイン",
+      "score": -0.06955863147433194,
+      "horse_number": 2,
+      "odds": 6.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102745",
+      "horse_name": "ベネスピラ",
+      "score": -0.09218932157358531,
+      "horse_number": 9,
+      "odds": 22.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104931",
+      "horse_name": "ルージュカエラ",
+      "score": -0.1669811439630789,
+      "horse_number": 5,
+      "odds": 28.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100724",
+      "horse_name": "ニシノエピカリ",
+      "score": -0.4717562806893172,
+      "horse_number": 4,
+      "odds": 15.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102260",
+      "horse_name": "ジェシーテソーロ",
+      "score": -0.4739826643801416,
+      "horse_number": 6,
+      "odds": 36.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104533",
+      "horse_name": "チョングク",
+      "score": -0.5938962629264705,
+      "horse_number": 3,
+      "odds": 50.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106807",
+      "horse_name": "マイネルイグザルト",
+      "score": -0.5994974314314968,
+      "horse_number": 12,
+      "odds": 53.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106218",
+      "horse_name": "ウインファヴォリ",
+      "score": -0.6068367102441051,
+      "horse_number": 11,
+      "odds": 32.1
+    }
+  ]
+}

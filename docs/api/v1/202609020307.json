@@ -1,0 +1,80 @@
+{
+  "race_id": "202609020307",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-04 13:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110012",
+      "horse_name": "アークドール",
+      "score": 0.18084413409481787,
+      "horse_number": 5,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102710",
+      "horse_name": "エイユーファイヤー",
+      "score": 0.055033394939622324,
+      "horse_number": 4,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104654",
+      "horse_name": "ジーティーアメリカ",
+      "score": -0.16646526910337733,
+      "horse_number": 8,
+      "odds": 3.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103625",
+      "horse_name": "ゴルデールスカー",
+      "score": -0.19717639485815447,
+      "horse_number": 6,
+      "odds": 13.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104474",
+      "horse_name": "ハイグッドワールド",
+      "score": -0.29993030341458005,
+      "horse_number": 7,
+      "odds": 22.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105177",
+      "horse_name": "グリプトグラフィ",
+      "score": -0.3008318127824387,
+      "horse_number": 2,
+      "odds": 17.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103682",
+      "horse_name": "マジックブルー",
+      "score": -0.4489769864612828,
+      "horse_number": 3,
+      "odds": 11.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106631",
+      "horse_name": "バシリス",
+      "score": -0.5223693359466597,
+      "horse_number": 9,
+      "odds": 5.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100081",
+      "horse_name": "アカツキロットリー",
+      "score": -0.5756804866807193,
+      "horse_number": 1,
+      "odds": 68.3
+    }
+  ]
+}

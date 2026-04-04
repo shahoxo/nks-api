@@ -1,0 +1,112 @@
+{
+  "race_id": "202606030306",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-04 12:55",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107331",
+      "horse_name": "ヴァンデスペランス",
+      "score": 0.1294559137562815,
+      "horse_number": 4,
+      "odds": 2.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100734",
+      "horse_name": "ウインドオブヘヴン",
+      "score": 0.021420941037833024,
+      "horse_number": 13,
+      "odds": 11.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104398",
+      "horse_name": "アビヤント",
+      "score": -0.031455649219315,
+      "horse_number": 8,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102504",
+      "horse_name": "セーヌデローヴ",
+      "score": -0.14583070567941014,
+      "horse_number": 5,
+      "odds": 18.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105439",
+      "horse_name": "カシマライフウ",
+      "score": -0.2507646860267183,
+      "horse_number": 10,
+      "odds": 5.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100419",
+      "horse_name": "メディチパワー",
+      "score": -0.4164964341014039,
+      "horse_number": 7,
+      "odds": 18.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106316",
+      "horse_name": "2023106316",
+      "score": -0.5605472818472005,
+      "horse_number": 12,
+      "odds": 23.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101301",
+      "horse_name": "クアッドフォルツァ",
+      "score": -0.5924572683789382,
+      "horse_number": 3,
+      "odds": 9.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101578",
+      "horse_name": "コパノミラノ",
+      "score": -0.596593617549952,
+      "horse_number": 1,
+      "odds": 25.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106587",
+      "horse_name": "ストーリーオブラブ",
+      "score": -0.6067743528788597,
+      "horse_number": 9,
+      "odds": 58.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104273",
+      "horse_name": "トランセンコ",
+      "score": -0.630370253879574,
+      "horse_number": 6,
+      "odds": 69.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023109058",
+      "horse_name": "マツリダシリウス",
+      "score": -0.6518943205472477,
+      "horse_number": 11,
+      "odds": 26.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106449",
+      "horse_name": "2023106449",
+      "score": -0.700999851469308,
+      "horse_number": 2,
+      "odds": 45.3
+    }
+  ]
+}
