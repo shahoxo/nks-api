@@ -1,0 +1,112 @@
+{
+  "race_id": "202606030309",
+  "race_name": "山吹賞",
+  "race_time": "2026-04-04 14:31",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105338",
+      "horse_name": "トップオブザライン",
+      "score": 0.24773651533832913,
+      "horse_number": 11,
+      "odds": 34.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103391",
+      "horse_name": "ブラウンバナナ",
+      "score": 0.22814967095876199,
+      "horse_number": 1,
+      "odds": 8.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107163",
+      "horse_name": "レイヒストリコ",
+      "score": 0.22809339465784317,
+      "horse_number": 5,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104361",
+      "horse_name": "ヤマニンヘルシェ",
+      "score": 0.22568612432558238,
+      "horse_number": 3,
+      "odds": 25.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101382",
+      "horse_name": "ドッグウッド",
+      "score": 0.20245074700095744,
+      "horse_number": 8,
+      "odds": 10.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107032",
+      "horse_name": "イモータリス",
+      "score": 0.18983949080521056,
+      "horse_number": 13,
+      "odds": 5.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102707",
+      "horse_name": "ヨカオウ",
+      "score": 0.13529057850323492,
+      "horse_number": 7,
+      "odds": 8.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105354",
+      "horse_name": "バリオス",
+      "score": 0.12894701635448697,
+      "horse_number": 10,
+      "odds": 8.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103351",
+      "horse_name": "グレーヌドジョワ",
+      "score": 0.08115793486302496,
+      "horse_number": 2,
+      "odds": 48.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100814",
+      "horse_name": "クラウンインジエア",
+      "score": 0.04770288586230845,
+      "horse_number": 9,
+      "odds": 11.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103468",
+      "horse_name": "ポッドクロス",
+      "score": -0.023666869165282437,
+      "horse_number": 4,
+      "odds": 6.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105433",
+      "horse_name": "モウエエデショー",
+      "score": -0.2061917988887049,
+      "horse_number": 6,
+      "odds": 10.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103824",
+      "horse_name": "ケントン",
+      "score": -0.5315860437089933,
+      "horse_number": 12,
+      "odds": 57.1
+    }
+  ]
+}
