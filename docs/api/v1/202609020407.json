@@ -1,0 +1,128 @@
+{
+  "race_id": "202609020407",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-04-05 13:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105021",
+      "horse_name": "マテンロウブレイブ",
+      "score": 0.2446621275173559,
+      "horse_number": 13,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105022",
+      "horse_name": "ライノ",
+      "score": 0.24154731633364213,
+      "horse_number": 8,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103002",
+      "horse_name": "アラナコア",
+      "score": 0.19072039278387815,
+      "horse_number": 11,
+      "odds": 5.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105885",
+      "horse_name": "ショーダンサー",
+      "score": 0.09182012718270008,
+      "horse_number": 3,
+      "odds": 9.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019105277",
+      "horse_name": "リアド",
+      "score": 0.055119290427178336,
+      "horse_number": 4,
+      "odds": 27.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103733",
+      "horse_name": "スーパージョック",
+      "score": 0.0431507338336218,
+      "horse_number": 2,
+      "odds": 15.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102572",
+      "horse_name": "メイショウオオコ",
+      "score": -0.007594660467660381,
+      "horse_number": 1,
+      "odds": 27.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105611",
+      "horse_name": "ワイドクリーガー",
+      "score": -0.056128920677979616,
+      "horse_number": 6,
+      "odds": 21.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105552",
+      "horse_name": "ナグルファル",
+      "score": -0.11030312229736391,
+      "horse_number": 10,
+      "odds": 12.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105984",
+      "horse_name": "モモンウールー",
+      "score": -0.13637090945023317,
+      "horse_number": 15,
+      "odds": 16.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102436",
+      "horse_name": "レッドリベルタ",
+      "score": -0.17532702624506524,
+      "horse_number": 14,
+      "odds": 15.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2017103184",
+      "horse_name": "トゥルブレンシア",
+      "score": -0.26648897271330174,
+      "horse_number": 7,
+      "odds": 41.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100873",
+      "horse_name": "アオイミモザ",
+      "score": -0.2971193702548375,
+      "horse_number": 9,
+      "odds": 23.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106359",
+      "horse_name": "バトンインディ",
+      "score": -0.43836990005507004,
+      "horse_number": 5,
+      "odds": 12.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100604",
+      "horse_name": "テーオーレガシー",
+      "score": -0.5586599667319991,
+      "horse_number": 12,
+      "odds": 27.9
+    }
+  ]
+}

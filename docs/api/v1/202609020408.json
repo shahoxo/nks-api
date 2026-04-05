@@ -1,0 +1,96 @@
+{
+  "race_id": "202609020408",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-04-05 13:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105886",
+      "horse_name": "ホウオウトランプ",
+      "score": 0.5012761816902382,
+      "horse_number": 10,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106322",
+      "horse_name": "フェアリーライク",
+      "score": 0.23767912795317125,
+      "horse_number": 9,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104715",
+      "horse_name": "ジーティーマン",
+      "score": 0.16582459627919874,
+      "horse_number": 2,
+      "odds": 3.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104832",
+      "horse_name": "モアリジット",
+      "score": 0.02459415915597341,
+      "horse_number": 4,
+      "odds": 10.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106760",
+      "horse_name": "マイネルフルムーン",
+      "score": -0.012781489975810372,
+      "horse_number": 3,
+      "odds": 7.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110078",
+      "horse_name": "オメガインペリアル",
+      "score": -0.08021457272518041,
+      "horse_number": 1,
+      "odds": 17.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103651",
+      "horse_name": "ツーエムクロノス",
+      "score": -0.0953942299287053,
+      "horse_number": 5,
+      "odds": 14.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103821",
+      "horse_name": "ハイディージェン",
+      "score": -0.3188660965290572,
+      "horse_number": 7,
+      "odds": 42.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101031",
+      "horse_name": "アスクエピソード",
+      "score": -0.3805859214685934,
+      "horse_number": 8,
+      "odds": 42.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106413",
+      "horse_name": "レッドバレンティア",
+      "score": -0.48903789658855057,
+      "horse_number": 6,
+      "odds": 31.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101261",
+      "horse_name": "コスモスプモーニ",
+      "score": -0.5466155802032451,
+      "horse_number": 11,
+      "odds": 61.8
+    }
+  ]
+}

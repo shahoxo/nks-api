@@ -1,0 +1,136 @@
+{
+  "race_id": "202606030408",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-05 13:40",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106669",
+      "horse_name": "パシーヴ",
+      "score": 0.1506849395336003,
+      "horse_number": 9,
+      "odds": 7.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020106771",
+      "horse_name": "トモジャシーマ",
+      "score": 0.08496319171256757,
+      "horse_number": 6,
+      "odds": 6.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101141",
+      "horse_name": "ガンバレベアー",
+      "score": 0.08291911842623106,
+      "horse_number": 15,
+      "odds": 9.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104221",
+      "horse_name": "ペイシャアーサー",
+      "score": -0.13288310618914365,
+      "horse_number": 1,
+      "odds": 8.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105668",
+      "horse_name": "バスターコール",
+      "score": -0.14506670470815444,
+      "horse_number": 7,
+      "odds": 18.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022110126",
+      "horse_name": "エコロカディス",
+      "score": -0.17544369930637743,
+      "horse_number": 12,
+      "odds": 4.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100757",
+      "horse_name": "イノキ",
+      "score": -0.20423286690962664,
+      "horse_number": 5,
+      "odds": 19.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103472",
+      "horse_name": "キョウエイスレーヴ",
+      "score": -0.22571128161172294,
+      "horse_number": 16,
+      "odds": 7.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103577",
+      "horse_name": "リッキースタイル",
+      "score": -0.2649546821359715,
+      "horse_number": 4,
+      "odds": 10.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100737",
+      "horse_name": "セイウンビッグバン",
+      "score": -0.3219572910932599,
+      "horse_number": 10,
+      "odds": 32.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101987",
+      "horse_name": "シルバードン",
+      "score": -0.34078961691717563,
+      "horse_number": 13,
+      "odds": 42.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103332",
+      "horse_name": "アイスブレイカー",
+      "score": -0.3512949157900632,
+      "horse_number": 8,
+      "odds": 42.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105917",
+      "horse_name": "アルナイル",
+      "score": -0.3572465347884383,
+      "horse_number": 2,
+      "odds": 21.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103482",
+      "horse_name": "ウインドファルクス",
+      "score": -0.4051275111346715,
+      "horse_number": 3,
+      "odds": 53.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100506",
+      "horse_name": "キングクレオール",
+      "score": -0.6293301629666437,
+      "horse_number": 11,
+      "odds": 57.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104437",
+      "horse_name": "ジャーニーメモリー",
+      "score": -0.7344997899121097,
+      "horse_number": 14,
+      "odds": 41.4
+    }
+  ]
+}
