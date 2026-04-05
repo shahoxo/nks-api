@@ -1,0 +1,136 @@
+{
+  "race_id": "202606030411",
+  "race_name": "美浦S",
+  "race_time": "2026-04-05 15:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105503",
+      "horse_name": "クルミナーレ",
+      "score": 0.3014787871706077,
+      "horse_number": 8,
+      "odds": 5.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103693",
+      "horse_name": "フレーヴァード",
+      "score": 0.24071178184980863,
+      "horse_number": 7,
+      "odds": 9.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105454",
+      "horse_name": "シャドウメテオ",
+      "score": 0.18692496814015797,
+      "horse_number": 1,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106595",
+      "horse_name": "ヤマニンアドホック",
+      "score": 0.14230400203246152,
+      "horse_number": 4,
+      "odds": 5.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102982",
+      "horse_name": "ダンツファイター",
+      "score": 0.12483282067746337,
+      "horse_number": 11,
+      "odds": 14.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104813",
+      "horse_name": "ジュタ",
+      "score": 0.043318359572855236,
+      "horse_number": 14,
+      "odds": 6.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106811",
+      "horse_name": "タイキラフター",
+      "score": -0.024746081822363306,
+      "horse_number": 10,
+      "odds": 11.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105777",
+      "horse_name": "ドゥカート",
+      "score": -0.055130965484612535,
+      "horse_number": 3,
+      "odds": 20.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103168",
+      "horse_name": "トーアライデン",
+      "score": -0.06634253821140687,
+      "horse_number": 13,
+      "odds": 56.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100809",
+      "horse_name": "アマイ",
+      "score": -0.11178804332622176,
+      "horse_number": 15,
+      "odds": 38.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103928",
+      "horse_name": "ホウオウスーペリア",
+      "score": -0.13652445828263476,
+      "horse_number": 12,
+      "odds": 25.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101329",
+      "horse_name": "フクノブルーレイク",
+      "score": -0.23472844468673065,
+      "horse_number": 6,
+      "odds": 12.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104297",
+      "horse_name": "ルクスビッグスター",
+      "score": -0.26900383037418163,
+      "horse_number": 2,
+      "odds": 56.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105609",
+      "horse_name": "スパークリシャール",
+      "score": -0.3182499598927018,
+      "horse_number": 5,
+      "odds": 15.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021105746",
+      "horse_name": "アルトゥーム",
+      "score": -0.3209495805049377,
+      "horse_number": 16,
+      "odds": 44.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019100768",
+      "horse_name": "マイネルニコラス",
+      "score": -0.3966907551330507,
+      "horse_number": 9,
+      "odds": 89.9
+    }
+  ]
+}
