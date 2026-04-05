@@ -1,0 +1,136 @@
+{
+  "race_id": "202609020412",
+  "race_name": "天満橋S",
+  "race_time": "2026-04-05 16:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110077",
+      "horse_name": "イリフィ",
+      "score": 0.4789110859659511,
+      "horse_number": 14,
+      "odds": 10.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101543",
+      "horse_name": "ルークススペイ",
+      "score": 0.4447425657395369,
+      "horse_number": 16,
+      "odds": 7.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020104893",
+      "horse_name": "セミマル",
+      "score": 0.212234318186947,
+      "horse_number": 12,
+      "odds": 9.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106920",
+      "horse_name": "ニューオーリンズ",
+      "score": 0.15635486391200162,
+      "horse_number": 5,
+      "odds": 6.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104398",
+      "horse_name": "タマモティーカップ",
+      "score": 0.12151125336211868,
+      "horse_number": 15,
+      "odds": 4.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103684",
+      "horse_name": "ゲイルライダー",
+      "score": 0.057770409332509216,
+      "horse_number": 4,
+      "odds": 7.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106757",
+      "horse_name": "リネアグローリア",
+      "score": 0.04256195426922109,
+      "horse_number": 13,
+      "odds": 23.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018101989",
+      "horse_name": "ジョディーズマロン",
+      "score": -0.036697769405982426,
+      "horse_number": 10,
+      "odds": 32.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020110120",
+      "horse_name": "ガンウルフ",
+      "score": -0.04079612507397736,
+      "horse_number": 11,
+      "odds": 20.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105696",
+      "horse_name": "サヴォンリンナ",
+      "score": -0.047953783030109595,
+      "horse_number": 2,
+      "odds": 28.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105598",
+      "horse_name": "ダノンスウィッチ",
+      "score": -0.0571985690805148,
+      "horse_number": 9,
+      "odds": 12.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102468",
+      "horse_name": "トーセンサウダージ",
+      "score": -0.0753884961314594,
+      "horse_number": 6,
+      "odds": 53.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104332",
+      "horse_name": "ルミノメテオール",
+      "score": -0.1254060707744514,
+      "horse_number": 3,
+      "odds": 33.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101808",
+      "horse_name": "ハワイアンタイム",
+      "score": -0.12560447371606417,
+      "horse_number": 8,
+      "odds": 37.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020105539",
+      "horse_name": "タガノシャーンス",
+      "score": -0.19305559406846753,
+      "horse_number": 7,
+      "odds": 15.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020100665",
+      "horse_name": "ジャスパーバローズ",
+      "score": -0.23642474542140643,
+      "horse_number": 1,
+      "odds": 49.5
+    }
+  ]
+}
