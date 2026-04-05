@@ -1,0 +1,112 @@
+{
+  "race_id": "202609020402",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-05 10:35",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102582",
+      "horse_name": "テイエムスターラン",
+      "score": 0.06615403267239868,
+      "horse_number": 4,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104674",
+      "horse_name": "タイセイサーブル",
+      "score": -0.004255246300263291,
+      "horse_number": 13,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106804",
+      "horse_name": "アウトリュコス",
+      "score": -0.05192567921354946,
+      "horse_number": 7,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023110031",
+      "horse_name": "マイカラー",
+      "score": -0.07900992965666251,
+      "horse_number": 1,
+      "odds": 5.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104613",
+      "horse_name": "2023104613",
+      "score": -0.22929543974372818,
+      "horse_number": 9,
+      "odds": 11.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106643",
+      "horse_name": "グンバイ",
+      "score": -0.5641607127905538,
+      "horse_number": 5,
+      "odds": 25.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102930",
+      "horse_name": "サイモンゴージャス",
+      "score": -0.5817419874124277,
+      "horse_number": 10,
+      "odds": 49.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103890",
+      "horse_name": "カフジミモレット",
+      "score": -0.5856513299489949,
+      "horse_number": 8,
+      "odds": 8.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104012",
+      "horse_name": "キタノアンドレイ",
+      "score": -0.6028557547896995,
+      "horse_number": 11,
+      "odds": 10.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101412",
+      "horse_name": "クリコバロー",
+      "score": -0.6501741187446226,
+      "horse_number": 3,
+      "odds": 41.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106139",
+      "horse_name": "レヴロード",
+      "score": -0.6560407786597128,
+      "horse_number": 12,
+      "odds": 37.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100604",
+      "horse_name": "ショウナンアワード",
+      "score": -0.6732626067852269,
+      "horse_number": 6,
+      "odds": 37.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102959",
+      "horse_name": "ヒロノフウジン",
+      "score": -0.7212483613895885,
+      "horse_number": 2,
+      "odds": 58.2
+    }
+  ]
+}

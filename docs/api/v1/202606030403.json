@@ -1,0 +1,136 @@
+{
+  "race_id": "202606030403",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-05 10:50",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101813",
+      "horse_name": "ミスターキャンベラ",
+      "score": 0.28791544263064595,
+      "horse_number": 7,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106060",
+      "horse_name": "モロノカガヤキ",
+      "score": 0.1337729622665818,
+      "horse_number": 4,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023110018",
+      "horse_name": "2023110018",
+      "score": -0.1515323641661285,
+      "horse_number": 13,
+      "odds": 19.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104671",
+      "horse_name": "ブッチギレ",
+      "score": -0.250796444754197,
+      "horse_number": 2,
+      "odds": 27.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106687",
+      "horse_name": "ヒャクレツケン",
+      "score": -0.29540852094526915,
+      "horse_number": 6,
+      "odds": 38.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100178",
+      "horse_name": "モズラストセール",
+      "score": -0.4530426498486433,
+      "horse_number": 16,
+      "odds": 37.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103830",
+      "horse_name": "ブルーアンビエンス",
+      "score": -0.518940836992556,
+      "horse_number": 5,
+      "odds": 27.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105779",
+      "horse_name": "カシノスパーク",
+      "score": -0.5679670300894952,
+      "horse_number": 8,
+      "odds": 16.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106452",
+      "horse_name": "コスモラムバック",
+      "score": -0.5750695508822783,
+      "horse_number": 11,
+      "odds": 14.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106198",
+      "horse_name": "パワポケグッド",
+      "score": -0.6518943205472477,
+      "horse_number": 10,
+      "odds": 104.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106308",
+      "horse_name": "ダイユウアドバンス",
+      "score": -0.6518943205472477,
+      "horse_number": 15,
+      "odds": 93.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106347",
+      "horse_name": "エルドラド",
+      "score": -0.6518943205472477,
+      "horse_number": 12,
+      "odds": 86.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104625",
+      "horse_name": "2023104625",
+      "score": -0.6543632925823613,
+      "horse_number": 9,
+      "odds": 80.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102935",
+      "horse_name": "ニケフェリーチェ",
+      "score": -0.7212483613895885,
+      "horse_number": 3,
+      "odds": 92.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101482",
+      "horse_name": "カンフーヒーロー",
+      "score": -0.7560238565797833,
+      "horse_number": 14,
+      "odds": 65.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104811",
+      "horse_name": "ピクシーゲイル",
+      "score": -0.7560238565797833,
+      "horse_number": 1,
+      "odds": 85.9
+    }
+  ]
+}
