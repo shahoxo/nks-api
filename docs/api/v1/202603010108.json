@@ -1,0 +1,136 @@
+{
+  "race_id": "202603010108",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-11 13:35",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020106930",
+      "horse_name": "シャーンゴッセ",
+      "score": 0.17849501471067653,
+      "horse_number": 16,
+      "odds": 5.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103513",
+      "horse_name": "ナンヨークリスタル",
+      "score": -0.027929018790674137,
+      "horse_number": 15,
+      "odds": 17.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110110",
+      "horse_name": "エコロレオナ",
+      "score": -0.08882597564364844,
+      "horse_number": 9,
+      "odds": 21.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105705",
+      "horse_name": "バルジール",
+      "score": -0.11128236150291619,
+      "horse_number": 3,
+      "odds": 20.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104370",
+      "horse_name": "マカニ",
+      "score": -0.1270534826064484,
+      "horse_number": 13,
+      "odds": 16.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020104913",
+      "horse_name": "グランデスフィーダ",
+      "score": -0.14176538455984347,
+      "horse_number": 6,
+      "odds": 6.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102993",
+      "horse_name": "ヒラボクカレラ",
+      "score": -0.1617500549931795,
+      "horse_number": 12,
+      "odds": 7.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101521",
+      "horse_name": "グッドヴァイブス",
+      "score": -0.17248736895972236,
+      "horse_number": 7,
+      "odds": 16.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106582",
+      "horse_name": "ケイアイマウンガ",
+      "score": -0.3740516010230174,
+      "horse_number": 8,
+      "odds": 4.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102841",
+      "horse_name": "メイショウハボマイ",
+      "score": -0.437046374605666,
+      "horse_number": 5,
+      "odds": 35.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101418",
+      "horse_name": "レストプレドゥモア",
+      "score": -0.4438921761378225,
+      "horse_number": 14,
+      "odds": 15.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102567",
+      "horse_name": "オロパタジン",
+      "score": -0.5672551594159656,
+      "horse_number": 1,
+      "odds": 20.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101265",
+      "horse_name": "オコジュ",
+      "score": -0.5672749854715552,
+      "horse_number": 4,
+      "odds": 22.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102701",
+      "horse_name": "サイコウダネ",
+      "score": -0.5672749854715552,
+      "horse_number": 11,
+      "odds": 43.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106429",
+      "horse_name": "ノーブルミステリー",
+      "score": -0.5702140779713731,
+      "horse_number": 2,
+      "odds": 32.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104499",
+      "horse_name": "リアンエターナル",
+      "score": -0.585102692562431,
+      "horse_number": 10,
+      "odds": 35.3
+    }
+  ]
+}

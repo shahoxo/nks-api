@@ -1,0 +1,96 @@
+{
+  "race_id": "202609020507",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-11 13:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105238",
+      "horse_name": "アリストクラシア",
+      "score": 0.13176116566654028,
+      "horse_number": 11,
+      "odds": 6.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102308",
+      "horse_name": "エアニゲラ",
+      "score": 0.07159179298358312,
+      "horse_number": 3,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100439",
+      "horse_name": "ハギノコラソン",
+      "score": 0.061466501956398065,
+      "horse_number": 5,
+      "odds": 3.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105857",
+      "horse_name": "ウィンターガーデン",
+      "score": 0.019442559954153216,
+      "horse_number": 6,
+      "odds": 10.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105343",
+      "horse_name": "デルマサクラサク",
+      "score": -0.13019832963926004,
+      "horse_number": 8,
+      "odds": 8.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105954",
+      "horse_name": "コンテナライン",
+      "score": -0.15843750155796155,
+      "horse_number": 4,
+      "odds": 25.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101718",
+      "horse_name": "ピコラ",
+      "score": -0.30446344496040195,
+      "horse_number": 7,
+      "odds": 22.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102986",
+      "horse_name": "シゲルオトヒメ",
+      "score": -0.4013322735847521,
+      "horse_number": 1,
+      "odds": 11.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100604",
+      "horse_name": "ナムラルッコラ",
+      "score": -0.4851811033791653,
+      "horse_number": 10,
+      "odds": 10.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102957",
+      "horse_name": "ヴィーナスバブル",
+      "score": -0.5860174636782842,
+      "horse_number": 9,
+      "odds": 16.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103736",
+      "horse_name": "アフェシス",
+      "score": -0.6185859102063048,
+      "horse_number": 2,
+      "odds": 36.3
+    }
+  ]
+}

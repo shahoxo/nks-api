@@ -1,0 +1,136 @@
+{
+  "race_id": "202606030507",
+  "race_name": "3歳1勝クラス",
+  "race_time": "2026-04-11 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023110103",
+      "horse_name": "タカスタカスタカス",
+      "score": 0.4160776961347487,
+      "horse_number": 9,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106932",
+      "horse_name": "サトノエスケープ",
+      "score": 0.17967898239225474,
+      "horse_number": 10,
+      "odds": 18.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102545",
+      "horse_name": "ミルトハーバー",
+      "score": 0.1672418846265268,
+      "horse_number": 14,
+      "odds": 17.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103619",
+      "horse_name": "リゾートライン",
+      "score": 0.11031371876801212,
+      "horse_number": 5,
+      "odds": 11.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103557",
+      "horse_name": "ラテラルパーム",
+      "score": 0.011884462153941663,
+      "horse_number": 8,
+      "odds": 26.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105811",
+      "horse_name": "ハニーオーケストラ",
+      "score": 0.003513537661631554,
+      "horse_number": 12,
+      "odds": 68.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100626",
+      "horse_name": "マルターズドン",
+      "score": -0.030726896044088875,
+      "horse_number": 6,
+      "odds": 21.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107400",
+      "horse_name": "ベアハンドキャッチ",
+      "score": -0.05827259653802922,
+      "horse_number": 4,
+      "odds": 88.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102235",
+      "horse_name": "トワイライトサイト",
+      "score": -0.1119894043664908,
+      "horse_number": 15,
+      "odds": 22.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102819",
+      "horse_name": "マーシャルアン",
+      "score": -0.138447885411545,
+      "horse_number": 13,
+      "odds": 86.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104852",
+      "horse_name": "レディサン",
+      "score": -0.15352122927383588,
+      "horse_number": 11,
+      "odds": 30.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103931",
+      "horse_name": "ゴーゴーパンチ",
+      "score": -0.16081486465179384,
+      "horse_number": 3,
+      "odds": 74.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100095",
+      "horse_name": "ビップムーラン",
+      "score": -0.1625335196968108,
+      "horse_number": 2,
+      "odds": 25.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102767",
+      "horse_name": "ルクスポップスター",
+      "score": -0.1996848150624528,
+      "horse_number": 1,
+      "odds": 38.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101039",
+      "horse_name": "ベアアッコチャン",
+      "score": -0.3615550991986839,
+      "horse_number": 16,
+      "odds": 15.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100606",
+      "horse_name": "2023100606",
+      "score": -0.5071126925064392,
+      "horse_number": 7,
+      "odds": 96.5
+    }
+  ]
+}

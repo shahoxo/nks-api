@@ -1,0 +1,128 @@
+{
+  "race_id": "202603010107",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-11 13:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105556",
+      "horse_name": "ラストレガシー",
+      "score": -0.00011965190775210365,
+      "horse_number": 10,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105772",
+      "horse_name": "ホウオウバローロ",
+      "score": -0.09697480914503231,
+      "horse_number": 7,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102813",
+      "horse_name": "ハイケンス",
+      "score": -0.2610091688598969,
+      "horse_number": 11,
+      "odds": 37.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105569",
+      "horse_name": "ルージュマローネ",
+      "score": -0.2853795308240503,
+      "horse_number": 2,
+      "odds": 15.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106926",
+      "horse_name": "ナインオブレター",
+      "score": -0.2949935242717092,
+      "horse_number": 5,
+      "odds": 21.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104496",
+      "horse_name": "スコーピオンイメル",
+      "score": -0.34797780157964575,
+      "horse_number": 12,
+      "odds": 3.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105548",
+      "horse_name": "プロスペクトパーク",
+      "score": -0.36411019938188693,
+      "horse_number": 6,
+      "odds": 7.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101430",
+      "horse_name": "プロスペクト",
+      "score": -0.3800330975445343,
+      "horse_number": 1,
+      "odds": 13.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104176",
+      "horse_name": "チャチャピンク",
+      "score": -0.3903651372184036,
+      "horse_number": 14,
+      "odds": 11.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104779",
+      "horse_name": "リトルスカーレット",
+      "score": -0.4753236032160829,
+      "horse_number": 8,
+      "odds": 10.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019101233",
+      "horse_name": "アイファーファイト",
+      "score": -0.5719778936462864,
+      "horse_number": 13,
+      "odds": 59.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019103092",
+      "horse_name": "ワンダーウィルク",
+      "score": -0.5970618435386312,
+      "horse_number": 15,
+      "odds": 35.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103916",
+      "horse_name": "スラーヴァ",
+      "score": -0.6143151523856235,
+      "horse_number": 4,
+      "odds": 33.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021107012",
+      "horse_name": "キングプロフィット",
+      "score": -0.6231610526085567,
+      "horse_number": 3,
+      "odds": 86.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106409",
+      "horse_name": "バーニングフレーム",
+      "score": -0.7344997899121097,
+      "horse_number": 9,
+      "odds": 44.7
+    }
+  ]
+}
