@@ -1,0 +1,136 @@
+{
+  "race_id": "202603010112",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-11 16:01",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103901",
+      "horse_name": "マーシーラン",
+      "score": 0.05331728237590564,
+      "horse_number": 11,
+      "odds": 6.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105996",
+      "horse_name": "ルシェロアズーリ",
+      "score": 0.0012958404069234866,
+      "horse_number": 15,
+      "odds": 15.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020100084",
+      "horse_name": "レッドカメリア",
+      "score": -0.010014306352285578,
+      "horse_number": 12,
+      "odds": 19.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102401",
+      "horse_name": "グランテレーズ",
+      "score": -0.05955234170538362,
+      "horse_number": 2,
+      "odds": 7.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020102050",
+      "horse_name": "サンポーニャ",
+      "score": -0.13799801384487684,
+      "horse_number": 13,
+      "odds": 7.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105747",
+      "horse_name": "プリュノワール",
+      "score": -0.1433018989524535,
+      "horse_number": 9,
+      "odds": 9.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103527",
+      "horse_name": "ライツユーアップ",
+      "score": -0.14785729790755014,
+      "horse_number": 8,
+      "odds": 7.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105583",
+      "horse_name": "セイプリーズ",
+      "score": -0.21127746650601606,
+      "horse_number": 10,
+      "odds": 6.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102433",
+      "horse_name": "アートフォーム",
+      "score": -0.23539390369006427,
+      "horse_number": 1,
+      "odds": 31.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104901",
+      "horse_name": "モルティフレーバー",
+      "score": -0.3334683387470849,
+      "horse_number": 14,
+      "odds": 32.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100362",
+      "horse_name": "ホウオウドルーリー",
+      "score": -0.3878404245836353,
+      "horse_number": 3,
+      "odds": 45.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100415",
+      "horse_name": "スウィートリワード",
+      "score": -0.4095499395873414,
+      "horse_number": 5,
+      "odds": 32.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106229",
+      "horse_name": "ウインイザナミ",
+      "score": -0.41189763653818323,
+      "horse_number": 16,
+      "odds": 8.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101048",
+      "horse_name": "アーニャワクワク",
+      "score": -0.4208199075143966,
+      "horse_number": 4,
+      "odds": 37.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102530",
+      "horse_name": "ディクシーヴォーグ",
+      "score": -0.5294911959032019,
+      "horse_number": 7,
+      "odds": 29.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021101398",
+      "horse_name": "ミニマルデザイン",
+      "score": -0.5907216745266844,
+      "horse_number": 6,
+      "odds": 56.2
+    }
+  ]
+}

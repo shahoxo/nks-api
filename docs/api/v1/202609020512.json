@@ -1,0 +1,136 @@
+{
+  "race_id": "202609020512",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-04-11 16:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110111",
+      "horse_name": "ジャスパーソレイユ",
+      "score": 0.4913256438204315,
+      "horse_number": 8,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105737",
+      "horse_name": "ミッキーマカパ",
+      "score": 0.3215595996742942,
+      "horse_number": 16,
+      "odds": 6.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100729",
+      "horse_name": "ビーマックス",
+      "score": 0.06786710102669857,
+      "horse_number": 14,
+      "odds": 16.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105753",
+      "horse_name": "フェンダー",
+      "score": 0.049264689349284914,
+      "horse_number": 12,
+      "odds": 7.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022107082",
+      "horse_name": "タイセイディアマン",
+      "score": 0.007083131594756666,
+      "horse_number": 7,
+      "odds": 9.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106983",
+      "horse_name": "ゼンノツキヨミ",
+      "score": -0.019951185325374234,
+      "horse_number": 1,
+      "odds": 15.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106169",
+      "horse_name": "カワキタマナレア",
+      "score": -0.027369470715791003,
+      "horse_number": 9,
+      "odds": 23.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101464",
+      "horse_name": "レイユール",
+      "score": -0.08796348575541538,
+      "horse_number": 10,
+      "odds": 40.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102259",
+      "horse_name": "クリノオリーブ",
+      "score": -0.10523507909417262,
+      "horse_number": 11,
+      "odds": 15.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106471",
+      "horse_name": "キタノライブリー",
+      "score": -0.1619437333422503,
+      "horse_number": 13,
+      "odds": 29.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105965",
+      "horse_name": "ドンパッショーネ",
+      "score": -0.20225464872202858,
+      "horse_number": 6,
+      "odds": 4.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101057",
+      "horse_name": "セールヴォラン",
+      "score": -0.23688274371923748,
+      "horse_number": 4,
+      "odds": 18.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105711",
+      "horse_name": "ズバットマサムネ",
+      "score": -0.29874054387974724,
+      "horse_number": 15,
+      "odds": 19.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102336",
+      "horse_name": "ヨシノヤッタルデー",
+      "score": -0.3698179537912894,
+      "horse_number": 5,
+      "odds": 74.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020107095",
+      "horse_name": "メモリーグラス",
+      "score": -0.3738178926716582,
+      "horse_number": 3,
+      "odds": 56.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103739",
+      "horse_name": "ゲクウ",
+      "score": -0.5456624969216753,
+      "horse_number": 2,
+      "odds": 86.9
+    }
+  ]
+}

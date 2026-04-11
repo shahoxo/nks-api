@@ -1,0 +1,136 @@
+{
+  "race_id": "202606030512",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-04-11 16:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104839",
+      "horse_name": "プレアデスグループ",
+      "score": 0.17736664925891318,
+      "horse_number": 2,
+      "odds": 9.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102371",
+      "horse_name": "クインズポラリス",
+      "score": 0.1514266768949456,
+      "horse_number": 5,
+      "odds": 7.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102153",
+      "horse_name": "プレゼンティーア",
+      "score": 0.043254018554025636,
+      "horse_number": 6,
+      "odds": 14.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103857",
+      "horse_name": "クインズシフォン",
+      "score": 0.03815275516439797,
+      "horse_number": 11,
+      "odds": 12.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106298",
+      "horse_name": "モリノレッドスター",
+      "score": 0.03382952701157986,
+      "horse_number": 9,
+      "odds": 4.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104874",
+      "horse_name": "ルーフオブヘヴン",
+      "score": 0.0228964155504646,
+      "horse_number": 16,
+      "odds": 15.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101557",
+      "horse_name": "アスタールフナ",
+      "score": -0.028707544235640262,
+      "horse_number": 4,
+      "odds": 5.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105485",
+      "horse_name": "エリカカリーナ",
+      "score": -0.03093721304092736,
+      "horse_number": 13,
+      "odds": 9.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105974",
+      "horse_name": "バロン",
+      "score": -0.10766998953113736,
+      "horse_number": 12,
+      "odds": 23.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100662",
+      "horse_name": "ベニシア",
+      "score": -0.11406863119511383,
+      "horse_number": 10,
+      "odds": 33.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103299",
+      "horse_name": "シアター",
+      "score": -0.129039610971282,
+      "horse_number": 8,
+      "odds": 27.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105600",
+      "horse_name": "ボルセーナ",
+      "score": -0.14007518150071488,
+      "horse_number": 7,
+      "odds": 29.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106639",
+      "horse_name": "ベルブリエ",
+      "score": -0.14896702660012012,
+      "horse_number": 14,
+      "odds": 35.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103706",
+      "horse_name": "アルジェンタージョ",
+      "score": -0.1651041390723081,
+      "horse_number": 3,
+      "odds": 26.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106698",
+      "horse_name": "オカメノコイ",
+      "score": -0.4358513843805404,
+      "horse_number": 15,
+      "odds": 30.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019105752",
+      "horse_name": "2019105752",
+      "score": -0.594723969342671,
+      "horse_number": 1,
+      "odds": 54.7
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "race_id": "202606030511",
+  "race_name": "NZT",
+  "race_time": "2026-04-11 15:45",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107166",
+      "horse_name": "ロデオドライブ",
+      "score": 0.2347971238796799,
+      "horse_number": 7,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104450",
+      "horse_name": "シュペルリング",
+      "score": 0.21568020263253226,
+      "horse_number": 6,
+      "odds": 35.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107056",
+      "horse_name": "ゴーラッキー",
+      "score": 0.2021110596947913,
+      "horse_number": 11,
+      "odds": 4.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103326",
+      "horse_name": "ディールメーカー",
+      "score": 0.16541520636861287,
+      "horse_number": 14,
+      "odds": 7.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105106",
+      "horse_name": "アルデトップガン",
+      "score": 0.05726072012027616,
+      "horse_number": 12,
+      "odds": 33.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103268",
+      "horse_name": "レザベーション",
+      "score": 0.050851916132377634,
+      "horse_number": 3,
+      "odds": 41.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106076",
+      "horse_name": "ハノハノ",
+      "score": 0.013249570924071283,
+      "horse_number": 1,
+      "odds": 38.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102083",
+      "horse_name": "ジーティーシンドウ",
+      "score": -0.0019911674218258965,
+      "horse_number": 10,
+      "odds": 42.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104885",
+      "horse_name": "ジーネキング",
+      "score": -0.035383953324923056,
+      "horse_number": 5,
+      "odds": 8.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105714",
+      "horse_name": "ヒズマスターピース",
+      "score": -0.04324331416766775,
+      "horse_number": 4,
+      "odds": 12.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104650",
+      "horse_name": "ブルズアイプリンス",
+      "score": -0.08909985576088855,
+      "horse_number": 9,
+      "odds": 151.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100840",
+      "horse_name": "ミリオンクラウン",
+      "score": -0.18302972407387272,
+      "horse_number": 15,
+      "odds": 228.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100681",
+      "horse_name": "ガリレア",
+      "score": -0.2906066557929161,
+      "horse_number": 13,
+      "odds": 99.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100002",
+      "horse_name": "マダックス",
+      "score": -0.32496362495597003,
+      "horse_number": 2,
+      "odds": 116.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023107078",
+      "horse_name": "スマイルカーブ",
+      "score": -0.3768095686617334,
+      "horse_number": 8,
+      "odds": 64.6
+    }
+  ]
+}
