@@ -1,0 +1,112 @@
+{
+  "race_id": "202606030510",
+  "race_name": "卯月S",
+  "race_time": "2026-04-11 15:01",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103670",
+      "horse_name": "ショウナンハクウン",
+      "score": 0.3151466578103475,
+      "horse_number": 7,
+      "odds": 11.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103462",
+      "horse_name": "ノットファウンド",
+      "score": 0.30032344808948774,
+      "horse_number": 10,
+      "odds": 8.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100071",
+      "horse_name": "ワンダラー",
+      "score": 0.21711211920751816,
+      "horse_number": 2,
+      "odds": 4.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101737",
+      "horse_name": "エンヤラヴフェイス",
+      "score": 0.07530118039890953,
+      "horse_number": 11,
+      "odds": 8.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104972",
+      "horse_name": "スリーピース",
+      "score": -0.027347498728226304,
+      "horse_number": 5,
+      "odds": 9.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100623",
+      "horse_name": "スプランドゥール",
+      "score": -0.03646783259689695,
+      "horse_number": 1,
+      "odds": 14.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106421",
+      "horse_name": "キタノソワレ",
+      "score": -0.10607700152081305,
+      "horse_number": 6,
+      "odds": 19.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103204",
+      "horse_name": "アイアムユウシュン",
+      "score": -0.18405217175158,
+      "horse_number": 9,
+      "odds": 18.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103711",
+      "horse_name": "ロサンゼルス",
+      "score": -0.21939525220691106,
+      "horse_number": 13,
+      "odds": 3.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102275",
+      "horse_name": "スタンリーテソーロ",
+      "score": -0.2272497550794166,
+      "horse_number": 4,
+      "odds": 20.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103902",
+      "horse_name": "ジャーヴィス",
+      "score": -0.2542798146366672,
+      "horse_number": 3,
+      "odds": 29.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020109094",
+      "horse_name": "ナスノカンゲツ",
+      "score": -0.2551005892834012,
+      "horse_number": 8,
+      "odds": 23.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104679",
+      "horse_name": "コパノハンプトン",
+      "score": -0.316561607617832,
+      "horse_number": 12,
+      "odds": 44.9
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "race_id": "202603010111",
+  "race_name": "吾妻小富士S",
+  "race_time": "2026-04-11 15:15",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103306",
+      "horse_name": "コトホドサヨウニ",
+      "score": 0.08910459718116197,
+      "horse_number": 3,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2019100286",
+      "horse_name": "カンピオーネ",
+      "score": -0.01614047567594639,
+      "horse_number": 13,
+      "odds": 8.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105112",
+      "horse_name": "ミッキークレスト",
+      "score": -0.037613895354247986,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102009",
+      "horse_name": "ラタフォレスト",
+      "score": -0.07922348168825852,
+      "horse_number": 1,
+      "odds": 10.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020102095",
+      "horse_name": "ペプチドソレイユ",
+      "score": -0.08159645484062861,
+      "horse_number": 4,
+      "odds": 14.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018100664",
+      "horse_name": "ホールシバン",
+      "score": -0.0828844605565109,
+      "horse_number": 6,
+      "odds": 27.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106554",
+      "horse_name": "タガノミスト",
+      "score": -0.139009971116256,
+      "horse_number": 15,
+      "odds": 13.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019105741",
+      "horse_name": "イスラアネーロ",
+      "score": -0.20853883288646924,
+      "horse_number": 2,
+      "odds": 40.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104628",
+      "horse_name": "レイナデアルシーラ",
+      "score": -0.2484608720183738,
+      "horse_number": 10,
+      "odds": 9.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102737",
+      "horse_name": "マリアナトレンチ",
+      "score": -0.30981582834098365,
+      "horse_number": 9,
+      "odds": 31.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019101681",
+      "horse_name": "サンライズホーク",
+      "score": -0.35552070451357365,
+      "horse_number": 7,
+      "odds": 36.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103987",
+      "horse_name": "スナークラファエロ",
+      "score": -0.4202918139340084,
+      "horse_number": 11,
+      "odds": 7.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103304",
+      "horse_name": "ダンツエラン",
+      "score": -0.45527384742558574,
+      "horse_number": 12,
+      "odds": 21.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018100830",
+      "horse_name": "ダイシンピスケス",
+      "score": -0.5150607770065405,
+      "horse_number": 8,
+      "odds": 47.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100836",
+      "horse_name": "レアンダー",
+      "score": -0.5463238481211652,
+      "horse_number": 14,
+      "odds": 21.4
+    }
+  ]
+}

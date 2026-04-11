@@ -1,0 +1,112 @@
+{
+  "race_id": "202609020510",
+  "race_name": "大―ハンC",
+  "race_time": "2026-04-11 14:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104655",
+      "horse_name": "ウィクトルウェルス",
+      "score": 0.528467657650797,
+      "horse_number": 10,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104615",
+      "horse_name": "アマキヒ",
+      "score": 0.26647068006485797,
+      "horse_number": 1,
+      "odds": 3.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105104",
+      "horse_name": "サンライズソレイユ",
+      "score": -0.00024551564486843813,
+      "horse_number": 6,
+      "odds": 12.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019104658",
+      "horse_name": "ボーンディスウェイ",
+      "score": -0.0262076305785956,
+      "horse_number": 3,
+      "odds": 15.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019100792",
+      "horse_name": "マイネルクリソーラ",
+      "score": -0.05940858076569368,
+      "horse_number": 2,
+      "odds": 12.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019101847",
+      "horse_name": "ミクソロジー",
+      "score": -0.09725669689463991,
+      "horse_number": 13,
+      "odds": 49.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105750",
+      "horse_name": "マイネルメモリー",
+      "score": -0.10826479564149669,
+      "horse_number": 4,
+      "odds": 26.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106645",
+      "horse_name": "ウエストナウ",
+      "score": -0.22277064916328956,
+      "horse_number": 7,
+      "odds": 12.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103025",
+      "horse_name": "ドクタードリトル",
+      "score": -0.25798924404196144,
+      "horse_number": 12,
+      "odds": 17.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2016103730",
+      "horse_name": "ザイツィンガー",
+      "score": -0.37611670419056004,
+      "horse_number": 9,
+      "odds": 59.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106234",
+      "horse_name": "グランドカリナン",
+      "score": -0.4190443275171125,
+      "horse_number": 11,
+      "odds": 114.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103082",
+      "horse_name": "カネフラ",
+      "score": -0.494042207372418,
+      "horse_number": 5,
+      "odds": 32.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104971",
+      "horse_name": "トータルクラリティ",
+      "score": -0.6010386882078935,
+      "horse_number": 8,
+      "odds": 63.2
+    }
+  ]
+}
