@@ -1,0 +1,136 @@
+{
+  "race_id": "202603010103",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-11 10:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104338",
+      "horse_name": "ハヤブサブロー",
+      "score": 0.24140154428268484,
+      "horse_number": 11,
+      "odds": 7.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105443",
+      "horse_name": "ピアス",
+      "score": 0.1419033451555764,
+      "horse_number": 7,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105222",
+      "horse_name": "クシマトゥルー",
+      "score": -0.03651253409974797,
+      "horse_number": 8,
+      "odds": 15.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107273",
+      "horse_name": "2023107273",
+      "score": -0.11334915475770063,
+      "horse_number": 2,
+      "odds": 5.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103081",
+      "horse_name": "2023103081",
+      "score": -0.24156907205121259,
+      "horse_number": 12,
+      "odds": 26.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105168",
+      "horse_name": "ノクスカンパーナ",
+      "score": -0.2527448668534141,
+      "horse_number": 13,
+      "odds": 23.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105231",
+      "horse_name": "レーザーキック",
+      "score": -0.2791436218690598,
+      "horse_number": 1,
+      "odds": 11.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106362",
+      "horse_name": "ファストフォワード",
+      "score": -0.3090183998741611,
+      "horse_number": 10,
+      "odds": 9.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101197",
+      "horse_name": "2023101197",
+      "score": -0.32866184575368185,
+      "horse_number": 4,
+      "odds": 29.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105121",
+      "horse_name": "2023105121",
+      "score": -0.3403080797128494,
+      "horse_number": 6,
+      "odds": 21.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105150",
+      "horse_name": "2023105150",
+      "score": -0.3678229402046854,
+      "horse_number": 14,
+      "odds": 40.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103333",
+      "horse_name": "スワトウ",
+      "score": -0.3824726305629573,
+      "horse_number": 9,
+      "odds": 15.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102060",
+      "horse_name": "2023102060",
+      "score": -0.409897117356591,
+      "horse_number": 16,
+      "odds": 45.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101820",
+      "horse_name": "2023101820",
+      "score": -0.47293600501096866,
+      "horse_number": 5,
+      "odds": 43.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105428",
+      "horse_name": "2023105428",
+      "score": -0.47293600501096866,
+      "horse_number": 3,
+      "odds": 45.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023103285",
+      "horse_name": "2023103285",
+      "score": -0.5605472818472005,
+      "horse_number": 15,
+      "odds": 7.4
+    }
+  ]
+}

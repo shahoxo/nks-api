@@ -1,0 +1,112 @@
+{
+  "race_id": "202606030503",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-11 11:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101124",
+      "horse_name": "アイデアユー",
+      "score": 0.3386913664600705,
+      "horse_number": 1,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103475",
+      "horse_name": "ディープマウンテン",
+      "score": -0.16180451992147293,
+      "horse_number": 2,
+      "odds": 34.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103750",
+      "horse_name": "アチーヴァー",
+      "score": -0.19709210737432786,
+      "horse_number": 10,
+      "odds": 3.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105973",
+      "horse_name": "ユイノスレチガイ",
+      "score": -0.22327528355098078,
+      "horse_number": 3,
+      "odds": 16.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101160",
+      "horse_name": "グスク",
+      "score": -0.23011559403215145,
+      "horse_number": 13,
+      "odds": 40.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102220",
+      "horse_name": "2023102220",
+      "score": -0.24708100832578703,
+      "horse_number": 5,
+      "odds": 13.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103778",
+      "horse_name": "サルサブラヴァ",
+      "score": -0.433370834288769,
+      "horse_number": 4,
+      "odds": 8.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103506",
+      "horse_name": "レイランディ",
+      "score": -0.4738597523460131,
+      "horse_number": 11,
+      "odds": 11.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101778",
+      "horse_name": "シンデレラカラー",
+      "score": -0.4868176983066179,
+      "horse_number": 9,
+      "odds": 23.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103932",
+      "horse_name": "ロイヤルタイム",
+      "score": -0.5258317828324606,
+      "horse_number": 7,
+      "odds": 13.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102714",
+      "horse_name": "シャインプレマ",
+      "score": -0.5336605905059826,
+      "horse_number": 12,
+      "odds": 54.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023107440",
+      "horse_name": "パワポケウォーズ",
+      "score": -0.7560238565797833,
+      "horse_number": 6,
+      "odds": 60.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101482",
+      "horse_name": "カンフーヒーロー",
+      "score": -0.7560238565797833,
+      "horse_number": 8,
+      "odds": 59.9
+    }
+  ]
+}

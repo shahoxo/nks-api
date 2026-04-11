@@ -1,0 +1,136 @@
+{
+  "race_id": "202609020502",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-11 10:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106669",
+      "horse_name": "オウケンブラッド",
+      "score": 0.2040440888056146,
+      "horse_number": 1,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104876",
+      "horse_name": "ペプチドレオン",
+      "score": 0.16500817432256806,
+      "horse_number": 8,
+      "odds": 5.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107341",
+      "horse_name": "2023107341",
+      "score": 0.16412586838863538,
+      "horse_number": 9,
+      "odds": 16.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101157",
+      "horse_name": "ゼロヴィジビリティ",
+      "score": 0.12722258374820775,
+      "horse_number": 5,
+      "odds": 2.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107314",
+      "horse_name": "ラジャブルック",
+      "score": 0.07620264575818791,
+      "horse_number": 3,
+      "odds": 18.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104966",
+      "horse_name": "メイショウライゴー",
+      "score": 0.02923810775444983,
+      "horse_number": 10,
+      "odds": 9.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103630",
+      "horse_name": "ライフイズカラフル",
+      "score": -0.05717446523800108,
+      "horse_number": 13,
+      "odds": 12.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105044",
+      "horse_name": "ゴールデンボブ",
+      "score": -0.08207841463953301,
+      "horse_number": 4,
+      "odds": 44.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107311",
+      "horse_name": "ペスキエーラ",
+      "score": -0.13822493819460946,
+      "horse_number": 7,
+      "odds": 56.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102702",
+      "horse_name": "ペントハウス",
+      "score": -0.16196962584431662,
+      "horse_number": 6,
+      "odds": 30.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104483",
+      "horse_name": "シュネープリンセス",
+      "score": -0.30622288852410284,
+      "horse_number": 16,
+      "odds": 28.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106186",
+      "horse_name": "マカラス",
+      "score": -0.3481205382508146,
+      "horse_number": 11,
+      "odds": 34.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102459",
+      "horse_name": "オアシスアラン",
+      "score": -0.378889392180968,
+      "horse_number": 2,
+      "odds": 93.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101796",
+      "horse_name": "テリオスリコ",
+      "score": -0.41298572492771835,
+      "horse_number": 15,
+      "odds": 145.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102129",
+      "horse_name": "パピプペピンク",
+      "score": -0.5856513299489949,
+      "horse_number": 14,
+      "odds": 68.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104099",
+      "horse_name": "スージーハルワ",
+      "score": -0.7265140734648036,
+      "horse_number": 12,
+      "odds": 158.8
+    }
+  ]
+}
