@@ -1,0 +1,128 @@
+{
+  "race_id": "202603010212",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-12 16:01",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105429",
+      "horse_name": "チギリ",
+      "score": 0.16213906064881412,
+      "horse_number": 6,
+      "odds": 9.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101445",
+      "horse_name": "マテンロウカナロア",
+      "score": -0.018848668757496766,
+      "horse_number": 15,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104840",
+      "horse_name": "カーフキック",
+      "score": -0.04717847163455027,
+      "horse_number": 14,
+      "odds": 7.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104910",
+      "horse_name": "レイザリオ",
+      "score": -0.06288947493131816,
+      "horse_number": 13,
+      "odds": 4.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101044",
+      "horse_name": "グレイスフルマーチ",
+      "score": -0.11663112799533636,
+      "horse_number": 11,
+      "odds": 11.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104897",
+      "horse_name": "レッドベルダンス",
+      "score": -0.13973898619194888,
+      "horse_number": 7,
+      "odds": 6.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101081",
+      "horse_name": "ラッキーヤース",
+      "score": -0.2935771257892447,
+      "horse_number": 9,
+      "odds": 12.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104205",
+      "horse_name": "ブルーカミング",
+      "score": -0.3766738296132598,
+      "horse_number": 3,
+      "odds": 15.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103321",
+      "horse_name": "ベンメリア",
+      "score": -0.5102433228298766,
+      "horse_number": 5,
+      "odds": 36.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104285",
+      "horse_name": "リーゼントジェイド",
+      "score": -0.5105113241745243,
+      "horse_number": 8,
+      "odds": 29.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105209",
+      "horse_name": "ラッキーベイ",
+      "score": -0.5340395505114175,
+      "horse_number": 12,
+      "odds": 23.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103150",
+      "horse_name": "タルタロス",
+      "score": -0.5745396897290062,
+      "horse_number": 10,
+      "odds": 19.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019106615",
+      "horse_name": "ウイングスオブラヴ",
+      "score": -0.6087731493607471,
+      "horse_number": 2,
+      "odds": 54.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017103384",
+      "horse_name": "ヤマカツレオン",
+      "score": -0.6318373387288261,
+      "horse_number": 4,
+      "odds": 41.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101647",
+      "horse_name": "インヴェスター",
+      "score": -0.6859934208146856,
+      "horse_number": 1,
+      "odds": 58.5
+    }
+  ]
+}

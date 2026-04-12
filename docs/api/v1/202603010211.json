@@ -1,0 +1,128 @@
+{
+  "race_id": "202603010211",
+  "race_name": "福島民報杯",
+  "race_time": "2026-04-12 15:15",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106633",
+      "horse_name": "バルナバ",
+      "score": 0.2175063037510862,
+      "horse_number": 13,
+      "odds": 6.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105808",
+      "horse_name": "ガイアメンテ",
+      "score": 0.1868413271955906,
+      "horse_number": 8,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020100734",
+      "horse_name": "サヴォーナ",
+      "score": 0.17228433160187528,
+      "horse_number": 11,
+      "odds": 11.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2017105194",
+      "horse_name": "ラインベック",
+      "score": 0.08962715623855708,
+      "horse_number": 10,
+      "odds": 38.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101134",
+      "horse_name": "ピースワンデュック",
+      "score": 0.0716993200633045,
+      "horse_number": 2,
+      "odds": 4.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105424",
+      "horse_name": "シルトホルン",
+      "score": 0.05275606605874,
+      "horse_number": 14,
+      "odds": 7.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104850",
+      "horse_name": "バレエマスター",
+      "score": 0.030383474189910806,
+      "horse_number": 7,
+      "odds": 15.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105633",
+      "horse_name": "リビアングラス",
+      "score": -0.144875715511451,
+      "horse_number": 4,
+      "odds": 10.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106335",
+      "horse_name": "タシット",
+      "score": -0.15724129183952806,
+      "horse_number": 9,
+      "odds": 27.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019100628",
+      "horse_name": "トゥデイイズザデイ",
+      "score": -0.1991407077806,
+      "horse_number": 3,
+      "odds": 30.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105749",
+      "horse_name": "マイネルモーント",
+      "score": -0.2495409703913267,
+      "horse_number": 12,
+      "odds": 8.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2016102175",
+      "horse_name": "ダンディズム",
+      "score": -0.3112501382370682,
+      "horse_number": 15,
+      "odds": 73.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100761",
+      "horse_name": "マンマリアーレ",
+      "score": -0.3357041167172742,
+      "horse_number": 5,
+      "odds": 61.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018101615",
+      "horse_name": "ウインシュクラン",
+      "score": -0.35301094964397256,
+      "horse_number": 1,
+      "odds": 20.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101025",
+      "horse_name": "アスクドゥポルテ",
+      "score": -0.44110163158849647,
+      "horse_number": 6,
+      "odds": 44.2
+    }
+  ]
+}
