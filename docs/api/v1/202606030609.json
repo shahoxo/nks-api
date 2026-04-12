@@ -1,0 +1,104 @@
+{
+  "race_id": "202606030609",
+  "race_name": "印西特別",
+  "race_time": "2026-04-12 14:15",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022107301",
+      "horse_name": "イプシロンナンバー",
+      "score": 0.2610984939130176,
+      "horse_number": 5,
+      "odds": 5.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101234",
+      "horse_name": "オオタチ",
+      "score": 0.0709773236413653,
+      "horse_number": 7,
+      "odds": 3.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101195",
+      "horse_name": "コーリンカルベラ",
+      "score": -0.06662331620849699,
+      "horse_number": 2,
+      "odds": 17.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100749",
+      "horse_name": "キャストロププ",
+      "score": -0.06699946516137814,
+      "horse_number": 11,
+      "odds": 9.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103414",
+      "horse_name": "ムジェロ",
+      "score": -0.10808123796694033,
+      "horse_number": 8,
+      "odds": 6.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101419",
+      "horse_name": "オーシンハーフ",
+      "score": -0.2093171082039795,
+      "horse_number": 1,
+      "odds": 8.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102555",
+      "horse_name": "アースイオス",
+      "score": -0.2869292700805602,
+      "horse_number": 6,
+      "odds": 40.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102793",
+      "horse_name": "ルーラーリッチ",
+      "score": -0.3251878722580385,
+      "horse_number": 9,
+      "odds": 20.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103708",
+      "horse_name": "ロンパイア",
+      "score": -0.49742935343527084,
+      "horse_number": 4,
+      "odds": 15.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102077",
+      "horse_name": "シゲルカミカゼ",
+      "score": -0.49742935343527084,
+      "horse_number": 3,
+      "odds": 18.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104889",
+      "horse_name": "ラファールドール",
+      "score": -0.5079253873447379,
+      "horse_number": 10,
+      "odds": 9.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103574",
+      "horse_name": "インジケーター",
+      "score": -0.5756804866807193,
+      "horse_number": 12,
+      "odds": 25.6
+    }
+  ]
+}

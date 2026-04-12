@@ -1,0 +1,88 @@
+{
+  "race_id": "202606030608",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-04-12 13:40",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105580",
+      "horse_name": "クラッシファイド",
+      "score": 0.37499930740567305,
+      "horse_number": 9,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100177",
+      "horse_name": "ロードマンハイム",
+      "score": 0.15122556612454718,
+      "horse_number": 8,
+      "odds": 14.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106209",
+      "horse_name": "ウインシャーガス",
+      "score": 0.10910157148813568,
+      "horse_number": 1,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101639",
+      "horse_name": "ソルトブリーズ",
+      "score": 0.06263875834779506,
+      "horse_number": 10,
+      "odds": 7.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106813",
+      "horse_name": "マイネルフーガ",
+      "score": -0.07198279875579573,
+      "horse_number": 6,
+      "odds": 4.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105600",
+      "horse_name": "グランカンタンテ",
+      "score": -0.23112518802862775,
+      "horse_number": 7,
+      "odds": 13.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105317",
+      "horse_name": "ミーントゥビー",
+      "score": -0.2511789636837005,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106559",
+      "horse_name": "クインズスピカ",
+      "score": -0.28842275994441463,
+      "horse_number": 3,
+      "odds": 47.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101337",
+      "horse_name": "コスモアバンサ",
+      "score": -0.31447098900030973,
+      "horse_number": 2,
+      "odds": 17.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2017101772",
+      "horse_name": "ヤマニンガラッシア",
+      "score": -0.40563989688549,
+      "horse_number": 4,
+      "odds": 25.7
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "race_id": "202609020608",
+  "race_name": "川西特別",
+  "race_time": "2026-04-12 13:50",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102218",
+      "horse_name": "サンライズバレット",
+      "score": 0.3413350041498902,
+      "horse_number": 11,
+      "odds": 2.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105053",
+      "horse_name": "スルーザナイト",
+      "score": 0.1875535441448634,
+      "horse_number": 6,
+      "odds": 15.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110135",
+      "horse_name": "ゼンエスポワール",
+      "score": 0.07233646170278298,
+      "horse_number": 8,
+      "odds": 11.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106694",
+      "horse_name": "ソウルアンドジャズ",
+      "score": 0.05052673869818801,
+      "horse_number": 3,
+      "odds": 6.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110118",
+      "horse_name": "ユウトザユウト",
+      "score": -0.11371428166016867,
+      "horse_number": 10,
+      "odds": 6.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102735",
+      "horse_name": "スマートカイロス",
+      "score": -0.16689435320946638,
+      "horse_number": 1,
+      "odds": 9.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102691",
+      "horse_name": "マナエトレ",
+      "score": -0.2029280136334798,
+      "horse_number": 7,
+      "odds": 31.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106105",
+      "horse_name": "クアトロジャック",
+      "score": -0.3466831163982526,
+      "horse_number": 5,
+      "odds": 27.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101468",
+      "horse_name": "アリエスキング",
+      "score": -0.49437059807792594,
+      "horse_number": 2,
+      "odds": 10.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2017103267",
+      "horse_name": "エクストラノート",
+      "score": -0.569470717884104,
+      "horse_number": 9,
+      "odds": 37.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100060",
+      "horse_name": "オセアバトルプラン",
+      "score": -0.6090816530463632,
+      "horse_number": 4,
+      "odds": 36.8
+    }
+  ]
+}

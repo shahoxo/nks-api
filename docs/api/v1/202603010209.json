@@ -1,0 +1,112 @@
+{
+  "race_id": "202603010209",
+  "race_name": "燧ヶ岳特別",
+  "race_time": "2026-04-12 14:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020101916",
+      "horse_name": "ペネトレイトゴー",
+      "score": 0.07842393331975775,
+      "horse_number": 1,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105751",
+      "horse_name": "イフルジャンス",
+      "score": 0.07016327262226875,
+      "horse_number": 7,
+      "odds": 25.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106940",
+      "horse_name": "ローレルオーブ",
+      "score": 0.06961905388731449,
+      "horse_number": 12,
+      "odds": 4.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105597",
+      "horse_name": "ゲンジ",
+      "score": -0.00510443169034593,
+      "horse_number": 6,
+      "odds": 5.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103845",
+      "horse_name": "ニホンピロゴルディ",
+      "score": -0.025478588687408495,
+      "horse_number": 11,
+      "odds": 7.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102379",
+      "horse_name": "テイクザクラウン",
+      "score": -0.2654803282313654,
+      "horse_number": 4,
+      "odds": 6.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105392",
+      "horse_name": "スタードメイソン",
+      "score": -0.30861342778748263,
+      "horse_number": 10,
+      "odds": 21.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105687",
+      "horse_name": "ダノンアンチュラス",
+      "score": -0.4628164605676083,
+      "horse_number": 2,
+      "odds": 44.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101088",
+      "horse_name": "テイキットイージー",
+      "score": -0.4825619031936378,
+      "horse_number": 5,
+      "odds": 19.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105763",
+      "horse_name": "ビップチェイス",
+      "score": -0.4958900046352591,
+      "horse_number": 9,
+      "odds": 14.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101250",
+      "horse_name": "シェアホルダーズ",
+      "score": -0.5040278335440782,
+      "horse_number": 8,
+      "odds": 35.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105985",
+      "horse_name": "ヘルツアス",
+      "score": -0.5424480990068273,
+      "horse_number": 13,
+      "odds": 19.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101436",
+      "horse_name": "サラニキケン",
+      "score": -0.5558261747235634,
+      "horse_number": 3,
+      "odds": 36.9
+    }
+  ]
+}
