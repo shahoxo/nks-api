@@ -1,0 +1,136 @@
+{
+  "race_id": "202609020602",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-12 10:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106930",
+      "horse_name": "エルナト",
+      "score": 0.10944465463906349,
+      "horse_number": 1,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102752",
+      "horse_name": "スマートグロワール",
+      "score": 0.010516492190955525,
+      "horse_number": 8,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105221",
+      "horse_name": "2023105221",
+      "score": -0.06800992103229896,
+      "horse_number": 2,
+      "odds": 8.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100855",
+      "horse_name": "ガラード",
+      "score": -0.09089860700971229,
+      "horse_number": 15,
+      "odds": 26.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101111",
+      "horse_name": "メンデレーエフ",
+      "score": -0.09291292765395386,
+      "horse_number": 6,
+      "odds": 10.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103350",
+      "horse_name": "2023103350",
+      "score": -0.20815910466260387,
+      "horse_number": 14,
+      "odds": 46.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104066",
+      "horse_name": "バケラッタ",
+      "score": -0.2301860028641393,
+      "horse_number": 4,
+      "odds": 14.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101756",
+      "horse_name": "メイショウセンドウ",
+      "score": -0.3861113752387729,
+      "horse_number": 16,
+      "odds": 13.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100389",
+      "horse_name": "2023100389",
+      "score": -0.45515342496955935,
+      "horse_number": 3,
+      "odds": 40.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104611",
+      "horse_name": "ゼンノスタニング",
+      "score": -0.47164246334808524,
+      "horse_number": 7,
+      "odds": 98.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102006",
+      "horse_name": "ピコオーバル",
+      "score": -0.5042272257968387,
+      "horse_number": 12,
+      "odds": 4.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103017",
+      "horse_name": "2023103017",
+      "score": -0.5605472818472005,
+      "horse_number": 5,
+      "odds": 79.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105480",
+      "horse_name": "ジュウハチキン",
+      "score": -0.5622445630753652,
+      "horse_number": 11,
+      "odds": 36.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103164",
+      "horse_name": "2023103164",
+      "score": -0.5650305604640254,
+      "horse_number": 13,
+      "odds": 80.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023107480",
+      "horse_name": "シンゼンコジロウ",
+      "score": -0.735775346659503,
+      "horse_number": 10,
+      "odds": 29.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102778",
+      "horse_name": "ハイラブレジェンド",
+      "score": -0.735775346659503,
+      "horse_number": 9,
+      "odds": 39.2
+    }
+  ]
+}

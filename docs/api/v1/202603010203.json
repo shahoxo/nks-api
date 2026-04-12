@@ -1,0 +1,128 @@
+{
+  "race_id": "202603010203",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-12 10:40",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105348",
+      "horse_name": "ジョーカー",
+      "score": 0.24556243194091248,
+      "horse_number": 11,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100647",
+      "horse_name": "ブルーミーティア",
+      "score": -0.06564455427808082,
+      "horse_number": 15,
+      "odds": 14.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105753",
+      "horse_name": "アデルフィー",
+      "score": -0.1402797686307963,
+      "horse_number": 9,
+      "odds": 13.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105530",
+      "horse_name": "エイシンキーンラン",
+      "score": -0.16622049029732397,
+      "horse_number": 10,
+      "odds": 26.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101167",
+      "horse_name": "ティーエンティー",
+      "score": -0.1853816016900225,
+      "horse_number": 5,
+      "odds": 43.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101574",
+      "horse_name": "サンライズジャッジ",
+      "score": -0.22387777479422133,
+      "horse_number": 1,
+      "odds": 24.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107394",
+      "horse_name": "イサチルシーキング",
+      "score": -0.27663628648315985,
+      "horse_number": 6,
+      "odds": 6.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101943",
+      "horse_name": "2023101943",
+      "score": -0.30396681909227513,
+      "horse_number": 8,
+      "odds": 88.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106368",
+      "horse_name": "2023106368",
+      "score": -0.4368344035414753,
+      "horse_number": 2,
+      "odds": 44.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101130",
+      "horse_name": "ハルイチバン",
+      "score": -0.44676090484522185,
+      "horse_number": 4,
+      "odds": 20.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103510",
+      "horse_name": "2023103510",
+      "score": -0.5605472818472005,
+      "horse_number": 3,
+      "odds": 62.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106551",
+      "horse_name": "サンライズハンター",
+      "score": -0.5670515164495529,
+      "horse_number": 12,
+      "odds": 71.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106430",
+      "horse_name": "アリストクラット",
+      "score": -0.5844092227108343,
+      "horse_number": 7,
+      "odds": 70.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100456",
+      "horse_name": "ワンダーサイファー",
+      "score": -0.700999851469308,
+      "horse_number": 13,
+      "odds": 173.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101371",
+      "horse_name": "デルマカイモン",
+      "score": -0.738611935862869,
+      "horse_number": 14,
+      "odds": 36.6
+    }
+  ]
+}
