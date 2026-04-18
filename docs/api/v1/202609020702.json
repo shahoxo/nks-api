@@ -1,0 +1,136 @@
+{
+  "race_id": "202609020702",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-18 10:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105466",
+      "horse_name": "マリリンバローズ",
+      "score": 0.4098466851161049,
+      "horse_number": 4,
+      "odds": 2.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105816",
+      "horse_name": "2023105816",
+      "score": 0.1230461528954522,
+      "horse_number": 3,
+      "odds": 8.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107545",
+      "horse_name": "ウェルカムソング",
+      "score": 0.1030909157475207,
+      "horse_number": 16,
+      "odds": 3.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105059",
+      "horse_name": "グレイトソン",
+      "score": -0.1365898615126653,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106239",
+      "horse_name": "ナムラステラ",
+      "score": -0.2671440660092306,
+      "horse_number": 8,
+      "odds": 27.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104705",
+      "horse_name": "セイウンダイフク",
+      "score": -0.2820589939394919,
+      "horse_number": 9,
+      "odds": 16.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101506",
+      "horse_name": "2023101506",
+      "score": -0.32970244882851285,
+      "horse_number": 12,
+      "odds": 73.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104997",
+      "horse_name": "メッチャエエヤン",
+      "score": -0.3469822488728671,
+      "horse_number": 14,
+      "odds": 45.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101738",
+      "horse_name": "2023101738",
+      "score": -0.47293600501096866,
+      "horse_number": 2,
+      "odds": 34.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023110083",
+      "horse_name": "アメリカンパウダー",
+      "score": -0.5251013664748073,
+      "horse_number": 7,
+      "odds": 66.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104747",
+      "horse_name": "チアフルラン",
+      "score": -0.5479698387917493,
+      "horse_number": 11,
+      "odds": 93.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100287",
+      "horse_name": "ジョーヴェスタ",
+      "score": -0.66206386408472,
+      "horse_number": 1,
+      "odds": 90.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105026",
+      "horse_name": "ゴッドシュアウイン",
+      "score": -0.7092892104133881,
+      "horse_number": 15,
+      "odds": 106.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100378",
+      "horse_name": "クモンリュウ",
+      "score": -0.735775346659503,
+      "horse_number": 10,
+      "odds": 104.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103189",
+      "horse_name": "スラッシュ",
+      "score": -0.735775346659503,
+      "horse_number": 13,
+      "odds": 62.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023103054",
+      "horse_name": "ヤマトチャージ",
+      "score": -0.7560238565797833,
+      "horse_number": 5,
+      "odds": 120.8
+    }
+  ]
+}

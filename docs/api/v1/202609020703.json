@@ -1,0 +1,128 @@
+{
+  "race_id": "202609020703",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-18 10:55",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105508",
+      "horse_name": "エイシンリブウェル",
+      "score": 0.2993468104428015,
+      "horse_number": 6,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100477",
+      "horse_name": "クリノリキオー",
+      "score": 0.23993196346953266,
+      "horse_number": 14,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103904",
+      "horse_name": "アビル",
+      "score": 0.06027510500048578,
+      "horse_number": 13,
+      "odds": 6.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100230",
+      "horse_name": "フィサブロス",
+      "score": 0.02223495103255149,
+      "horse_number": 9,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105329",
+      "horse_name": "エクストラプッシュ",
+      "score": 0.009964117122068624,
+      "horse_number": 11,
+      "odds": 13.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103098",
+      "horse_name": "ピースビート",
+      "score": -0.15688030051886387,
+      "horse_number": 3,
+      "odds": 44.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105889",
+      "horse_name": "ウインモンクール",
+      "score": -0.15992209994840342,
+      "horse_number": 5,
+      "odds": 17.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105444",
+      "horse_name": "ポップアップ",
+      "score": -0.17037145637862955,
+      "horse_number": 4,
+      "odds": 16.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103419",
+      "horse_name": "ギレイ",
+      "score": -0.19086675065179945,
+      "horse_number": 15,
+      "odds": 43.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102630",
+      "horse_name": "グランシャン",
+      "score": -0.19757137631813393,
+      "horse_number": 10,
+      "odds": 11.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103395",
+      "horse_name": "ボクサークラブ",
+      "score": -0.2522461658756507,
+      "horse_number": 7,
+      "odds": 14.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023110082",
+      "horse_name": "2023110082",
+      "score": -0.2864393133959018,
+      "horse_number": 2,
+      "odds": 39.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102773",
+      "horse_name": "ハイビッグゴールド",
+      "score": -0.5221551102702149,
+      "horse_number": 1,
+      "odds": 38.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104448",
+      "horse_name": "2023104448",
+      "score": -0.54029877192692,
+      "horse_number": 12,
+      "odds": 70.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106565",
+      "horse_name": "メイショウハチマキ",
+      "score": -0.6324855152369132,
+      "horse_number": 8,
+      "odds": 42.2
+    }
+  ]
+}

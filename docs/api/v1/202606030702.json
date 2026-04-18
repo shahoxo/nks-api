@@ -1,0 +1,96 @@
+{
+  "race_id": "202606030702",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-18 10:35",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105682",
+      "horse_name": "キセログラフィカ",
+      "score": 0.06331321469527615,
+      "horse_number": 6,
+      "odds": 2.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105474",
+      "horse_name": "トワイライトビュー",
+      "score": -0.024851301535026998,
+      "horse_number": 4,
+      "odds": 13.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105838",
+      "horse_name": "ロードステラート",
+      "score": -0.06346614616000183,
+      "horse_number": 11,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100629",
+      "horse_name": "ゴーフォアブローク",
+      "score": -0.10125208867415018,
+      "horse_number": 1,
+      "odds": 4.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103519",
+      "horse_name": "サウジバラード",
+      "score": -0.11357677850932545,
+      "horse_number": 10,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102868",
+      "horse_name": "サクラドール",
+      "score": -0.28260989699326755,
+      "horse_number": 5,
+      "odds": 11.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103196",
+      "horse_name": "フクチャンブラック",
+      "score": -0.30028810465872974,
+      "horse_number": 2,
+      "odds": 16.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105365",
+      "horse_name": "ホウオウファラオ",
+      "score": -0.3903157867225249,
+      "horse_number": 7,
+      "odds": 30.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101841",
+      "horse_name": "ユイノサダハル",
+      "score": -0.4615253436668505,
+      "horse_number": 8,
+      "odds": 15.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105754",
+      "horse_name": "2023105754",
+      "score": -0.5605472818472005,
+      "horse_number": 3,
+      "odds": 68.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102319",
+      "horse_name": "ロジシーザ",
+      "score": -0.5847674525478345,
+      "horse_number": 9,
+      "odds": 61.0
+    }
+  ]
+}

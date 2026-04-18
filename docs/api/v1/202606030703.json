@@ -1,0 +1,120 @@
+{
+  "race_id": "202606030703",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-18 11:05",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105839",
+      "horse_name": "メリフルアス",
+      "score": 0.24210020400719912,
+      "horse_number": 9,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105795",
+      "horse_name": "クリオロゴールド",
+      "score": 0.23175746964850497,
+      "horse_number": 11,
+      "odds": 2.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100961",
+      "horse_name": "エコログロウ",
+      "score": -0.05155882279764808,
+      "horse_number": 5,
+      "odds": 12.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103556",
+      "horse_name": "クレバーキュート",
+      "score": -0.43788907508459296,
+      "horse_number": 1,
+      "odds": 48.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106094",
+      "horse_name": "ノリキング",
+      "score": -0.4575032821269933,
+      "horse_number": 14,
+      "odds": 21.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105630",
+      "horse_name": "2023105630",
+      "score": -0.47293600501096866,
+      "horse_number": 7,
+      "odds": 5.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100851",
+      "horse_name": "フクノエルデ",
+      "score": -0.492931306633255,
+      "horse_number": 4,
+      "odds": 34.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101712",
+      "horse_name": "ベアゴーフォー",
+      "score": -0.4983056401229752,
+      "horse_number": 10,
+      "odds": 15.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107462",
+      "horse_name": "2023107462",
+      "score": -0.5605472818472005,
+      "horse_number": 3,
+      "odds": 151.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104194",
+      "horse_name": "2023104194",
+      "score": -0.5605472818472005,
+      "horse_number": 8,
+      "odds": 29.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105538",
+      "horse_name": "コブラツイスト",
+      "score": -0.5648649178017413,
+      "horse_number": 2,
+      "odds": 26.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102714",
+      "horse_name": "シャインプレマ",
+      "score": -0.6188714776911564,
+      "horse_number": 6,
+      "odds": 104.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103210",
+      "horse_name": "ドリームハーモニー",
+      "score": -0.7344997899121097,
+      "horse_number": 12,
+      "odds": 93.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104567",
+      "horse_name": "シルバープレート",
+      "score": -0.7560238565797833,
+      "horse_number": 13,
+      "odds": 45.4
+    }
+  ]
+}
