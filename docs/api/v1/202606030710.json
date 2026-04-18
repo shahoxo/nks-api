@@ -1,0 +1,112 @@
+{
+  "race_id": "202606030710",
+  "race_name": "下総S",
+  "race_time": "2026-04-18 15:01",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105356",
+      "horse_name": "ターコイズフリンジ",
+      "score": 0.5052146342235664,
+      "horse_number": 4,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101389",
+      "horse_name": "サトミノエンジェル",
+      "score": 0.32544535727281587,
+      "horse_number": 12,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105182",
+      "horse_name": "ドバイブルース",
+      "score": 0.32164490770878856,
+      "horse_number": 8,
+      "odds": 11.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100170",
+      "horse_name": "ヴァンドーム",
+      "score": 0.18889955820660675,
+      "horse_number": 11,
+      "odds": 9.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102987",
+      "horse_name": "バギーウィップ",
+      "score": 0.13161069422395827,
+      "horse_number": 10,
+      "odds": 6.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106623",
+      "horse_name": "エクリプスルバン",
+      "score": 0.10171903032254659,
+      "horse_number": 5,
+      "odds": 4.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104416",
+      "horse_name": "ワイドブリザード",
+      "score": -0.003002137425149585,
+      "horse_number": 9,
+      "odds": 4.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104738",
+      "horse_name": "ラフエイジアン",
+      "score": -0.13819852333331303,
+      "horse_number": 2,
+      "odds": 21.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105494",
+      "horse_name": "ニシノライコウ",
+      "score": -0.17808659926952727,
+      "horse_number": 7,
+      "odds": 42.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019101864",
+      "horse_name": "クロニクル",
+      "score": -0.26951694737151377,
+      "horse_number": 1,
+      "odds": 29.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100053",
+      "horse_name": "プレイサーゴールド",
+      "score": -0.3498065660320951,
+      "horse_number": 13,
+      "odds": 80.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106797",
+      "horse_name": "コスモジンバック",
+      "score": -0.4423139458015801,
+      "horse_number": 6,
+      "odds": 80.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018104646",
+      "horse_name": "オンザライン",
+      "score": -0.48724743977666496,
+      "horse_number": 3,
+      "odds": 101.2
+    }
+  ]
+}

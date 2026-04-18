@@ -1,0 +1,136 @@
+{
+  "race_id": "202609020711",
+  "race_name": "アンタレスS",
+  "race_time": "2026-04-18 15:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020103331",
+      "horse_name": "ジェイパームス",
+      "score": 0.416280338022171,
+      "horse_number": 10,
+      "odds": 8.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106553",
+      "horse_name": "タガノバビロン",
+      "score": 0.387783704988535,
+      "horse_number": 3,
+      "odds": 9.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103020",
+      "horse_name": "ムルソー",
+      "score": 0.3166454914288478,
+      "horse_number": 4,
+      "odds": 4.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020100061",
+      "horse_name": "モックモック",
+      "score": 0.27536098810148607,
+      "horse_number": 2,
+      "odds": 12.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106565",
+      "horse_name": "ブライアンセンス",
+      "score": 0.2231584026459411,
+      "horse_number": 1,
+      "odds": 5.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105630",
+      "horse_name": "ルシュヴァルドール",
+      "score": 0.1939595980957454,
+      "horse_number": 6,
+      "odds": 7.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100154",
+      "horse_name": "メイショウズイウン",
+      "score": 0.16625722081830793,
+      "horse_number": 13,
+      "odds": 51.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102117",
+      "horse_name": "シュラザック",
+      "score": 0.1148544597193949,
+      "horse_number": 14,
+      "odds": 97.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100653",
+      "horse_name": "ロードラビリンス",
+      "score": 0.0806834913351266,
+      "horse_number": 15,
+      "odds": 109.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104136",
+      "horse_name": "サンデーファンデー",
+      "score": 0.07605954132213137,
+      "horse_number": 8,
+      "odds": 7.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105979",
+      "horse_name": "ピカピカサンダー",
+      "score": -0.0010593434715275418,
+      "horse_number": 9,
+      "odds": 31.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019100630",
+      "horse_name": "ハピ",
+      "score": -0.06517315431030671,
+      "horse_number": 11,
+      "odds": 23.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104497",
+      "horse_name": "サイモンザナドゥ",
+      "score": -0.1212791128812522,
+      "horse_number": 12,
+      "odds": 19.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104245",
+      "horse_name": "ペイシャエス",
+      "score": -0.1365278659221663,
+      "horse_number": 7,
+      "odds": 68.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100912",
+      "horse_name": "ジューンアヲニヨシ",
+      "score": -0.13750903867752273,
+      "horse_number": 16,
+      "odds": 19.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106925",
+      "horse_name": "ハグ",
+      "score": -0.1580537464175219,
+      "horse_number": 5,
+      "odds": 81.8
+    }
+  ]
+}

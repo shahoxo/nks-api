@@ -1,0 +1,128 @@
+{
+  "race_id": "202603010311",
+  "race_name": "ラジオ福島賞",
+  "race_time": "2026-04-18 15:15",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103778",
+      "horse_name": "ライフゲート",
+      "score": 0.14597594460692875,
+      "horse_number": 10,
+      "odds": 9.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105229",
+      "horse_name": "シーニックビュー",
+      "score": 0.09659095774114247,
+      "horse_number": 7,
+      "odds": 16.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105443",
+      "horse_name": "モレポブラーノ",
+      "score": 0.07388139609693052,
+      "horse_number": 2,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103154",
+      "horse_name": "メイショウカシワデ",
+      "score": 0.01446613814341581,
+      "horse_number": 8,
+      "odds": 6.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103047",
+      "horse_name": "ホウショウマリス",
+      "score": -0.05353128539342417,
+      "horse_number": 3,
+      "odds": 5.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105201",
+      "horse_name": "ラマンシュ",
+      "score": -0.07113462026660014,
+      "horse_number": 13,
+      "odds": 6.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105604",
+      "horse_name": "ステラスプレンダー",
+      "score": -0.12330964323036858,
+      "horse_number": 14,
+      "odds": 22.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102200",
+      "horse_name": "レッドライトニング",
+      "score": -0.13288925985487715,
+      "horse_number": 11,
+      "odds": 11.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021110062",
+      "horse_name": "ヒストリアイ",
+      "score": -0.21645790332982592,
+      "horse_number": 1,
+      "odds": 27.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104395",
+      "horse_name": "サンドオブエテル",
+      "score": -0.25708893095598767,
+      "horse_number": 4,
+      "odds": 19.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105141",
+      "horse_name": "レーヴブリリアント",
+      "score": -0.26118712765030094,
+      "horse_number": 15,
+      "odds": 10.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105849",
+      "horse_name": "オコタンペ",
+      "score": -0.26590162862726524,
+      "horse_number": 5,
+      "odds": 20.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019101330",
+      "horse_name": "アイファーグローブ",
+      "score": -0.37044249247062877,
+      "horse_number": 6,
+      "odds": 28.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101431",
+      "horse_name": "クリノキングマン",
+      "score": -0.478028343308868,
+      "horse_number": 12,
+      "odds": 23.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021107212",
+      "horse_name": "ファイントパーズ",
+      "score": -0.5571591147593161,
+      "horse_number": 9,
+      "odds": 34.8
+    }
+  ]
+}
