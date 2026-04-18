@@ -1,0 +1,112 @@
+{
+  "race_id": "202606030712",
+  "race_name": "葛飾特別",
+  "race_time": "2026-04-18 16:30",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104058",
+      "horse_name": "ライトニングゼウス",
+      "score": 0.4447425657395369,
+      "horse_number": 12,
+      "odds": 2.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100194",
+      "horse_name": "ハヤテノツバサ",
+      "score": 0.158012387227374,
+      "horse_number": 7,
+      "odds": 7.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107359",
+      "horse_name": "サマースイートピー",
+      "score": 0.14865648770646622,
+      "horse_number": 11,
+      "odds": 21.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106568",
+      "horse_name": "ドナカルナバル",
+      "score": 0.10550821374725626,
+      "horse_number": 10,
+      "odds": 16.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019105041",
+      "horse_name": "ホウオウプレミア",
+      "score": 0.05502013097051478,
+      "horse_number": 5,
+      "odds": 8.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103859",
+      "horse_name": "タイセイルヴァン",
+      "score": -0.010670009706484806,
+      "horse_number": 8,
+      "odds": 9.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105949",
+      "horse_name": "ケンキョ",
+      "score": -0.048919087503787276,
+      "horse_number": 4,
+      "odds": 14.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100574",
+      "horse_name": "ルイステソーロ",
+      "score": -0.10785545317870641,
+      "horse_number": 13,
+      "odds": 8.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100639",
+      "horse_name": "アストラカ",
+      "score": -0.22282352356438323,
+      "horse_number": 9,
+      "odds": 19.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105958",
+      "horse_name": "ブリーズオンチーク",
+      "score": -0.31184747330981893,
+      "horse_number": 1,
+      "odds": 88.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102163",
+      "horse_name": "フォーワンセルフ",
+      "score": -0.46655822319548734,
+      "horse_number": 3,
+      "odds": 50.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100674",
+      "horse_name": "イモータルバード",
+      "score": -0.4773060615064652,
+      "horse_number": 2,
+      "odds": 27.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104960",
+      "horse_name": "トロピカルヒーロー",
+      "score": -0.5530974180867849,
+      "horse_number": 6,
+      "odds": 95.9
+    }
+  ]
+}

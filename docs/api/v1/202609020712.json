@@ -1,0 +1,128 @@
+{
+  "race_id": "202609020712",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-18 16:10",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100660",
+      "horse_name": "ロードヴァルカン",
+      "score": 0.26635746286752865,
+      "horse_number": 12,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106200",
+      "horse_name": "ミヤジマナ",
+      "score": 0.18511693994513354,
+      "horse_number": 10,
+      "odds": 6.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101396",
+      "horse_name": "サンライズブレイク",
+      "score": 0.07802481474166696,
+      "horse_number": 13,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104151",
+      "horse_name": "カネコメファミリー",
+      "score": 0.07102926541268363,
+      "horse_number": 15,
+      "odds": 17.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103842",
+      "horse_name": "ニホンピロカラット",
+      "score": 0.06410626628366053,
+      "horse_number": 11,
+      "odds": 7.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103440",
+      "horse_name": "インディゴアスール",
+      "score": 0.038257546645089735,
+      "horse_number": 14,
+      "odds": 9.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104611",
+      "horse_name": "ジュンライトニング",
+      "score": 0.008687428475653054,
+      "horse_number": 7,
+      "odds": 11.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105321",
+      "horse_name": "ハウリングウィンド",
+      "score": -0.09371193968841746,
+      "horse_number": 6,
+      "odds": 10.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100366",
+      "horse_name": "リトムテール",
+      "score": -0.1273501765412237,
+      "horse_number": 3,
+      "odds": 44.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102550",
+      "horse_name": "メイショウハッブル",
+      "score": -0.128041247911893,
+      "horse_number": 8,
+      "odds": 22.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100997",
+      "horse_name": "ジョードリウム",
+      "score": -0.13359661935294267,
+      "horse_number": 1,
+      "odds": 29.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106355",
+      "horse_name": "フェゲフォイア",
+      "score": -0.23849513396055455,
+      "horse_number": 4,
+      "odds": 61.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101082",
+      "horse_name": "フェアリーメドウ",
+      "score": -0.24949427184157907,
+      "horse_number": 9,
+      "odds": 56.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103307",
+      "horse_name": "サンライズジュピタ",
+      "score": -0.43698531304998767,
+      "horse_number": 2,
+      "odds": 25.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106189",
+      "horse_name": "デュアルロール",
+      "score": -0.5907216745266844,
+      "horse_number": 5,
+      "odds": 40.3
+    }
+  ]
+}
