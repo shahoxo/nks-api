@@ -1,0 +1,88 @@
+{
+  "race_id": "202606030707",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-18 13:25",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105154",
+      "horse_name": "イリュストル",
+      "score": 0.3573065063317112,
+      "horse_number": 7,
+      "odds": 7.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105338",
+      "horse_name": "リポサンテ",
+      "score": 0.18824945580575247,
+      "horse_number": 10,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103537",
+      "horse_name": "トゥルーサクセサー",
+      "score": 0.07391423755249797,
+      "horse_number": 3,
+      "odds": 3.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102745",
+      "horse_name": "ベネスピラ",
+      "score": 0.030108655913822013,
+      "horse_number": 9,
+      "odds": 6.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104929",
+      "horse_name": "バニーラビット",
+      "score": -0.19036148858161672,
+      "horse_number": 5,
+      "odds": 15.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102846",
+      "horse_name": "カフェロワドール",
+      "score": -0.2387619865015549,
+      "horse_number": 1,
+      "odds": 34.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102604",
+      "horse_name": "サンライズバブル",
+      "score": -0.27560094689401315,
+      "horse_number": 8,
+      "odds": 5.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104936",
+      "horse_name": "エンスエーニョ",
+      "score": -0.3604934679780462,
+      "horse_number": 4,
+      "odds": 26.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101498",
+      "horse_name": "クモヒトツナイ",
+      "score": -0.4095147337841495,
+      "horse_number": 6,
+      "odds": 17.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104778",
+      "horse_name": "チャイボーグ",
+      "score": -0.6231610526085567,
+      "horse_number": 2,
+      "odds": 67.5
+    }
+  ]
+}

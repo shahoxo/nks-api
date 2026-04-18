@@ -1,0 +1,128 @@
+{
+  "race_id": "202603010308",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-18 13:35",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105739",
+      "horse_name": "カルテシウス",
+      "score": -0.015198040648254856,
+      "horse_number": 10,
+      "odds": 19.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020106205",
+      "horse_name": "メイショウクーガー",
+      "score": -0.016686213518286676,
+      "horse_number": 2,
+      "odds": 8.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103229",
+      "horse_name": "ウォーターパラディ",
+      "score": -0.05194932705390752,
+      "horse_number": 11,
+      "odds": 8.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102486",
+      "horse_name": "キタノブレイク",
+      "score": -0.1378663274651212,
+      "horse_number": 13,
+      "odds": 48.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104222",
+      "horse_name": "リアルフォルゴーレ",
+      "score": -0.15609872540951894,
+      "horse_number": 12,
+      "odds": 18.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106259",
+      "horse_name": "ララエキリーブル",
+      "score": -0.22423222077285512,
+      "horse_number": 5,
+      "odds": 13.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106924",
+      "horse_name": "ハイクオリティ",
+      "score": -0.25143034603865577,
+      "horse_number": 8,
+      "odds": 2.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106785",
+      "horse_name": "コスモシェルベット",
+      "score": -0.28822774032946175,
+      "horse_number": 7,
+      "odds": 15.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104311",
+      "horse_name": "ヤングアメリカンズ",
+      "score": -0.30289549300968815,
+      "horse_number": 3,
+      "odds": 13.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021107123",
+      "horse_name": "イイデカンタロウ",
+      "score": -0.3670049005182393,
+      "horse_number": 14,
+      "odds": 28.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106361",
+      "horse_name": "ボナーテソーロ",
+      "score": -0.3889338961108336,
+      "horse_number": 1,
+      "odds": 31.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102550",
+      "horse_name": "メイショウピリカ",
+      "score": -0.43391063997203183,
+      "horse_number": 6,
+      "odds": 13.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019106972",
+      "horse_name": "ロストボール",
+      "score": -0.5619855808996145,
+      "horse_number": 15,
+      "odds": 117.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105677",
+      "horse_name": "ローガンパス",
+      "score": -0.5738177826268341,
+      "horse_number": 4,
+      "odds": 50.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106627",
+      "horse_name": "クリオシダード",
+      "score": -0.623472741996658,
+      "horse_number": 9,
+      "odds": 26.3
+    }
+  ]
+}
