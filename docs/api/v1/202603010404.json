@@ -1,0 +1,128 @@
+{
+  "race_id": "202603010404",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-19 11:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101091",
+      "horse_name": "ストリートクイーン",
+      "score": 0.3065122453205103,
+      "horse_number": 15,
+      "odds": 8.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100925",
+      "horse_name": "サトノワーグナー",
+      "score": 0.19362492795393088,
+      "horse_number": 3,
+      "odds": 4.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106573",
+      "horse_name": "アイビーチーキー",
+      "score": 0.14830605402311167,
+      "horse_number": 11,
+      "odds": 8.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105187",
+      "horse_name": "アドフランマム",
+      "score": 0.07789494147757417,
+      "horse_number": 9,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102586",
+      "horse_name": "トゥルージョワ",
+      "score": 0.0204274459808084,
+      "horse_number": 2,
+      "odds": 8.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107086",
+      "horse_name": "アラクラン",
+      "score": -0.03914809733343747,
+      "horse_number": 10,
+      "odds": 5.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103190",
+      "horse_name": "2023103190",
+      "score": -0.2139641927889166,
+      "horse_number": 5,
+      "odds": 9.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107245",
+      "horse_name": "マルシュボヌール",
+      "score": -0.3809423857722708,
+      "horse_number": 7,
+      "odds": 10.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104410",
+      "horse_name": "2023104410",
+      "score": -0.4373125640186424,
+      "horse_number": 6,
+      "odds": 52.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101880",
+      "horse_name": "オーケーグリット",
+      "score": -0.645839098750521,
+      "horse_number": 12,
+      "odds": 42.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106686",
+      "horse_name": "エッジランナー",
+      "score": -0.6732626067852269,
+      "horse_number": 14,
+      "odds": 70.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102964",
+      "horse_name": "タイガーゲイト",
+      "score": -0.7265140734648036,
+      "horse_number": 8,
+      "odds": 32.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105076",
+      "horse_name": "グランドタルマエ",
+      "score": -0.7265140734648036,
+      "horse_number": 13,
+      "odds": 56.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100862",
+      "horse_name": "ゴールデンボート",
+      "score": -0.7344997899121097,
+      "horse_number": 1,
+      "odds": 32.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100425",
+      "horse_name": "ヒケヤイワフネ",
+      "score": -0.7560238565797833,
+      "horse_number": 4,
+      "odds": 76.5
+    }
+  ]
+}

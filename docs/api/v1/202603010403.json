@@ -1,0 +1,136 @@
+{
+  "race_id": "202603010403",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-19 10:40",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106007",
+      "horse_name": "スマートエラン",
+      "score": 0.053474610026197966,
+      "horse_number": 12,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107007",
+      "horse_name": "グラスベルグ",
+      "score": -0.09807288598786267,
+      "horse_number": 8,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105119",
+      "horse_name": "2023105119",
+      "score": -0.12459612101157572,
+      "horse_number": 9,
+      "odds": 16.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106106",
+      "horse_name": "サクセスブルー",
+      "score": -0.12604668888892526,
+      "horse_number": 2,
+      "odds": 9.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103155",
+      "horse_name": "エグジスタンス",
+      "score": -0.1689183535715535,
+      "horse_number": 7,
+      "odds": 7.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103415",
+      "horse_name": "クリムゾンバースト",
+      "score": -0.1867159287037531,
+      "horse_number": 13,
+      "odds": 19.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103051",
+      "horse_name": "ミズノミヤコ",
+      "score": -0.18806188696910375,
+      "horse_number": 5,
+      "odds": 11.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105282",
+      "horse_name": "キトゥンズラスター",
+      "score": -0.27476870401945824,
+      "horse_number": 4,
+      "odds": 20.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105649",
+      "horse_name": "2023105649",
+      "score": -0.3313822657543265,
+      "horse_number": 15,
+      "odds": 26.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106489",
+      "horse_name": "2023106489",
+      "score": -0.3652819503569378,
+      "horse_number": 11,
+      "odds": 12.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106146",
+      "horse_name": "エコロゼット",
+      "score": -0.4214248044451462,
+      "horse_number": 16,
+      "odds": 33.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102128",
+      "horse_name": "マコトアディントン",
+      "score": -0.46329147076543964,
+      "horse_number": 1,
+      "odds": 8.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106722",
+      "horse_name": "サイレントワルツ",
+      "score": -0.5139978928314399,
+      "horse_number": 14,
+      "odds": 91.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105860",
+      "horse_name": "ウインシャリーフ",
+      "score": -0.5670515164495529,
+      "horse_number": 10,
+      "odds": 22.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023107035",
+      "horse_name": "エクラドット",
+      "score": -0.572450071734634,
+      "horse_number": 6,
+      "odds": 12.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105712",
+      "horse_name": "ソルプレーザ",
+      "score": -0.7344997899121097,
+      "horse_number": 3,
+      "odds": 85.0
+    }
+  ]
+}
