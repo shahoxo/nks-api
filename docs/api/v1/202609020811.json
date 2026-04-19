@@ -1,0 +1,88 @@
+{
+  "race_id": "202609020811",
+  "race_name": "立雲峡S",
+  "race_time": "2026-04-19 15:25",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104145",
+      "horse_name": "インヴォーグ",
+      "score": 0.1988606567463534,
+      "horse_number": 4,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105011",
+      "horse_name": "ラーンザロープス",
+      "score": 0.04158464583406562,
+      "horse_number": 1,
+      "odds": 7.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103428",
+      "horse_name": "スイープアワーズ",
+      "score": 0.024250821320020613,
+      "horse_number": 5,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106306",
+      "horse_name": "ゼンダンハヤブサ",
+      "score": -0.07952909354591478,
+      "horse_number": 9,
+      "odds": 12.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020105305",
+      "horse_name": "アウフヘーベン",
+      "score": -0.10686405033879205,
+      "horse_number": 3,
+      "odds": 13.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102391",
+      "horse_name": "グーテンベルク",
+      "score": -0.11898663958950241,
+      "horse_number": 10,
+      "odds": 7.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100363",
+      "horse_name": "パワーホール",
+      "score": -0.203111251230546,
+      "horse_number": 8,
+      "odds": 7.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103245",
+      "horse_name": "ミッキージュエリー",
+      "score": -0.20334880015371903,
+      "horse_number": 6,
+      "odds": 8.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105783",
+      "horse_name": "ネーヴェフレスカ",
+      "score": -0.21681493684226785,
+      "horse_number": 2,
+      "odds": 6.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103754",
+      "horse_name": "ミストレス",
+      "score": -0.2594713141967197,
+      "horse_number": 7,
+      "odds": 45.3
+    }
+  ]
+}

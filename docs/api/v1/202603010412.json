@@ -1,0 +1,128 @@
+{
+  "race_id": "202603010412",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-19 16:01",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106513",
+      "horse_name": "キーガッツ",
+      "score": 0.1154851328621675,
+      "horse_number": 6,
+      "odds": 7.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101607",
+      "horse_name": "イチトゼロノアイダ",
+      "score": 0.08389829588934664,
+      "horse_number": 5,
+      "odds": 8.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102103",
+      "horse_name": "レイアポポ",
+      "score": 0.04038816246185423,
+      "horse_number": 7,
+      "odds": 8.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106332",
+      "horse_name": "ミルミナーヴァ",
+      "score": -0.11855199631901679,
+      "horse_number": 9,
+      "odds": 3.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101521",
+      "horse_name": "グッドヴァイブス",
+      "score": -0.13518776455783582,
+      "horse_number": 1,
+      "odds": 22.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103256",
+      "horse_name": "カフジキアッキエレ",
+      "score": -0.1476913788242854,
+      "horse_number": 11,
+      "odds": 13.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105215",
+      "horse_name": "ジーティームッシュ",
+      "score": -0.16811340386486562,
+      "horse_number": 3,
+      "odds": 4.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105525",
+      "horse_name": "カツノテンス",
+      "score": -0.3184159434767885,
+      "horse_number": 4,
+      "odds": 18.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103482",
+      "horse_name": "ウインドファルクス",
+      "score": -0.37413826648277304,
+      "horse_number": 8,
+      "odds": 27.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103396",
+      "horse_name": "クリナッチ",
+      "score": -0.5062508088254888,
+      "horse_number": 2,
+      "odds": 43.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020101265",
+      "horse_name": "オコジュ",
+      "score": -0.5672749854715552,
+      "horse_number": 10,
+      "odds": 35.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105609",
+      "horse_name": "ライヴドライバー",
+      "score": -0.6293301629666437,
+      "horse_number": 12,
+      "odds": 17.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102933",
+      "horse_name": "カルツァクライン",
+      "score": -0.663154355080354,
+      "horse_number": 13,
+      "odds": 31.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104617",
+      "horse_name": "ブルーリヴァーサル",
+      "score": -0.6859934208146856,
+      "horse_number": 15,
+      "odds": 78.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104437",
+      "horse_name": "ジャーニーメモリー",
+      "score": -0.7344997899121097,
+      "horse_number": 14,
+      "odds": 52.6
+    }
+  ]
+}

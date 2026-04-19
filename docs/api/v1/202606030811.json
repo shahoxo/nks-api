@@ -1,0 +1,152 @@
+{
+  "race_id": "202606030811",
+  "race_name": "皐月賞",
+  "race_time": "2026-04-19 15:40",
+  "race_place": "中山",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103604",
+      "horse_name": "リアライズシリウス",
+      "score": 0.3278270453992606,
+      "horse_number": 15,
+      "odds": 5.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100946",
+      "horse_name": "マテンロウゲイル",
+      "score": 0.27911797070636085,
+      "horse_number": 8,
+      "odds": 12.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107377",
+      "horse_name": "パントルナイーフ",
+      "score": 0.25858386316599696,
+      "horse_number": 11,
+      "odds": 15.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105818",
+      "horse_name": "ロードフィレール",
+      "score": 0.2536678728179597,
+      "horse_number": 7,
+      "odds": 58.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107089",
+      "horse_name": "ロブチェン",
+      "score": 0.20156797071690385,
+      "horse_number": 4,
+      "odds": 4.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107153",
+      "horse_name": "カヴァレリッツォ",
+      "score": 0.18006619828209788,
+      "horse_number": 1,
+      "odds": 6.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106850",
+      "horse_name": "ゾロアストロ",
+      "score": 0.1715334154078084,
+      "horse_number": 14,
+      "odds": 29.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107247",
+      "horse_name": "バステール",
+      "score": 0.15802774539782496,
+      "horse_number": 18,
+      "odds": 14.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106400",
+      "horse_name": "アスクエジンバラ",
+      "score": 0.15115943086086703,
+      "horse_number": 5,
+      "odds": 40.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107345",
+      "horse_name": "フォルテアンジェロ",
+      "score": 0.1402681972636151,
+      "horse_number": 6,
+      "odds": 29.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103480",
+      "horse_name": "アルトラムス",
+      "score": 0.13741873496706195,
+      "horse_number": 16,
+      "odds": 54.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105456",
+      "horse_name": "グリーンエナジー",
+      "score": 0.1368277580215481,
+      "horse_number": 12,
+      "odds": 4.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103687",
+      "horse_name": "ライヒスアドラー",
+      "score": 0.11511209198923608,
+      "horse_number": 9,
+      "odds": 24.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106978",
+      "horse_name": "アクロフェイズ",
+      "score": 0.11014133039291665,
+      "horse_number": 13,
+      "odds": 96.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101449",
+      "horse_name": "サウンドムーブ",
+      "score": 0.07708518590096257,
+      "horse_number": 2,
+      "odds": 109.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105311",
+      "horse_name": "アドマイヤクワッズ",
+      "score": 0.07131698618048662,
+      "horse_number": 17,
+      "odds": 15.7
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023100724",
+      "horse_name": "サノノグレーター",
+      "score": -0.02939786284798876,
+      "horse_number": 3,
+      "odds": 66.2
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023105560",
+      "horse_name": "ラージアンサンブル",
+      "score": -0.11926278780759252,
+      "horse_number": 10,
+      "odds": 164.9
+    }
+  ]
+}
