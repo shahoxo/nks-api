@@ -1,0 +1,136 @@
+{
+  "race_id": "202603010409",
+  "race_name": "須賀川特別",
+  "race_time": "2026-04-19 14:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105398",
+      "horse_name": "セゾンデフィーユ",
+      "score": 0.2822117915778922,
+      "horse_number": 1,
+      "odds": 1.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100958",
+      "horse_name": "ビッグフラワー",
+      "score": 0.10168250835965098,
+      "horse_number": 15,
+      "odds": 18.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101405",
+      "horse_name": "ララバニュルス",
+      "score": 0.07687891258303022,
+      "horse_number": 16,
+      "odds": 14.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103932",
+      "horse_name": "ジェニファー",
+      "score": 0.06129800982208296,
+      "horse_number": 8,
+      "odds": 17.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104985",
+      "horse_name": "シャイフ",
+      "score": 0.048909597121539375,
+      "horse_number": 11,
+      "odds": 11.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106206",
+      "horse_name": "ウインラウダ",
+      "score": 0.023100266124463788,
+      "horse_number": 4,
+      "odds": 22.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101896",
+      "horse_name": "デアリングエア",
+      "score": -0.08152547366712422,
+      "horse_number": 5,
+      "odds": 22.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104806",
+      "horse_name": "レオナルドスター",
+      "score": -0.17018403848440403,
+      "horse_number": 9,
+      "odds": 24.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103261",
+      "horse_name": "アウクソー",
+      "score": -0.17148213223871275,
+      "horse_number": 10,
+      "odds": 37.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102696",
+      "horse_name": "ラブリーガール",
+      "score": -0.17479106210714562,
+      "horse_number": 6,
+      "odds": 43.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105162",
+      "horse_name": "ルージュナリッシュ",
+      "score": -0.19259203131669503,
+      "horse_number": 12,
+      "odds": 28.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103885",
+      "horse_name": "クリノゴッホ",
+      "score": -0.3060692652459605,
+      "horse_number": 7,
+      "odds": 70.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104953",
+      "horse_name": "モティスフォント",
+      "score": -0.31715086276391335,
+      "horse_number": 2,
+      "odds": 19.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103535",
+      "horse_name": "シャインズオンユー",
+      "score": -0.329057545906753,
+      "horse_number": 13,
+      "odds": 24.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022109033",
+      "horse_name": "ミツカネリブラ",
+      "score": -0.47745180671574894,
+      "horse_number": 14,
+      "odds": 111.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104681",
+      "horse_name": "デュアルアップ",
+      "score": -0.7080136536659949,
+      "horse_number": 3,
+      "odds": 49.7
+    }
+  ]
+}

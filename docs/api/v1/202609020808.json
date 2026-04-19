@@ -1,0 +1,96 @@
+{
+  "race_id": "202609020808",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-19 13:40",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103227",
+      "horse_name": "レッドイステル",
+      "score": 0.127719364561932,
+      "horse_number": 6,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104267",
+      "horse_name": "レヴァンテシチー",
+      "score": 0.11046878512344219,
+      "horse_number": 10,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102906",
+      "horse_name": "オリジナルファイン",
+      "score": 0.09006888818334956,
+      "horse_number": 11,
+      "odds": 17.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019104261",
+      "horse_name": "メイショウオグマ",
+      "score": 0.02505590113639178,
+      "horse_number": 8,
+      "odds": 14.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105848",
+      "horse_name": "ステイクオール",
+      "score": -0.049291958890198107,
+      "horse_number": 4,
+      "odds": 6.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104403",
+      "horse_name": "ニシノミチアキ",
+      "score": -0.27542619848972966,
+      "horse_number": 5,
+      "odds": 20.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022107248",
+      "horse_name": "ルシャリオ",
+      "score": -0.3283812757391592,
+      "horse_number": 9,
+      "odds": 10.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102839",
+      "horse_name": "メイショウカスガイ",
+      "score": -0.5494931663403189,
+      "horse_number": 3,
+      "odds": 12.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104872",
+      "horse_name": "ビルンバウム",
+      "score": -0.5520003421025013,
+      "horse_number": 7,
+      "odds": 7.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022107325",
+      "horse_name": "レーンアジリティ",
+      "score": -0.5760746846438438,
+      "horse_number": 2,
+      "odds": 10.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101391",
+      "horse_name": "ブラックドレス",
+      "score": -0.6318373387288261,
+      "horse_number": 1,
+      "odds": 66.7
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "race_id": "202609020809",
+  "race_name": "蓬莱峡特別",
+  "race_time": "2026-04-19 14:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102597",
+      "horse_name": "ラビットアイ",
+      "score": 0.14586464993161477,
+      "horse_number": 3,
+      "odds": 5.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105438",
+      "horse_name": "ジョイエッロ",
+      "score": 0.1105027233113592,
+      "horse_number": 10,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105102",
+      "horse_name": "スターリングアップ",
+      "score": -0.013833570619182514,
+      "horse_number": 4,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105459",
+      "horse_name": "ヴィスマール",
+      "score": -0.041258156611635406,
+      "horse_number": 7,
+      "odds": 4.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019100606",
+      "horse_name": "ヤマニンループ",
+      "score": -0.178876518775748,
+      "horse_number": 6,
+      "odds": 4.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100597",
+      "horse_name": "ズイウンゴサイ",
+      "score": -0.27494256035061854,
+      "horse_number": 9,
+      "odds": 13.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019101007",
+      "horse_name": "タケトンボ",
+      "score": -0.4120501957477898,
+      "horse_number": 8,
+      "odds": 14.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103821",
+      "horse_name": "ハイディージェン",
+      "score": -0.49725630709597934,
+      "horse_number": 5,
+      "odds": 51.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106475",
+      "horse_name": "ピンキープロミス",
+      "score": -0.5329960636845111,
+      "horse_number": 2,
+      "odds": 26.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2017104681",
+      "horse_name": "ナムアミダブツ",
+      "score": -0.5833309696314021,
+      "horse_number": 1,
+      "odds": 36.8
+    }
+  ]
+}
