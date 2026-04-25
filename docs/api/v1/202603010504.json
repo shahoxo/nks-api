@@ -1,0 +1,136 @@
+{
+  "race_id": "202603010504",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-25 11:15",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106658",
+      "horse_name": "ニンジャトットリ",
+      "score": -0.17594769060476576,
+      "horse_number": 8,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106319",
+      "horse_name": "ルヴレアール",
+      "score": -0.1859307283036739,
+      "horse_number": 11,
+      "odds": 11.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102740",
+      "horse_name": "ブレイヴソルジャー",
+      "score": -0.25305492662863455,
+      "horse_number": 7,
+      "odds": 3.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103860",
+      "horse_name": "フィールマイプラン",
+      "score": -0.29275325312751577,
+      "horse_number": 16,
+      "odds": 11.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106331",
+      "horse_name": "ジーティーニッツァ",
+      "score": -0.45174936842115554,
+      "horse_number": 15,
+      "odds": 44.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102674",
+      "horse_name": "コウソクルリアン",
+      "score": -0.5128497880558042,
+      "horse_number": 3,
+      "odds": 4.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106105",
+      "horse_name": "ユナダイヤ",
+      "score": -0.5403983867142486,
+      "horse_number": 10,
+      "odds": 55.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100006",
+      "horse_name": "セイウンヤオヨロズ",
+      "score": -0.5628851560431606,
+      "horse_number": 2,
+      "odds": 16.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104001",
+      "horse_name": "クルビデンス",
+      "score": -0.5636716945698683,
+      "horse_number": 14,
+      "odds": 68.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023109088",
+      "horse_name": "ガクエンテンゴク",
+      "score": -0.5741361404475822,
+      "horse_number": 1,
+      "odds": 46.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102636",
+      "horse_name": "マロ",
+      "score": -0.6970415147616792,
+      "horse_number": 9,
+      "odds": 10.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101191",
+      "horse_name": "リスペクトライト",
+      "score": -0.7080821696337422,
+      "horse_number": 12,
+      "odds": 85.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101158",
+      "horse_name": "ヴェントディルーナ",
+      "score": -0.723527651007794,
+      "horse_number": 4,
+      "odds": 31.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101280",
+      "horse_name": "ブレイシオン",
+      "score": -0.7265140734648036,
+      "horse_number": 13,
+      "odds": 47.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106357",
+      "horse_name": "ビースタニング",
+      "score": -0.7295377203336686,
+      "horse_number": 5,
+      "odds": 83.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023109103",
+      "horse_name": "カシノユメミヅキ",
+      "score": -0.7344997899121097,
+      "horse_number": 6,
+      "odds": 85.2
+    }
+  ]
+}

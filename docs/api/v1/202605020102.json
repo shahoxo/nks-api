@@ -1,0 +1,136 @@
+{
+  "race_id": "202605020102",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-25 10:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023110017",
+      "horse_name": "2023110017",
+      "score": 0.038892979333968396,
+      "horse_number": 14,
+      "odds": 17.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104708",
+      "horse_name": "ヘイスティハート",
+      "score": 0.024437089612734546,
+      "horse_number": 5,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104042",
+      "horse_name": "ライカ",
+      "score": 0.010078515820077787,
+      "horse_number": 16,
+      "odds": 7.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103603",
+      "horse_name": "レッドジェルブロワ",
+      "score": -0.008976887237182197,
+      "horse_number": 1,
+      "odds": 27.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100789",
+      "horse_name": "サリーアン",
+      "score": -0.038207205084672166,
+      "horse_number": 15,
+      "odds": 17.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100368",
+      "horse_name": "2023100368",
+      "score": -0.07571094776897289,
+      "horse_number": 4,
+      "odds": 5.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023110049",
+      "horse_name": "2023110049",
+      "score": -0.10078132090190448,
+      "horse_number": 11,
+      "odds": 28.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100861",
+      "horse_name": "ウェスケンジントン",
+      "score": -0.10400607120674801,
+      "horse_number": 2,
+      "odds": 8.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104432",
+      "horse_name": "カラクリスピリッツ",
+      "score": -0.15304266964238514,
+      "horse_number": 6,
+      "odds": 30.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104040",
+      "horse_name": "ココラッシー",
+      "score": -0.2803201897771798,
+      "horse_number": 13,
+      "odds": 3.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100927",
+      "horse_name": "マスターストーン",
+      "score": -0.3336905618771644,
+      "horse_number": 9,
+      "odds": 14.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103337",
+      "horse_name": "コロッセウム",
+      "score": -0.567539982023708,
+      "horse_number": 7,
+      "odds": 67.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101578",
+      "horse_name": "コパノミラノ",
+      "score": -0.596593617549952,
+      "horse_number": 12,
+      "odds": 21.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023107537",
+      "horse_name": "グリュック",
+      "score": -0.6967290936486265,
+      "horse_number": 8,
+      "odds": 108.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104666",
+      "horse_name": "ミュークトーマス",
+      "score": -0.6997242947219148,
+      "horse_number": 3,
+      "odds": 78.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106274",
+      "horse_name": "ニシノバリキング",
+      "score": -0.7212483613895885,
+      "horse_number": 10,
+      "odds": 105.6
+    }
+  ]
+}

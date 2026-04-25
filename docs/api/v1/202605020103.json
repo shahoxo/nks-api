@@ -1,0 +1,112 @@
+{
+  "race_id": "202605020103",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-25 11:05",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103731",
+      "horse_name": "モデレートゲイル",
+      "score": 0.014266986539226305,
+      "horse_number": 11,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106860",
+      "horse_name": "アーティキュレート",
+      "score": -0.039458691943536774,
+      "horse_number": 12,
+      "odds": 11.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105319",
+      "horse_name": "ネイティヴプライド",
+      "score": -0.16663979763292733,
+      "horse_number": 7,
+      "odds": 11.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103332",
+      "horse_name": "ウェイヴムーン",
+      "score": -0.1929648941488378,
+      "horse_number": 1,
+      "odds": 12.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105577",
+      "horse_name": "グランフィエスタ",
+      "score": -0.2390993414088953,
+      "horse_number": 13,
+      "odds": 33.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102915",
+      "horse_name": "テンレディーゴー",
+      "score": -0.4778882860706638,
+      "horse_number": 9,
+      "odds": 56.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106452",
+      "horse_name": "コスモラムバック",
+      "score": -0.4863244973281694,
+      "horse_number": 4,
+      "odds": 7.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103473",
+      "horse_name": "チャリティチャリス",
+      "score": -0.5587643418779007,
+      "horse_number": 10,
+      "odds": 47.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100204",
+      "horse_name": "キタイノホシ",
+      "score": -0.5587930761583654,
+      "horse_number": 5,
+      "odds": 36.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102084",
+      "horse_name": "2023102084",
+      "score": -0.5605472818472005,
+      "horse_number": 6,
+      "odds": 1.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102016",
+      "horse_name": "ウインエンブレム",
+      "score": -0.7212483613895885,
+      "horse_number": 3,
+      "odds": 75.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100313",
+      "horse_name": "オーキッドワン",
+      "score": -0.745636725054484,
+      "horse_number": 2,
+      "odds": 71.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100783",
+      "horse_name": "モメンタムシフト",
+      "score": -0.7560238565797833,
+      "horse_number": 8,
+      "odds": 118.2
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "race_id": "202608030103",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-25 10:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103235",
+      "horse_name": "コールラヴ",
+      "score": 0.2829246723844899,
+      "horse_number": 1,
+      "odds": 7.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106894",
+      "horse_name": "ハヤブササキチャン",
+      "score": 0.2545377261040637,
+      "horse_number": 12,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105967",
+      "horse_name": "ビロングトゥミー",
+      "score": 0.20518188613421784,
+      "horse_number": 8,
+      "odds": 7.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101938",
+      "horse_name": "メイショウローゼ",
+      "score": 0.18590315095576232,
+      "horse_number": 13,
+      "odds": 17.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023109106",
+      "horse_name": "ダイチノナポリ",
+      "score": 0.08297035995946568,
+      "horse_number": 15,
+      "odds": 18.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103607",
+      "horse_name": "ロッサコメータ",
+      "score": 0.062258949580709384,
+      "horse_number": 4,
+      "odds": 15.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105292",
+      "horse_name": "サンダーバード",
+      "score": -0.0027098022387661656,
+      "horse_number": 9,
+      "odds": 10.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106990",
+      "horse_name": "ゲフィオン",
+      "score": -0.050034614650195264,
+      "horse_number": 11,
+      "odds": 11.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103081",
+      "horse_name": "2023103081",
+      "score": -0.22901892161629853,
+      "horse_number": 2,
+      "odds": 16.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103605",
+      "horse_name": "ルージュソムニウム",
+      "score": -0.3207053476274525,
+      "horse_number": 3,
+      "odds": 8.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023107123",
+      "horse_name": "デュードロップ",
+      "score": -0.3986095620942246,
+      "horse_number": 14,
+      "odds": 25.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101585",
+      "horse_name": "メイショウプレマ",
+      "score": -0.4455552291278867,
+      "horse_number": 6,
+      "odds": 26.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105993",
+      "horse_name": "2023105993",
+      "score": -0.47293600501096866,
+      "horse_number": 5,
+      "odds": 39.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103042",
+      "horse_name": "グリッタードール",
+      "score": -0.5281616935155898,
+      "horse_number": 10,
+      "odds": 57.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104321",
+      "horse_name": "タガノプトゥリ",
+      "score": -0.6970415147616792,
+      "horse_number": 7,
+      "odds": 118.4
+    }
+  ]
+}
