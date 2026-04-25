@@ -1,0 +1,136 @@
+{
+  "race_id": "202603010509",
+  "race_name": "雪うさぎ賞",
+  "race_time": "2026-04-25 14:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104015",
+      "horse_name": "ロジケープ",
+      "score": 0.2728233208816421,
+      "horse_number": 2,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100617",
+      "horse_name": "マナボニート",
+      "score": 0.23208238261541247,
+      "horse_number": 1,
+      "odds": 8.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103137",
+      "horse_name": "ハッピーラッキー",
+      "score": 0.20584756189543785,
+      "horse_number": 14,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107269",
+      "horse_name": "ムーンリットアイル",
+      "score": 0.12252754596978763,
+      "horse_number": 7,
+      "odds": 6.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105868",
+      "horse_name": "ナクソス",
+      "score": 0.0976646930520855,
+      "horse_number": 5,
+      "odds": 64.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101865",
+      "horse_name": "ウォーターデライト",
+      "score": 0.0908096226664236,
+      "horse_number": 12,
+      "odds": 20.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104079",
+      "horse_name": "メローネ",
+      "score": 0.05791580857373619,
+      "horse_number": 16,
+      "odds": 15.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106269",
+      "horse_name": "ニシノセイドウ",
+      "score": -0.08648179040639563,
+      "horse_number": 4,
+      "odds": 12.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103032",
+      "horse_name": "ロンドンオービタル",
+      "score": -0.10847531704801561,
+      "horse_number": 11,
+      "odds": 25.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102241",
+      "horse_name": "メイショウテリオス",
+      "score": -0.12822674048436836,
+      "horse_number": 10,
+      "odds": 40.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100479",
+      "horse_name": "ディヴァインスカイ",
+      "score": -0.17909334080148934,
+      "horse_number": 9,
+      "odds": 21.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023110097",
+      "horse_name": "ジャスパールビー",
+      "score": -0.22903335957702245,
+      "horse_number": 6,
+      "odds": 50.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023110054",
+      "horse_name": "クワイエットアイ",
+      "score": -0.2858349372044983,
+      "horse_number": 8,
+      "odds": 21.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100421",
+      "horse_name": "カシノリアーナ",
+      "score": -0.4202842329919897,
+      "horse_number": 3,
+      "odds": 65.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104115",
+      "horse_name": "2023104115",
+      "score": -0.44780483627041223,
+      "horse_number": 15,
+      "odds": 96.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106484",
+      "horse_name": "フェーダーローター",
+      "score": -0.5169377735285924,
+      "horse_number": 13,
+      "odds": 31.4
+    }
+  ]
+}

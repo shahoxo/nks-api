@@ -1,0 +1,136 @@
+{
+  "race_id": "202605020107",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-25 13:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101678",
+      "horse_name": "キャットテイル",
+      "score": 0.2876144319855028,
+      "horse_number": 7,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105585",
+      "horse_name": "クラリネットソナタ",
+      "score": 0.21449990485943732,
+      "horse_number": 16,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101864",
+      "horse_name": "マオノクラッシュ",
+      "score": 0.12514876744943698,
+      "horse_number": 8,
+      "odds": 25.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105982",
+      "horse_name": "ラルガメンテ",
+      "score": 0.11477952650001431,
+      "horse_number": 11,
+      "odds": 12.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105364",
+      "horse_name": "メルシージュテーム",
+      "score": 0.1139474504090348,
+      "horse_number": 5,
+      "odds": 7.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106324",
+      "horse_name": "レインボーラッキー",
+      "score": 0.062634621705424,
+      "horse_number": 2,
+      "odds": 50.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101599",
+      "horse_name": "ピラニアキッス",
+      "score": 0.020410042373424815,
+      "horse_number": 3,
+      "odds": 10.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104800",
+      "horse_name": "ブルージュ",
+      "score": 0.02018582020196428,
+      "horse_number": 6,
+      "odds": 8.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105896",
+      "horse_name": "ケープウィッカム",
+      "score": -0.013748386170553226,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104511",
+      "horse_name": "コルヴィル",
+      "score": -0.03649749225582534,
+      "horse_number": 4,
+      "odds": 29.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105993",
+      "horse_name": "ザローズハーツ",
+      "score": -0.07586640175555756,
+      "horse_number": 1,
+      "odds": 39.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101312",
+      "horse_name": "パッションディーバ",
+      "score": -0.11761686116528464,
+      "horse_number": 14,
+      "odds": 36.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104317",
+      "horse_name": "ミサビスケッツ",
+      "score": -0.13926221888134274,
+      "horse_number": 12,
+      "odds": 19.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106013",
+      "horse_name": "エイミームーン",
+      "score": -0.27993343331687004,
+      "horse_number": 9,
+      "odds": 57.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104291",
+      "horse_name": "ベリーベリーベリー",
+      "score": -0.4584799668979993,
+      "horse_number": 15,
+      "odds": 140.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103343",
+      "horse_name": "ハヌル",
+      "score": -0.46038178916438544,
+      "horse_number": 13,
+      "odds": 67.2
+    }
+  ]
+}

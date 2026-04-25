@@ -1,0 +1,56 @@
+{
+  "race_id": "202608030108",
+  "race_name": "あやめ賞",
+  "race_time": "2026-04-25 13:45",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107157",
+      "horse_name": "ブレットパス",
+      "score": 0.41154300173071023,
+      "horse_number": 2,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103246",
+      "horse_name": "ブラックシャリマー",
+      "score": 0.2365300771041625,
+      "horse_number": 4,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102845",
+      "horse_name": "ララファキュルテ",
+      "score": 0.20153697737269086,
+      "horse_number": 5,
+      "odds": 7.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106960",
+      "horse_name": "キシダンチョウ",
+      "score": 0.19294481263369362,
+      "horse_number": 3,
+      "odds": 7.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101090",
+      "horse_name": "ジャストビート",
+      "score": -0.34567418799138294,
+      "horse_number": 6,
+      "odds": 36.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103474",
+      "horse_name": "アイガーリー",
+      "score": -0.40274597865993034,
+      "horse_number": 1,
+      "odds": 11.4
+    }
+  ]
+}

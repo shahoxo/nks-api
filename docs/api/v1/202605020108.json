@@ -1,0 +1,72 @@
+{
+  "race_id": "202605020108",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-25 13:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104811",
+      "horse_name": "アセンブリールーム",
+      "score": 0.3411612298896117,
+      "horse_number": 1,
+      "odds": 2.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104847",
+      "horse_name": "ナクライト",
+      "score": 0.19560146579697502,
+      "horse_number": 8,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105871",
+      "horse_name": "ソニックライン",
+      "score": 0.03762213607800247,
+      "horse_number": 7,
+      "odds": 5.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105486",
+      "horse_name": "トロピカルティー",
+      "score": 0.022746747503762904,
+      "horse_number": 4,
+      "odds": 6.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101272",
+      "horse_name": "スタニングヴュー",
+      "score": -0.04633718316173167,
+      "horse_number": 3,
+      "odds": 24.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105078",
+      "horse_name": "アトリウムチャペル",
+      "score": -0.2521038122449294,
+      "horse_number": 5,
+      "odds": 8.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104179",
+      "horse_name": "ツインピークス",
+      "score": -0.36084358179278764,
+      "horse_number": 6,
+      "odds": 14.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104778",
+      "horse_name": "チャイボーグ",
+      "score": -0.6231610526085567,
+      "horse_number": 2,
+      "odds": 54.5
+    }
+  ]
+}
