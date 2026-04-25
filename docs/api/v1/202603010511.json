@@ -1,0 +1,104 @@
+{
+  "race_id": "202603010511",
+  "race_name": "福島中央TV",
+  "race_time": "2026-04-25 15:15",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103779",
+      "horse_name": "ゴールドハンマー",
+      "score": 0.19004797871378137,
+      "horse_number": 7,
+      "odds": 7.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104600",
+      "horse_name": "イマージョン",
+      "score": 0.14328524692350678,
+      "horse_number": 2,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021102153",
+      "horse_name": "プレゼンティーア",
+      "score": 0.08304502980837711,
+      "horse_number": 8,
+      "odds": 13.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101610",
+      "horse_name": "ルージュアズライト",
+      "score": 0.05612832514373768,
+      "horse_number": 11,
+      "odds": 5.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100627",
+      "horse_name": "カウスリップ",
+      "score": 0.03367206987856233,
+      "horse_number": 12,
+      "odds": 11.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102462",
+      "horse_name": "ワークソング",
+      "score": 0.0044667477758829404,
+      "horse_number": 6,
+      "odds": 5.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021110153",
+      "horse_name": "ジェネラーレ",
+      "score": -0.05656600991216955,
+      "horse_number": 1,
+      "odds": 5.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106421",
+      "horse_name": "キタノソワレ",
+      "score": -0.0694821493363893,
+      "horse_number": 3,
+      "odds": 8.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105250",
+      "horse_name": "ビルカール",
+      "score": -0.09174870262390829,
+      "horse_number": 5,
+      "odds": 14.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101675",
+      "horse_name": "スノーサイレンス",
+      "score": -0.10999625304266185,
+      "horse_number": 4,
+      "odds": 0.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102011",
+      "horse_name": "サザンエルフ",
+      "score": -0.19778840283215077,
+      "horse_number": 9,
+      "odds": 16.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101237",
+      "horse_name": "シャカシャカシー",
+      "score": -0.4812603762479182,
+      "horse_number": 10,
+      "odds": 34.6
+    }
+  ]
+}

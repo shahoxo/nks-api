@@ -1,0 +1,104 @@
+{
+  "race_id": "202608030111",
+  "race_name": "天王山S",
+  "race_time": "2026-04-25 15:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103716",
+      "horse_name": "メイショウホウレン",
+      "score": 0.30232524320447524,
+      "horse_number": 5,
+      "odds": 5.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020104228",
+      "horse_name": "ケイアイアニラ",
+      "score": 0.15425199388258437,
+      "horse_number": 1,
+      "odds": 19.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100768",
+      "horse_name": "ジョーローリット",
+      "score": 0.13856658136324856,
+      "horse_number": 7,
+      "odds": 11.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110151",
+      "horse_name": "ゲッティヴィラ",
+      "score": 0.11838980464294165,
+      "horse_number": 10,
+      "odds": 4.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110142",
+      "horse_name": "ファムエレガンテ",
+      "score": 0.11382921183588353,
+      "horse_number": 12,
+      "odds": 5.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019103605",
+      "horse_name": "ペプチドヤマト",
+      "score": 0.023559569281501117,
+      "horse_number": 3,
+      "odds": 11.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105608",
+      "horse_name": "カズゴルティス",
+      "score": 0.01395722313528723,
+      "horse_number": 9,
+      "odds": 45.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103786",
+      "horse_name": "ヒルノドゴール",
+      "score": 0.0021828871375878757,
+      "horse_number": 6,
+      "odds": 7.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106006",
+      "horse_name": "ドンアミティエ",
+      "score": -0.060057010703752335,
+      "horse_number": 11,
+      "odds": 6.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103095",
+      "horse_name": "オーブルクール",
+      "score": -0.1696609678224253,
+      "horse_number": 4,
+      "odds": 9.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106062",
+      "horse_name": "ジュンウィンダム",
+      "score": -0.19232201694329823,
+      "horse_number": 2,
+      "odds": 76.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018101739",
+      "horse_name": "ケイアイシェルビー",
+      "score": -0.3923523222321167,
+      "horse_number": 8,
+      "odds": 59.1
+    }
+  ]
+}
