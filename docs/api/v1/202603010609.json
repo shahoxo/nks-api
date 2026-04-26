@@ -1,0 +1,112 @@
+{
+  "race_id": "202603010609",
+  "race_name": "飯盛山特別",
+  "race_time": "2026-04-26 14:05",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105796",
+      "horse_name": "アリスメティーク",
+      "score": 0.2710589389377232,
+      "horse_number": 10,
+      "odds": 9.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100274",
+      "horse_name": "マイネルアズーロ",
+      "score": 0.25677249483295755,
+      "horse_number": 12,
+      "odds": 6.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019100915",
+      "horse_name": "ゼンノインヴォーク",
+      "score": 0.13464811287996453,
+      "horse_number": 2,
+      "odds": 9.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106828",
+      "horse_name": "マイネルゼウス",
+      "score": 0.05936765851827063,
+      "horse_number": 13,
+      "odds": 5.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105597",
+      "horse_name": "ゲンジ",
+      "score": 0.006481227441962428,
+      "horse_number": 6,
+      "odds": 6.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103308",
+      "horse_name": "ミッドセンチュリー",
+      "score": -0.01555162187924962,
+      "horse_number": 11,
+      "odds": 6.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105400",
+      "horse_name": "ピティロディア",
+      "score": -0.043010893946488465,
+      "horse_number": 1,
+      "odds": 54.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106203",
+      "horse_name": "ウインボレロ",
+      "score": -0.12411706095002872,
+      "horse_number": 5,
+      "odds": 12.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102708",
+      "horse_name": "アドミラルシップ",
+      "score": -0.13412482979704526,
+      "horse_number": 3,
+      "odds": 6.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106846",
+      "horse_name": "ゴールドジェスター",
+      "score": -0.3326412100685196,
+      "horse_number": 7,
+      "odds": 17.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105614",
+      "horse_name": "ポッポノフェスタ",
+      "score": -0.38711040953246506,
+      "horse_number": 4,
+      "odds": 40.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107149",
+      "horse_name": "ヴォラヴィア",
+      "score": -0.3981152506691713,
+      "horse_number": 9,
+      "odds": 26.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104891",
+      "horse_name": "オールデュスヴラン",
+      "score": -0.5178872020733647,
+      "horse_number": 8,
+      "odds": 29.8
+    }
+  ]
+}

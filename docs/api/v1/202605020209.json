@@ -1,0 +1,136 @@
+{
+  "race_id": "202605020209",
+  "race_name": "湘南S",
+  "race_time": "2026-04-26 14:25",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105108",
+      "horse_name": "モンテシート",
+      "score": 0.3679785319847158,
+      "horse_number": 6,
+      "odds": 22.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103977",
+      "horse_name": "リチャードバローズ",
+      "score": 0.13299252539809694,
+      "horse_number": 16,
+      "odds": 29.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103146",
+      "horse_name": "カンシン",
+      "score": 0.12586378556693312,
+      "horse_number": 7,
+      "odds": 10.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105326",
+      "horse_name": "コートアリシアン",
+      "score": 0.09080848051695216,
+      "horse_number": 1,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103969",
+      "horse_name": "ヨウシタンレイ",
+      "score": 0.06829902367787641,
+      "horse_number": 5,
+      "odds": 13.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105837",
+      "horse_name": "レッドアトレーヴ",
+      "score": 0.016454664603150024,
+      "horse_number": 11,
+      "odds": 8.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105054",
+      "horse_name": "モンシュマン",
+      "score": 0.006561174761639186,
+      "horse_number": 3,
+      "odds": 13.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101429",
+      "horse_name": "サトミノキラリ",
+      "score": -0.056979384521161906,
+      "horse_number": 8,
+      "odds": 11.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104918",
+      "horse_name": "チューラワンサ",
+      "score": -0.0818858563891305,
+      "horse_number": 15,
+      "odds": 7.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105830",
+      "horse_name": "モンドデラモーレ",
+      "score": -0.14624882450303592,
+      "horse_number": 13,
+      "odds": 7.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103042",
+      "horse_name": "フォルテム",
+      "score": -0.1789459923087054,
+      "horse_number": 12,
+      "odds": 25.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2018110149",
+      "horse_name": "コスモアディラート",
+      "score": -0.23101941154222733,
+      "horse_number": 10,
+      "odds": 35.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106900",
+      "horse_name": "アームテイル",
+      "score": -0.3279522458046503,
+      "horse_number": 2,
+      "odds": 43.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019103897",
+      "horse_name": "ハピネスアゲン",
+      "score": -0.3910062513917538,
+      "horse_number": 14,
+      "odds": 116.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104941",
+      "horse_name": "セシリエプラージュ",
+      "score": -0.45357854765251415,
+      "horse_number": 9,
+      "odds": 59.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019107016",
+      "horse_name": "ウナギノボリ",
+      "score": -0.5492222079638235,
+      "horse_number": 4,
+      "odds": 24.3
+    }
+  ]
+}

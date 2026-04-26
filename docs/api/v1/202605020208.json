@@ -1,0 +1,96 @@
+{
+  "race_id": "202605020208",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-04-26 13:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105077",
+      "horse_name": "レイククレセント",
+      "score": 0.437245301019625,
+      "horse_number": 2,
+      "odds": 5.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105863",
+      "horse_name": "ルージュスエルテ",
+      "score": 0.2679026940438629,
+      "horse_number": 9,
+      "odds": 8.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104200",
+      "horse_name": "サクセスカラー",
+      "score": 0.13445541380928183,
+      "horse_number": 10,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105435",
+      "horse_name": "ボンヌソワレ",
+      "score": 0.017295413077742662,
+      "horse_number": 3,
+      "odds": 2.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100642",
+      "horse_name": "キャッスルレイク",
+      "score": -0.010237238192696653,
+      "horse_number": 1,
+      "odds": 5.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103486",
+      "horse_name": "ホウオウシェリー",
+      "score": -0.0732239869805434,
+      "horse_number": 11,
+      "odds": 7.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103527",
+      "horse_name": "ライツユーアップ",
+      "score": -0.376045374466215,
+      "horse_number": 8,
+      "odds": 17.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101490",
+      "horse_name": "スカイビート",
+      "score": -0.40211207900671303,
+      "horse_number": 4,
+      "odds": 22.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104479",
+      "horse_name": "フェデルミエール",
+      "score": -0.49725630709597934,
+      "horse_number": 5,
+      "odds": 32.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022109145",
+      "horse_name": "エイヨーアメジスト",
+      "score": -0.58109934331136,
+      "horse_number": 7,
+      "odds": 35.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104365",
+      "horse_name": "リュウノタブーク",
+      "score": -0.6318373387288261,
+      "horse_number": 6,
+      "odds": 62.2
+    }
+  ]
+}
