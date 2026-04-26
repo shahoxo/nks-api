@@ -1,0 +1,128 @@
+{
+  "race_id": "202603010603",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-26 10:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105348",
+      "horse_name": "ジョーカー",
+      "score": 0.24556243194091248,
+      "horse_number": 10,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106474",
+      "horse_name": "マイネルゼーロス",
+      "score": -0.1129184316709092,
+      "horse_number": 2,
+      "odds": 10.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105648",
+      "horse_name": "ビサーロ",
+      "score": -0.2229009455663785,
+      "horse_number": 15,
+      "odds": 21.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102797",
+      "horse_name": "ベネファクター",
+      "score": -0.2896435384169037,
+      "horse_number": 1,
+      "odds": 17.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103810",
+      "horse_name": "キャッチアシーフ",
+      "score": -0.33323779661732045,
+      "horse_number": 6,
+      "odds": 5.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101685",
+      "horse_name": "サーバルマインド",
+      "score": -0.44162684786818085,
+      "horse_number": 11,
+      "odds": 59.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107306",
+      "horse_name": "セラサイト",
+      "score": -0.46849270167241697,
+      "horse_number": 7,
+      "odds": 13.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100912",
+      "horse_name": "エレーデサンライズ",
+      "score": -0.4920172124581902,
+      "horse_number": 4,
+      "odds": 10.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102369",
+      "horse_name": "フロムザムーン",
+      "score": -0.5133349800658685,
+      "horse_number": 8,
+      "odds": 33.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101571",
+      "horse_name": "ニューカワイイ",
+      "score": -0.5582485515378649,
+      "horse_number": 5,
+      "odds": 88.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103227",
+      "horse_name": "エリーニック",
+      "score": -0.5631661080465385,
+      "horse_number": 13,
+      "odds": 18.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102721",
+      "horse_name": "ツクバアヴァロン",
+      "score": -0.5679670300894952,
+      "horse_number": 14,
+      "odds": 45.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105242",
+      "horse_name": "ポンテヴェッキオ",
+      "score": -0.5838925657280414,
+      "horse_number": 3,
+      "odds": 132.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106395",
+      "horse_name": "モラール",
+      "score": -0.700999851469308,
+      "horse_number": 12,
+      "odds": 59.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101482",
+      "horse_name": "カンフーヒーロー",
+      "score": -0.7560238565797833,
+      "horse_number": 9,
+      "odds": 79.4
+    }
+  ]
+}

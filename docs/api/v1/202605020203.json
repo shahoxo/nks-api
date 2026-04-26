@@ -1,0 +1,136 @@
+{
+  "race_id": "202605020203",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-26 11:05",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105279",
+      "horse_name": "アニマレイ",
+      "score": 0.35899847545397884,
+      "horse_number": 16,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105561",
+      "horse_name": "シャインフォーミー",
+      "score": 0.21267438373568942,
+      "horse_number": 15,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106167",
+      "horse_name": "ヴィスクレス",
+      "score": -0.004459810987626456,
+      "horse_number": 9,
+      "odds": 7.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101495",
+      "horse_name": "アヴァランチ",
+      "score": -0.09291292765395386,
+      "horse_number": 14,
+      "odds": 9.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103845",
+      "horse_name": "トーアシチフクジン",
+      "score": -0.14170658443935827,
+      "horse_number": 11,
+      "odds": 14.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102594",
+      "horse_name": "ジャガーライズ",
+      "score": -0.1794525085348664,
+      "horse_number": 8,
+      "odds": 6.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100949",
+      "horse_name": "マジンタクシー",
+      "score": -0.31015195702855936,
+      "horse_number": 10,
+      "odds": 21.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103657",
+      "horse_name": "ノーブルクロンヌ",
+      "score": -0.33529367909748586,
+      "horse_number": 13,
+      "odds": 60.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023109055",
+      "horse_name": "プリンセスダーコ",
+      "score": -0.3989156683496331,
+      "horse_number": 4,
+      "odds": 33.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100053",
+      "horse_name": "タケウチビー",
+      "score": -0.4165526274023791,
+      "horse_number": 7,
+      "odds": 55.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105114",
+      "horse_name": "ガヤーズベース",
+      "score": -0.4391750080552993,
+      "horse_number": 3,
+      "odds": 27.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104154",
+      "horse_name": "カセノソレイユ",
+      "score": -0.44403116507707163,
+      "horse_number": 12,
+      "odds": 35.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106577",
+      "horse_name": "ユイノカタリベ",
+      "score": -0.45181963229213706,
+      "horse_number": 1,
+      "odds": 11.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100921",
+      "horse_name": "ダイバーシティ",
+      "score": -0.5411803364690695,
+      "horse_number": 6,
+      "odds": 88.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104579",
+      "horse_name": "2023104579",
+      "score": -0.700999851469308,
+      "horse_number": 5,
+      "odds": 100.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104691",
+      "horse_name": "ジャンプストリート",
+      "score": -0.7560238565797833,
+      "horse_number": 2,
+      "odds": 84.8
+    }
+  ]
+}

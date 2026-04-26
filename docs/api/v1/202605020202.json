@@ -1,0 +1,120 @@
+{
+  "race_id": "202605020202",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-04-26 10:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103157",
+      "horse_name": "サトノフェンサー",
+      "score": 0.15848590723039113,
+      "horse_number": 12,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106060",
+      "horse_name": "モロノカガヤキ",
+      "score": 0.04905105785953011,
+      "horse_number": 4,
+      "odds": 2.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105060",
+      "horse_name": "ロードクローザー",
+      "score": -0.005185399397073994,
+      "horse_number": 5,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105392",
+      "horse_name": "マテンロウストーム",
+      "score": -0.02637865110055353,
+      "horse_number": 11,
+      "odds": 9.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105361",
+      "horse_name": "ホウオウパーソンズ",
+      "score": -0.04591772329849114,
+      "horse_number": 7,
+      "odds": 20.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107355",
+      "horse_name": "マナイアカラニ",
+      "score": -0.1581829229236327,
+      "horse_number": 9,
+      "odds": 10.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105427",
+      "horse_name": "ピョイットハレルヤ",
+      "score": -0.16595711961290927,
+      "horse_number": 8,
+      "odds": 24.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100240",
+      "horse_name": "スピニンググローブ",
+      "score": -0.2875814223833982,
+      "horse_number": 3,
+      "odds": 45.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102555",
+      "horse_name": "エターナルホープ",
+      "score": -0.45960041682343744,
+      "horse_number": 6,
+      "odds": 21.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100234",
+      "horse_name": "イーガービーバー",
+      "score": -0.4831120992536234,
+      "horse_number": 2,
+      "odds": 44.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104610",
+      "horse_name": "2023104610",
+      "score": -0.5605472818472005,
+      "horse_number": 14,
+      "odds": 47.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104916",
+      "horse_name": "キチロクゴール",
+      "score": -0.6665961087376128,
+      "horse_number": 1,
+      "odds": 155.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101994",
+      "horse_name": "マクローリン",
+      "score": -0.7161269419395042,
+      "horse_number": 13,
+      "odds": 30.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106374",
+      "horse_name": "シャトーベスト",
+      "score": -0.7560238565797833,
+      "horse_number": 10,
+      "odds": 154.9
+    }
+  ]
+}
