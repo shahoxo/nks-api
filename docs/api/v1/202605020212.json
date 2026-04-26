@@ -1,0 +1,136 @@
+{
+  "race_id": "202605020212",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-04-26 16:30",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110007",
+      "horse_name": "スナッピードレッサ",
+      "score": 0.4619850883971619,
+      "horse_number": 15,
+      "odds": 1.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101572",
+      "horse_name": "プライベートアイズ",
+      "score": 0.2983495617113045,
+      "horse_number": 16,
+      "odds": 34.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110130",
+      "horse_name": "ベラジオワールド",
+      "score": 0.26975853698420615,
+      "horse_number": 11,
+      "odds": 11.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100702",
+      "horse_name": "ポッドベル",
+      "score": 0.2390407799807345,
+      "horse_number": 10,
+      "odds": 32.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110152",
+      "horse_name": "レーティッシュ",
+      "score": 0.1919577051948043,
+      "horse_number": 14,
+      "odds": 19.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022107130",
+      "horse_name": "マサノユニコーン",
+      "score": 0.14865648770646622,
+      "horse_number": 9,
+      "odds": 24.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101905",
+      "horse_name": "キョウエイカンセ",
+      "score": -0.0017959920153362867,
+      "horse_number": 12,
+      "odds": 32.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105949",
+      "horse_name": "ケンキョ",
+      "score": -0.048919087503787276,
+      "horse_number": 6,
+      "odds": 56.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103242",
+      "horse_name": "ジーベック",
+      "score": -0.16793712231279567,
+      "horse_number": 8,
+      "odds": 67.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100321",
+      "horse_name": "リメンバーヒム",
+      "score": -0.1745320909756747,
+      "horse_number": 3,
+      "odds": 101.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105600",
+      "horse_name": "ボルセーナ",
+      "score": -0.2084752631875602,
+      "horse_number": 7,
+      "odds": 111.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102797",
+      "horse_name": "フィリップ",
+      "score": -0.22527902109113798,
+      "horse_number": 1,
+      "odds": 40.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100652",
+      "horse_name": "ラピダリア",
+      "score": -0.2911854538553118,
+      "horse_number": 13,
+      "odds": 57.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104960",
+      "horse_name": "トロピカルヒーロー",
+      "score": -0.5530974180867849,
+      "horse_number": 2,
+      "odds": 183.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102995",
+      "horse_name": "フレッシュラン",
+      "score": -0.58109934331136,
+      "horse_number": 4,
+      "odds": 119.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104473",
+      "horse_name": "ゴールデンエール",
+      "score": -0.7560238565797833,
+      "horse_number": 5,
+      "odds": 194.5
+    }
+  ]
+}

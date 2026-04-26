@@ -1,0 +1,136 @@
+{
+  "race_id": "202603010612",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-04-26 16:01",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2018103293",
+      "horse_name": "ヨドノゴールド",
+      "score": 0.08493259583876657,
+      "horse_number": 16,
+      "odds": 4.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103513",
+      "horse_name": "ナンヨークリスタル",
+      "score": -0.027929018790674137,
+      "horse_number": 3,
+      "odds": 9.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102103",
+      "horse_name": "レイアポポ",
+      "score": -0.03895146053449484,
+      "horse_number": 5,
+      "odds": 8.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103994",
+      "horse_name": "タッカーバレット",
+      "score": -0.07530515873907587,
+      "horse_number": 8,
+      "odds": 10.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110126",
+      "horse_name": "エコロカディス",
+      "score": -0.17544369930637743,
+      "horse_number": 10,
+      "odds": 7.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104411",
+      "horse_name": "シャインミラカナ",
+      "score": -0.24508806902987362,
+      "horse_number": 9,
+      "odds": 70.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101456",
+      "horse_name": "ダイヤモンド",
+      "score": -0.25974856708381056,
+      "horse_number": 4,
+      "odds": 6.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105525",
+      "horse_name": "カツノテンス",
+      "score": -0.3184159434767885,
+      "horse_number": 7,
+      "odds": 25.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020107018",
+      "horse_name": "レジェンダリーデイ",
+      "score": -0.33716934782693575,
+      "horse_number": 13,
+      "odds": 18.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106582",
+      "horse_name": "ケイアイマウンガ",
+      "score": -0.3740516010230174,
+      "horse_number": 2,
+      "odds": 4.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106429",
+      "horse_name": "ノーブルミステリー",
+      "score": -0.5702140779713731,
+      "horse_number": 12,
+      "odds": 41.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106394",
+      "horse_name": "オンリーラヴ",
+      "score": -0.5714169627056976,
+      "horse_number": 6,
+      "odds": 102.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019101340",
+      "horse_name": "ブルーデイジー",
+      "score": -0.5833309696314021,
+      "horse_number": 1,
+      "odds": 147.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101363",
+      "horse_name": "アイランドピーク",
+      "score": -0.6293301629666437,
+      "horse_number": 11,
+      "odds": 137.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101702",
+      "horse_name": "チャージドアップ",
+      "score": -0.6331128954762193,
+      "horse_number": 14,
+      "odds": 79.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021106347",
+      "horse_name": "ピクラリーダ",
+      "score": -0.7344997899121097,
+      "horse_number": 15,
+      "odds": 127.6
+    }
+  ]
+}

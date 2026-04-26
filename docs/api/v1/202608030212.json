@@ -1,0 +1,120 @@
+{
+  "race_id": "202608030212",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-04-26 16:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105022",
+      "horse_name": "ライノ",
+      "score": 0.24154731633364213,
+      "horse_number": 9,
+      "odds": 4.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105473",
+      "horse_name": "グレイルクエスト",
+      "score": 0.14899711831533444,
+      "horse_number": 14,
+      "odds": 14.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021110012",
+      "horse_name": "アークドール",
+      "score": 0.14568474342503257,
+      "horse_number": 3,
+      "odds": 5.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110135",
+      "horse_name": "ゼンエスポワール",
+      "score": 0.10607713543549468,
+      "horse_number": 12,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105885",
+      "horse_name": "ショーダンサー",
+      "score": 0.09182012718270008,
+      "horse_number": 10,
+      "odds": 12.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104009",
+      "horse_name": "トラヴェリンバンド",
+      "score": 0.053524548825478725,
+      "horse_number": 13,
+      "odds": 22.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102572",
+      "horse_name": "メイショウオオコ",
+      "score": 0.02707998824331366,
+      "horse_number": 5,
+      "odds": 43.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106544",
+      "horse_name": "タガノヘラクレス",
+      "score": 0.008861752201970254,
+      "horse_number": 8,
+      "odds": 13.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101226",
+      "horse_name": "クリノフィガロ",
+      "score": -0.07947305440989007,
+      "horse_number": 11,
+      "odds": 26.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101553",
+      "horse_name": "スマートシーカー",
+      "score": -0.1581618834043096,
+      "horse_number": 4,
+      "odds": 48.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103775",
+      "horse_name": "テイエムパイロット",
+      "score": -0.19361652500905624,
+      "horse_number": 2,
+      "odds": 7.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107306",
+      "horse_name": "ストップヤーニング",
+      "score": -0.19555191554701212,
+      "horse_number": 6,
+      "odds": 5.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106164",
+      "horse_name": "キングオブフジ",
+      "score": -0.2027799602888687,
+      "horse_number": 1,
+      "odds": 40.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104627",
+      "horse_name": "シホノペルフェット",
+      "score": -0.5520003421025013,
+      "horse_number": 7,
+      "odds": 37.8
+    }
+  ]
+}
