@@ -1,0 +1,128 @@
+{
+  "race_id": "202604010110",
+  "race_name": "胎内川特別",
+  "race_time": "2026-05-02 14:45",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101603",
+      "horse_name": "ナイトスラッガー",
+      "score": 0.14900682840639817,
+      "horse_number": 12,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100625",
+      "horse_name": "ラブリーリディア",
+      "score": 0.05444020764390388,
+      "horse_number": 14,
+      "odds": 11.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105421",
+      "horse_name": "コンフォルツァ",
+      "score": 0.00854890014586196,
+      "horse_number": 15,
+      "odds": 3.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102106",
+      "horse_name": "ツルマウカタチ",
+      "score": -0.0221694982368007,
+      "horse_number": 6,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104855",
+      "horse_name": "エンジェルマーク",
+      "score": -0.060050032652334044,
+      "horse_number": 11,
+      "odds": 12.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106825",
+      "horse_name": "コスモイシュタル",
+      "score": -0.07628084189727366,
+      "horse_number": 8,
+      "odds": 21.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105394",
+      "horse_name": "ハニードレス",
+      "score": -0.08817724920778108,
+      "horse_number": 10,
+      "odds": 23.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106760",
+      "horse_name": "マイネルフルムーン",
+      "score": -0.1102362550312205,
+      "horse_number": 4,
+      "odds": 8.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104899",
+      "horse_name": "ドリームクルーズ",
+      "score": -0.15612729376084,
+      "horse_number": 7,
+      "odds": 10.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103228",
+      "horse_name": "ビターグラッセ",
+      "score": -0.15612729376084,
+      "horse_number": 2,
+      "odds": 23.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018106354",
+      "horse_name": "バガン",
+      "score": -0.22214817084546826,
+      "horse_number": 3,
+      "odds": 25.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104421",
+      "horse_name": "デファイ",
+      "score": -0.2975660152976223,
+      "horse_number": 9,
+      "odds": 35.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105031",
+      "horse_name": "ジャルディニエ",
+      "score": -0.3131816707266478,
+      "horse_number": 13,
+      "odds": 41.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102115",
+      "horse_name": "アラタマフェーヴル",
+      "score": -0.3718777636172012,
+      "horse_number": 5,
+      "odds": 40.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101227",
+      "horse_name": "ヴォンフレ",
+      "score": -0.4958900046352591,
+      "horse_number": 1,
+      "odds": 35.0
+    }
+  ]
+}

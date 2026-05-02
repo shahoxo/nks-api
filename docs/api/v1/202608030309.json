@@ -1,0 +1,80 @@
+{
+  "race_id": "202608030309",
+  "race_name": "矢車賞",
+  "race_time": "2026-05-02 14:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106995",
+      "horse_name": "ロングトールサリー",
+      "score": 0.4202024900471646,
+      "horse_number": 1,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103492",
+      "horse_name": "トリニティ",
+      "score": 0.24490598732591382,
+      "horse_number": 7,
+      "odds": 9.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102091",
+      "horse_name": "クリスレジーナ",
+      "score": 0.20138446807770843,
+      "horse_number": 5,
+      "odds": 4.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103906",
+      "horse_name": "レイクラシック",
+      "score": 0.13618159293575846,
+      "horse_number": 9,
+      "odds": 4.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102996",
+      "horse_name": "エイズルブルーム",
+      "score": -0.003332383575262242,
+      "horse_number": 6,
+      "odds": 8.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105259",
+      "horse_name": "リュクスパトロール",
+      "score": -0.00901265666686474,
+      "horse_number": 4,
+      "odds": 35.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101362",
+      "horse_name": "デルマホダカ",
+      "score": -0.01048576228344784,
+      "horse_number": 8,
+      "odds": 72.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105981",
+      "horse_name": "2023105981",
+      "score": -0.048316172959197205,
+      "horse_number": 3,
+      "odds": 8.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107244",
+      "horse_name": "ヴィスコンテッサ",
+      "score": -0.11834455387836955,
+      "horse_number": 2,
+      "odds": 10.0
+    }
+  ]
+}
