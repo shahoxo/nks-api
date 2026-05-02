@@ -1,0 +1,128 @@
+{
+  "race_id": "202604010103",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-02 10:50",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103693",
+      "horse_name": "スノーランス",
+      "score": 0.02693938466154961,
+      "horse_number": 3,
+      "odds": 6.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103216",
+      "horse_name": "アンバサダネージュ",
+      "score": 0.004798720808760182,
+      "horse_number": 8,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100966",
+      "horse_name": "マリブサーフ",
+      "score": -0.009099078854211493,
+      "horse_number": 6,
+      "odds": 3.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102317",
+      "horse_name": "バンダムソレール",
+      "score": -0.06460882574411657,
+      "horse_number": 9,
+      "odds": 28.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105333",
+      "horse_name": "ヒーナシャム",
+      "score": -0.1607549251111708,
+      "horse_number": 13,
+      "odds": 57.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105116",
+      "horse_name": "ジュディーイメル",
+      "score": -0.16707523648592026,
+      "horse_number": 4,
+      "odds": 3.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104826",
+      "horse_name": "ジュエルサンライズ",
+      "score": -0.19591589476999757,
+      "horse_number": 10,
+      "odds": 28.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102063",
+      "horse_name": "アリディプラチノ",
+      "score": -0.21754331233359014,
+      "horse_number": 2,
+      "odds": 26.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104669",
+      "horse_name": "ゲレイロ",
+      "score": -0.34909234392356403,
+      "horse_number": 7,
+      "odds": 15.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104606",
+      "horse_name": "トゥントゥントゥン",
+      "score": -0.4903197146131695,
+      "horse_number": 14,
+      "odds": 21.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101936",
+      "horse_name": "2023101936",
+      "score": -0.5012394256111735,
+      "horse_number": 12,
+      "odds": 56.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102023",
+      "horse_name": "タイセイガナール",
+      "score": -0.5393606452573874,
+      "horse_number": 5,
+      "odds": 56.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102866",
+      "horse_name": "2023102866",
+      "score": -0.5605472818472005,
+      "horse_number": 11,
+      "odds": 103.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101448",
+      "horse_name": "スラッシュコード",
+      "score": -0.5628851560431606,
+      "horse_number": 1,
+      "odds": 42.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105737",
+      "horse_name": "エナジーアユ",
+      "score": -0.6336370845533565,
+      "horse_number": 15,
+      "odds": 51.0
+    }
+  ]
+}

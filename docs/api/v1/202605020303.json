@@ -1,0 +1,80 @@
+{
+  "race_id": "202605020303",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-02 11:10",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100362",
+      "horse_name": "ニシノモリミチ",
+      "score": 0.02305375096720289,
+      "horse_number": 6,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106595",
+      "horse_name": "アイムスティルミー",
+      "score": -0.18305332830618493,
+      "horse_number": 1,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103713",
+      "horse_name": "2023103713",
+      "score": -0.24272358493153,
+      "horse_number": 4,
+      "odds": 22.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101095",
+      "horse_name": "タニセンローマ",
+      "score": -0.24569698583872338,
+      "horse_number": 5,
+      "odds": 16.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101301",
+      "horse_name": "クアッドフォルツァ",
+      "score": -0.30888618418740643,
+      "horse_number": 8,
+      "odds": 5.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106046",
+      "horse_name": "2023106046",
+      "score": -0.3352863995729905,
+      "horse_number": 9,
+      "odds": 18.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101586",
+      "horse_name": "リオンサーガ",
+      "score": -0.3722955727813543,
+      "horse_number": 3,
+      "odds": 8.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104408",
+      "horse_name": "ナウオアネヴァー",
+      "score": -0.4510089581573148,
+      "horse_number": 7,
+      "odds": 3.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100313",
+      "horse_name": "オーキッドワン",
+      "score": -0.7498547462216962,
+      "horse_number": 2,
+      "odds": 31.5
+    }
+  ]
+}
