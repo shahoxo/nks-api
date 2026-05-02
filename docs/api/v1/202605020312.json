@@ -1,0 +1,120 @@
+{
+  "race_id": "202605020312",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-05-02 16:30",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105198",
+      "horse_name": "ヘリオトロープ",
+      "score": 0.3754778233644567,
+      "horse_number": 2,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100994",
+      "horse_name": "ルヴァレドクール",
+      "score": 0.2343000795347952,
+      "horse_number": 5,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020103189",
+      "horse_name": "レッドダンルース",
+      "score": 0.13459003946349457,
+      "horse_number": 14,
+      "odds": 7.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101697",
+      "horse_name": "グラフィティアート",
+      "score": 0.1069251971141496,
+      "horse_number": 9,
+      "odds": 6.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103778",
+      "horse_name": "ライフゲート",
+      "score": 0.07800226350724722,
+      "horse_number": 7,
+      "odds": 17.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103505",
+      "horse_name": "マスグラバイト",
+      "score": 0.06143491944411633,
+      "horse_number": 4,
+      "odds": 28.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105591",
+      "horse_name": "ジュンゴールド",
+      "score": 0.01201380405612964,
+      "horse_number": 10,
+      "odds": 25.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103129",
+      "horse_name": "マリンバンカー",
+      "score": 0.002134231264005513,
+      "horse_number": 8,
+      "odds": 24.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101195",
+      "horse_name": "コーリンカルベラ",
+      "score": -0.11602380665722486,
+      "horse_number": 3,
+      "odds": 46.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100614",
+      "horse_name": "ミルフルール",
+      "score": -0.18389525123350337,
+      "horse_number": 6,
+      "odds": 40.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102966",
+      "horse_name": "サンダーロード",
+      "score": -0.24001691662811817,
+      "horse_number": 13,
+      "odds": 32.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105776",
+      "horse_name": "グレイスザクラウン",
+      "score": -0.2601867349057601,
+      "horse_number": 12,
+      "odds": 13.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102828",
+      "horse_name": "メイショウタイピン",
+      "score": -0.47462425084433135,
+      "horse_number": 11,
+      "odds": 10.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021107266",
+      "horse_name": "スプレーフォール",
+      "score": -0.6318373387288261,
+      "horse_number": 1,
+      "odds": 93.5
+    }
+  ]
+}

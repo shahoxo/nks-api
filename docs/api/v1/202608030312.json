@@ -1,0 +1,88 @@
+{
+  "race_id": "202608030312",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-05-02 16:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110125",
+      "horse_name": "ヤエギリ",
+      "score": 0.437245301019625,
+      "horse_number": 5,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106206",
+      "horse_name": "ウインラウダ",
+      "score": 0.16057212440833207,
+      "horse_number": 2,
+      "odds": 10.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104817",
+      "horse_name": "ペールノエル",
+      "score": 0.15734033723239804,
+      "horse_number": 9,
+      "odds": 5.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020102675",
+      "horse_name": "ダノンクロム",
+      "score": 0.12437231590517321,
+      "horse_number": 6,
+      "odds": 5.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104710",
+      "horse_name": "ムーンライトラガー",
+      "score": -0.0810914892132268,
+      "horse_number": 1,
+      "odds": 6.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105122",
+      "horse_name": "ジェゼロ",
+      "score": -0.08444372562868156,
+      "horse_number": 7,
+      "odds": 5.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105765",
+      "horse_name": "ミッキースターダム",
+      "score": -0.125629210944692,
+      "horse_number": 4,
+      "odds": 14.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106715",
+      "horse_name": "ギザキズラヴ",
+      "score": -0.3708824183232014,
+      "horse_number": 3,
+      "odds": 16.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101718",
+      "horse_name": "ピコラ",
+      "score": -0.4036607438046721,
+      "horse_number": 8,
+      "odds": 50.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102970",
+      "horse_name": "レフィナード",
+      "score": -0.6467781709553085,
+      "horse_number": 10,
+      "odds": 85.7
+    }
+  ]
+}

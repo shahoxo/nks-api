@@ -1,0 +1,136 @@
+{
+  "race_id": "202604010112",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-05-02 16:01",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020104174",
+      "horse_name": "レジーナローズ",
+      "score": 0.0817504649157561,
+      "horse_number": 8,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105373",
+      "horse_name": "パレスドフィーヌ",
+      "score": 0.0002978191924729876,
+      "horse_number": 4,
+      "odds": 15.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022109047",
+      "horse_name": "ワイルドゴーア",
+      "score": -0.09671482433777047,
+      "horse_number": 14,
+      "odds": 12.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105077",
+      "horse_name": "ワイルドブッター",
+      "score": -0.1766401944436809,
+      "horse_number": 1,
+      "odds": 43.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100795",
+      "horse_name": "ベルタソ",
+      "score": -0.18369350614887173,
+      "horse_number": 16,
+      "odds": 4.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104648",
+      "horse_name": "フランクスピード",
+      "score": -0.18586497972706945,
+      "horse_number": 2,
+      "odds": 19.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104418",
+      "horse_name": "エンジェルブリーズ",
+      "score": -0.2109803137039456,
+      "horse_number": 13,
+      "odds": 13.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103036",
+      "horse_name": "ハニーアイリー",
+      "score": -0.2373966228217441,
+      "horse_number": 7,
+      "odds": 24.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104122",
+      "horse_name": "スカイダイバー",
+      "score": -0.2662627756234164,
+      "horse_number": 6,
+      "odds": 33.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100683",
+      "horse_name": "ビーグラッド",
+      "score": -0.33286765499046767,
+      "horse_number": 3,
+      "odds": 55.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104404",
+      "horse_name": "シュークリーム",
+      "score": -0.43674229846325346,
+      "horse_number": 12,
+      "odds": 6.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106637",
+      "horse_name": "ラヴェンデル",
+      "score": -0.4754933427906952,
+      "horse_number": 9,
+      "odds": 53.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106217",
+      "horse_name": "ウインマスカレード",
+      "score": -0.4947988372791279,
+      "horse_number": 15,
+      "odds": 5.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105794",
+      "horse_name": "レザンクレール",
+      "score": -0.52652520084418,
+      "horse_number": 5,
+      "odds": 36.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104138",
+      "horse_name": "ピオニエーレ",
+      "score": -0.651785207148711,
+      "horse_number": 10,
+      "odds": 116.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101571",
+      "horse_name": "ハッピーダンシング",
+      "score": -0.7142512799918292,
+      "horse_number": 11,
+      "odds": 45.2
+    }
+  ]
+}
