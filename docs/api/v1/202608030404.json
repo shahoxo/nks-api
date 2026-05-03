@@ -1,0 +1,96 @@
+{
+  "race_id": "202608030404",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-03 11:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103531",
+      "horse_name": "マジョレルブルー",
+      "score": 0.44443899897310135,
+      "horse_number": 11,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103192",
+      "horse_name": "2023103192",
+      "score": 0.268685268186744,
+      "horse_number": 2,
+      "odds": 30.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023110084",
+      "horse_name": "エアアルチーナ",
+      "score": 0.16620745972144235,
+      "horse_number": 4,
+      "odds": 11.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106440",
+      "horse_name": "パーヴォ",
+      "score": 0.12067429474700299,
+      "horse_number": 8,
+      "odds": 9.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105335",
+      "horse_name": "ダノンミッドナイト",
+      "score": 0.11593814002529908,
+      "horse_number": 7,
+      "odds": 5.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103901",
+      "horse_name": "ヴィラジョヴィス",
+      "score": 0.11435270271795375,
+      "horse_number": 10,
+      "odds": 9.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103758",
+      "horse_name": "ヴィスメンティス",
+      "score": 0.030918819342442627,
+      "horse_number": 5,
+      "odds": 38.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103411",
+      "horse_name": "スクランプシャス",
+      "score": 0.020121329637884284,
+      "horse_number": 6,
+      "odds": 15.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101200",
+      "horse_name": "シートゥサミット",
+      "score": -0.23034422244548647,
+      "horse_number": 3,
+      "odds": 11.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105397",
+      "horse_name": "グロートカイザー",
+      "score": -0.38090917844426336,
+      "horse_number": 9,
+      "odds": 81.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102765",
+      "horse_name": "ルクスユアン",
+      "score": -0.39658456622915833,
+      "horse_number": 1,
+      "odds": 29.7
+    }
+  ]
+}
