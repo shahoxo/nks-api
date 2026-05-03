@@ -1,0 +1,80 @@
+{
+  "race_id": "202608030409",
+  "race_name": "六波羅特別",
+  "race_time": "2026-05-03 14:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103186",
+      "horse_name": "テーオーライマン",
+      "score": 0.41988243000853726,
+      "horse_number": 5,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102218",
+      "horse_name": "サンライズバレット",
+      "score": 0.3940099879600506,
+      "horse_number": 8,
+      "odds": 1.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104267",
+      "horse_name": "レヴァンテシチー",
+      "score": 0.09039939466165733,
+      "horse_number": 6,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020100771",
+      "horse_name": "ジョータルマエ",
+      "score": -0.07124649592795218,
+      "horse_number": 3,
+      "odds": 12.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2019102514",
+      "horse_name": "サパテアール",
+      "score": -0.17611598730967765,
+      "horse_number": 4,
+      "odds": 37.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106359",
+      "horse_name": "バトンインディ",
+      "score": -0.4569697135545121,
+      "horse_number": 2,
+      "odds": 15.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019104636",
+      "horse_name": "シュプリンガー",
+      "score": -0.5025600163016735,
+      "horse_number": 7,
+      "odds": 53.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019102705",
+      "horse_name": "ヒデノレインボー",
+      "score": -0.5177608060618849,
+      "horse_number": 1,
+      "odds": 64.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100620",
+      "horse_name": "グランオース",
+      "score": -0.6887521558175991,
+      "horse_number": 9,
+      "odds": 90.1
+    }
+  ]
+}

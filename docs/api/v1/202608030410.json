@@ -1,0 +1,152 @@
+{
+  "race_id": "202608030410",
+  "race_name": "朱雀S",
+  "race_time": "2026-05-03 15:01",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110026",
+      "horse_name": "コウセキ",
+      "score": 0.4407529157474189,
+      "horse_number": 9,
+      "odds": 6.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105880",
+      "horse_name": "レッドエヴァンス",
+      "score": 0.43338282507860565,
+      "horse_number": 4,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105358",
+      "horse_name": "アスティスプマンテ",
+      "score": 0.2884104567709416,
+      "horse_number": 17,
+      "odds": 20.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103592",
+      "horse_name": "ルシード",
+      "score": 0.18616909533384202,
+      "horse_number": 3,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102461",
+      "horse_name": "バンドシェル",
+      "score": 0.11955465525414329,
+      "horse_number": 1,
+      "odds": 20.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020106901",
+      "horse_name": "メイショウピース",
+      "score": 0.10809057796261527,
+      "horse_number": 5,
+      "odds": 31.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105689",
+      "horse_name": "エヴァンスウィート",
+      "score": 0.06782147407696415,
+      "horse_number": 14,
+      "odds": 23.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102140",
+      "horse_name": "アンビバレント",
+      "score": 0.038111065572705126,
+      "horse_number": 7,
+      "odds": 11.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101443",
+      "horse_name": "サウスバンク",
+      "score": 0.0015032616705008056,
+      "horse_number": 2,
+      "odds": 12.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020105409",
+      "horse_name": "ディアドコス",
+      "score": -0.0452256349289705,
+      "horse_number": 16,
+      "odds": 14.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101654",
+      "horse_name": "トーラスシャイン",
+      "score": -0.04642732023891475,
+      "horse_number": 15,
+      "odds": 35.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022100791",
+      "horse_name": "ブラックケリー",
+      "score": -0.14953177540170165,
+      "horse_number": 11,
+      "odds": 63.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021110132",
+      "horse_name": "ジャスパーノワール",
+      "score": -0.2253654043764051,
+      "horse_number": 10,
+      "odds": 55.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102535",
+      "horse_name": "トーセントラム",
+      "score": -0.2516235236967227,
+      "horse_number": 18,
+      "odds": 85.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106666",
+      "horse_name": "ドゥアムール",
+      "score": -0.277340072002211,
+      "horse_number": 8,
+      "odds": 32.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105539",
+      "horse_name": "タガノシャーンス",
+      "score": -0.29854977214287426,
+      "horse_number": 13,
+      "odds": 57.5
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020104616",
+      "horse_name": "パクスロマーナ",
+      "score": -0.37176365927060306,
+      "horse_number": 12,
+      "odds": 43.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2019106739",
+      "horse_name": "ダークエクリプス",
+      "score": -0.5409515060713891,
+      "horse_number": 6,
+      "odds": 37.6
+    }
+  ]
+}

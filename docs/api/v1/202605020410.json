@@ -1,0 +1,136 @@
+{
+  "race_id": "202605020410",
+  "race_name": "ブリリアント",
+  "race_time": "2026-05-03 14:50",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100154",
+      "horse_name": "メイショウズイウン",
+      "score": 0.26690713602486027,
+      "horse_number": 2,
+      "odds": 10.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103387",
+      "horse_name": "クールミラボー",
+      "score": 0.2666413845813583,
+      "horse_number": 8,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102750",
+      "horse_name": "タイトニット",
+      "score": 0.25514223445091544,
+      "horse_number": 14,
+      "odds": 7.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105979",
+      "horse_name": "ピカピカサンダー",
+      "score": 0.23516709178942796,
+      "horse_number": 6,
+      "odds": 13.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104159",
+      "horse_name": "サクラトップリアル",
+      "score": 0.22793124424735728,
+      "horse_number": 11,
+      "odds": 43.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018102576",
+      "horse_name": "ロードプレジール",
+      "score": 0.21644439869625048,
+      "horse_number": 4,
+      "odds": 20.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105639",
+      "horse_name": "ハギノサステナブル",
+      "score": 0.20459428210330832,
+      "horse_number": 9,
+      "odds": 6.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103717",
+      "horse_name": "レヴォントゥレット",
+      "score": 0.17815944755659274,
+      "horse_number": 10,
+      "odds": 22.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105496",
+      "horse_name": "リアレスト",
+      "score": 0.11334188119027418,
+      "horse_number": 12,
+      "odds": 36.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020104760",
+      "horse_name": "ゼットリアン",
+      "score": 0.09033789493884024,
+      "horse_number": 5,
+      "odds": 5.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104089",
+      "horse_name": "メイショウユズルハ",
+      "score": 0.0863405425641352,
+      "horse_number": 13,
+      "odds": 62.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101579",
+      "horse_name": "レッドプロフェシー",
+      "score": 0.0798311702369683,
+      "horse_number": 15,
+      "odds": 13.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103115",
+      "horse_name": "キョウキランブ",
+      "score": -0.03005682291133279,
+      "horse_number": 16,
+      "odds": 9.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018100830",
+      "horse_name": "ダイシンピスケス",
+      "score": -0.08865850481664564,
+      "horse_number": 3,
+      "odds": 107.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021105264",
+      "horse_name": "アムールドパリ",
+      "score": -0.0901192894791857,
+      "horse_number": 7,
+      "odds": 60.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018106571",
+      "horse_name": "メイショウフンジン",
+      "score": -0.6877651437457144,
+      "horse_number": 1,
+      "odds": 40.8
+    }
+  ]
+}

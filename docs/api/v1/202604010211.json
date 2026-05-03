@@ -1,0 +1,128 @@
+{
+  "race_id": "202604010211",
+  "race_name": "越後S",
+  "race_time": "2026-05-03 15:15",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110008",
+      "horse_name": "ルディック",
+      "score": 0.19934871040668894,
+      "horse_number": 15,
+      "odds": 7.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100114",
+      "horse_name": "ブレーザー",
+      "score": 0.14025836295316557,
+      "horse_number": 4,
+      "odds": 10.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101174",
+      "horse_name": "ユキマル",
+      "score": 0.08563958767199643,
+      "horse_number": 10,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104597",
+      "horse_name": "ショウナンアビアス",
+      "score": 0.048801077331438014,
+      "horse_number": 3,
+      "odds": 10.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021110057",
+      "horse_name": "ボディブロー",
+      "score": -0.003173905058786175,
+      "horse_number": 9,
+      "odds": 41.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110069",
+      "horse_name": "エスカル",
+      "score": -0.012061586144529509,
+      "horse_number": 7,
+      "odds": 7.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021110056",
+      "horse_name": "エコロガイア",
+      "score": -0.014107256982265264,
+      "horse_number": 1,
+      "odds": 17.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104972",
+      "horse_name": "スリーピース",
+      "score": -0.056748072325599336,
+      "horse_number": 12,
+      "odds": 20.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020102343",
+      "horse_name": "サンライズパスカル",
+      "score": -0.06562364147766081,
+      "horse_number": 8,
+      "odds": 10.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105761",
+      "horse_name": "エティエンヌ",
+      "score": -0.13933381442888723,
+      "horse_number": 13,
+      "odds": 66.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022110140",
+      "horse_name": "ポールセン",
+      "score": -0.15005478398813887,
+      "horse_number": 2,
+      "odds": 5.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105545",
+      "horse_name": "アルムラトゥール",
+      "score": -0.2017960756621932,
+      "horse_number": 11,
+      "odds": 21.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101182",
+      "horse_name": "グッジョブ",
+      "score": -0.39381461356585423,
+      "horse_number": 14,
+      "odds": 34.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100895",
+      "horse_name": "サフランヒーロー",
+      "score": -0.4406207277976042,
+      "horse_number": 6,
+      "odds": 16.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100836",
+      "horse_name": "レアンダー",
+      "score": -0.4929607102209689,
+      "horse_number": 5,
+      "odds": 43.2
+    }
+  ]
+}

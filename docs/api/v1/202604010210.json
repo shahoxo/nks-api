@@ -1,0 +1,136 @@
+{
+  "race_id": "202604010210",
+  "race_name": "邁進特別",
+  "race_time": "2026-05-03 14:40",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101604",
+      "horse_name": "ハニーローリエ",
+      "score": 0.08287131240676818,
+      "horse_number": 8,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104197",
+      "horse_name": "カウンターセブン",
+      "score": 0.07068381636771603,
+      "horse_number": 16,
+      "odds": 2.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110087",
+      "horse_name": "ララアヴリル",
+      "score": 0.017672189462271837,
+      "horse_number": 11,
+      "odds": 11.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104190",
+      "horse_name": "ラトルシェ",
+      "score": -0.021243964166848744,
+      "horse_number": 13,
+      "odds": 17.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100356",
+      "horse_name": "クールベイビー",
+      "score": -0.07963408351350083,
+      "horse_number": 1,
+      "odds": 15.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105718",
+      "horse_name": "リリーフィールド",
+      "score": -0.11334957342681974,
+      "horse_number": 12,
+      "odds": 6.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020104983",
+      "horse_name": "マルプリ",
+      "score": -0.32391696330353664,
+      "horse_number": 2,
+      "odds": 40.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102674",
+      "horse_name": "スペルキャスター",
+      "score": -0.36904656873318514,
+      "horse_number": 15,
+      "odds": 16.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101469",
+      "horse_name": "ヴェナートル",
+      "score": -0.4086650803388609,
+      "horse_number": 9,
+      "odds": 22.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103005",
+      "horse_name": "ヒラボクミニー",
+      "score": -0.4100409113852416,
+      "horse_number": 4,
+      "odds": 50.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105445",
+      "horse_name": "イスラコラソン",
+      "score": -0.42123602202136773,
+      "horse_number": 7,
+      "odds": 13.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105068",
+      "horse_name": "クリノハレルヤ",
+      "score": -0.4639951443404765,
+      "horse_number": 6,
+      "odds": 45.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104490",
+      "horse_name": "エクセルゴールド",
+      "score": -0.5019592152707105,
+      "horse_number": 5,
+      "odds": 63.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100650",
+      "horse_name": "タミゼ",
+      "score": -0.5202009385665348,
+      "horse_number": 14,
+      "odds": 28.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100198",
+      "horse_name": "ホークレア",
+      "score": -0.5383061217726849,
+      "horse_number": 10,
+      "odds": 61.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022104216",
+      "horse_name": "ペイシャヴァルツー",
+      "score": -0.5456935335729066,
+      "horse_number": 3,
+      "odds": 46.7
+    }
+  ]
+}
