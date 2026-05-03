@@ -1,0 +1,136 @@
+{
+  "race_id": "202608030412",
+  "race_name": "東大路S",
+  "race_time": "2026-05-03 16:35",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021106594",
+      "horse_name": "ヤマニンアストロン",
+      "score": 0.2536277245861135,
+      "horse_number": 16,
+      "odds": 5.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100328",
+      "horse_name": "ハクサンアイリス",
+      "score": 0.15183519699567205,
+      "horse_number": 5,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105964",
+      "horse_name": "スニーカースキル",
+      "score": 0.0088378248352561,
+      "horse_number": 10,
+      "odds": 18.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106157",
+      "horse_name": "マッシャーブルム",
+      "score": 0.00039989168798441714,
+      "horse_number": 14,
+      "odds": 14.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105379",
+      "horse_name": "ルシフェル",
+      "score": -0.0469116075459831,
+      "horse_number": 6,
+      "odds": 3.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104928",
+      "horse_name": "トラペジスト",
+      "score": -0.04970925355855992,
+      "horse_number": 12,
+      "odds": 23.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106063",
+      "horse_name": "ゴッドブルービー",
+      "score": -0.07470506538990644,
+      "horse_number": 7,
+      "odds": 13.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100583",
+      "horse_name": "レイズカイザー",
+      "score": -0.08982858170552324,
+      "horse_number": 4,
+      "odds": 33.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021109027",
+      "horse_name": "テーオールビー",
+      "score": -0.16344778980601787,
+      "horse_number": 15,
+      "odds": 32.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101808",
+      "horse_name": "ハワイアンタイム",
+      "score": -0.17628885478154127,
+      "horse_number": 13,
+      "odds": 7.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019102102",
+      "horse_name": "ゲキザル",
+      "score": -0.21053776999233645,
+      "horse_number": 9,
+      "odds": 27.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019100110",
+      "horse_name": "ナッカーフェイス",
+      "score": -0.2441000073378225,
+      "horse_number": 3,
+      "odds": 62.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021101235",
+      "horse_name": "ゴールデンオスカー",
+      "score": -0.2909305337363234,
+      "horse_number": 1,
+      "odds": 34.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019101864",
+      "horse_name": "クロニクル",
+      "score": -0.2972257316612481,
+      "horse_number": 2,
+      "odds": 73.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103582",
+      "horse_name": "サンダーバース",
+      "score": -0.36517988014419467,
+      "horse_number": 8,
+      "odds": 76.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101216",
+      "horse_name": "テイエムヒショウ",
+      "score": -0.6238516222815199,
+      "horse_number": 11,
+      "odds": 26.7
+    }
+  ]
+}
