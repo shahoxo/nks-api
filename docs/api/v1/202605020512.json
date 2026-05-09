@@ -1,0 +1,136 @@
+{
+  "race_id": "202605020512",
+  "race_name": "4歳以上2勝クラス",
+  "race_time": "2026-05-09 16:30",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106639",
+      "horse_name": "モーニングマジック",
+      "score": 0.32155797175398737,
+      "horse_number": 3,
+      "odds": 2.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103047",
+      "horse_name": "ホウショウマリス",
+      "score": 0.12350793322840488,
+      "horse_number": 8,
+      "odds": 6.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106568",
+      "horse_name": "ドナカルナバル",
+      "score": 0.1232922055208963,
+      "horse_number": 9,
+      "odds": 44.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104674",
+      "horse_name": "フィドルファドル",
+      "score": 0.11920444907527676,
+      "horse_number": 11,
+      "odds": 14.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102371",
+      "horse_name": "クインズポラリス",
+      "score": 0.10061499894552348,
+      "horse_number": 6,
+      "odds": 18.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105711",
+      "horse_name": "ヴァリオーサ",
+      "score": 0.07303652365056965,
+      "horse_number": 15,
+      "odds": 55.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104758",
+      "horse_name": "ヴィンブルレー",
+      "score": 0.05721062005469485,
+      "horse_number": 7,
+      "odds": 9.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102026",
+      "horse_name": "アクアマリーナ",
+      "score": -0.018094380606363248,
+      "horse_number": 1,
+      "odds": 9.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106851",
+      "horse_name": "レディゴディヴァ",
+      "score": -0.14211029319493182,
+      "horse_number": 4,
+      "odds": 66.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103706",
+      "horse_name": "アルジェンタージョ",
+      "score": -0.20812364247038875,
+      "horse_number": 5,
+      "odds": 25.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106639",
+      "horse_name": "ベルブリエ",
+      "score": -0.2289859039006434,
+      "horse_number": 12,
+      "odds": 78.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105973",
+      "horse_name": "ワイノナオミ",
+      "score": -0.2536904523668554,
+      "horse_number": 14,
+      "odds": 19.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019102186",
+      "horse_name": "オーロラアーク",
+      "score": -0.3468007036997391,
+      "horse_number": 10,
+      "odds": 109.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104205",
+      "horse_name": "プチブール",
+      "score": -0.36887260429688556,
+      "horse_number": 16,
+      "odds": 17.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104687",
+      "horse_name": "ラヴァブル",
+      "score": -0.3862234634932693,
+      "horse_number": 2,
+      "odds": 26.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106698",
+      "horse_name": "オカメノコイ",
+      "score": -0.45880344314237775,
+      "horse_number": 13,
+      "odds": 39.0
+    }
+  ]
+}
