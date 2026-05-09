@@ -1,0 +1,104 @@
+{
+  "race_id": "202605020504",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-09 11:40",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107327",
+      "horse_name": "ガードオブオナー",
+      "score": 0.4552416237401616,
+      "horse_number": 6,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103780",
+      "horse_name": "2023103780",
+      "score": 0.27087740300540386,
+      "horse_number": 2,
+      "odds": 3.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102090",
+      "horse_name": "クイーンアン",
+      "score": 0.19746454665633456,
+      "horse_number": 8,
+      "odds": 6.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106254",
+      "horse_name": "ニシノヒノトリ",
+      "score": 0.1442525778663151,
+      "horse_number": 4,
+      "odds": 3.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105271",
+      "horse_name": "クォンタムビット",
+      "score": 0.07823074211487512,
+      "horse_number": 9,
+      "odds": 28.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105371",
+      "horse_name": "ボンボンベイビー",
+      "score": -0.0901091532166999,
+      "horse_number": 3,
+      "odds": 31.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103799",
+      "horse_name": "フォンドルレール",
+      "score": -0.21795652228276652,
+      "horse_number": 10,
+      "odds": 11.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102771",
+      "horse_name": "トレセデオロ",
+      "score": -0.28666927134625075,
+      "horse_number": 12,
+      "odds": 26.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101081",
+      "horse_name": "ダイナマイトメロン",
+      "score": -0.3593990533815987,
+      "horse_number": 7,
+      "odds": 101.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103729",
+      "horse_name": "リーピングサイン",
+      "score": -0.47369819103010613,
+      "horse_number": 1,
+      "odds": 33.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101880",
+      "horse_name": "オーケーグリット",
+      "score": -0.5290746390114524,
+      "horse_number": 11,
+      "odds": 68.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103835",
+      "horse_name": "ブルーブロディ",
+      "score": -0.6376585761263767,
+      "horse_number": 5,
+      "odds": 79.2
+    }
+  ]
+}

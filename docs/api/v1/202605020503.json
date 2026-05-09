@@ -1,0 +1,136 @@
+{
+  "race_id": "202605020503",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-09 11:10",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105308",
+      "horse_name": "トルネードアイル",
+      "score": 0.4801471839128233,
+      "horse_number": 9,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100925",
+      "horse_name": "サトノワーグナー",
+      "score": 0.32136032621131855,
+      "horse_number": 16,
+      "odds": 6.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105264",
+      "horse_name": "ロイヤルアデレード",
+      "score": 0.2730949402970685,
+      "horse_number": 6,
+      "odds": 12.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105081",
+      "horse_name": "レイズテンペスト",
+      "score": 0.07406188445276655,
+      "horse_number": 15,
+      "odds": 6.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101929",
+      "horse_name": "アンシュウマト",
+      "score": -0.20335942654593672,
+      "horse_number": 13,
+      "odds": 4.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107274",
+      "horse_name": "ケファロニア",
+      "score": -0.25869625459310946,
+      "horse_number": 4,
+      "odds": 114.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103337",
+      "horse_name": "コロッセウム",
+      "score": -0.32515540656257846,
+      "horse_number": 5,
+      "odds": 61.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101135",
+      "horse_name": "ファイアリービート",
+      "score": -0.3772399143325157,
+      "horse_number": 3,
+      "odds": 21.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106904",
+      "horse_name": "パンパネイラ",
+      "score": -0.40668786698502557,
+      "horse_number": 14,
+      "odds": 29.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100307",
+      "horse_name": "キリミツ",
+      "score": -0.5097276831812566,
+      "horse_number": 12,
+      "odds": 25.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103052",
+      "horse_name": "2023103052",
+      "score": -0.5605472818472005,
+      "horse_number": 8,
+      "odds": 98.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106610",
+      "horse_name": "イゲマジャ",
+      "score": -0.6501741187446226,
+      "horse_number": 7,
+      "odds": 111.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106733",
+      "horse_name": "ザンテソーロ",
+      "score": -0.655021023122785,
+      "horse_number": 1,
+      "odds": 69.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106087",
+      "horse_name": "トレンドラド",
+      "score": -0.6791748836945594,
+      "horse_number": 10,
+      "odds": 130.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104036",
+      "horse_name": "ボンダイビーチ",
+      "score": -0.706985290822235,
+      "horse_number": 2,
+      "odds": 161.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023103705",
+      "horse_name": "ドロワ",
+      "score": -0.7212483613895885,
+      "horse_number": 11,
+      "odds": 57.0
+    }
+  ]
+}

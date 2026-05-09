@@ -1,0 +1,128 @@
+{
+  "race_id": "202608030504",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-09 11:30",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107076",
+      "horse_name": "マジカルアメジスト",
+      "score": 0.3079170787236408,
+      "horse_number": 8,
+      "odds": 6.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105647",
+      "horse_name": "プレスバーン",
+      "score": 0.2322095617592549,
+      "horse_number": 13,
+      "odds": 9.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102221",
+      "horse_name": "ルクスキャンディ",
+      "score": 0.22546591642115926,
+      "horse_number": 14,
+      "odds": 13.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103367",
+      "horse_name": "カトマンズゴールド",
+      "score": 0.16195336806268132,
+      "horse_number": 10,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107092",
+      "horse_name": "ティタノマキア",
+      "score": 0.07539317527820927,
+      "horse_number": 6,
+      "odds": 6.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107253",
+      "horse_name": "ビシェノ",
+      "score": 0.0724959418228337,
+      "horse_number": 7,
+      "odds": 18.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101404",
+      "horse_name": "パンチャマハブータ",
+      "score": -0.05327879708990442,
+      "horse_number": 2,
+      "odds": 10.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101198",
+      "horse_name": "2023101198",
+      "score": -0.1436730608367647,
+      "horse_number": 12,
+      "odds": 77.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105117",
+      "horse_name": "ヴェルサイユローズ",
+      "score": -0.1756998561603158,
+      "horse_number": 11,
+      "odds": 73.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102724",
+      "horse_name": "ブライトココナッツ",
+      "score": -0.25322652390662564,
+      "horse_number": 3,
+      "odds": 102.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106148",
+      "horse_name": "ヒメヒオウギ",
+      "score": -0.27001613297579974,
+      "horse_number": 4,
+      "odds": 38.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105226",
+      "horse_name": "アリアベルデ",
+      "score": -0.3250434668396478,
+      "horse_number": 5,
+      "odds": 117.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102739",
+      "horse_name": "テクノピーチ",
+      "score": -0.3904761897151493,
+      "horse_number": 1,
+      "odds": 36.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104615",
+      "horse_name": "2023104615",
+      "score": -0.45515342496955935,
+      "horse_number": 9,
+      "odds": 2.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105385",
+      "horse_name": "エアリアルグレース",
+      "score": -0.4938481670671474,
+      "horse_number": 15,
+      "odds": 116.3
+    }
+  ]
+}
