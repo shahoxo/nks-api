@@ -1,0 +1,120 @@
+{
+  "race_id": "202604010309",
+  "race_name": "ゆきつばき賞",
+  "race_time": "2026-05-09 14:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100617",
+      "horse_name": "マナボニート",
+      "score": 0.23208238261541247,
+      "horse_number": 8,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102872",
+      "horse_name": "ミスターバッドガイ",
+      "score": 0.19357121729046317,
+      "horse_number": 5,
+      "odds": 21.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104528",
+      "horse_name": "トップアタック",
+      "score": 0.05474052718540361,
+      "horse_number": 11,
+      "odds": 25.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105317",
+      "horse_name": "ウィングブルー",
+      "score": -0.08625876650156965,
+      "horse_number": 13,
+      "odds": 12.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102440",
+      "horse_name": "ホウオウヘッセン",
+      "score": -0.08724797437042799,
+      "horse_number": 1,
+      "odds": 4.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106190",
+      "horse_name": "デンプシー",
+      "score": -0.09215293448268609,
+      "horse_number": 12,
+      "odds": 12.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103528",
+      "horse_name": "ツルノマイハシ",
+      "score": -0.17353434165123893,
+      "horse_number": 4,
+      "odds": 15.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106269",
+      "horse_name": "ニシノセイドウ",
+      "score": -0.208797311414325,
+      "horse_number": 6,
+      "odds": 30.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102819",
+      "horse_name": "マーシャルアン",
+      "score": -0.21831690869137851,
+      "horse_number": 2,
+      "odds": 53.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102027",
+      "horse_name": "フィオラーノ",
+      "score": -0.22848002414082227,
+      "horse_number": 9,
+      "odds": 8.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100796",
+      "horse_name": "クラディスティーナ",
+      "score": -0.297128474506474,
+      "horse_number": 10,
+      "odds": 28.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103037",
+      "horse_name": "コパノトーマス",
+      "score": -0.3667395970113396,
+      "horse_number": 14,
+      "odds": 4.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106256",
+      "horse_name": "セイウンアインス",
+      "score": -0.49520296974444644,
+      "horse_number": 3,
+      "odds": 23.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100606",
+      "horse_name": "2023100606",
+      "score": -0.5071126925064392,
+      "horse_number": 7,
+      "odds": 155.6
+    }
+  ]
+}

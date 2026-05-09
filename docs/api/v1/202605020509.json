@@ -1,0 +1,104 @@
+{
+  "race_id": "202605020509",
+  "race_name": "分倍河原S",
+  "race_time": "2026-05-09 14:31",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021110030",
+      "horse_name": "アンパドゥ",
+      "score": 0.5233146345745111,
+      "horse_number": 7,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101422",
+      "horse_name": "マテンロウブラボー",
+      "score": 0.46751245338228714,
+      "horse_number": 3,
+      "odds": 7.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105704",
+      "horse_name": "コルレオニス",
+      "score": 0.3278875077384249,
+      "horse_number": 12,
+      "odds": 12.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020105305",
+      "horse_name": "アウフヘーベン",
+      "score": 0.24907868704110847,
+      "horse_number": 8,
+      "odds": 7.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106369",
+      "horse_name": "チャンネルトンネル",
+      "score": 0.20611588603322595,
+      "horse_number": 2,
+      "odds": 6.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020103881",
+      "horse_name": "コスモサガルマータ",
+      "score": -0.1253669227434864,
+      "horse_number": 10,
+      "odds": 19.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100363",
+      "horse_name": "パワーホール",
+      "score": -0.21562064817578172,
+      "horse_number": 5,
+      "odds": 19.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103947",
+      "horse_name": "ホウオウムサシ",
+      "score": -0.24144714371816348,
+      "horse_number": 4,
+      "odds": 44.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100810",
+      "horse_name": "グラニット",
+      "score": -0.3583046417365345,
+      "horse_number": 9,
+      "odds": 34.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103049",
+      "horse_name": "ミカッテヨンデイイ",
+      "score": -0.36976134482701695,
+      "horse_number": 1,
+      "odds": 49.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104596",
+      "horse_name": "ガルダイア",
+      "score": -0.4735825003966767,
+      "horse_number": 11,
+      "odds": 16.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103279",
+      "horse_name": "ショーモン",
+      "score": -0.723527651007794,
+      "horse_number": 6,
+      "odds": 140.5
+    }
+  ]
+}
