@@ -1,0 +1,96 @@
+{
+  "race_id": "202608030610",
+  "race_name": "橘S",
+  "race_time": "2026-05-10 14:50",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107138",
+      "horse_name": "ケールハイム",
+      "score": 0.351284605512752,
+      "horse_number": 1,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105273",
+      "horse_name": "フォーゲル",
+      "score": 0.25544971413354584,
+      "horse_number": 6,
+      "odds": 9.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104313",
+      "horse_name": "タガノアラリア",
+      "score": 0.18102576569967976,
+      "horse_number": 4,
+      "odds": 1.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104960",
+      "horse_name": "アスミル",
+      "score": 0.1473925183630807,
+      "horse_number": 10,
+      "odds": 18.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107352",
+      "horse_name": "スペルーチェ",
+      "score": 0.033301008582360805,
+      "horse_number": 5,
+      "odds": 4.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100935",
+      "horse_name": "トラスコンガーデン",
+      "score": -0.054297143101909806,
+      "horse_number": 3,
+      "odds": 25.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100772",
+      "horse_name": "ストームサンダー",
+      "score": -0.3098688771886465,
+      "horse_number": 7,
+      "odds": 22.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104121",
+      "horse_name": "アルスマグナ",
+      "score": -0.3639359001315709,
+      "horse_number": 9,
+      "odds": 50.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106194",
+      "horse_name": "2023106194",
+      "score": -0.47293600501096866,
+      "horse_number": 8,
+      "odds": 47.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100526",
+      "horse_name": "2023100526",
+      "score": -0.5152909742342322,
+      "horse_number": 2,
+      "odds": 57.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100113",
+      "horse_name": "ギガントマキア",
+      "score": -0.7560238565797833,
+      "horse_number": 11,
+      "odds": 135.7
+    }
+  ]
+}

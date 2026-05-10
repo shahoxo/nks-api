@@ -1,0 +1,120 @@
+{
+  "race_id": "202604010410",
+  "race_name": "五泉特別",
+  "race_time": "2026-05-10 14:40",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105094",
+      "horse_name": "エイカイソウル",
+      "score": 0.22637716322623952,
+      "horse_number": 5,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021106054",
+      "horse_name": "ケーヴァラ",
+      "score": 0.08317387548558926,
+      "horse_number": 7,
+      "odds": 8.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101677",
+      "horse_name": "マンオブザマッチ",
+      "score": 0.07638794644429088,
+      "horse_number": 11,
+      "odds": 9.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105925",
+      "horse_name": "フィールオーサム",
+      "score": -0.011884553956750943,
+      "horse_number": 3,
+      "odds": 4.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106205",
+      "horse_name": "メイショウクーガー",
+      "score": -0.10802802101073793,
+      "horse_number": 9,
+      "odds": 16.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101305",
+      "horse_name": "サンカルミア",
+      "score": -0.11452696910117499,
+      "horse_number": 2,
+      "odds": 7.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022107226",
+      "horse_name": "カゼノタカトシ",
+      "score": -0.13288925985487715,
+      "horse_number": 10,
+      "odds": 20.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105984",
+      "horse_name": "モモンウールー",
+      "score": -0.133152038489726,
+      "horse_number": 6,
+      "odds": 19.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105971",
+      "horse_name": "フラッシング",
+      "score": -0.24453208430278128,
+      "horse_number": 14,
+      "odds": 13.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101913",
+      "horse_name": "タカサンフェイス",
+      "score": -0.2709884419861532,
+      "horse_number": 4,
+      "odds": 20.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104751",
+      "horse_name": "オリエンタルナイト",
+      "score": -0.3385894781867984,
+      "horse_number": 8,
+      "odds": 51.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107133",
+      "horse_name": "タガノマルアフ",
+      "score": -0.5285825139630671,
+      "horse_number": 13,
+      "odds": 57.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2017103267",
+      "horse_name": "エクストラノート",
+      "score": -0.569470717884104,
+      "horse_number": 1,
+      "odds": 23.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105147",
+      "horse_name": "ユイノマチブセ",
+      "score": -0.5970618435386312,
+      "horse_number": 12,
+      "odds": 27.7
+    }
+  ]
+}

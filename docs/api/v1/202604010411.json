@@ -1,0 +1,120 @@
+{
+  "race_id": "202604010411",
+  "race_name": "谷川岳S",
+  "race_time": "2026-05-10 15:15",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104830",
+      "horse_name": "グロリアラウス",
+      "score": 0.19697781284220284,
+      "horse_number": 6,
+      "odds": 7.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2018105454",
+      "horse_name": "グレイイングリーン",
+      "score": 0.15829093993845944,
+      "horse_number": 5,
+      "odds": 7.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100139",
+      "horse_name": "クランフォード",
+      "score": 0.07629032687369837,
+      "horse_number": 11,
+      "odds": 3.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102888",
+      "horse_name": "ナムラアトム",
+      "score": 0.058822739023823706,
+      "horse_number": 12,
+      "odds": 11.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105128",
+      "horse_name": "サトノカルナバル",
+      "score": -0.03295342509777682,
+      "horse_number": 14,
+      "odds": 9.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105548",
+      "horse_name": "アルセナール",
+      "score": -0.061214124469035125,
+      "horse_number": 10,
+      "odds": 16.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105291",
+      "horse_name": "ランフォーヴァウ",
+      "score": -0.1004833692593511,
+      "horse_number": 7,
+      "odds": 11.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102625",
+      "horse_name": "アクートゥス",
+      "score": -0.10493343735366877,
+      "horse_number": 8,
+      "odds": 19.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104751",
+      "horse_name": "アルテヴェローチェ",
+      "score": -0.3280174049639592,
+      "horse_number": 9,
+      "odds": 7.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022110114",
+      "horse_name": "シンフォーエバー",
+      "score": -0.3705725489683866,
+      "horse_number": 13,
+      "odds": 20.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2017104172",
+      "horse_name": "メイショウチタン",
+      "score": -0.4100660961908693,
+      "horse_number": 1,
+      "odds": 14.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100019",
+      "horse_name": "マサノカナリア",
+      "score": -0.4400531363403927,
+      "horse_number": 3,
+      "odds": 21.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019101348",
+      "horse_name": "ビーアストニッシド",
+      "score": -0.4951074609881263,
+      "horse_number": 4,
+      "odds": 86.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106155",
+      "horse_name": "ニシノエージェント",
+      "score": -0.655021023122785,
+      "horse_number": 2,
+      "odds": 28.4
+    }
+  ]
+}
