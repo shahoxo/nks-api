@@ -1,0 +1,120 @@
+{
+  "race_id": "202605020604",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-10 11:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107013",
+      "horse_name": "ランブルスコ",
+      "score": 0.3839780039086007,
+      "horse_number": 4,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107093",
+      "horse_name": "ゴンファロニエーレ",
+      "score": 0.35015501879664057,
+      "horse_number": 7,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101076",
+      "horse_name": "2023101076",
+      "score": -0.11039476980837756,
+      "horse_number": 12,
+      "odds": 29.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107336",
+      "horse_name": "2023107336",
+      "score": -0.16862798568741463,
+      "horse_number": 9,
+      "odds": 30.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101575",
+      "horse_name": "ラルクアンレーヴ",
+      "score": -0.19886532897673975,
+      "horse_number": 2,
+      "odds": 11.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102808",
+      "horse_name": "プリティウーマン",
+      "score": -0.2243060301827568,
+      "horse_number": 8,
+      "odds": 18.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106842",
+      "horse_name": "ポイズンオーク",
+      "score": -0.26591615216612585,
+      "horse_number": 3,
+      "odds": 30.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103971",
+      "horse_name": "フキョウワオン",
+      "score": -0.26628269244565933,
+      "horse_number": 10,
+      "odds": 13.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105254",
+      "horse_name": "パルミエ",
+      "score": -0.28379815829868726,
+      "horse_number": 14,
+      "odds": 33.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103927",
+      "horse_name": "2023103927",
+      "score": -0.31647812335016257,
+      "horse_number": 1,
+      "odds": 18.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104069",
+      "horse_name": "ベルウッドバイオ",
+      "score": -0.34629926210199535,
+      "horse_number": 6,
+      "odds": 24.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102941",
+      "horse_name": "フォーエバーラブ",
+      "score": -0.47527387920692876,
+      "horse_number": 11,
+      "odds": 35.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102015",
+      "horse_name": "アテナガール",
+      "score": -0.6005827911375529,
+      "horse_number": 5,
+      "odds": 81.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101871",
+      "horse_name": "アルマサーガ",
+      "score": -0.6440571687159423,
+      "horse_number": 13,
+      "odds": 184.4
+    }
+  ]
+}

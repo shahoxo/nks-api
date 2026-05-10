@@ -1,0 +1,152 @@
+{
+  "race_id": "202605020603",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-10 11:05",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107068",
+      "horse_name": "サンセリテ",
+      "score": 0.34489539545765036,
+      "horse_number": 2,
+      "odds": 8.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102633",
+      "horse_name": "アイアンパイク",
+      "score": 0.2862778902273605,
+      "horse_number": 6,
+      "odds": 5.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105876",
+      "horse_name": "ウインアプローチ",
+      "score": 0.23126445510846189,
+      "horse_number": 10,
+      "odds": 2.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106841",
+      "horse_name": "セシルブリュネ",
+      "score": 0.031012183145749387,
+      "horse_number": 3,
+      "odds": 11.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023110025",
+      "horse_name": "セリエンクーニゲン",
+      "score": 0.021691129783472134,
+      "horse_number": 12,
+      "odds": 20.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105006",
+      "horse_name": "2023105006",
+      "score": 0.0020213456053204543,
+      "horse_number": 4,
+      "odds": 32.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107370",
+      "horse_name": "フレアリングベリー",
+      "score": -0.062007037587434644,
+      "horse_number": 1,
+      "odds": 5.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106341",
+      "horse_name": "アリアファブラ",
+      "score": -0.09592024474317111,
+      "horse_number": 9,
+      "odds": 72.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102805",
+      "horse_name": "2023102805",
+      "score": -0.18901206361977899,
+      "horse_number": 14,
+      "odds": 48.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100960",
+      "horse_name": "2023100960",
+      "score": -0.23023905309127027,
+      "horse_number": 8,
+      "odds": 77.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100653",
+      "horse_name": "ペルシアーノ",
+      "score": -0.269720198438785,
+      "horse_number": 15,
+      "odds": 124.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100232",
+      "horse_name": "アイアンクラッド",
+      "score": -0.29864155424475636,
+      "horse_number": 5,
+      "odds": 49.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102954",
+      "horse_name": "2023102954",
+      "score": -0.34922312670524347,
+      "horse_number": 17,
+      "odds": 67.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106245",
+      "horse_name": "ルモンテ",
+      "score": -0.3892641501951283,
+      "horse_number": 18,
+      "odds": 15.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100534",
+      "horse_name": "ヘルヴィッツ",
+      "score": -0.40671964272075817,
+      "horse_number": 13,
+      "odds": 109.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100097",
+      "horse_name": "2023100097",
+      "score": -0.4531919575174398,
+      "horse_number": 7,
+      "odds": 174.2
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023103569",
+      "horse_name": "ツキノマバタキ",
+      "score": -0.5489598004041365,
+      "horse_number": 16,
+      "odds": 137.7
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023102281",
+      "horse_name": "フクスケ",
+      "score": -0.6970415147616792,
+      "horse_number": 11,
+      "odds": 56.2
+    }
+  ]
+}

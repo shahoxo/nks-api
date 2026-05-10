@@ -1,0 +1,104 @@
+{
+  "race_id": "202608030603",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-10 10:55",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103316",
+      "horse_name": "セスティーナ",
+      "score": 0.05054198622911179,
+      "horse_number": 1,
+      "odds": 1.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104100",
+      "horse_name": "ハイドパーク",
+      "score": -0.16540092538929593,
+      "horse_number": 11,
+      "odds": 6.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103315",
+      "horse_name": "2023103315",
+      "score": -0.2643931523234421,
+      "horse_number": 8,
+      "odds": 50.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104077",
+      "horse_name": "トコトコクマチ",
+      "score": -0.3167402988069007,
+      "horse_number": 3,
+      "odds": 28.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101781",
+      "horse_name": "ラッキーダイヤ",
+      "score": -0.3192567730667,
+      "horse_number": 6,
+      "odds": 15.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106271",
+      "horse_name": "ニシノエビガタメ",
+      "score": -0.33312951241212124,
+      "horse_number": 2,
+      "odds": 22.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100467",
+      "horse_name": "レディトゥフライト",
+      "score": -0.428682647220212,
+      "horse_number": 9,
+      "odds": 20.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107469",
+      "horse_name": "2023107469",
+      "score": -0.45515342496955935,
+      "horse_number": 10,
+      "odds": 185.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107344",
+      "horse_name": "マテンロウルクス",
+      "score": -0.4807566786055527,
+      "horse_number": 12,
+      "odds": 57.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101579",
+      "horse_name": "サイモンエクセラー",
+      "score": -0.5016727905982852,
+      "horse_number": 4,
+      "odds": 62.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104476",
+      "horse_name": "カイラーサ",
+      "score": -0.5670515164495529,
+      "horse_number": 7,
+      "odds": 40.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103083",
+      "horse_name": "ヴェインズマン",
+      "score": -0.6857901210664504,
+      "horse_number": 5,
+      "odds": 81.7
+    }
+  ]
+}
