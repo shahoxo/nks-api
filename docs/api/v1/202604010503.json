@@ -1,0 +1,136 @@
+{
+  "race_id": "202604010503",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-16 11:05",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105216",
+      "horse_name": "リアライズガイザー",
+      "score": 0.49202184423606643,
+      "horse_number": 8,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101120",
+      "horse_name": "バンオンタイム",
+      "score": 0.27114529725184466,
+      "horse_number": 9,
+      "odds": 5.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107074",
+      "horse_name": "ミラキュラスアース",
+      "score": 0.23632941060801338,
+      "horse_number": 14,
+      "odds": 4.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106972",
+      "horse_name": "2023106972",
+      "score": 0.02429931633566767,
+      "horse_number": 7,
+      "odds": 29.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107304",
+      "horse_name": "ランウェイミューズ",
+      "score": -0.0534427096164234,
+      "horse_number": 1,
+      "odds": 9.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106872",
+      "horse_name": "イルミナジーティー",
+      "score": -0.13345036360905446,
+      "horse_number": 12,
+      "odds": 17.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106620",
+      "horse_name": "ショウナンバーボン",
+      "score": -0.13572050424595392,
+      "horse_number": 3,
+      "odds": 19.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102640",
+      "horse_name": "オレンジフィールド",
+      "score": -0.2865139670854028,
+      "horse_number": 5,
+      "odds": 83.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103639",
+      "horse_name": "ネッカーズルム",
+      "score": -0.2951525312687029,
+      "horse_number": 15,
+      "odds": 23.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106493",
+      "horse_name": "ミセスジョーンズ",
+      "score": -0.29806217601111334,
+      "horse_number": 4,
+      "odds": 82.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106657",
+      "horse_name": "イーサンミラー",
+      "score": -0.3417034870519813,
+      "horse_number": 16,
+      "odds": 21.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100515",
+      "horse_name": "ドラリズム",
+      "score": -0.4550253692866483,
+      "horse_number": 11,
+      "odds": 6.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106742",
+      "horse_name": "ポセイドンテソーロ",
+      "score": -0.5171918430050705,
+      "horse_number": 10,
+      "odds": 80.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100792",
+      "horse_name": "イーリスアスター",
+      "score": -0.5248433015373399,
+      "horse_number": 13,
+      "odds": 59.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023110078",
+      "horse_name": "トリトマフロックス",
+      "score": -0.5682394092320806,
+      "horse_number": 6,
+      "odds": 147.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100706",
+      "horse_name": "ピコパープル",
+      "score": -0.7241126583868103,
+      "horse_number": 2,
+      "odds": 142.0
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "race_id": "202604010504",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-16 11:35",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101035",
+      "horse_name": "テリコス",
+      "score": 0.16687777416603897,
+      "horse_number": 8,
+      "odds": 9.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104399",
+      "horse_name": "2023104399",
+      "score": 0.10874405522558839,
+      "horse_number": 4,
+      "odds": 5.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102750",
+      "horse_name": "2023102750",
+      "score": 0.001219568290033203,
+      "horse_number": 10,
+      "odds": 1.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103016",
+      "horse_name": "ボールドタワー",
+      "score": -0.0949276121795069,
+      "horse_number": 11,
+      "odds": 7.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105649",
+      "horse_name": "2023105649",
+      "score": -0.3313822657543265,
+      "horse_number": 2,
+      "odds": 44.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106570",
+      "horse_name": "メイショウタイザン",
+      "score": -0.4541879367861389,
+      "horse_number": 7,
+      "odds": 7.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104072",
+      "horse_name": "2023104072",
+      "score": -0.45515342496955935,
+      "horse_number": 6,
+      "odds": 26.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103252",
+      "horse_name": "タマモブレイキン",
+      "score": -0.5234523267240944,
+      "horse_number": 3,
+      "odds": 31.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101532",
+      "horse_name": "2023101532",
+      "score": -0.6336370845533565,
+      "horse_number": 1,
+      "odds": 62.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105863",
+      "horse_name": "ウインプライム",
+      "score": -0.6753549706363744,
+      "horse_number": 9,
+      "odds": 67.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106764",
+      "horse_name": "アンデルストープ",
+      "score": -0.7212483613895885,
+      "horse_number": 5,
+      "odds": 26.4
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "race_id": "202608030704",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-16 11:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105789",
+      "horse_name": "ドンテスタマスター",
+      "score": 0.22626818682635214,
+      "horse_number": 6,
+      "odds": 2.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100217",
+      "horse_name": "ソルトハッピー",
+      "score": 0.13555009952257616,
+      "horse_number": 1,
+      "odds": 8.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106243",
+      "horse_name": "ナムラヴンダー",
+      "score": 0.031770243443470327,
+      "horse_number": 7,
+      "odds": 8.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104320",
+      "horse_name": "タガノミトゥンドゥ",
+      "score": -0.036863709694493645,
+      "horse_number": 10,
+      "odds": 13.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107221",
+      "horse_name": "シャンドラファール",
+      "score": -0.07781020132046408,
+      "horse_number": 2,
+      "odds": 4.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107252",
+      "horse_name": "2023107252",
+      "score": -0.22962833912679723,
+      "horse_number": 8,
+      "odds": 8.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106210",
+      "horse_name": "スリーキズナヒメ",
+      "score": -0.36422603538179854,
+      "horse_number": 5,
+      "odds": 19.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107379",
+      "horse_name": "サトノビダーヤ",
+      "score": -0.5636716945698683,
+      "horse_number": 9,
+      "odds": 38.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101461",
+      "horse_name": "アウラニ",
+      "score": -0.6210665382153117,
+      "horse_number": 4,
+      "odds": 26.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100868",
+      "horse_name": "フィエールシャンテ",
+      "score": -0.6997242947219148,
+      "horse_number": 3,
+      "odds": 10.0
+    }
+  ]
+}
