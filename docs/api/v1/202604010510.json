@@ -1,0 +1,80 @@
+{
+  "race_id": "202604010510",
+  "race_name": "中ノ岳特別",
+  "race_time": "2026-05-16 15:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101106",
+      "horse_name": "スマートスピア",
+      "score": 0.5233146345745111,
+      "horse_number": 4,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102905",
+      "horse_name": "ディアウス",
+      "score": 0.1576615337006071,
+      "horse_number": 8,
+      "odds": 10.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021110012",
+      "horse_name": "アークドール",
+      "score": 0.14568474342503257,
+      "horse_number": 1,
+      "odds": 5.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104854",
+      "horse_name": "ソニックステップ",
+      "score": 0.12665303796085292,
+      "horse_number": 5,
+      "odds": 6.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102965",
+      "horse_name": "ブレトワルダ",
+      "score": 0.10224422287570076,
+      "horse_number": 2,
+      "odds": 29.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104321",
+      "horse_name": "カレンワッツアップ",
+      "score": 0.004185807806078287,
+      "horse_number": 9,
+      "odds": 20.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105495",
+      "horse_name": "マーゴットゲイン",
+      "score": -0.1461456539089838,
+      "horse_number": 6,
+      "odds": 22.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100640",
+      "horse_name": "プラニスフェリオ",
+      "score": -0.19362501365694215,
+      "horse_number": 7,
+      "odds": 41.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105486",
+      "horse_name": "テルアスワッド",
+      "score": -0.21784270581983314,
+      "horse_number": 3,
+      "odds": 13.1
+    }
+  ]
+}

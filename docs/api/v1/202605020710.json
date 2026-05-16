@@ -1,0 +1,104 @@
+{
+  "race_id": "202605020710",
+  "race_name": "立川特別",
+  "race_time": "2026-05-16 14:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100905",
+      "horse_name": "メリディアンスター",
+      "score": 0.34909578707028754,
+      "horse_number": 8,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110130",
+      "horse_name": "ベラジオワールド",
+      "score": 0.345901768861623,
+      "horse_number": 6,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100702",
+      "horse_name": "ポッドベル",
+      "score": 0.25831947700317676,
+      "horse_number": 11,
+      "odds": 6.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110152",
+      "horse_name": "レーティッシュ",
+      "score": 0.22740003989436497,
+      "horse_number": 12,
+      "odds": 4.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101572",
+      "horse_name": "プライベートアイズ",
+      "score": 0.1535039246848424,
+      "horse_number": 1,
+      "odds": 17.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106328",
+      "horse_name": "モリノアミーゴ",
+      "score": 0.11124339143429773,
+      "horse_number": 5,
+      "odds": 31.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020105813",
+      "horse_name": "マーゴットレーヴ",
+      "score": 0.04059893646771796,
+      "horse_number": 3,
+      "odds": 46.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101660",
+      "horse_name": "アンクエンチャブル",
+      "score": 0.037515509638987775,
+      "horse_number": 9,
+      "odds": 7.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106011",
+      "horse_name": "ホウオウゴールド",
+      "score": 0.017109905638266955,
+      "horse_number": 7,
+      "odds": 17.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101863",
+      "horse_name": "ドントゥザムーン",
+      "score": -0.14317440723854113,
+      "horse_number": 2,
+      "odds": 14.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103161",
+      "horse_name": "トーレ",
+      "score": -0.46399173382802605,
+      "horse_number": 4,
+      "odds": 96.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103007",
+      "horse_name": "エンファサイズ",
+      "score": -0.5224942761067832,
+      "horse_number": 10,
+      "odds": 60.0
+    }
+  ]
+}

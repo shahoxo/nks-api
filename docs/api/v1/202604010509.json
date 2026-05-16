@@ -1,0 +1,136 @@
+{
+  "race_id": "202604010509",
+  "race_name": "石打特別",
+  "race_time": "2026-05-16 14:35",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100781",
+      "horse_name": "ルールーリマ",
+      "score": 0.49492773580679766,
+      "horse_number": 12,
+      "odds": 1.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105864",
+      "horse_name": "キアラメンテ",
+      "score": 0.18045512318097945,
+      "horse_number": 14,
+      "odds": 7.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104716",
+      "horse_name": "シェーンシュティア",
+      "score": 0.11806271873977238,
+      "horse_number": 6,
+      "odds": 6.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105715",
+      "horse_name": "ジョワイユノエル",
+      "score": 0.10695584517258183,
+      "horse_number": 5,
+      "odds": 12.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105529",
+      "horse_name": "ミッドタウンナイト",
+      "score": -0.05525191312459908,
+      "horse_number": 16,
+      "odds": 38.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105168",
+      "horse_name": "クイーンズワーフ",
+      "score": -0.11367726168450845,
+      "horse_number": 8,
+      "odds": 18.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101488",
+      "horse_name": "ソニックドライブ",
+      "score": -0.12549603982500793,
+      "horse_number": 3,
+      "odds": 15.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101580",
+      "horse_name": "ビジュードネージュ",
+      "score": -0.3058695103159877,
+      "horse_number": 2,
+      "odds": 65.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101749",
+      "horse_name": "ブルバンビーナ",
+      "score": -0.3849036497374162,
+      "horse_number": 13,
+      "odds": 27.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105866",
+      "horse_name": "ティティナ",
+      "score": -0.45216085669285005,
+      "horse_number": 10,
+      "odds": 29.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103537",
+      "horse_name": "スピアッジャローザ",
+      "score": -0.4607523980429541,
+      "horse_number": 7,
+      "odds": 21.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106221",
+      "horse_name": "ウインイルネージュ",
+      "score": -0.46833714934244,
+      "horse_number": 15,
+      "odds": 47.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104981",
+      "horse_name": "ユーディキウム",
+      "score": -0.5003353488617157,
+      "horse_number": 4,
+      "odds": 45.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104851",
+      "horse_name": "アレクレア",
+      "score": -0.5062848270283437,
+      "horse_number": 9,
+      "odds": 104.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103518",
+      "horse_name": "リアルセンター",
+      "score": -0.5556411526911588,
+      "horse_number": 1,
+      "odds": 39.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106824",
+      "horse_name": "グランツローゼ",
+      "score": -0.6470425607292606,
+      "horse_number": 11,
+      "odds": 65.2
+    }
+  ]
+}

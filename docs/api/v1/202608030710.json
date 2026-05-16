@@ -1,0 +1,128 @@
+{
+  "race_id": "202608030710",
+  "race_name": "上賀茂S",
+  "race_time": "2026-05-16 14:45",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104092",
+      "horse_name": "ペンナヴェローチェ",
+      "score": 0.20749827947246463,
+      "horse_number": 1,
+      "odds": 10.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107134",
+      "horse_name": "タガノマカシヤ",
+      "score": 0.17323191087247597,
+      "horse_number": 10,
+      "odds": 2.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102131",
+      "horse_name": "ショウサンジョージ",
+      "score": 0.16360086932760753,
+      "horse_number": 9,
+      "odds": 27.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106126",
+      "horse_name": "タイセイアディクト",
+      "score": 0.05569766364826426,
+      "horse_number": 14,
+      "odds": 33.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103538",
+      "horse_name": "ゴールドダイアー",
+      "score": 0.046666700799531884,
+      "horse_number": 5,
+      "odds": 34.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020106635",
+      "horse_name": "メイショウシナノ",
+      "score": -0.08202308320173825,
+      "horse_number": 8,
+      "odds": 28.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103614",
+      "horse_name": "ヒルノハンブルク",
+      "score": -0.1121290276942533,
+      "horse_number": 13,
+      "odds": 7.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104131",
+      "horse_name": "ヒロノラメール",
+      "score": -0.15116185615817698,
+      "horse_number": 12,
+      "odds": 16.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104745",
+      "horse_name": "シャルクハフト",
+      "score": -0.15606567511698916,
+      "horse_number": 6,
+      "odds": 46.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105508",
+      "horse_name": "リューデスハイム",
+      "score": -0.18735586280559455,
+      "horse_number": 4,
+      "odds": 12.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018110117",
+      "horse_name": "フランスゴデイナ",
+      "score": -0.19773331567622857,
+      "horse_number": 11,
+      "odds": 61.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102993",
+      "horse_name": "ポルポラジール",
+      "score": -0.20569334455545393,
+      "horse_number": 7,
+      "odds": 15.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103140",
+      "horse_name": "メイプルタピット",
+      "score": -0.20569334455545393,
+      "horse_number": 15,
+      "odds": 36.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022107306",
+      "horse_name": "ストップヤーニング",
+      "score": -0.25114425217432357,
+      "horse_number": 3,
+      "odds": 7.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103263",
+      "horse_name": "メイショウソウタ",
+      "score": -0.3455410893277783,
+      "horse_number": 2,
+      "odds": 23.9
+    }
+  ]
+}
