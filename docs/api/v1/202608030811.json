@@ -1,0 +1,136 @@
+{
+  "race_id": "202608030811",
+  "race_name": "栗東S",
+  "race_time": "2026-05-17 15:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106658",
+      "horse_name": "ベルジュロネット",
+      "score": 0.3021826119698011,
+      "horse_number": 11,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110126",
+      "horse_name": "インユアパレス",
+      "score": 0.2543112931012527,
+      "horse_number": 1,
+      "odds": 6.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103282",
+      "horse_name": "ジャスティンアース",
+      "score": 0.2264612727780378,
+      "horse_number": 13,
+      "odds": 4.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101543",
+      "horse_name": "ルークススペイ",
+      "score": 0.20444121329860854,
+      "horse_number": 6,
+      "odds": 11.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102887",
+      "horse_name": "ナムラクララ",
+      "score": 0.12337293282013305,
+      "horse_number": 16,
+      "odds": 8.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104876",
+      "horse_name": "エートラックス",
+      "score": 0.11353750672782388,
+      "horse_number": 3,
+      "odds": 33.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022110151",
+      "horse_name": "ゲッティヴィラ",
+      "score": 0.09621213588925515,
+      "horse_number": 2,
+      "odds": 37.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106554",
+      "horse_name": "タガノミスト",
+      "score": 0.09466829710973511,
+      "horse_number": 4,
+      "odds": 13.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101808",
+      "horse_name": "ハワイアンタイム",
+      "score": 0.009659449372134997,
+      "horse_number": 5,
+      "odds": 11.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019102238",
+      "horse_name": "クロジシジョー",
+      "score": -0.04096107478308267,
+      "horse_number": 14,
+      "odds": 26.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102493",
+      "horse_name": "トリリオンボーイ",
+      "score": -0.04374209311453388,
+      "horse_number": 12,
+      "odds": 60.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104972",
+      "horse_name": "スリーピース",
+      "score": -0.0613609717231753,
+      "horse_number": 8,
+      "odds": 60.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100140",
+      "horse_name": "ハッピーマン",
+      "score": -0.33000610180966067,
+      "horse_number": 10,
+      "odds": 7.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100895",
+      "horse_name": "サフランヒーロー",
+      "score": -0.37064028482096834,
+      "horse_number": 9,
+      "odds": 75.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020110106",
+      "horse_name": "アドバンスファラオ",
+      "score": -0.4511626066281358,
+      "horse_number": 7,
+      "odds": 33.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021100836",
+      "horse_name": "レアンダー",
+      "score": -0.5013698082694291,
+      "horse_number": 15,
+      "odds": 44.9
+    }
+  ]
+}
