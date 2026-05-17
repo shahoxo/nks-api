@@ -1,0 +1,144 @@
+{
+  "race_id": "202608030804",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-17 11:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103394",
+      "horse_name": "フレッチャアズーラ",
+      "score": 0.24196410276473362,
+      "horse_number": 17,
+      "odds": 6.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106910",
+      "horse_name": "エアヴァイブス",
+      "score": 0.23891809163382738,
+      "horse_number": 11,
+      "odds": 6.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105720",
+      "horse_name": "ペプチドブッドレア",
+      "score": 0.2256963412016973,
+      "horse_number": 4,
+      "odds": 7.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106115",
+      "horse_name": "アロハ",
+      "score": 0.17876876425040708,
+      "horse_number": 3,
+      "odds": 8.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103629",
+      "horse_name": "マスティカーレ",
+      "score": 0.09260284534513855,
+      "horse_number": 9,
+      "odds": 19.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103348",
+      "horse_name": "オーロラボレアリス",
+      "score": 0.08547774617554896,
+      "horse_number": 16,
+      "odds": 17.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103460",
+      "horse_name": "セコンドトゥベスト",
+      "score": 0.05492210549061317,
+      "horse_number": 12,
+      "odds": 3.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107084",
+      "horse_name": "ベンティガスエルテ",
+      "score": -0.028312040366978666,
+      "horse_number": 7,
+      "odds": 36.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103397",
+      "horse_name": "カステッロトゥーレ",
+      "score": -0.1421022146907699,
+      "horse_number": 8,
+      "odds": 23.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107309",
+      "horse_name": "ジリアート",
+      "score": -0.16513359001718222,
+      "horse_number": 14,
+      "odds": 23.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023107139",
+      "horse_name": "ジャミールアイン",
+      "score": -0.20193344026495663,
+      "horse_number": 13,
+      "odds": 25.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106909",
+      "horse_name": "2023106909",
+      "score": -0.2831807695109278,
+      "horse_number": 2,
+      "odds": 19.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104027",
+      "horse_name": "ダンツアラーム",
+      "score": -0.37058238983548486,
+      "horse_number": 1,
+      "odds": 33.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102669",
+      "horse_name": "ワダツミ",
+      "score": -0.49308647014558815,
+      "horse_number": 15,
+      "odds": 53.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100905",
+      "horse_name": "チアフルドア",
+      "score": -0.5208022391704071,
+      "horse_number": 5,
+      "odds": 99.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106988",
+      "horse_name": "グッデイ",
+      "score": -0.5282374384996402,
+      "horse_number": 6,
+      "odds": 37.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023105144",
+      "horse_name": "アスコットダンス",
+      "score": -0.5378852415655292,
+      "horse_number": 10,
+      "odds": 26.7
+    }
+  ]
+}
