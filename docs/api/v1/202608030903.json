@@ -1,0 +1,136 @@
+{
+  "race_id": "202608030903",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-23 11:10",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102151",
+      "horse_name": "スッサンエア",
+      "score": 0.2970340082925127,
+      "horse_number": 11,
+      "odds": 21.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100610",
+      "horse_name": "フルムーン",
+      "score": 0.2666073064334951,
+      "horse_number": 9,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104358",
+      "horse_name": "ヤマニンフェイエル",
+      "score": 0.17538805675531016,
+      "horse_number": 4,
+      "odds": 8.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105339",
+      "horse_name": "カルロット",
+      "score": 0.17510746161555307,
+      "horse_number": 7,
+      "odds": 6.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101176",
+      "horse_name": "ルナーマンス",
+      "score": 0.16251941586209348,
+      "horse_number": 1,
+      "odds": 14.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103585",
+      "horse_name": "リヴァイ",
+      "score": 0.15975235087693326,
+      "horse_number": 2,
+      "odds": 6.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101122",
+      "horse_name": "ヒッグスボソン",
+      "score": 0.13736721829075246,
+      "horse_number": 13,
+      "odds": 15.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103623",
+      "horse_name": "エコロデュラン",
+      "score": 0.1285200029374289,
+      "horse_number": 14,
+      "odds": 35.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105788",
+      "horse_name": "リフルフォース",
+      "score": 0.12471083543990343,
+      "horse_number": 3,
+      "odds": 8.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106420",
+      "horse_name": "コスモファーブロス",
+      "score": 0.1241548692643103,
+      "horse_number": 15,
+      "odds": 21.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101722",
+      "horse_name": "ジューンオアシス",
+      "score": 0.1067672854953207,
+      "horse_number": 10,
+      "odds": 28.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105024",
+      "horse_name": "ダノンステート",
+      "score": 0.06854348908684214,
+      "horse_number": 16,
+      "odds": 35.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103794",
+      "horse_name": "グレンセロース",
+      "score": 0.027633945021176595,
+      "horse_number": 8,
+      "odds": 10.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105113",
+      "horse_name": "ヴィゴラスガイア",
+      "score": -0.1877872688589164,
+      "horse_number": 6,
+      "odds": 113.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106566",
+      "horse_name": "メイショウジーニー",
+      "score": -0.42528768048446763,
+      "horse_number": 12,
+      "odds": 74.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023103763",
+      "horse_name": "レガリアーナ",
+      "score": -0.48743868977201965,
+      "horse_number": 5,
+      "odds": 69.9
+    }
+  ]
+}

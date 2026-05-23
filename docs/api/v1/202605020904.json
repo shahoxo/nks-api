@@ -1,0 +1,152 @@
+{
+  "race_id": "202605020904",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-23 11:30",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102564",
+      "horse_name": "フクオトコ",
+      "score": 0.2603451540684698,
+      "horse_number": 2,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104401",
+      "horse_name": "レアリゼソンレーヴ",
+      "score": 0.18399871982239596,
+      "horse_number": 6,
+      "odds": 11.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106879",
+      "horse_name": "アドマイヤパープル",
+      "score": 0.08983773432684813,
+      "horse_number": 16,
+      "odds": 11.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105849",
+      "horse_name": "2023105849",
+      "score": 0.0049753798198368115,
+      "horse_number": 18,
+      "odds": 3.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102985",
+      "horse_name": "ローズプリンセス",
+      "score": -0.0015115097879324479,
+      "horse_number": 14,
+      "odds": 11.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105243",
+      "horse_name": "アルペンローゼ",
+      "score": -0.05759970402728293,
+      "horse_number": 1,
+      "odds": 17.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100734",
+      "horse_name": "ウインドオブヘヴン",
+      "score": -0.16663979763292733,
+      "horse_number": 12,
+      "odds": 10.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100599",
+      "horse_name": "2023100599",
+      "score": -0.18234112028546992,
+      "horse_number": 13,
+      "odds": 13.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100161",
+      "horse_name": "ビップマリク",
+      "score": -0.39428053068515817,
+      "horse_number": 3,
+      "odds": 16.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102388",
+      "horse_name": "ウィズアツインクル",
+      "score": -0.40045574530132877,
+      "horse_number": 4,
+      "odds": 11.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105893",
+      "horse_name": "ウインリフレクト",
+      "score": -0.4548760365886103,
+      "horse_number": 9,
+      "odds": 42.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100234",
+      "horse_name": "イーガービーバー",
+      "score": -0.5095737871903113,
+      "horse_number": 17,
+      "odds": 33.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105723",
+      "horse_name": "ローレルクラウン",
+      "score": -0.5234523267240944,
+      "horse_number": 10,
+      "odds": 50.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101892",
+      "horse_name": "エクストラダーク",
+      "score": -0.5393606452573874,
+      "horse_number": 11,
+      "odds": 68.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103347",
+      "horse_name": "2023103347",
+      "score": -0.546418385722876,
+      "horse_number": 8,
+      "odds": 63.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100893",
+      "horse_name": "2023100893",
+      "score": -0.5605472818472005,
+      "horse_number": 5,
+      "odds": 85.2
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023101852",
+      "horse_name": "キョンチャン",
+      "score": -0.6518943205472477,
+      "horse_number": 15,
+      "odds": 60.9
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023104846",
+      "horse_name": "リトルコリンズ",
+      "score": -0.7212483613895885,
+      "horse_number": 7,
+      "odds": 119.6
+    }
+  ]
+}

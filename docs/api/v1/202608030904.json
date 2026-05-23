@@ -1,0 +1,144 @@
+{
+  "race_id": "202608030904",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-23 11:40",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103524",
+      "horse_name": "2023103524",
+      "score": 0.19087568657420365,
+      "horse_number": 5,
+      "odds": 4.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103538",
+      "horse_name": "2023103538",
+      "score": 0.134377304626418,
+      "horse_number": 16,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107311",
+      "horse_name": "ペスキエーラ",
+      "score": 0.07787487881698692,
+      "horse_number": 2,
+      "odds": 16.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102923",
+      "horse_name": "インフィオラータ",
+      "score": -0.00042967502180203416,
+      "horse_number": 11,
+      "odds": 10.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107144",
+      "horse_name": "エイカイコバチ",
+      "score": -0.0040809925868565645,
+      "horse_number": 13,
+      "odds": 37.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105292",
+      "horse_name": "サンダーバード",
+      "score": -0.00916883359372052,
+      "horse_number": 15,
+      "odds": 4.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105680",
+      "horse_name": "2023105680",
+      "score": -0.05113201955749067,
+      "horse_number": 4,
+      "odds": 37.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103918",
+      "horse_name": "ラヴィングチャンプ",
+      "score": -0.10634049489873597,
+      "horse_number": 12,
+      "odds": 112.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105302",
+      "horse_name": "2023105302",
+      "score": -0.1874072241565833,
+      "horse_number": 9,
+      "odds": 47.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105993",
+      "horse_name": "2023105993",
+      "score": -0.20492577353079827,
+      "horse_number": 1,
+      "odds": 13.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103359",
+      "horse_name": "テンダーワーズ",
+      "score": -0.23122668044994912,
+      "horse_number": 8,
+      "odds": 11.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103412",
+      "horse_name": "トラカイキャッスル",
+      "score": -0.4025194653108566,
+      "horse_number": 14,
+      "odds": 8.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104027",
+      "horse_name": "ダンツアラーム",
+      "score": -0.4109715719201071,
+      "horse_number": 6,
+      "odds": 13.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105696",
+      "horse_name": "2023105696",
+      "score": -0.4526874950906882,
+      "horse_number": 3,
+      "odds": 61.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103070",
+      "horse_name": "ジャージーテーラー",
+      "score": -0.45547641751621504,
+      "horse_number": 10,
+      "odds": 152.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023103545",
+      "horse_name": "ファビュラスベガス",
+      "score": -0.5403950223360267,
+      "horse_number": 7,
+      "odds": 57.5
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023106517",
+      "horse_name": "ルナティックブルー",
+      "score": -0.5439255416472811,
+      "horse_number": 17,
+      "odds": 39.9
+    }
+  ]
+}
