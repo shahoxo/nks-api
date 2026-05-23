@@ -1,0 +1,128 @@
+{
+  "race_id": "202604010710",
+  "race_name": "尖閣湾特別",
+  "race_time": "2026-05-23 14:45",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105382",
+      "horse_name": "シンドリームシン",
+      "score": 0.25250573559781064,
+      "horse_number": 5,
+      "odds": 5.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100274",
+      "horse_name": "マイネルアズーロ",
+      "score": 0.18601936596918373,
+      "horse_number": 9,
+      "odds": 9.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106344",
+      "horse_name": "エテルニータ",
+      "score": 0.17579562444117175,
+      "horse_number": 10,
+      "odds": 5.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105365",
+      "horse_name": "オプレントジュエル",
+      "score": 0.09492811568231668,
+      "horse_number": 11,
+      "odds": 6.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021106811",
+      "horse_name": "マイネルモメンタム",
+      "score": 0.002029437551699112,
+      "horse_number": 14,
+      "odds": 16.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103308",
+      "horse_name": "ミッドセンチュリー",
+      "score": -0.026843576252394356,
+      "horse_number": 8,
+      "odds": 16.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101557",
+      "horse_name": "タマモランプ",
+      "score": -0.05007764496477374,
+      "horse_number": 7,
+      "odds": 12.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100099",
+      "horse_name": "クラウディアイ",
+      "score": -0.05275153545610313,
+      "horse_number": 15,
+      "odds": 8.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103537",
+      "horse_name": "トゥルーサクセサー",
+      "score": -0.0612106587032736,
+      "horse_number": 2,
+      "odds": 7.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105766",
+      "horse_name": "ドーギッド",
+      "score": -0.27923708434474737,
+      "horse_number": 4,
+      "odds": 27.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019105076",
+      "horse_name": "フォーグッド",
+      "score": -0.3499211056043723,
+      "horse_number": 12,
+      "odds": 23.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105274",
+      "horse_name": "サイレントグルーヴ",
+      "score": -0.5093183854687542,
+      "horse_number": 1,
+      "odds": 40.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106495",
+      "horse_name": "ライジングハース",
+      "score": -0.5102433228298766,
+      "horse_number": 6,
+      "odds": 22.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104112",
+      "horse_name": "ローンウルフ",
+      "score": -0.5472916750833359,
+      "horse_number": 13,
+      "odds": 67.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101430",
+      "horse_name": "エコログロス",
+      "score": -0.5565992417515709,
+      "horse_number": 3,
+      "odds": 66.5
+    }
+  ]
+}

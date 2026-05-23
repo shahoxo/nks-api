@@ -1,0 +1,136 @@
+{
+  "race_id": "202608030910",
+  "race_name": "シドニーT",
+  "race_time": "2026-05-23 15:05",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106562",
+      "horse_name": "タガノアビー",
+      "score": 0.36026379534227976,
+      "horse_number": 15,
+      "odds": 6.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105454",
+      "horse_name": "シャドウメテオ",
+      "score": 0.32924384690514236,
+      "horse_number": 4,
+      "odds": 12.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100019",
+      "horse_name": "マカナ",
+      "score": 0.29648084171744854,
+      "horse_number": 11,
+      "odds": 8.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104638",
+      "horse_name": "アラベラ",
+      "score": 0.25451367577874656,
+      "horse_number": 3,
+      "odds": 27.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105616",
+      "horse_name": "エルフストラック",
+      "score": 0.2468735804904612,
+      "horse_number": 10,
+      "odds": 25.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106993",
+      "horse_name": "サクソンジェンヌ",
+      "score": 0.2165404087761571,
+      "horse_number": 8,
+      "odds": 12.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102500",
+      "horse_name": "マトラコーニッシュ",
+      "score": 0.14907970542455007,
+      "horse_number": 14,
+      "odds": 11.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105442",
+      "horse_name": "ラブリージャブリー",
+      "score": 0.14760366400974234,
+      "horse_number": 2,
+      "odds": 5.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100201",
+      "horse_name": "コンドゥイア",
+      "score": 0.13698554093723658,
+      "horse_number": 5,
+      "odds": 68.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104948",
+      "horse_name": "キーパフォーマー",
+      "score": 0.12524154225598283,
+      "horse_number": 16,
+      "odds": 20.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105815",
+      "horse_name": "リンクスティップ",
+      "score": 0.01237031116192527,
+      "horse_number": 6,
+      "odds": 3.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100789",
+      "horse_name": "ハニーコム",
+      "score": -0.06919346439219669,
+      "horse_number": 1,
+      "odds": 58.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104189",
+      "horse_name": "テリオスサラ",
+      "score": -0.09708760042208148,
+      "horse_number": 9,
+      "odds": 79.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019105824",
+      "horse_name": "アレナリア",
+      "score": -0.09730342611227562,
+      "horse_number": 12,
+      "odds": 69.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103713",
+      "horse_name": "タイセイフェリーク",
+      "score": -0.13416632492655037,
+      "horse_number": 13,
+      "odds": 63.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102219",
+      "horse_name": "ノーランサンライズ",
+      "score": -0.2910242999451805,
+      "horse_number": 7,
+      "odds": 73.1
+    }
+  ]
+}

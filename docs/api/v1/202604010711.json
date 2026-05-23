@@ -1,0 +1,136 @@
+{
+  "race_id": "202604010711",
+  "race_name": "大日岳特別",
+  "race_time": "2026-05-23 15:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101399",
+      "horse_name": "ヴァンヴィーヴ",
+      "score": 0.18075209764261535,
+      "horse_number": 4,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102421",
+      "horse_name": "ビービーエフォート",
+      "score": 0.16537027502839946,
+      "horse_number": 15,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101290",
+      "horse_name": "マリノトニトゥルス",
+      "score": 0.1527832419841696,
+      "horse_number": 7,
+      "odds": 10.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101557",
+      "horse_name": "パルティクラール",
+      "score": 0.10129419621628723,
+      "horse_number": 2,
+      "odds": 11.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101604",
+      "horse_name": "ハニーローリエ",
+      "score": 0.09225255664423941,
+      "horse_number": 13,
+      "odds": 5.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101992",
+      "horse_name": "ライクアフラワー",
+      "score": 0.05350569832220293,
+      "horse_number": 3,
+      "odds": 26.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100271",
+      "horse_name": "フォティック",
+      "score": 0.04539165866385215,
+      "horse_number": 10,
+      "odds": 17.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103278",
+      "horse_name": "メイショウミリオレ",
+      "score": 0.012370125494756325,
+      "horse_number": 8,
+      "odds": 10.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106661",
+      "horse_name": "ヒーローインチーフ",
+      "score": -0.08999035230490618,
+      "horse_number": 9,
+      "odds": 9.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100297",
+      "horse_name": "ブルボンクイーン",
+      "score": -0.13265218433716022,
+      "horse_number": 6,
+      "odds": 17.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104190",
+      "horse_name": "ラトルシェ",
+      "score": -0.1599787145717779,
+      "horse_number": 11,
+      "odds": 57.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103898",
+      "horse_name": "イグニション",
+      "score": -0.18259832102976595,
+      "horse_number": 5,
+      "odds": 18.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105623",
+      "horse_name": "タマカヅラ",
+      "score": -0.2644328693134061,
+      "horse_number": 14,
+      "odds": 32.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020102674",
+      "horse_name": "スペルキャスター",
+      "score": -0.36904656873318514,
+      "horse_number": 1,
+      "odds": 78.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019101643",
+      "horse_name": "バシレウスシチー",
+      "score": -0.5679659888442216,
+      "horse_number": 12,
+      "odds": 23.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021105779",
+      "horse_name": "レッドセニョール",
+      "score": -0.6253705655120007,
+      "horse_number": 16,
+      "odds": 78.8
+    }
+  ]
+}

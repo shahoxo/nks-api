@@ -1,0 +1,136 @@
+{
+  "race_id": "202605020910",
+  "race_name": "高尾特別",
+  "race_time": "2026-05-23 14:55",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102395",
+      "horse_name": "チムグクル",
+      "score": 0.49492773580679766,
+      "horse_number": 5,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105807",
+      "horse_name": "パワースナッチ",
+      "score": 0.19288175096250598,
+      "horse_number": 8,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106393",
+      "horse_name": "ブラックジェダイト",
+      "score": 0.1614687639179005,
+      "horse_number": 1,
+      "odds": 4.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104200",
+      "horse_name": "サクセスカラー",
+      "score": 0.08141223268463399,
+      "horse_number": 9,
+      "odds": 8.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105584",
+      "horse_name": "ツーネサーン",
+      "score": 0.048494685741126156,
+      "horse_number": 11,
+      "odds": 7.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102635",
+      "horse_name": "バンブルビー",
+      "score": 0.036233943025633646,
+      "horse_number": 3,
+      "odds": 17.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104985",
+      "horse_name": "シャイフ",
+      "score": 0.004859359103487122,
+      "horse_number": 14,
+      "odds": 11.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019106503",
+      "horse_name": "ソレントフレイバー",
+      "score": -0.05703617024793015,
+      "horse_number": 7,
+      "odds": 30.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104637",
+      "horse_name": "ホウオウブースター",
+      "score": -0.1525235336770844,
+      "horse_number": 4,
+      "odds": 57.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105974",
+      "horse_name": "バロン",
+      "score": -0.22889921286468068,
+      "horse_number": 10,
+      "odds": 56.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104074",
+      "horse_name": "ラブディーヴァ",
+      "score": -0.22905650353416052,
+      "horse_number": 13,
+      "odds": 49.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103218",
+      "horse_name": "フミサウンド",
+      "score": -0.2536446315469,
+      "horse_number": 16,
+      "odds": 58.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102914",
+      "horse_name": "モズトキキ",
+      "score": -0.29394736561235635,
+      "horse_number": 2,
+      "odds": 47.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105150",
+      "horse_name": "ナファロア",
+      "score": -0.31876047806690794,
+      "horse_number": 6,
+      "odds": 49.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101906",
+      "horse_name": "キョウエイボニータ",
+      "score": -0.32697612631625594,
+      "horse_number": 12,
+      "odds": 37.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103962",
+      "horse_name": "ペイドラロワール",
+      "score": -0.3610706575511153,
+      "horse_number": 15,
+      "odds": 114.7
+    }
+  ]
+}
