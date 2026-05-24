@@ -1,0 +1,88 @@
+{
+  "race_id": "202608031004",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-24 11:20",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107516",
+      "horse_name": "2023107516",
+      "score": 0.23026685713135492,
+      "horse_number": 1,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105829",
+      "horse_name": "2023105829",
+      "score": 0.16120048782420693,
+      "horse_number": 6,
+      "odds": 9.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107092",
+      "horse_name": "ティタノマキア",
+      "score": 0.04472457847555146,
+      "horse_number": 10,
+      "odds": 3.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104759",
+      "horse_name": "2023104759",
+      "score": -0.32918034888744446,
+      "horse_number": 9,
+      "odds": 78.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105040",
+      "horse_name": "アメジストブリエ",
+      "score": -0.42632576695527746,
+      "horse_number": 3,
+      "odds": 16.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104202",
+      "horse_name": "カヴァティーナ",
+      "score": -0.4703810061596515,
+      "horse_number": 4,
+      "odds": 26.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100672",
+      "horse_name": "ナムラシンジロー",
+      "score": -0.5185541500432556,
+      "horse_number": 8,
+      "odds": 53.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104370",
+      "horse_name": "スフィダンテ",
+      "score": -0.5566139541043796,
+      "horse_number": 5,
+      "odds": 27.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103743",
+      "horse_name": "シャリキモン",
+      "score": -0.5613295110762307,
+      "horse_number": 2,
+      "odds": 17.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105054",
+      "horse_name": "マコトエウロペ",
+      "score": -0.6039085659428862,
+      "horse_number": 7,
+      "odds": 12.7
+    }
+  ]
+}
