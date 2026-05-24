@@ -1,0 +1,112 @@
+{
+  "race_id": "202608031011",
+  "race_name": "都大路S",
+  "race_time": "2026-05-24 15:25",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101193",
+      "horse_name": "ジーティーアダマン",
+      "score": 0.4391119458829712,
+      "horse_number": 12,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102895",
+      "horse_name": "ナムラエイハブ",
+      "score": 0.25800481063948194,
+      "horse_number": 6,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105778",
+      "horse_name": "チェルビアット",
+      "score": 0.225966356628919,
+      "horse_number": 10,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106660",
+      "horse_name": "スズカダブル",
+      "score": 0.19843503415087188,
+      "horse_number": 3,
+      "odds": 16.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104791",
+      "horse_name": "メリオーレム",
+      "score": 0.19551220345987808,
+      "horse_number": 8,
+      "odds": 11.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105808",
+      "horse_name": "ガイアメンテ",
+      "score": 0.19371305201327932,
+      "horse_number": 2,
+      "odds": 6.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101387",
+      "horse_name": "オーロラエックス",
+      "score": 0.0016990228777434419,
+      "horse_number": 7,
+      "odds": 9.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104825",
+      "horse_name": "ゴンバデカーブース",
+      "score": -0.1015551007704605,
+      "horse_number": 13,
+      "odds": 18.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103304",
+      "horse_name": "アンリーロード",
+      "score": -0.16971033548750913,
+      "horse_number": 4,
+      "odds": 22.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105071",
+      "horse_name": "ショウナンザナドゥ",
+      "score": -0.22413640751850972,
+      "horse_number": 1,
+      "odds": 27.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019104998",
+      "horse_name": "ショウナンマグマ",
+      "score": -0.24666768882011128,
+      "horse_number": 11,
+      "odds": 37.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102344",
+      "horse_name": "コパノサントス",
+      "score": -0.24906007100939626,
+      "horse_number": 9,
+      "odds": 63.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105482",
+      "horse_name": "アサヒ",
+      "score": -0.40888188949906523,
+      "horse_number": 5,
+      "odds": 35.4
+    }
+  ]
+}

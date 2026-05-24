@@ -1,0 +1,152 @@
+{
+  "race_id": "202605021011",
+  "race_name": "オークス",
+  "race_time": "2026-05-24 15:40",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107146",
+      "horse_name": "ドリームコア",
+      "score": 0.4668801227845245,
+      "horse_number": 12,
+      "odds": 6.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107154",
+      "horse_name": "ラフターラインズ",
+      "score": 0.24340819120684248,
+      "horse_number": 18,
+      "odds": 3.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103906",
+      "horse_name": "レイクラシック",
+      "score": 0.22467835169901496,
+      "horse_number": 2,
+      "odds": 88.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106920",
+      "horse_name": "スターアニス",
+      "score": 0.22020947296802365,
+      "horse_number": 10,
+      "odds": 2.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107046",
+      "horse_name": "アランカール",
+      "score": 0.18548928479771698,
+      "horse_number": 3,
+      "odds": 12.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102979",
+      "horse_name": "ジュウリョクピエロ",
+      "score": 0.16625722081830793,
+      "horse_number": 16,
+      "odds": 8.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102102",
+      "horse_name": "エンネ",
+      "score": 0.1514040233177143,
+      "horse_number": 13,
+      "odds": 8.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104830",
+      "horse_name": "リアライズルミナス",
+      "score": 0.14401327515041967,
+      "horse_number": 5,
+      "odds": 69.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103492",
+      "horse_name": "トリニティ",
+      "score": 0.08480127714424189,
+      "horse_number": 9,
+      "odds": 48.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106995",
+      "horse_name": "ロングトールサリー",
+      "score": 0.07454830365005796,
+      "horse_number": 4,
+      "odds": 158.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102806",
+      "horse_name": "ソルパッサーレ",
+      "score": 0.07173658520651109,
+      "horse_number": 14,
+      "odds": 201.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105807",
+      "horse_name": "アメティスタ",
+      "score": 0.06293428646951238,
+      "horse_number": 11,
+      "odds": 120.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105246",
+      "horse_name": "ロンギングセリーヌ",
+      "score": 0.01461941231829297,
+      "horse_number": 6,
+      "odds": 239.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104475",
+      "horse_name": "スウィートハピネス",
+      "score": -0.023289330435245566,
+      "horse_number": 17,
+      "odds": 90.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023107079",
+      "horse_name": "スマートプリエール",
+      "score": -0.08319343251335656,
+      "horse_number": 8,
+      "odds": 35.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023103807",
+      "horse_name": "アンジュドジョワ",
+      "score": -0.09696721376814364,
+      "horse_number": 15,
+      "odds": 29.2
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023106469",
+      "horse_name": "スタニングレディ",
+      "score": -0.115946506963396,
+      "horse_number": 7,
+      "odds": 227.8
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023104523",
+      "horse_name": "ミツカネベネラ",
+      "score": -0.18467013228890705,
+      "horse_number": 1,
+      "odds": 291.9
+    }
+  ]
+}

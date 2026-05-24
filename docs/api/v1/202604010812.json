@@ -1,0 +1,128 @@
+{
+  "race_id": "202604010812",
+  "race_name": "4歳以上1勝クラス",
+  "race_time": "2026-05-24 16:01",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104723",
+      "horse_name": "カレンラップスター",
+      "score": 0.1541215836909823,
+      "horse_number": 2,
+      "odds": 8.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106427",
+      "horse_name": "ニシノケンタマン",
+      "score": 0.039853650668851076,
+      "horse_number": 12,
+      "odds": 8.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101450",
+      "horse_name": "ブルージャイアント",
+      "score": -0.006580591110802818,
+      "horse_number": 4,
+      "odds": 13.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104419",
+      "horse_name": "ローズマイスター",
+      "score": -0.020666713303753616,
+      "horse_number": 10,
+      "odds": 5.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105993",
+      "horse_name": "マテンロウミラクル",
+      "score": -0.13053432596035336,
+      "horse_number": 5,
+      "odds": 32.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105209",
+      "horse_name": "チビノシエラザード",
+      "score": -0.27274305026230344,
+      "horse_number": 14,
+      "odds": 55.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021107052",
+      "horse_name": "マテンロウノカゼ",
+      "score": -0.28115714340186004,
+      "horse_number": 1,
+      "odds": 8.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100390",
+      "horse_name": "アバレリュウ",
+      "score": -0.38272670373544315,
+      "horse_number": 13,
+      "odds": 8.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105493",
+      "horse_name": "イエローブリック",
+      "score": -0.49998279365611376,
+      "horse_number": 8,
+      "odds": 58.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103208",
+      "horse_name": "プルメリアクヒオ",
+      "score": -0.5408132975348673,
+      "horse_number": 7,
+      "odds": 22.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106922",
+      "horse_name": "メイショウクモイ",
+      "score": -0.5475643982117276,
+      "horse_number": 3,
+      "odds": 6.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103150",
+      "horse_name": "タルタロス",
+      "score": -0.5745396897290062,
+      "horse_number": 11,
+      "odds": 27.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106785",
+      "horse_name": "コスモシェルベット",
+      "score": -0.5970618435386312,
+      "horse_number": 6,
+      "odds": 20.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017103384",
+      "horse_name": "ヤマカツレオン",
+      "score": -0.6318373387288261,
+      "horse_number": 9,
+      "odds": 62.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103521",
+      "horse_name": "ジーヴル",
+      "score": -0.700999851469308,
+      "horse_number": 15,
+      "odds": 6.7
+    }
+  ]
+}
