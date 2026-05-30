@@ -1,0 +1,136 @@
+{
+  "race_id": "202608031110",
+  "race_name": "桃山S",
+  "race_time": "2026-05-30 15:05",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105439",
+      "horse_name": "ドラゴン",
+      "score": 0.2742524231886225,
+      "horse_number": 16,
+      "odds": 4.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102039",
+      "horse_name": "サノノワンダー",
+      "score": 0.22189357185618735,
+      "horse_number": 3,
+      "odds": 16.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104092",
+      "horse_name": "ペンナヴェローチェ",
+      "score": 0.20860362808656513,
+      "horse_number": 12,
+      "odds": 4.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105021",
+      "horse_name": "マテンロウブレイブ",
+      "score": 0.1629396811246065,
+      "horse_number": 8,
+      "odds": 4.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101821",
+      "horse_name": "ロードヴォイジャー",
+      "score": 0.16204994402188652,
+      "horse_number": 7,
+      "odds": 7.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102228",
+      "horse_name": "テーオーマルコーニ",
+      "score": 0.14847770441433697,
+      "horse_number": 2,
+      "odds": 9.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104176",
+      "horse_name": "キングブルー",
+      "score": 0.1291990073918948,
+      "horse_number": 5,
+      "odds": 21.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105694",
+      "horse_name": "オリーブグリーン",
+      "score": -0.013442420583988687,
+      "horse_number": 1,
+      "odds": 32.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101677",
+      "horse_name": "マンオブザマッチ",
+      "score": -0.021375272821765476,
+      "horse_number": 10,
+      "odds": 24.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021110097",
+      "horse_name": "ブルーワール",
+      "score": -0.05664829416283531,
+      "horse_number": 11,
+      "odds": 24.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102187",
+      "horse_name": "スマートケープ",
+      "score": -0.11718643534618302,
+      "horse_number": 13,
+      "odds": 41.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104550",
+      "horse_name": "カミノレアル",
+      "score": -0.13647449366153785,
+      "horse_number": 9,
+      "odds": 22.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105262",
+      "horse_name": "ラオラシオン",
+      "score": -0.1915248631939141,
+      "horse_number": 15,
+      "odds": 27.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100752",
+      "horse_name": "アレナパラシオ",
+      "score": -0.2085219747303553,
+      "horse_number": 4,
+      "odds": 60.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101209",
+      "horse_name": "メイショウオーロラ",
+      "score": -0.2987898275849028,
+      "horse_number": 6,
+      "odds": 76.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019105413",
+      "horse_name": "タイゲン",
+      "score": -0.49307396870071585,
+      "horse_number": 14,
+      "odds": 104.9
+    }
+  ]
+}
