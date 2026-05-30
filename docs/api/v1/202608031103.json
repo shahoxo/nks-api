@@ -1,0 +1,152 @@
+{
+  "race_id": "202608031103",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-05-30 11:05",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105352",
+      "horse_name": "ゴッドアイ",
+      "score": 0.3451162347707101,
+      "horse_number": 11,
+      "odds": 7.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101136",
+      "horse_name": "プラヤデルカルメン",
+      "score": 0.20898306584691806,
+      "horse_number": 14,
+      "odds": 8.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106766",
+      "horse_name": "チュウワメロディー",
+      "score": 0.1549931602117576,
+      "horse_number": 10,
+      "odds": 3.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104906",
+      "horse_name": "グランスプリント",
+      "score": 0.14753207007106908,
+      "horse_number": 12,
+      "odds": 91.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106569",
+      "horse_name": "メイショウトウコウ",
+      "score": 0.14142786857100906,
+      "horse_number": 4,
+      "odds": 4.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102939",
+      "horse_name": "アラビアンジョイ",
+      "score": 0.05890840947732673,
+      "horse_number": 7,
+      "odds": 9.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102611",
+      "horse_name": "ドンレミラピュセル",
+      "score": -0.033966607247452464,
+      "horse_number": 5,
+      "odds": 30.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100130",
+      "horse_name": "2023100130",
+      "score": -0.08526408776177903,
+      "horse_number": 8,
+      "odds": 27.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100429",
+      "horse_name": "2023100429",
+      "score": -0.16548865532827967,
+      "horse_number": 3,
+      "odds": 9.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105987",
+      "horse_name": "ウインハルフォード",
+      "score": -0.18227093031969593,
+      "horse_number": 6,
+      "odds": 49.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102551",
+      "horse_name": "ギフテッドスペック",
+      "score": -0.3585739546336366,
+      "horse_number": 16,
+      "odds": 22.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105500",
+      "horse_name": "2023105500",
+      "score": -0.3675421481333274,
+      "horse_number": 15,
+      "odds": 148.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105103",
+      "horse_name": "ミライチケット",
+      "score": -0.40604771043865007,
+      "horse_number": 18,
+      "odds": 26.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104839",
+      "horse_name": "マルモリキャスター",
+      "score": -0.4158579481454699,
+      "horse_number": 2,
+      "odds": 31.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101743",
+      "horse_name": "ホッコームジカ",
+      "score": -0.4206468852693932,
+      "horse_number": 1,
+      "odds": 25.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023102840",
+      "horse_name": "2023102840",
+      "score": -0.47293600501096866,
+      "horse_number": 9,
+      "odds": 122.6
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023102035",
+      "horse_name": "ラルス",
+      "score": -0.5067219900625947,
+      "horse_number": 17,
+      "odds": 0.0
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023102429",
+      "horse_name": "ビーチェ",
+      "score": -0.6970415147616792,
+      "horse_number": 13,
+      "odds": 106.8
+    }
+  ]
+}
