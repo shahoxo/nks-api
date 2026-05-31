@@ -1,0 +1,80 @@
+{
+  "race_id": "202608031211",
+  "race_name": "白百合S",
+  "race_time": "2026-05-31 16:05",
+  "race_place": "京都",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105642",
+      "horse_name": "オルフセン",
+      "score": 0.3707843118667585,
+      "horse_number": 8,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104402",
+      "horse_name": "ムスクレスト",
+      "score": 0.30527831364173363,
+      "horse_number": 6,
+      "odds": 15.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103532",
+      "horse_name": "シーミハットク",
+      "score": 0.20893676962381508,
+      "horse_number": 2,
+      "odds": 4.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105971",
+      "horse_name": "ロサルゴサ",
+      "score": 0.1424452036779358,
+      "horse_number": 1,
+      "odds": 6.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100967",
+      "horse_name": "バークシャーシチー",
+      "score": 0.13539181106740097,
+      "horse_number": 5,
+      "odds": 10.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023109106",
+      "horse_name": "ダイチノナポリ",
+      "score": 0.08297035995946568,
+      "horse_number": 7,
+      "odds": 8.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105241",
+      "horse_name": "テーオーアルアイン",
+      "score": 0.07925769498269924,
+      "horse_number": 4,
+      "odds": 3.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102906",
+      "horse_name": "バースデイフライト",
+      "score": -0.37818854922824785,
+      "horse_number": 9,
+      "odds": 17.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103388",
+      "horse_name": "ブライトフレア",
+      "score": -0.42838511761895337,
+      "horse_number": 3,
+      "odds": 76.1
+    }
+  ]
+}
