@@ -1,0 +1,144 @@
+{
+  "race_id": "202605030110",
+  "race_name": "テレビ山梨杯",
+  "race_time": "2026-06-06 15:10",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106925",
+      "horse_name": "クレパスキュラー",
+      "score": 0.507342293661278,
+      "horse_number": 4,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103594",
+      "horse_name": "サンタアニタ",
+      "score": 0.26011515777510497,
+      "horse_number": 1,
+      "odds": 31.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104015",
+      "horse_name": "ロジケープ",
+      "score": 0.1771021635679607,
+      "horse_number": 6,
+      "odds": 14.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019104818",
+      "horse_name": "メイケイバートン",
+      "score": 0.07451718086248443,
+      "horse_number": 17,
+      "odds": 35.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103561",
+      "horse_name": "ゴールドスター",
+      "score": 0.05720307370147322,
+      "horse_number": 12,
+      "odds": 51.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105584",
+      "horse_name": "ツーネサーン",
+      "score": 0.044917174449046755,
+      "horse_number": 9,
+      "odds": 11.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103798",
+      "horse_name": "ファムマルキーズ",
+      "score": 0.014820014632443899,
+      "horse_number": 11,
+      "odds": 6.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104771",
+      "horse_name": "スターウェーブ",
+      "score": -0.04222802433430915,
+      "horse_number": 15,
+      "odds": 16.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019103996",
+      "horse_name": "タイキエクセロン",
+      "score": -0.10237880804989899,
+      "horse_number": 7,
+      "odds": 177.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100935",
+      "horse_name": "トラスコンガーデン",
+      "score": -0.13418908660003512,
+      "horse_number": 14,
+      "odds": 43.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105516",
+      "horse_name": "イゾラフェリーチェ",
+      "score": -0.1949643992924885,
+      "horse_number": 16,
+      "odds": 24.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020110127",
+      "horse_name": "ジョヴィアン",
+      "score": -0.19695005642686025,
+      "horse_number": 13,
+      "odds": 148.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103293",
+      "horse_name": "ラスティングスノー",
+      "score": -0.2906066557929161,
+      "horse_number": 5,
+      "odds": 71.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101629",
+      "horse_name": "クレオズニードル",
+      "score": -0.3155695668334975,
+      "horse_number": 3,
+      "odds": 129.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022106229",
+      "horse_name": "ウインイザナミ",
+      "score": -0.3257363221674886,
+      "horse_number": 10,
+      "odds": 13.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101464",
+      "horse_name": "レイユール",
+      "score": -0.3869362420286263,
+      "horse_number": 8,
+      "odds": 128.1
+    },
+    {
+      "rank": 17,
+      "horse_id": "2022104316",
+      "horse_name": "ユキノエミリオ",
+      "score": -0.5047560691255842,
+      "horse_number": 2,
+      "odds": 160.7
+    }
+  ]
+}

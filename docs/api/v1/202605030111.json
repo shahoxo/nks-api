@@ -1,0 +1,136 @@
+{
+  "race_id": "202605030111",
+  "race_name": "麦秋S",
+  "race_time": "2026-06-06 15:45",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020104893",
+      "horse_name": "セミマル",
+      "score": 0.4207674551058517,
+      "horse_number": 6,
+      "odds": 9.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110007",
+      "horse_name": "スナッピードレッサ",
+      "score": 0.4114015198904931,
+      "horse_number": 12,
+      "odds": 2.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100905",
+      "horse_name": "メリディアンスター",
+      "score": 0.33684257228466424,
+      "horse_number": 9,
+      "odds": 4.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106639",
+      "horse_name": "モーニングマジック",
+      "score": 0.29328932939434865,
+      "horse_number": 5,
+      "odds": 13.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100204",
+      "horse_name": "ピエマンソン",
+      "score": 0.2253529212385878,
+      "horse_number": 8,
+      "odds": 19.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100071",
+      "horse_name": "ワンダラー",
+      "score": 0.21711211920751816,
+      "horse_number": 14,
+      "odds": 40.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019100553",
+      "horse_name": "ドンレパルス",
+      "score": 0.21241343420077924,
+      "horse_number": 1,
+      "odds": 24.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102315",
+      "horse_name": "シュヴァルボヌール",
+      "score": 0.18021875823756392,
+      "horse_number": 16,
+      "odds": 32.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103779",
+      "horse_name": "ゴールドハンマー",
+      "score": 0.13784732240587175,
+      "horse_number": 4,
+      "odds": 15.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106328",
+      "horse_name": "クインズデネブ",
+      "score": 0.1148544597193949,
+      "horse_number": 10,
+      "odds": 40.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104786",
+      "horse_name": "シャパリュ",
+      "score": 0.09409242337310915,
+      "horse_number": 13,
+      "odds": 51.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103262",
+      "horse_name": "メイショウツヨキ",
+      "score": 0.010649081256067533,
+      "horse_number": 15,
+      "odds": 24.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105381",
+      "horse_name": "エイプリルインパリ",
+      "score": -0.04788683785945059,
+      "horse_number": 7,
+      "odds": 31.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106541",
+      "horse_name": "グレイテストソング",
+      "score": -0.0753385646854312,
+      "horse_number": 3,
+      "odds": 104.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104784",
+      "horse_name": "オペラプラージュ",
+      "score": -0.42043239027639356,
+      "horse_number": 11,
+      "odds": 75.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018101243",
+      "horse_name": "オレデイイノカ",
+      "score": -0.4404844217142937,
+      "horse_number": 2,
+      "odds": 113.4
+    }
+  ]
+}
