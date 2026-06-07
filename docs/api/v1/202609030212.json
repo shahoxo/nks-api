@@ -1,0 +1,104 @@
+{
+  "race_id": "202609030212",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-06-07 16:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107362",
+      "horse_name": "バートラガッツ",
+      "score": 0.3323311650629024,
+      "horse_number": 8,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103636",
+      "horse_name": "ウルフ",
+      "score": 0.22568612432558238,
+      "horse_number": 11,
+      "odds": 5.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102462",
+      "horse_name": "ガウラディスコ",
+      "score": 0.15040874790976083,
+      "horse_number": 10,
+      "odds": 5.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103064",
+      "horse_name": "メイショウコナン",
+      "score": 0.03323690471402468,
+      "horse_number": 12,
+      "odds": 14.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105041",
+      "horse_name": "ココロヅヨサ",
+      "score": -0.052737737750188,
+      "horse_number": 2,
+      "odds": 12.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104387",
+      "horse_name": "チェリヴェント",
+      "score": -0.08581604422784904,
+      "horse_number": 3,
+      "odds": 3.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106743",
+      "horse_name": "グロリアスグレイス",
+      "score": -0.1313856089959204,
+      "horse_number": 5,
+      "odds": 67.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105468",
+      "horse_name": "アーサーバローズ",
+      "score": -0.20532800852315933,
+      "horse_number": 4,
+      "odds": 30.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104841",
+      "horse_name": "オーレアミスト",
+      "score": -0.2601266011416905,
+      "horse_number": 7,
+      "odds": 18.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021110139",
+      "horse_name": "ガーデンカメリア",
+      "score": -0.3278600050320379,
+      "horse_number": 1,
+      "odds": 55.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022110061",
+      "horse_name": "ブレスドナイル",
+      "score": -0.3648229947565623,
+      "horse_number": 9,
+      "odds": 47.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104947",
+      "horse_name": "フラワームーン",
+      "score": -0.5560946442947471,
+      "horse_number": 6,
+      "odds": 86.0
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "202605030212",
+  "race_name": "小金井特別",
+  "race_time": "2026-06-07 16:30",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106821",
+      "horse_name": "マクリール",
+      "score": 0.453635360795809,
+      "horse_number": 10,
+      "odds": 2.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020110058",
+      "horse_name": "ホウキボシ",
+      "score": 0.3847616477864137,
+      "horse_number": 11,
+      "odds": 14.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110130",
+      "horse_name": "ベラジオワールド",
+      "score": 0.3392452424043292,
+      "horse_number": 13,
+      "odds": 8.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107082",
+      "horse_name": "リベッチオ",
+      "score": 0.31529971661184547,
+      "horse_number": 14,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105198",
+      "horse_name": "ヘリオトロープ",
+      "score": 0.23610985644585797,
+      "horse_number": 16,
+      "odds": 6.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103371",
+      "horse_name": "パイシャオピン",
+      "score": 0.22127537683239107,
+      "horse_number": 12,
+      "odds": 18.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021110161",
+      "horse_name": "セントラルヴァレー",
+      "score": 0.19625054876361908,
+      "horse_number": 8,
+      "odds": 19.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104927",
+      "horse_name": "テンカムテキ",
+      "score": 0.0855291778283515,
+      "horse_number": 1,
+      "odds": 10.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104009",
+      "horse_name": "トラヴェリンバンド",
+      "score": 0.02545564725235867,
+      "horse_number": 6,
+      "odds": 28.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103704",
+      "horse_name": "アスゴッド",
+      "score": -0.017588678653294547,
+      "horse_number": 15,
+      "odds": 46.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105824",
+      "horse_name": "フィーチャリング",
+      "score": -0.030332515372480322,
+      "horse_number": 4,
+      "odds": 26.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105776",
+      "horse_name": "グレイスザクラウン",
+      "score": -0.2239894477507557,
+      "horse_number": 7,
+      "odds": 62.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102219",
+      "horse_name": "コパノエビータ",
+      "score": -0.2580279430493764,
+      "horse_number": 5,
+      "odds": 148.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101764",
+      "horse_name": "トーホウキザン",
+      "score": -0.29336055836528474,
+      "horse_number": 2,
+      "odds": 114.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021102555",
+      "horse_name": "アースイオス",
+      "score": -0.411043301639052,
+      "horse_number": 9,
+      "odds": 182.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103007",
+      "horse_name": "エンファサイズ",
+      "score": -0.5672749854715552,
+      "horse_number": 3,
+      "odds": 110.2
+    }
+  ]
+}
