@@ -1,0 +1,152 @@
+{
+  "race_id": "202605030204",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-06-07 11:35",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103483",
+      "horse_name": "クールフィデル",
+      "score": 0.2837625589344675,
+      "horse_number": 15,
+      "odds": 9.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101120",
+      "horse_name": "バンオンタイム",
+      "score": 0.27114529725184466,
+      "horse_number": 16,
+      "odds": 3.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106255",
+      "horse_name": "ニシノトップダノン",
+      "score": 0.14262852115996055,
+      "horse_number": 5,
+      "odds": 22.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103550",
+      "horse_name": "ワイズファミリア",
+      "score": 0.09975418563779925,
+      "horse_number": 10,
+      "odds": 4.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106803",
+      "horse_name": "ショウナンサイオウ",
+      "score": 0.09909295549068346,
+      "horse_number": 12,
+      "odds": 5.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106928",
+      "horse_name": "カレリアフレイバー",
+      "score": -0.01154830709896395,
+      "horse_number": 1,
+      "odds": 13.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102143",
+      "horse_name": "アグネスブリッツ",
+      "score": -0.20171043533021307,
+      "horse_number": 18,
+      "odds": 39.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104488",
+      "horse_name": "コーディアリー",
+      "score": -0.2132777925239876,
+      "horse_number": 3,
+      "odds": 24.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105797",
+      "horse_name": "ロードクラシコ",
+      "score": -0.2284513420362416,
+      "horse_number": 8,
+      "odds": 13.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106447",
+      "horse_name": "2023106447",
+      "score": -0.229743714168041,
+      "horse_number": 13,
+      "odds": 45.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103236",
+      "horse_name": "エナノムスメ",
+      "score": -0.2805860125806414,
+      "horse_number": 14,
+      "odds": 32.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106245",
+      "horse_name": "ルモンテ",
+      "score": -0.3892641501951283,
+      "horse_number": 17,
+      "odds": 11.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023109076",
+      "horse_name": "2023109076",
+      "score": -0.47293600501096866,
+      "horse_number": 6,
+      "odds": 147.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103843",
+      "horse_name": "セルリア",
+      "score": -0.5127719663251601,
+      "horse_number": 7,
+      "odds": 28.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100800",
+      "horse_name": "バトルモクオ",
+      "score": -0.5240424937039242,
+      "horse_number": 11,
+      "odds": 102.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023101361",
+      "horse_name": "2023101361",
+      "score": -0.5605472818472005,
+      "horse_number": 4,
+      "odds": 157.1
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023105197",
+      "horse_name": "サイモンナイスラン",
+      "score": -0.5624665727050773,
+      "horse_number": 2,
+      "odds": 107.8
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023109038",
+      "horse_name": "ファイナルフォーム",
+      "score": -0.6829148837393448,
+      "horse_number": 9,
+      "odds": 52.7
+    }
+  ]
+}
