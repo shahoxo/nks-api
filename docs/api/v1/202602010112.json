@@ -1,0 +1,104 @@
+{
+  "race_id": "202602010112",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-06-13 16:30",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021104945",
+      "horse_name": "ポンピエ",
+      "score": 0.16392244684675175,
+      "horse_number": 2,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107141",
+      "horse_name": "ペトリコール",
+      "score": 0.10352266800939575,
+      "horse_number": 10,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100637",
+      "horse_name": "ロードアルディート",
+      "score": 0.09154694276779805,
+      "horse_number": 5,
+      "odds": 4.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102706",
+      "horse_name": "レイサンソク",
+      "score": 0.020578313457419003,
+      "horse_number": 1,
+      "odds": 11.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105973",
+      "horse_name": "ハヤブサオヒメサマ",
+      "score": 0.005126013971485887,
+      "horse_number": 9,
+      "odds": 21.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101545",
+      "horse_name": "ロミオ",
+      "score": -0.12459872204954119,
+      "horse_number": 6,
+      "odds": 5.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105772",
+      "horse_name": "ホウオウバローロ",
+      "score": -0.1462830752250148,
+      "horse_number": 7,
+      "odds": 8.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100360",
+      "horse_name": "シュヴァルノワール",
+      "score": -0.18319041925230434,
+      "horse_number": 12,
+      "odds": 19.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104312",
+      "horse_name": "ディースプレマシー",
+      "score": -0.4808607881189717,
+      "horse_number": 8,
+      "odds": 46.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100497",
+      "horse_name": "スマートブル",
+      "score": -0.49267417183524076,
+      "horse_number": 4,
+      "odds": 22.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103986",
+      "horse_name": "メイショウソラリス",
+      "score": -0.5012623466850352,
+      "horse_number": 11,
+      "odds": 6.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106070",
+      "horse_name": "ブリスフル",
+      "score": -0.5907216745266844,
+      "horse_number": 3,
+      "odds": 47.8
+    }
+  ]
+}

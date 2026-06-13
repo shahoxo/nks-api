@@ -1,0 +1,112 @@
+{
+  "race_id": "202602010111",
+  "race_name": "函館SS",
+  "race_time": "2026-06-13 15:45",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103066",
+      "horse_name": "レイピア",
+      "score": 0.39446883538048033,
+      "horse_number": 3,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104960",
+      "horse_name": "カルプスペルシュ",
+      "score": 0.23101102606285817,
+      "horse_number": 4,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103592",
+      "horse_name": "ルシード",
+      "score": 0.18166840802470047,
+      "horse_number": 12,
+      "odds": 6.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019105859",
+      "horse_name": "エーティーマクフィ",
+      "score": 0.18154077118022738,
+      "horse_number": 10,
+      "odds": 7.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100490",
+      "horse_name": "モズナナスター",
+      "score": 0.04670845613781871,
+      "horse_number": 1,
+      "odds": 25.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105244",
+      "horse_name": "ポッドベイダー",
+      "score": 0.00762191270748122,
+      "horse_number": 8,
+      "odds": 18.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105774",
+      "horse_name": "ダノンマッキンリー",
+      "score": -0.02859568744310584,
+      "horse_number": 2,
+      "odds": 32.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100522",
+      "horse_name": "ジョーメッドヴィン",
+      "score": -0.05810499996185443,
+      "horse_number": 5,
+      "odds": 35.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2017101423",
+      "horse_name": "ウイングレイテスト",
+      "score": -0.10865606811087837,
+      "horse_number": 6,
+      "odds": 33.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106394",
+      "horse_name": "クラスペディア",
+      "score": -0.1107547865418859,
+      "horse_number": 9,
+      "odds": 18.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103061",
+      "horse_name": "シュタールヴィント",
+      "score": -0.13945220030638247,
+      "horse_number": 13,
+      "odds": 85.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021110164",
+      "horse_name": "インビンシブルパパ",
+      "score": -0.18898141042339708,
+      "horse_number": 11,
+      "odds": 8.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021107058",
+      "horse_name": "ピューロマジック",
+      "score": -0.22938241490723982,
+      "horse_number": 7,
+      "odds": 6.5
+    }
+  ]
+}

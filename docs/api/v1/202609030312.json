@@ -1,0 +1,120 @@
+{
+  "race_id": "202609030312",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-06-13 16:05",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106912",
+      "horse_name": "ヴァージル",
+      "score": 0.12973370624313058,
+      "horse_number": 8,
+      "odds": 9.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104644",
+      "horse_name": "ペンテリコン",
+      "score": 0.0952410512484005,
+      "horse_number": 1,
+      "odds": 16.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021110014",
+      "horse_name": "ブライトアゲイン",
+      "score": 0.0916361048732578,
+      "horse_number": 3,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104856",
+      "horse_name": "マイケルバローズ",
+      "score": 0.06035167981204079,
+      "horse_number": 10,
+      "odds": 2.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020104732",
+      "horse_name": "ハルオーブ",
+      "score": 0.03499086251261127,
+      "horse_number": 14,
+      "odds": 23.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101065",
+      "horse_name": "リアルアルバ",
+      "score": -0.09037185568890865,
+      "horse_number": 5,
+      "odds": 31.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103750",
+      "horse_name": "スピリットライズ",
+      "score": -0.15634542082373085,
+      "horse_number": 13,
+      "odds": 38.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102027",
+      "horse_name": "フィオラーノ",
+      "score": -0.22848002414082227,
+      "horse_number": 12,
+      "odds": 9.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106355",
+      "horse_name": "フェゲフォイア",
+      "score": -0.23615712761780747,
+      "horse_number": 6,
+      "odds": 92.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102445",
+      "horse_name": "トウカイフルーレ",
+      "score": -0.31430026206216016,
+      "horse_number": 9,
+      "odds": 26.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102542",
+      "horse_name": "ミルトベスト",
+      "score": -0.34591069513568085,
+      "horse_number": 2,
+      "odds": 25.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105862",
+      "horse_name": "フェリーニ",
+      "score": -0.4117136341980422,
+      "horse_number": 4,
+      "odds": 15.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103615",
+      "horse_name": "エスティヴァリス",
+      "score": -0.553767947365768,
+      "horse_number": 11,
+      "odds": 25.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022102638",
+      "horse_name": "ダイアナクイーン",
+      "score": -0.5814433111697885,
+      "horse_number": 7,
+      "odds": 14.6
+    }
+  ]
+}
