@@ -1,0 +1,136 @@
+{
+  "race_id": "202609030304",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-06-13 11:20",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103795",
+      "horse_name": "タイムレスフレアー",
+      "score": 0.27219369665028303,
+      "horse_number": 13,
+      "odds": 7.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103580",
+      "horse_name": "ラパンドール",
+      "score": 0.17281995547702902,
+      "horse_number": 7,
+      "odds": 4.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105340",
+      "horse_name": "レッドフレーザー",
+      "score": 0.10779015852622671,
+      "horse_number": 3,
+      "odds": 15.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107357",
+      "horse_name": "レッドブライトン",
+      "score": 0.003531789308218656,
+      "horse_number": 8,
+      "odds": 7.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103449",
+      "horse_name": "2023103449",
+      "score": -0.03839036032666547,
+      "horse_number": 14,
+      "odds": 6.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105686",
+      "horse_name": "2023105686",
+      "score": -0.056742898135603355,
+      "horse_number": 4,
+      "odds": 8.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105200",
+      "horse_name": "カデナボニータ",
+      "score": -0.11196220933065465,
+      "horse_number": 1,
+      "odds": 24.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103791",
+      "horse_name": "レフティサーリ",
+      "score": -0.30460017119448385,
+      "horse_number": 16,
+      "odds": 106.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100823",
+      "horse_name": "ジーティーウタマロ",
+      "score": -0.34553757313274686,
+      "horse_number": 5,
+      "odds": 5.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105028",
+      "horse_name": "2023105028",
+      "score": -0.3678229402046854,
+      "horse_number": 11,
+      "odds": 57.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106157",
+      "horse_name": "2023106157",
+      "score": -0.3861419616327695,
+      "horse_number": 9,
+      "odds": 41.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103562",
+      "horse_name": "マルカアルバ",
+      "score": -0.4300874526240185,
+      "horse_number": 6,
+      "odds": 86.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105537",
+      "horse_name": "2023105537",
+      "score": -0.47293600501096866,
+      "horse_number": 10,
+      "odds": 53.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101974",
+      "horse_name": "2023101974",
+      "score": -0.47293600501096866,
+      "horse_number": 12,
+      "odds": 99.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100339",
+      "horse_name": "ヒロウッドテール",
+      "score": -0.5282374384996402,
+      "horse_number": 2,
+      "odds": 100.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023103310",
+      "horse_name": "アイルドゥレーヴェ",
+      "score": -0.6782002641100182,
+      "horse_number": 15,
+      "odds": 15.3
+    }
+  ]
+}

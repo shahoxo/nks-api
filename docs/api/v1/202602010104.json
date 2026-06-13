@@ -1,0 +1,128 @@
+{
+  "race_id": "202602010104",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-06-13 11:40",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101050",
+      "horse_name": "クオンタムスター",
+      "score": 0.23023194945605857,
+      "horse_number": 6,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102452",
+      "horse_name": "コスモブラック",
+      "score": 0.20200228737048392,
+      "horse_number": 14,
+      "odds": 9.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103481",
+      "horse_name": "デルマフジ",
+      "score": 0.12108570263884448,
+      "horse_number": 15,
+      "odds": 8.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105322",
+      "horse_name": "ホウオウファミリー",
+      "score": 0.1003752373227608,
+      "horse_number": 7,
+      "odds": 7.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106079",
+      "horse_name": "ノリマル",
+      "score": 0.08937878263331286,
+      "horse_number": 8,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103522",
+      "horse_name": "フォーチュンローズ",
+      "score": 0.08255856997209748,
+      "horse_number": 2,
+      "odds": 3.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106106",
+      "horse_name": "サクセスブルー",
+      "score": -0.19204862820541208,
+      "horse_number": 4,
+      "odds": 23.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101168",
+      "horse_name": "タビニュ",
+      "score": -0.23233223378962695,
+      "horse_number": 11,
+      "odds": 19.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103493",
+      "horse_name": "モヴシエラ",
+      "score": -0.4069686590563836,
+      "horse_number": 3,
+      "odds": 45.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107476",
+      "horse_name": "2023107476",
+      "score": -0.410177909427949,
+      "horse_number": 1,
+      "odds": 49.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106607",
+      "horse_name": "ブランニューホーム",
+      "score": -0.4561966277655025,
+      "horse_number": 10,
+      "odds": 22.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102410",
+      "horse_name": "ブリックアブラック",
+      "score": -0.4653927010844684,
+      "horse_number": 12,
+      "odds": 110.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023110050",
+      "horse_name": "ドナシュネル",
+      "score": -0.6120108271122092,
+      "horse_number": 9,
+      "odds": 193.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104932",
+      "horse_name": "テンバコウクウ",
+      "score": -0.648322624273838,
+      "horse_number": 5,
+      "odds": 66.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106308",
+      "horse_name": "ダイユウアドバンス",
+      "score": -0.6518943205472477,
+      "horse_number": 13,
+      "odds": 131.5
+    }
+  ]
+}
