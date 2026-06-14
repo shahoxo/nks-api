@@ -1,0 +1,72 @@
+{
+  "race_id": "202605030405",
+  "race_name": "2歳新馬",
+  "race_time": "2026-06-14 12:15",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024106449",
+      "horse_name": "2024106449",
+      "score": -0.019993422227526585,
+      "horse_number": 1,
+      "odds": 2.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024103827",
+      "horse_name": "2024103827",
+      "score": -0.11740925260946994,
+      "horse_number": 2,
+      "odds": 26.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024100134",
+      "horse_name": "2024100134",
+      "score": -0.26060523363234367,
+      "horse_number": 8,
+      "odds": 5.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024104658",
+      "horse_name": "2024104658",
+      "score": -0.4049732403046871,
+      "horse_number": 6,
+      "odds": 6.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024107189",
+      "horse_name": "2024107189",
+      "score": -0.5354947570964084,
+      "horse_number": 4,
+      "odds": 11.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024101333",
+      "horse_name": "2024101333",
+      "score": -0.5426029027823603,
+      "horse_number": 3,
+      "odds": 4.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024104822",
+      "horse_name": "2024104822",
+      "score": -0.5677261992654599,
+      "horse_number": 5,
+      "odds": 17.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2024101297",
+      "horse_name": "2024101297",
+      "score": -0.6543632925823613,
+      "horse_number": 7,
+      "odds": 21.1
+    }
+  ]
+}
