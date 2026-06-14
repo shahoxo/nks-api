@@ -1,0 +1,136 @@
+{
+  "race_id": "202609030412",
+  "race_name": "リボン賞",
+  "race_time": "2026-06-14 16:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101127",
+      "horse_name": "ルクスデイジー",
+      "score": 0.3821473873220451,
+      "horse_number": 15,
+      "odds": 4.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110077",
+      "horse_name": "イリフィ",
+      "score": 0.37753690734980194,
+      "horse_number": 11,
+      "odds": 21.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020101641",
+      "horse_name": "エムズマインド",
+      "score": 0.1777920694870017,
+      "horse_number": 6,
+      "odds": 85.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106920",
+      "horse_name": "ニューオーリンズ",
+      "score": 0.17587554178873216,
+      "horse_number": 1,
+      "odds": 4.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102718",
+      "horse_name": "ノボリショウリュウ",
+      "score": 0.11858849513297737,
+      "horse_number": 12,
+      "odds": 5.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103630",
+      "horse_name": "ウルスクローム",
+      "score": 0.06933687720635281,
+      "horse_number": 10,
+      "odds": 13.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103073",
+      "horse_name": "プロミシングスター",
+      "score": 0.019823864041060957,
+      "horse_number": 2,
+      "odds": 14.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104004",
+      "horse_name": "ディニトーソ",
+      "score": 0.014990067626643226,
+      "horse_number": 8,
+      "odds": 46.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020107082",
+      "horse_name": "ライジン",
+      "score": 0.006112474748243934,
+      "horse_number": 5,
+      "odds": 13.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101397",
+      "horse_name": "ヴェロクオーレ",
+      "score": -0.002897869762998358,
+      "horse_number": 16,
+      "odds": 8.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103670",
+      "horse_name": "ショウナンハクウン",
+      "score": -0.07945136533405589,
+      "horse_number": 14,
+      "odds": 0.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101639",
+      "horse_name": "ハッピーロンドン",
+      "score": -0.14191020668716978,
+      "horse_number": 4,
+      "odds": 71.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103711",
+      "horse_name": "ロサンゼルス",
+      "score": -0.1516306722169458,
+      "horse_number": 9,
+      "odds": 37.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100098",
+      "horse_name": "ベルギューン",
+      "score": -0.16393622083798703,
+      "horse_number": 13,
+      "odds": 9.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103582",
+      "horse_name": "サンダーバース",
+      "score": -0.2709443605793088,
+      "horse_number": 7,
+      "odds": 40.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020104845",
+      "horse_name": "ギーロカスタル",
+      "score": -0.3236640965839483,
+      "horse_number": 3,
+      "odds": 109.3
+    }
+  ]
+}
