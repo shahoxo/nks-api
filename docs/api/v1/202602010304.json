@@ -1,0 +1,120 @@
+{
+  "race_id": "202602010304",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-06-20 11:20",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104322",
+      "horse_name": "タガノシルフィー",
+      "score": 0.08430890686122776,
+      "horse_number": 13,
+      "odds": 6.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105726",
+      "horse_name": "ゴールデンダガー",
+      "score": 0.0734777829309119,
+      "horse_number": 9,
+      "odds": 8.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100362",
+      "horse_name": "ニシノモリミチ",
+      "score": 0.02305375096720289,
+      "horse_number": 2,
+      "odds": 4.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104679",
+      "horse_name": "タイセイルビー",
+      "score": -0.0702689160120363,
+      "horse_number": 8,
+      "odds": 13.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103577",
+      "horse_name": "ブレイズランナー",
+      "score": -0.07531386638305947,
+      "horse_number": 11,
+      "odds": 7.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104286",
+      "horse_name": "2023104286",
+      "score": -0.16548865532827967,
+      "horse_number": 14,
+      "odds": 13.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106958",
+      "horse_name": "ガーディアンテイル",
+      "score": -0.2814557491121662,
+      "horse_number": 12,
+      "odds": 7.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104140",
+      "horse_name": "セイカユウヒ",
+      "score": -0.3226853037068988,
+      "horse_number": 7,
+      "odds": 25.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104420",
+      "horse_name": "クッカユフラ",
+      "score": -0.36663704872974656,
+      "horse_number": 1,
+      "odds": 16.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107409",
+      "horse_name": "2023107409",
+      "score": -0.406350436907165,
+      "horse_number": 4,
+      "odds": 38.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103570",
+      "horse_name": "ブリスフルイヤー",
+      "score": -0.47527387920692876,
+      "horse_number": 6,
+      "odds": 10.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101796",
+      "horse_name": "テリオスリコ",
+      "score": -0.5003410234931139,
+      "horse_number": 5,
+      "odds": 79.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102250",
+      "horse_name": "ミリオンアップ",
+      "score": -0.5909567254248128,
+      "horse_number": 3,
+      "odds": 10.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023109058",
+      "horse_name": "マツリダシリウス",
+      "score": -0.622384537432268,
+      "horse_number": 10,
+      "odds": 34.7
+    }
+  ]
+}

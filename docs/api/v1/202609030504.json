@@ -1,0 +1,136 @@
+{
+  "race_id": "202609030504",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-06-20 11:30",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105124",
+      "horse_name": "キングズテイル",
+      "score": 0.24024155758846788,
+      "horse_number": 12,
+      "odds": 5.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105010",
+      "horse_name": "2023105010",
+      "score": -0.11117205169134034,
+      "horse_number": 11,
+      "odds": 42.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101484",
+      "horse_name": "リバーソニック",
+      "score": -0.16005748680529086,
+      "horse_number": 9,
+      "odds": 6.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103419",
+      "horse_name": "ギレイ",
+      "score": -0.17472981912053223,
+      "horse_number": 8,
+      "odds": 12.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103682",
+      "horse_name": "コンテナヒーロー",
+      "score": -0.21662602432896336,
+      "horse_number": 15,
+      "odds": 25.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101379",
+      "horse_name": "2023101379",
+      "score": -0.2598880934792966,
+      "horse_number": 10,
+      "odds": 44.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102878",
+      "horse_name": "リノルアナ",
+      "score": -0.30815165665269406,
+      "horse_number": 4,
+      "odds": 13.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105397",
+      "horse_name": "グロートカイザー",
+      "score": -0.34499540398803474,
+      "horse_number": 3,
+      "odds": 45.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107485",
+      "horse_name": "2023107485",
+      "score": -0.34726165925312386,
+      "horse_number": 5,
+      "odds": 11.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106804",
+      "horse_name": "アウトリュコス",
+      "score": -0.3615350316965302,
+      "horse_number": 7,
+      "odds": 11.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104330",
+      "horse_name": "2023104330",
+      "score": -0.3707920463471597,
+      "horse_number": 2,
+      "odds": 34.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104070",
+      "horse_name": "2023104070",
+      "score": -0.4162731225899137,
+      "horse_number": 6,
+      "odds": 6.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100371",
+      "horse_name": "スパルタンエックス",
+      "score": -0.5158967935393436,
+      "horse_number": 13,
+      "odds": 4.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106022",
+      "horse_name": "ビーウィナー",
+      "score": -0.5184038940737431,
+      "horse_number": 14,
+      "odds": 50.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105699",
+      "horse_name": "リリークリスタル",
+      "score": -0.6640871011423093,
+      "horse_number": 1,
+      "odds": 51.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105148",
+      "horse_name": "リードアクター",
+      "score": -0.715276049098842,
+      "horse_number": 16,
+      "odds": 30.4
+    }
+  ]
+}
