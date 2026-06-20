@@ -1,0 +1,152 @@
+{
+  "race_id": "202609030512",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-06-20 16:15",
+  "race_place": "阪神",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103440",
+      "horse_name": "サーディンラン",
+      "score": 0.39033875238287186,
+      "horse_number": 16,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101603",
+      "horse_name": "キュクロープス",
+      "score": 0.2760532099529392,
+      "horse_number": 13,
+      "odds": 33.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105767",
+      "horse_name": "ケイアイクウガ",
+      "score": 0.26772855352559,
+      "horse_number": 1,
+      "odds": 17.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103166",
+      "horse_name": "ランスオブヒーロー",
+      "score": 0.2255103501230559,
+      "horse_number": 3,
+      "odds": 7.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104556",
+      "horse_name": "リガーレ",
+      "score": 0.18843364029138357,
+      "horse_number": 15,
+      "odds": 13.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103249",
+      "horse_name": "メイショウアボット",
+      "score": 0.16028249204464445,
+      "horse_number": 4,
+      "odds": 5.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104738",
+      "horse_name": "パスコード",
+      "score": 0.10355517794445587,
+      "horse_number": 11,
+      "odds": 11.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106076",
+      "horse_name": "ハノハノ",
+      "score": 0.06344028041468361,
+      "horse_number": 6,
+      "odds": 31.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106569",
+      "horse_name": "メイショウトウコウ",
+      "score": 0.05448904119595499,
+      "horse_number": 17,
+      "odds": 16.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104919",
+      "horse_name": "ベイリークロア",
+      "score": 0.04083665653496476,
+      "horse_number": 10,
+      "odds": 15.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104430",
+      "horse_name": "リアンマヒナ",
+      "score": -0.015378721709404995,
+      "horse_number": 18,
+      "odds": 7.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103958",
+      "horse_name": "アロンソア",
+      "score": -0.06117650101811117,
+      "horse_number": 12,
+      "odds": 60.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100685",
+      "horse_name": "キシャール",
+      "score": -0.10567541646566508,
+      "horse_number": 8,
+      "odds": 53.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104710",
+      "horse_name": "ムーンライトラガー",
+      "score": -0.13476865274806743,
+      "horse_number": 5,
+      "odds": 14.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022110134",
+      "horse_name": "マリブオレンジ",
+      "score": -0.16524190198804944,
+      "horse_number": 9,
+      "odds": 17.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022106997",
+      "horse_name": "スターペスショウマ",
+      "score": -0.23390467745397656,
+      "horse_number": 14,
+      "odds": 138.0
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023100133",
+      "horse_name": "ソルオーブ",
+      "score": -0.32587667120718544,
+      "horse_number": 7,
+      "odds": 96.2
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021104537",
+      "horse_name": "ギルトエッジ",
+      "score": -0.4482827942335234,
+      "horse_number": 2,
+      "odds": 64.7
+    }
+  ]
+}

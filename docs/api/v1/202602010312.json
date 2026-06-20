@@ -1,0 +1,96 @@
+{
+  "race_id": "202602010312",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-06-20 16:05",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102574",
+      "horse_name": "リュウカルネ",
+      "score": 0.3389876915201962,
+      "horse_number": 5,
+      "odds": 10.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104890",
+      "horse_name": "エンダードラゴン",
+      "score": 0.18165611147007799,
+      "horse_number": 10,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104062",
+      "horse_name": "カージオイド",
+      "score": -0.051349806047445115,
+      "horse_number": 8,
+      "odds": 31.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101721",
+      "horse_name": "ノリノドラゴン",
+      "score": -0.09316308138831841,
+      "horse_number": 6,
+      "odds": 25.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103061",
+      "horse_name": "ゴールドブレイズ",
+      "score": -0.17916316741695212,
+      "horse_number": 7,
+      "odds": 5.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104797",
+      "horse_name": "2022104797",
+      "score": -0.2831807695109278,
+      "horse_number": 4,
+      "odds": 1.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101081",
+      "horse_name": "ラッキーヤース",
+      "score": -0.31426426948984076,
+      "horse_number": 11,
+      "odds": 47.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100387",
+      "horse_name": "マーベリックシチー",
+      "score": -0.41992314076273207,
+      "horse_number": 3,
+      "odds": 20.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103644",
+      "horse_name": "ブレイジングスター",
+      "score": -0.5542835181580779,
+      "horse_number": 2,
+      "odds": 69.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105842",
+      "horse_name": "ブライトビギニング",
+      "score": -0.6532949560977823,
+      "horse_number": 9,
+      "odds": 20.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021107168",
+      "horse_name": "コムルヴァン",
+      "score": -0.6997242947219148,
+      "horse_number": 1,
+      "odds": 53.4
+    }
+  ]
+}
