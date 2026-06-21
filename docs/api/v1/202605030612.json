@@ -1,0 +1,136 @@
+{
+  "race_id": "202605030612",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-06-21 16:30",
+  "race_place": "東京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023110007",
+      "horse_name": "アンティミスト",
+      "score": 0.042804173263924314,
+      "horse_number": 1,
+      "odds": 7.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105081",
+      "horse_name": "レイズテンペスト",
+      "score": 0.03993850215050823,
+      "horse_number": 12,
+      "odds": 8.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105558",
+      "horse_name": "カンレイスター",
+      "score": -0.15614989896336554,
+      "horse_number": 5,
+      "odds": 9.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105841",
+      "horse_name": "スタームーンナイト",
+      "score": -0.15741627943104128,
+      "horse_number": 10,
+      "odds": 3.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102171",
+      "horse_name": "ロードトライデント",
+      "score": -0.1583795166680646,
+      "horse_number": 16,
+      "odds": 10.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021109016",
+      "horse_name": "エフエイト",
+      "score": -0.1587632704768595,
+      "horse_number": 8,
+      "odds": 33.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102181",
+      "horse_name": "タイキブリッツェン",
+      "score": -0.18447101050380496,
+      "horse_number": 15,
+      "odds": 5.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104232",
+      "horse_name": "タヤスロレンヌ",
+      "score": -0.2543373135301747,
+      "horse_number": 13,
+      "odds": 21.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103283",
+      "horse_name": "ペロ",
+      "score": -0.3035682842233097,
+      "horse_number": 11,
+      "odds": 16.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101198",
+      "horse_name": "シャオシンユン",
+      "score": -0.30627176899930164,
+      "horse_number": 7,
+      "odds": 56.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100540",
+      "horse_name": "アルプスオジョー",
+      "score": -0.36744753127659224,
+      "horse_number": 9,
+      "odds": 17.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103332",
+      "horse_name": "アイスブレイカー",
+      "score": -0.5178485720417467,
+      "horse_number": 3,
+      "odds": 103.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102707",
+      "horse_name": "ツマヤ",
+      "score": -0.5243695409423227,
+      "horse_number": 6,
+      "odds": 55.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021104618",
+      "horse_name": "タリスマン",
+      "score": -0.5768133336183507,
+      "horse_number": 4,
+      "odds": 53.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021103651",
+      "horse_name": "グランドフォレスト",
+      "score": -0.5970618435386312,
+      "horse_number": 14,
+      "odds": 83.0
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102530",
+      "horse_name": "ディクシーヴォーグ",
+      "score": -0.6318373387288261,
+      "horse_number": 2,
+      "odds": 100.2
+    }
+  ]
+}
