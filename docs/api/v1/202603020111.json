@@ -1,0 +1,80 @@
+{
+  "race_id": "202603020111",
+  "race_name": "バーデンBC",
+  "race_time": "2026-06-27 15:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105064",
+      "horse_name": "マリアイリダータ",
+      "score": 0.32115106462389376,
+      "horse_number": 4,
+      "odds": 2.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100789",
+      "horse_name": "ハニーコム",
+      "score": 0.19778821979500974,
+      "horse_number": 3,
+      "odds": 6.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110040",
+      "horse_name": "リーティアコナル",
+      "score": 0.06942307743619773,
+      "horse_number": 7,
+      "odds": 7.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103928",
+      "horse_name": "ホウオウスーペリア",
+      "score": -0.03103603380747498,
+      "horse_number": 5,
+      "odds": 10.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102246",
+      "horse_name": "テーオーダグラス",
+      "score": -0.06467774606978231,
+      "horse_number": 1,
+      "odds": 15.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020100809",
+      "horse_name": "アマイ",
+      "score": -0.0687685399281411,
+      "horse_number": 9,
+      "odds": 19.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100626",
+      "horse_name": "フィオレストラーダ",
+      "score": -0.11575091466046505,
+      "horse_number": 8,
+      "odds": 5.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102905",
+      "horse_name": "ホルトバージ",
+      "score": -0.1991845389733545,
+      "horse_number": 6,
+      "odds": 32.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102219",
+      "horse_name": "ノーランサンライズ",
+      "score": -0.2910242999451805,
+      "horse_number": 2,
+      "odds": 11.4
+    }
+  ]
+}

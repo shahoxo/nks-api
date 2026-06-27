@@ -1,0 +1,120 @@
+{
+  "race_id": "202602010511",
+  "race_name": "青函S",
+  "race_time": "2026-06-27 15:20",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107008",
+      "horse_name": "ブラックチャリス",
+      "score": 0.29816905971978064,
+      "horse_number": 2,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100130",
+      "horse_name": "ロードフォアエース",
+      "score": 0.22099719913824573,
+      "horse_number": 13,
+      "odds": 9.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110105",
+      "horse_name": "アメリカンステージ",
+      "score": 0.14265296577356198,
+      "horse_number": 12,
+      "odds": 5.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019102273",
+      "horse_name": "モリノドリーム",
+      "score": 0.13020293769198313,
+      "horse_number": 9,
+      "odds": 14.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102434",
+      "horse_name": "ルージュラナキラ",
+      "score": 0.06047710775960434,
+      "horse_number": 14,
+      "odds": 9.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102887",
+      "horse_name": "ナムラクララ",
+      "score": 0.04286110407788672,
+      "horse_number": 11,
+      "odds": 5.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100522",
+      "horse_name": "ジョーメッドヴィン",
+      "score": 0.016864029518801157,
+      "horse_number": 3,
+      "odds": 9.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020110090",
+      "horse_name": "ティニア",
+      "score": -0.03429377766479685,
+      "horse_number": 5,
+      "odds": 11.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103356",
+      "horse_name": "クファシル",
+      "score": -0.08920056214400177,
+      "horse_number": 6,
+      "odds": 41.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020109102",
+      "horse_name": "サウザンサニー",
+      "score": -0.10032048056183086,
+      "horse_number": 8,
+      "odds": 22.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019100751",
+      "horse_name": "マイネルレノン",
+      "score": -0.21595444367444308,
+      "horse_number": 7,
+      "odds": 32.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103962",
+      "horse_name": "ステークホルダー",
+      "score": -0.2484449632471741,
+      "horse_number": 4,
+      "odds": 79.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103092",
+      "horse_name": "ナムラローズマリー",
+      "score": -0.3766776351311487,
+      "horse_number": 10,
+      "odds": 24.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103304",
+      "horse_name": "ダンツエラン",
+      "score": -0.4854023534820606,
+      "horse_number": 1,
+      "odds": 44.7
+    }
+  ]
+}
