@@ -1,0 +1,128 @@
+{
+  "race_id": "202603020103",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-06-27 11:15",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101705",
+      "horse_name": "ガムラスタン",
+      "score": 0.10934587955111578,
+      "horse_number": 8,
+      "odds": 9.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102364",
+      "horse_name": "サムシングニュー",
+      "score": 0.10564970501362222,
+      "horse_number": 6,
+      "odds": 13.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103806",
+      "horse_name": "ジェネラスキング",
+      "score": 0.10268540487289646,
+      "horse_number": 3,
+      "odds": 9.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105548",
+      "horse_name": "プロスペクトパーク",
+      "score": 0.0794585795430204,
+      "horse_number": 9,
+      "odds": 6.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103263",
+      "horse_name": "パータリプトラ",
+      "score": 0.01109061513398825,
+      "horse_number": 15,
+      "odds": 21.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105771",
+      "horse_name": "ショウナンパトス",
+      "score": -0.01872503440960703,
+      "horse_number": 10,
+      "odds": 4.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102486",
+      "horse_name": "キタノブレイク",
+      "score": -0.1378663274651212,
+      "horse_number": 11,
+      "odds": 88.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102269",
+      "horse_name": "ラルフテソーロ",
+      "score": -0.163968528666294,
+      "horse_number": 12,
+      "odds": 6.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105963",
+      "horse_name": "ナリノシャーウッド",
+      "score": -0.22971236770489536,
+      "horse_number": 5,
+      "odds": 7.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105162",
+      "horse_name": "コパノエイダン",
+      "score": -0.25488358905774505,
+      "horse_number": 14,
+      "odds": 17.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102352",
+      "horse_name": "タイセツナヒ",
+      "score": -0.2590703930434735,
+      "horse_number": 4,
+      "odds": 31.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100757",
+      "horse_name": "コウユーニポポニコ",
+      "score": -0.3724922507265388,
+      "horse_number": 1,
+      "odds": 14.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105664",
+      "horse_name": "ラフレードピエル",
+      "score": -0.5218703310880874,
+      "horse_number": 2,
+      "odds": 29.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103011",
+      "horse_name": "ブルーユンチェリー",
+      "score": -0.6293301629666437,
+      "horse_number": 7,
+      "odds": 64.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101281",
+      "horse_name": "クラウンフリード",
+      "score": -0.6533614053964997,
+      "horse_number": 13,
+      "odds": 99.4
+    }
+  ]
+}
