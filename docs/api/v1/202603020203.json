@@ -1,0 +1,48 @@
+{
+  "race_id": "202603020203",
+  "race_name": "2歳未勝利",
+  "race_time": "2026-06-28 11:20",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024100482",
+      "horse_name": "2024100482",
+      "score": -0.055710147976545804,
+      "horse_number": 5,
+      "odds": 1.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024108275",
+      "horse_name": "2024108275",
+      "score": -0.23352784701891435,
+      "horse_number": 2,
+      "odds": 7.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024105474",
+      "horse_name": "2024105474",
+      "score": -0.6543632925823613,
+      "horse_number": 4,
+      "odds": 21.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024101604",
+      "horse_name": "2024101604",
+      "score": -0.6543632925823613,
+      "horse_number": 3,
+      "odds": 10.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024101281",
+      "horse_name": "2024101281",
+      "score": -0.6543632925823613,
+      "horse_number": 1,
+      "odds": 9.5
+    }
+  ]
+}

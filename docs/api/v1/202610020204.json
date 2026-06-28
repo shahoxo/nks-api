@@ -1,0 +1,136 @@
+{
+  "race_id": "202610020204",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-06-28 11:30",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105294",
+      "horse_name": "グリーンゴー",
+      "score": 0.5117231268402567,
+      "horse_number": 6,
+      "odds": 2.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107341",
+      "horse_name": "2023107341",
+      "score": 0.2182871326789703,
+      "horse_number": 2,
+      "odds": 9.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106961",
+      "horse_name": "2023106961",
+      "score": 0.13125735633303484,
+      "horse_number": 4,
+      "odds": 21.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102317",
+      "horse_name": "バンダムソレール",
+      "score": 0.025047501993410957,
+      "horse_number": 12,
+      "odds": 13.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104872",
+      "horse_name": "ゴールデンドラゴン",
+      "score": -0.06229894835328764,
+      "horse_number": 13,
+      "odds": 18.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101111",
+      "horse_name": "メンデレーエフ",
+      "score": -0.15003479245912554,
+      "horse_number": 10,
+      "odds": 6.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103706",
+      "horse_name": "リアライズステラ",
+      "score": -0.2836781957400113,
+      "horse_number": 9,
+      "odds": 36.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105044",
+      "horse_name": "ゴールデンボブ",
+      "score": -0.3313144795629236,
+      "horse_number": 7,
+      "odds": 28.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106134",
+      "horse_name": "2023106134",
+      "score": -0.43459214401799773,
+      "horse_number": 8,
+      "odds": 15.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101848",
+      "horse_name": "ジューンマーチ",
+      "score": -0.454946889334664,
+      "horse_number": 14,
+      "odds": 9.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102773",
+      "horse_name": "ハイビッグゴールド",
+      "score": -0.4817659281855927,
+      "horse_number": 15,
+      "odds": 55.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101487",
+      "horse_name": "2023101487",
+      "score": -0.5427064208962835,
+      "horse_number": 1,
+      "odds": 74.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103339",
+      "horse_name": "2023103339",
+      "score": -0.5605472818472005,
+      "horse_number": 16,
+      "odds": 65.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103067",
+      "horse_name": "トモジャカトゥーラ",
+      "score": -0.5628851560431606,
+      "horse_number": 5,
+      "odds": 77.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101743",
+      "horse_name": "ホッコームジカ",
+      "score": -0.5641607127905538,
+      "horse_number": 11,
+      "odds": 29.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100605",
+      "horse_name": "キミガスキダ",
+      "score": -0.7080381019754218,
+      "horse_number": 3,
+      "odds": 59.9
+    }
+  ]
+}
