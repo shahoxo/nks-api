@@ -1,0 +1,136 @@
+{
+  "race_id": "202610020212",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-06-28 16:15",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102836",
+      "horse_name": "ミランド",
+      "score": 0.26496988094565405,
+      "horse_number": 1,
+      "odds": 8.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103092",
+      "horse_name": "セルジュバローズ",
+      "score": -0.023528710750388124,
+      "horse_number": 8,
+      "odds": 15.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107371",
+      "horse_name": "クイノールト",
+      "score": -0.14158784682681644,
+      "horse_number": 10,
+      "odds": 30.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105708",
+      "horse_name": "バトゥカーダ",
+      "score": -0.15517371549749226,
+      "horse_number": 11,
+      "odds": 7.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106998",
+      "horse_name": "ニシノジェダイ",
+      "score": -0.20889376312252364,
+      "horse_number": 7,
+      "odds": 7.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100297",
+      "horse_name": "ブラックレジェンド",
+      "score": -0.22002552583769325,
+      "horse_number": 12,
+      "odds": 3.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102916",
+      "horse_name": "モズプリヴェール",
+      "score": -0.2490317839733242,
+      "horse_number": 13,
+      "odds": 20.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104176",
+      "horse_name": "チャチャピンク",
+      "score": -0.2907071275892222,
+      "horse_number": 6,
+      "odds": 39.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022107248",
+      "horse_name": "ルシャリオ",
+      "score": -0.3018762614365319,
+      "horse_number": 16,
+      "odds": 40.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102728",
+      "horse_name": "ポルトドール",
+      "score": -0.34083344082146527,
+      "horse_number": 9,
+      "odds": 32.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106788",
+      "horse_name": "2023106788",
+      "score": -0.383399814200714,
+      "horse_number": 3,
+      "odds": 4.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101473",
+      "horse_name": "ライラックデューン",
+      "score": -0.39511723661369413,
+      "horse_number": 14,
+      "odds": 74.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104205",
+      "horse_name": "ブルーカミング",
+      "score": -0.4760191061554063,
+      "horse_number": 4,
+      "odds": 84.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103213",
+      "horse_name": "バロニアル",
+      "score": -0.4938481670671474,
+      "horse_number": 2,
+      "odds": 15.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102639",
+      "horse_name": "ロードシュヴァリエ",
+      "score": -0.49915824818940857,
+      "horse_number": 15,
+      "odds": 18.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021101464",
+      "horse_name": "ミッションルース",
+      "score": -0.5160291669347129,
+      "horse_number": 5,
+      "odds": 32.2
+    }
+  ]
+}

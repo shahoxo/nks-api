@@ -1,0 +1,120 @@
+{
+  "race_id": "202602010612",
+  "race_name": "湯の川温泉",
+  "race_time": "2026-06-28 16:05",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106665",
+      "horse_name": "ウチュウノセカイ",
+      "score": 0.07307329525108247,
+      "horse_number": 4,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021110023",
+      "horse_name": "エクストラバック",
+      "score": 0.039544332873676584,
+      "horse_number": 9,
+      "odds": 5.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103595",
+      "horse_name": "ビーコング",
+      "score": 0.014034489431412708,
+      "horse_number": 7,
+      "odds": 45.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103556",
+      "horse_name": "キープサインオン",
+      "score": -0.07322985723764362,
+      "horse_number": 5,
+      "odds": 14.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021110119",
+      "horse_name": "サンドロナイト",
+      "score": -0.08753657576229813,
+      "horse_number": 3,
+      "odds": 19.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106104",
+      "horse_name": "ホワイトドラゴン",
+      "score": -0.15356318637969874,
+      "horse_number": 14,
+      "odds": 6.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101595",
+      "horse_name": "ヴィヴァクラウン",
+      "score": -0.18079640651233667,
+      "horse_number": 6,
+      "odds": 9.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100933",
+      "horse_name": "エルサトアナ",
+      "score": -0.20029812951139667,
+      "horse_number": 2,
+      "odds": 9.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105073",
+      "horse_name": "ガットネロ",
+      "score": -0.2050595993262022,
+      "horse_number": 1,
+      "odds": 23.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103527",
+      "horse_name": "ライツユーアップ",
+      "score": -0.21769046309375267,
+      "horse_number": 11,
+      "odds": 26.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106623",
+      "horse_name": "ゴキゲンサン",
+      "score": -0.2387424641132953,
+      "horse_number": 13,
+      "odds": 34.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103355",
+      "horse_name": "クリエープキー",
+      "score": -0.3921747540554563,
+      "horse_number": 12,
+      "odds": 15.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100214",
+      "horse_name": "シーグルロス",
+      "score": -0.48724481834038835,
+      "horse_number": 10,
+      "odds": 8.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102567",
+      "horse_name": "フェアリーライズ",
+      "score": -0.5474096039903246,
+      "horse_number": 8,
+      "odds": 23.2
+    }
+  ]
+}

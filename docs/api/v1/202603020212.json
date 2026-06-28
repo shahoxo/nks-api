@@ -1,0 +1,120 @@
+{
+  "race_id": "202603020212",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-06-28 16:30",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107095",
+      "horse_name": "クアロアランチ",
+      "score": 0.2317674118670462,
+      "horse_number": 5,
+      "odds": 7.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103802",
+      "horse_name": "ブーケドリス",
+      "score": 0.2231020417229314,
+      "horse_number": 13,
+      "odds": 4.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101516",
+      "horse_name": "モズタンケ",
+      "score": 0.1368170188822465,
+      "horse_number": 2,
+      "odds": 9.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102545",
+      "horse_name": "ミルトハーバー",
+      "score": 0.13333115688799085,
+      "horse_number": 4,
+      "odds": 7.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100955",
+      "horse_name": "ソニックブレイカー",
+      "score": 0.12755628554146736,
+      "horse_number": 7,
+      "odds": 4.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101112",
+      "horse_name": "ロイヤルスパイア",
+      "score": 0.032087847190784405,
+      "horse_number": 1,
+      "odds": 6.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103994",
+      "horse_name": "タッカーバレット",
+      "score": -0.07187377785396913,
+      "horse_number": 12,
+      "odds": 35.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101792",
+      "horse_name": "ジャスフォール",
+      "score": -0.08927558964117462,
+      "horse_number": 14,
+      "odds": 10.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106686",
+      "horse_name": "スターランウェイ",
+      "score": -0.098228548584288,
+      "horse_number": 8,
+      "odds": 9.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102819",
+      "horse_name": "マーシャルアン",
+      "score": -0.13210771639959823,
+      "horse_number": 3,
+      "odds": 70.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105494",
+      "horse_name": "フクチャンヒメ",
+      "score": -0.16200581710105194,
+      "horse_number": 11,
+      "odds": 46.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020105525",
+      "horse_name": "カツノテンス",
+      "score": -0.3184159434767885,
+      "horse_number": 6,
+      "odds": 52.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021109088",
+      "horse_name": "アルニラム",
+      "score": -0.44949742376639545,
+      "horse_number": 9,
+      "odds": 45.8
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020106004",
+      "horse_name": "ゴルトレオパルト",
+      "score": -0.5970618435386312,
+      "horse_number": 10,
+      "odds": 103.0
+    }
+  ]
+}

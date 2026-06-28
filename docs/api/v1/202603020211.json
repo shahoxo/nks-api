@@ -1,0 +1,136 @@
+{
+  "race_id": "202603020211",
+  "race_name": "ラジオNIK",
+  "race_time": "2026-06-28 15:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103907",
+      "horse_name": "スカイスプレンダー",
+      "score": 0.3588700788020067,
+      "horse_number": 14,
+      "odds": 12.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104224",
+      "horse_name": "リッツパーティー",
+      "score": 0.26829412599241803,
+      "horse_number": 5,
+      "odds": 5.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107278",
+      "horse_name": "バドリナート",
+      "score": 0.26390750648892514,
+      "horse_number": 15,
+      "odds": 28.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107368",
+      "horse_name": "コロナドブリッジ",
+      "score": 0.15430890653411575,
+      "horse_number": 11,
+      "odds": 50.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105684",
+      "horse_name": "2023105684",
+      "score": 0.04597420710723004,
+      "horse_number": 2,
+      "odds": 17.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107352",
+      "horse_name": "スペルーチェ",
+      "score": 0.01635695544877697,
+      "horse_number": 16,
+      "odds": 20.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103326",
+      "horse_name": "ディールメーカー",
+      "score": -0.004467304862364629,
+      "horse_number": 8,
+      "odds": 13.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107199",
+      "horse_name": "ローベルクランツ",
+      "score": -0.012557359026788482,
+      "horse_number": 12,
+      "odds": 6.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100724",
+      "horse_name": "サノノグレーター",
+      "score": -0.02939786284798876,
+      "horse_number": 13,
+      "odds": 5.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103386",
+      "horse_name": "ルージュボヤージュ",
+      "score": -0.05175064874126408,
+      "horse_number": 1,
+      "odds": 9.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101569",
+      "horse_name": "サイモンシャリオ",
+      "score": -0.11327743730235554,
+      "horse_number": 4,
+      "odds": 69.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100021",
+      "horse_name": "キンググローリー",
+      "score": -0.12422879127998936,
+      "horse_number": 9,
+      "odds": 19.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104885",
+      "horse_name": "ジーネキング",
+      "score": -0.1582604250893271,
+      "horse_number": 3,
+      "odds": 13.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105084",
+      "horse_name": "コルテオソレイユ",
+      "score": -0.1911059713153918,
+      "horse_number": 6,
+      "odds": 7.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105332",
+      "horse_name": "ショウナンガルフ",
+      "score": -0.19745400856542672,
+      "horse_number": 7,
+      "odds": 70.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100681",
+      "horse_name": "ガリレア",
+      "score": -0.3349202388443777,
+      "horse_number": 10,
+      "odds": 127.3
+    }
+  ]
+}
