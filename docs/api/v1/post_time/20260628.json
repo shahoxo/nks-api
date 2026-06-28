@@ -1,0 +1,352 @@
+[
+  {
+    "race_id": "202603020202",
+    "race_name": "3歳未勝利",
+    "distance": 1700,
+    "track_surface": 2,
+    "race_place": "福島",
+    "race_grade": 9,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 10:45:00 +0900"
+  },
+  {
+    "race_id": "202603020203",
+    "race_name": "2歳未勝利",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "福島",
+    "race_grade": 9,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 11:20:00 +0900"
+  },
+  {
+    "race_id": "202603020204",
+    "race_name": "2歳新馬",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "福島",
+    "race_grade": 8,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 11:45:00 +0900"
+  },
+  {
+    "race_id": "202603020205",
+    "race_name": "2歳新馬",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "福島",
+    "race_grade": 8,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 12:30:00 +0900"
+  },
+  {
+    "race_id": "202603020206",
+    "race_name": "3歳未勝利",
+    "distance": 1150,
+    "track_surface": 2,
+    "race_place": "福島",
+    "race_grade": 9,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 13:01:00 +0900"
+  },
+  {
+    "race_id": "202603020207",
+    "race_name": "3歳未勝利",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "福島",
+    "race_grade": 9,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 13:30:00 +0900"
+  },
+  {
+    "race_id": "202603020208",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 2600,
+    "track_surface": 1,
+    "race_place": "福島",
+    "race_grade": 7,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 14:01:00 +0900"
+  },
+  {
+    "race_id": "202603020209",
+    "race_name": "松島特別",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "福島",
+    "race_grade": 6,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 14:35:00 +0900"
+  },
+  {
+    "race_id": "202603020210",
+    "race_name": "鶴ヶ城S",
+    "distance": 1700,
+    "track_surface": 2,
+    "race_place": "福島",
+    "race_grade": 5,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 15:10:00 +0900"
+  },
+  {
+    "race_id": "202603020211",
+    "race_name": "ラジオNIK",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "福島",
+    "race_grade": 3,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 15:45:00 +0900"
+  },
+  {
+    "race_id": "202603020212",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1150,
+    "track_surface": 2,
+    "race_place": "福島",
+    "race_grade": 7,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 16:30:00 +0900"
+  },
+  {
+    "race_id": "202610020201",
+    "race_name": "3歳未勝利",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 9,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 09:55:00 +0900"
+  },
+  {
+    "race_id": "202610020202",
+    "race_name": "3歳未勝利",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 9,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 10:30:00 +0900"
+  },
+  {
+    "race_id": "202610020203",
+    "race_name": "3歳未勝利",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 9,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 11:00:00 +0900"
+  },
+  {
+    "race_id": "202610020204",
+    "race_name": "3歳未勝利",
+    "distance": 1700,
+    "track_surface": 2,
+    "race_place": "小倉",
+    "race_grade": 9,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 11:30:00 +0900"
+  },
+  {
+    "race_id": "202610020205",
+    "race_name": "2歳新馬",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 8,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 12:20:00 +0900"
+  },
+  {
+    "race_id": "202610020206",
+    "race_name": "2歳新馬",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 8,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 12:50:00 +0900"
+  },
+  {
+    "race_id": "202610020207",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1000,
+    "track_surface": 2,
+    "race_place": "小倉",
+    "race_grade": 7,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 13:20:00 +0900"
+  },
+  {
+    "race_id": "202610020208",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 7,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 13:50:00 +0900"
+  },
+  {
+    "race_id": "202610020209",
+    "race_name": "帆柱山特別",
+    "distance": 2600,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 6,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 14:20:00 +0900"
+  },
+  {
+    "race_id": "202610020210",
+    "race_name": "西部日刊スポ",
+    "distance": 1700,
+    "track_surface": 2,
+    "race_place": "小倉",
+    "race_grade": 6,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 14:55:00 +0900"
+  },
+  {
+    "race_id": "202610020211",
+    "race_name": "紫川S",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "小倉",
+    "race_grade": 5,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 15:30:00 +0900"
+  },
+  {
+    "race_id": "202610020212",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1700,
+    "track_surface": 2,
+    "race_place": "小倉",
+    "race_grade": 7,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 16:15:00 +0900"
+  },
+  {
+    "race_id": "202602010601",
+    "race_name": "2歳未勝利",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "函館",
+    "race_grade": 9,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 09:50:00 +0900"
+  },
+  {
+    "race_id": "202602010602",
+    "race_name": "3歳未勝利",
+    "distance": 1700,
+    "track_surface": 2,
+    "race_place": "函館",
+    "race_grade": 9,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 10:20:00 +0900"
+  },
+  {
+    "race_id": "202602010603",
+    "race_name": "3歳未勝利",
+    "distance": 1000,
+    "track_surface": 2,
+    "race_place": "函館",
+    "race_grade": 9,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 10:50:00 +0900"
+  },
+  {
+    "race_id": "202602010604",
+    "race_name": "3歳未勝利",
+    "distance": 2600,
+    "track_surface": 1,
+    "race_place": "函館",
+    "race_grade": 9,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 11:20:00 +0900"
+  },
+  {
+    "race_id": "202602010605",
+    "race_name": "2歳新馬",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "函館",
+    "race_grade": 8,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 12:10:00 +0900"
+  },
+  {
+    "race_id": "202602010606",
+    "race_name": "3歳未勝利",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "函館",
+    "race_grade": 9,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 12:40:00 +0900"
+  },
+  {
+    "race_id": "202602010607",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1700,
+    "track_surface": 2,
+    "race_place": "函館",
+    "race_grade": 7,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 13:10:00 +0900"
+  },
+  {
+    "race_id": "202602010608",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "函館",
+    "race_grade": 7,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 13:40:00 +0900"
+  },
+  {
+    "race_id": "202602010609",
+    "race_name": "臥牛山特別",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "函館",
+    "race_grade": 7,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 14:10:00 +0900"
+  },
+  {
+    "race_id": "202602010610",
+    "race_name": "渡島特別",
+    "distance": 1700,
+    "track_surface": 2,
+    "race_place": "函館",
+    "race_grade": 6,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 14:45:00 +0900"
+  },
+  {
+    "race_id": "202602010611",
+    "race_name": "函館記念",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "函館",
+    "race_grade": 3,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 15:20:00 +0900"
+  },
+  {
+    "race_id": "202602010612",
+    "race_name": "湯の川温泉",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "函館",
+    "race_grade": 6,
+    "race_date": "2026-06-28",
+    "race_time": "2026-06-28 16:05:00 +0900"
+  }
+]
