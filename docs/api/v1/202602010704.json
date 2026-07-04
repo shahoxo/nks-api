@@ -1,0 +1,136 @@
+{
+  "race_id": "202602010704",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-04 11:20",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100610",
+      "horse_name": "フルムーン",
+      "score": 0.3851782171661585,
+      "horse_number": 11,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106965",
+      "horse_name": "ソチミルコ",
+      "score": 0.26944511098297874,
+      "horse_number": 8,
+      "odds": 19.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102151",
+      "horse_name": "スッサンエア",
+      "score": 0.21379678783783418,
+      "horse_number": 15,
+      "odds": 7.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107192",
+      "horse_name": "2023107192",
+      "score": 0.04291265094565974,
+      "horse_number": 1,
+      "odds": 11.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107342",
+      "horse_name": "2023107342",
+      "score": -0.0607210654936482,
+      "horse_number": 2,
+      "odds": 6.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104933",
+      "horse_name": "ブラックジャック",
+      "score": -0.15652932131246378,
+      "horse_number": 4,
+      "odds": 5.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105797",
+      "horse_name": "ロードクラシコ",
+      "score": -0.16759340219617994,
+      "horse_number": 14,
+      "odds": 12.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103518",
+      "horse_name": "ディサイドオンミー",
+      "score": -0.18806188696910375,
+      "horse_number": 5,
+      "odds": 16.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102332",
+      "horse_name": "フクノアンタレス",
+      "score": -0.2884365386352422,
+      "horse_number": 6,
+      "odds": 32.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103668",
+      "horse_name": "カテドラルクォーツ",
+      "score": -0.30829410772860527,
+      "horse_number": 7,
+      "odds": 121.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102402",
+      "horse_name": "グローリアスダンス",
+      "score": -0.3734172545853433,
+      "horse_number": 3,
+      "odds": 101.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104669",
+      "horse_name": "ゲレイロ",
+      "score": -0.4614656486539155,
+      "horse_number": 9,
+      "odds": 58.3
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103612",
+      "horse_name": "オリヒメボシ",
+      "score": -0.4718982848938935,
+      "horse_number": 12,
+      "odds": 25.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101873",
+      "horse_name": "スカイプレリュード",
+      "score": -0.5186231171164214,
+      "horse_number": 13,
+      "odds": 57.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101675",
+      "horse_name": "チェリーブルーム",
+      "score": -0.6028557547896995,
+      "horse_number": 10,
+      "odds": 104.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106291",
+      "horse_name": "ヤジロベエバランス",
+      "score": -0.6415071890219484,
+      "horse_number": 16,
+      "odds": 27.6
+    }
+  ]
+}

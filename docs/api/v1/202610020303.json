@@ -1,0 +1,136 @@
+{
+  "race_id": "202610020303",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-04 11:00",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105571",
+      "horse_name": "ドリームプレミア",
+      "score": 0.3819083182104328,
+      "horse_number": 8,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107221",
+      "horse_name": "シャンドラファール",
+      "score": -0.02369114997184504,
+      "horse_number": 11,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107272",
+      "horse_name": "サトノトリニティ",
+      "score": -0.02901924014173396,
+      "horse_number": 7,
+      "odds": 14.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106911",
+      "horse_name": "ミスティックレイン",
+      "score": -0.08954666907580934,
+      "horse_number": 6,
+      "odds": 17.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102718",
+      "horse_name": "レイワノキセキ",
+      "score": -0.09598854819865772,
+      "horse_number": 9,
+      "odds": 29.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105349",
+      "horse_name": "ベルドゥニュイ",
+      "score": -0.14438074459775802,
+      "horse_number": 2,
+      "odds": 106.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103457",
+      "horse_name": "スピーチバルーン",
+      "score": -0.15039308034508247,
+      "horse_number": 4,
+      "odds": 22.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102724",
+      "horse_name": "ブライトココナッツ",
+      "score": -0.2718263374060677,
+      "horse_number": 12,
+      "odds": 33.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103679",
+      "horse_name": "リアライズパリオ",
+      "score": -0.273457749032804,
+      "horse_number": 5,
+      "odds": 8.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106487",
+      "horse_name": "マイネルホウセン",
+      "score": -0.35292050031113187,
+      "horse_number": 16,
+      "odds": 16.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105234",
+      "horse_name": "カパルア",
+      "score": -0.3699160257303944,
+      "horse_number": 14,
+      "odds": 15.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101934",
+      "horse_name": "2023101934",
+      "score": -0.391578095928507,
+      "horse_number": 1,
+      "odds": 39.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100983",
+      "horse_name": "メイショウシュハリ",
+      "score": -0.4295394946378597,
+      "horse_number": 10,
+      "odds": 65.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106361",
+      "horse_name": "2023106361",
+      "score": -0.4526874950906882,
+      "horse_number": 3,
+      "odds": 74.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103743",
+      "horse_name": "シャリキモン",
+      "score": -0.5613295110762307,
+      "horse_number": 15,
+      "odds": 17.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104905",
+      "horse_name": "テイエムプレミラン",
+      "score": -0.7142512799918292,
+      "horse_number": 13,
+      "odds": 13.2
+    }
+  ]
+}

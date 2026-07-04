@@ -1,0 +1,136 @@
+{
+  "race_id": "202610020304",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-04 11:30",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101702",
+      "horse_name": "マーゴットガイア",
+      "score": 0.12902761017656908,
+      "horse_number": 1,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103868",
+      "horse_name": "ヴォメロ",
+      "score": 0.011373111520603999,
+      "horse_number": 11,
+      "odds": 12.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104048",
+      "horse_name": "カワキタベレッタ",
+      "score": -0.022047078426274593,
+      "horse_number": 4,
+      "odds": 55.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107040",
+      "horse_name": "2023107040",
+      "score": -0.049059523074933595,
+      "horse_number": 12,
+      "odds": 16.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100233",
+      "horse_name": "アキノビューティー",
+      "score": -0.09959139167609254,
+      "horse_number": 3,
+      "odds": 8.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106819",
+      "horse_name": "2023106819",
+      "score": -0.1640262790651981,
+      "horse_number": 8,
+      "odds": 16.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100989",
+      "horse_name": "アンティスマ",
+      "score": -0.16758214225531687,
+      "horse_number": 6,
+      "odds": 5.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103819",
+      "horse_name": "2023103819",
+      "score": -0.21971170097125686,
+      "horse_number": 7,
+      "odds": 18.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105313",
+      "horse_name": "2023105313",
+      "score": -0.24547320586987664,
+      "horse_number": 10,
+      "odds": 29.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100864",
+      "horse_name": "ヒデガミティアラ",
+      "score": -0.42735688172143615,
+      "horse_number": 2,
+      "odds": 97.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105121",
+      "horse_name": "2023105121",
+      "score": -0.42810089517711447,
+      "horse_number": 15,
+      "odds": 76.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100580",
+      "horse_name": "セントピュアベース",
+      "score": -0.5198371057626869,
+      "horse_number": 14,
+      "odds": 17.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104979",
+      "horse_name": "エンジェルグラース",
+      "score": -0.5207735048899425,
+      "horse_number": 16,
+      "odds": 12.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100275",
+      "horse_name": "2023100275",
+      "score": -0.5492502277760781,
+      "horse_number": 5,
+      "odds": 11.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104337",
+      "horse_name": "ダンツカレン",
+      "score": -0.5927493292638134,
+      "horse_number": 9,
+      "odds": 35.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023101363",
+      "horse_name": "2023101363",
+      "score": -0.6543632925823613,
+      "horse_number": 13,
+      "odds": 89.8
+    }
+  ]
+}

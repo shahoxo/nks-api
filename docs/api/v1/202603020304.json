@@ -1,0 +1,136 @@
+{
+  "race_id": "202603020304",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-04 11:40",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105951",
+      "horse_name": "ナディア",
+      "score": 0.08842776015119648,
+      "horse_number": 8,
+      "odds": 15.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105751",
+      "horse_name": "ラウンドヒル",
+      "score": 0.02374403238443544,
+      "horse_number": 12,
+      "odds": 15.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102896",
+      "horse_name": "カラーオブサクセス",
+      "score": -0.025792191549354755,
+      "horse_number": 6,
+      "odds": 17.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106991",
+      "horse_name": "グレイシエーション",
+      "score": -0.05260384221339241,
+      "horse_number": 9,
+      "odds": 2.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102394",
+      "horse_name": "トゥレイス",
+      "score": -0.11479795137974343,
+      "horse_number": 11,
+      "odds": 42.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105285",
+      "horse_name": "ミスティユニバンス",
+      "score": -0.1827800898492453,
+      "horse_number": 2,
+      "odds": 20.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104480",
+      "horse_name": "タイセイスタナー",
+      "score": -0.2442295919673714,
+      "horse_number": 1,
+      "odds": 9.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102881",
+      "horse_name": "フレンドリーエール",
+      "score": -0.4022505639469314,
+      "horse_number": 5,
+      "odds": 40.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103772",
+      "horse_name": "アルファリラエ",
+      "score": -0.41580744568088024,
+      "horse_number": 13,
+      "odds": 49.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104425",
+      "horse_name": "リーデレクオーレ",
+      "score": -0.4457208036890018,
+      "horse_number": 16,
+      "odds": 11.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105744",
+      "horse_name": "2023105744",
+      "score": -0.47293600501096866,
+      "horse_number": 15,
+      "odds": 107.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104970",
+      "horse_name": "2023104970",
+      "score": -0.47293600501096866,
+      "horse_number": 10,
+      "odds": 85.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101779",
+      "horse_name": "2023101779",
+      "score": -0.47293600501096866,
+      "horse_number": 4,
+      "odds": 5.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104685",
+      "horse_name": "ロジスカヤ",
+      "score": -0.5926985816549145,
+      "horse_number": 3,
+      "odds": 18.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105619",
+      "horse_name": "ホウオウミステリー",
+      "score": -0.6970415147616792,
+      "horse_number": 14,
+      "odds": 64.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100987",
+      "horse_name": "ロッタリーランド",
+      "score": -0.7560238565797833,
+      "horse_number": 7,
+      "odds": 96.8
+    }
+  ]
+}
