@@ -1,0 +1,104 @@
+{
+  "race_id": "202610020310",
+  "race_name": "雲仙特別",
+  "race_time": "2026-07-04 14:55",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110111",
+      "horse_name": "ジャスパーソレイユ",
+      "score": 0.4913256438204315,
+      "horse_number": 7,
+      "odds": 10.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102427",
+      "horse_name": "パールフロント",
+      "score": 0.1705432973292328,
+      "horse_number": 8,
+      "odds": 10.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2019101399",
+      "horse_name": "ザウリ",
+      "score": 0.11879248931677343,
+      "horse_number": 4,
+      "odds": 4.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102991",
+      "horse_name": "ローズカリス",
+      "score": -0.0004043896592753199,
+      "horse_number": 6,
+      "odds": 6.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105367",
+      "horse_name": "ゴールデンバランス",
+      "score": -0.11386848748916605,
+      "horse_number": 12,
+      "odds": 3.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100639",
+      "horse_name": "アストラカ",
+      "score": -0.18483999202722565,
+      "horse_number": 9,
+      "odds": 33.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101057",
+      "horse_name": "セールヴォラン",
+      "score": -0.18491878792386368,
+      "horse_number": 10,
+      "odds": 6.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101398",
+      "horse_name": "リクエイ",
+      "score": -0.1989531000704785,
+      "horse_number": 5,
+      "odds": 33.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100226",
+      "horse_name": "ディーエスショウマ",
+      "score": -0.2673869600838817,
+      "horse_number": 3,
+      "odds": 16.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102562",
+      "horse_name": "パルプフィクション",
+      "score": -0.4773990862782497,
+      "horse_number": 2,
+      "odds": 15.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019100871",
+      "horse_name": "ブルーノート",
+      "score": -0.5249274654329158,
+      "horse_number": 11,
+      "odds": 72.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104216",
+      "horse_name": "ペイシャヴァルツー",
+      "score": -0.5456935335729066,
+      "horse_number": 1,
+      "odds": 20.5
+    }
+  ]
+}

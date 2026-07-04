@@ -1,0 +1,120 @@
+{
+  "race_id": "202610020311",
+  "race_name": "博多S",
+  "race_time": "2026-07-04 15:30",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105140",
+      "horse_name": "ネブラディスク",
+      "score": 0.5233146345745111,
+      "horse_number": 3,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101449",
+      "horse_name": "サウンドムーブ",
+      "score": 0.25675167581705444,
+      "horse_number": 4,
+      "odds": 3.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102500",
+      "horse_name": "マトラコーニッシュ",
+      "score": 0.17988971619220356,
+      "horse_number": 14,
+      "odds": 14.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105475",
+      "horse_name": "レディーミコノス",
+      "score": 0.17670815649674435,
+      "horse_number": 11,
+      "odds": 11.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104832",
+      "horse_name": "モアリジット",
+      "score": 0.0540728861502156,
+      "horse_number": 13,
+      "odds": 23.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105459",
+      "horse_name": "ヴィスマール",
+      "score": 0.02560950625873413,
+      "horse_number": 2,
+      "odds": 12.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100403",
+      "horse_name": "ウォーターガーベラ",
+      "score": -0.0361327433883118,
+      "horse_number": 12,
+      "odds": 16.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100976",
+      "horse_name": "ハギノアルデバラン",
+      "score": -0.04435498038120203,
+      "horse_number": 1,
+      "odds": 33.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103168",
+      "horse_name": "トーアライデン",
+      "score": -0.08740932613682616,
+      "horse_number": 7,
+      "odds": 20.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103456",
+      "horse_name": "ナヴォーナ",
+      "score": -0.11589293540644889,
+      "horse_number": 6,
+      "odds": 46.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105746",
+      "horse_name": "アルトゥーム",
+      "score": -0.1307262097564016,
+      "horse_number": 9,
+      "odds": 61.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103407",
+      "horse_name": "スリリングチェイス",
+      "score": -0.2760848756037936,
+      "horse_number": 10,
+      "odds": 52.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101486",
+      "horse_name": "ドットクルー",
+      "score": -0.3193058975667362,
+      "horse_number": 8,
+      "odds": 55.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021102115",
+      "horse_name": "アラタマフェーヴル",
+      "score": -0.3338838090040267,
+      "horse_number": 5,
+      "odds": 11.7
+    }
+  ]
+}

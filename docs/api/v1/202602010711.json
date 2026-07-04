@@ -1,0 +1,136 @@
+{
+  "race_id": "202602010711",
+  "race_name": "TVh杯",
+  "race_time": "2026-07-04 15:20",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102577",
+      "horse_name": "アンジュプロミス",
+      "score": 0.16231108556671484,
+      "horse_number": 7,
+      "odds": 5.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105689",
+      "horse_name": "エヴァンスウィート",
+      "score": 0.013462388829364654,
+      "horse_number": 11,
+      "odds": 13.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105242",
+      "horse_name": "シカゴスティング",
+      "score": 0.010135514462377933,
+      "horse_number": 6,
+      "odds": 8.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101443",
+      "horse_name": "サウスバンク",
+      "score": -0.02738353171718866,
+      "horse_number": 5,
+      "odds": 3.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105203",
+      "horse_name": "マーブルパレス",
+      "score": -0.04151474455227298,
+      "horse_number": 8,
+      "odds": 7.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105202",
+      "horse_name": "ポエットリー",
+      "score": -0.106860474395969,
+      "horse_number": 13,
+      "odds": 13.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103312",
+      "horse_name": "ロードマイライフ",
+      "score": -0.11249574403083777,
+      "horse_number": 15,
+      "odds": 27.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104194",
+      "horse_name": "ルーフ",
+      "score": -0.11351143710958793,
+      "horse_number": 14,
+      "odds": 24.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100143",
+      "horse_name": "メルトユアハート",
+      "score": -0.12384733325447522,
+      "horse_number": 12,
+      "odds": 10.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022110108",
+      "horse_name": "エコロジーク",
+      "score": -0.25651916086406634,
+      "horse_number": 4,
+      "odds": 31.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105039",
+      "horse_name": "ゴールドサーベル",
+      "score": -0.25776478487424204,
+      "horse_number": 16,
+      "odds": 70.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106666",
+      "horse_name": "ドゥアムール",
+      "score": -0.26265053006948963,
+      "horse_number": 1,
+      "odds": 17.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101639",
+      "horse_name": "ハッピーロンドン",
+      "score": -0.29383917696019607,
+      "horse_number": 10,
+      "odds": 52.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022109024",
+      "horse_name": "ウィルオレオール",
+      "score": -0.30288422278702376,
+      "horse_number": 2,
+      "odds": 95.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104616",
+      "horse_name": "パクスロマーナ",
+      "score": -0.37207092222847826,
+      "horse_number": 9,
+      "odds": 15.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2018105996",
+      "horse_name": "サムハンター",
+      "score": -0.5404739295466654,
+      "horse_number": 3,
+      "odds": 35.5
+    }
+  ]
+}
