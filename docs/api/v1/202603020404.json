@@ -1,0 +1,136 @@
+{
+  "race_id": "202603020404",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-05 11:30",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102518",
+      "horse_name": "シェリアドレ",
+      "score": 0.19620909752380422,
+      "horse_number": 15,
+      "odds": 6.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107130",
+      "horse_name": "トレフォイルノット",
+      "score": -0.01136303236340288,
+      "horse_number": 1,
+      "odds": 12.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103226",
+      "horse_name": "エリースノー",
+      "score": -0.18285671892104483,
+      "horse_number": 4,
+      "odds": 9.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105691",
+      "horse_name": "ハクサンミレイ",
+      "score": -0.23129199543125056,
+      "horse_number": 5,
+      "odds": 17.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106605",
+      "horse_name": "フェイスリフト",
+      "score": -0.23864916697461358,
+      "horse_number": 7,
+      "odds": 4.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106138",
+      "horse_name": "2023106138",
+      "score": -0.30877750280678845,
+      "horse_number": 6,
+      "odds": 94.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103728",
+      "horse_name": "ジーティーソレイユ",
+      "score": -0.3855985611410938,
+      "horse_number": 2,
+      "odds": 39.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101707",
+      "horse_name": "フジコンフィデンス",
+      "score": -0.46016454716550437,
+      "horse_number": 11,
+      "odds": 27.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100349",
+      "horse_name": "2023100349",
+      "score": -0.47293600501096866,
+      "horse_number": 3,
+      "odds": 33.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100240",
+      "horse_name": "スピニンググローブ",
+      "score": -0.4869809445270261,
+      "horse_number": 8,
+      "odds": 22.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102674",
+      "horse_name": "コウソクルリアン",
+      "score": -0.5128497880558042,
+      "horse_number": 10,
+      "odds": 3.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105411",
+      "horse_name": "2023105411",
+      "score": -0.5605472818472005,
+      "horse_number": 16,
+      "odds": 34.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100006",
+      "horse_name": "セイウンヤオヨロズ",
+      "score": -0.5628851560431606,
+      "horse_number": 13,
+      "odds": 6.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106610",
+      "horse_name": "イゲマジャ",
+      "score": -0.6552430327524972,
+      "horse_number": 9,
+      "odds": 93.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106585",
+      "horse_name": "ドングラミ",
+      "score": -0.7212483613895885,
+      "horse_number": 12,
+      "odds": 92.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023102320",
+      "horse_name": "ライヴギムレット",
+      "score": -0.7560238565797833,
+      "horse_number": 14,
+      "odds": 90.4
+    }
+  ]
+}

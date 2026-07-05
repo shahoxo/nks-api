@@ -1,0 +1,136 @@
+{
+  "race_id": "202602010804",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-05 11:20",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105116",
+      "horse_name": "ジュディーイメル",
+      "score": 0.1779263266493243,
+      "horse_number": 10,
+      "odds": 3.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105817",
+      "horse_name": "バレンタインビスタ",
+      "score": 0.13050883704018917,
+      "horse_number": 16,
+      "odds": 7.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106420",
+      "horse_name": "コスモファーブロス",
+      "score": 0.10888068720214839,
+      "horse_number": 12,
+      "odds": 5.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105952",
+      "horse_name": "ブルーエ",
+      "score": 0.01925893997775646,
+      "horse_number": 5,
+      "odds": 10.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103535",
+      "horse_name": "プリュスエクラ",
+      "score": -0.11615639746867058,
+      "horse_number": 9,
+      "odds": 16.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103400",
+      "horse_name": "ハルヒメ",
+      "score": -0.19337454713307756,
+      "horse_number": 6,
+      "odds": 8.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105416",
+      "horse_name": "ルージュフローラ",
+      "score": -0.20820607908105632,
+      "horse_number": 13,
+      "odds": 16.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105950",
+      "horse_name": "パトリシア",
+      "score": -0.21388955128626783,
+      "horse_number": 3,
+      "odds": 54.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102456",
+      "horse_name": "ルーチェコメット",
+      "score": -0.3005857295486811,
+      "horse_number": 7,
+      "odds": 16.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100924",
+      "horse_name": "マメーアップル",
+      "score": -0.35541346091328235,
+      "horse_number": 2,
+      "odds": 11.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105803",
+      "horse_name": "ラストシャイニー",
+      "score": -0.37270086290611004,
+      "horse_number": 1,
+      "odds": 44.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104000",
+      "horse_name": "2023104000",
+      "score": -0.42495025040660706,
+      "horse_number": 14,
+      "odds": 58.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100573",
+      "horse_name": "ブライティアロード",
+      "score": -0.46732675188814243,
+      "horse_number": 4,
+      "odds": 100.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101761",
+      "horse_name": "2023101761",
+      "score": -0.5605472818472005,
+      "horse_number": 11,
+      "odds": 70.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103430",
+      "horse_name": "ヘリオドール",
+      "score": -0.5711745149872408,
+      "horse_number": 8,
+      "odds": 98.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023101227",
+      "horse_name": "チャーミングアイ",
+      "score": -0.5741361404475822,
+      "horse_number": 15,
+      "odds": 18.3
+    }
+  ]
+}
