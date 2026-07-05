@@ -1,0 +1,128 @@
+{
+  "race_id": "202603020411",
+  "race_name": "ジュライS",
+  "race_time": "2026-07-05 15:30",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105360",
+      "horse_name": "ロジアデレード",
+      "score": 0.30244360755692645,
+      "horse_number": 9,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104159",
+      "horse_name": "サクラトップリアル",
+      "score": 0.24719722518600826,
+      "horse_number": 3,
+      "odds": 63.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100561",
+      "horse_name": "ハビレ",
+      "score": 0.2125260732214403,
+      "horse_number": 15,
+      "odds": 15.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020105144",
+      "horse_name": "ニシキギミッチー",
+      "score": 0.13620580848704533,
+      "horse_number": 6,
+      "odds": 21.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100394",
+      "horse_name": "メリークリスマス",
+      "score": 0.0808624534288239,
+      "horse_number": 1,
+      "odds": 4.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018105431",
+      "horse_name": "ミッキーヌチバナ",
+      "score": 0.019569763590035705,
+      "horse_number": 8,
+      "odds": 9.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104873",
+      "horse_name": "ポッドロゴ",
+      "score": 0.0034021974420670557,
+      "horse_number": 5,
+      "odds": 8.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019100286",
+      "horse_name": "カンピオーネ",
+      "score": -0.01614047567594639,
+      "horse_number": 2,
+      "odds": 22.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105425",
+      "horse_name": "ベルウェザー",
+      "score": -0.08168024225137803,
+      "horse_number": 4,
+      "odds": 16.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101694",
+      "horse_name": "シゲルショウグン",
+      "score": -0.09562190247673893,
+      "horse_number": 12,
+      "odds": 6.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106658",
+      "horse_name": "ストレングス",
+      "score": -0.17287524219424902,
+      "horse_number": 7,
+      "odds": 14.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105058",
+      "horse_name": "ルージュアベリア",
+      "score": -0.18792684685062352,
+      "horse_number": 10,
+      "odds": 30.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101024",
+      "horse_name": "ピースオブザライフ",
+      "score": -0.1955932094842945,
+      "horse_number": 14,
+      "odds": 56.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020106370",
+      "horse_name": "サンマルパトロール",
+      "score": -0.20506026463167606,
+      "horse_number": 13,
+      "odds": 119.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020103148",
+      "horse_name": "ショウナンライシン",
+      "score": -0.25435140138848406,
+      "horse_number": 11,
+      "odds": 25.4
+    }
+  ]
+}

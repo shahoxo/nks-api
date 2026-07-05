@@ -1,0 +1,136 @@
+{
+  "race_id": "202610020410",
+  "race_name": "九スポ杯",
+  "race_time": "2026-07-05 15:10",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104674",
+      "horse_name": "フィドルファドル",
+      "score": 0.08260531201068493,
+      "horse_number": 7,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020106393",
+      "horse_name": "ノボリクレバー",
+      "score": 0.06714876380630003,
+      "horse_number": 5,
+      "odds": 18.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100622",
+      "horse_name": "マジックローズ",
+      "score": 0.06471817937007641,
+      "horse_number": 9,
+      "odds": 3.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103619",
+      "horse_name": "タマモジャスミン",
+      "score": -0.008968527578251725,
+      "horse_number": 4,
+      "odds": 11.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105772",
+      "horse_name": "カロローザ",
+      "score": -0.009349540745092259,
+      "horse_number": 16,
+      "odds": 10.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103047",
+      "horse_name": "ホウショウマリス",
+      "score": -0.05353128539342417,
+      "horse_number": 2,
+      "odds": 5.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103515",
+      "horse_name": "ユウェンタース",
+      "score": -0.1437353425753469,
+      "horse_number": 3,
+      "odds": 25.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106642",
+      "horse_name": "ファミリーツリー",
+      "score": -0.1818897641245421,
+      "horse_number": 11,
+      "odds": 52.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104791",
+      "horse_name": "プウスカンドゥール",
+      "score": -0.18849988730876832,
+      "horse_number": 1,
+      "odds": 34.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106177",
+      "horse_name": "タマモナポリ",
+      "score": -0.1908441535016118,
+      "horse_number": 14,
+      "odds": 35.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105973",
+      "horse_name": "ワイノナオミ",
+      "score": -0.20227442628245293,
+      "horse_number": 13,
+      "odds": 19.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020106101",
+      "horse_name": "シュヴァルツリーベ",
+      "score": -0.22134290079149094,
+      "horse_number": 12,
+      "odds": 44.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105031",
+      "horse_name": "ジャルディニエ",
+      "score": -0.2480430649113958,
+      "horse_number": 8,
+      "odds": 19.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021103209",
+      "horse_name": "メイショウリリー",
+      "score": -0.39321195833866324,
+      "horse_number": 6,
+      "odds": 9.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021104857",
+      "horse_name": "フローラルセント",
+      "score": -0.43573659203335213,
+      "horse_number": 15,
+      "odds": 91.8
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103448",
+      "horse_name": "ツーピース",
+      "score": -0.5488628517920603,
+      "horse_number": 10,
+      "odds": 75.5
+    }
+  ]
+}

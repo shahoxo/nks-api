@@ -1,0 +1,96 @@
+{
+  "race_id": "202602010811",
+  "race_name": "大沼S",
+  "race_time": "2026-07-05 15:20",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104877",
+      "horse_name": "カナルビーグル",
+      "score": 0.3390307855291736,
+      "horse_number": 9,
+      "odds": 10.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105028",
+      "horse_name": "プロミストジーン",
+      "score": 0.24499343368684445,
+      "horse_number": 4,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103306",
+      "horse_name": "コトホドサヨウニ",
+      "score": 0.18349734719707889,
+      "horse_number": 10,
+      "odds": 5.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103717",
+      "horse_name": "レヴォントゥレット",
+      "score": 0.1685239378386295,
+      "horse_number": 6,
+      "odds": 16.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104824",
+      "horse_name": "アスクデビューモア",
+      "score": 0.13540610810359852,
+      "horse_number": 8,
+      "odds": 31.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102009",
+      "horse_name": "ラタフォレスト",
+      "score": 0.12186337351420208,
+      "horse_number": 2,
+      "odds": 5.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103614",
+      "horse_name": "ヒルノハンブルク",
+      "score": 0.07253017178719245,
+      "horse_number": 7,
+      "odds": 3.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104416",
+      "horse_name": "ワイドブリザード",
+      "score": 0.06913456455416062,
+      "horse_number": 11,
+      "odds": 8.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2018100664",
+      "horse_name": "ホールシバン",
+      "score": 0.061933319064923324,
+      "horse_number": 5,
+      "odds": 60.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106873",
+      "horse_name": "オウギノカナメ",
+      "score": -0.10910085616446877,
+      "horse_number": 1,
+      "odds": 21.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019101324",
+      "horse_name": "テーオードレフォン",
+      "score": -0.2780799313258385,
+      "horse_number": 3,
+      "odds": 28.3
+    }
+  ]
+}

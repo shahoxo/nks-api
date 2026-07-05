@@ -1,0 +1,112 @@
+{
+  "race_id": "202610020411",
+  "race_name": "北九州記念",
+  "race_time": "2026-07-05 15:45",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107264",
+      "horse_name": "デアヴェローチェ",
+      "score": 0.46678101862380983,
+      "horse_number": 7,
+      "odds": 4.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021107063",
+      "horse_name": "イツモニコニコ",
+      "score": 0.28610689102582404,
+      "horse_number": 13,
+      "odds": 31.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101598",
+      "horse_name": "アンクルクロス",
+      "score": 0.22961216594823405,
+      "horse_number": 4,
+      "odds": 7.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101623",
+      "horse_name": "アブキールベイ",
+      "score": 0.208118984795996,
+      "horse_number": 5,
+      "odds": 15.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102020",
+      "horse_name": "フリッカージャブ",
+      "score": 0.1549677470067563,
+      "horse_number": 12,
+      "odds": 3.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2018106055",
+      "horse_name": "ヨシノイースター",
+      "score": 0.09345287229560865,
+      "horse_number": 9,
+      "odds": 8.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102057",
+      "horse_name": "サウンドモリアーナ",
+      "score": 0.05933188795199509,
+      "horse_number": 10,
+      "odds": 15.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106601",
+      "horse_name": "ヤマニンアルリフラ",
+      "score": 0.022345321187639454,
+      "horse_number": 11,
+      "odds": 11.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104957",
+      "horse_name": "アメリカンビキニ",
+      "score": -0.02763850741728216,
+      "horse_number": 8,
+      "odds": 12.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105291",
+      "horse_name": "ランフォーヴァウ",
+      "score": -0.06527804944555253,
+      "horse_number": 1,
+      "odds": 19.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103932",
+      "horse_name": "ジェニファー",
+      "score": -0.07898503623141798,
+      "horse_number": 2,
+      "odds": 16.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103325",
+      "horse_name": "プロトポロス",
+      "score": -0.33746280678823876,
+      "horse_number": 3,
+      "odds": 60.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105658",
+      "horse_name": "オタルエバー",
+      "score": -0.370939090502582,
+      "horse_number": 6,
+      "odds": 24.8
+    }
+  ]
+}
