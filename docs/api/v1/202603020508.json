@@ -1,0 +1,136 @@
+{
+  "race_id": "202603020508",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-07-11 14:00",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103802",
+      "horse_name": "ブーケドリス",
+      "score": 0.21373009985931646,
+      "horse_number": 11,
+      "odds": 7.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105263",
+      "horse_name": "アイムインディ",
+      "score": 0.16260715552922053,
+      "horse_number": 16,
+      "odds": 3.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103751",
+      "horse_name": "グラティアム",
+      "score": 0.06651780527858117,
+      "horse_number": 9,
+      "odds": 5.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104609",
+      "horse_name": "フラッシュポイント",
+      "score": 0.023592872261325566,
+      "horse_number": 7,
+      "odds": 24.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103006",
+      "horse_name": "マサノピンクレディ",
+      "score": -0.029763675954538826,
+      "horse_number": 15,
+      "odds": 12.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102007",
+      "horse_name": "ゼファーテソーロ",
+      "score": -0.03382908722429034,
+      "horse_number": 1,
+      "odds": 9.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105138",
+      "horse_name": "ダノンリュラ",
+      "score": -0.11439626061097323,
+      "horse_number": 5,
+      "odds": 69.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104658",
+      "horse_name": "ライヴレッドアイ",
+      "score": -0.13020045718008955,
+      "horse_number": 12,
+      "odds": 5.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106845",
+      "horse_name": "ラエトゥス",
+      "score": -0.27050569627766946,
+      "horse_number": 6,
+      "odds": 106.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021106724",
+      "horse_name": "チェルシー",
+      "score": -0.3294297000619117,
+      "horse_number": 3,
+      "odds": 18.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106312",
+      "horse_name": "ジェイエルキャリア",
+      "score": -0.4305286942672115,
+      "horse_number": 14,
+      "odds": 10.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106099",
+      "horse_name": "ハルノアラシ",
+      "score": -0.5023416873034097,
+      "horse_number": 2,
+      "odds": 32.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106767",
+      "horse_name": "ミッシオーネ",
+      "score": -0.5160291669347129,
+      "horse_number": 10,
+      "odds": 47.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101908",
+      "horse_name": "イズルード",
+      "score": -0.5731136268640539,
+      "horse_number": 4,
+      "odds": 51.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101677",
+      "horse_name": "エーティータキオン",
+      "score": -0.6746403448295699,
+      "horse_number": 13,
+      "odds": 147.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019102950",
+      "horse_name": "アイファーリーベン",
+      "score": -0.7212483613895885,
+      "horse_number": 8,
+      "odds": 120.8
+    }
+  ]
+}

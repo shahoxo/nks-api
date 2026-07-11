@@ -1,0 +1,96 @@
+{
+  "race_id": "202610020508",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-07-11 13:50",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104858",
+      "horse_name": "エイコーンドリーム",
+      "score": 0.1440675570378921,
+      "horse_number": 5,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107211",
+      "horse_name": "ジョアン",
+      "score": 0.07081864715468082,
+      "horse_number": 3,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103723",
+      "horse_name": "アンリーベイビー",
+      "score": -0.0636572101818097,
+      "horse_number": 8,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103776",
+      "horse_name": "ベルメサイア",
+      "score": -0.11152790590408165,
+      "horse_number": 9,
+      "odds": 21.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104352",
+      "horse_name": "マヴィ",
+      "score": -0.19475938747915467,
+      "horse_number": 10,
+      "odds": 9.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102994",
+      "horse_name": "オブシディアーナ",
+      "score": -0.2028096960705618,
+      "horse_number": 1,
+      "odds": 7.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103169",
+      "horse_name": "2023103169",
+      "score": -0.24156907205121259,
+      "horse_number": 11,
+      "odds": 6.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106185",
+      "horse_name": "ラグナトーレ",
+      "score": -0.29238435814963404,
+      "horse_number": 7,
+      "odds": 19.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107477",
+      "horse_name": "オヤツノジカン",
+      "score": -0.38995619896668,
+      "horse_number": 4,
+      "odds": 5.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105023",
+      "horse_name": "フェミナンジェンヌ",
+      "score": -0.6185859102063048,
+      "horse_number": 2,
+      "odds": 82.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104553",
+      "horse_name": "オーケーエンジェル",
+      "score": -0.6441819808630115,
+      "horse_number": 6,
+      "odds": 59.5
+    }
+  ]
+}

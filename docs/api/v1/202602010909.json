@@ -1,0 +1,88 @@
+{
+  "race_id": "202602010909",
+  "race_name": "北斗特別",
+  "race_time": "2026-07-11 14:10",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102091",
+      "horse_name": "クリスレジーナ",
+      "score": 0.1921679035521029,
+      "horse_number": 1,
+      "odds": 2.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106866",
+      "horse_name": "サイン",
+      "score": 0.1756894984992591,
+      "horse_number": 6,
+      "odds": 3.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103520",
+      "horse_name": "デルシエロ",
+      "score": -0.02966487870094712,
+      "horse_number": 8,
+      "odds": 11.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105525",
+      "horse_name": "モルビド",
+      "score": -0.1605631376844455,
+      "horse_number": 7,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105993",
+      "horse_name": "2023105993",
+      "score": -0.1675813962524775,
+      "horse_number": 9,
+      "odds": 10.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104724",
+      "horse_name": "ハルフロンティア",
+      "score": -0.17019396723817215,
+      "horse_number": 4,
+      "odds": 13.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104598",
+      "horse_name": "ドルチェリターン",
+      "score": -0.227087905671524,
+      "horse_number": 10,
+      "odds": 7.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103222",
+      "horse_name": "エオアリイ",
+      "score": -0.4278620288367785,
+      "horse_number": 3,
+      "odds": 39.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103986",
+      "horse_name": "メイショウソラリス",
+      "score": -0.5012623466850352,
+      "horse_number": 5,
+      "odds": 17.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019100907",
+      "horse_name": "ゼアズノープレイス",
+      "score": -0.5645449839303281,
+      "horse_number": 2,
+      "odds": 70.4
+    }
+  ]
+}

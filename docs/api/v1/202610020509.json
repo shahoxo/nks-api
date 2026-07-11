@@ -1,0 +1,96 @@
+{
+  "race_id": "202610020509",
+  "race_name": "英彦山特別",
+  "race_time": "2026-07-11 14:20",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107041",
+      "horse_name": "ダノンテムズ",
+      "score": 0.453635360795809,
+      "horse_number": 9,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104315",
+      "horse_name": "タガノアルトゥーラ",
+      "score": 0.2478719078984568,
+      "horse_number": 11,
+      "odds": 4.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020105189",
+      "horse_name": "ウインリュクス",
+      "score": 0.13522700678454722,
+      "horse_number": 3,
+      "odds": 5.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104723",
+      "horse_name": "カレンラップスター",
+      "score": 0.10002643187208292,
+      "horse_number": 4,
+      "odds": 20.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105354",
+      "horse_name": "バリオス",
+      "score": 0.07598943107144303,
+      "horse_number": 5,
+      "odds": 8.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105290",
+      "horse_name": "レッドヴァリアート",
+      "score": 0.0665042015178889,
+      "horse_number": 10,
+      "odds": 4.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104899",
+      "horse_name": "ジュンライデン",
+      "score": 0.009780252759801194,
+      "horse_number": 6,
+      "odds": 17.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104389",
+      "horse_name": "フリーガー",
+      "score": -0.048817308944193505,
+      "horse_number": 7,
+      "odds": 14.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105687",
+      "horse_name": "ダノンアンチュラス",
+      "score": -0.21706674209574525,
+      "horse_number": 1,
+      "odds": 28.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105529",
+      "horse_name": "ミッドタウンナイト",
+      "score": -0.389236252251249,
+      "horse_number": 8,
+      "odds": 48.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100695",
+      "horse_name": "ヴェストラン",
+      "score": -0.6134644907562206,
+      "horse_number": 2,
+      "odds": 72.0
+    }
+  ]
+}
