@@ -1,0 +1,136 @@
+{
+  "race_id": "202602010903",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-11 10:50",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107103",
+      "horse_name": "ダノンルミエール",
+      "score": 0.3413336399159548,
+      "horse_number": 9,
+      "odds": 19.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106862",
+      "horse_name": "ハッピーローヴァー",
+      "score": 0.29094676798802466,
+      "horse_number": 2,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103178",
+      "horse_name": "テンユウ",
+      "score": 0.27035074105059964,
+      "horse_number": 1,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105795",
+      "horse_name": "クリオロゴールド",
+      "score": 0.23010744598694938,
+      "horse_number": 10,
+      "odds": 5.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102363",
+      "horse_name": "ウインドトリック",
+      "score": 0.13397212271942632,
+      "horse_number": 14,
+      "odds": 71.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105125",
+      "horse_name": "アルサック",
+      "score": 0.06929076611091432,
+      "horse_number": 6,
+      "odds": 6.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102443",
+      "horse_name": "アゲンストオッズ",
+      "score": -0.08772801341420103,
+      "horse_number": 8,
+      "odds": 6.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105416",
+      "horse_name": "ルージュフローラ",
+      "score": -0.2199094191288758,
+      "horse_number": 15,
+      "odds": 11.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107052",
+      "horse_name": "ナオミニオールイン",
+      "score": -0.2241181187141114,
+      "horse_number": 16,
+      "odds": 30.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103454",
+      "horse_name": "テイクマイハート",
+      "score": -0.2631774650298579,
+      "horse_number": 7,
+      "odds": 23.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100215",
+      "horse_name": "スピットブレイク",
+      "score": -0.37816126053819815,
+      "horse_number": 3,
+      "odds": 24.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104606",
+      "horse_name": "トゥントゥントゥン",
+      "score": -0.3885932676861131,
+      "horse_number": 12,
+      "odds": 92.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102176",
+      "horse_name": "スノーガーネット",
+      "score": -0.4608219296774346,
+      "horse_number": 5,
+      "odds": 30.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106105",
+      "horse_name": "ユナダイヤ",
+      "score": -0.5783892237022068,
+      "horse_number": 11,
+      "odds": 100.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101627",
+      "horse_name": "ブルーハーツ",
+      "score": -0.5862103065335288,
+      "horse_number": 13,
+      "odds": 91.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100963",
+      "horse_name": "ロンドンプライド",
+      "score": -0.5926985816549145,
+      "horse_number": 4,
+      "odds": 26.8
+    }
+  ]
+}

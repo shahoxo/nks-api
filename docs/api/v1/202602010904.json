@@ -1,0 +1,120 @@
+{
+  "race_id": "202602010904",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-11 11:20",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105876",
+      "horse_name": "ウインアプローチ",
+      "score": 0.21974008938373812,
+      "horse_number": 14,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106411",
+      "horse_name": "マンサニージャ",
+      "score": 0.1487217261114276,
+      "horse_number": 12,
+      "odds": 5.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102923",
+      "horse_name": "インフィオラータ",
+      "score": 0.1407864822477089,
+      "horse_number": 2,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103155",
+      "horse_name": "エグジスタンス",
+      "score": -0.09567734612730319,
+      "horse_number": 4,
+      "odds": 8.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102386",
+      "horse_name": "ミリオングローリー",
+      "score": -0.1341169300735014,
+      "horse_number": 1,
+      "odds": 14.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100718",
+      "horse_name": "メメボス",
+      "score": -0.16926456268724513,
+      "horse_number": 8,
+      "odds": 36.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106478",
+      "horse_name": "ヘクセンハウス",
+      "score": -0.2118114996763941,
+      "horse_number": 3,
+      "odds": 9.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104491",
+      "horse_name": "コスモクラシック",
+      "score": -0.3314547692551948,
+      "horse_number": 11,
+      "odds": 18.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102166",
+      "horse_name": "ケナゲ",
+      "score": -0.3582521118045868,
+      "horse_number": 5,
+      "odds": 9.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106863",
+      "horse_name": "アーデルブリックス",
+      "score": -0.37652590984237005,
+      "horse_number": 10,
+      "odds": 7.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103175",
+      "horse_name": "セイントクーヤ",
+      "score": -0.3831423648586515,
+      "horse_number": 13,
+      "odds": 42.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104005",
+      "horse_name": "カネトシパンドラ",
+      "score": -0.4155852179422419,
+      "horse_number": 6,
+      "odds": 99.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100683",
+      "horse_name": "2023100683",
+      "score": -0.4550951440600517,
+      "horse_number": 9,
+      "odds": 128.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105144",
+      "horse_name": "アスコットダンス",
+      "score": -0.5365059898100324,
+      "horse_number": 7,
+      "odds": 27.1
+    }
+  ]
+}
