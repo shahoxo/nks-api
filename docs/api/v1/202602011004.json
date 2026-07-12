@@ -1,0 +1,136 @@
+{
+  "race_id": "202602011004",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-12 11:20",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103901",
+      "horse_name": "ヴィラジョヴィス",
+      "score": 0.15055519446860016,
+      "horse_number": 13,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103655",
+      "horse_name": "ダディーズソード",
+      "score": 0.13775272111900466,
+      "horse_number": 14,
+      "odds": 10.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103548",
+      "horse_name": "ダイナソーコー",
+      "score": -0.03898017733838012,
+      "horse_number": 2,
+      "odds": 29.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103579",
+      "horse_name": "アグアフレスカ",
+      "score": -0.1057070087314974,
+      "horse_number": 11,
+      "odds": 17.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105302",
+      "horse_name": "2023105302",
+      "score": -0.14431501589841778,
+      "horse_number": 3,
+      "odds": 7.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100771",
+      "horse_name": "マジックファイヤー",
+      "score": -0.2680281756520071,
+      "horse_number": 6,
+      "odds": 10.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106077",
+      "horse_name": "タケルフォーカス",
+      "score": -0.27394948572852423,
+      "horse_number": 4,
+      "odds": 7.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102410",
+      "horse_name": "ブリックアブラック",
+      "score": -0.4051031135130385,
+      "horse_number": 7,
+      "odds": 38.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101812",
+      "horse_name": "デイズインザサン",
+      "score": -0.42642282105403684,
+      "horse_number": 12,
+      "odds": 60.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104002",
+      "horse_name": "ハルノアメ",
+      "score": -0.43143784717526523,
+      "horse_number": 15,
+      "odds": 7.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105874",
+      "horse_name": "ウインブリザード",
+      "score": -0.45677142181024244,
+      "horse_number": 5,
+      "odds": 10.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103433",
+      "horse_name": "レフィノス",
+      "score": -0.49592424765726495,
+      "horse_number": 9,
+      "odds": 93.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023107271",
+      "horse_name": "レジーナレガリア",
+      "score": -0.49950463317894667,
+      "horse_number": 8,
+      "odds": 17.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103493",
+      "horse_name": "モヴシエラ",
+      "score": -0.5191121353371069,
+      "horse_number": 10,
+      "odds": 27.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104932",
+      "horse_name": "テンバコウクウ",
+      "score": -0.5292373563057973,
+      "horse_number": 16,
+      "odds": 35.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023103767",
+      "horse_name": "ミカレオス",
+      "score": -0.6811316627019912,
+      "horse_number": 1,
+      "odds": 60.7
+    }
+  ]
+}

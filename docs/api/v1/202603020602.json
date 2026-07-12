@@ -1,0 +1,128 @@
+{
+  "race_id": "202603020602",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-12 10:40",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104401",
+      "horse_name": "レアリゼソンレーヴ",
+      "score": 0.10909490210988676,
+      "horse_number": 13,
+      "odds": 20.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106956",
+      "horse_name": "2023106956",
+      "score": 0.0049753798198368115,
+      "horse_number": 14,
+      "odds": 7.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102967",
+      "horse_name": "クリムゾンリーフ",
+      "score": -0.020016541705774105,
+      "horse_number": 15,
+      "odds": 1.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102418",
+      "horse_name": "ヒロイックヴァース",
+      "score": -0.030508975705988726,
+      "horse_number": 2,
+      "odds": 6.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106860",
+      "horse_name": "アーティキュレート",
+      "score": -0.14376370948268885,
+      "horse_number": 6,
+      "odds": 9.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101443",
+      "horse_name": "フィーユレアル",
+      "score": -0.2319725126438681,
+      "horse_number": 1,
+      "odds": 27.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100377",
+      "horse_name": "ゴットタレント",
+      "score": -0.2894251434405215,
+      "horse_number": 3,
+      "odds": 13.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106770",
+      "horse_name": "2023106770",
+      "score": -0.32866184575368185,
+      "horse_number": 12,
+      "odds": 26.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106377",
+      "horse_name": "2023106377",
+      "score": -0.34749937031552847,
+      "horse_number": 11,
+      "odds": 20.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100470",
+      "horse_name": "2023100470",
+      "score": -0.47293600501096866,
+      "horse_number": 10,
+      "odds": 97.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106272",
+      "horse_name": "ニシノトマラナイ",
+      "score": -0.5017280381064293,
+      "horse_number": 7,
+      "odds": 19.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102042",
+      "horse_name": "2023102042",
+      "score": -0.5427064208962835,
+      "horse_number": 9,
+      "odds": 89.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106025",
+      "horse_name": "レヴェンドール",
+      "score": -0.5844092227108343,
+      "horse_number": 8,
+      "odds": 97.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104273",
+      "horse_name": "トランセンコ",
+      "score": -0.630370253879574,
+      "horse_number": 4,
+      "odds": 54.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106352",
+      "horse_name": "2023106352",
+      "score": -0.6887521558175991,
+      "horse_number": 5,
+      "odds": 55.9
+    }
+  ]
+}

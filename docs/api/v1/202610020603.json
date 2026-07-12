@@ -1,0 +1,128 @@
+{
+  "race_id": "202610020603",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-12 11:00",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105017",
+      "horse_name": "チェファルー",
+      "score": 0.24760022461523376,
+      "horse_number": 5,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101640",
+      "horse_name": "ワンダーシャッフル",
+      "score": 0.20217566919529273,
+      "horse_number": 13,
+      "odds": 29.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105829",
+      "horse_name": "2023105829",
+      "score": 0.0891688254612242,
+      "horse_number": 14,
+      "odds": 20.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103758",
+      "horse_name": "ヴィスメンティス",
+      "score": 0.06261208876653562,
+      "horse_number": 15,
+      "odds": 10.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102013",
+      "horse_name": "2023102013",
+      "score": -0.02832353319848547,
+      "horse_number": 3,
+      "odds": 8.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107236",
+      "horse_name": "2023107236",
+      "score": -0.07419724977096533,
+      "horse_number": 2,
+      "odds": 3.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102765",
+      "horse_name": "ルクスユアン",
+      "score": -0.2991886837490787,
+      "horse_number": 12,
+      "odds": 52.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103243",
+      "horse_name": "グレイイメル",
+      "score": -0.31915382955622085,
+      "horse_number": 1,
+      "odds": 18.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106218",
+      "horse_name": "ブルーザー",
+      "score": -0.322043234088243,
+      "horse_number": 7,
+      "odds": 8.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101893",
+      "horse_name": "スーパービジー",
+      "score": -0.3468604501906223,
+      "horse_number": 4,
+      "odds": 39.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104289",
+      "horse_name": "キービート",
+      "score": -0.4309071030918006,
+      "horse_number": 6,
+      "odds": 51.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106998",
+      "horse_name": "2023106998",
+      "score": -0.4348466341397712,
+      "horse_number": 11,
+      "odds": 40.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105211",
+      "horse_name": "アージュドール",
+      "score": -0.47796723773535665,
+      "horse_number": 9,
+      "odds": 19.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105865",
+      "horse_name": "ウインビスタ",
+      "score": -0.49679583261056814,
+      "horse_number": 10,
+      "odds": 76.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106139",
+      "horse_name": "レヴロード",
+      "score": -0.6560407786597128,
+      "horse_number": 8,
+      "odds": 166.0
+    }
+  ]
+}

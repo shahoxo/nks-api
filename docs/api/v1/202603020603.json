@@ -1,0 +1,136 @@
+{
+  "race_id": "202603020603",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-12 11:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106744",
+      "horse_name": "ヴァルカンテソーロ",
+      "score": 0.17596649539624054,
+      "horse_number": 9,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105449",
+      "horse_name": "ミナヅキ",
+      "score": 0.0454956726886906,
+      "horse_number": 6,
+      "odds": 7.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103781",
+      "horse_name": "2023103781",
+      "score": -0.12799117693113954,
+      "horse_number": 12,
+      "odds": 38.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102373",
+      "horse_name": "2023102373",
+      "score": -0.12799117693113954,
+      "horse_number": 10,
+      "odds": 47.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106812",
+      "horse_name": "オーブレーヌ",
+      "score": -0.1563222784472927,
+      "horse_number": 7,
+      "odds": 12.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100932",
+      "horse_name": "2023100932",
+      "score": -0.24156907205121259,
+      "horse_number": 14,
+      "odds": 59.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104359",
+      "horse_name": "2023104359",
+      "score": -0.2494402709728192,
+      "horse_number": 4,
+      "odds": 18.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106146",
+      "horse_name": "エコロゼット",
+      "score": -0.284863536865498,
+      "horse_number": 2,
+      "odds": 18.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107104",
+      "horse_name": "ギリーカラム",
+      "score": -0.31110132821828307,
+      "horse_number": 11,
+      "odds": 14.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105879",
+      "horse_name": "ウインベルチェーロ",
+      "score": -0.36543137301241135,
+      "horse_number": 3,
+      "odds": 35.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105408",
+      "horse_name": "2023105408",
+      "score": -0.3675421481333274,
+      "horse_number": 8,
+      "odds": 111.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104580",
+      "horse_name": "チャンピオンホープ",
+      "score": -0.42248939041279143,
+      "horse_number": 15,
+      "odds": 13.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102527",
+      "horse_name": "ウッケン",
+      "score": -0.4625013433888142,
+      "horse_number": 1,
+      "odds": 32.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105892",
+      "horse_name": "ブライスフェアリー",
+      "score": -0.5002128127446243,
+      "horse_number": 13,
+      "odds": 30.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100651",
+      "horse_name": "ヴォンサクレ",
+      "score": -0.524475735717119,
+      "horse_number": 16,
+      "odds": 46.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023107188",
+      "horse_name": "シュタットパーク",
+      "score": -0.6341015123342233,
+      "horse_number": 5,
+      "odds": 71.7
+    }
+  ]
+}

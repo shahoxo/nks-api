@@ -1,0 +1,120 @@
+{
+  "race_id": "202602011003",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-12 10:50",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106691",
+      "horse_name": "サクセスゴールド",
+      "score": 0.15787080569353337,
+      "horse_number": 2,
+      "odds": 16.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101117",
+      "horse_name": "2023101117",
+      "score": 0.07597784092356286,
+      "horse_number": 12,
+      "odds": 1.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102520",
+      "horse_name": "ハイテイラオユエ",
+      "score": 0.004494457540680362,
+      "horse_number": 8,
+      "odds": 12.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107035",
+      "horse_name": "エクラドット",
+      "score": -0.005209798091704955,
+      "horse_number": 9,
+      "odds": 12.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102396",
+      "horse_name": "ホウオウロレンシア",
+      "score": -0.07433167601319257,
+      "horse_number": 10,
+      "odds": 7.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100471",
+      "horse_name": "2023100471",
+      "score": -0.09753810793898043,
+      "horse_number": 14,
+      "odds": 24.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107147",
+      "horse_name": "コサージュ",
+      "score": -0.1430052088541679,
+      "horse_number": 11,
+      "odds": 39.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104194",
+      "horse_name": "2023104194",
+      "score": -0.2544944113979709,
+      "horse_number": 3,
+      "odds": 27.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107306",
+      "horse_name": "セラサイト",
+      "score": -0.28318920234564493,
+      "horse_number": 5,
+      "odds": 13.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102458",
+      "horse_name": "2023102458",
+      "score": -0.3675421481333274,
+      "horse_number": 1,
+      "odds": 67.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104941",
+      "horse_name": "ジャストアダッシュ",
+      "score": -0.3890554589642725,
+      "horse_number": 4,
+      "odds": 21.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106531",
+      "horse_name": "2023106531",
+      "score": -0.4373125640186424,
+      "horse_number": 6,
+      "odds": 67.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104581",
+      "horse_name": "2023104581",
+      "score": -0.47293600501096866,
+      "horse_number": 13,
+      "odds": 54.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103280",
+      "horse_name": "ロスニーニョス",
+      "score": -0.6518943205472477,
+      "horse_number": 7,
+      "odds": 54.6
+    }
+  ]
+}
