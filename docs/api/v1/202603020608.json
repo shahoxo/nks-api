@@ -1,0 +1,104 @@
+{
+  "race_id": "202603020608",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-07-12 14:00",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106190",
+      "horse_name": "デンプシー",
+      "score": 0.18270505292664185,
+      "horse_number": 12,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021100958",
+      "horse_name": "ビッグフラワー",
+      "score": 0.16324405501206005,
+      "horse_number": 7,
+      "odds": 13.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102633",
+      "horse_name": "アイアンパイク",
+      "score": 0.1495477661308743,
+      "horse_number": 6,
+      "odds": 5.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106818",
+      "horse_name": "マイネルステラート",
+      "score": 0.043903769550780604,
+      "horse_number": 10,
+      "odds": 9.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100954",
+      "horse_name": "テルケンレンスキー",
+      "score": 0.008749283141134295,
+      "horse_number": 5,
+      "odds": 30.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100831",
+      "horse_name": "ミスターマーボー",
+      "score": 0.005562515563350279,
+      "horse_number": 8,
+      "odds": 5.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103499",
+      "horse_name": "ザバルガド",
+      "score": -0.09887870768581261,
+      "horse_number": 11,
+      "odds": 11.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100084",
+      "horse_name": "レッドカメリア",
+      "score": -0.12537039605800762,
+      "horse_number": 2,
+      "odds": 35.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102897",
+      "horse_name": "プリティーミズホ",
+      "score": -0.1290289378000583,
+      "horse_number": 1,
+      "odds": 12.2
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102696",
+      "horse_name": "ラブリーガール",
+      "score": -0.18296955201109227,
+      "horse_number": 3,
+      "odds": 9.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101108",
+      "horse_name": "ホウオウショコラ",
+      "score": -0.4637706092951369,
+      "horse_number": 9,
+      "odds": 22.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103332",
+      "horse_name": "アイスブレイカー",
+      "score": -0.5549351335346282,
+      "horse_number": 4,
+      "odds": 53.2
+    }
+  ]
+}

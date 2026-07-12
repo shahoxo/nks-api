@@ -1,0 +1,120 @@
+{
+  "race_id": "202602011009",
+  "race_name": "北海ハンデ",
+  "race_time": "2026-07-12 14:10",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103227",
+      "horse_name": "ジャズ",
+      "score": 0.22719372858485976,
+      "horse_number": 2,
+      "odds": 16.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020100177",
+      "horse_name": "ロードマンハイム",
+      "score": 0.07811162553580774,
+      "horse_number": 6,
+      "odds": 37.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101411",
+      "horse_name": "サタデーサンライズ",
+      "score": 0.06732479556407871,
+      "horse_number": 8,
+      "odds": 7.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100625",
+      "horse_name": "ラブリーリディア",
+      "score": 0.05444020764390388,
+      "horse_number": 14,
+      "odds": 26.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104748",
+      "horse_name": "ウィルサヴァイブ",
+      "score": 0.003396893606166332,
+      "horse_number": 4,
+      "odds": 18.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100627",
+      "horse_name": "テルヒコウ",
+      "score": -0.0053696949198448335,
+      "horse_number": 5,
+      "odds": 1.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106718",
+      "horse_name": "コッツォリーノ",
+      "score": -0.03518130886004837,
+      "horse_number": 10,
+      "odds": 5.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100165",
+      "horse_name": "フォルテフィオーレ",
+      "score": -0.049153732844577,
+      "horse_number": 12,
+      "odds": 18.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103310",
+      "horse_name": "レイヤードレッド",
+      "score": -0.07760496088259078,
+      "horse_number": 11,
+      "odds": 70.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105018",
+      "horse_name": "バルティカ",
+      "score": -0.10900267263651779,
+      "horse_number": 3,
+      "odds": 28.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106813",
+      "horse_name": "マイネルフーガ",
+      "score": -0.1544352709740621,
+      "horse_number": 1,
+      "odds": 17.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103790",
+      "horse_name": "フナデ",
+      "score": -0.16718375811597463,
+      "horse_number": 13,
+      "odds": 78.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102803",
+      "horse_name": "エリム",
+      "score": -0.27252435241548806,
+      "horse_number": 7,
+      "odds": 112.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105321",
+      "horse_name": "エーデル",
+      "score": -0.32463699063331863,
+      "horse_number": 9,
+      "odds": 89.8
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202602011010",
+  "race_name": "噴火湾特別",
+  "race_time": "2026-07-12 14:45",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103625",
+      "horse_name": "エコロレバン",
+      "score": 0.14897867195214665,
+      "horse_number": 4,
+      "odds": 3.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107523",
+      "horse_name": "デアプリームス",
+      "score": 0.09455911493736718,
+      "horse_number": 3,
+      "odds": 7.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100014",
+      "horse_name": "カネコメブライト",
+      "score": 0.06991386372460787,
+      "horse_number": 1,
+      "odds": 12.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021103748",
+      "horse_name": "サベージラヴ",
+      "score": 0.03764680398956656,
+      "horse_number": 7,
+      "odds": 34.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100574",
+      "horse_name": "ルイステソーロ",
+      "score": 0.03379002002520472,
+      "horse_number": 11,
+      "odds": 7.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100729",
+      "horse_name": "ビーマックス",
+      "score": 0.0054807592390031775,
+      "horse_number": 8,
+      "odds": 13.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105591",
+      "horse_name": "マメタンク",
+      "score": -0.058628517565529746,
+      "horse_number": 9,
+      "odds": 3.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102702",
+      "horse_name": "ストリンジェンド",
+      "score": -0.10770853041486292,
+      "horse_number": 10,
+      "odds": 34.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104394",
+      "horse_name": "ヒットミー",
+      "score": -0.20893593846891206,
+      "horse_number": 5,
+      "odds": 14.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107374",
+      "horse_name": "クロナ",
+      "score": -0.2767734910271839,
+      "horse_number": 6,
+      "odds": 11.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105661",
+      "horse_name": "ストロングボンド",
+      "score": -0.4348476612674077,
+      "horse_number": 12,
+      "odds": 86.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105821",
+      "horse_name": "サンディブロンド",
+      "score": -0.5491227559654275,
+      "horse_number": 2,
+      "odds": 49.0
+    }
+  ]
+}

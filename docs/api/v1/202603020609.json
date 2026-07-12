@@ -1,0 +1,120 @@
+{
+  "race_id": "202603020609",
+  "race_name": "織姫賞",
+  "race_time": "2026-07-12 14:35",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104844",
+      "horse_name": "ブルスカメンテ",
+      "score": 0.14790177993441703,
+      "horse_number": 7,
+      "odds": 9.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103543",
+      "horse_name": "ルージュリリック",
+      "score": 0.1208759160623356,
+      "horse_number": 12,
+      "odds": 2.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106618",
+      "horse_name": "ジェルブロア",
+      "score": 0.08957862296344463,
+      "horse_number": 4,
+      "odds": 9.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105131",
+      "horse_name": "キューティリップ",
+      "score": 0.05916740884338467,
+      "horse_number": 6,
+      "odds": 10.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105181",
+      "horse_name": "ロゼフェリシア",
+      "score": 0.0378713337549105,
+      "horse_number": 5,
+      "odds": 8.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106412",
+      "horse_name": "ユメシルベ",
+      "score": -0.055760053265106725,
+      "horse_number": 13,
+      "odds": 17.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106347",
+      "horse_name": "テンドリームガール",
+      "score": -0.09171666704238811,
+      "horse_number": 8,
+      "odds": 100.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105168",
+      "horse_name": "クイーンズワーフ",
+      "score": -0.11367726168450845,
+      "horse_number": 1,
+      "odds": 12.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103069",
+      "horse_name": "ノーブルクラウド",
+      "score": -0.20754109637494156,
+      "horse_number": 9,
+      "odds": 66.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101710",
+      "horse_name": "ヒサエノオモカゲ",
+      "score": -0.24389818092480603,
+      "horse_number": 14,
+      "odds": 31.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100106",
+      "horse_name": "ペプロス",
+      "score": -0.3014631564094595,
+      "horse_number": 2,
+      "odds": 22.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021107253",
+      "horse_name": "ニシノコマチムスメ",
+      "score": -0.3234020416444257,
+      "horse_number": 11,
+      "odds": 69.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106802",
+      "horse_name": "2023106802",
+      "score": -0.383399814200714,
+      "horse_number": 10,
+      "odds": 5.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101820",
+      "horse_name": "2023101820",
+      "score": -0.5071126925064392,
+      "horse_number": 3,
+      "odds": 19.2
+    }
+  ]
+}

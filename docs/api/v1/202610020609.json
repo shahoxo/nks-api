@@ -1,0 +1,88 @@
+{
+  "race_id": "202610020609",
+  "race_name": "八女特別",
+  "race_time": "2026-07-12 14:20",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107036",
+      "horse_name": "ショウナンバンライ",
+      "score": 0.16625722081830793,
+      "horse_number": 8,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105791",
+      "horse_name": "ブルックリンダンス",
+      "score": 0.07261504282264848,
+      "horse_number": 5,
+      "odds": 13.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106546",
+      "horse_name": "サンライズケヴィン",
+      "score": 0.029141318296387532,
+      "horse_number": 10,
+      "odds": 4.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106564",
+      "horse_name": "タガノアニマシオン",
+      "score": 0.01793374092747775,
+      "horse_number": 2,
+      "odds": 36.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106298",
+      "horse_name": "ホウショウルクス",
+      "score": -0.009099078854211493,
+      "horse_number": 6,
+      "odds": 19.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100711",
+      "horse_name": "ケイアイアルタイル",
+      "score": -0.05905481232739394,
+      "horse_number": 3,
+      "odds": 11.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102956",
+      "horse_name": "エンマ",
+      "score": -0.1082365094089905,
+      "horse_number": 4,
+      "odds": 33.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104295",
+      "horse_name": "トモジャザーン",
+      "score": -0.14723689259623238,
+      "horse_number": 7,
+      "odds": 28.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104791",
+      "horse_name": "プウスカンドゥール",
+      "score": -0.18849988730876832,
+      "horse_number": 9,
+      "odds": 53.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105637",
+      "horse_name": "テンエースワン",
+      "score": -0.25631706582696634,
+      "horse_number": 1,
+      "odds": 41.5
+    }
+  ]
+}
