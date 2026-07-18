@@ -1,0 +1,136 @@
+{
+  "race_id": "202603020703",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-18 11:10",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107346",
+      "horse_name": "ゲンテン",
+      "score": 0.10191444573621179,
+      "horse_number": 13,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102594",
+      "horse_name": "ジャガーライズ",
+      "score": 0.08654111947372678,
+      "horse_number": 5,
+      "odds": 12.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102122",
+      "horse_name": "ハングローズ",
+      "score": -0.06023947924685582,
+      "horse_number": 9,
+      "odds": 3.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106658",
+      "horse_name": "ニンジャトットリ",
+      "score": -0.0975480516566199,
+      "horse_number": 6,
+      "odds": 4.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102869",
+      "horse_name": "2023102869",
+      "score": -0.19168356425286676,
+      "horse_number": 2,
+      "odds": 14.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105579",
+      "horse_name": "エクスペクタント",
+      "score": -0.34455632878568765,
+      "horse_number": 3,
+      "odds": 26.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102157",
+      "horse_name": "イデアジュアンイハ",
+      "score": -0.42781415965868486,
+      "horse_number": 14,
+      "odds": 31.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023109055",
+      "horse_name": "プリンセスダーコ",
+      "score": -0.44181385802955886,
+      "horse_number": 1,
+      "odds": 48.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100888",
+      "horse_name": "セントリアン",
+      "score": -0.5393606452573874,
+      "horse_number": 15,
+      "odds": 12.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106330",
+      "horse_name": "2023106330",
+      "score": -0.5562471475724967,
+      "horse_number": 7,
+      "odds": 75.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102159",
+      "horse_name": "2023102159",
+      "score": -0.5888584750491126,
+      "horse_number": 16,
+      "odds": 31.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103225",
+      "horse_name": "グラデュエール",
+      "score": -0.630370253879574,
+      "horse_number": 12,
+      "odds": 94.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103299",
+      "horse_name": "2023103299",
+      "score": -0.6543632925823613,
+      "horse_number": 4,
+      "odds": 41.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105251",
+      "horse_name": "アンセートゥモダン",
+      "score": -0.7344997899121097,
+      "horse_number": 8,
+      "odds": 120.8
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106317",
+      "horse_name": "レーヴルーバ",
+      "score": -0.7560238565797833,
+      "horse_number": 11,
+      "odds": 81.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102345",
+      "horse_name": "ライブリピュア",
+      "score": -0.7560238565797833,
+      "horse_number": 10,
+      "odds": 41.0
+    }
+  ]
+}

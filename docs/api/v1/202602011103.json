@@ -1,0 +1,104 @@
+{
+  "race_id": "202602011103",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-18 10:50",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103504",
+      "horse_name": "ハイランダー",
+      "score": -0.0002671161894733272,
+      "horse_number": 5,
+      "odds": 8.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101484",
+      "horse_name": "リバーソニック",
+      "score": -0.07631627084900308,
+      "horse_number": 8,
+      "odds": 6.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106733",
+      "horse_name": "ザンテソーロ",
+      "score": -0.08606189989504882,
+      "horse_number": 2,
+      "odds": 5.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105870",
+      "horse_name": "ウインガネーシャ",
+      "score": -0.09927813425150107,
+      "horse_number": 4,
+      "odds": 3.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105044",
+      "horse_name": "ゴールデンボブ",
+      "score": -0.12242545103442243,
+      "horse_number": 10,
+      "odds": 14.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106726",
+      "horse_name": "フェンリル",
+      "score": -0.21110470998350392,
+      "horse_number": 9,
+      "odds": 30.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104286",
+      "horse_name": "2023104286",
+      "score": -0.2565746096271095,
+      "horse_number": 6,
+      "odds": 15.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105444",
+      "horse_name": "ポップアップ",
+      "score": -0.2635256967973982,
+      "horse_number": 11,
+      "odds": 3.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102517",
+      "horse_name": "2023102517",
+      "score": -0.5605472818472005,
+      "horse_number": 1,
+      "odds": 18.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100389",
+      "horse_name": "2023100389",
+      "score": -0.5605472818472005,
+      "horse_number": 7,
+      "odds": 71.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100784",
+      "horse_name": "エースオブゴールド",
+      "score": -0.6689949723788611,
+      "horse_number": 12,
+      "odds": 36.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103289",
+      "horse_name": "マーゴットデウス",
+      "score": -0.6887521558175991,
+      "horse_number": 3,
+      "odds": 32.2
+    }
+  ]
+}
