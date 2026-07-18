@@ -1,0 +1,104 @@
+{
+  "race_id": "202602011112",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-07-18 16:05",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105858",
+      "horse_name": "ラミアメンテ",
+      "score": 0.16360813115163458,
+      "horse_number": 1,
+      "odds": 5.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105817",
+      "horse_name": "バレンタインビスタ",
+      "score": 0.11898548663592329,
+      "horse_number": 6,
+      "odds": 5.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105035",
+      "horse_name": "メイショウハッケイ",
+      "score": 0.05749636525660608,
+      "horse_number": 5,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106780",
+      "horse_name": "ランプローグ",
+      "score": 0.05207176790485206,
+      "horse_number": 10,
+      "odds": 5.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104440",
+      "horse_name": "ハーモニーソング",
+      "score": 0.03733986878933394,
+      "horse_number": 3,
+      "odds": 9.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105162",
+      "horse_name": "ルージュナリッシュ",
+      "score": 0.007850699417027752,
+      "horse_number": 4,
+      "odds": 6.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105212",
+      "horse_name": "エコロハート",
+      "score": -0.027902354768126875,
+      "horse_number": 9,
+      "odds": 20.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105715",
+      "horse_name": "アルバニー",
+      "score": -0.08601633195648305,
+      "horse_number": 8,
+      "odds": 43.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020100759",
+      "horse_name": "アルマロクザン",
+      "score": -0.2552063398083726,
+      "horse_number": 12,
+      "odds": 29.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105749",
+      "horse_name": "ルージュベルベット",
+      "score": -0.26454157710889925,
+      "horse_number": 7,
+      "odds": 9.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105057",
+      "horse_name": "オンザヴィーナス",
+      "score": -0.41821482180072433,
+      "horse_number": 2,
+      "odds": 19.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101920",
+      "horse_name": "メラヴィリオーザ",
+      "score": -0.5500734058070313,
+      "horse_number": 11,
+      "odds": 55.6
+    }
+  ]
+}

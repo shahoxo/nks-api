@@ -1,0 +1,136 @@
+{
+  "race_id": "202603020711",
+  "race_name": "阿武隈S",
+  "race_time": "2026-07-18 15:45",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105859",
+      "horse_name": "フォルラニーニ",
+      "score": 0.36540392925002574,
+      "horse_number": 16,
+      "odds": 4.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106793",
+      "horse_name": "コスモアンソロジー",
+      "score": 0.06366528307244039,
+      "horse_number": 5,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100201",
+      "horse_name": "コンドゥイア",
+      "score": 0.032691895306166244,
+      "horse_number": 9,
+      "odds": 32.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105105",
+      "horse_name": "ミラビリスマジック",
+      "score": 0.008318576393994463,
+      "horse_number": 13,
+      "odds": 4.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020106811",
+      "horse_name": "タイキラフター",
+      "score": 0.0019587114706187065,
+      "horse_number": 6,
+      "odds": 12.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020105217",
+      "horse_name": "ウインオーディン",
+      "score": -0.021801870121569727,
+      "horse_number": 2,
+      "odds": 13.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104189",
+      "horse_name": "テリオスサラ",
+      "score": -0.0687685399281411,
+      "horse_number": 14,
+      "odds": 12.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103928",
+      "horse_name": "ホウオウスーペリア",
+      "score": -0.08025829435950381,
+      "horse_number": 8,
+      "odds": 22.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020104550",
+      "horse_name": "ワイドアラジン",
+      "score": -0.1282516226240561,
+      "horse_number": 4,
+      "odds": 10.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020100809",
+      "horse_name": "アマイ",
+      "score": -0.15798452208144947,
+      "horse_number": 3,
+      "odds": 18.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105696",
+      "horse_name": "サヴォンリンナ",
+      "score": -0.1656568155876413,
+      "horse_number": 15,
+      "odds": 50.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101227",
+      "horse_name": "ヴォンフレ",
+      "score": -0.29568067406588083,
+      "horse_number": 12,
+      "odds": 18.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100810",
+      "horse_name": "グラニット",
+      "score": -0.39542141601154684,
+      "horse_number": 7,
+      "odds": 35.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020100495",
+      "horse_name": "ドラゴンヘッド",
+      "score": -0.4291029235340172,
+      "horse_number": 10,
+      "odds": 19.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2018106154",
+      "horse_name": "エスコバル",
+      "score": -0.45734211436345773,
+      "horse_number": 11,
+      "odds": 49.5
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021105601",
+      "horse_name": "ショーマンフリート",
+      "score": -0.5586903914520787,
+      "horse_number": 1,
+      "odds": 80.7
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202610020711",
+  "race_name": "テレQ杯",
+  "race_time": "2026-07-18 15:30",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110026",
+      "horse_name": "コウセキ",
+      "score": 0.21391159227413786,
+      "horse_number": 5,
+      "odds": 1.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021107180",
+      "horse_name": "ジュンヴァンケット",
+      "score": 0.18403274411324289,
+      "horse_number": 12,
+      "odds": 15.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101654",
+      "horse_name": "トーラスシャイン",
+      "score": -0.06637588943903465,
+      "horse_number": 2,
+      "odds": 7.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100791",
+      "horse_name": "ブラックケリー",
+      "score": -0.09166442755446358,
+      "horse_number": 7,
+      "odds": 80.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103977",
+      "horse_name": "リチャードバローズ",
+      "score": -0.1045181369262926,
+      "horse_number": 11,
+      "odds": 28.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106661",
+      "horse_name": "ヒーローインチーフ",
+      "score": -0.13105369629269195,
+      "horse_number": 9,
+      "odds": 14.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102514",
+      "horse_name": "ベイビーキッス",
+      "score": -0.2165814982709711,
+      "horse_number": 10,
+      "odds": 11.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019100566",
+      "horse_name": "ミロワール",
+      "score": -0.24224335533072128,
+      "horse_number": 6,
+      "odds": 9.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100157",
+      "horse_name": "ロードトレイル",
+      "score": -0.2588990585220034,
+      "horse_number": 1,
+      "odds": 16.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103707",
+      "horse_name": "エスペシャリー",
+      "score": -0.4044713942217875,
+      "horse_number": 8,
+      "odds": 36.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2019106739",
+      "horse_name": "ダークエクリプス",
+      "score": -0.43748902437888293,
+      "horse_number": 4,
+      "odds": 72.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104520",
+      "horse_name": "アイルシャイン",
+      "score": -0.5258676812741375,
+      "horse_number": 3,
+      "odds": 21.2
+    }
+  ]
+}

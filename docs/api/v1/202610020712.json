@@ -1,0 +1,120 @@
+{
+  "race_id": "202610020712",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-07-18 16:15",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107362",
+      "horse_name": "バートラガッツ",
+      "score": 0.26829412599241803,
+      "horse_number": 5,
+      "odds": 1.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101417",
+      "horse_name": "フランキーバローズ",
+      "score": 0.23189289709413224,
+      "horse_number": 10,
+      "odds": 16.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102707",
+      "horse_name": "ヨカオウ",
+      "score": 0.12234580418347353,
+      "horse_number": 13,
+      "odds": 12.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102429",
+      "horse_name": "ミッキーコンドル",
+      "score": 0.09154694276779805,
+      "horse_number": 1,
+      "odds": 38.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023110029",
+      "horse_name": "ジューンセクレタ",
+      "score": 0.08849828033222616,
+      "horse_number": 6,
+      "odds": 8.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023110079",
+      "horse_name": "アメリカンスタイル",
+      "score": 0.011366933232727812,
+      "horse_number": 8,
+      "odds": 18.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100297",
+      "horse_name": "ブラックレジェンド",
+      "score": -0.07614203491434443,
+      "horse_number": 7,
+      "odds": 8.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101231",
+      "horse_name": "フリッシュ",
+      "score": -0.08637328041972508,
+      "horse_number": 12,
+      "odds": 21.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103946",
+      "horse_name": "スマートクラビ",
+      "score": -0.18993054657457845,
+      "horse_number": 3,
+      "odds": 76.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102916",
+      "horse_name": "モズプリヴェール",
+      "score": -0.2490317839733242,
+      "horse_number": 14,
+      "odds": 24.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104176",
+      "horse_name": "チャチャピンク",
+      "score": -0.2600423117250011,
+      "horse_number": 4,
+      "odds": 75.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107325",
+      "horse_name": "レーンアジリティ",
+      "score": -0.5194067581096891,
+      "horse_number": 2,
+      "odds": 29.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106189",
+      "horse_name": "デュアルロール",
+      "score": -0.5860897046343155,
+      "horse_number": 9,
+      "odds": 64.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101694",
+      "horse_name": "ケンフィールド",
+      "score": -0.6134644907562206,
+      "horse_number": 11,
+      "odds": 49.8
+    }
+  ]
+}
