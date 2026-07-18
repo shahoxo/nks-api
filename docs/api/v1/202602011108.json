@@ -1,0 +1,104 @@
+{
+  "race_id": "202602011108",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-07-18 13:40",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105223",
+      "horse_name": "アーレムアレス",
+      "score": 0.3281082238029638,
+      "horse_number": 5,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105021",
+      "horse_name": "メイショウテンク",
+      "score": 0.2653256060441689,
+      "horse_number": 10,
+      "odds": 7.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101375",
+      "horse_name": "マテンロウオリジン",
+      "score": 0.2531333918650409,
+      "horse_number": 12,
+      "odds": 9.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107050",
+      "horse_name": "ワンダフルデイズ",
+      "score": 0.2531333918650409,
+      "horse_number": 1,
+      "odds": 11.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106828",
+      "horse_name": "マイネルゼウス",
+      "score": 0.11895963885195472,
+      "horse_number": 6,
+      "odds": 20.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105261",
+      "horse_name": "2023105261",
+      "score": -0.01931758886088924,
+      "horse_number": 7,
+      "odds": 22.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106180",
+      "horse_name": "シャインバオバブ",
+      "score": -0.2353306814828781,
+      "horse_number": 2,
+      "odds": 38.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021102379",
+      "horse_name": "テイクザクラウン",
+      "score": -0.2654803282313654,
+      "horse_number": 4,
+      "odds": 16.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104920",
+      "horse_name": "バルドル",
+      "score": -0.2809108084788386,
+      "horse_number": 3,
+      "odds": 37.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104661",
+      "horse_name": "ジーティートシオー",
+      "score": -0.4493880797341132,
+      "horse_number": 8,
+      "odds": 97.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105796",
+      "horse_name": "ペリプルス",
+      "score": -0.49794328758557216,
+      "horse_number": 9,
+      "odds": 53.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101492",
+      "horse_name": "エリナ",
+      "score": -0.6823123740050003,
+      "horse_number": 11,
+      "odds": 191.4
+    }
+  ]
+}

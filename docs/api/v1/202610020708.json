@@ -1,0 +1,88 @@
+{
+  "race_id": "202610020708",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-07-18 13:50",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103737",
+      "horse_name": "ワンダフルボンド",
+      "score": 0.4979890549575433,
+      "horse_number": 4,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107101",
+      "horse_name": "ダノンハドソン",
+      "score": 0.2979115510413572,
+      "horse_number": 7,
+      "odds": 16.6
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106941",
+      "horse_name": "ノンブルドール",
+      "score": 0.24490598732591382,
+      "horse_number": 5,
+      "odds": 4.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102312",
+      "horse_name": "スリーラーケン",
+      "score": 0.1929103069555757,
+      "horse_number": 8,
+      "odds": 26.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105113",
+      "horse_name": "ダノンアトラス",
+      "score": 0.05188216228914917,
+      "horse_number": 1,
+      "odds": 9.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104552",
+      "horse_name": "フウセン",
+      "score": 0.013847546179535283,
+      "horse_number": 3,
+      "odds": 5.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106392",
+      "horse_name": "パラディオン",
+      "score": -0.06090311494509883,
+      "horse_number": 10,
+      "odds": 5.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104506",
+      "horse_name": "ゴールドアクセス",
+      "score": -0.20680812193510473,
+      "horse_number": 9,
+      "odds": 8.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105274",
+      "horse_name": "サイレントグルーヴ",
+      "score": -0.5093183854687542,
+      "horse_number": 2,
+      "odds": 17.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020102736",
+      "horse_name": "ビヨンドザドリーム",
+      "score": -0.5216467942504023,
+      "horse_number": 6,
+      "odds": 13.4
+    }
+  ]
+}

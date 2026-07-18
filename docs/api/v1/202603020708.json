@@ -1,0 +1,136 @@
+{
+  "race_id": "202603020708",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-07-18 14:00",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104521",
+      "horse_name": "サムハラ",
+      "score": 0.26523139804431495,
+      "horse_number": 1,
+      "odds": 8.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104650",
+      "horse_name": "ブルズアイプリンス",
+      "score": 0.2143011761660288,
+      "horse_number": 2,
+      "odds": 13.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105996",
+      "horse_name": "ルシェロアズーリ",
+      "score": 0.07058006740534777,
+      "horse_number": 13,
+      "odds": 5.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020103121",
+      "horse_name": "ダノンゴーイチ",
+      "score": -0.025359639703031504,
+      "horse_number": 10,
+      "odds": 7.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104757",
+      "horse_name": "コルチェスター",
+      "score": -0.04177025352774593,
+      "horse_number": 6,
+      "odds": 18.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105956",
+      "horse_name": "ロンドンアームズ",
+      "score": -0.2546183311732641,
+      "horse_number": 5,
+      "odds": 4.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103037",
+      "horse_name": "コパノトーマス",
+      "score": -0.2779945434572307,
+      "horse_number": 15,
+      "odds": 8.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102465",
+      "horse_name": "ブライティアブーケ",
+      "score": -0.28771276213400243,
+      "horse_number": 11,
+      "odds": 22.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103885",
+      "horse_name": "クリノゴッホ",
+      "score": -0.31334416058588366,
+      "horse_number": 4,
+      "odds": 79.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103440",
+      "horse_name": "サトノセレナーデ",
+      "score": -0.34489672463822135,
+      "horse_number": 3,
+      "odds": 81.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100728",
+      "horse_name": "リネンタイリン",
+      "score": -0.43131605285399355,
+      "horse_number": 8,
+      "odds": 42.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105000",
+      "horse_name": "ミセスリリー",
+      "score": -0.4418203400510269,
+      "horse_number": 14,
+      "odds": 98.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106221",
+      "horse_name": "ウインイルネージュ",
+      "score": -0.5039016063549897,
+      "horse_number": 16,
+      "odds": 26.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106118",
+      "horse_name": "シークレットイスラ",
+      "score": -0.5836065190735424,
+      "horse_number": 9,
+      "odds": 59.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106405",
+      "horse_name": "コックオーヴァン",
+      "score": -0.598811741073977,
+      "horse_number": 12,
+      "odds": 5.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021106419",
+      "horse_name": "ココボロ",
+      "score": -0.6318373387288261,
+      "horse_number": 7,
+      "odds": 105.4
+    }
+  ]
+}

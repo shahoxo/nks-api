@@ -1,0 +1,136 @@
+{
+  "race_id": "202603020707",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-18 13:30",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105552",
+      "horse_name": "ベルトラッキ",
+      "score": 0.3307502936797695,
+      "horse_number": 12,
+      "odds": 5.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107360",
+      "horse_name": "アッシズオブローズ",
+      "score": 0.19217147031643048,
+      "horse_number": 11,
+      "odds": 5.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102799",
+      "horse_name": "2023102799",
+      "score": 0.04479050644760827,
+      "horse_number": 8,
+      "odds": 15.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102362",
+      "horse_name": "ブライトエアリー",
+      "score": -0.00042967502180203416,
+      "horse_number": 7,
+      "odds": 14.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101076",
+      "horse_name": "2023101076",
+      "score": -0.047574832638570576,
+      "horse_number": 4,
+      "odds": 4.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106182",
+      "horse_name": "サヴマ",
+      "score": -0.062072309437989186,
+      "horse_number": 14,
+      "odds": 9.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100529",
+      "horse_name": "タッカーヴァンバン",
+      "score": -0.32822569768093535,
+      "horse_number": 2,
+      "odds": 44.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023110019",
+      "horse_name": "ラッキースウィッチ",
+      "score": -0.33303129219004785,
+      "horse_number": 9,
+      "odds": 17.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104485",
+      "horse_name": "マイネルリーヒム",
+      "score": -0.415150035796515,
+      "horse_number": 13,
+      "odds": 18.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103447",
+      "horse_name": "セキテイリノ",
+      "score": -0.4152153189841152,
+      "horse_number": 1,
+      "odds": 7.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106146",
+      "horse_name": "エコロゼット",
+      "score": -0.45999233579351073,
+      "horse_number": 16,
+      "odds": 67.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100512",
+      "horse_name": "2023100512",
+      "score": -0.47293600501096866,
+      "horse_number": 10,
+      "odds": 92.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023107274",
+      "horse_name": "ケファロニア",
+      "score": -0.50604040600718,
+      "horse_number": 6,
+      "odds": 116.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106422",
+      "horse_name": "マイネルオラクル",
+      "score": -0.5300080494461484,
+      "horse_number": 5,
+      "odds": 12.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103583",
+      "horse_name": "シーサンタナ",
+      "score": -0.5579854931305339,
+      "horse_number": 15,
+      "odds": 22.1
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023110024",
+      "horse_name": "モンドシュピーゲル",
+      "score": -0.5780690536988875,
+      "horse_number": 3,
+      "odds": 34.9
+    }
+  ]
+}

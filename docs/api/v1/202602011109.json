@@ -1,0 +1,112 @@
+{
+  "race_id": "202602011109",
+  "race_name": "湯浜特別",
+  "race_time": "2026-07-18 14:10",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101382",
+      "horse_name": "ドッグウッド",
+      "score": 0.20650327079556385,
+      "horse_number": 5,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102708",
+      "horse_name": "アドミラルシップ",
+      "score": 0.1748194867441471,
+      "horse_number": 2,
+      "odds": 5.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105694",
+      "horse_name": "ホウオウペトリュス",
+      "score": 0.15417010319661756,
+      "horse_number": 3,
+      "odds": 64.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100207",
+      "horse_name": "マイネルシンベリン",
+      "score": 0.09564741024188043,
+      "horse_number": 7,
+      "odds": 7.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102896",
+      "horse_name": "ハミルトン",
+      "score": 0.06641840662186119,
+      "horse_number": 8,
+      "odds": 26.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106645",
+      "horse_name": "グランセゾン",
+      "score": 0.042424761462979334,
+      "horse_number": 4,
+      "odds": 9.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102135",
+      "horse_name": "ゴーゴータカシ",
+      "score": -0.001020117944505146,
+      "horse_number": 13,
+      "odds": 7.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103875",
+      "horse_name": "マカナアネラ",
+      "score": -0.029565097802818754,
+      "horse_number": 1,
+      "odds": 13.0
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101102",
+      "horse_name": "ウインポセイドン",
+      "score": -0.13439977426662922,
+      "horse_number": 9,
+      "odds": 24.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100521",
+      "horse_name": "ディーリライズ",
+      "score": -0.14388645152667245,
+      "horse_number": 10,
+      "odds": 10.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104678",
+      "horse_name": "コウギョク",
+      "score": -0.1700497375613057,
+      "horse_number": 12,
+      "odds": 9.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100621",
+      "horse_name": "マイバラード",
+      "score": -0.36476896171665885,
+      "horse_number": 11,
+      "odds": 61.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022102397",
+      "horse_name": "ビービーバザーク",
+      "score": -0.3732754728002669,
+      "horse_number": 6,
+      "odds": 30.3
+    }
+  ]
+}
