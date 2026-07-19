@@ -1,0 +1,136 @@
+{
+  "race_id": "202610020803",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-19 11:10",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102228",
+      "horse_name": "2023102228",
+      "score": 0.08131429435667718,
+      "horse_number": 3,
+      "odds": 8.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107077",
+      "horse_name": "スマイルガーデン",
+      "score": 0.03920933505966637,
+      "horse_number": 13,
+      "odds": 12.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106391",
+      "horse_name": "デアアテナ",
+      "score": -0.0152987731654732,
+      "horse_number": 15,
+      "odds": 20.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100907",
+      "horse_name": "2023100907",
+      "score": -0.032234581703191524,
+      "horse_number": 1,
+      "odds": 31.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103323",
+      "horse_name": "ハツアカネ",
+      "score": -0.0990025871768494,
+      "horse_number": 8,
+      "odds": 13.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104362",
+      "horse_name": "ヤマニンエルファバ",
+      "score": -0.18374076669534337,
+      "horse_number": 7,
+      "odds": 4.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105117",
+      "horse_name": "ヴェルサイユローズ",
+      "score": -0.2045120133243983,
+      "horse_number": 5,
+      "odds": 78.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102739",
+      "horse_name": "テクノピーチ",
+      "score": -0.3395604118330917,
+      "horse_number": 12,
+      "odds": 9.7
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100417",
+      "horse_name": "エイシンキタールン",
+      "score": -0.35214822981571237,
+      "horse_number": 16,
+      "odds": 15.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100864",
+      "horse_name": "ヒデガミティアラ",
+      "score": -0.36886802056947865,
+      "horse_number": 11,
+      "odds": 39.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104835",
+      "horse_name": "2023104835",
+      "score": -0.3707920463471597,
+      "horse_number": 4,
+      "odds": 89.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100912",
+      "horse_name": "エレーデサンライズ",
+      "score": -0.38495313747599724,
+      "horse_number": 14,
+      "odds": 8.7
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023109040",
+      "horse_name": "メイショウメゴヒメ",
+      "score": -0.49483120434470795,
+      "horse_number": 6,
+      "odds": 7.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104979",
+      "horse_name": "エンジェルグラース",
+      "score": -0.5207735048899425,
+      "horse_number": 9,
+      "odds": 10.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101308",
+      "horse_name": "グリミスティ",
+      "score": -0.5290746390114524,
+      "horse_number": 2,
+      "odds": 18.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023103829",
+      "horse_name": "クレスコフェーヴ",
+      "score": -0.7283306795540226,
+      "horse_number": 10,
+      "odds": 29.2
+    }
+  ]
+}

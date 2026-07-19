@@ -1,0 +1,120 @@
+{
+  "race_id": "202602011203",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-19 10:50",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102546",
+      "horse_name": "キヨタリート",
+      "score": 0.08423688016618301,
+      "horse_number": 6,
+      "odds": 40.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106691",
+      "horse_name": "サクセスゴールド",
+      "score": 0.06297390392395832,
+      "horse_number": 1,
+      "odds": 15.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103424",
+      "horse_name": "デルマバンダイサン",
+      "score": 0.04767504477806398,
+      "horse_number": 2,
+      "odds": 7.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100362",
+      "horse_name": "ニシノモリミチ",
+      "score": 0.02305375096720289,
+      "horse_number": 13,
+      "odds": 6.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105682",
+      "horse_name": "キセログラフィカ",
+      "score": -0.0668418408001439,
+      "horse_number": 7,
+      "odds": 13.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103577",
+      "horse_name": "ブレイズランナー",
+      "score": -0.07531386638305947,
+      "horse_number": 9,
+      "odds": 6.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105608",
+      "horse_name": "ルージュリヴィエラ",
+      "score": -0.08093494229687344,
+      "horse_number": 3,
+      "odds": 6.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106953",
+      "horse_name": "2023106953",
+      "score": -0.3450334404366573,
+      "horse_number": 10,
+      "odds": 45.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104632",
+      "horse_name": "マスカルポーネ",
+      "score": -0.37416459434416316,
+      "horse_number": 5,
+      "odds": 12.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105365",
+      "horse_name": "ホウオウファラオ",
+      "score": -0.38281193289771104,
+      "horse_number": 11,
+      "odds": 5.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106001",
+      "horse_name": "スマートコーラル",
+      "score": -0.4781960191111261,
+      "horse_number": 12,
+      "odds": 6.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106308",
+      "horse_name": "ダイユウアドバンス",
+      "score": -0.5131909807963064,
+      "horse_number": 14,
+      "odds": 43.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104684",
+      "horse_name": "ロジクリスエス",
+      "score": -0.5135542031085468,
+      "horse_number": 4,
+      "odds": 34.4
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100645",
+      "horse_name": "トーレス",
+      "score": -0.6665961087376128,
+      "horse_number": 8,
+      "odds": 97.2
+    }
+  ]
+}

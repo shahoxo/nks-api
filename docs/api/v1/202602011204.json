@@ -1,0 +1,112 @@
+{
+  "race_id": "202602011204",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-19 11:20",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102695",
+      "horse_name": "ギオンバヤシ",
+      "score": 0.20572735883642018,
+      "horse_number": 7,
+      "odds": 3.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105857",
+      "horse_name": "ウインカトリーヌ",
+      "score": 0.16435193529319045,
+      "horse_number": 3,
+      "odds": 8.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102452",
+      "horse_name": "コスモブラック",
+      "score": 0.15508164324499257,
+      "horse_number": 9,
+      "odds": 20.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102101",
+      "horse_name": "フィエスタ",
+      "score": 0.1381778514600611,
+      "horse_number": 4,
+      "odds": 46.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101000",
+      "horse_name": "2023101000",
+      "score": -0.14843365297700575,
+      "horse_number": 12,
+      "odds": 7.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106800",
+      "horse_name": "コティノス",
+      "score": -0.15131899854641648,
+      "horse_number": 13,
+      "odds": 14.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105659",
+      "horse_name": "2023105659",
+      "score": -0.18232381008050672,
+      "horse_number": 10,
+      "odds": 10.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103730",
+      "horse_name": "レイヌドプランタン",
+      "score": -0.21857650767991402,
+      "horse_number": 8,
+      "odds": 28.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102987",
+      "horse_name": "プリュイドール",
+      "score": -0.28572292265239235,
+      "horse_number": 2,
+      "odds": 5.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102669",
+      "horse_name": "ワダツミ",
+      "score": -0.42458992651175964,
+      "horse_number": 6,
+      "odds": 19.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102802",
+      "horse_name": "ヤクジョ",
+      "score": -0.4306408422212492,
+      "horse_number": 5,
+      "odds": 96.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103196",
+      "horse_name": "フクチャンブラック",
+      "score": -0.43169750339063384,
+      "horse_number": 1,
+      "odds": 39.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102128",
+      "horse_name": "マコトアディントン",
+      "score": -0.4832282179240369,
+      "horse_number": 11,
+      "odds": 5.8
+    }
+  ]
+}
