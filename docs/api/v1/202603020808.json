@@ -1,0 +1,136 @@
+{
+  "race_id": "202603020808",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-07-19 13:50",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106852",
+      "horse_name": "ロスパレドネス",
+      "score": 0.32357877341564883,
+      "horse_number": 2,
+      "odds": 5.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107320",
+      "horse_name": "リスレジャンデール",
+      "score": 0.31139273939274875,
+      "horse_number": 7,
+      "odds": 10.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107353",
+      "horse_name": "コズミックボックス",
+      "score": 0.15628991475859538,
+      "horse_number": 14,
+      "odds": 45.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105257",
+      "horse_name": "ミエノストロング",
+      "score": 0.14167743621029003,
+      "horse_number": 12,
+      "odds": 12.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103814",
+      "horse_name": "アメテュストス",
+      "score": 0.10776695410369191,
+      "horse_number": 8,
+      "odds": 4.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101175",
+      "horse_name": "ピエナフェーヴル",
+      "score": 0.10168155998495211,
+      "horse_number": 13,
+      "odds": 14.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103494",
+      "horse_name": "スイートオレンジ",
+      "score": 0.020951710788943305,
+      "horse_number": 3,
+      "odds": 12.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103308",
+      "horse_name": "ミッドセンチュリー",
+      "score": -0.017462332014923136,
+      "horse_number": 6,
+      "odds": 24.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105943",
+      "horse_name": "トーセンブリラーレ",
+      "score": -0.0657464071462427,
+      "horse_number": 15,
+      "odds": 6.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105433",
+      "horse_name": "モウエエデショー",
+      "score": -0.16369133326791266,
+      "horse_number": 9,
+      "odds": 6.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100700",
+      "horse_name": "ポッドロルフ",
+      "score": -0.18908547789611418,
+      "horse_number": 5,
+      "odds": 30.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102717",
+      "horse_name": "ジャグアール",
+      "score": -0.27152796863788253,
+      "horse_number": 4,
+      "odds": 30.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106792",
+      "horse_name": "コスモアチーブ",
+      "score": -0.2878001229094146,
+      "horse_number": 16,
+      "odds": 23.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104851",
+      "horse_name": "アレクレア",
+      "score": -0.5062848270283437,
+      "horse_number": 11,
+      "odds": 55.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101647",
+      "horse_name": "インヴェスター",
+      "score": -0.6859934208146856,
+      "horse_number": 10,
+      "odds": 234.3
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101291",
+      "horse_name": "クラウンテック",
+      "score": -0.7498547462216962,
+      "horse_number": 1,
+      "odds": 195.9
+    }
+  ]
+}

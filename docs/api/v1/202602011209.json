@@ -1,0 +1,112 @@
+{
+  "race_id": "202602011209",
+  "race_name": "かもめ島特別",
+  "race_time": "2026-07-19 14:10",
+  "race_place": "函館",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106859",
+      "horse_name": "モンローウォーク",
+      "score": 0.26531557869840255,
+      "horse_number": 9,
+      "odds": 1.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105549",
+      "horse_name": "ハートメテオ",
+      "score": 0.18951316550743263,
+      "horse_number": 8,
+      "odds": 39.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101591",
+      "horse_name": "アストリル",
+      "score": 0.11364744881579406,
+      "horse_number": 4,
+      "odds": 13.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102295",
+      "horse_name": "マドモアゼルアスク",
+      "score": 0.07214072934998188,
+      "horse_number": 10,
+      "odds": 26.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105849",
+      "horse_name": "マイスターヴェルク",
+      "score": 0.05676418797988625,
+      "horse_number": 2,
+      "odds": 7.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105394",
+      "horse_name": "ハニードレス",
+      "score": 0.00850623979104289,
+      "horse_number": 3,
+      "odds": 62.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106709",
+      "horse_name": "レーヴドロペラ",
+      "score": 0.0028812779303481932,
+      "horse_number": 1,
+      "odds": 22.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105144",
+      "horse_name": "トレミニョン",
+      "score": -0.02768909033394258,
+      "horse_number": 13,
+      "odds": 41.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021104978",
+      "horse_name": "マルカオペラ",
+      "score": -0.11848026171657185,
+      "horse_number": 7,
+      "odds": 25.9
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105977",
+      "horse_name": "ロートホルン",
+      "score": -0.21645508362542398,
+      "horse_number": 6,
+      "odds": 7.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105321",
+      "horse_name": "エーデル",
+      "score": -0.2693956804551998,
+      "horse_number": 11,
+      "odds": 82.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102803",
+      "horse_name": "エリム",
+      "score": -0.27252435241548806,
+      "horse_number": 12,
+      "odds": 258.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105844",
+      "horse_name": "タイヨウフレア",
+      "score": -0.4490870456913074,
+      "horse_number": 5,
+      "odds": 152.5
+    }
+  ]
+}

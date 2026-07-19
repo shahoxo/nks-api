@@ -1,0 +1,72 @@
+{
+  "race_id": "202610020809",
+  "race_name": "不知火特別",
+  "race_time": "2026-07-19 14:35",
+  "race_place": "小倉",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2019100915",
+      "horse_name": "ゼンノインヴォーク",
+      "score": 0.14099242243637194,
+      "horse_number": 6,
+      "odds": 5.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105171",
+      "horse_name": "タンテドヴィーヴル",
+      "score": 0.02131236213442892,
+      "horse_number": 3,
+      "odds": 1.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103665",
+      "horse_name": "クスクス",
+      "score": -0.09301021704624321,
+      "horse_number": 7,
+      "odds": 14.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019100606",
+      "horse_name": "ヤマニンループ",
+      "score": -0.12711852793764145,
+      "horse_number": 2,
+      "odds": 11.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102561",
+      "horse_name": "キーウェーブ",
+      "score": -0.32970363491557353,
+      "horse_number": 1,
+      "odds": 47.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103449",
+      "horse_name": "モアニ",
+      "score": -0.35453524912336554,
+      "horse_number": 4,
+      "odds": 6.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103821",
+      "horse_name": "ハイディージェン",
+      "score": -0.47244331558012986,
+      "horse_number": 5,
+      "odds": 30.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020106399",
+      "horse_name": "ユメハハテシナク",
+      "score": -0.4996647152577669,
+      "horse_number": 8,
+      "odds": 7.4
+    }
+  ]
+}

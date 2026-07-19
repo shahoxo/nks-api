@@ -1,0 +1,136 @@
+{
+  "race_id": "202603020809",
+  "race_name": "南相馬特別",
+  "race_time": "2026-07-19 14:20",
+  "race_place": "福島",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021101399",
+      "horse_name": "ヴァンヴィーヴ",
+      "score": 0.37511111684409243,
+      "horse_number": 3,
+      "odds": 6.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110015",
+      "horse_name": "プリティディーヴァ",
+      "score": 0.15727568922575166,
+      "horse_number": 10,
+      "odds": 28.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100248",
+      "horse_name": "セイウンデセオ",
+      "score": 0.13997120181729483,
+      "horse_number": 8,
+      "odds": 23.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100797",
+      "horse_name": "ハッピーエンジェル",
+      "score": 0.0858795071572689,
+      "horse_number": 13,
+      "odds": 5.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100144",
+      "horse_name": "ロードトレゾール",
+      "score": 0.05223909495531818,
+      "horse_number": 15,
+      "odds": 18.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104722",
+      "horse_name": "ダンケルド",
+      "score": 0.0495373192580393,
+      "horse_number": 2,
+      "odds": 18.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101558",
+      "horse_name": "ルージュブリッツ",
+      "score": 0.04465339757991919,
+      "horse_number": 12,
+      "odds": 17.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107279",
+      "horse_name": "ガラベイヤ",
+      "score": -0.027831633444887465,
+      "horse_number": 1,
+      "odds": 3.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104186",
+      "horse_name": "ヴェントゥーラ",
+      "score": -0.10483702976302628,
+      "horse_number": 6,
+      "odds": 7.1
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103478",
+      "horse_name": "ファビュラススター",
+      "score": -0.12393243894073801,
+      "horse_number": 11,
+      "odds": 27.0
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105833",
+      "horse_name": "カリーシ",
+      "score": -0.1622111575780692,
+      "horse_number": 4,
+      "odds": 33.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103898",
+      "horse_name": "イグニション",
+      "score": -0.16506304138169312,
+      "horse_number": 9,
+      "odds": 31.5
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103983",
+      "horse_name": "2023103983",
+      "score": -0.2394849069705729,
+      "horse_number": 14,
+      "odds": 14.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101906",
+      "horse_name": "キョウエイボニータ",
+      "score": -0.32697612631625594,
+      "horse_number": 7,
+      "odds": 29.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101629",
+      "horse_name": "クレオズニードル",
+      "score": -0.34038255834934694,
+      "horse_number": 16,
+      "odds": 57.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020105803",
+      "horse_name": "マイネルラッシュ",
+      "score": -0.39766950513869836,
+      "horse_number": 5,
+      "odds": 50.7
+    }
+  ]
+}
