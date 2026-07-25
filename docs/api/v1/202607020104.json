@@ -1,0 +1,136 @@
+{
+  "race_id": "202607020104",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-25 11:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101035",
+      "horse_name": "テリコス",
+      "score": 0.10171839586847187,
+      "horse_number": 4,
+      "odds": 22.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104408",
+      "horse_name": "ナウオアネヴァー",
+      "score": 0.06874935512968304,
+      "horse_number": 8,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103190",
+      "horse_name": "2023103190",
+      "score": -0.01506703264018193,
+      "horse_number": 16,
+      "odds": 6.7
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102593",
+      "horse_name": "ジャスティンレビン",
+      "score": -0.06220016306557431,
+      "horse_number": 13,
+      "odds": 11.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105232",
+      "horse_name": "ヴァンドゥーヴル",
+      "score": -0.06507945830514583,
+      "horse_number": 3,
+      "odds": 14.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104950",
+      "horse_name": "アステリアート",
+      "score": -0.1504488042457133,
+      "horse_number": 12,
+      "odds": 64.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103395",
+      "horse_name": "ボクサークラブ",
+      "score": -0.15323955245994408,
+      "horse_number": 11,
+      "odds": 14.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105649",
+      "horse_name": "2023105649",
+      "score": -0.22283863989842076,
+      "horse_number": 15,
+      "odds": 48.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103168",
+      "horse_name": "2023103168",
+      "score": -0.22570929930298192,
+      "horse_number": 2,
+      "odds": 3.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102726",
+      "horse_name": "タロ",
+      "score": -0.24814538983494414,
+      "horse_number": 14,
+      "odds": 6.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100430",
+      "horse_name": "ロードファイター",
+      "score": -0.30680486458856626,
+      "horse_number": 6,
+      "odds": 22.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100899",
+      "horse_name": "2023100899",
+      "score": -0.4375933560900004,
+      "horse_number": 9,
+      "odds": 97.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105624",
+      "horse_name": "2023105624",
+      "score": -0.4737532384690014,
+      "horse_number": 7,
+      "odds": 67.3
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101316",
+      "horse_name": "2023101316",
+      "score": -0.5427064208962835,
+      "horse_number": 10,
+      "odds": 38.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103707",
+      "horse_name": "テイクザスローン",
+      "score": -0.6558506860683125,
+      "horse_number": 5,
+      "odds": 47.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100141",
+      "horse_name": "ヨシノサンキュー",
+      "score": -0.6887521558175991,
+      "horse_number": 1,
+      "odds": 54.7
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "race_id": "202607020103",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-25 10:40",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107094",
+      "horse_name": "コスモフィレンツェ",
+      "score": 0.37009865181149093,
+      "horse_number": 6,
+      "odds": 4.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105647",
+      "horse_name": "プレスバーン",
+      "score": 0.26447225046808,
+      "horse_number": 10,
+      "odds": 4.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106007",
+      "horse_name": "スマートエラン",
+      "score": 0.10429934998352687,
+      "horse_number": 5,
+      "odds": 11.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103387",
+      "horse_name": "フィンガーレイクス",
+      "score": 0.03795219039669113,
+      "horse_number": 12,
+      "odds": 6.5
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107357",
+      "horse_name": "レッドブライトン",
+      "score": -0.06298627100637398,
+      "horse_number": 2,
+      "odds": 2.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104405",
+      "horse_name": "ラピス",
+      "score": -0.09923368155314388,
+      "horse_number": 11,
+      "odds": 20.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103357",
+      "horse_name": "マサハヤルージュ",
+      "score": -0.28387535943361536,
+      "horse_number": 7,
+      "odds": 19.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103501",
+      "horse_name": "シンゼンイセ",
+      "score": -0.28594443114852114,
+      "horse_number": 4,
+      "odds": 82.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101175",
+      "horse_name": "2023101175",
+      "score": -0.406350436907165,
+      "horse_number": 9,
+      "odds": 40.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105040",
+      "horse_name": "アメジストブリエ",
+      "score": -0.454946889334664,
+      "horse_number": 8,
+      "odds": 28.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101363",
+      "horse_name": "2023101363",
+      "score": -0.47293600501096866,
+      "horse_number": 1,
+      "odds": 44.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104944",
+      "horse_name": "チュオンソン",
+      "score": -0.7265140734648036,
+      "horse_number": 3,
+      "odds": 31.1
+    }
+  ]
+}

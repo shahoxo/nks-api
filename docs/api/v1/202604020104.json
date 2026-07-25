@@ -1,0 +1,128 @@
+{
+  "race_id": "202604020104",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-25 11:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103693",
+      "horse_name": "スノーランス",
+      "score": 0.16402957352954892,
+      "horse_number": 4,
+      "odds": 8.6
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107355",
+      "horse_name": "マナイアカラニ",
+      "score": 0.1472479178128255,
+      "horse_number": 14,
+      "odds": 4.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104392",
+      "horse_name": "オレンジキャンパス",
+      "score": -0.12221870641739399,
+      "horse_number": 15,
+      "odds": 7.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104017",
+      "horse_name": "ロジザボード",
+      "score": -0.2462452235603109,
+      "horse_number": 9,
+      "odds": 10.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102069",
+      "horse_name": "2023102069",
+      "score": -0.3295635523881358,
+      "horse_number": 8,
+      "odds": 29.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106346",
+      "horse_name": "2023106346",
+      "score": -0.4526874950906882,
+      "horse_number": 2,
+      "odds": 74.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100006",
+      "horse_name": "セイウンヤオヨロズ",
+      "score": -0.5362964771109334,
+      "horse_number": 7,
+      "odds": 6.0
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101142",
+      "horse_name": "2023101142",
+      "score": -0.54029877192692,
+      "horse_number": 6,
+      "odds": 19.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103278",
+      "horse_name": "2023103278",
+      "score": -0.5605472818472005,
+      "horse_number": 1,
+      "odds": 76.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102590",
+      "horse_name": "2023102590",
+      "score": -0.5605472818472005,
+      "horse_number": 3,
+      "odds": 3.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102338",
+      "horse_name": "2023102338",
+      "score": -0.5605472818472005,
+      "horse_number": 5,
+      "odds": 17.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101804",
+      "horse_name": "2023101804",
+      "score": -0.5605472818472005,
+      "horse_number": 12,
+      "odds": 141.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101489",
+      "horse_name": "スウィートラキ",
+      "score": -0.5844092227108343,
+      "horse_number": 10,
+      "odds": 64.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106133",
+      "horse_name": "スウェーバック",
+      "score": -0.6139034835592895,
+      "horse_number": 11,
+      "odds": 31.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105179",
+      "horse_name": "フジテンクウ",
+      "score": -0.6997242947219148,
+      "horse_number": 13,
+      "odds": 95.0
+    }
+  ]
+}
