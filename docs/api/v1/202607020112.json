@@ -1,0 +1,136 @@
+{
+  "race_id": "202607020112",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-25 18:20",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106188",
+      "horse_name": "ビッグヒーロー",
+      "score": 0.5437121175943362,
+      "horse_number": 4,
+      "odds": 3.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105346",
+      "horse_name": "ミッキーラヴィータ",
+      "score": 0.3275058201272936,
+      "horse_number": 13,
+      "odds": 3.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101840",
+      "horse_name": "ララディアーブル",
+      "score": 0.31494046125326325,
+      "horse_number": 8,
+      "odds": 7.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103248",
+      "horse_name": "ラミエルノムスコ",
+      "score": 0.2935148342385103,
+      "horse_number": 16,
+      "odds": 11.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106943",
+      "horse_name": "レインボーステート",
+      "score": 0.05891598385446206,
+      "horse_number": 10,
+      "odds": 6.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100472",
+      "horse_name": "アスクブームキセキ",
+      "score": 0.03287421048112506,
+      "horse_number": 7,
+      "odds": 34.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107341",
+      "horse_name": "2023107341",
+      "score": -0.04263527868193757,
+      "horse_number": 11,
+      "odds": 55.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100138",
+      "horse_name": "2023100138",
+      "score": -0.10510354176186337,
+      "horse_number": 12,
+      "odds": 82.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023110039",
+      "horse_name": "2023110039",
+      "score": -0.1746619574555438,
+      "horse_number": 2,
+      "odds": 68.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103690",
+      "horse_name": "サーブルディアマン",
+      "score": -0.22599903753009037,
+      "horse_number": 9,
+      "odds": 34.9
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105634",
+      "horse_name": "オースミサイファー",
+      "score": -0.2647690360423506,
+      "horse_number": 1,
+      "odds": 47.1
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102640",
+      "horse_name": "オレンジフィールド",
+      "score": -0.31643211045116143,
+      "horse_number": 5,
+      "odds": 18.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100275",
+      "horse_name": "2023100275",
+      "score": -0.3408856540198012,
+      "horse_number": 14,
+      "odds": 193.1
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101844",
+      "horse_name": "2023101844",
+      "score": -0.4255517422256027,
+      "horse_number": 3,
+      "odds": 17.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103172",
+      "horse_name": "2023103172",
+      "score": -0.4373125640186424,
+      "horse_number": 15,
+      "odds": 296.2
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023102232",
+      "horse_name": "2023102232",
+      "score": -0.47293600501096866,
+      "horse_number": 6,
+      "odds": 207.1
+    }
+  ]
+}
