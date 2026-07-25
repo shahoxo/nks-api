@@ -1,0 +1,88 @@
+{
+  "race_id": "202601010109",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-07-25 14:20",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107024",
+      "horse_name": "シニャンガ",
+      "score": 0.3573065063317112,
+      "horse_number": 5,
+      "odds": 4.2
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102584",
+      "horse_name": "ラコンチャビエン",
+      "score": 0.2979368456007577,
+      "horse_number": 6,
+      "odds": 7.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105820",
+      "horse_name": "ルーチェフィオーレ",
+      "score": 0.15444703913507607,
+      "horse_number": 3,
+      "odds": 3.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107075",
+      "horse_name": "ガーネットフレア",
+      "score": 0.10063547715781376,
+      "horse_number": 1,
+      "odds": 10.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106226",
+      "horse_name": "ナムラヒナギク",
+      "score": 0.03749880901887835,
+      "horse_number": 10,
+      "odds": 7.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106618",
+      "horse_name": "ジェルブロア",
+      "score": -0.17734336829344927,
+      "horse_number": 4,
+      "odds": 4.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101090",
+      "horse_name": "ジャストビート",
+      "score": -0.2901303261099066,
+      "horse_number": 7,
+      "odds": 21.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100724",
+      "horse_name": "ニシノエピカリ",
+      "score": -0.4986252763571185,
+      "horse_number": 2,
+      "odds": 19.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105153",
+      "horse_name": "2022105153",
+      "score": -0.5494676617297027,
+      "horse_number": 8,
+      "odds": 27.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105977",
+      "horse_name": "キタノサリスカ",
+      "score": -0.6471922950384126,
+      "horse_number": 9,
+      "odds": 66.8
+    }
+  ]
+}
