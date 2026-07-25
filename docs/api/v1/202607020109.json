@@ -1,0 +1,136 @@
+{
+  "race_id": "202607020109",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-07-25 16:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107081",
+      "horse_name": "ルビドゥソレイユ",
+      "score": 0.266697266728943,
+      "horse_number": 2,
+      "odds": 3.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105126",
+      "horse_name": "2023105126",
+      "score": 0.2146081508892568,
+      "horse_number": 16,
+      "odds": 4.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106540",
+      "horse_name": "イーブンベター",
+      "score": 0.1209037572547763,
+      "horse_number": 14,
+      "odds": 11.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106127",
+      "horse_name": "ダンシングドール",
+      "score": 0.09777016794919098,
+      "horse_number": 12,
+      "odds": 4.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101126",
+      "horse_name": "ルクスコスモス",
+      "score": 0.047394896875075615,
+      "horse_number": 6,
+      "odds": 10.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102208",
+      "horse_name": "ワイズギャング",
+      "score": -0.026866083297854795,
+      "horse_number": 1,
+      "odds": 8.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102994",
+      "horse_name": "オブシディアーナ",
+      "score": -0.04326004166561756,
+      "horse_number": 7,
+      "odds": 15.4
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105533",
+      "horse_name": "ニーナバイリッカ",
+      "score": -0.15493240539208414,
+      "horse_number": 10,
+      "odds": 57.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100416",
+      "horse_name": "ヴァカンツァ",
+      "score": -0.18581161063817864,
+      "horse_number": 13,
+      "odds": 24.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105857",
+      "horse_name": "ラウルベア",
+      "score": -0.21503333999605115,
+      "horse_number": 8,
+      "odds": 114.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106228",
+      "horse_name": "ナムラティアラ",
+      "score": -0.2990377130378695,
+      "horse_number": 4,
+      "odds": 48.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100676",
+      "horse_name": "ミスヘンリー",
+      "score": -0.3738178926716582,
+      "horse_number": 11,
+      "odds": 35.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103291",
+      "horse_name": "ドレドレ",
+      "score": -0.42752523266027453,
+      "horse_number": 15,
+      "odds": 95.6
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022107387",
+      "horse_name": "リカード",
+      "score": -0.4290287936046785,
+      "horse_number": 3,
+      "odds": 20.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023107378",
+      "horse_name": "テーオーアンジェラ",
+      "score": -0.4919512975456371,
+      "horse_number": 5,
+      "odds": 103.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022105011",
+      "horse_name": "リンゲルブルーメ",
+      "score": -0.5380023901584303,
+      "horse_number": 9,
+      "odds": 52.7
+    }
+  ]
+}
