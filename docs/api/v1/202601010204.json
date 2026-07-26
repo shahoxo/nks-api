@@ -1,0 +1,96 @@
+{
+  "race_id": "202601010204",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-26 11:30",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102373",
+      "horse_name": "2023102373",
+      "score": 0.13040890408800238,
+      "horse_number": 11,
+      "odds": 20.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106301",
+      "horse_name": "アンミックス",
+      "score": -0.008569300688418581,
+      "horse_number": 4,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104679",
+      "horse_name": "タイセイルビー",
+      "score": -0.01194955640951834,
+      "horse_number": 1,
+      "odds": 3.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107306",
+      "horse_name": "セラサイト",
+      "score": -0.3522181479743328,
+      "horse_number": 10,
+      "odds": 5.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106570",
+      "horse_name": "メイショウタイザン",
+      "score": -0.3580158512911129,
+      "horse_number": 5,
+      "odds": 8.2
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104001",
+      "horse_name": "クルビデンス",
+      "score": -0.4181790542066649,
+      "horse_number": 8,
+      "odds": 23.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100531",
+      "horse_name": "ショウナンタヅナ",
+      "score": -0.4292326050097389,
+      "horse_number": 6,
+      "odds": 7.9
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103621",
+      "horse_name": "シンエンドーツダ",
+      "score": -0.4298332785970379,
+      "horse_number": 9,
+      "odds": 4.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103280",
+      "horse_name": "ロスニーニョス",
+      "score": -0.6518943205472477,
+      "horse_number": 7,
+      "odds": 31.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102964",
+      "horse_name": "タイガーゲイト",
+      "score": -0.7142512799918292,
+      "horse_number": 3,
+      "odds": 62.2
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104686",
+      "horse_name": "ケンブリッジ",
+      "score": -0.7560238565797833,
+      "horse_number": 2,
+      "odds": 25.9
+    }
+  ]
+}

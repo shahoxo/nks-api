@@ -1,0 +1,128 @@
+{
+  "race_id": "202604020203",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-26 10:50",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101394",
+      "horse_name": "ミエスタ",
+      "score": 0.2612864275346044,
+      "horse_number": 11,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107532",
+      "horse_name": "ミスタートントン",
+      "score": 0.008302646488015777,
+      "horse_number": 8,
+      "odds": 4.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107207",
+      "horse_name": "2023107207",
+      "score": -0.018240787575205534,
+      "horse_number": 6,
+      "odds": 10.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107029",
+      "horse_name": "フェルアフリーゼ",
+      "score": -0.3003471443824755,
+      "horse_number": 1,
+      "odds": 7.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101100",
+      "horse_name": "ローズオブジャパン",
+      "score": -0.38821064566450536,
+      "horse_number": 13,
+      "odds": 18.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103692",
+      "horse_name": "ラヴィングリー",
+      "score": -0.42740178828439823,
+      "horse_number": 2,
+      "odds": 24.4
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100240",
+      "horse_name": "スピニンググローブ",
+      "score": -0.4869809445270261,
+      "horse_number": 7,
+      "odds": 6.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104154",
+      "horse_name": "カセノソレイユ",
+      "score": -0.4906167305640166,
+      "horse_number": 9,
+      "odds": 59.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100692",
+      "horse_name": "2023100692",
+      "score": -0.5111297363999056,
+      "horse_number": 15,
+      "odds": 8.7
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104590",
+      "horse_name": "スカット",
+      "score": -0.5819922853663164,
+      "horse_number": 3,
+      "odds": 26.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103569",
+      "horse_name": "ツキノマバタキ",
+      "score": -0.6457252101891606,
+      "horse_number": 4,
+      "odds": 40.0
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104438",
+      "horse_name": "ヘヴンズドライブ",
+      "score": -0.6518943205472477,
+      "horse_number": 5,
+      "odds": 27.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101411",
+      "horse_name": "2023101411",
+      "score": -0.6543632925823613,
+      "horse_number": 10,
+      "odds": 62.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023101358",
+      "horse_name": "2023101358",
+      "score": -0.6543632925823613,
+      "horse_number": 12,
+      "odds": 73.6
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023109103",
+      "horse_name": "カシノユメミヅキ",
+      "score": -0.7344997899121097,
+      "horse_number": 14,
+      "odds": 124.8
+    }
+  ]
+}

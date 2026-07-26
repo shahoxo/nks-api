@@ -1,0 +1,136 @@
+{
+  "race_id": "202601010203",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-26 11:00",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106073",
+      "horse_name": "2023106073",
+      "score": 0.18489530560739403,
+      "horse_number": 3,
+      "odds": 20.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105739",
+      "horse_name": "モズヴイ",
+      "score": 0.18309990746318827,
+      "horse_number": 14,
+      "odds": 10.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101599",
+      "horse_name": "クロノレガリス",
+      "score": 0.15935407741471322,
+      "horse_number": 16,
+      "odds": 59.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101177",
+      "horse_name": "ムーンリットレイン",
+      "score": 0.034692743415675145,
+      "horse_number": 13,
+      "odds": 32.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107042",
+      "horse_name": "ティンクルバレット",
+      "score": -0.004967471851330889,
+      "horse_number": 5,
+      "odds": 19.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102639",
+      "horse_name": "ランスオブラヴ",
+      "score": -0.028501197606898326,
+      "horse_number": 2,
+      "odds": 7.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101077",
+      "horse_name": "アンジュラフィーユ",
+      "score": -0.07123707685274407,
+      "horse_number": 10,
+      "odds": 4.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101395",
+      "horse_name": "ガルフコースト",
+      "score": -0.10895671868810954,
+      "horse_number": 15,
+      "odds": 44.3
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105836",
+      "horse_name": "フリーダムスタイル",
+      "score": -0.2138197132537804,
+      "horse_number": 7,
+      "odds": 22.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103400",
+      "horse_name": "ハルヒメ",
+      "score": -0.24201766820690893,
+      "horse_number": 8,
+      "odds": 3.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106470",
+      "horse_name": "メーテルリンク",
+      "score": -0.3843663705665582,
+      "horse_number": 12,
+      "odds": 36.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100695",
+      "horse_name": "モノノケ",
+      "score": -0.40434141659147915,
+      "horse_number": 6,
+      "odds": 56.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106567",
+      "horse_name": "メイショウテンジン",
+      "score": -0.4743274891904169,
+      "horse_number": 11,
+      "odds": 8.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106105",
+      "horse_name": "ユナダイヤ",
+      "score": -0.5783892237022068,
+      "horse_number": 9,
+      "odds": 38.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100963",
+      "horse_name": "ロンドンプライド",
+      "score": -0.5926985816549145,
+      "horse_number": 1,
+      "odds": 14.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104685",
+      "horse_name": "ロジスカヤ",
+      "score": -0.5926985816549145,
+      "horse_number": 4,
+      "odds": 16.2
+    }
+  ]
+}

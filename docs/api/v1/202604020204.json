@@ -1,0 +1,152 @@
+{
+  "race_id": "202604020204",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-07-26 11:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103366",
+      "horse_name": "ココナッツコースト",
+      "score": 0.4050863175043342,
+      "horse_number": 14,
+      "odds": 2.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103789",
+      "horse_name": "アースヴィンチ",
+      "score": 0.053474610026197966,
+      "horse_number": 16,
+      "odds": 13.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106836",
+      "horse_name": "アドマイヤウルトラ",
+      "score": 0.022191282212792835,
+      "horse_number": 1,
+      "odds": 10.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106795",
+      "horse_name": "ルシアージュ",
+      "score": -0.060085844364269565,
+      "horse_number": 11,
+      "odds": 11.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104832",
+      "horse_name": "2023104832",
+      "score": -0.18668541093575036,
+      "horse_number": 9,
+      "odds": 66.5
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105043",
+      "horse_name": "2023105043",
+      "score": -0.22897276652732446,
+      "horse_number": 2,
+      "odds": 8.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103805",
+      "horse_name": "キャリアビジョン",
+      "score": -0.31337346334035315,
+      "horse_number": 12,
+      "odds": 32.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106245",
+      "horse_name": "ルモンテ",
+      "score": -0.3892641501951283,
+      "horse_number": 8,
+      "odds": 7.8
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103347",
+      "horse_name": "2023103347",
+      "score": -0.4588071088866442,
+      "horse_number": 5,
+      "odds": 14.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107325",
+      "horse_name": "クールチェンジ",
+      "score": -0.46016454716550437,
+      "horse_number": 18,
+      "odds": 18.5
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100234",
+      "horse_name": "イーガービーバー",
+      "score": -0.46451228575418146,
+      "horse_number": 3,
+      "odds": 17.5
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101361",
+      "horse_name": "2023101361",
+      "score": -0.47293600501096866,
+      "horse_number": 13,
+      "odds": 139.9
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106593",
+      "horse_name": "カムバックトゥミー",
+      "score": -0.5013698082694291,
+      "horse_number": 4,
+      "odds": 29.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100800",
+      "horse_name": "バトルモクオ",
+      "score": -0.5240424937039242,
+      "horse_number": 7,
+      "odds": 14.0
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103273",
+      "horse_name": "ジュリ",
+      "score": -0.5393606452573874,
+      "horse_number": 15,
+      "odds": 70.6
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106119",
+      "horse_name": "スーパーハイウェイ",
+      "score": -0.5419068047818026,
+      "horse_number": 6,
+      "odds": 91.1
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023105197",
+      "horse_name": "サイモンナイスラン",
+      "score": -0.5624665727050773,
+      "horse_number": 10,
+      "odds": 33.2
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023104891",
+      "horse_name": "ビーストウォーズ",
+      "score": -0.5844092227108343,
+      "horse_number": 17,
+      "odds": 154.1
+    }
+  ]
+}
