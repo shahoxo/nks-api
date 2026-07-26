@@ -1,0 +1,136 @@
+{
+  "race_id": "202607020210",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-07-26 17:20",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103718",
+      "horse_name": "アーガイルショア",
+      "score": 0.23342105623553305,
+      "horse_number": 11,
+      "odds": 9.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101501",
+      "horse_name": "マイティキングダム",
+      "score": 0.21284307014269657,
+      "horse_number": 15,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107536",
+      "horse_name": "モンスエ",
+      "score": 0.17888890567527876,
+      "horse_number": 12,
+      "odds": 16.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105593",
+      "horse_name": "ポッドリプル",
+      "score": 0.13550794677842937,
+      "horse_number": 10,
+      "odds": 4.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023110043",
+      "horse_name": "ラブインアクション",
+      "score": 0.08569077594132324,
+      "horse_number": 2,
+      "odds": 4.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105194",
+      "horse_name": "ラトラース",
+      "score": 0.0458732357694021,
+      "horse_number": 14,
+      "odds": 13.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105012",
+      "horse_name": "フロンティエール",
+      "score": -0.01592233279381072,
+      "horse_number": 8,
+      "odds": 35.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020110051",
+      "horse_name": "ザングウィル",
+      "score": -0.0824581164819109,
+      "horse_number": 6,
+      "odds": 12.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023110036",
+      "horse_name": "キーンセンス",
+      "score": -0.10260729517006714,
+      "horse_number": 16,
+      "odds": 8.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103151",
+      "horse_name": "ハードシングス",
+      "score": -0.11332216222100132,
+      "horse_number": 3,
+      "odds": 24.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021106942",
+      "horse_name": "レイム",
+      "score": -0.13777277485559766,
+      "horse_number": 13,
+      "odds": 21.4
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103755",
+      "horse_name": "エシェックオロワ",
+      "score": -0.2491788124493346,
+      "horse_number": 9,
+      "odds": 68.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105619",
+      "horse_name": "ダディーズグーグー",
+      "score": -0.3027340113561108,
+      "horse_number": 5,
+      "odds": 54.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105077",
+      "horse_name": "ワイルドブッター",
+      "score": -0.4288216783149369,
+      "horse_number": 4,
+      "odds": 70.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106289",
+      "horse_name": "シャープインサイト",
+      "score": -0.4804817030035291,
+      "horse_number": 7,
+      "odds": 31.4
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104362",
+      "horse_name": "イーサンハンター",
+      "score": -0.5786341531639164,
+      "horse_number": 1,
+      "odds": 83.9
+    }
+  ]
+}
