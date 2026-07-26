@@ -1,0 +1,96 @@
+{
+  "race_id": "202604020206",
+  "race_name": "出雲崎特別",
+  "race_time": "2026-07-26 15:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105899",
+      "horse_name": "ソウルオンファイア",
+      "score": 0.1308170195464064,
+      "horse_number": 7,
+      "odds": 3.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107359",
+      "horse_name": "サマースイートピー",
+      "score": 0.12224723149790408,
+      "horse_number": 2,
+      "odds": 9.1
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104399",
+      "horse_name": "ラヴオントップ",
+      "score": 0.008930779996768577,
+      "horse_number": 8,
+      "odds": 4.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105824",
+      "horse_name": "フィーチャリング",
+      "score": 0.006791221047732343,
+      "horse_number": 4,
+      "odds": 19.3
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106169",
+      "horse_name": "カワキタマナレア",
+      "score": -0.016335967817887577,
+      "horse_number": 3,
+      "odds": 8.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106307",
+      "horse_name": "モリノセピア",
+      "score": -0.0341613437495532,
+      "horse_number": 1,
+      "odds": 6.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103725",
+      "horse_name": "ロッカバイベイビー",
+      "score": -0.16051103259373994,
+      "horse_number": 10,
+      "odds": 26.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020105803",
+      "horse_name": "マイネルラッシュ",
+      "score": -0.2692492786180284,
+      "horse_number": 5,
+      "odds": 37.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103577",
+      "horse_name": "リッキースタイル",
+      "score": -0.2897994418901342,
+      "horse_number": 6,
+      "odds": 6.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106698",
+      "horse_name": "オカメノコイ",
+      "score": -0.46608115501015435,
+      "horse_number": 9,
+      "odds": 16.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105779",
+      "horse_name": "レッドセニョール",
+      "score": -0.5488310238833476,
+      "horse_number": 11,
+      "odds": 51.3
+    }
+  ]
+}

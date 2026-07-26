@@ -1,0 +1,88 @@
+{
+  "race_id": "202601010210",
+  "race_name": "羊ヶ丘特別",
+  "race_time": "2026-07-26 14:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103227",
+      "horse_name": "ジャズ",
+      "score": 0.2490517235652958,
+      "horse_number": 9,
+      "odds": 16.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105106",
+      "horse_name": "アルデトップガン",
+      "score": 0.10442662903248069,
+      "horse_number": 1,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105356",
+      "horse_name": "マーゴットブロー",
+      "score": 0.05617112339841306,
+      "horse_number": 5,
+      "odds": 6.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105714",
+      "horse_name": "ヒズマスターピース",
+      "score": -0.015687968346527248,
+      "horse_number": 10,
+      "odds": 2.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105347",
+      "horse_name": "ショウナンカリス",
+      "score": -0.020129842725158303,
+      "horse_number": 6,
+      "odds": 6.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105981",
+      "horse_name": "ブラックルビー",
+      "score": -0.1952731604496068,
+      "horse_number": 7,
+      "odds": 23.9
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101412",
+      "horse_name": "ワタシマツワ",
+      "score": -0.2714281585944025,
+      "horse_number": 8,
+      "odds": 7.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101464",
+      "horse_name": "レイユール",
+      "score": -0.3869362420286263,
+      "horse_number": 2,
+      "odds": 13.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101469",
+      "horse_name": "ヴェナートル",
+      "score": -0.45837403470925747,
+      "horse_number": 4,
+      "odds": 36.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020101184",
+      "horse_name": "シャイニースイフト",
+      "score": -0.4706233067283154,
+      "horse_number": 3,
+      "odds": 13.7
+    }
+  ]
+}

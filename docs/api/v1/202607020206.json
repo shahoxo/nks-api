@@ -1,0 +1,88 @@
+{
+  "race_id": "202607020206",
+  "race_name": "木曽川特別",
+  "race_time": "2026-07-26 15:01",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105098",
+      "horse_name": "マディソンガール",
+      "score": 0.49492773580679766,
+      "horse_number": 6,
+      "odds": 4.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107227",
+      "horse_name": "レッドラージャ",
+      "score": 0.3732814393705673,
+      "horse_number": 2,
+      "odds": 5.4
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105645",
+      "horse_name": "サヴォアフェール",
+      "score": 0.3573065063317112,
+      "horse_number": 1,
+      "odds": 1.9
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105250",
+      "horse_name": "エアビッグマム",
+      "score": 0.08224940119718994,
+      "horse_number": 10,
+      "odds": 14.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103278",
+      "horse_name": "ホウオウタイタン",
+      "score": -0.0695989843501509,
+      "horse_number": 5,
+      "odds": 8.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103651",
+      "horse_name": "ツーエムクロノス",
+      "score": -0.14389903632044806,
+      "horse_number": 3,
+      "odds": 40.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104623",
+      "horse_name": "コリカンチャ",
+      "score": -0.28667063360660033,
+      "horse_number": 9,
+      "odds": 34.3
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105970",
+      "horse_name": "コンフェルマ",
+      "score": -0.32061120649720987,
+      "horse_number": 7,
+      "odds": 14.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101925",
+      "horse_name": "オデット",
+      "score": -0.5341313769846037,
+      "horse_number": 8,
+      "odds": 43.4
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100529",
+      "horse_name": "ハッピーダンチャン",
+      "score": -0.5836065190735424,
+      "horse_number": 4,
+      "odds": 95.9
+    }
+  ]
+}
