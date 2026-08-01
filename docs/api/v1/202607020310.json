@@ -1,0 +1,136 @@
+{
+  "race_id": "202607020310",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-01 17:20",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102213",
+      "horse_name": "プルメリアリノ",
+      "score": 0.2786179038858016,
+      "horse_number": 14,
+      "odds": 2.7
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103728",
+      "horse_name": "アメリカンビーチ",
+      "score": 0.22721798551357902,
+      "horse_number": 15,
+      "odds": 18.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020100683",
+      "horse_name": "カフェノワール",
+      "score": 0.16915711750883855,
+      "horse_number": 10,
+      "odds": 5.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101865",
+      "horse_name": "ウォーターデライト",
+      "score": 0.09834275693221858,
+      "horse_number": 11,
+      "odds": 20.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104391",
+      "horse_name": "ヴィヴァシャス",
+      "score": 0.09006888818334956,
+      "horse_number": 3,
+      "odds": 35.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104101",
+      "horse_name": "タイセイブロウ",
+      "score": -0.022558036249094145,
+      "horse_number": 8,
+      "odds": 20.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101399",
+      "horse_name": "ルージュミステリオ",
+      "score": -0.03773848994595484,
+      "horse_number": 6,
+      "odds": 31.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105321",
+      "horse_name": "ハウリングウィンド",
+      "score": -0.1216381506498779,
+      "horse_number": 2,
+      "odds": 7.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106989",
+      "horse_name": "キンダープンシュ",
+      "score": -0.17975340583538538,
+      "horse_number": 9,
+      "odds": 16.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103943",
+      "horse_name": "クインズセレネ",
+      "score": -0.1857273418943383,
+      "horse_number": 13,
+      "odds": 31.4
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100997",
+      "horse_name": "ジョードリウム",
+      "score": -0.261470691750757,
+      "horse_number": 16,
+      "odds": 78.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106582",
+      "horse_name": "ケイアイマウンガ",
+      "score": -0.35036933898032435,
+      "horse_number": 4,
+      "odds": 13.2
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100961",
+      "horse_name": "エコログロウ",
+      "score": -0.371503256781843,
+      "horse_number": 12,
+      "odds": 21.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106786",
+      "horse_name": "ヴェルジーネ",
+      "score": -0.42633898210220056,
+      "horse_number": 7,
+      "odds": 14.4
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103249",
+      "horse_name": "メイショウアボット",
+      "score": -0.43101479620973027,
+      "horse_number": 5,
+      "odds": 23.9
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022105748",
+      "horse_name": "リードプリンシパル",
+      "score": -0.48664863156560456,
+      "horse_number": 1,
+      "odds": 41.2
+    }
+  ]
+}

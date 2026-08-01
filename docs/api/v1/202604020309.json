@@ -1,0 +1,128 @@
+{
+  "race_id": "202604020309",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-01 16:55",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103341",
+      "horse_name": "エアサロメ",
+      "score": 0.25504612054723946,
+      "horse_number": 10,
+      "odds": 3.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104780",
+      "horse_name": "クラシオン",
+      "score": 0.16598181684260005,
+      "horse_number": 6,
+      "odds": 16.7
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020106771",
+      "horse_name": "トモジャシーマ",
+      "score": 0.08854070300464699,
+      "horse_number": 3,
+      "odds": 11.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102192",
+      "horse_name": "グランルチャドール",
+      "score": 0.06381642793465972,
+      "horse_number": 2,
+      "odds": 22.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104174",
+      "horse_name": "ホウオウルクソール",
+      "score": -0.06798943270583312,
+      "horse_number": 4,
+      "odds": 3.8
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105300",
+      "horse_name": "ブリックンクリック",
+      "score": -0.11573374018022389,
+      "horse_number": 1,
+      "odds": 14.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105535",
+      "horse_name": "デルマエアロール",
+      "score": -0.14156413891524958,
+      "horse_number": 5,
+      "odds": 87.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101521",
+      "horse_name": "グッドヴァイブス",
+      "score": -0.23922063134378593,
+      "horse_number": 9,
+      "odds": 61.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103860",
+      "horse_name": "フィールマイプラン",
+      "score": -0.31160278358346327,
+      "horse_number": 7,
+      "odds": 5.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100675",
+      "horse_name": "アルマーレシチー",
+      "score": -0.47759070315612606,
+      "horse_number": 14,
+      "odds": 19.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105164",
+      "horse_name": "ノースブルースカイ",
+      "score": -0.5260753382008847,
+      "horse_number": 15,
+      "odds": 30.6
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100081",
+      "horse_name": "アカツキロットリー",
+      "score": -0.5756804866807193,
+      "horse_number": 8,
+      "odds": 149.6
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106429",
+      "horse_name": "ノーブルミステリー",
+      "score": -0.5904625878916535,
+      "horse_number": 11,
+      "odds": 59.2
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100506",
+      "horse_name": "キングクレオール",
+      "score": -0.6293301629666437,
+      "horse_number": 13,
+      "odds": 33.1
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023105402",
+      "horse_name": "ガルディーノ",
+      "score": -0.6997242947219148,
+      "horse_number": 12,
+      "odds": 13.7
+    }
+  ]
+}
