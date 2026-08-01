@@ -1,0 +1,136 @@
+{
+  "race_id": "202607020304",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-01 11:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107064",
+      "horse_name": "フィデリス",
+      "score": 0.25362305049574585,
+      "horse_number": 15,
+      "odds": 4.0
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103329",
+      "horse_name": "ウンナターシャ",
+      "score": 0.1811385882986481,
+      "horse_number": 9,
+      "odds": 6.0
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105462",
+      "horse_name": "2023105462",
+      "score": 0.01203954539012769,
+      "horse_number": 10,
+      "odds": 12.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106794",
+      "horse_name": "2023106794",
+      "score": -0.047574832638570576,
+      "horse_number": 12,
+      "odds": 5.8
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106004",
+      "horse_name": "スマートエトワール",
+      "score": -0.06979359211949229,
+      "horse_number": 5,
+      "odds": 13.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104362",
+      "horse_name": "ヤマニンエルファバ",
+      "score": -0.11845642126182408,
+      "horse_number": 3,
+      "odds": 5.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104329",
+      "horse_name": "タガノアルテミス",
+      "score": -0.13793643920700677,
+      "horse_number": 13,
+      "odds": 21.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105385",
+      "horse_name": "エアリアルグレース",
+      "score": -0.2570264714249245,
+      "horse_number": 1,
+      "odds": 98.9
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101201",
+      "horse_name": "タントレーベル",
+      "score": -0.34199985053563514,
+      "horse_number": 2,
+      "odds": 24.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102174",
+      "horse_name": "メイショウマグナ",
+      "score": -0.34469554405215297,
+      "horse_number": 16,
+      "odds": 55.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106213",
+      "horse_name": "ガビーズデトワール",
+      "score": -0.36635036080235717,
+      "horse_number": 7,
+      "odds": 81.7
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101946",
+      "horse_name": "キーテーマ",
+      "score": -0.399788235466221,
+      "horse_number": 6,
+      "odds": 36.8
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105819",
+      "horse_name": "ベイニーニャ",
+      "score": -0.4302123777707988,
+      "horse_number": 4,
+      "odds": 12.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023109040",
+      "horse_name": "メイショウメゴヒメ",
+      "score": -0.49483120434470795,
+      "horse_number": 14,
+      "odds": 19.5
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023101988",
+      "horse_name": "アスタウイン",
+      "score": -0.6792810146805732,
+      "horse_number": 11,
+      "odds": 67.7
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023100605",
+      "horse_name": "キミガスキダ",
+      "score": -0.7142512799918292,
+      "horse_number": 8,
+      "odds": 71.6
+    }
+  ]
+}

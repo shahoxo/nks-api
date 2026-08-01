@@ -1,0 +1,128 @@
+{
+  "race_id": "202604020304",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-01 11:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102033",
+      "horse_name": "イデアクリスタル",
+      "score": -0.03265984434369186,
+      "horse_number": 13,
+      "odds": 16.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106984",
+      "horse_name": "アースアクシス",
+      "score": -0.0498738915252092,
+      "horse_number": 14,
+      "odds": 13.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104727",
+      "horse_name": "タマモチョコチップ",
+      "score": -0.0961921308391306,
+      "horse_number": 6,
+      "odds": 6.0
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104884",
+      "horse_name": "プロミスライン",
+      "score": -0.12160319063123641,
+      "horse_number": 5,
+      "odds": 12.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105652",
+      "horse_name": "2023105652",
+      "score": -0.13790522194357313,
+      "horse_number": 3,
+      "odds": 5.4
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107200",
+      "horse_name": "2023107200",
+      "score": -0.15163864237466254,
+      "horse_number": 15,
+      "odds": 6.5
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103905",
+      "horse_name": "メジロピオラ",
+      "score": -0.23583076926465568,
+      "horse_number": 1,
+      "odds": 5.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103045",
+      "horse_name": "フィクセルリリア",
+      "score": -0.2703637042425312,
+      "horse_number": 10,
+      "odds": 11.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107175",
+      "horse_name": "2023107175",
+      "score": -0.47293600501096866,
+      "horse_number": 7,
+      "odds": 51.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105022",
+      "horse_name": "アジュアカレンツ",
+      "score": -0.48365865024013455,
+      "horse_number": 11,
+      "odds": 13.6
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105596",
+      "horse_name": "ドナソラーレ",
+      "score": -0.495646376558159,
+      "horse_number": 8,
+      "odds": 27.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023109163",
+      "horse_name": "ハニーアンバー",
+      "score": -0.5000092046296263,
+      "horse_number": 4,
+      "odds": 27.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100513",
+      "horse_name": "2023100513",
+      "score": -0.5605472818472005,
+      "horse_number": 12,
+      "odds": 19.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104579",
+      "horse_name": "2023104579",
+      "score": -0.7212483613895885,
+      "horse_number": 9,
+      "odds": 73.7
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103659",
+      "horse_name": "レディソフィア",
+      "score": -0.7560238565797833,
+      "horse_number": 2,
+      "odds": 25.4
+    }
+  ]
+}
