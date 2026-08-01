@@ -1,0 +1,120 @@
+{
+  "race_id": "202601010310",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-01 14:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105344",
+      "horse_name": "ルールザウェイヴ",
+      "score": 0.2673617880658904,
+      "horse_number": 8,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103086",
+      "horse_name": "イヌボウノウタゴエ",
+      "score": 0.23909442818988802,
+      "horse_number": 1,
+      "odds": 3.2
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105295",
+      "horse_name": "ダノンプレサージュ",
+      "score": 0.2365300771041625,
+      "horse_number": 3,
+      "odds": 6.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106894",
+      "horse_name": "ハヤブササキチャン",
+      "score": 0.17538211851712415,
+      "horse_number": 5,
+      "odds": 6.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102088",
+      "horse_name": "ユーティジャーニー",
+      "score": 0.14838112883579152,
+      "horse_number": 7,
+      "odds": 10.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102615",
+      "horse_name": "ホワイトオーキッド",
+      "score": -0.0358266533654185,
+      "horse_number": 10,
+      "odds": 17.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103797",
+      "horse_name": "アンディムジーク",
+      "score": -0.04355929638431609,
+      "horse_number": 11,
+      "odds": 59.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104159",
+      "horse_name": "ヴェガリア",
+      "score": -0.05882625983506774,
+      "horse_number": 12,
+      "odds": 15.6
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103456",
+      "horse_name": "スピナーリート",
+      "score": -0.0825357112381812,
+      "horse_number": 13,
+      "odds": 19.6
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105817",
+      "horse_name": "アルディスティーノ",
+      "score": -0.09794029285048768,
+      "horse_number": 6,
+      "odds": 17.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101039",
+      "horse_name": "オーケーダイナ",
+      "score": -0.2771820743536343,
+      "horse_number": 4,
+      "odds": 61.2
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101408",
+      "horse_name": "フェニーチェドーロ",
+      "score": -0.363390338490272,
+      "horse_number": 9,
+      "odds": 113.4
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105057",
+      "horse_name": "オンザヴィーナス",
+      "score": -0.41821482180072433,
+      "horse_number": 2,
+      "odds": 75.0
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101056",
+      "horse_name": "イズントイット",
+      "score": -0.5144145684863236,
+      "horse_number": 14,
+      "odds": 203.9
+    }
+  ]
+}

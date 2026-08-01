@@ -1,0 +1,104 @@
+{
+  "race_id": "202604020306",
+  "race_name": "月岡温泉特別",
+  "race_time": "2026-08-01 15:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105580",
+      "horse_name": "クラッシファイド",
+      "score": 0.20524241803739024,
+      "horse_number": 4,
+      "odds": 10.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105886",
+      "horse_name": "ホウオウトランプ",
+      "score": 0.1682949116494356,
+      "horse_number": 2,
+      "odds": 6.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105575",
+      "horse_name": "セイロンジェムズ",
+      "score": 0.14833914653191682,
+      "horse_number": 3,
+      "odds": 5.8
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110060",
+      "horse_name": "エリカアンディーヴ",
+      "score": 0.08650542508298295,
+      "horse_number": 6,
+      "odds": 11.0
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105421",
+      "horse_name": "コンフォルツァ",
+      "score": -0.01054184341716409,
+      "horse_number": 10,
+      "odds": 3.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105244",
+      "horse_name": "スピンザブラッド",
+      "score": -0.03648878795402848,
+      "horse_number": 11,
+      "odds": 32.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102106",
+      "horse_name": "ツルマウカタチ",
+      "score": -0.05528514911965522,
+      "horse_number": 7,
+      "odds": 26.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100080",
+      "horse_name": "リカントロポ",
+      "score": -0.11016146282428936,
+      "horse_number": 9,
+      "odds": 15.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105317",
+      "horse_name": "ミーントゥビー",
+      "score": -0.15321390949425476,
+      "horse_number": 12,
+      "odds": 14.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102561",
+      "horse_name": "キーウェーブ",
+      "score": -0.32970363491557353,
+      "horse_number": 8,
+      "odds": 94.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105014",
+      "horse_name": "タイセイプランセス",
+      "score": -0.4369548259975017,
+      "horse_number": 1,
+      "odds": 4.9
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101261",
+      "horse_name": "コスモスプモーニ",
+      "score": -0.6028440267205291,
+      "horse_number": 5,
+      "odds": 98.4
+    }
+  ]
+}
