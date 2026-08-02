@@ -1,0 +1,128 @@
+{
+  "race_id": "202604020404",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-02 11:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106974",
+      "horse_name": "サトノクラシカル",
+      "score": 0.16505318286995513,
+      "horse_number": 9,
+      "odds": 3.3
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105319",
+      "horse_name": "ネイティヴプライド",
+      "score": -0.14531626458240354,
+      "horse_number": 10,
+      "odds": 6.8
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106956",
+      "horse_name": "2023106956",
+      "score": -0.1670139632459469,
+      "horse_number": 8,
+      "odds": 6.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104045",
+      "horse_name": "2023104045",
+      "score": -0.2495432367144625,
+      "horse_number": 4,
+      "odds": 38.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106368",
+      "horse_name": "2023106368",
+      "score": -0.32866184575368185,
+      "horse_number": 13,
+      "odds": 5.3
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107305",
+      "horse_name": "グラムエッジ",
+      "score": -0.35914081916697826,
+      "horse_number": 11,
+      "odds": 14.3
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102159",
+      "horse_name": "2023102159",
+      "score": -0.406350436907165,
+      "horse_number": 15,
+      "odds": 72.5
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101970",
+      "horse_name": "2023101970",
+      "score": -0.4373125640186424,
+      "horse_number": 14,
+      "odds": 41.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100637",
+      "horse_name": "ブリリアンス",
+      "score": -0.4669767510172079,
+      "horse_number": 6,
+      "odds": 139.8
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107425",
+      "horse_name": "2023107425",
+      "score": -0.4737532384690014,
+      "horse_number": 12,
+      "odds": 16.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105577",
+      "horse_name": "グランフィエスタ",
+      "score": -0.47433791282318016,
+      "horse_number": 2,
+      "odds": 47.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023104854",
+      "horse_name": "ヤマメナイト",
+      "score": -0.5033304658000088,
+      "horse_number": 7,
+      "odds": 24.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103473",
+      "horse_name": "チャリティチャリス",
+      "score": -0.5179545510060587,
+      "horse_number": 1,
+      "odds": 86.7
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103438",
+      "horse_name": "ツインドライヴ",
+      "score": -0.6035163520339901,
+      "horse_number": 3,
+      "odds": 7.3
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100739",
+      "horse_name": "ヤマタケボニータ",
+      "score": -0.6518943205472477,
+      "horse_number": 5,
+      "odds": 22.2
+    }
+  ]
+}

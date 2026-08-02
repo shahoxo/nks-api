@@ -1,0 +1,96 @@
+{
+  "race_id": "202601010403",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-02 11:00",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023110069",
+      "horse_name": "2023110069",
+      "score": 0.24490071615573278,
+      "horse_number": 8,
+      "odds": 4.1
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105739",
+      "horse_name": "モズヴイ",
+      "score": 0.1726192688429619,
+      "horse_number": 1,
+      "odds": 12.9
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102750",
+      "horse_name": "2023102750",
+      "score": 0.10200768033977867,
+      "horse_number": 3,
+      "odds": 1.6
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101714",
+      "horse_name": "ワンダーゾルダート",
+      "score": -0.0787210379978414,
+      "horse_number": 2,
+      "odds": 20.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102396",
+      "horse_name": "ホウオウロレンシア",
+      "score": -0.102257886974653,
+      "horse_number": 11,
+      "odds": 8.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106657",
+      "horse_name": "イーサンミラー",
+      "score": -0.16759678070042713,
+      "horse_number": 5,
+      "odds": 22.6
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103504",
+      "horse_name": "ハイランダー",
+      "score": -0.17665740275080394,
+      "horse_number": 9,
+      "odds": 17.8
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105090",
+      "horse_name": "2023105090",
+      "score": -0.5363900603696101,
+      "horse_number": 6,
+      "odds": 153.5
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100784",
+      "horse_name": "エースオブゴールド",
+      "score": -0.5648654363463254,
+      "horse_number": 4,
+      "odds": 96.5
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107544",
+      "horse_name": "カンフージョン",
+      "score": -0.5936516828434119,
+      "horse_number": 10,
+      "odds": 141.8
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104288",
+      "horse_name": "イントゥゴールデン",
+      "score": -0.7560238565797833,
+      "horse_number": 7,
+      "odds": 79.5
+    }
+  ]
+}
