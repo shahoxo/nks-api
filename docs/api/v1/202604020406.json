@@ -1,0 +1,128 @@
+{
+  "race_id": "202604020406",
+  "race_name": "苗場特別",
+  "race_time": "2026-08-02 15:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105198",
+      "horse_name": "ヘリオトロープ",
+      "score": 0.41044686405917974,
+      "horse_number": 6,
+      "odds": 4.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101603",
+      "horse_name": "ナイトスラッガー",
+      "score": 0.12294908353796634,
+      "horse_number": 5,
+      "odds": 7.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102965",
+      "horse_name": "ブレトワルダ",
+      "score": 0.07635061424736729,
+      "horse_number": 1,
+      "odds": 6.1
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105229",
+      "horse_name": "シーニックビュー",
+      "score": 0.072856538042011,
+      "horse_number": 3,
+      "odds": 38.4
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105925",
+      "horse_name": "フィールオーサム",
+      "score": 0.02736254866414014,
+      "horse_number": 10,
+      "odds": 4.7
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104321",
+      "horse_name": "カレンワッツアップ",
+      "score": 0.0038426858231483466,
+      "horse_number": 2,
+      "odds": 23.7
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106427",
+      "horse_name": "ニシノケンタマン",
+      "score": -0.011271082416569562,
+      "horse_number": 11,
+      "odds": 12.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103701",
+      "horse_name": "マッドゲイル",
+      "score": -0.07315350174209471,
+      "horse_number": 4,
+      "odds": 7.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021110106",
+      "horse_name": "エリカヴェネチア",
+      "score": -0.11193874405711209,
+      "horse_number": 13,
+      "odds": 50.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106051",
+      "horse_name": "セザンワールド",
+      "score": -0.11567487835969287,
+      "horse_number": 8,
+      "odds": 32.7
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100650",
+      "horse_name": "ロードソルスティス",
+      "score": -0.18601328514494078,
+      "horse_number": 15,
+      "odds": 14.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105086",
+      "horse_name": "フクチャントウメイ",
+      "score": -0.23856477731406317,
+      "horse_number": 9,
+      "odds": 79.1
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020102793",
+      "horse_name": "ルーラーリッチ",
+      "score": -0.421143555531352,
+      "horse_number": 7,
+      "odds": 71.9
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020105147",
+      "horse_name": "ユイノマチブセ",
+      "score": -0.5970618435386312,
+      "horse_number": 12,
+      "odds": 12.2
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021107266",
+      "horse_name": "スプレーフォール",
+      "score": -0.6815536661455034,
+      "horse_number": 14,
+      "odds": 130.4
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "race_id": "202601010410",
+  "race_name": "ポプラS",
+  "race_time": "2026-08-02 14:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104865",
+      "horse_name": "ヘニーガイスト",
+      "score": 0.3646752189586331,
+      "horse_number": 8,
+      "odds": 1.8
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105351",
+      "horse_name": "チャーリー",
+      "score": 0.2979115510413572,
+      "horse_number": 6,
+      "odds": 5.3
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103822",
+      "horse_name": "フルールドール",
+      "score": 0.22167790896964681,
+      "horse_number": 10,
+      "odds": 35.2
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104414",
+      "horse_name": "シーズザスローン",
+      "score": 0.09379271060921616,
+      "horse_number": 5,
+      "odds": 6.7
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101045",
+      "horse_name": "タイセイミッション",
+      "score": 0.0196475774394556,
+      "horse_number": 3,
+      "odds": 38.6
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105823",
+      "horse_name": "サムシャイン",
+      "score": 0.008912503065218048,
+      "horse_number": 1,
+      "odds": 4.8
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103502",
+      "horse_name": "アイウィル",
+      "score": -0.00041782090666433146,
+      "horse_number": 9,
+      "odds": 28.6
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020102187",
+      "horse_name": "スマートケープ",
+      "score": -0.05520198192748401,
+      "horse_number": 4,
+      "odds": 46.2
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102735",
+      "horse_name": "スマートカイロス",
+      "score": -0.18040059521091348,
+      "horse_number": 7,
+      "odds": 22.3
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019102983",
+      "horse_name": "キュールエフウジン",
+      "score": -0.5282190138878433,
+      "horse_number": 2,
+      "odds": 113.2
+    }
+  ]
+}

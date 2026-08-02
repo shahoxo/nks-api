@@ -1,0 +1,80 @@
+{
+  "race_id": "202607020406",
+  "race_name": "中京スポニチ",
+  "race_time": "2026-08-02 15:01",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101159",
+      "horse_name": "アイニードユー",
+      "score": 0.507342293661278,
+      "horse_number": 4,
+      "odds": 3.9
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103101",
+      "horse_name": "トミーバローズ",
+      "score": 0.3871720754400929,
+      "horse_number": 6,
+      "odds": 1.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106555",
+      "horse_name": "タガノアンファン",
+      "score": 0.12648271491419005,
+      "horse_number": 8,
+      "odds": 23.3
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106431",
+      "horse_name": "トライアンフパス",
+      "score": 0.06674681805424026,
+      "horse_number": 3,
+      "odds": 9.6
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104988",
+      "horse_name": "ロンドボス",
+      "score": 0.05135487966760016,
+      "horse_number": 5,
+      "odds": 15.1
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104121",
+      "horse_name": "カウンティフェア",
+      "score": -0.07851304085066838,
+      "horse_number": 7,
+      "odds": 58.0
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104771",
+      "horse_name": "スターウェーブ",
+      "score": -0.20656436305492606,
+      "horse_number": 1,
+      "odds": 28.2
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100642",
+      "horse_name": "キャッスルレイク",
+      "score": -0.24548392814110268,
+      "horse_number": 9,
+      "odds": 23.1
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022109145",
+      "horse_name": "エイヨーアメジスト",
+      "score": -0.58109934331136,
+      "horse_number": 2,
+      "odds": 30.2
+    }
+  ]
+}

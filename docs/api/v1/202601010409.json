@@ -1,0 +1,104 @@
+{
+  "race_id": "202601010409",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2026-08-02 14:20",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102427",
+      "horse_name": "パールフロント",
+      "score": 0.2707983816554977,
+      "horse_number": 5,
+      "odds": 3.5
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103625",
+      "horse_name": "エコロレバン",
+      "score": 0.08230066278197061,
+      "horse_number": 3,
+      "odds": 4.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103183",
+      "horse_name": "アイアムイチバン",
+      "score": 0.060639175409966564,
+      "horse_number": 8,
+      "odds": 16.5
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110087",
+      "horse_name": "ララアヴリル",
+      "score": 0.04409409759582709,
+      "horse_number": 7,
+      "odds": 8.2
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107523",
+      "horse_name": "デアプリームス",
+      "score": 0.03693208326010783,
+      "horse_number": 2,
+      "odds": 5.9
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100729",
+      "horse_name": "ビーマックス",
+      "score": 0.01718271996122151,
+      "horse_number": 12,
+      "odds": 12.1
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103857",
+      "horse_name": "クインズシフォン",
+      "score": -0.032101888189473994,
+      "horse_number": 10,
+      "odds": 30.7
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103242",
+      "horse_name": "ジーベック",
+      "score": -0.1377073516831818,
+      "horse_number": 11,
+      "odds": 20.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103748",
+      "horse_name": "サベージラヴ",
+      "score": -0.1410711298193984,
+      "horse_number": 9,
+      "odds": 30.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100662",
+      "horse_name": "ベニシア",
+      "score": -0.14385548926218983,
+      "horse_number": 4,
+      "odds": 140.3
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104394",
+      "horse_name": "ヒットミー",
+      "score": -0.26329290262966676,
+      "horse_number": 1,
+      "odds": 5.3
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105661",
+      "horse_name": "ストロングボンド",
+      "score": -0.7295377203336686,
+      "horse_number": 6,
+      "odds": 140.0
+    }
+  ]
+}
