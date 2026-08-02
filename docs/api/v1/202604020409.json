@@ -1,0 +1,128 @@
+{
+  "race_id": "202604020409",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-02 16:55",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103709",
+      "horse_name": "ウリズンベー",
+      "score": 0.27536098810148607,
+      "horse_number": 2,
+      "odds": 4.4
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106954",
+      "horse_name": "イーグルロック",
+      "score": 0.17584658962461439,
+      "horse_number": 8,
+      "odds": 6.5
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103157",
+      "horse_name": "サトノフェンサー",
+      "score": 0.1105052097101138,
+      "horse_number": 10,
+      "odds": 13.4
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101642",
+      "horse_name": "ベルウッドピース",
+      "score": 0.09970150128759832,
+      "horse_number": 14,
+      "odds": 4.9
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104967",
+      "horse_name": "サトノシャムロック",
+      "score": -0.13449882844153135,
+      "horse_number": 11,
+      "odds": 27.0
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104786",
+      "horse_name": "サトノラポール",
+      "score": -0.1702020865253692,
+      "horse_number": 5,
+      "odds": 25.2
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100858",
+      "horse_name": "エコロガノン",
+      "score": -0.19363399462662115,
+      "horse_number": 13,
+      "odds": 7.1
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106057",
+      "horse_name": "タニセンドリーム",
+      "score": -0.26452841187089626,
+      "horse_number": 9,
+      "odds": 18.4
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106951",
+      "horse_name": "ブレゲアン",
+      "score": -0.31158960752586873,
+      "horse_number": 6,
+      "odds": 19.0
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100419",
+      "horse_name": "メディチパワー",
+      "score": -0.3419789609719512,
+      "horse_number": 7,
+      "odds": 6.1
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023107296",
+      "horse_name": "セントゴーデンス",
+      "score": -0.4530426498486433,
+      "horse_number": 12,
+      "odds": 29.8
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100729",
+      "horse_name": "ヘルメスギャング",
+      "score": -0.47164246334808524,
+      "horse_number": 4,
+      "odds": 27.0
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022100485",
+      "horse_name": "スーパーホース",
+      "score": -0.5970618435386312,
+      "horse_number": 1,
+      "odds": 122.5
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105779",
+      "horse_name": "カシノスパーク",
+      "score": -0.6256682283707391,
+      "horse_number": 15,
+      "odds": 42.9
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103629",
+      "horse_name": "ウーバーストロング",
+      "score": -0.7344997899121097,
+      "horse_number": 3,
+      "odds": 96.0
+    }
+  ]
+}
