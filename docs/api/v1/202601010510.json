@@ -1,0 +1,80 @@
+{
+  "race_id": "202601010510",
+  "race_name": "藻岩山特別",
+  "race_time": "2026-08-08 14:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105427",
+      "horse_name": "スカイサーベイ",
+      "score": 0.7697501314334659,
+      "horse_number": 1,
+      "odds": 5.2,
+      "win_prob": 0.2634
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106709",
+      "horse_name": "レーヴドロペラ",
+      "score": 0.5583893352119809,
+      "horse_number": 7,
+      "odds": 3.8,
+      "win_prob": 0.2133
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105388",
+      "horse_name": "ビーオンザカバー",
+      "score": 0.18244210804399094,
+      "horse_number": 8,
+      "odds": 3.2,
+      "win_prob": 0.1464
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102573",
+      "horse_name": "メイショウアイル",
+      "score": 0.08593320277118102,
+      "horse_number": 4,
+      "odds": 5.7,
+      "win_prob": 0.133
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105018",
+      "horse_name": "バルティカ",
+      "score": -0.061716985997644476,
+      "horse_number": 5,
+      "odds": 7.6,
+      "win_prob": 0.1147
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101969",
+      "horse_name": "デルマジュテーム",
+      "score": -0.4776138840717327,
+      "horse_number": 6,
+      "odds": 11.9,
+      "win_prob": 0.0757
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105865",
+      "horse_name": "エボルヴィング",
+      "score": -0.9116608976366415,
+      "horse_number": 3,
+      "odds": 12.0,
+      "win_prob": 0.049
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103405",
+      "horse_name": "ヨシヒロ",
+      "score": -3.2990935309233227,
+      "horse_number": 2,
+      "odds": 53.6,
+      "win_prob": 0.0045
+    }
+  ]
+}

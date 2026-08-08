@@ -1,0 +1,98 @@
+{
+  "race_id": "202604020506",
+  "race_name": "三面川特別",
+  "race_time": "2026-08-08 15:01",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103818",
+      "horse_name": "ラベルセーヌ",
+      "score": 1.7479382617474006,
+      "horse_number": 8,
+      "odds": 1.5,
+      "win_prob": 0.3508
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104818",
+      "horse_name": "クライスレリアーナ",
+      "score": 1.3779009663374653,
+      "horse_number": 2,
+      "odds": 3.0,
+      "win_prob": 0.2423
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106616",
+      "horse_name": "キスアンドクライ",
+      "score": 1.3774631173687462,
+      "horse_number": 5,
+      "odds": 8.8,
+      "win_prob": 0.2422
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105047",
+      "horse_name": "メランジェ",
+      "score": 0.01258303823676455,
+      "horse_number": 10,
+      "odds": 22.6,
+      "win_prob": 0.0619
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106214",
+      "horse_name": "ウインベアトリス",
+      "score": -0.4057048337167509,
+      "horse_number": 1,
+      "odds": 23.2,
+      "win_prob": 0.0407
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106803",
+      "horse_name": "ミラーダカリエンテ",
+      "score": -0.8773787720551575,
+      "horse_number": 6,
+      "odds": 36.3,
+      "win_prob": 0.0254
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100469",
+      "horse_name": "カフェアローロ",
+      "score": -1.6132059159173153,
+      "horse_number": 3,
+      "odds": 65.6,
+      "win_prob": 0.0122
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104899",
+      "horse_name": "ドリームクルーズ",
+      "score": -1.7296185385137346,
+      "horse_number": 9,
+      "odds": 36.9,
+      "win_prob": 0.0108
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103878",
+      "horse_name": "ジャンビ",
+      "score": -1.9028867365395552,
+      "horse_number": 4,
+      "odds": 46.2,
+      "win_prob": 0.0091
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102532",
+      "horse_name": "ビッグデイメイク",
+      "score": -2.5957547863649326,
+      "horse_number": 7,
+      "odds": 135.4,
+      "win_prob": 0.0046
+    }
+  ]
+}
