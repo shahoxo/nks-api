@@ -1,0 +1,134 @@
+{
+  "race_id": "202601010501",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-08 10:00",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101315",
+      "horse_name": "サンエンジェルス",
+      "score": 0.3166514591995387,
+      "horse_number": 8,
+      "odds": 14.7,
+      "win_prob": 0.1426
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107055",
+      "horse_name": "ジェイストリーク",
+      "score": 0.22987141134629438,
+      "horse_number": 3,
+      "odds": 5.0,
+      "win_prob": 0.1308
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106623",
+      "horse_name": "ルージュボニート",
+      "score": 0.09789681704472199,
+      "horse_number": 6,
+      "odds": 3.2,
+      "win_prob": 0.1146
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102909",
+      "horse_name": "マーゴットクリュグ",
+      "score": -0.0821068946690412,
+      "horse_number": 10,
+      "odds": 11.3,
+      "win_prob": 0.0957
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100709",
+      "horse_name": "シャドウルーラー",
+      "score": -0.10040790590277317,
+      "horse_number": 13,
+      "odds": 7.4,
+      "win_prob": 0.094
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107306",
+      "horse_name": "セラサイト",
+      "score": -0.18625148647550735,
+      "horse_number": 2,
+      "odds": 8.9,
+      "win_prob": 0.0863
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101443",
+      "horse_name": "フィーユレアル",
+      "score": -0.35478464364550555,
+      "horse_number": 9,
+      "odds": 37.0,
+      "win_prob": 0.0729
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107267",
+      "horse_name": "ジーティービキニ",
+      "score": -0.38032701983900236,
+      "horse_number": 14,
+      "odds": 5.6,
+      "win_prob": 0.071
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105228",
+      "horse_name": "ルパピヨンブラン",
+      "score": -0.6304057527651409,
+      "horse_number": 11,
+      "odds": 31.0,
+      "win_prob": 0.0553
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106616",
+      "horse_name": "ルージュエピック",
+      "score": -0.6393385648198925,
+      "horse_number": 1,
+      "odds": 18.8,
+      "win_prob": 0.0548
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100285",
+      "horse_name": "アルデバローズ",
+      "score": -1.2242760720203367,
+      "horse_number": 4,
+      "odds": 78.9,
+      "win_prob": 0.0305
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102549",
+      "horse_name": "ワイルドカグラ",
+      "score": -1.3757435285826776,
+      "horse_number": 12,
+      "odds": 35.4,
+      "win_prob": 0.0263
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104347",
+      "horse_name": "ハスカップジャム",
+      "score": -2.0200164195942754,
+      "horse_number": 7,
+      "odds": 127.2,
+      "win_prob": 0.0138
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106163",
+      "horse_name": "サマースプラッシュ",
+      "score": -2.212232581233149,
+      "horse_number": 5,
+      "odds": 105.6,
+      "win_prob": 0.0114
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "race_id": "202607020502",
+  "race_name": "2歳新馬",
+  "race_time": "2026-08-08 10:20",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024108323",
+      "horse_name": "2024108323",
+      "score": -0.4930092331257326,
+      "horse_number": 4,
+      "odds": 2.9,
+      "win_prob": 0.4715
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024103394",
+      "horse_name": "2024103394",
+      "score": -1.517010052167842,
+      "horse_number": 5,
+      "odds": 4.8,
+      "win_prob": 0.1693
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024107253",
+      "horse_name": "2024107253",
+      "score": -2.1231738730844785,
+      "horse_number": 6,
+      "odds": 5.1,
+      "win_prob": 0.0924
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024106546",
+      "horse_name": "2024106546",
+      "score": -2.1862501695495706,
+      "horse_number": 3,
+      "odds": 3.2,
+      "win_prob": 0.0867
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024104182",
+      "horse_name": "2024104182",
+      "score": -2.291421408021851,
+      "horse_number": 2,
+      "odds": 7.7,
+      "win_prob": 0.0781
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024102682",
+      "horse_name": "2024102682",
+      "score": -2.5957613039212744,
+      "horse_number": 7,
+      "odds": 20.3,
+      "win_prob": 0.0576
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024100510",
+      "horse_name": "2024100510",
+      "score": -2.8536514538000124,
+      "horse_number": 1,
+      "odds": 31.4,
+      "win_prob": 0.0445
+    }
+  ]
+}

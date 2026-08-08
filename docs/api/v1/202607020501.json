@@ -1,0 +1,89 @@
+{
+  "race_id": "202607020501",
+  "race_name": "2歳未勝利",
+  "race_time": "2026-08-08 09:50",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024106677",
+      "horse_name": "ジーティーキャリー",
+      "score": 0.9269156144330956,
+      "horse_number": 9,
+      "odds": 1.3,
+      "win_prob": 0.3488
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024105437",
+      "horse_name": "シュプレヒコール",
+      "score": 0.36303182372960824,
+      "horse_number": 4,
+      "odds": 4.7,
+      "win_prob": 0.1984
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024102305",
+      "horse_name": "メイショウジェード",
+      "score": 0.08889741965717492,
+      "horse_number": 1,
+      "odds": 9.0,
+      "win_prob": 0.1509
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024103554",
+      "horse_name": "プリメラエストレラ",
+      "score": -0.033388938812805656,
+      "horse_number": 2,
+      "odds": 15.1,
+      "win_prob": 0.1335
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024104426",
+      "horse_name": "イザベル",
+      "score": -0.45224727623981353,
+      "horse_number": 7,
+      "odds": 34.9,
+      "win_prob": 0.0878
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024102958",
+      "horse_name": "ロンリーマン",
+      "score": -1.2480229356693495,
+      "horse_number": 6,
+      "odds": 34.3,
+      "win_prob": 0.0396
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024102953",
+      "horse_name": "カローナ",
+      "score": -1.708656452140774,
+      "horse_number": 8,
+      "odds": 40.3,
+      "win_prob": 0.025
+    },
+    {
+      "rank": 8,
+      "horse_id": "2024101174",
+      "horse_name": "タナコクシテンホウ",
+      "score": -2.3899620571227613,
+      "horse_number": 3,
+      "odds": 87.8,
+      "win_prob": 0.0126
+    },
+    {
+      "rank": 9,
+      "horse_id": "2024101083",
+      "horse_name": "ララララブソング",
+      "score": -3.72615359602251,
+      "horse_number": 5,
+      "odds": 161.7,
+      "win_prob": 0.0033
+    }
+  ]
+}

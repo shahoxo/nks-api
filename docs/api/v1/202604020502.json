@@ -1,0 +1,98 @@
+{
+  "race_id": "202604020502",
+  "race_name": "2歳新馬",
+  "race_time": "2026-08-08 10:10",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024108325",
+      "horse_name": "2024108325",
+      "score": -1.420402367693721,
+      "horse_number": 3,
+      "odds": 2.1,
+      "win_prob": 0.2236
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024101716",
+      "horse_name": "2024101716",
+      "score": -1.7669480812068716,
+      "horse_number": 7,
+      "odds": 4.4,
+      "win_prob": 0.1581
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024100828",
+      "horse_name": "2024100828",
+      "score": -2.115291849469296,
+      "horse_number": 8,
+      "odds": 14.6,
+      "win_prob": 0.1116
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024100301",
+      "horse_name": "2024100301",
+      "score": -2.1242024209645343,
+      "horse_number": 9,
+      "odds": 7.2,
+      "win_prob": 0.1106
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024103670",
+      "horse_name": "2024103670",
+      "score": -2.380894558605873,
+      "horse_number": 6,
+      "odds": 34.0,
+      "win_prob": 0.0856
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024100877",
+      "horse_name": "2024100877",
+      "score": -2.387008343948424,
+      "horse_number": 5,
+      "odds": 37.9,
+      "win_prob": 0.0851
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024104496",
+      "horse_name": "2024104496",
+      "score": -2.5908923558878354,
+      "horse_number": 10,
+      "odds": 9.2,
+      "win_prob": 0.0694
+    },
+    {
+      "rank": 8,
+      "horse_id": "2024108316",
+      "horse_name": "2024108316",
+      "score": -2.810735122828913,
+      "horse_number": 2,
+      "odds": 7.9,
+      "win_prob": 0.0557
+    },
+    {
+      "rank": 9,
+      "horse_id": "2024107164",
+      "horse_name": "2024107164",
+      "score": -2.824712847456534,
+      "horse_number": 4,
+      "odds": 78.9,
+      "win_prob": 0.0549
+    },
+    {
+      "rank": 10,
+      "horse_id": "2024102009",
+      "horse_name": "2024102009",
+      "score": -3.0140443334130502,
+      "horse_number": 1,
+      "odds": 21.8,
+      "win_prob": 0.0454
+    }
+  ]
+}
