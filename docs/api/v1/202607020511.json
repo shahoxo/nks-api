@@ -1,0 +1,116 @@
+{
+  "race_id": "202607020511",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-08 18:00",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107241",
+      "horse_name": "バルセシート",
+      "score": 1.1934800690173601,
+      "horse_number": 4,
+      "odds": 1.4,
+      "win_prob": 0.2757
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104034",
+      "horse_name": "テイエムスティール",
+      "score": 0.7014313941791126,
+      "horse_number": 12,
+      "odds": 7.2,
+      "win_prob": 0.1685
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106614",
+      "horse_name": "レッドリガーレ",
+      "score": 0.6416824845500405,
+      "horse_number": 1,
+      "odds": 17.4,
+      "win_prob": 0.1588
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106354",
+      "horse_name": "オーバースタンド",
+      "score": 0.31298847989567696,
+      "horse_number": 9,
+      "odds": 11.5,
+      "win_prob": 0.1143
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105011",
+      "horse_name": "オーライカモン",
+      "score": -0.14511125627100813,
+      "horse_number": 3,
+      "odds": 21.9,
+      "win_prob": 0.0723
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105022",
+      "horse_name": "グローブアマランス",
+      "score": -0.32333116483395635,
+      "horse_number": 6,
+      "odds": 12.3,
+      "win_prob": 0.0605
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104918",
+      "horse_name": "シャーリーゴールド",
+      "score": -0.43666695279323764,
+      "horse_number": 5,
+      "odds": 26.9,
+      "win_prob": 0.054
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103379",
+      "horse_name": "ホールドミーワンス",
+      "score": -0.8876579692110975,
+      "horse_number": 10,
+      "odds": 91.1,
+      "win_prob": 0.0344
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102841",
+      "horse_name": "メイショウハボマイ",
+      "score": -1.4796581350651945,
+      "horse_number": 11,
+      "odds": 143.3,
+      "win_prob": 0.019
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106996",
+      "horse_name": "ゴージャス",
+      "score": -1.5867827763595572,
+      "horse_number": 2,
+      "odds": 12.6,
+      "win_prob": 0.0171
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103615",
+      "horse_name": "エスティヴァリス",
+      "score": -1.6161976283558332,
+      "horse_number": 7,
+      "odds": 40.6,
+      "win_prob": 0.0166
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104649",
+      "horse_name": "インターポーザー",
+      "score": -2.2523724847379984,
+      "horse_number": 8,
+      "odds": 63.7,
+      "win_prob": 0.0088
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "race_id": "202607020510",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-08 17:30",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106926",
+      "horse_name": "ガルディエンヌ",
+      "score": 0.43962330727716653,
+      "horse_number": 16,
+      "odds": 6.8,
+      "win_prob": 0.1775
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103250",
+      "horse_name": "マイベスティー",
+      "score": 0.2934405350385931,
+      "horse_number": 14,
+      "odds": 7.7,
+      "win_prob": 0.1533
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104397",
+      "horse_name": "エバイダンス",
+      "score": 0.2193147545055459,
+      "horse_number": 4,
+      "odds": 4.3,
+      "win_prob": 0.1424
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101523",
+      "horse_name": "モズオサキニ",
+      "score": 0.1751823142062906,
+      "horse_number": 15,
+      "odds": 9.1,
+      "win_prob": 0.1362
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101170",
+      "horse_name": "ザムーン",
+      "score": -0.4663127969972192,
+      "horse_number": 10,
+      "odds": 25.3,
+      "win_prob": 0.0717
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104364",
+      "horse_name": "ヤマニンコルザ",
+      "score": -0.6049202644824114,
+      "horse_number": 2,
+      "odds": 3.8,
+      "win_prob": 0.0624
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104938",
+      "horse_name": "アリュウ",
+      "score": -0.6901703113216965,
+      "horse_number": 9,
+      "odds": 37.7,
+      "win_prob": 0.0573
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103534",
+      "horse_name": "マユナイト",
+      "score": -0.8535704185725324,
+      "horse_number": 1,
+      "odds": 15.0,
+      "win_prob": 0.0487
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101491",
+      "horse_name": "フルドフォルク",
+      "score": -1.2874540276577855,
+      "horse_number": 12,
+      "odds": 32.8,
+      "win_prob": 0.0316
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102113",
+      "horse_name": "グロリアスニケ",
+      "score": -1.3919256102800277,
+      "horse_number": 5,
+      "odds": 60.0,
+      "win_prob": 0.0284
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101803",
+      "horse_name": "フェイトブレイカー",
+      "score": -1.8649561755727757,
+      "horse_number": 6,
+      "odds": 16.3,
+      "win_prob": 0.0177
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103874",
+      "horse_name": "シュクルリー",
+      "score": -1.8985500546849874,
+      "horse_number": 3,
+      "odds": 57.2,
+      "win_prob": 0.0171
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104048",
+      "horse_name": "カワキタベレッタ",
+      "score": -1.9009410501650579,
+      "horse_number": 7,
+      "odds": 78.0,
+      "win_prob": 0.0171
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101738",
+      "horse_name": "サンシャインビーチ",
+      "score": -1.9230236020925444,
+      "horse_number": 8,
+      "odds": 23.7,
+      "win_prob": 0.0167
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102487",
+      "horse_name": "ヒルノジェノヴァ",
+      "score": -2.1632838511090684,
+      "horse_number": 11,
+      "odds": 34.8,
+      "win_prob": 0.0131
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104925",
+      "horse_name": "モチモチチャン",
+      "score": -2.5816164216640587,
+      "horse_number": 13,
+      "odds": 27.5,
+      "win_prob": 0.0086
+    }
+  ]
+}

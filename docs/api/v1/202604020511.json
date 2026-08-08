@@ -1,0 +1,170 @@
+{
+  "race_id": "202604020511",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-08 17:50",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103103",
+      "horse_name": "リオクリスハーレー",
+      "score": 1.2739419499265363,
+      "horse_number": 18,
+      "odds": 3.0,
+      "win_prob": 0.2135
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106950",
+      "horse_name": "シャンクス",
+      "score": 1.1740363504630698,
+      "horse_number": 14,
+      "odds": 7.3,
+      "win_prob": 0.1932
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102465",
+      "horse_name": "ブライティアブーケ",
+      "score": 0.6219982338978207,
+      "horse_number": 13,
+      "odds": 13.5,
+      "win_prob": 0.1113
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104998",
+      "horse_name": "カイショー",
+      "score": 0.5401898354235095,
+      "horse_number": 5,
+      "odds": 6.8,
+      "win_prob": 0.1025
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020100795",
+      "horse_name": "ベルタソ",
+      "score": 0.3587987931430971,
+      "horse_number": 7,
+      "odds": 13.1,
+      "win_prob": 0.0855
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107539",
+      "horse_name": "ダイイズキャスト",
+      "score": 0.2064198744722768,
+      "horse_number": 11,
+      "odds": 28.5,
+      "win_prob": 0.0734
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100397",
+      "horse_name": "ミルトメロディー",
+      "score": -0.08135333981878767,
+      "horse_number": 6,
+      "odds": 40.0,
+      "win_prob": 0.0551
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100611",
+      "horse_name": "オタルイーグル",
+      "score": -0.1216743402573179,
+      "horse_number": 2,
+      "odds": 31.4,
+      "win_prob": 0.0529
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101676",
+      "horse_name": "ファンシーフリル",
+      "score": -0.591849505209171,
+      "horse_number": 9,
+      "odds": 5.6,
+      "win_prob": 0.033
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104173",
+      "horse_name": "メテオロイド",
+      "score": -0.7933308389330359,
+      "horse_number": 17,
+      "odds": 17.9,
+      "win_prob": 0.027
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106796",
+      "horse_name": "レモンバーム",
+      "score": -1.1515476886254572,
+      "horse_number": 8,
+      "odds": 23.0,
+      "win_prob": 0.0189
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106503",
+      "horse_name": "セイラダンサー",
+      "score": -2.1711524370708863,
+      "horse_number": 15,
+      "odds": 30.5,
+      "win_prob": 0.0068
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101204",
+      "horse_name": "サツキレジーナ",
+      "score": -2.345234862808876,
+      "horse_number": 3,
+      "odds": 76.8,
+      "win_prob": 0.0057
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106420",
+      "horse_name": "パーティーガール",
+      "score": -2.361835245320547,
+      "horse_number": 10,
+      "odds": 33.9,
+      "win_prob": 0.0056
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020101171",
+      "horse_name": "ビスケット",
+      "score": -2.5363717271644424,
+      "horse_number": 4,
+      "odds": 115.3,
+      "win_prob": 0.0047
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102602",
+      "horse_name": "フェリスチカ",
+      "score": -2.604992173129817,
+      "horse_number": 16,
+      "odds": 121.3,
+      "win_prob": 0.0044
+    },
+    {
+      "rank": 17,
+      "horse_id": "2019110122",
+      "horse_name": "ブラヴィーノ",
+      "score": -2.7104145408788995,
+      "horse_number": 1,
+      "odds": 110.1,
+      "win_prob": 0.004
+    },
+    {
+      "rank": 18,
+      "horse_id": "2021100478",
+      "horse_name": "ジュエルドレーサー",
+      "score": -3.233808465937448,
+      "horse_number": 12,
+      "odds": 61.1,
+      "win_prob": 0.0024
+    }
+  ]
+}
