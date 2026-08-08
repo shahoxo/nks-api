@@ -1,0 +1,107 @@
+{
+  "race_id": "202601010511",
+  "race_name": "エルムS",
+  "race_time": "2026-08-08 15:25",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021102236",
+      "horse_name": "テーオーパスワード",
+      "score": 0.7612002513707888,
+      "horse_number": 5,
+      "odds": 4.1,
+      "win_prob": 0.2252
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103795",
+      "horse_name": "ナチュラルライズ",
+      "score": 0.48160736623266354,
+      "horse_number": 4,
+      "odds": 11.4,
+      "win_prob": 0.1702
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020110024",
+      "horse_name": "ウェイワードアクト",
+      "score": 0.24745956349635223,
+      "horse_number": 8,
+      "odds": 3.1,
+      "win_prob": 0.1347
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020101874",
+      "horse_name": "ペリエール",
+      "score": -0.18951461853499288,
+      "horse_number": 11,
+      "odds": 6.5,
+      "win_prob": 0.087
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110083",
+      "horse_name": "ルクソールカフェ",
+      "score": -0.2644367233278615,
+      "horse_number": 3,
+      "odds": 5.9,
+      "win_prob": 0.0807
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103717",
+      "horse_name": "レヴォントゥレット",
+      "score": -0.3430071868505632,
+      "horse_number": 2,
+      "odds": 16.0,
+      "win_prob": 0.0746
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020102904",
+      "horse_name": "オメガギネス",
+      "score": -0.36393535923038606,
+      "horse_number": 10,
+      "odds": 10.3,
+      "win_prob": 0.0731
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103614",
+      "horse_name": "ヒルノハンブルク",
+      "score": -0.8244593868331274,
+      "horse_number": 9,
+      "odds": 40.1,
+      "win_prob": 0.0461
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019101324",
+      "horse_name": "テーオードレフォン",
+      "score": -0.9178938249871006,
+      "horse_number": 7,
+      "odds": 151.5,
+      "win_prob": 0.042
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019102437",
+      "horse_name": "ヴァルツァーシャル",
+      "score": -0.9294756424987904,
+      "horse_number": 6,
+      "odds": 16.1,
+      "win_prob": 0.0415
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100116",
+      "horse_name": "アクションプラン",
+      "score": -1.4456848409876089,
+      "horse_number": 1,
+      "odds": 33.9,
+      "win_prob": 0.0248
+    }
+  ]
+}

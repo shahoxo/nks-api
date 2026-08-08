@@ -1,0 +1,107 @@
+{
+  "race_id": "202607020506",
+  "race_name": "納屋橋特別",
+  "race_time": "2026-08-08 15:10",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104171",
+      "horse_name": "スナークピカソ",
+      "score": 0.5009706675006086,
+      "horse_number": 7,
+      "odds": 9.0,
+      "win_prob": 0.1833
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100381",
+      "horse_name": "オリバナム",
+      "score": 0.4433523900994923,
+      "horse_number": 11,
+      "odds": 5.8,
+      "win_prob": 0.173
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100448",
+      "horse_name": "テイエムアイラン",
+      "score": 0.35729478920302815,
+      "horse_number": 4,
+      "odds": 5.0,
+      "win_prob": 0.1587
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100382",
+      "horse_name": "ビップディラン",
+      "score": 0.22234028492400879,
+      "horse_number": 8,
+      "odds": 5.7,
+      "win_prob": 0.1387
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104590",
+      "horse_name": "ショウナンバルドル",
+      "score": 0.11527491840367764,
+      "horse_number": 3,
+      "odds": 4.0,
+      "win_prob": 0.1246
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105374",
+      "horse_name": "クイックバイオ",
+      "score": -0.5436884957797959,
+      "horse_number": 10,
+      "odds": 15.2,
+      "win_prob": 0.0645
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018106354",
+      "horse_name": "バガン",
+      "score": -0.9076147369268228,
+      "horse_number": 2,
+      "odds": 26.2,
+      "win_prob": 0.0448
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019106280",
+      "horse_name": "サクラオーラ",
+      "score": -1.1477828932849155,
+      "horse_number": 5,
+      "odds": 23.3,
+      "win_prob": 0.0352
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022109119",
+      "horse_name": "ケイテンアイジン",
+      "score": -1.3135155766917384,
+      "horse_number": 9,
+      "odds": 36.5,
+      "win_prob": 0.0299
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102727",
+      "horse_name": "オトコギアンパン",
+      "score": -1.4779506725114206,
+      "horse_number": 1,
+      "odds": 8.9,
+      "win_prob": 0.0253
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105809",
+      "horse_name": "マイネルフォルツァ",
+      "score": -1.6220739438277918,
+      "horse_number": 6,
+      "odds": 16.7,
+      "win_prob": 0.0219
+    }
+  ]
+}

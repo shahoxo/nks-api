@@ -1,0 +1,152 @@
+{
+  "race_id": "202604020507",
+  "race_name": "関越S",
+  "race_time": "2026-08-08 15:35",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104750",
+      "horse_name": "レイニング",
+      "score": 1.058882027531917,
+      "horse_number": 1,
+      "odds": 4.7,
+      "win_prob": 0.2008
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101192",
+      "horse_name": "エストゥペンダ",
+      "score": 0.6868145871387662,
+      "horse_number": 4,
+      "odds": 3.8,
+      "win_prob": 0.1384
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105661",
+      "horse_name": "レガーロデルシエロ",
+      "score": 0.6773842467252588,
+      "horse_number": 7,
+      "odds": 6.8,
+      "win_prob": 0.1371
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101227",
+      "horse_name": "ヴォンフレ",
+      "score": 0.44366289890795324,
+      "horse_number": 3,
+      "odds": 21.4,
+      "win_prob": 0.1085
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105801",
+      "horse_name": "ミアネーロ",
+      "score": 0.3409741178541022,
+      "horse_number": 6,
+      "odds": 11.6,
+      "win_prob": 0.0979
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104825",
+      "horse_name": "ゴンバデカーブース",
+      "score": 0.04688471294331425,
+      "horse_number": 11,
+      "odds": 20.8,
+      "win_prob": 0.073
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020103304",
+      "horse_name": "アンリーロード",
+      "score": -0.3125074264981792,
+      "horse_number": 14,
+      "odds": 29.4,
+      "win_prob": 0.0509
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021104894",
+      "horse_name": "セントメモリーズ",
+      "score": -0.7013343664211074,
+      "horse_number": 10,
+      "odds": 93.0,
+      "win_prob": 0.0345
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105574",
+      "horse_name": "シンハナーダ",
+      "score": -0.9231527475740301,
+      "horse_number": 15,
+      "odds": 10.7,
+      "win_prob": 0.0277
+    },
+    {
+      "rank": 10,
+      "horse_id": "2018102020",
+      "horse_name": "ヤマニンサンパ",
+      "score": -0.9579951228486342,
+      "horse_number": 2,
+      "odds": 24.3,
+      "win_prob": 0.0267
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020103464",
+      "horse_name": "ゴートゥファースト",
+      "score": -1.0060260240949193,
+      "horse_number": 13,
+      "odds": 33.7,
+      "win_prob": 0.0255
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019105118",
+      "horse_name": "ジュンブロッサム",
+      "score": -1.0481067710542755,
+      "horse_number": 9,
+      "odds": 14.8,
+      "win_prob": 0.0244
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106782",
+      "horse_name": "コスモブッドレア",
+      "score": -1.44233473366901,
+      "horse_number": 16,
+      "odds": 77.6,
+      "win_prob": 0.0165
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017105194",
+      "horse_name": "ラインベック",
+      "score": -1.4748805982666156,
+      "horse_number": 5,
+      "odds": 30.5,
+      "win_prob": 0.0159
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100495",
+      "horse_name": "ドラゴンヘッド",
+      "score": -1.7761897320612048,
+      "horse_number": 12,
+      "odds": 34.7,
+      "win_prob": 0.0118
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021104324",
+      "horse_name": "ディマイザキッド",
+      "score": -1.892784399230172,
+      "horse_number": 8,
+      "odds": 9.9,
+      "win_prob": 0.0105
+    }
+  ]
+}

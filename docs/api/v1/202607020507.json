@@ -1,0 +1,80 @@
+{
+  "race_id": "202607020507",
+  "race_name": "三河S",
+  "race_time": "2026-08-08 15:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101821",
+      "horse_name": "ロードヴォイジャー",
+      "score": 1.3586799342510583,
+      "horse_number": 7,
+      "odds": 3.0,
+      "win_prob": 0.3527
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110115",
+      "horse_name": "シンビリーブ",
+      "score": 1.2490879050246206,
+      "horse_number": 3,
+      "odds": 3.4,
+      "win_prob": 0.3161
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022107134",
+      "horse_name": "タガノマカシヤ",
+      "score": 0.5449764579952692,
+      "horse_number": 1,
+      "odds": 5.4,
+      "win_prob": 0.1563
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106635",
+      "horse_name": "インザモーメント",
+      "score": -0.27750277876812707,
+      "horse_number": 4,
+      "odds": 15.8,
+      "win_prob": 0.0687
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106395",
+      "horse_name": "クァンタムウェーブ",
+      "score": -0.5463408298331011,
+      "horse_number": 6,
+      "odds": 4.3,
+      "win_prob": 0.0525
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020106635",
+      "horse_name": "メイショウシナノ",
+      "score": -0.9567863912826661,
+      "horse_number": 8,
+      "odds": 16.0,
+      "win_prob": 0.0348
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020100979",
+      "horse_name": "メイショウコガシラ",
+      "score": -2.173761060703561,
+      "horse_number": 2,
+      "odds": 18.8,
+      "win_prob": 0.0103
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022110118",
+      "horse_name": "ユウトザユウト",
+      "score": -2.342956016838589,
+      "horse_number": 5,
+      "odds": 28.7,
+      "win_prob": 0.0087
+    }
+  ]
+}
