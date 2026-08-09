@@ -1,0 +1,134 @@
+{
+  "race_id": "202601010608",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-09 13:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104419",
+      "horse_name": "ローズマイスター",
+      "score": 0.6374209317611139,
+      "horse_number": 12,
+      "odds": 5.2,
+      "win_prob": 0.1812
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100715",
+      "horse_name": "ピエナオルカ",
+      "score": 0.4595702001248952,
+      "horse_number": 7,
+      "odds": 3.2,
+      "win_prob": 0.1517
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021104945",
+      "horse_name": "ポンピエ",
+      "score": 0.4543922548229892,
+      "horse_number": 6,
+      "odds": 5.4,
+      "win_prob": 0.1509
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102019",
+      "horse_name": "テイクオンミー",
+      "score": 0.2525987157559849,
+      "horse_number": 8,
+      "odds": 12.3,
+      "win_prob": 0.1233
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105032",
+      "horse_name": "メイショウコシュウ",
+      "score": 0.13630188891505476,
+      "horse_number": 5,
+      "odds": 5.4,
+      "win_prob": 0.1098
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100433",
+      "horse_name": "サンデーパーティー",
+      "score": -0.28999917881509524,
+      "horse_number": 10,
+      "odds": 13.9,
+      "win_prob": 0.0717
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102498",
+      "horse_name": "ディアスポラ",
+      "score": -0.6276685218485493,
+      "horse_number": 11,
+      "odds": 24.4,
+      "win_prob": 0.0511
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103156",
+      "horse_name": "タイキフィアリーベ",
+      "score": -0.7868845957683703,
+      "horse_number": 1,
+      "odds": 18.7,
+      "win_prob": 0.0436
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105772",
+      "horse_name": "ホウオウバローロ",
+      "score": -1.372440111920096,
+      "horse_number": 13,
+      "odds": 29.2,
+      "win_prob": 0.0243
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101721",
+      "horse_name": "ノリノドラゴン",
+      "score": -1.3979769198336423,
+      "horse_number": 3,
+      "odds": 85.0,
+      "win_prob": 0.0237
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101286",
+      "horse_name": "クラウンアールシー",
+      "score": -1.474180277550766,
+      "horse_number": 9,
+      "odds": 52.6,
+      "win_prob": 0.0219
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021100303",
+      "horse_name": "ブリオメンテ",
+      "score": -1.6961491918833906,
+      "horse_number": 14,
+      "odds": 25.0,
+      "win_prob": 0.0176
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022107021",
+      "horse_name": "ファミーユウルーズ",
+      "score": -1.850394760096867,
+      "horse_number": 2,
+      "odds": 70.8,
+      "win_prob": 0.0151
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100581",
+      "horse_name": "ホノボノ",
+      "score": -1.9017600199705607,
+      "horse_number": 4,
+      "odds": 40.6,
+      "win_prob": 0.0143
+    }
+  ]
+}
