@@ -1,0 +1,134 @@
+{
+  "race_id": "202601010610",
+  "race_name": "富良野特別",
+  "race_time": "2026-08-09 14:50",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110130",
+      "horse_name": "ベラジオワールド",
+      "score": 1.775192554112258,
+      "horse_number": 8,
+      "odds": 5.2,
+      "win_prob": 0.2863
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104324",
+      "horse_name": "タガノエルー",
+      "score": 1.6039588838745924,
+      "horse_number": 13,
+      "odds": 1.8,
+      "win_prob": 0.2412
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103696",
+      "horse_name": "マーゴットサンズ",
+      "score": 0.7510775443627248,
+      "horse_number": 1,
+      "odds": 13.1,
+      "win_prob": 0.1028
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101704",
+      "horse_name": "テイエムゴッホ",
+      "score": 0.7064594858610164,
+      "horse_number": 2,
+      "odds": 11.8,
+      "win_prob": 0.0983
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101572",
+      "horse_name": "プライベートアイズ",
+      "score": 0.18426581175896434,
+      "horse_number": 3,
+      "odds": 7.8,
+      "win_prob": 0.0583
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100321",
+      "horse_name": "リメンバーヒム",
+      "score": -0.14581769997517552,
+      "horse_number": 10,
+      "odds": 29.5,
+      "win_prob": 0.0419
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101928",
+      "horse_name": "チザルピーノ",
+      "score": -0.1887626463519419,
+      "horse_number": 12,
+      "odds": 19.3,
+      "win_prob": 0.0402
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100937",
+      "horse_name": "ストラーダ",
+      "score": -0.4586513352241948,
+      "horse_number": 6,
+      "odds": 27.9,
+      "win_prob": 0.0307
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105486",
+      "horse_name": "テルアスワッド",
+      "score": -0.5778120455274351,
+      "horse_number": 4,
+      "odds": 51.3,
+      "win_prob": 0.0272
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102394",
+      "horse_name": "マーウォルス",
+      "score": -0.6559562923695652,
+      "horse_number": 7,
+      "odds": 21.4,
+      "win_prob": 0.0252
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103753",
+      "horse_name": "ネクストダンサー",
+      "score": -0.9401853376836594,
+      "horse_number": 14,
+      "odds": 93.0,
+      "win_prob": 0.0189
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105610",
+      "horse_name": "ウインハルモニア",
+      "score": -1.3407080200278751,
+      "horse_number": 11,
+      "odds": 62.5,
+      "win_prob": 0.0127
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106851",
+      "horse_name": "レディゴディヴァ",
+      "score": -1.5362365778909013,
+      "horse_number": 9,
+      "odds": 74.1,
+      "win_prob": 0.0104
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102163",
+      "horse_name": "フォーワンセルフ",
+      "score": -2.136180469335886,
+      "horse_number": 5,
+      "odds": 75.4,
+      "win_prob": 0.0057
+    }
+  ]
+}
