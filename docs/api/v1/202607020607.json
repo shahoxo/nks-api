@@ -1,0 +1,170 @@
+{
+  "race_id": "202607020607",
+  "race_name": "CBC賞",
+  "race_time": "2026-08-09 15:45",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104933",
+      "horse_name": "ディアナザール",
+      "score": 2.5545581109876156,
+      "horse_number": 7,
+      "odds": 4.6,
+      "win_prob": 0.2559
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103066",
+      "horse_name": "レイピア",
+      "score": 2.0652115196165983,
+      "horse_number": 3,
+      "odds": 5.3,
+      "win_prob": 0.1569
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103162",
+      "horse_name": "タマモイカロス",
+      "score": 1.567334297169868,
+      "horse_number": 17,
+      "odds": 12.8,
+      "win_prob": 0.0953
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107020",
+      "horse_name": "サンアントワーヌ",
+      "score": 1.2255692002149037,
+      "horse_number": 13,
+      "odds": 15.6,
+      "win_prob": 0.0677
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106394",
+      "horse_name": "クラスペディア",
+      "score": 1.0312109500096587,
+      "horse_number": 9,
+      "odds": 24.1,
+      "win_prob": 0.0558
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110164",
+      "horse_name": "インビンシブルパパ",
+      "score": 0.8658426668634104,
+      "horse_number": 12,
+      "odds": 9.7,
+      "win_prob": 0.0473
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101598",
+      "horse_name": "アンクルクロス",
+      "score": 0.759110712609393,
+      "horse_number": 15,
+      "odds": 7.5,
+      "win_prob": 0.0425
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022110026",
+      "horse_name": "コウセキ",
+      "score": 0.690653085720225,
+      "horse_number": 14,
+      "odds": 14.2,
+      "win_prob": 0.0397
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105880",
+      "horse_name": "レッドエヴァンス",
+      "score": 0.6896928085838498,
+      "horse_number": 6,
+      "odds": 7.2,
+      "win_prob": 0.0396
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021103092",
+      "horse_name": "ナムラローズマリー",
+      "score": 0.6400623085994103,
+      "horse_number": 10,
+      "odds": 37.2,
+      "win_prob": 0.0377
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020105400",
+      "horse_name": "タマモブラックタイ",
+      "score": 0.5459402942873016,
+      "horse_number": 11,
+      "odds": 52.5,
+      "win_prob": 0.0343
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101623",
+      "horse_name": "アブキールベイ",
+      "score": 0.503725286639441,
+      "horse_number": 16,
+      "odds": 52.2,
+      "win_prob": 0.0329
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103932",
+      "horse_name": "ジェニファー",
+      "score": 0.1963321423502993,
+      "horse_number": 5,
+      "odds": 16.1,
+      "win_prob": 0.0242
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021107063",
+      "horse_name": "イツモニコニコ",
+      "score": 0.1645988897774872,
+      "horse_number": 1,
+      "odds": 43.0,
+      "win_prob": 0.0234
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021101924",
+      "horse_name": "フィオライア",
+      "score": -0.10867466520181414,
+      "horse_number": 8,
+      "odds": 49.8,
+      "win_prob": 0.0178
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019103605",
+      "horse_name": "ペプチドヤマト",
+      "score": -0.4851440475370429,
+      "horse_number": 18,
+      "odds": 169.8,
+      "win_prob": 0.0122
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020110133",
+      "horse_name": "フロムダスク",
+      "score": -0.8026232558872283,
+      "horse_number": 2,
+      "odds": 27.3,
+      "win_prob": 0.0089
+    },
+    {
+      "rank": 18,
+      "horse_id": "2020103325",
+      "horse_name": "プロトポロス",
+      "score": -0.9512152113519524,
+      "horse_number": 4,
+      "odds": 110.0,
+      "win_prob": 0.0077
+    }
+  ]
+}
