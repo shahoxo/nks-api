@@ -1,0 +1,170 @@
+{
+  "race_id": "202607020611",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-09 18:00",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101632",
+      "horse_name": "マーゴットミスト",
+      "score": 1.2844037546339893,
+      "horse_number": 14,
+      "odds": 6.1,
+      "win_prob": 0.2299
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103836",
+      "horse_name": "フロムレイブン",
+      "score": 0.8204138552066172,
+      "horse_number": 1,
+      "odds": 3.7,
+      "win_prob": 0.1446
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107545",
+      "horse_name": "ウェルカムソング",
+      "score": 0.7534321236984881,
+      "horse_number": 15,
+      "odds": 5.2,
+      "win_prob": 0.1352
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104358",
+      "horse_name": "ヤマニンフェイエル",
+      "score": 0.5932886229443399,
+      "horse_number": 16,
+      "odds": 11.0,
+      "win_prob": 0.1152
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105921",
+      "horse_name": "アーリントンロウ",
+      "score": 0.06437180018514357,
+      "horse_number": 6,
+      "odds": 12.1,
+      "win_prob": 0.0679
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103729",
+      "horse_name": "セクシーマージュ",
+      "score": 0.05635963984715333,
+      "horse_number": 7,
+      "odds": 14.7,
+      "win_prob": 0.0673
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104901",
+      "horse_name": "モルティフレーバー",
+      "score": -0.29676914462360937,
+      "horse_number": 3,
+      "odds": 13.4,
+      "win_prob": 0.0473
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103901",
+      "horse_name": "マーシーラン",
+      "score": -0.398792927733108,
+      "horse_number": 5,
+      "odds": 18.7,
+      "win_prob": 0.0427
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103750",
+      "horse_name": "スピリットライズ",
+      "score": -0.6955314856301013,
+      "horse_number": 8,
+      "odds": 63.1,
+      "win_prob": 0.0317
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105862",
+      "horse_name": "フェリーニ",
+      "score": -0.8095631170483516,
+      "horse_number": 4,
+      "odds": 19.9,
+      "win_prob": 0.0283
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023109117",
+      "horse_name": "カラクニダケ",
+      "score": -1.2406809054317098,
+      "horse_number": 9,
+      "odds": 35.9,
+      "win_prob": 0.0184
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104648",
+      "horse_name": "フランクスピード",
+      "score": -1.3220076466242099,
+      "horse_number": 18,
+      "odds": 39.6,
+      "win_prob": 0.017
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105484",
+      "horse_name": "ベランジェール",
+      "score": -1.3654734815599314,
+      "horse_number": 13,
+      "odds": 11.8,
+      "win_prob": 0.0162
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020103261",
+      "horse_name": "アウクソー",
+      "score": -1.6219208116801802,
+      "horse_number": 10,
+      "odds": 81.1,
+      "win_prob": 0.0126
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104501",
+      "horse_name": "パリコレジェンヌ",
+      "score": -1.7661382663634322,
+      "horse_number": 11,
+      "odds": 41.9,
+      "win_prob": 0.0109
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102445",
+      "horse_name": "トウカイフルーレ",
+      "score": -1.968515947004635,
+      "horse_number": 17,
+      "odds": 81.8,
+      "win_prob": 0.0089
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023103291",
+      "horse_name": "ドレドレ",
+      "score": -2.788842488603971,
+      "horse_number": 12,
+      "odds": 164.9,
+      "win_prob": 0.0039
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023102479",
+      "horse_name": "パレットフレイバー",
+      "score": -3.47570885451152,
+      "horse_number": 2,
+      "odds": 170.6,
+      "win_prob": 0.002
+    }
+  ]
+}

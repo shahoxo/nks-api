@@ -8,64 +8,64 @@
       "rank": 1,
       "horse_id": "2023107277",
       "horse_name": "モートンアイランド",
-      "score": 1.6379463638702523,
+      "score": 1.5523146908163836,
       "horse_number": 5,
       "odds": 2.8,
-      "win_prob": 0.4277
+      "win_prob": 0.4083
     },
     {
       "rank": 2,
       "horse_id": "2023107228",
       "horse_name": "ウップヘリーア",
-      "score": 1.3253587452370283,
+      "score": 1.336970729758933,
       "horse_number": 7,
       "odds": 2.1,
-      "win_prob": 0.3129
+      "win_prob": 0.3292
     },
     {
       "rank": 3,
       "horse_id": "2022105365",
       "horse_name": "オプレントジュエル",
-      "score": 0.12294210905949238,
+      "score": 0.12761666152384762,
       "horse_number": 6,
       "odds": 5.6,
-      "win_prob": 0.094
+      "win_prob": 0.0982
     },
     {
       "rank": 4,
       "horse_id": "2022103308",
       "horse_name": "ミッドセンチュリー",
-      "score": 0.061068029757783825,
+      "score": 0.013305104976189204,
       "horse_number": 2,
       "odds": 9.9,
-      "win_prob": 0.0884
+      "win_prob": 0.0876
     },
     {
       "rank": 5,
       "horse_id": "2022105223",
       "horse_name": "イスキオス",
-      "score": -0.8848108093300114,
+      "score": -0.8230768689456353,
       "horse_number": 4,
       "odds": 11.5,
-      "win_prob": 0.0343
+      "win_prob": 0.038
     },
     {
       "rank": 6,
       "horse_id": "2021101088",
       "horse_name": "テイキットイージー",
-      "score": -1.0259175271405534,
+      "score": -1.0904021322454338,
       "horse_number": 3,
       "odds": 18.2,
-      "win_prob": 0.0298
+      "win_prob": 0.0291
     },
     {
       "rank": 7,
       "horse_id": "2022101620",
       "horse_name": "トラストモアリズム",
-      "score": -1.8580367331458245,
+      "score": -2.1828908755132166,
       "horse_number": 1,
       "odds": 47.7,
-      "win_prob": 0.013
+      "win_prob": 0.0097
     }
   ]
 }

@@ -1,0 +1,152 @@
+{
+  "race_id": "202607020610",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-09 17:30",
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102131",
+      "horse_name": "ラヴネヴァーダイズ",
+      "score": 1.226357647707649,
+      "horse_number": 2,
+      "odds": 2.7,
+      "win_prob": 0.3112
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101810",
+      "horse_name": "ヴォンドゥ",
+      "score": 0.6841392744051399,
+      "horse_number": 13,
+      "odds": 10.4,
+      "win_prob": 0.181
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110104",
+      "horse_name": "アメリカンビヨンド",
+      "score": 0.20042221866298535,
+      "horse_number": 11,
+      "odds": 5.7,
+      "win_prob": 0.1116
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020104913",
+      "horse_name": "グランデスフィーダ",
+      "score": -0.13183434132551233,
+      "horse_number": 10,
+      "odds": 5.9,
+      "win_prob": 0.08
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106284",
+      "horse_name": "リーグナイト",
+      "score": -0.3749136699509981,
+      "horse_number": 14,
+      "odds": 7.1,
+      "win_prob": 0.0628
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101117",
+      "horse_name": "アイファーモービル",
+      "score": -0.6427421983093978,
+      "horse_number": 12,
+      "odds": 25.7,
+      "win_prob": 0.048
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104408",
+      "horse_name": "ナウオアネヴァー",
+      "score": -0.6979068366905435,
+      "horse_number": 8,
+      "odds": 21.1,
+      "win_prob": 0.0454
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104944",
+      "horse_name": "シュネーグロッケン",
+      "score": -1.0659356333894927,
+      "horse_number": 7,
+      "odds": 26.2,
+      "win_prob": 0.0314
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100458",
+      "horse_name": "シンギタイ",
+      "score": -1.4584409332226729,
+      "horse_number": 16,
+      "odds": 45.2,
+      "win_prob": 0.0212
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023110062",
+      "horse_name": "プールナバドラ",
+      "score": -1.4775752962748452,
+      "horse_number": 1,
+      "odds": 15.9,
+      "win_prob": 0.0208
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102003",
+      "horse_name": "スレッドザニードル",
+      "score": -1.5527321269511698,
+      "horse_number": 5,
+      "odds": 38.7,
+      "win_prob": 0.0193
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104448",
+      "horse_name": "ガビーズブラザー",
+      "score": -1.657521225968828,
+      "horse_number": 9,
+      "odds": 36.2,
+      "win_prob": 0.0174
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021110063",
+      "horse_name": "メイプルギャング",
+      "score": -1.7099211975195003,
+      "horse_number": 3,
+      "odds": 69.3,
+      "win_prob": 0.0165
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105140",
+      "horse_name": "サヨノパララックス",
+      "score": -1.7665184519387944,
+      "horse_number": 15,
+      "odds": 65.0,
+      "win_prob": 0.0156
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105077",
+      "horse_name": "ワイルドブッター",
+      "score": -2.05467681593327,
+      "horse_number": 4,
+      "odds": 92.2,
+      "win_prob": 0.0117
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022105748",
+      "horse_name": "リードプリンシパル",
+      "score": -2.7368037512963106,
+      "horse_number": 6,
+      "odds": 114.6,
+      "win_prob": 0.0059
+    }
+  ]
+}
