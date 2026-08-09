@@ -1,0 +1,116 @@
+{
+  "race_id": "202601010602",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-09 10:30",
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101660",
+      "horse_name": "スイーヴル",
+      "score": 0.3166286360709459,
+      "horse_number": 5,
+      "odds": 2.0,
+      "win_prob": 0.3435
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104999",
+      "horse_name": "メイショウマドンナ",
+      "score": -0.5677344243269666,
+      "horse_number": 1,
+      "odds": 11.3,
+      "win_prob": 0.1419
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103999",
+      "horse_name": "カッサンドラ",
+      "score": -0.6529791799225376,
+      "horse_number": 6,
+      "odds": 7.4,
+      "win_prob": 0.1303
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105310",
+      "horse_name": "マーゴットオネイロ",
+      "score": -0.7832034580390785,
+      "horse_number": 9,
+      "odds": 3.7,
+      "win_prob": 0.1144
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103167",
+      "horse_name": "ロングフルスペック",
+      "score": -1.3117067287790118,
+      "horse_number": 11,
+      "odds": 40.7,
+      "win_prob": 0.0674
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104449",
+      "horse_name": "テリオスルミ",
+      "score": -1.3391224138291562,
+      "horse_number": 12,
+      "odds": 76.9,
+      "win_prob": 0.0656
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102763",
+      "horse_name": "ルクスドリーム",
+      "score": -1.4942514375378622,
+      "horse_number": 8,
+      "odds": 9.8,
+      "win_prob": 0.0562
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101707",
+      "horse_name": "フジコンフィデンス",
+      "score": -2.070544248765486,
+      "horse_number": 2,
+      "odds": 16.5,
+      "win_prob": 0.0316
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023109094",
+      "horse_name": "ラブデウザ",
+      "score": -2.5695722600246182,
+      "horse_number": 7,
+      "odds": 29.8,
+      "win_prob": 0.0192
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102803",
+      "horse_name": "ケイベエ",
+      "score": -2.8929303970987537,
+      "horse_number": 3,
+      "odds": 89.9,
+      "win_prob": 0.0139
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023109076",
+      "horse_name": "メイヨシュア",
+      "score": -3.401451173580296,
+      "horse_number": 4,
+      "odds": 94.9,
+      "win_prob": 0.0083
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105694",
+      "horse_name": "ハクサンレイホウ",
+      "score": -3.471098966857735,
+      "horse_number": 10,
+      "odds": 133.6,
+      "win_prob": 0.0078
+    }
+  ]
+}
