@@ -1,0 +1,71 @@
+{
+  "race_id": "202604020610",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-09 17:20",
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107277",
+      "horse_name": "モートンアイランド",
+      "score": 1.6379463638702523,
+      "horse_number": 5,
+      "odds": 2.8,
+      "win_prob": 0.4277
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107228",
+      "horse_name": "ウップヘリーア",
+      "score": 1.3253587452370283,
+      "horse_number": 7,
+      "odds": 2.1,
+      "win_prob": 0.3129
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105365",
+      "horse_name": "オプレントジュエル",
+      "score": 0.12294210905949238,
+      "horse_number": 6,
+      "odds": 5.6,
+      "win_prob": 0.094
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103308",
+      "horse_name": "ミッドセンチュリー",
+      "score": 0.061068029757783825,
+      "horse_number": 2,
+      "odds": 9.9,
+      "win_prob": 0.0884
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105223",
+      "horse_name": "イスキオス",
+      "score": -0.8848108093300114,
+      "horse_number": 4,
+      "odds": 11.5,
+      "win_prob": 0.0343
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101088",
+      "horse_name": "テイキットイージー",
+      "score": -1.0259175271405534,
+      "horse_number": 3,
+      "odds": 18.2,
+      "win_prob": 0.0298
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101620",
+      "horse_name": "トラストモアリズム",
+      "score": -1.8580367331458245,
+      "horse_number": 1,
+      "odds": 47.7,
+      "win_prob": 0.013
+    }
+  ]
+}
