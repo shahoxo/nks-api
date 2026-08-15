@@ -1,0 +1,135 @@
+{
+  "race_id": "202601010712",
+  "race_name": "積丹特別",
+  "race_time": "2026-08-15 16:15",
+  "race_time_unix": 1786778100,
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107259",
+      "horse_name": "ミッキーファルコン",
+      "score": 1.307270670683024,
+      "horse_number": 9,
+      "odds": 2.1,
+      "win_prob": 0.3093
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104920",
+      "horse_name": "バルドル",
+      "score": 0.9925111675208407,
+      "horse_number": 8,
+      "odds": 11.0,
+      "win_prob": 0.2258
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105223",
+      "horse_name": "アーレムアレス",
+      "score": 0.9776407355383514,
+      "horse_number": 12,
+      "odds": 4.0,
+      "win_prob": 0.2224
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106077",
+      "horse_name": "タケルフォーカス",
+      "score": -0.24097366423525374,
+      "horse_number": 5,
+      "odds": 7.0,
+      "win_prob": 0.0658
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023100237",
+      "horse_name": "オブラプリーマ",
+      "score": -0.6122926262814697,
+      "horse_number": 10,
+      "odds": 17.9,
+      "win_prob": 0.0454
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105529",
+      "horse_name": "ミッドタウンナイト",
+      "score": -1.2242753151128773,
+      "horse_number": 7,
+      "odds": 24.3,
+      "win_prob": 0.0246
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021102379",
+      "horse_name": "テイクザクラウン",
+      "score": -1.2350387522385307,
+      "horse_number": 2,
+      "odds": 26.8,
+      "win_prob": 0.0243
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106180",
+      "horse_name": "シャインバオバブ",
+      "score": -1.440483227559204,
+      "horse_number": 14,
+      "odds": 47.5,
+      "win_prob": 0.0198
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103644",
+      "horse_name": "ブレイジングスター",
+      "score": -1.5555215444224837,
+      "horse_number": 6,
+      "odds": 63.6,
+      "win_prob": 0.0177
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020105796",
+      "horse_name": "ペリプルス",
+      "score": -1.9619480084584533,
+      "horse_number": 4,
+      "odds": 26.1,
+      "win_prob": 0.0118
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101495",
+      "horse_name": "シャインフリーリー",
+      "score": -2.0728444811866527,
+      "horse_number": 13,
+      "odds": 60.1,
+      "win_prob": 0.0105
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101090",
+      "horse_name": "ジャストビート",
+      "score": -2.3036720521163643,
+      "horse_number": 1,
+      "odds": 27.9,
+      "win_prob": 0.0084
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104661",
+      "horse_name": "ジーティートシオー",
+      "score": -2.340087559788833,
+      "horse_number": 3,
+      "odds": 59.7,
+      "win_prob": 0.0081
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104164",
+      "horse_name": "サイモンイロハニー",
+      "score": -2.5944688840420813,
+      "horse_number": 11,
+      "odds": 49.0,
+      "win_prob": 0.0062
+    }
+  ]
+}
