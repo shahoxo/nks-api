@@ -1,0 +1,135 @@
+{
+  "race_id": "202601010706",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-15 12:50",
+  "race_time_unix": 1786765800,
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106620",
+      "horse_name": "ショウナンバーボン",
+      "score": 0.19482220582682497,
+      "horse_number": 10,
+      "odds": 3.7,
+      "win_prob": 0.2221
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106910",
+      "horse_name": "エアヴァイブス",
+      "score": -0.2778287753528196,
+      "horse_number": 7,
+      "odds": 4.3,
+      "win_prob": 0.1385
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101459",
+      "horse_name": "シャルムグリーン",
+      "score": -0.2850245317369115,
+      "horse_number": 9,
+      "odds": 4.5,
+      "win_prob": 0.1375
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104254",
+      "horse_name": "サウンドファミリエ",
+      "score": -0.3594419455669673,
+      "horse_number": 11,
+      "odds": 15.9,
+      "win_prob": 0.1276
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105470",
+      "horse_name": "グローリーバローズ",
+      "score": -0.3858782807602541,
+      "horse_number": 1,
+      "odds": 11.5,
+      "win_prob": 0.1243
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103559",
+      "horse_name": "レイナデルアイレ",
+      "score": -1.315624809901534,
+      "horse_number": 5,
+      "odds": 17.9,
+      "win_prob": 0.049
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107304",
+      "horse_name": "ランウェイミューズ",
+      "score": -1.3492424007744384,
+      "horse_number": 13,
+      "odds": 8.3,
+      "win_prob": 0.0474
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105530",
+      "horse_name": "エイシンキーンラン",
+      "score": -1.4750008802332906,
+      "horse_number": 8,
+      "odds": 9.4,
+      "win_prob": 0.0418
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105138",
+      "horse_name": "ニシノシャルム",
+      "score": -1.7237082732381086,
+      "horse_number": 6,
+      "odds": 34.4,
+      "win_prob": 0.0326
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106772",
+      "horse_name": "アップターンデイ",
+      "score": -1.8466586229369437,
+      "horse_number": 14,
+      "odds": 53.4,
+      "win_prob": 0.0288
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104230",
+      "horse_name": "タマモパルファン",
+      "score": -2.143744769368556,
+      "horse_number": 2,
+      "odds": 40.3,
+      "win_prob": 0.0214
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100351",
+      "horse_name": "ヤマヤロード",
+      "score": -2.2630174923960102,
+      "horse_number": 12,
+      "odds": 76.6,
+      "win_prob": 0.019
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106687",
+      "horse_name": "ヒャクレツケン",
+      "score": -3.299555570931251,
+      "horse_number": 4,
+      "odds": 101.6,
+      "win_prob": 0.0067
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102361",
+      "horse_name": "フラワーフェアリー",
+      "score": -4.069141823709123,
+      "horse_number": 3,
+      "odds": 111.7,
+      "win_prob": 0.0031
+    }
+  ]
+}
