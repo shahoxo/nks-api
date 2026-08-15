@@ -1,0 +1,81 @@
+{
+  "race_id": "202601010709",
+  "race_name": "コスモス賞",
+  "race_time": "2026-08-15 14:25",
+  "race_time_unix": 1786771500,
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024106399",
+      "horse_name": "デアグランツ",
+      "score": 0.9333761772383788,
+      "horse_number": 8,
+      "odds": 2.7,
+      "win_prob": 0.2584
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024105444",
+      "horse_name": "アゴルディーノ",
+      "score": 0.7514388056456358,
+      "horse_number": 6,
+      "odds": 3.5,
+      "win_prob": 0.2154
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024105890",
+      "horse_name": "アヴィアトーレ",
+      "score": 0.7063606485726548,
+      "horse_number": 3,
+      "odds": 4.1,
+      "win_prob": 0.2059
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024103590",
+      "horse_name": "コスモハナミズキ",
+      "score": 0.4163884539426701,
+      "horse_number": 1,
+      "odds": 7.6,
+      "win_prob": 0.1541
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024103053",
+      "horse_name": "ウインワーグナー",
+      "score": 0.2497317519758837,
+      "horse_number": 7,
+      "odds": 8.1,
+      "win_prob": 0.1304
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024102518",
+      "horse_name": "2024102518",
+      "score": -1.6216368678665847,
+      "horse_number": 2,
+      "odds": 45.0,
+      "win_prob": 0.0201
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024100380",
+      "horse_name": "2024100380",
+      "score": -2.1799598285095563,
+      "horse_number": 5,
+      "odds": 14.0,
+      "win_prob": 0.0115
+    },
+    {
+      "rank": 8,
+      "horse_id": "2024104046",
+      "horse_name": "2024104046",
+      "score": -3.217866686810639,
+      "horse_number": 4,
+      "odds": 83.3,
+      "win_prob": 0.0041
+    }
+  ]
+}
