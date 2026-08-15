@@ -9,127 +9,127 @@
       "rank": 1,
       "horse_id": "2022104903",
       "horse_name": "セボンサデッセ",
-      "score": 1.4348082390421144,
+      "score": 1.2798037090353667,
       "horse_number": 7,
       "odds": 4.2,
-      "win_prob": 0.2811
+      "win_prob": 0.2582
     },
     {
       "rank": 2,
       "horse_id": "2022101678",
       "horse_name": "キャットテイル",
-      "score": 0.4260879171945415,
+      "score": 0.26283705639024857,
       "horse_number": 3,
       "odds": 9.4,
-      "win_prob": 0.1025
+      "win_prob": 0.0934
     },
     {
       "rank": 3,
       "horse_id": "2023110100",
       "horse_name": "アスクケンタッキー",
-      "score": 0.13781915691958246,
+      "score": 0.14157174211007978,
       "horse_number": 12,
       "odds": 15.0,
-      "win_prob": 0.0768
+      "win_prob": 0.0827
     },
     {
       "rank": 4,
-      "horse_id": "2022101677",
-      "horse_name": "マンオブザマッチ",
-      "score": 0.12172783855608832,
-      "horse_number": 2,
-      "odds": 11.7,
-      "win_prob": 0.0756
+      "horse_id": "2022102735",
+      "horse_name": "スマートカイロス",
+      "score": 0.09744749127628734,
+      "horse_number": 14,
+      "odds": 15.3,
+      "win_prob": 0.0792
     },
     {
       "rank": 5,
-      "horse_id": "2022102735",
-      "horse_name": "スマートカイロス",
-      "score": 0.10841129148230515,
-      "horse_number": 14,
-      "odds": 15.3,
-      "win_prob": 0.0746
+      "horse_id": "2022101677",
+      "horse_name": "マンオブザマッチ",
+      "score": 0.08482331113189012,
+      "horse_number": 2,
+      "odds": 11.7,
+      "win_prob": 0.0782
     },
     {
       "rank": 6,
       "horse_id": "2021100162",
       "horse_name": "ロードブレイズ",
-      "score": 0.08269497385272251,
+      "score": 0.07151830802626138,
       "horse_number": 13,
       "odds": 16.2,
-      "win_prob": 0.0727
+      "win_prob": 0.0771
     },
     {
       "rank": 7,
-      "horse_id": "2022102123",
-      "horse_name": "モズカトレア",
-      "score": -0.1284256599395775,
-      "horse_number": 10,
-      "odds": 21.7,
-      "win_prob": 0.0589
+      "horse_id": "2021100734",
+      "horse_name": "レーウィン",
+      "score": -0.09930135726327902,
+      "horse_number": 6,
+      "odds": 24.5,
+      "win_prob": 0.065
     },
     {
       "rank": 8,
-      "horse_id": "2021103502",
-      "horse_name": "アイウィル",
-      "score": -0.16401915526698163,
-      "horse_number": 11,
-      "odds": 4.9,
-      "win_prob": 0.0568
+      "horse_id": "2022102123",
+      "horse_name": "モズカトレア",
+      "score": -0.1624653684473816,
+      "horse_number": 10,
+      "odds": 21.7,
+      "win_prob": 0.061
     },
     {
       "rank": 9,
-      "horse_id": "2021100734",
-      "horse_name": "レーウィン",
-      "score": -0.18956867208720293,
-      "horse_number": 6,
-      "odds": 24.5,
-      "win_prob": 0.0554
+      "horse_id": "2021103502",
+      "horse_name": "アイウィル",
+      "score": -0.1628213361871056,
+      "horse_number": 11,
+      "odds": 4.9,
+      "win_prob": 0.061
     },
     {
       "rank": 10,
       "horse_id": "2022103766",
       "horse_name": "トルショー",
-      "score": -0.290976805834423,
+      "score": -0.42442013736851697,
       "horse_number": 8,
       "odds": 17.3,
-      "win_prob": 0.05
+      "win_prob": 0.047
     },
     {
       "rank": 11,
       "horse_id": "2021103073",
       "horse_name": "プロミシングスター",
-      "score": -0.554250114272789,
+      "score": -0.6292429882024421,
       "horse_number": 1,
       "odds": 10.8,
-      "win_prob": 0.0385
+      "win_prob": 0.0383
     },
     {
       "rank": 12,
       "horse_id": "2021102256",
       "horse_name": "ノーブルスカイ",
-      "score": -0.7161449157503184,
+      "score": -0.7944530756601452,
       "horse_number": 4,
       "odds": 16.5,
-      "win_prob": 0.0327
+      "win_prob": 0.0324
     },
     {
       "rank": 13,
       "horse_id": "2019102102",
       "horse_name": "ゲキザル",
-      "score": -1.6590870757584057,
+      "score": -1.6351675933241672,
       "horse_number": 5,
       "odds": 8.8,
-      "win_prob": 0.0127
+      "win_prob": 0.014
     },
     {
       "rank": 14,
       "horse_id": "2019102983",
       "horse_name": "キュールエフウジン",
-      "score": -1.7624335328844756,
+      "score": -1.7512349614341172,
       "horse_number": 9,
       "odds": 57.9,
-      "win_prob": 0.0115
+      "win_prob": 0.0125
     }
   ]
 }
