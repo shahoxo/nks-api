@@ -1,0 +1,90 @@
+{
+  "race_id": "202604020701",
+  "race_name": "2歳未勝利",
+  "race_time": "2026-08-15 09:40",
+  "race_time_unix": 1786754400,
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024104561",
+      "horse_name": "フルーツバスケット",
+      "score": 1.5662813155525512,
+      "horse_number": 3,
+      "odds": 2.5,
+      "win_prob": 0.5317
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024107076",
+      "horse_name": "シュートザワークス",
+      "score": 0.43309745200527616,
+      "horse_number": 6,
+      "odds": 8.2,
+      "win_prob": 0.1712
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024106309",
+      "horse_name": "コナパームス",
+      "score": 0.3949980999842356,
+      "horse_number": 4,
+      "odds": 3.8,
+      "win_prob": 0.1648
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024102244",
+      "horse_name": "ドミナートル",
+      "score": -0.6795442826393409,
+      "horse_number": 9,
+      "odds": 2.6,
+      "win_prob": 0.0563
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024104692",
+      "horse_name": "スターマイン",
+      "score": -1.4092487497640707,
+      "horse_number": 5,
+      "odds": 58.2,
+      "win_prob": 0.0271
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024108324",
+      "horse_name": "ミライノシャチョウ",
+      "score": -1.6094961770090157,
+      "horse_number": 1,
+      "odds": 17.7,
+      "win_prob": 0.0222
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024107030",
+      "horse_name": "オーラムミーティア",
+      "score": -1.9756654549244794,
+      "horse_number": 7,
+      "odds": 71.5,
+      "win_prob": 0.0154
+    },
+    {
+      "rank": 8,
+      "horse_id": "2024105550",
+      "horse_name": "マルガリート",
+      "score": -2.7530610801660953,
+      "horse_number": 8,
+      "odds": 100.4,
+      "win_prob": 0.0071
+    },
+    {
+      "rank": 9,
+      "horse_id": "2024102839",
+      "horse_name": "ムーチョピカンテ",
+      "score": -3.275184006320566,
+      "horse_number": 2,
+      "odds": 162.5,
+      "win_prob": 0.0042
+    }
+  ]
+}
