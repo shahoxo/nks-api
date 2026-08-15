@@ -9,28 +9,28 @@
       "rank": 1,
       "horse_id": "2023107168",
       "horse_name": "ブラックオリンピア",
-      "score": 2.5109076069581975,
+      "score": 2.4372973372972235,
       "horse_number": 12,
       "odds": 1.5,
-      "win_prob": 0.3187
+      "win_prob": 0.2968
     },
     {
       "rank": 2,
       "horse_id": "2022105280",
       "horse_name": "ファーングロット",
-      "score": 2.319066889976695,
+      "score": 2.387437327657163,
       "horse_number": 6,
       "odds": 9.6,
-      "win_prob": 0.2631
+      "win_prob": 0.2824
     },
     {
       "rank": 3,
       "horse_id": "2023105818",
       "horse_name": "ロードフィレール",
-      "score": 1.9697121614335618,
+      "score": 1.9981985346834412,
       "horse_number": 5,
       "odds": 3.7,
-      "win_prob": 0.1855
+      "win_prob": 0.1913
     },
     {
       "rank": 4,
@@ -39,58 +39,58 @@
       "score": 0.9359537167445364,
       "horse_number": 4,
       "odds": 57.0,
-      "win_prob": 0.066
+      "win_prob": 0.0661
     },
     {
       "rank": 5,
       "horse_id": "2022103510",
       "horse_name": "キングズトゥルー",
-      "score": 0.08958612323994085,
+      "score": 0.045958521060228734,
       "horse_number": 9,
       "odds": 23.5,
-      "win_prob": 0.0283
+      "win_prob": 0.0272
     },
     {
       "rank": 6,
       "horse_id": "2022101605",
       "horse_name": "サミダレナイツ",
-      "score": -0.03125948397104507,
+      "score": -0.01525017814525357,
       "horse_number": 7,
       "odds": 49.0,
-      "win_prob": 0.0251
+      "win_prob": 0.0255
     },
     {
       "rank": 7,
       "horse_id": "2022104980",
       "horse_name": "ダノンピクチャー",
-      "score": -0.15555296045003508,
+      "score": -0.0673521604606224,
       "horse_number": 1,
       "odds": 31.2,
-      "win_prob": 0.0222
+      "win_prob": 0.0243
     },
     {
       "rank": 8,
-      "horse_id": "2023101116",
-      "horse_name": "ゴールデンパゴーダ",
-      "score": -0.23774536558481968,
-      "horse_number": 3,
-      "odds": 61.9,
-      "win_prob": 0.0204
+      "horse_id": "2021100597",
+      "horse_name": "ズイウンゴサイ",
+      "score": -0.31780867578818905,
+      "horse_number": 14,
+      "odds": 81.1,
+      "win_prob": 0.0189
     },
     {
       "rank": 9,
-      "horse_id": "2021100597",
-      "horse_name": "ズイウンゴサイ",
-      "score": -0.33688044654409344,
-      "horse_number": 14,
-      "odds": 81.1,
-      "win_prob": 0.0185
+      "horse_id": "2023101116",
+      "horse_name": "ゴールデンパゴーダ",
+      "score": -0.5323034690346852,
+      "horse_number": 3,
+      "odds": 61.9,
+      "win_prob": 0.0152
     },
     {
       "rank": 10,
       "horse_id": "2022105390",
       "horse_name": "パッションリッチ",
-      "score": -0.567189580727226,
+      "score": -0.5668478236538113,
       "horse_number": 13,
       "odds": 43.5,
       "win_prob": 0.0147
@@ -99,37 +99,37 @@
       "rank": 11,
       "horse_id": "2020103718",
       "horse_name": "オールマイデイズ",
-      "score": -0.6129386305073806,
+      "score": -0.5710407411343326,
       "horse_number": 11,
       "odds": 50.3,
-      "win_prob": 0.014
+      "win_prob": 0.0147
     },
     {
       "rank": 12,
       "horse_id": "2021105763",
       "horse_name": "ビップチェイス",
-      "score": -0.6957557769286122,
+      "score": -0.7393833791083244,
       "horse_number": 8,
       "odds": 68.1,
-      "win_prob": 0.0129
+      "win_prob": 0.0124
     },
     {
       "rank": 13,
       "horse_id": "2021106077",
       "horse_name": "プリズマジコ",
-      "score": -1.1241947350898438,
+      "score": -1.1730246711751235,
       "horse_number": 2,
       "odds": 80.9,
-      "win_prob": 0.0084
+      "win_prob": 0.008
     },
     {
       "rank": 14,
       "horse_id": "2019104531",
       "horse_name": "バンフィエルド",
-      "score": -2.462266553106522,
+      "score": -2.3733575794771777,
       "horse_number": 10,
       "odds": 144.0,
-      "win_prob": 0.0022
+      "win_prob": 0.0024
     }
   ]
 }

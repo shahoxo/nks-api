@@ -1,0 +1,108 @@
+{
+  "race_id": "202607020706",
+  "race_name": "知多特別",
+  "race_time": "2026-08-15 15:10",
+  "race_time_unix": 1786774200,
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104528",
+      "horse_name": "トップアタック",
+      "score": 1.4061144337097236,
+      "horse_number": 7,
+      "odds": 4.9,
+      "win_prob": 0.2193
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105668",
+      "horse_name": "シラヌイ",
+      "score": 1.334605066720707,
+      "horse_number": 9,
+      "odds": 4.5,
+      "win_prob": 0.2042
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105273",
+      "horse_name": "フォーゲル",
+      "score": 1.3193794603813713,
+      "horse_number": 10,
+      "odds": 4.2,
+      "win_prob": 0.2011
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104044",
+      "horse_name": "モンサンゴールデン",
+      "score": 0.7549639102438725,
+      "horse_number": 4,
+      "odds": 13.1,
+      "win_prob": 0.1144
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102729",
+      "horse_name": "インフローレ",
+      "score": 0.08084346494730665,
+      "horse_number": 11,
+      "odds": 13.4,
+      "win_prob": 0.0583
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104597",
+      "horse_name": "モンテディアーナ",
+      "score": 0.05372909685134786,
+      "horse_number": 1,
+      "odds": 7.0,
+      "win_prob": 0.0567
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104501",
+      "horse_name": "パリコレジェンヌ",
+      "score": -0.3085952348553025,
+      "horse_number": 5,
+      "odds": 7.2,
+      "win_prob": 0.0395
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020104732",
+      "horse_name": "ハルオーブ",
+      "score": -0.4683441032344742,
+      "horse_number": 2,
+      "odds": 18.0,
+      "win_prob": 0.0336
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106661",
+      "horse_name": "ヒーローインチーフ",
+      "score": -0.5949744266632094,
+      "horse_number": 3,
+      "odds": 19.0,
+      "win_prob": 0.0296
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100476",
+      "horse_name": "ファイツオン",
+      "score": -0.7703796727861882,
+      "horse_number": 8,
+      "odds": 26.9,
+      "win_prob": 0.0249
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100650",
+      "horse_name": "タミゼ",
+      "score": -1.0699040884542461,
+      "horse_number": 6,
+      "odds": 54.8,
+      "win_prob": 0.0184
+    }
+  ]
+}
