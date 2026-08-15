@@ -1,0 +1,117 @@
+{
+  "race_id": "202601010704",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-15 11:30",
+  "race_time_unix": 1786761000,
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105870",
+      "horse_name": "ウインガネーシャ",
+      "score": -0.15501858913574193,
+      "horse_number": 6,
+      "odds": 2.6,
+      "win_prob": 0.2251
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105444",
+      "horse_name": "ポップアップ",
+      "score": -0.22928183403393274,
+      "horse_number": 3,
+      "odds": 6.4,
+      "win_prob": 0.209
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106733",
+      "horse_name": "ザンテソーロ",
+      "score": -0.5657597522703467,
+      "horse_number": 1,
+      "odds": 6.8,
+      "win_prob": 0.1493
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105678",
+      "horse_name": "2023105678",
+      "score": -0.9446155521545415,
+      "horse_number": 10,
+      "odds": 14.7,
+      "win_prob": 0.1022
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106060",
+      "horse_name": "モロノカガヤキ",
+      "score": -0.9808447532818282,
+      "horse_number": 12,
+      "odds": 6.0,
+      "win_prob": 0.0986
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105838",
+      "horse_name": "ロードステラート",
+      "score": -1.3465681502371094,
+      "horse_number": 4,
+      "odds": 12.3,
+      "win_prob": 0.0684
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105889",
+      "horse_name": "ウインモンクール",
+      "score": -1.9432349586940563,
+      "horse_number": 11,
+      "odds": 25.2,
+      "win_prob": 0.0376
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107307",
+      "horse_name": "ブラックパロット",
+      "score": -2.007106804994903,
+      "horse_number": 9,
+      "odds": 32.1,
+      "win_prob": 0.0353
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102700",
+      "horse_name": "コイバナ",
+      "score": -2.014431665198959,
+      "horse_number": 7,
+      "odds": 11.0,
+      "win_prob": 0.0351
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102187",
+      "horse_name": "シエルブリエ",
+      "score": -2.682729869316143,
+      "horse_number": 2,
+      "odds": 20.6,
+      "win_prob": 0.018
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106214",
+      "horse_name": "ガビーズメロディ",
+      "score": -3.0221896066390337,
+      "horse_number": 5,
+      "odds": 34.0,
+      "win_prob": 0.0128
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102550",
+      "horse_name": "ワイルドカイザー",
+      "score": -3.4035712671142653,
+      "horse_number": 8,
+      "odds": 68.1,
+      "win_prob": 0.0087
+    }
+  ]
+}

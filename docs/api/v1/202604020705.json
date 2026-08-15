@@ -1,0 +1,171 @@
+{
+  "race_id": "202604020705",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-15 11:40",
+  "race_time_unix": 1786761600,
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105257",
+      "horse_name": "ウフドゥウフ",
+      "score": 1.183628496174487,
+      "horse_number": 4,
+      "odds": 8.2,
+      "win_prob": 0.1924
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101085",
+      "horse_name": "デスサイズ",
+      "score": 0.8369111695919089,
+      "horse_number": 5,
+      "odds": 5.2,
+      "win_prob": 0.1361
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100831",
+      "horse_name": "ミスターマーボー",
+      "score": 0.5316764999813826,
+      "horse_number": 7,
+      "odds": 12.2,
+      "win_prob": 0.1003
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104450",
+      "horse_name": "シュペルリング",
+      "score": 0.1553482593747669,
+      "horse_number": 6,
+      "odds": 16.4,
+      "win_prob": 0.0688
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106203",
+      "horse_name": "カシオペア",
+      "score": 0.11735750345683946,
+      "horse_number": 18,
+      "odds": 10.0,
+      "win_prob": 0.0663
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106477",
+      "horse_name": "ベレーバスク",
+      "score": 0.06331907675916129,
+      "horse_number": 8,
+      "odds": 27.0,
+      "win_prob": 0.0628
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022104953",
+      "horse_name": "モティスフォント",
+      "score": -0.09742230424030693,
+      "horse_number": 2,
+      "odds": 12.0,
+      "win_prob": 0.0534
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104764",
+      "horse_name": "エバーラスト",
+      "score": -0.10696953096676057,
+      "horse_number": 16,
+      "odds": 40.1,
+      "win_prob": 0.0529
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103657",
+      "horse_name": "ノーブルクロンヌ",
+      "score": -0.1916770388451238,
+      "horse_number": 13,
+      "odds": 24.9,
+      "win_prob": 0.0486
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106883",
+      "horse_name": "グリオンヴール",
+      "score": -0.28327870724022813,
+      "horse_number": 15,
+      "odds": 3.9,
+      "win_prob": 0.0444
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104425",
+      "horse_name": "リーデレクオーレ",
+      "score": -0.3619549765081946,
+      "horse_number": 14,
+      "odds": 35.4,
+      "win_prob": 0.041
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106484",
+      "horse_name": "フェーダーローター",
+      "score": -0.5220071230793023,
+      "horse_number": 17,
+      "odds": 47.6,
+      "win_prob": 0.035
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103146",
+      "horse_name": "スタートレイン",
+      "score": -0.5351937221478802,
+      "horse_number": 1,
+      "odds": 26.0,
+      "win_prob": 0.0345
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100776",
+      "horse_name": "シャオママル",
+      "score": -1.1318005243346352,
+      "horse_number": 12,
+      "odds": 9.9,
+      "win_prob": 0.019
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022101191",
+      "horse_name": "ポタリング",
+      "score": -1.2622359894606878,
+      "horse_number": 9,
+      "odds": 66.1,
+      "win_prob": 0.0167
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105128",
+      "horse_name": "ヤマメライズ",
+      "score": -1.786252425256403,
+      "horse_number": 10,
+      "odds": 77.4,
+      "win_prob": 0.0099
+    },
+    {
+      "rank": 17,
+      "horse_id": "2021106419",
+      "horse_name": "ココボロ",
+      "score": -1.8537060222953543,
+      "horse_number": 3,
+      "odds": 35.2,
+      "win_prob": 0.0092
+    },
+    {
+      "rank": 18,
+      "horse_id": "2022105477",
+      "horse_name": "デルマケセラセラ",
+      "score": -1.9114229433936238,
+      "horse_number": 11,
+      "odds": 86.2,
+      "win_prob": 0.0087
+    }
+  ]
+}
