@@ -1,0 +1,135 @@
+{
+  "race_id": "202601010711",
+  "race_name": "大雪HC",
+  "race_time": "2026-08-15 15:35",
+  "race_time_unix": 1786775700,
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104903",
+      "horse_name": "セボンサデッセ",
+      "score": 1.4348082390421144,
+      "horse_number": 7,
+      "odds": 4.2,
+      "win_prob": 0.2811
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101678",
+      "horse_name": "キャットテイル",
+      "score": 0.4260879171945415,
+      "horse_number": 3,
+      "odds": 9.4,
+      "win_prob": 0.1025
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023110100",
+      "horse_name": "アスクケンタッキー",
+      "score": 0.13781915691958246,
+      "horse_number": 12,
+      "odds": 15.0,
+      "win_prob": 0.0768
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101677",
+      "horse_name": "マンオブザマッチ",
+      "score": 0.12172783855608832,
+      "horse_number": 2,
+      "odds": 11.7,
+      "win_prob": 0.0756
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102735",
+      "horse_name": "スマートカイロス",
+      "score": 0.10841129148230515,
+      "horse_number": 14,
+      "odds": 15.3,
+      "win_prob": 0.0746
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021100162",
+      "horse_name": "ロードブレイズ",
+      "score": 0.08269497385272251,
+      "horse_number": 13,
+      "odds": 16.2,
+      "win_prob": 0.0727
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102123",
+      "horse_name": "モズカトレア",
+      "score": -0.1284256599395775,
+      "horse_number": 10,
+      "odds": 21.7,
+      "win_prob": 0.0589
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103502",
+      "horse_name": "アイウィル",
+      "score": -0.16401915526698163,
+      "horse_number": 11,
+      "odds": 4.9,
+      "win_prob": 0.0568
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100734",
+      "horse_name": "レーウィン",
+      "score": -0.18956867208720293,
+      "horse_number": 6,
+      "odds": 24.5,
+      "win_prob": 0.0554
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022103766",
+      "horse_name": "トルショー",
+      "score": -0.290976805834423,
+      "horse_number": 8,
+      "odds": 17.3,
+      "win_prob": 0.05
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103073",
+      "horse_name": "プロミシングスター",
+      "score": -0.554250114272789,
+      "horse_number": 1,
+      "odds": 10.8,
+      "win_prob": 0.0385
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021102256",
+      "horse_name": "ノーブルスカイ",
+      "score": -0.7161449157503184,
+      "horse_number": 4,
+      "odds": 16.5,
+      "win_prob": 0.0327
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019102102",
+      "horse_name": "ゲキザル",
+      "score": -1.6590870757584057,
+      "horse_number": 5,
+      "odds": 8.8,
+      "win_prob": 0.0127
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019102983",
+      "horse_name": "キュールエフウジン",
+      "score": -1.7624335328844756,
+      "horse_number": 9,
+      "odds": 57.9,
+      "win_prob": 0.0115
+    }
+  ]
+}

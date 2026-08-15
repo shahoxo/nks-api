@@ -9,100 +9,100 @@
       "rank": 1,
       "horse_id": "2023104528",
       "horse_name": "トップアタック",
-      "score": 1.4061144337097236,
+      "score": 1.3247608691541597,
       "horse_number": 7,
       "odds": 4.9,
-      "win_prob": 0.2193
+      "win_prob": 0.228
     },
     {
       "rank": 2,
-      "horse_id": "2023105668",
-      "horse_name": "シラヌイ",
-      "score": 1.334605066720707,
-      "horse_number": 9,
-      "odds": 4.5,
-      "win_prob": 0.2042
+      "horse_id": "2023105273",
+      "horse_name": "フォーゲル",
+      "score": 1.2726292423448755,
+      "horse_number": 10,
+      "odds": 4.2,
+      "win_prob": 0.2164
     },
     {
       "rank": 3,
-      "horse_id": "2023105273",
-      "horse_name": "フォーゲル",
-      "score": 1.3193794603813713,
-      "horse_number": 10,
-      "odds": 4.2,
-      "win_prob": 0.2011
+      "horse_id": "2023105668",
+      "horse_name": "シラヌイ",
+      "score": 1.0843407022081926,
+      "horse_number": 9,
+      "odds": 4.5,
+      "win_prob": 0.1793
     },
     {
       "rank": 4,
       "horse_id": "2023104044",
       "horse_name": "モンサンゴールデン",
-      "score": 0.7549639102438725,
+      "score": 0.543750622702875,
       "horse_number": 4,
       "odds": 13.1,
-      "win_prob": 0.1144
+      "win_prob": 0.1044
     },
     {
       "rank": 5,
-      "horse_id": "2022102729",
-      "horse_name": "インフローレ",
-      "score": 0.08084346494730665,
-      "horse_number": 11,
-      "odds": 13.4,
-      "win_prob": 0.0583
+      "horse_id": "2022104597",
+      "horse_name": "モンテディアーナ",
+      "score": -0.012698906105369574,
+      "horse_number": 1,
+      "odds": 7.0,
+      "win_prob": 0.0599
     },
     {
       "rank": 6,
-      "horse_id": "2022104597",
-      "horse_name": "モンテディアーナ",
-      "score": 0.05372909685134786,
-      "horse_number": 1,
-      "odds": 7.0,
-      "win_prob": 0.0567
+      "horse_id": "2022102729",
+      "horse_name": "インフローレ",
+      "score": -0.10196719359375848,
+      "horse_number": 11,
+      "odds": 13.4,
+      "win_prob": 0.0547
     },
     {
       "rank": 7,
       "horse_id": "2022104501",
       "horse_name": "パリコレジェンヌ",
-      "score": -0.3085952348553025,
+      "score": -0.42504982829322185,
       "horse_number": 5,
       "odds": 7.2,
-      "win_prob": 0.0395
+      "win_prob": 0.0396
     },
     {
       "rank": 8,
       "horse_id": "2020104732",
       "horse_name": "ハルオーブ",
-      "score": -0.4683441032344742,
+      "score": -0.5317370382045151,
       "horse_number": 2,
       "odds": 18.0,
-      "win_prob": 0.0336
+      "win_prob": 0.0356
     },
     {
       "rank": 9,
       "horse_id": "2021106661",
       "horse_name": "ヒーローインチーフ",
-      "score": -0.5949744266632094,
+      "score": -0.6864856700094256,
       "horse_number": 3,
       "odds": 19.0,
-      "win_prob": 0.0296
+      "win_prob": 0.0305
     },
     {
       "rank": 10,
       "horse_id": "2021100476",
       "horse_name": "ファイツオン",
-      "score": -0.7703796727861882,
+      "score": -0.7363246031029224,
       "horse_number": 8,
       "odds": 26.9,
-      "win_prob": 0.0249
+      "win_prob": 0.029
     },
     {
       "rank": 11,
       "horse_id": "2021100650",
       "horse_name": "タミゼ",
-      "score": -1.0699040884542461,
+      "score": -0.9947999188546417,
       "horse_number": 6,
       "odds": 54.8,
-      "win_prob": 0.0184
+      "win_prob": 0.0224
     }
   ]
 }
