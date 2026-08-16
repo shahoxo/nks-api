@@ -1,0 +1,117 @@
+{
+  "race_id": "202601010806",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-16 12:50",
+  "race_time_unix": 1786852200,
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105630",
+      "horse_name": "ビタミンドロップ",
+      "score": 0.29991410010957137,
+      "horse_number": 8,
+      "odds": 3.8,
+      "win_prob": 0.2469
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102427",
+      "horse_name": "イングラム",
+      "score": 0.28320921702744295,
+      "horse_number": 3,
+      "odds": 4.6,
+      "win_prob": 0.2428
+    },
+    {
+      "rank": 3,
+      "horse_id": "2018103293",
+      "horse_name": "ヨドノゴールド",
+      "score": -0.2550400929490144,
+      "horse_number": 10,
+      "odds": 9.7,
+      "win_prob": 0.1418
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103557",
+      "horse_name": "ラテラルパーム",
+      "score": -0.7044421820292048,
+      "horse_number": 4,
+      "odds": 5.2,
+      "win_prob": 0.0904
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105815",
+      "horse_name": "エスカレイト",
+      "score": -0.7509766942220264,
+      "horse_number": 11,
+      "odds": 5.6,
+      "win_prob": 0.0863
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102878",
+      "horse_name": "ナンナンプー",
+      "score": -1.5564702122950973,
+      "horse_number": 7,
+      "odds": 17.3,
+      "win_prob": 0.0386
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103237",
+      "horse_name": "メイショウホダワラ",
+      "score": -1.7487824731616288,
+      "horse_number": 12,
+      "odds": 30.4,
+      "win_prob": 0.0318
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106912",
+      "horse_name": "ジュジュドール",
+      "score": -1.8224384745381557,
+      "horse_number": 1,
+      "odds": 30.8,
+      "win_prob": 0.0296
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103699",
+      "horse_name": "パドゼフィール",
+      "score": -1.9776944073348188,
+      "horse_number": 9,
+      "odds": 11.1,
+      "win_prob": 0.0253
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102799",
+      "horse_name": "タイセイアビリティ",
+      "score": -2.065856813972999,
+      "horse_number": 5,
+      "odds": 26.9,
+      "win_prob": 0.0232
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104370",
+      "horse_name": "マカニ",
+      "score": -2.1261078296408478,
+      "horse_number": 2,
+      "odds": 43.3,
+      "win_prob": 0.0218
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101891",
+      "horse_name": "スパークルジョイ",
+      "score": -2.1466694401290383,
+      "horse_number": 6,
+      "odds": 29.8,
+      "win_prob": 0.0214
+    }
+  ]
+}
