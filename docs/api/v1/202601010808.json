@@ -1,0 +1,108 @@
+{
+  "race_id": "202601010808",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-16 14:01",
+  "race_time_unix": 1786856460,
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022103149",
+      "horse_name": "タイキインドラ",
+      "score": 0.41214280791418995,
+      "horse_number": 7,
+      "odds": 3.5,
+      "win_prob": 0.2401
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103806",
+      "horse_name": "ジェネラスキング",
+      "score": 0.16648716223254983,
+      "horse_number": 10,
+      "odds": 4.5,
+      "win_prob": 0.1878
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022100637",
+      "horse_name": "ロードアルディート",
+      "score": -0.08439686317450501,
+      "horse_number": 5,
+      "odds": 9.6,
+      "win_prob": 0.1461
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100612",
+      "horse_name": "タイセイジェイド",
+      "score": -0.23731173802156583,
+      "horse_number": 2,
+      "odds": 4.7,
+      "win_prob": 0.1254
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101044",
+      "horse_name": "グレイスフルマーチ",
+      "score": -0.44734117007729585,
+      "horse_number": 4,
+      "odds": 4.0,
+      "win_prob": 0.1016
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023110034",
+      "horse_name": "カフジクロミエ",
+      "score": -0.5754777720110528,
+      "horse_number": 1,
+      "odds": 15.8,
+      "win_prob": 0.0894
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104679",
+      "horse_name": "タイセイルビー",
+      "score": -0.9426169389181379,
+      "horse_number": 3,
+      "odds": 12.5,
+      "win_prob": 0.0619
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022107021",
+      "horse_name": "ファミーユウルーズ",
+      "score": -1.9010310415779892,
+      "horse_number": 8,
+      "odds": 121.8,
+      "win_prob": 0.0238
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103235",
+      "horse_name": "カフェブーケット",
+      "score": -2.450057837201954,
+      "horse_number": 11,
+      "odds": 44.9,
+      "win_prob": 0.0137
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106163",
+      "horse_name": "サマースプラッシュ",
+      "score": -2.987871887461663,
+      "horse_number": 9,
+      "odds": 115.0,
+      "win_prob": 0.008
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100777",
+      "horse_name": "スパークルレイ",
+      "score": -4.2689331268203246,
+      "horse_number": 6,
+      "odds": 180.3,
+      "win_prob": 0.0022
+    }
+  ]
+}

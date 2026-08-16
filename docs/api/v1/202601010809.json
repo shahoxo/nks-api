@@ -1,0 +1,153 @@
+{
+  "race_id": "202601010809",
+  "race_name": "小樽特別",
+  "race_time": "2026-08-16 14:35",
+  "race_time_unix": 1786858500,
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103137",
+      "horse_name": "ハッピーラッキー",
+      "score": 0.9123822783142979,
+      "horse_number": 5,
+      "odds": 6.0,
+      "win_prob": 0.1979
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105212",
+      "horse_name": "エコロハート",
+      "score": 0.5428933280685089,
+      "horse_number": 3,
+      "odds": 8.7,
+      "win_prob": 0.1368
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103585",
+      "horse_name": "リヴァイ",
+      "score": 0.4212923455070972,
+      "horse_number": 16,
+      "odds": 9.5,
+      "win_prob": 0.1211
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104856",
+      "horse_name": "マイケルバローズ",
+      "score": 0.24751853073527158,
+      "horse_number": 15,
+      "odds": 14.1,
+      "win_prob": 0.1018
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104047",
+      "horse_name": "ノアールビーナス",
+      "score": -0.010856260004882807,
+      "horse_number": 13,
+      "odds": 10.2,
+      "win_prob": 0.0786
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104875",
+      "horse_name": "ダブルチャレンジ",
+      "score": -0.21489305414161095,
+      "horse_number": 14,
+      "odds": 11.7,
+      "win_prob": 0.0641
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104404",
+      "horse_name": "シュークリーム",
+      "score": -0.25291320500989173,
+      "horse_number": 1,
+      "odds": 11.4,
+      "win_prob": 0.0617
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102027",
+      "horse_name": "フィオラーノ",
+      "score": -0.46360179139095065,
+      "horse_number": 9,
+      "odds": 11.1,
+      "win_prob": 0.05
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102088",
+      "horse_name": "ユーティジャーニー",
+      "score": -0.7207110544544535,
+      "horse_number": 8,
+      "odds": 10.6,
+      "win_prob": 0.0387
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105325",
+      "horse_name": "ラヴノー",
+      "score": -0.7422059870309644,
+      "horse_number": 12,
+      "odds": 6.3,
+      "win_prob": 0.0378
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105812",
+      "horse_name": "ラスベガスサイン",
+      "score": -0.9136086106640463,
+      "horse_number": 2,
+      "odds": 14.7,
+      "win_prob": 0.0319
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020100759",
+      "horse_name": "アルマロクザン",
+      "score": -1.1795231979509808,
+      "horse_number": 11,
+      "odds": 73.7,
+      "win_prob": 0.0244
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100084",
+      "horse_name": "レッドカメリア",
+      "score": -1.1940860865213136,
+      "horse_number": 4,
+      "odds": 23.8,
+      "win_prob": 0.0241
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106016",
+      "horse_name": "ブライアーヒル",
+      "score": -1.6192383303645437,
+      "horse_number": 7,
+      "odds": 47.5,
+      "win_prob": 0.0157
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103847",
+      "horse_name": "トーアサジタリウス",
+      "score": -2.27602390029152,
+      "horse_number": 10,
+      "odds": 45.6,
+      "win_prob": 0.0082
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103316",
+      "horse_name": "キタノクニカラ",
+      "score": -2.4275193147098455,
+      "horse_number": 6,
+      "odds": 59.9,
+      "win_prob": 0.007
+    }
+  ]
+}
