@@ -1,0 +1,126 @@
+{
+  "race_id": "202604020808",
+  "race_name": "瀬波温泉特別",
+  "race_time": "2026-08-16 16:05",
+  "race_time_unix": 1786863900,
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105556",
+      "horse_name": "ラストレガシー",
+      "score": 0.5526160191550488,
+      "horse_number": 5,
+      "odds": 3.0,
+      "win_prob": 0.2467
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021103376",
+      "horse_name": "ブレードサクセス",
+      "score": 0.3281346834996801,
+      "horse_number": 12,
+      "odds": 5.0,
+      "win_prob": 0.1971
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101457",
+      "horse_name": "アンドリーナ",
+      "score": 0.08716486264339177,
+      "horse_number": 7,
+      "odds": 13.3,
+      "win_prob": 0.1549
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021101195",
+      "horse_name": "コーリンカルベラ",
+      "score": -0.508650084729355,
+      "horse_number": 13,
+      "odds": 28.0,
+      "win_prob": 0.0854
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104321",
+      "horse_name": "カレンワッツアップ",
+      "score": -0.7208018165886876,
+      "horse_number": 2,
+      "odds": 4.8,
+      "win_prob": 0.0691
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021104868",
+      "horse_name": "フリーマントル",
+      "score": -1.027880502181742,
+      "horse_number": 6,
+      "odds": 21.7,
+      "win_prob": 0.0508
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022107226",
+      "horse_name": "カゼノタカトシ",
+      "score": -1.1932414291055147,
+      "horse_number": 4,
+      "odds": 9.3,
+      "win_prob": 0.0431
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021100677",
+      "horse_name": "ヴォルスター",
+      "score": -1.5451470389766448,
+      "horse_number": 11,
+      "odds": 27.7,
+      "win_prob": 0.0303
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021101701",
+      "horse_name": "クリフハンガー",
+      "score": -1.5750611588959826,
+      "horse_number": 9,
+      "odds": 29.7,
+      "win_prob": 0.0294
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100526",
+      "horse_name": "コスモコンフェルマ",
+      "score": -1.7148889378878314,
+      "horse_number": 10,
+      "odds": 19.6,
+      "win_prob": 0.0256
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022103518",
+      "horse_name": "リラゲイル",
+      "score": -1.7382440569252315,
+      "horse_number": 1,
+      "odds": 16.5,
+      "win_prob": 0.025
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102793",
+      "horse_name": "ルーラーリッチ",
+      "score": -1.8320602292347727,
+      "horse_number": 8,
+      "odds": 37.0,
+      "win_prob": 0.0227
+    },
+    {
+      "rank": 13,
+      "horse_id": "2016100126",
+      "horse_name": "ダディーズトリップ",
+      "score": -1.9570508518158132,
+      "horse_number": 3,
+      "odds": 21.1,
+      "win_prob": 0.0201
+    }
+  ]
+}
