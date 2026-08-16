@@ -1,0 +1,153 @@
+{
+  "race_id": "202607020805",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-16 11:50",
+  "race_time_unix": 1786848600,
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102255",
+      "horse_name": "セッシュウ",
+      "score": 0.49532708509729084,
+      "horse_number": 2,
+      "odds": 5.9,
+      "win_prob": 0.2002
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105738",
+      "horse_name": "モズプリフォール",
+      "score": 0.2586024937297549,
+      "horse_number": 9,
+      "odds": 4.8,
+      "win_prob": 0.158
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105348",
+      "horse_name": "ジョーカー",
+      "score": 0.14530909946278828,
+      "horse_number": 14,
+      "odds": 4.3,
+      "win_prob": 0.1411
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105124",
+      "horse_name": "キングズテイル",
+      "score": 0.08025619599455974,
+      "horse_number": 15,
+      "odds": 8.3,
+      "win_prob": 0.1322
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023110041",
+      "horse_name": "クロレ",
+      "score": -0.12532426325245086,
+      "horse_number": 6,
+      "odds": 14.8,
+      "win_prob": 0.1076
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102022",
+      "horse_name": "ペプチドアロン",
+      "score": -0.2517346330577428,
+      "horse_number": 11,
+      "odds": 5.4,
+      "win_prob": 0.0949
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105635",
+      "horse_name": "ナリタアーマー",
+      "score": -0.8070230897219576,
+      "horse_number": 7,
+      "odds": 15.6,
+      "win_prob": 0.0544
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105377",
+      "horse_name": "タイセイドゥマーニ",
+      "score": -1.5824440751112012,
+      "horse_number": 3,
+      "odds": 18.5,
+      "win_prob": 0.0251
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106282",
+      "horse_name": "トリーア",
+      "score": -1.8852297996535308,
+      "horse_number": 1,
+      "odds": 36.8,
+      "win_prob": 0.0185
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102922",
+      "horse_name": "2023102922",
+      "score": -1.9897629437343094,
+      "horse_number": 10,
+      "odds": 101.7,
+      "win_prob": 0.0167
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104325",
+      "horse_name": "パンサーズ",
+      "score": -2.1289498832855553,
+      "horse_number": 8,
+      "odds": 39.8,
+      "win_prob": 0.0145
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106017",
+      "horse_name": "ブラストビート",
+      "score": -2.3343825209969276,
+      "horse_number": 16,
+      "odds": 78.7,
+      "win_prob": 0.0118
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103785",
+      "horse_name": "ソブリンズオーブ",
+      "score": -2.6649424831951327,
+      "horse_number": 13,
+      "odds": 109.3,
+      "win_prob": 0.0085
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104468",
+      "horse_name": "ゼットドリーム",
+      "score": -2.7770479515073507,
+      "horse_number": 12,
+      "odds": 109.3,
+      "win_prob": 0.0076
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023106018",
+      "horse_name": "リフラ",
+      "score": -3.205153205606577,
+      "horse_number": 4,
+      "odds": 20.3,
+      "win_prob": 0.0049
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023104012",
+      "horse_name": "キタノアンドレイ",
+      "score": -3.45708084702095,
+      "horse_number": 5,
+      "odds": 87.5,
+      "win_prob": 0.0038
+    }
+  ]
+}

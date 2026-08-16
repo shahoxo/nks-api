@@ -1,0 +1,117 @@
+{
+  "race_id": "202604020805",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-16 11:40",
+  "race_time_unix": 1786848000,
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105324",
+      "horse_name": "ダノンファンスター",
+      "score": 1.4898486550143215,
+      "horse_number": 6,
+      "odds": 2.0,
+      "win_prob": 0.3125
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106960",
+      "horse_name": "キシダンチョウ",
+      "score": 1.2913299688003155,
+      "horse_number": 10,
+      "odds": 7.6,
+      "win_prob": 0.2563
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104666",
+      "horse_name": "カザンラク",
+      "score": 0.3226225524662159,
+      "horse_number": 11,
+      "odds": 4.8,
+      "win_prob": 0.0973
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104173",
+      "horse_name": "デイジー",
+      "score": 0.037034147464677356,
+      "horse_number": 12,
+      "odds": 12.6,
+      "win_prob": 0.0731
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102730",
+      "horse_name": "ショウナンダイン",
+      "score": -0.28941807308705086,
+      "horse_number": 5,
+      "odds": 35.8,
+      "win_prob": 0.0527
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022106832",
+      "horse_name": "コスモキャバリエ",
+      "score": -0.31477661772714277,
+      "horse_number": 9,
+      "odds": 18.4,
+      "win_prob": 0.0514
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104488",
+      "horse_name": "コーディアリー",
+      "score": -0.48511818603713985,
+      "horse_number": 8,
+      "odds": 22.6,
+      "win_prob": 0.0434
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105650",
+      "horse_name": "モントゥリエ",
+      "score": -0.6853398135285987,
+      "horse_number": 4,
+      "odds": 5.9,
+      "win_prob": 0.0355
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022100106",
+      "horse_name": "ペプロス",
+      "score": -0.9455396359756604,
+      "horse_number": 1,
+      "odds": 76.4,
+      "win_prob": 0.0274
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101498",
+      "horse_name": "クモヒトツナイ",
+      "score": -0.947910498334846,
+      "horse_number": 3,
+      "odds": 49.4,
+      "win_prob": 0.0273
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103552",
+      "horse_name": "ビルバンテ",
+      "score": -1.519194736274898,
+      "horse_number": 2,
+      "odds": 66.0,
+      "win_prob": 0.0154
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101801",
+      "horse_name": "ケイツールピア",
+      "score": -2.2162899387118844,
+      "horse_number": 7,
+      "odds": 71.8,
+      "win_prob": 0.0077
+    }
+  ]
+}
