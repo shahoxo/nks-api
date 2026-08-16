@@ -1,0 +1,144 @@
+{
+  "race_id": "202604020807",
+  "race_name": "NST賞",
+  "race_time": "2026-08-16 15:25",
+  "race_time_unix": 1786861500,
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020106557",
+      "horse_name": "コンクイスタ",
+      "score": 1.7529153044018593,
+      "horse_number": 5,
+      "odds": 4.2,
+      "win_prob": 0.2703
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022110142",
+      "horse_name": "ファムエレガンテ",
+      "score": 1.112663711744081,
+      "horse_number": 2,
+      "odds": 7.3,
+      "win_prob": 0.1425
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100768",
+      "horse_name": "ジョーローリット",
+      "score": 0.9671451571192909,
+      "horse_number": 10,
+      "odds": 13.1,
+      "win_prob": 0.1232
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021106601",
+      "horse_name": "ヤマニンアルリフラ",
+      "score": 0.7807603376454513,
+      "horse_number": 9,
+      "odds": 4.7,
+      "win_prob": 0.1023
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020102843",
+      "horse_name": "アッチャゴーラ",
+      "score": 0.3756998558829947,
+      "horse_number": 7,
+      "odds": 12.5,
+      "win_prob": 0.0682
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021110069",
+      "horse_name": "エスカル",
+      "score": 0.13153543135631646,
+      "horse_number": 12,
+      "odds": 15.7,
+      "win_prob": 0.0534
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021104830",
+      "horse_name": "グロリアラウス",
+      "score": -0.03059155153619245,
+      "horse_number": 15,
+      "odds": 13.5,
+      "win_prob": 0.0454
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103277",
+      "horse_name": "ダノンタッチダウン",
+      "score": -0.1389113396218238,
+      "horse_number": 13,
+      "odds": 31.6,
+      "win_prob": 0.0408
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103812",
+      "horse_name": "ワイワイレジェンド",
+      "score": -0.4164201552830452,
+      "horse_number": 11,
+      "odds": 11.7,
+      "win_prob": 0.0309
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100161",
+      "horse_name": "ロードフロンティア",
+      "score": -0.4352375535909031,
+      "horse_number": 6,
+      "odds": 15.4,
+      "win_prob": 0.0303
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021110056",
+      "horse_name": "エコロガイア",
+      "score": -0.46306412860746066,
+      "horse_number": 1,
+      "odds": 28.8,
+      "win_prob": 0.0295
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104972",
+      "horse_name": "スリーピース",
+      "score": -0.7456308230255352,
+      "horse_number": 3,
+      "odds": 22.1,
+      "win_prob": 0.0222
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020110106",
+      "horse_name": "アドバンスファラオ",
+      "score": -1.1464901672365584,
+      "horse_number": 8,
+      "odds": 28.9,
+      "win_prob": 0.0149
+    },
+    {
+      "rank": 14,
+      "horse_id": "2019104385",
+      "horse_name": "カンパニョーラ",
+      "score": -1.2001878408238063,
+      "horse_number": 14,
+      "odds": 16.4,
+      "win_prob": 0.0141
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100895",
+      "horse_name": "サフランヒーロー",
+      "score": -1.363628498039442,
+      "horse_number": 4,
+      "odds": 52.0,
+      "win_prob": 0.012
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "race_id": "202607020807",
+  "race_name": "中京記念",
+  "race_time": "2026-08-16 15:35",
+  "race_time_unix": 1786862100,
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101420",
+      "horse_name": "サトノシャイニング",
+      "score": 2.070306900202654,
+      "horse_number": 12,
+      "odds": 3.5,
+      "win_prob": 0.1624
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104839",
+      "horse_name": "カネラフィーナ",
+      "score": 1.7062247572967888,
+      "horse_number": 7,
+      "odds": 19.0,
+      "win_prob": 0.1129
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105230",
+      "horse_name": "ミニトランザット",
+      "score": 1.6942361643965957,
+      "horse_number": 5,
+      "odds": 8.4,
+      "win_prob": 0.1115
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105119",
+      "horse_name": "キープカルム",
+      "score": 1.679459304353142,
+      "horse_number": 6,
+      "odds": 16.0,
+      "win_prob": 0.1099
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106227",
+      "horse_name": "ナムラコスモス",
+      "score": 1.3731201344438193,
+      "horse_number": 10,
+      "odds": 7.6,
+      "win_prob": 0.0809
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021107098",
+      "horse_name": "ラヴァンダ",
+      "score": 1.184491074196077,
+      "horse_number": 3,
+      "odds": 6.3,
+      "win_prob": 0.067
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105312",
+      "horse_name": "リリージョワ",
+      "score": 1.127959136048066,
+      "horse_number": 9,
+      "odds": 6.4,
+      "win_prob": 0.0633
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103146",
+      "horse_name": "カンシン",
+      "score": 0.9805463406350851,
+      "horse_number": 16,
+      "odds": 76.1,
+      "win_prob": 0.0546
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105564",
+      "horse_name": "カズミクラーシュ",
+      "score": 0.9222503337049097,
+      "horse_number": 4,
+      "odds": 17.2,
+      "win_prob": 0.0515
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106582",
+      "horse_name": "ファントムシーフ",
+      "score": 0.7337649283485387,
+      "horse_number": 2,
+      "odds": 42.2,
+      "win_prob": 0.0427
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105778",
+      "horse_name": "チェルビアット",
+      "score": 0.7314397800112615,
+      "horse_number": 11,
+      "odds": 14.5,
+      "win_prob": 0.0426
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104854",
+      "horse_name": "ミナデオロ",
+      "score": 0.44325710688123304,
+      "horse_number": 14,
+      "odds": 36.5,
+      "win_prob": 0.0319
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105454",
+      "horse_name": "ブエナオンダ",
+      "score": 0.35143258452766135,
+      "horse_number": 1,
+      "odds": 34.9,
+      "win_prob": 0.0291
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020103428",
+      "horse_name": "スイープアワーズ",
+      "score": 0.18881151712612454,
+      "horse_number": 8,
+      "odds": 19.5,
+      "win_prob": 0.0247
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019105239",
+      "horse_name": "ショウナンアデイブ",
+      "score": -0.4658256421166717,
+      "horse_number": 15,
+      "odds": 79.9,
+      "win_prob": 0.0129
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022103793",
+      "horse_name": "ケイズレーヴ",
+      "score": -2.243792498505118,
+      "horse_number": 13,
+      "odds": 169.9,
+      "win_prob": 0.0022
+    }
+  ]
+}

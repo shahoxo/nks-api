@@ -9,109 +9,109 @@
       "rank": 1,
       "horse_id": "2023105591",
       "horse_name": "マメタンク",
-      "score": 1.6931698123118233,
+      "score": 1.6206418057305383,
       "horse_number": 6,
       "odds": 3.2,
-      "win_prob": 0.3211
+      "win_prob": 0.3132
     },
     {
       "rank": 2,
       "horse_id": "2022102427",
       "horse_name": "パールフロント",
-      "score": 0.8895690100086594,
+      "score": 0.9414606871310995,
       "horse_number": 10,
       "odds": 3.8,
-      "win_prob": 0.1438
+      "win_prob": 0.1588
     },
     {
       "rank": 3,
       "horse_id": "2022100729",
       "horse_name": "ビーマックス",
-      "score": 0.5806609403236356,
+      "score": 0.6301419470811123,
       "horse_number": 2,
       "odds": 11.7,
-      "win_prob": 0.1056
+      "win_prob": 0.1163
     },
     {
       "rank": 4,
       "horse_id": "2022106261",
       "horse_name": "タッカージーティー",
-      "score": 0.534351284214546,
+      "score": 0.5269400482348421,
       "horse_number": 7,
       "odds": 4.4,
-      "win_prob": 0.1008
+      "win_prob": 0.1049
     },
     {
       "rank": 5,
-      "horse_id": "2023103929",
-      "horse_name": "ウーマンズパワー",
-      "score": 0.5146016346145299,
-      "horse_number": 9,
-      "odds": 7.7,
-      "win_prob": 0.0988
+      "horse_id": "2022106513",
+      "horse_name": "キーガッツ",
+      "score": 0.37950847389114095,
+      "horse_number": 12,
+      "odds": 19.4,
+      "win_prob": 0.0905
     },
     {
       "rank": 6,
-      "horse_id": "2022106513",
-      "horse_name": "キーガッツ",
-      "score": 0.43938738309172526,
-      "horse_number": 12,
-      "odds": 19.4,
-      "win_prob": 0.0917
+      "horse_id": "2023103929",
+      "horse_name": "ウーマンズパワー",
+      "score": 0.3753465948971995,
+      "horse_number": 9,
+      "odds": 7.7,
+      "win_prob": 0.0902
     },
     {
       "rank": 7,
       "horse_id": "2023107534",
       "horse_name": "カッタッパ",
-      "score": -0.27826241709715516,
+      "score": -0.38075064555490773,
       "horse_number": 1,
       "odds": 27.8,
-      "win_prob": 0.0447
+      "win_prob": 0.0423
     },
     {
       "rank": 8,
       "horse_id": "2022103857",
       "horse_name": "クインズシフォン",
-      "score": -0.4094130384295818,
+      "score": -0.6560793754913821,
       "horse_number": 8,
       "odds": 16.9,
-      "win_prob": 0.0392
+      "win_prob": 0.0321
     },
     {
       "rank": 9,
       "horse_id": "2022100091",
       "horse_name": "キャリーグレイス",
-      "score": -0.5856733075251055,
+      "score": -0.7388610643128242,
       "horse_number": 3,
       "odds": 17.1,
-      "win_prob": 0.0329
+      "win_prob": 0.0296
     },
     {
       "rank": 10,
       "horse_id": "2022104479",
       "horse_name": "フェデルミエール",
-      "score": -1.851019164191328,
+      "score": -1.8077447491015561,
       "horse_number": 11,
       "odds": 59.9,
-      "win_prob": 0.0093
+      "win_prob": 0.0102
     },
     {
       "rank": 11,
       "horse_id": "2021104145",
       "horse_name": "オセアエクスプレス",
-      "score": -1.8554389651124479,
+      "score": -1.8886559530231033,
       "horse_number": 4,
       "odds": 52.9,
-      "win_prob": 0.0092
+      "win_prob": 0.0094
     },
     {
       "rank": 12,
       "horse_id": "2023105661",
       "horse_name": "ストロングボンド",
-      "score": -3.006050497435769,
+      "score": -3.276757055340761,
       "horse_number": 5,
       "odds": 100.6,
-      "win_prob": 0.0029
+      "win_prob": 0.0023
     }
   ]
 }

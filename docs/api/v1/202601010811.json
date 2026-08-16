@@ -1,0 +1,153 @@
+{
+  "race_id": "202601010811",
+  "race_name": "札幌記念",
+  "race_time": "2026-08-16 15:45",
+  "race_time_unix": 1786862700,
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021105369",
+      "horse_name": "アドマイヤテラ",
+      "score": 2.111608352415391,
+      "horse_number": 10,
+      "odds": 4.7,
+      "win_prob": 0.2234
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104094",
+      "horse_name": "サクラファレル",
+      "score": 1.7071033890927445,
+      "horse_number": 8,
+      "odds": 9.5,
+      "win_prob": 0.1491
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104714",
+      "horse_name": "ショウヘイ",
+      "score": 1.417055090599642,
+      "horse_number": 7,
+      "odds": 3.9,
+      "win_prob": 0.1115
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104772",
+      "horse_name": "マジックサンズ",
+      "score": 1.0471437595232185,
+      "horse_number": 4,
+      "odds": 7.6,
+      "win_prob": 0.077
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101436",
+      "horse_name": "エコロヴァルツ",
+      "score": 0.8261113376187978,
+      "horse_number": 5,
+      "odds": 16.3,
+      "win_prob": 0.0618
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105302",
+      "horse_name": "グランディア",
+      "score": 0.8018675058102449,
+      "horse_number": 13,
+      "odds": 10.3,
+      "win_prob": 0.0603
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105552",
+      "horse_name": "ローシャムパーク",
+      "score": 0.654798550881821,
+      "horse_number": 6,
+      "odds": 17.5,
+      "win_prob": 0.052
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103941",
+      "horse_name": "ホウオウビスケッツ",
+      "score": 0.5247108704314551,
+      "horse_number": 16,
+      "odds": 14.7,
+      "win_prob": 0.0457
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020105749",
+      "horse_name": "マイネルモーント",
+      "score": 0.44565186381358945,
+      "horse_number": 9,
+      "odds": 63.2,
+      "win_prob": 0.0422
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022100699",
+      "horse_name": "イガッチ",
+      "score": 0.3676924311390965,
+      "horse_number": 2,
+      "odds": 56.6,
+      "win_prob": 0.0391
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106306",
+      "horse_name": "ゼンダンハヤブサ",
+      "score": 0.2741521527410847,
+      "horse_number": 12,
+      "odds": 52.7,
+      "win_prob": 0.0356
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103101",
+      "horse_name": "シェイクユアハート",
+      "score": 0.2432428668029324,
+      "horse_number": 15,
+      "odds": 6.8,
+      "win_prob": 0.0345
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104416",
+      "horse_name": "レディネス",
+      "score": 0.1340438145428822,
+      "horse_number": 14,
+      "odds": 31.8,
+      "win_prob": 0.0309
+    },
+    {
+      "rank": 14,
+      "horse_id": "2017104756",
+      "horse_name": "アラタ",
+      "score": -0.4487426521509836,
+      "horse_number": 11,
+      "odds": 100.6,
+      "win_prob": 0.0173
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019104756",
+      "horse_name": "オニャンコポン",
+      "score": -0.9036292318503326,
+      "horse_number": 1,
+      "odds": 47.6,
+      "win_prob": 0.011
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020106966",
+      "horse_name": "ピンクジン",
+      "score": -1.1353110838810305,
+      "horse_number": 3,
+      "odds": 161.1,
+      "win_prob": 0.0087
+    }
+  ]
+}
