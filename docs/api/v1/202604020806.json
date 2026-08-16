@@ -9,79 +9,79 @@
       "rank": 1,
       "horse_id": "2022100627",
       "horse_name": "カウスリップ",
-      "score": 1.1172026581048624,
+      "score": 1.207365702801642,
       "horse_number": 8,
       "odds": 2.1,
-      "win_prob": 0.2763
+      "win_prob": 0.3181
     },
     {
       "rank": 2,
       "horse_id": "2022102514",
       "horse_name": "ベイビーキッス",
-      "score": 0.48513628715006074,
+      "score": 0.2475569115584739,
       "horse_number": 6,
       "odds": 7.9,
-      "win_prob": 0.1469
+      "win_prob": 0.1218
     },
     {
       "rank": 3,
       "horse_id": "2022110108",
       "horse_name": "エコロジーク",
-      "score": 0.23983936614316825,
+      "score": 0.12621366081787191,
       "horse_number": 5,
       "odds": 6.4,
-      "win_prob": 0.1149
+      "win_prob": 0.1079
     },
     {
       "rank": 4,
       "horse_id": "2021103155",
       "horse_name": "メイショウキルギス",
-      "score": 0.16746168979475698,
+      "score": 0.11050472612498469,
       "horse_number": 9,
       "odds": 21.1,
-      "win_prob": 0.1069
+      "win_prob": 0.1062
     },
     {
       "rank": 5,
       "horse_id": "2018100442",
       "horse_name": "モーデン",
-      "score": -0.1540489547888019,
+      "score": -0.2053067431817345,
       "horse_number": 11,
       "odds": 8.3,
-      "win_prob": 0.0775
+      "win_prob": 0.0774
     },
     {
       "rank": 6,
-      "horse_id": "2021100356",
-      "horse_name": "クールベイビー",
-      "score": -0.19543578135519357,
-      "horse_number": 10,
-      "odds": 9.9,
-      "win_prob": 0.0744
+      "horse_id": "2020103284",
+      "horse_name": "トールキン",
+      "score": -0.22361879932053838,
+      "horse_number": 13,
+      "odds": 13.3,
+      "win_prob": 0.076
     },
     {
       "rank": 7,
-      "horse_id": "2020103284",
-      "horse_name": "トールキン",
-      "score": -0.24282424413414408,
-      "horse_number": 13,
-      "odds": 13.3,
-      "win_prob": 0.0709
+      "horse_id": "2021100356",
+      "horse_name": "クールベイビー",
+      "score": -0.26054567697597897,
+      "horse_number": 10,
+      "odds": 9.9,
+      "win_prob": 0.0733
     },
     {
       "rank": 8,
       "horse_id": "2022100648",
       "horse_name": "クーデール",
-      "score": -0.7945976635329741,
+      "score": -1.0697363832119473,
       "horse_number": 7,
       "odds": 35.8,
-      "win_prob": 0.0408
+      "win_prob": 0.0326
     },
     {
       "rank": 9,
       "horse_id": "2021105334",
       "horse_name": "トーアアイギス",
-      "score": -1.0512793238200335,
+      "score": -1.1025371122129664,
       "horse_number": 1,
       "odds": 75.0,
       "win_prob": 0.0316
@@ -90,37 +90,37 @@
       "rank": 10,
       "horse_id": "2021100792",
       "horse_name": "スコーピオン",
-      "score": -1.3682946283621908,
+      "score": -1.4548561266745632,
       "horse_number": 3,
       "odds": 30.4,
-      "win_prob": 0.023
+      "win_prob": 0.0222
     },
     {
       "rank": 11,
       "horse_id": "2018103926",
       "horse_name": "ショウナンラスボス",
-      "score": -1.6266674218030435,
+      "score": -1.745604667827127,
       "horse_number": 4,
       "odds": 30.9,
-      "win_prob": 0.0178
+      "win_prob": 0.0166
     },
     {
       "rank": 12,
       "horse_id": "2021104365",
       "horse_name": "リュウノタブーク",
-      "score": -1.9505909968151725,
+      "score": -2.127227546361078,
       "horse_number": 2,
       "odds": 110.5,
-      "win_prob": 0.0129
+      "win_prob": 0.0113
     },
     {
       "rank": 13,
       "horse_id": "2022105537",
       "horse_name": "ポッドソル",
-      "score": -2.6827834628198737,
+      "score": -2.958258304871147,
       "horse_number": 12,
       "odds": 23.3,
-      "win_prob": 0.0062
+      "win_prob": 0.0049
     }
   ]
 }
