@@ -9,46 +9,46 @@
       "rank": 1,
       "horse_id": "2023106243",
       "horse_name": "ナムラヴンダー",
-      "score": 0.24948818138583193,
+      "score": 0.0012425704448155075,
       "horse_number": 6,
-      "odds": 7.5,
-      "win_prob": 0.1829
+      "odds": 3.1,
+      "win_prob": 0.1616
     },
     {
       "rank": 2,
       "horse_id": "2023103398",
       "horse_name": "ダノンオブアイデア",
-      "score": -0.21475759128403002,
+      "score": -0.18377951591698635,
       "horse_number": 14,
-      "odds": 16.6,
-      "win_prob": 0.1149
+      "odds": 10.3,
+      "win_prob": 0.1343
     },
     {
       "rank": 3,
       "horse_id": "2023106218",
       "horse_name": "ブルーザー",
-      "score": -0.2576186608363477,
+      "score": -0.2728159208957383,
       "horse_number": 11,
-      "odds": 16.9,
-      "win_prob": 0.1101
+      "odds": 15.2,
+      "win_prob": 0.1229
     },
     {
       "rank": 4,
       "horse_id": "2023106007",
       "horse_name": "スマートエラン",
-      "score": -0.3483898412700554,
+      "score": -0.4943906988431537,
       "horse_number": 16,
-      "odds": 17.8,
-      "win_prob": 0.1006
+      "odds": 8.7,
+      "win_prob": 0.0984
     },
     {
       "rank": 5,
       "horse_id": "2023103411",
       "horse_name": "スクランプシャス",
-      "score": -0.595663224157841,
+      "score": -0.777674778443975,
       "horse_number": 12,
-      "odds": 23.3,
-      "win_prob": 0.0785
+      "odds": 30.6,
+      "win_prob": 0.0742
     },
     {
       "rank": 6,
@@ -56,116 +56,116 @@
       "horse_name": "ロイドウェバー",
       "score": -0.8157212459535502,
       "horse_number": 3,
-      "odds": 1.7,
-      "win_prob": 0.063
+      "odds": 2.6,
+      "win_prob": 0.0714
     },
     {
       "rank": 7,
-      "horse_id": "2023103708",
-      "horse_name": "ノチェブエナ",
-      "score": -0.9559710923193354,
-      "horse_number": 17,
-      "odds": 13.5,
-      "win_prob": 0.0548
+      "horse_id": "2023102593",
+      "horse_name": "ジャスティンレビン",
+      "score": -0.9150599347678222,
+      "horse_number": 4,
+      "odds": 43.9,
+      "win_prob": 0.0646
     },
     {
       "rank": 8,
-      "horse_id": "2023102593",
-      "horse_name": "ジャスティンレビン",
-      "score": -0.9797162502735827,
-      "horse_number": 4,
-      "odds": 36.7,
-      "win_prob": 0.0535
+      "horse_id": "2023103708",
+      "horse_name": "ノチェブエナ",
+      "score": -1.284478921593284,
+      "horse_number": 17,
+      "odds": 14.2,
+      "win_prob": 0.0447
     },
     {
       "rank": 9,
       "horse_id": "2023105573",
       "horse_name": "オープンザパンドラ",
-      "score": -1.016418352595344,
+      "score": -1.3562493631013208,
       "horse_number": 9,
-      "odds": 28.9,
-      "win_prob": 0.0516
+      "odds": 31.6,
+      "win_prob": 0.0416
     },
     {
       "rank": 10,
       "horse_id": "2023101308",
       "horse_name": "グリミスティ",
-      "score": -1.0651302899443,
+      "score": -1.3769333771652856,
       "horse_number": 7,
-      "odds": 38.9,
-      "win_prob": 0.0491
+      "odds": 52.4,
+      "win_prob": 0.0407
     },
     {
       "rank": 11,
       "horse_id": "2023102630",
       "horse_name": "グランシャン",
-      "score": -1.4377669121899446,
+      "score": -1.4319991127180496,
       "horse_number": 8,
-      "odds": 15.4,
-      "win_prob": 0.0338
+      "odds": 27.5,
+      "win_prob": 0.0385
     },
     {
       "rank": 12,
-      "horse_id": "2023102073",
-      "horse_name": "レーヴドリュヌ",
-      "score": -1.8112569995638643,
-      "horse_number": 18,
-      "odds": 43.7,
-      "win_prob": 0.0233
+      "horse_id": "2023102168",
+      "horse_name": "2023102168",
+      "score": -1.8987937764300757,
+      "horse_number": 5,
+      "odds": 102.2,
+      "win_prob": 0.0242
     },
     {
       "rank": 13,
-      "horse_id": "2023101197",
-      "horse_name": "ゴールドアベニュー",
-      "score": -1.8355191615928712,
-      "horse_number": 2,
-      "odds": 72.4,
-      "win_prob": 0.0227
+      "horse_id": "2023105256",
+      "horse_name": "タイセイグローバル",
+      "score": -2.1398172972273555,
+      "horse_number": 13,
+      "odds": 51.4,
+      "win_prob": 0.019
     },
     {
       "rank": 14,
-      "horse_id": "2023102168",
-      "horse_name": "2023102168",
-      "score": -1.9104104147778675,
-      "horse_number": 5,
-      "odds": 68.9,
-      "win_prob": 0.0211
+      "horse_id": "2023101197",
+      "horse_name": "ゴールドアベニュー",
+      "score": -2.199734320912009,
+      "horse_number": 2,
+      "odds": 117.6,
+      "win_prob": 0.0179
     },
     {
       "rank": 15,
-      "horse_id": "2023105256",
-      "horse_name": "タイセイグローバル",
-      "score": -2.1887192415621985,
-      "horse_number": 13,
-      "odds": 55.0,
-      "win_prob": 0.016
+      "horse_id": "2023102073",
+      "horse_name": "レーヴドリュヌ",
+      "score": -2.2257513087672223,
+      "horse_number": 18,
+      "odds": 105.5,
+      "win_prob": 0.0174
     },
     {
       "rank": 16,
       "horse_id": "2023105232",
       "horse_name": "ヴァンドゥーヴル",
-      "score": -2.567217132229589,
+      "score": -2.6359844185502683,
       "horse_number": 10,
-      "odds": 46.2,
-      "win_prob": 0.0109
+      "odds": 93.8,
+      "win_prob": 0.0116
     },
     {
       "rank": 17,
       "horse_id": "2023101363",
       "horse_name": "デルマトカチ",
-      "score": -2.825708916839371,
+      "score": -2.7828428284197138,
       "horse_number": 1,
-      "odds": 120.0,
-      "win_prob": 0.0084
+      "odds": 186.5,
+      "win_prob": 0.01
     },
     {
       "rank": 18,
       "horse_id": "2023100141",
       "horse_name": "ヨシノサンキュー",
-      "score": -3.409359416301991,
+      "score": -3.126603056279174,
       "horse_number": 15,
-      "odds": 144.7,
-      "win_prob": 0.0047
+      "odds": 223.4,
+      "win_prob": 0.0071
     }
   ]
 }

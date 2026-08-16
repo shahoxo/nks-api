@@ -1,0 +1,144 @@
+{
+  "race_id": "202604020810",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-16 17:15",
+  "race_time_unix": 1786868100,
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105268",
+      "horse_name": "ラショナルポイント",
+      "score": -0.18816205998295588,
+      "horse_number": 10,
+      "odds": 4.1,
+      "win_prob": 0.1791
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101367",
+      "horse_name": "デルマザオウ",
+      "score": -0.40732075089913566,
+      "horse_number": 13,
+      "odds": 5.9,
+      "win_prob": 0.1438
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103404",
+      "horse_name": "カーボフリオ",
+      "score": -0.5149040379130914,
+      "horse_number": 15,
+      "odds": 11.5,
+      "win_prob": 0.1292
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104394",
+      "horse_name": "バーヴァンシー",
+      "score": -0.6433280391986427,
+      "horse_number": 9,
+      "odds": 10.3,
+      "win_prob": 0.1136
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103530",
+      "horse_name": "ワイルドミュール",
+      "score": -0.9752009658986811,
+      "horse_number": 4,
+      "odds": 23.7,
+      "win_prob": 0.0815
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102680",
+      "horse_name": "イサチルクイーン",
+      "score": -0.9925994381107538,
+      "horse_number": 1,
+      "odds": 7.8,
+      "win_prob": 0.0801
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105655",
+      "horse_name": "ソフィアプルーマ",
+      "score": -1.4521376607079555,
+      "horse_number": 7,
+      "odds": 15.9,
+      "win_prob": 0.0506
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106609",
+      "horse_name": "ユーゲットミー",
+      "score": -1.4610672326145973,
+      "horse_number": 2,
+      "odds": 26.4,
+      "win_prob": 0.0501
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103588",
+      "horse_name": "バイアブランカ",
+      "score": -1.5125607150996454,
+      "horse_number": 8,
+      "odds": 32.7,
+      "win_prob": 0.0476
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106183",
+      "horse_name": "シェリーシュシュ",
+      "score": -1.7827553618962488,
+      "horse_number": 3,
+      "odds": 7.2,
+      "win_prob": 0.0363
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103052",
+      "horse_name": "ベアエクスプレス",
+      "score": -1.8265978268716805,
+      "horse_number": 12,
+      "odds": 20.3,
+      "win_prob": 0.0348
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106393",
+      "horse_name": "2023106393",
+      "score": -1.9717695096743877,
+      "horse_number": 11,
+      "odds": 20.1,
+      "win_prob": 0.0301
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102618",
+      "horse_name": "カグヤヒメ",
+      "score": -3.1706629373796895,
+      "horse_number": 14,
+      "odds": 23.6,
+      "win_prob": 0.0091
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102796",
+      "horse_name": "ディレクティオ",
+      "score": -3.281297224864134,
+      "horse_number": 5,
+      "odds": 15.9,
+      "win_prob": 0.0081
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023100513",
+      "horse_name": "ノアレジェンド",
+      "score": -3.592106357095427,
+      "horse_number": 6,
+      "odds": 55.4,
+      "win_prob": 0.006
+    }
+  ]
+}
