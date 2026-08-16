@@ -1,0 +1,135 @@
+{
+  "race_id": "202601010812",
+  "race_name": "阿寒湖特別",
+  "race_time": "2026-08-16 16:30",
+  "race_time_unix": 1786865400,
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107005",
+      "horse_name": "ダノンヒストリー",
+      "score": 1.7228566493795974,
+      "horse_number": 2,
+      "odds": 1.1,
+      "win_prob": 0.2956
+    },
+    {
+      "rank": 2,
+      "horse_id": "2020103208",
+      "horse_name": "ジュンツバメガエシ",
+      "score": 0.9774275343177163,
+      "horse_number": 12,
+      "odds": 15.0,
+      "win_prob": 0.1403
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105839",
+      "horse_name": "アスクデッドヒート",
+      "score": 0.6640835857656167,
+      "horse_number": 6,
+      "odds": 29.1,
+      "win_prob": 0.1025
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105002",
+      "horse_name": "サラトガチップス",
+      "score": 0.3943694420875941,
+      "horse_number": 9,
+      "odds": 27.0,
+      "win_prob": 0.0783
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106828",
+      "horse_name": "マイネルゼウス",
+      "score": 0.36266792672448134,
+      "horse_number": 4,
+      "odds": 36.2,
+      "win_prob": 0.0759
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105784",
+      "horse_name": "リアルファインド",
+      "score": 0.27787064640702136,
+      "horse_number": 14,
+      "odds": 34.7,
+      "win_prob": 0.0697
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103406",
+      "horse_name": "ラーシャローム",
+      "score": 0.1890611612693194,
+      "horse_number": 13,
+      "odds": 25.6,
+      "win_prob": 0.0638
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105597",
+      "horse_name": "ゲンジ",
+      "score": -0.1102549489288107,
+      "horse_number": 3,
+      "odds": 25.0,
+      "win_prob": 0.0473
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105285",
+      "horse_name": "ライフセービング",
+      "score": -0.45780418578652776,
+      "horse_number": 11,
+      "odds": 55.4,
+      "win_prob": 0.0334
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104856",
+      "horse_name": "ブリヤディアマンテ",
+      "score": -0.7655437519949344,
+      "horse_number": 7,
+      "odds": 117.4,
+      "win_prob": 0.0245
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105475",
+      "horse_name": "レイデラルース",
+      "score": -0.7986635680506342,
+      "horse_number": 8,
+      "odds": 52.5,
+      "win_prob": 0.0237
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021110130",
+      "horse_name": "ドッビアーコ",
+      "score": -1.0292258017384621,
+      "horse_number": 10,
+      "odds": 115.8,
+      "win_prob": 0.0189
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103070",
+      "horse_name": "レイデラティエラ",
+      "score": -1.0354042892419324,
+      "horse_number": 1,
+      "odds": 29.5,
+      "win_prob": 0.0187
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104553",
+      "horse_name": "パープルクラウド",
+      "score": -1.9653933841076463,
+      "horse_number": 5,
+      "odds": 148.9,
+      "win_prob": 0.0074
+    }
+  ]
+}
