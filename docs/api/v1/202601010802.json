@@ -1,0 +1,81 @@
+{
+  "race_id": "202601010802",
+  "race_name": "2歳未勝利",
+  "race_time": "2026-08-16 10:30",
+  "race_time_unix": 1786843800,
+  "race_place": "札幌",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024105166",
+      "horse_name": "タイフーンナイン",
+      "score": 0.7462595749758232,
+      "horse_number": 3,
+      "odds": 2.0,
+      "win_prob": 0.5869
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024100569",
+      "horse_name": "キチロクタワー",
+      "score": -0.3526959586040197,
+      "horse_number": 6,
+      "odds": 3.8,
+      "win_prob": 0.1956
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024102714",
+      "horse_name": "リアルジャパン",
+      "score": -1.0610688318800285,
+      "horse_number": 5,
+      "odds": 5.6,
+      "win_prob": 0.0963
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024104218",
+      "horse_name": "リアルクウカイ",
+      "score": -1.8235247181956102,
+      "horse_number": 1,
+      "odds": 34.3,
+      "win_prob": 0.0449
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024106810",
+      "horse_name": "テイクケア",
+      "score": -2.2041619017589347,
+      "horse_number": 4,
+      "odds": 18.2,
+      "win_prob": 0.0307
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024104503",
+      "horse_name": "ゴートゥービッツン",
+      "score": -2.464537999516426,
+      "horse_number": 2,
+      "odds": 35.4,
+      "win_prob": 0.0237
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024105532",
+      "horse_name": "モミスケ",
+      "score": -3.130881656129337,
+      "horse_number": 8,
+      "odds": 6.5,
+      "win_prob": 0.0122
+    },
+    {
+      "rank": 8,
+      "horse_id": "2024103914",
+      "horse_name": "スクレイプバイ",
+      "score": -3.3490717270104624,
+      "horse_number": 7,
+      "odds": 19.5,
+      "win_prob": 0.0098
+    }
+  ]
+}

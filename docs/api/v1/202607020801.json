@@ -1,0 +1,99 @@
+{
+  "race_id": "202607020801",
+  "race_name": "2歳未勝利",
+  "race_time": "2026-08-16 09:50",
+  "race_time_unix": 1786841400,
+  "race_place": "中京",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024105630",
+      "horse_name": "アームズラムレイ",
+      "score": 0.5518037539457925,
+      "horse_number": 9,
+      "odds": 4.8,
+      "win_prob": 0.3461
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024108273",
+      "horse_name": "バクソウシャチョウ",
+      "score": -0.36789385880677766,
+      "horse_number": 5,
+      "odds": 3.6,
+      "win_prob": 0.138
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024104520",
+      "horse_name": "スマートメモリー",
+      "score": -0.42515408917947556,
+      "horse_number": 1,
+      "odds": 9.5,
+      "win_prob": 0.1303
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024104986",
+      "horse_name": "ラホーヤアイズ",
+      "score": -0.47522164060199984,
+      "horse_number": 6,
+      "odds": 7.6,
+      "win_prob": 0.1239
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024106383",
+      "horse_name": "インディジャズ",
+      "score": -0.7598942632274046,
+      "horse_number": 2,
+      "odds": 6.5,
+      "win_prob": 0.0932
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024101744",
+      "horse_name": "カツダルマ",
+      "score": -0.9364222315610117,
+      "horse_number": 8,
+      "odds": 4.3,
+      "win_prob": 0.0782
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024103699",
+      "horse_name": "ナムラメアリー",
+      "score": -1.4342973755405444,
+      "horse_number": 4,
+      "odds": 11.7,
+      "win_prob": 0.0475
+    },
+    {
+      "rank": 8,
+      "horse_id": "2024105760",
+      "horse_name": "メイケイリチャード",
+      "score": -1.9072148300578626,
+      "horse_number": 7,
+      "odds": 21.5,
+      "win_prob": 0.0296
+    },
+    {
+      "rank": 9,
+      "horse_id": "2024101724",
+      "horse_name": "キシュウマミー",
+      "score": -3.017274005772157,
+      "horse_number": 10,
+      "odds": 72.2,
+      "win_prob": 0.0098
+    },
+    {
+      "rank": 10,
+      "horse_id": "2024104826",
+      "horse_name": "ヤマトデュノール",
+      "score": -4.082458793636188,
+      "horse_number": 3,
+      "odds": 167.7,
+      "win_prob": 0.0034
+    }
+  ]
+}

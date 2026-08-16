@@ -1,0 +1,126 @@
+{
+  "race_id": "202604020801",
+  "race_name": "2歳未勝利",
+  "race_time": "2026-08-16 09:40",
+  "race_time_unix": 1786840800,
+  "race_place": "新潟",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024107186",
+      "horse_name": "インサイドエッジ",
+      "score": 1.2424288210525505,
+      "horse_number": 8,
+      "odds": 1.3,
+      "win_prob": 0.4761
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024100076",
+      "horse_name": "シュネーバレン",
+      "score": -0.06432574051940415,
+      "horse_number": 9,
+      "odds": 15.1,
+      "win_prob": 0.1289
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024107260",
+      "horse_name": "サトノスプレマシー",
+      "score": -0.15464950123851,
+      "horse_number": 1,
+      "odds": 4.8,
+      "win_prob": 0.1178
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024107146",
+      "horse_name": "スターリーデー",
+      "score": -0.41477327675821135,
+      "horse_number": 10,
+      "odds": 18.0,
+      "win_prob": 0.0908
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024100295",
+      "horse_name": "クラオルグジェシダ",
+      "score": -0.8008288544732295,
+      "horse_number": 7,
+      "odds": 27.7,
+      "win_prob": 0.0617
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024105671",
+      "horse_name": "アテナブレイブ",
+      "score": -1.0042873913719204,
+      "horse_number": 4,
+      "odds": 21.3,
+      "win_prob": 0.0503
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024106664",
+      "horse_name": "ユタライト",
+      "score": -1.152157873555503,
+      "horse_number": 2,
+      "odds": 13.7,
+      "win_prob": 0.0434
+    },
+    {
+      "rank": 8,
+      "horse_id": "2024100316",
+      "horse_name": "アルアンダルス",
+      "score": -3.053682177061742,
+      "horse_number": 5,
+      "odds": 124.9,
+      "win_prob": 0.0065
+    },
+    {
+      "rank": 9,
+      "horse_id": "2024101755",
+      "horse_name": "トリプティーク",
+      "score": -3.1417402470188156,
+      "horse_number": 13,
+      "odds": 254.0,
+      "win_prob": 0.0059
+    },
+    {
+      "rank": 10,
+      "horse_id": "2024102989",
+      "horse_name": "ビーズスティンガー",
+      "score": -3.2505868667418425,
+      "horse_number": 3,
+      "odds": 297.2,
+      "win_prob": 0.0053
+    },
+    {
+      "rank": 11,
+      "horse_id": "2024101296",
+      "horse_name": "スケルツォテソーロ",
+      "score": -3.2810005301057705,
+      "horse_number": 6,
+      "odds": 87.7,
+      "win_prob": 0.0052
+    },
+    {
+      "rank": 12,
+      "horse_id": "2024104453",
+      "horse_name": "レーゲンシャウアー",
+      "score": -3.334226968731764,
+      "horse_number": 12,
+      "odds": 315.0,
+      "win_prob": 0.0049
+    },
+    {
+      "rank": 13,
+      "horse_id": "2024100813",
+      "horse_name": "フランベリー",
+      "score": -3.778480342252799,
+      "horse_number": 11,
+      "odds": 265.8,
+      "win_prob": 0.0031
+    }
+  ]
+}
