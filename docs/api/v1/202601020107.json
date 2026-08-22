@@ -1,0 +1,134 @@
+{
+  "race_id": "202601020107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-22 13:25",
+  "race_time_unix": 1787372700,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103557",
+      "horse_name": "ラテラルパーム",
+      "score": 0.3779087065579982,
+      "horse_number": 4,
+      "odds": 8.1,
+      "win_prob": 0.1986
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100660",
+      "horse_name": "ロードヴァルカン",
+      "score": 0.012659071236988272,
+      "horse_number": 1,
+      "odds": 5.5,
+      "win_prob": 0.1378
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102748",
+      "horse_name": "ドリームガッサン",
+      "score": -0.004188345069233863,
+      "horse_number": 5,
+      "odds": 5.3,
+      "win_prob": 0.1355
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103746",
+      "horse_name": "メイワキラリ",
+      "score": -0.07463591604822582,
+      "horse_number": 9,
+      "odds": 15.7,
+      "win_prob": 0.1263
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106835",
+      "horse_name": "セガンティーニ",
+      "score": -0.18094630303172926,
+      "horse_number": 12,
+      "odds": 9.7,
+      "win_prob": 0.1136
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104317",
+      "horse_name": "ミサビスケッツ",
+      "score": -0.5013006127639705,
+      "horse_number": 7,
+      "odds": 3.7,
+      "win_prob": 0.0824
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101418",
+      "horse_name": "レストプレドゥモア",
+      "score": -0.5750755985940903,
+      "horse_number": 3,
+      "odds": 14.1,
+      "win_prob": 0.0766
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100241",
+      "horse_name": "セイウンバジリスク",
+      "score": -0.8901349740615748,
+      "horse_number": 8,
+      "odds": 5.1,
+      "win_prob": 0.0559
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102550",
+      "horse_name": "メイショウハッブル",
+      "score": -1.316747204482456,
+      "horse_number": 6,
+      "odds": 29.1,
+      "win_prob": 0.0365
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102492",
+      "horse_name": "グッバイウェーブ",
+      "score": -1.5967146107315207,
+      "horse_number": 10,
+      "odds": 112.3,
+      "win_prob": 0.0276
+    },
+    {
+      "rank": 11,
+      "horse_id": "2017104266",
+      "horse_name": "カップッチョ",
+      "score": -3.2543870321196153,
+      "horse_number": 2,
+      "odds": 75.8,
+      "win_prob": 0.0053
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103018",
+      "horse_name": "シェーンルスカ",
+      "score": -3.564852854506498,
+      "horse_number": 11,
+      "odds": 151.3,
+      "win_prob": 0.0039
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T03:55:52.268272+00:00",
+  "generated_at_unix": 1787370952,
+  "expires_at_unix": 1787374852,
+  "run_id": "32550084744",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260815_133851",
+    "calibration_method": "softmax_temperature_holdout",
+    "model_sha256": "6ccd51006a71fc76"
+  },
+  "data": {
+    "snapshot_id": "449182432e54e8de",
+    "base_snapshot_id": "ff14ae5f9745c814",
+    "snapshot_created_at": "2026-08-22T03:51:34.169235+00:00"
+  }
+}
