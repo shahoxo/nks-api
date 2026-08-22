@@ -1,0 +1,152 @@
+{
+  "race_id": "202601020103",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-22 11:00",
+  "race_time_unix": 1787364000,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101576",
+      "horse_name": "リン",
+      "score": -0.09239350417799194,
+      "horse_number": 14,
+      "odds": 2.5,
+      "win_prob": 0.2096
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101756",
+      "horse_name": "メイショウセンドウ",
+      "score": -0.11063305355328741,
+      "horse_number": 8,
+      "odds": 4.9,
+      "win_prob": 0.2058
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100596",
+      "horse_name": "ジャーナーリア",
+      "score": -0.3134500527002865,
+      "horse_number": 3,
+      "odds": 13.1,
+      "win_prob": 0.168
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100926",
+      "horse_name": "モンロワイヤル",
+      "score": -1.0876357740340423,
+      "horse_number": 9,
+      "odds": 7.4,
+      "win_prob": 0.0775
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106929",
+      "horse_name": "コウソクユノ",
+      "score": -1.2046134870714118,
+      "horse_number": 1,
+      "odds": 36.7,
+      "win_prob": 0.0689
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107361",
+      "horse_name": "ロジマギー",
+      "score": -1.3921249082832312,
+      "horse_number": 5,
+      "odds": 16.3,
+      "win_prob": 0.0571
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103437",
+      "horse_name": "ジュラトリー",
+      "score": -1.4007048160652498,
+      "horse_number": 12,
+      "odds": 17.3,
+      "win_prob": 0.0567
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106657",
+      "horse_name": "イーサンミラー",
+      "score": -1.5804532480322684,
+      "horse_number": 4,
+      "odds": 12.3,
+      "win_prob": 0.0473
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102520",
+      "horse_name": "ハイテイラオユエ",
+      "score": -1.6279704267960886,
+      "horse_number": 11,
+      "odds": 7.3,
+      "win_prob": 0.0451
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106624",
+      "horse_name": "ルージュラベル",
+      "score": -2.293554018914395,
+      "horse_number": 10,
+      "odds": 37.5,
+      "win_prob": 0.0232
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103504",
+      "horse_name": "ハイランダー",
+      "score": -2.6655151257988092,
+      "horse_number": 6,
+      "odds": 40.1,
+      "win_prob": 0.016
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103193",
+      "horse_name": "レーヌペスカ",
+      "score": -2.9629532633233953,
+      "horse_number": 7,
+      "odds": 102.7,
+      "win_prob": 0.0119
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023100985",
+      "horse_name": "パレホ",
+      "score": -3.4111130419641804,
+      "horse_number": 2,
+      "odds": 87.5,
+      "win_prob": 0.0076
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102964",
+      "horse_name": "タイガーゲイト",
+      "score": -3.7874843281325283,
+      "horse_number": 13,
+      "odds": 84.9,
+      "win_prob": 0.0052
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T01:40:44.272133+00:00",
+  "generated_at_unix": 1787362844,
+  "expires_at_unix": 1787366744,
+  "run_id": "32543874301",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260815_133851",
+    "calibration_method": "softmax_temperature_holdout",
+    "model_sha256": "6ccd51006a71fc76"
+  },
+  "data": {
+    "snapshot_id": "a6c2722d5fd333ba",
+    "base_snapshot_id": "ff14ae5f9745c814",
+    "snapshot_created_at": "2026-08-22T01:37:20.852708+00:00"
+  }
+}

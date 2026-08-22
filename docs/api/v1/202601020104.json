@@ -1,0 +1,170 @@
+{
+  "race_id": "202601020104",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-22 11:30",
+  "race_time_unix": 1787365800,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104216",
+      "horse_name": "コワンニシタガウ",
+      "score": 0.44308306122878127,
+      "horse_number": 11,
+      "odds": 8.4,
+      "win_prob": 0.15
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105892",
+      "horse_name": "ブライスフェアリー",
+      "score": 0.37835713407085525,
+      "horse_number": 12,
+      "odds": 12.7,
+      "win_prob": 0.1406
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104486",
+      "horse_name": "ゴコウコイコイ",
+      "score": 0.23741631433087823,
+      "horse_number": 2,
+      "odds": 3.9,
+      "win_prob": 0.1221
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102166",
+      "horse_name": "ケナゲ",
+      "score": 0.08442899117501539,
+      "horse_number": 13,
+      "odds": 16.7,
+      "win_prob": 0.1048
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103380",
+      "horse_name": "ウィスカーパッド",
+      "score": 0.005654098531319977,
+      "horse_number": 1,
+      "odds": 5.4,
+      "win_prob": 0.0968
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105260",
+      "horse_name": "サトノリアファル",
+      "score": -0.03549204162698938,
+      "horse_number": 9,
+      "odds": 5.5,
+      "win_prob": 0.0929
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106411",
+      "horse_name": "マンサニージャ",
+      "score": -0.0881158660515061,
+      "horse_number": 10,
+      "odds": 21.5,
+      "win_prob": 0.0882
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104936",
+      "horse_name": "メイショウノヴァス",
+      "score": -0.7054719947267353,
+      "horse_number": 4,
+      "odds": 20.4,
+      "win_prob": 0.0476
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106800",
+      "horse_name": "コティノス",
+      "score": -0.9811464141377668,
+      "horse_number": 15,
+      "odds": 22.7,
+      "win_prob": 0.0361
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101000",
+      "horse_name": "フローレンスフーガ",
+      "score": -0.9944414190062614,
+      "horse_number": 8,
+      "odds": 12.8,
+      "win_prob": 0.0356
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103757",
+      "horse_name": "シーラス",
+      "score": -1.104230505287194,
+      "horse_number": 5,
+      "odds": 10.6,
+      "win_prob": 0.0319
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105212",
+      "horse_name": "シーシェル",
+      "score": -1.617058045385634,
+      "horse_number": 7,
+      "odds": 76.4,
+      "win_prob": 0.0191
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103789",
+      "horse_name": "アースヴィンチ",
+      "score": -1.9020271956351407,
+      "horse_number": 3,
+      "odds": 46.4,
+      "win_prob": 0.0144
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023102150",
+      "horse_name": "2023102150",
+      "score": -2.087339725710017,
+      "horse_number": 6,
+      "odds": 46.0,
+      "win_prob": 0.0119
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102381",
+      "horse_name": "カタカムナ",
+      "score": -3.165233266161028,
+      "horse_number": 16,
+      "odds": 183.9,
+      "win_prob": 0.0041
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023105004",
+      "horse_name": "クルサール",
+      "score": -3.1851539617214106,
+      "horse_number": 14,
+      "odds": 115.8,
+      "win_prob": 0.004
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T01:40:44.272133+00:00",
+  "generated_at_unix": 1787362844,
+  "expires_at_unix": 1787366744,
+  "run_id": "32543874301",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260815_133851",
+    "calibration_method": "softmax_temperature_holdout",
+    "model_sha256": "6ccd51006a71fc76"
+  },
+  "data": {
+    "snapshot_id": "a6c2722d5fd333ba",
+    "base_snapshot_id": "ff14ae5f9745c814",
+    "snapshot_created_at": "2026-08-22T01:37:20.852708+00:00"
+  }
+}

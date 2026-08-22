@@ -1,0 +1,161 @@
+{
+  "race_id": "202604030104",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-22 11:10",
+  "race_time_unix": 1787364600,
+  "race_place": "新潟",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106795",
+      "horse_name": "ルシアージュ",
+      "score": 0.4553228739315276,
+      "horse_number": 2,
+      "odds": 10.9,
+      "win_prob": 0.2469
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107200",
+      "horse_name": "ブルージンジャー",
+      "score": 0.21400475004225222,
+      "horse_number": 9,
+      "odds": 9.2,
+      "win_prob": 0.1939
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105268",
+      "horse_name": "ラショナルポイント",
+      "score": -0.04014973985991399,
+      "horse_number": 7,
+      "odds": 2.5,
+      "win_prob": 0.1504
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104884",
+      "horse_name": "プロミスライン",
+      "score": -0.2917615140648732,
+      "horse_number": 3,
+      "odds": 10.0,
+      "win_prob": 0.117
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103469",
+      "horse_name": "ペールデュクラン",
+      "score": -0.8701759759059985,
+      "horse_number": 10,
+      "odds": 11.4,
+      "win_prob": 0.0656
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103045",
+      "horse_name": "フィクセルリリア",
+      "score": -1.159836052161051,
+      "horse_number": 8,
+      "odds": 8.9,
+      "win_prob": 0.0491
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104065",
+      "horse_name": "ジャストビコーズ",
+      "score": -1.2363161260093505,
+      "horse_number": 1,
+      "odds": 13.4,
+      "win_prob": 0.0455
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104394",
+      "horse_name": "バーヴァンシー",
+      "score": -1.7309634052544687,
+      "horse_number": 15,
+      "odds": 26.4,
+      "win_prob": 0.0277
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107051",
+      "horse_name": "カルダモン",
+      "score": -1.7553482757923782,
+      "horse_number": 4,
+      "odds": 8.5,
+      "win_prob": 0.0271
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107136",
+      "horse_name": "ドナディクオーレ",
+      "score": -2.0676507039462177,
+      "horse_number": 12,
+      "odds": 22.8,
+      "win_prob": 0.0198
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023107349",
+      "horse_name": "レディホークダイヤ",
+      "score": -2.443203156136146,
+      "horse_number": 5,
+      "odds": 36.2,
+      "win_prob": 0.0136
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105655",
+      "horse_name": "ソフィアプルーマ",
+      "score": -2.4864305873761645,
+      "horse_number": 11,
+      "odds": 55.6,
+      "win_prob": 0.013
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023109163",
+      "horse_name": "ハニーアンバー",
+      "score": -2.559646316779715,
+      "horse_number": 13,
+      "odds": 94.3,
+      "win_prob": 0.0121
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023104855",
+      "horse_name": "カノープス",
+      "score": -2.7523112444150564,
+      "horse_number": 14,
+      "odds": 69.8,
+      "win_prob": 0.01
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104585",
+      "horse_name": "ビューティドリーム",
+      "score": -2.934760917576526,
+      "horse_number": 6,
+      "odds": 80.2,
+      "win_prob": 0.0083
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T01:40:44.272133+00:00",
+  "generated_at_unix": 1787362844,
+  "expires_at_unix": 1787366744,
+  "run_id": "32543874301",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260815_133851",
+    "calibration_method": "softmax_temperature_holdout",
+    "model_sha256": "6ccd51006a71fc76"
+  },
+  "data": {
+    "snapshot_id": "a6c2722d5fd333ba",
+    "base_snapshot_id": "ff14ae5f9745c814",
+    "snapshot_created_at": "2026-08-22T01:37:20.852708+00:00"
+  }
+}
