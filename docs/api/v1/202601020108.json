@@ -1,0 +1,116 @@
+{
+  "race_id": "202601020108",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-22 14:01",
+  "race_time_unix": 1787374860,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106217",
+      "horse_name": "ミルボナー",
+      "score": 0.783513944596006,
+      "horse_number": 9,
+      "odds": 6.2,
+      "win_prob": 0.2277
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107337",
+      "horse_name": "ルージュビバーチェ",
+      "score": 0.6078398747244657,
+      "horse_number": 1,
+      "odds": 4.5,
+      "win_prob": 0.191
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105896",
+      "horse_name": "ケープウィッカム",
+      "score": 0.4666133388449844,
+      "horse_number": 7,
+      "odds": 4.4,
+      "win_prob": 0.1659
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022101599",
+      "horse_name": "ピラニアキッス",
+      "score": 0.28030964096221966,
+      "horse_number": 6,
+      "odds": 5.4,
+      "win_prob": 0.1377
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105358",
+      "horse_name": "ジーティーアリア",
+      "score": -0.13234962775764766,
+      "horse_number": 3,
+      "odds": 6.8,
+      "win_prob": 0.0911
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107412",
+      "horse_name": "リピース",
+      "score": -0.7352832712003929,
+      "horse_number": 2,
+      "odds": 15.7,
+      "win_prob": 0.0499
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105267",
+      "horse_name": "サウンドルーチェ",
+      "score": -0.8567117325420668,
+      "horse_number": 4,
+      "odds": 36.5,
+      "win_prob": 0.0442
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102615",
+      "horse_name": "ホワイトオーキッド",
+      "score": -0.9902847602222309,
+      "horse_number": 8,
+      "odds": 12.3,
+      "win_prob": 0.0386
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101250",
+      "horse_name": "ランスノーブル",
+      "score": -1.2680573127201515,
+      "horse_number": 5,
+      "odds": 20.2,
+      "win_prob": 0.0293
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104384",
+      "horse_name": "ローゾフィア",
+      "score": -1.4437482965298987,
+      "horse_number": 10,
+      "odds": 10.4,
+      "win_prob": 0.0246
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T04:44:03.971204+00:00",
+  "generated_at_unix": 1787373843,
+  "expires_at_unix": 1787377743,
+  "run_id": "32552242179",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260815_133851",
+    "calibration_method": "softmax_temperature_holdout",
+    "model_sha256": "6ccd51006a71fc76"
+  },
+  "data": {
+    "snapshot_id": "0d5a770e827a94a6",
+    "base_snapshot_id": "ff14ae5f9745c814",
+    "snapshot_created_at": "2026-08-22T04:39:42.455876+00:00"
+  }
+}
