@@ -1,0 +1,152 @@
+{
+  "race_id": "202601020110",
+  "race_name": "WASJ1",
+  "race_time": "2026-08-22 15:10",
+  "race_time_unix": 1787379000,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104960",
+      "horse_name": "アスミル",
+      "score": 1.1032505232639902,
+      "horse_number": 9,
+      "odds": 5.6,
+      "win_prob": 0.1756
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102421",
+      "horse_name": "ビービーエフォート",
+      "score": 0.7649333370763454,
+      "horse_number": 5,
+      "odds": 5.8,
+      "win_prob": 0.1252
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022110056",
+      "horse_name": "フードマン",
+      "score": 0.43127142084022013,
+      "horse_number": 13,
+      "odds": 5.8,
+      "win_prob": 0.0897
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102440",
+      "horse_name": "ホウオウヘッセン",
+      "score": 0.3985802796999545,
+      "horse_number": 8,
+      "odds": 25.2,
+      "win_prob": 0.0868
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106389",
+      "horse_name": "ベルビースタローン",
+      "score": 0.39184977880051003,
+      "horse_number": 1,
+      "odds": 14.6,
+      "win_prob": 0.0862
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102594",
+      "horse_name": "ミキノバカラ",
+      "score": 0.3579941159970172,
+      "horse_number": 10,
+      "odds": 8.8,
+      "win_prob": 0.0833
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021103595",
+      "horse_name": "ビーコング",
+      "score": 0.2905870678902169,
+      "horse_number": 11,
+      "odds": 11.5,
+      "win_prob": 0.0779
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106665",
+      "horse_name": "ウチュウノセカイ",
+      "score": 0.2130958459284187,
+      "horse_number": 3,
+      "odds": 8.2,
+      "win_prob": 0.0721
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021110023",
+      "horse_name": "エクストラバック",
+      "score": -0.23263019624416165,
+      "horse_number": 7,
+      "odds": 22.0,
+      "win_prob": 0.0462
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021101595",
+      "horse_name": "ヴィヴァクラウン",
+      "score": -0.2622291615754816,
+      "horse_number": 14,
+      "odds": 16.1,
+      "win_prob": 0.0448
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021103278",
+      "horse_name": "メイショウミリオレ",
+      "score": -0.3065880775233382,
+      "horse_number": 4,
+      "odds": 12.7,
+      "win_prob": 0.0429
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021103242",
+      "horse_name": "ジーベック",
+      "score": -0.5186661220863206,
+      "horse_number": 2,
+      "odds": 23.6,
+      "win_prob": 0.0347
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020106821",
+      "horse_name": "ピースフルナイト",
+      "score": -0.8738328526565147,
+      "horse_number": 12,
+      "odds": 19.5,
+      "win_prob": 0.0243
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018103485",
+      "horse_name": "ジャガード",
+      "score": -1.7158832368367218,
+      "horse_number": 6,
+      "odds": 48.3,
+      "win_prob": 0.0105
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T05:37:44.489912+00:00",
+  "generated_at_unix": 1787377064,
+  "expires_at_unix": 1787380964,
+  "run_id": "32554618378",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260815_133851",
+    "calibration_method": "softmax_temperature_holdout",
+    "model_sha256": "6ccd51006a71fc76"
+  },
+  "data": {
+    "snapshot_id": "e785b1a7e7d82e2e",
+    "base_snapshot_id": "ff14ae5f9745c814",
+    "snapshot_created_at": "2026-08-22T05:34:16.493476+00:00"
+  }
+}

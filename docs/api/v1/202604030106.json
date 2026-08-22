@@ -1,0 +1,188 @@
+{
+  "race_id": "202604030106",
+  "race_name": "長岡S",
+  "race_time": "2026-08-22 14:50",
+  "race_time_unix": 1787377800,
+  "race_place": "新潟",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105070",
+      "horse_name": "ジャサルディア",
+      "score": 1.9410925741033722,
+      "horse_number": 10,
+      "odds": 4.7,
+      "win_prob": 0.2352
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105326",
+      "horse_name": "コートアリシアン",
+      "score": 1.7150585891705799,
+      "horse_number": 2,
+      "odds": 4.8,
+      "win_prob": 0.1876
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105520",
+      "horse_name": "ミッキーソルジャー",
+      "score": 1.4243321889377754,
+      "horse_number": 1,
+      "odds": 3.2,
+      "win_prob": 0.1403
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110066",
+      "horse_name": "ラージギャラリー",
+      "score": 0.8372507138255788,
+      "horse_number": 8,
+      "odds": 36.3,
+      "win_prob": 0.078
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105161",
+      "horse_name": "ケーブパール",
+      "score": 0.7699228935748242,
+      "horse_number": 12,
+      "odds": 12.6,
+      "win_prob": 0.0729
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105475",
+      "horse_name": "レディーミコノス",
+      "score": 0.4282908306756833,
+      "horse_number": 9,
+      "odds": 21.9,
+      "win_prob": 0.0518
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022101197",
+      "horse_name": "マイエレメント",
+      "score": 0.0932216361937048,
+      "horse_number": 18,
+      "odds": 11.1,
+      "win_prob": 0.0371
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100084",
+      "horse_name": "ジェットマグナム",
+      "score": -0.17753165443644414,
+      "horse_number": 3,
+      "odds": 64.2,
+      "win_prob": 0.0283
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102500",
+      "horse_name": "マトラコーニッシュ",
+      "score": -0.3477483073922874,
+      "horse_number": 4,
+      "odds": 23.0,
+      "win_prob": 0.0238
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103881",
+      "horse_name": "コスモサガルマータ",
+      "score": -0.3660117396831943,
+      "horse_number": 7,
+      "odds": 12.4,
+      "win_prob": 0.0234
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104753",
+      "horse_name": "サトノヴィレ",
+      "score": -0.43398560248150575,
+      "horse_number": 17,
+      "odds": 38.9,
+      "win_prob": 0.0219
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021105757",
+      "horse_name": "テウメッサ",
+      "score": -0.7098789314906752,
+      "horse_number": 11,
+      "odds": 67.8,
+      "win_prob": 0.0166
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104596",
+      "horse_name": "ガルダイア",
+      "score": -0.7493948650142391,
+      "horse_number": 6,
+      "odds": 53.0,
+      "win_prob": 0.016
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105601",
+      "horse_name": "ショーマンフリート",
+      "score": -0.7600809787215874,
+      "horse_number": 13,
+      "odds": 128.6,
+      "win_prob": 0.0158
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100810",
+      "horse_name": "グラニット",
+      "score": -0.7670785047064552,
+      "horse_number": 14,
+      "odds": 80.5,
+      "win_prob": 0.0157
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103947",
+      "horse_name": "ホウオウムサシ",
+      "score": -0.9852406068155241,
+      "horse_number": 15,
+      "odds": 78.4,
+      "win_prob": 0.0126
+    },
+    {
+      "rank": 17,
+      "horse_id": "2020103066",
+      "horse_name": "マルチャン",
+      "score": -1.0673418653256328,
+      "horse_number": 16,
+      "odds": 36.7,
+      "win_prob": 0.0116
+    },
+    {
+      "rank": 18,
+      "horse_id": "2020104708",
+      "horse_name": "ウィステリアリヴァ",
+      "score": -1.0707786102567014,
+      "horse_number": 5,
+      "odds": 45.0,
+      "win_prob": 0.0116
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T05:37:44.489912+00:00",
+  "generated_at_unix": 1787377064,
+  "expires_at_unix": 1787380964,
+  "run_id": "32554618378",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260815_133851",
+    "calibration_method": "softmax_temperature_holdout",
+    "model_sha256": "6ccd51006a71fc76"
+  },
+  "data": {
+    "snapshot_id": "e785b1a7e7d82e2e",
+    "base_snapshot_id": "ff14ae5f9745c814",
+    "snapshot_created_at": "2026-08-22T05:34:16.493476+00:00"
+  }
+}

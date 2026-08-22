@@ -1,0 +1,152 @@
+{
+  "race_id": "202601020109",
+  "race_name": "クローバー賞",
+  "race_time": "2026-08-22 14:35",
+  "race_time_unix": 1787376900,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024103538",
+      "horse_name": "ラードンチェイス",
+      "score": 1.6143659195523254,
+      "horse_number": 10,
+      "odds": 3.9,
+      "win_prob": 0.2572
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024100671",
+      "horse_name": "フレイコン",
+      "score": 1.437290843060173,
+      "horse_number": 7,
+      "odds": 1.8,
+      "win_prob": 0.2155
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024107032",
+      "horse_name": "ブルージェイ",
+      "score": 1.0160006845854255,
+      "horse_number": 6,
+      "odds": 6.8,
+      "win_prob": 0.1414
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024100120",
+      "horse_name": "ステラトップガン",
+      "score": 0.9164492667782679,
+      "horse_number": 1,
+      "odds": 10.7,
+      "win_prob": 0.128
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024104976",
+      "horse_name": "チカバリエンテ",
+      "score": 0.6081522826125062,
+      "horse_number": 9,
+      "odds": 20.5,
+      "win_prob": 0.094
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024106606",
+      "horse_name": "ウィエダンド",
+      "score": 0.04162469459672855,
+      "horse_number": 13,
+      "odds": 13.1,
+      "win_prob": 0.0534
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024104113",
+      "horse_name": "ダマスク",
+      "score": -0.21327118793874322,
+      "horse_number": 14,
+      "odds": 72.6,
+      "win_prob": 0.0414
+    },
+    {
+      "rank": 8,
+      "horse_id": "2024107053",
+      "horse_name": "2024107053",
+      "score": -0.7763769136280448,
+      "horse_number": 8,
+      "odds": 59.0,
+      "win_prob": 0.0235
+    },
+    {
+      "rank": 9,
+      "horse_id": "2024106853",
+      "horse_name": "ライーリーアース",
+      "score": -1.0307775313319485,
+      "horse_number": 3,
+      "odds": 81.0,
+      "win_prob": 0.0183
+    },
+    {
+      "rank": 10,
+      "horse_id": "2024105590",
+      "horse_name": "2024105590",
+      "score": -1.5387337934111753,
+      "horse_number": 12,
+      "odds": 48.5,
+      "win_prob": 0.011
+    },
+    {
+      "rank": 11,
+      "horse_id": "2024108150",
+      "horse_name": "2024108150",
+      "score": -2.0317585562196756,
+      "horse_number": 11,
+      "odds": 301.4,
+      "win_prob": 0.0067
+    },
+    {
+      "rank": 12,
+      "horse_id": "2024102340",
+      "horse_name": "2024102340",
+      "score": -2.567890485834838,
+      "horse_number": 2,
+      "odds": 57.3,
+      "win_prob": 0.0039
+    },
+    {
+      "rank": 13,
+      "horse_id": "2024100213",
+      "horse_name": "2024100213",
+      "score": -2.8164751398566237,
+      "horse_number": 5,
+      "odds": 234.3,
+      "win_prob": 0.0031
+    },
+    {
+      "rank": 14,
+      "horse_id": "2024104065",
+      "horse_name": "2024104065",
+      "score": -2.9271873983727654,
+      "horse_number": 4,
+      "odds": 160.3,
+      "win_prob": 0.0027
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T05:37:44.489912+00:00",
+  "generated_at_unix": 1787377064,
+  "expires_at_unix": 1787380964,
+  "run_id": "32554618378",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260815_133851",
+    "calibration_method": "softmax_temperature_holdout",
+    "model_sha256": "6ccd51006a71fc76"
+  },
+  "data": {
+    "snapshot_id": "e785b1a7e7d82e2e",
+    "base_snapshot_id": "ff14ae5f9745c814",
+    "snapshot_created_at": "2026-08-22T05:34:16.493476+00:00"
+  }
+}

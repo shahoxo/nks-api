@@ -1,0 +1,152 @@
+{
+  "race_id": "202607030106",
+  "race_name": "大府特別",
+  "race_time": "2026-08-22 15:01",
+  "race_time_unix": 1787378460,
+  "race_place": "中京",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102075",
+      "horse_name": "ソルチェリア",
+      "score": 0.8474064616525512,
+      "horse_number": 4,
+      "odds": 3.1,
+      "win_prob": 0.1482
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102722",
+      "horse_name": "ドゥラエテルノ",
+      "score": 0.7687071653718737,
+      "horse_number": 2,
+      "odds": 14.1,
+      "win_prob": 0.137
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105022",
+      "horse_name": "ライノ",
+      "score": 0.7319661125195593,
+      "horse_number": 9,
+      "odds": 11.6,
+      "win_prob": 0.1321
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104413",
+      "horse_name": "ロイスター",
+      "score": 0.6560373773860885,
+      "horse_number": 13,
+      "odds": 6.3,
+      "win_prob": 0.1224
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021101106",
+      "horse_name": "スマートスピア",
+      "score": 0.28942904324619256,
+      "horse_number": 5,
+      "odds": 5.6,
+      "win_prob": 0.0848
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106694",
+      "horse_name": "ソウルアンドジャズ",
+      "score": 0.09539297440571297,
+      "horse_number": 12,
+      "odds": 4.9,
+      "win_prob": 0.0699
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106998",
+      "horse_name": "ニシノジェダイ",
+      "score": 0.08782281391166746,
+      "horse_number": 1,
+      "odds": 22.7,
+      "win_prob": 0.0694
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105791",
+      "horse_name": "ブルックリンダンス",
+      "score": 0.03294014956364076,
+      "horse_number": 11,
+      "odds": 21.4,
+      "win_prob": 0.0656
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104352",
+      "horse_name": "マヴィ",
+      "score": -0.19386921628537132,
+      "horse_number": 3,
+      "odds": 24.0,
+      "win_prob": 0.0523
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020106393",
+      "horse_name": "ノボリクレバー",
+      "score": -0.6041507174861552,
+      "horse_number": 14,
+      "odds": 33.9,
+      "win_prob": 0.0347
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104872",
+      "horse_name": "ビルンバウム",
+      "score": -0.9353979956728015,
+      "horse_number": 8,
+      "odds": 45.4,
+      "win_prob": 0.0249
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105201",
+      "horse_name": "ラマンシュ",
+      "score": -1.1439377576940641,
+      "horse_number": 6,
+      "odds": 51.9,
+      "win_prob": 0.0202
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020104561",
+      "horse_name": "タイガースパーク",
+      "score": -1.177491477599347,
+      "horse_number": 7,
+      "odds": 48.5,
+      "win_prob": 0.0196
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106564",
+      "horse_name": "タガノアニマシオン",
+      "score": -1.2179951046464486,
+      "horse_number": 10,
+      "odds": 60.5,
+      "win_prob": 0.0188
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T05:37:44.489912+00:00",
+  "generated_at_unix": 1787377064,
+  "expires_at_unix": 1787380964,
+  "run_id": "32554618378",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260815_133851",
+    "calibration_method": "softmax_temperature_holdout",
+    "model_sha256": "6ccd51006a71fc76"
+  },
+  "data": {
+    "snapshot_id": "e785b1a7e7d82e2e",
+    "base_snapshot_id": "ff14ae5f9745c814",
+    "snapshot_created_at": "2026-08-22T05:34:16.493476+00:00"
+  }
+}
