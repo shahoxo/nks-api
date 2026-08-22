@@ -1,0 +1,152 @@
+{
+  "race_id": "202601020106",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-22 12:50",
+  "race_time_unix": 1787370600,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107221",
+      "horse_name": "シャンドラファール",
+      "score": 0.7332394852432935,
+      "horse_number": 9,
+      "odds": 2.8,
+      "win_prob": 0.3061
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102695",
+      "horse_name": "ギオンバヤシ",
+      "score": 0.3513754032574032,
+      "horse_number": 12,
+      "odds": 7.2,
+      "win_prob": 0.2089
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101168",
+      "horse_name": "タビニュ",
+      "score": 0.15795275650438265,
+      "horse_number": 2,
+      "odds": 11.2,
+      "win_prob": 0.1722
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103901",
+      "horse_name": "ヴィラジョヴィス",
+      "score": -0.7773297950148172,
+      "horse_number": 4,
+      "odds": 3.8,
+      "win_prob": 0.0676
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101934",
+      "horse_name": "レットミーテイク",
+      "score": -1.1498489840983983,
+      "horse_number": 10,
+      "odds": 5.5,
+      "win_prob": 0.0466
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103679",
+      "horse_name": "リアライズパリオ",
+      "score": -1.3817558459261234,
+      "horse_number": 14,
+      "odds": 30.1,
+      "win_prob": 0.0369
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105618",
+      "horse_name": "ホウオウライラック",
+      "score": -1.4449451279704584,
+      "horse_number": 13,
+      "odds": 71.5,
+      "win_prob": 0.0347
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103385",
+      "horse_name": "デルマタカチホ",
+      "score": -1.4586109178418034,
+      "horse_number": 3,
+      "odds": 40.1,
+      "win_prob": 0.0342
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100868",
+      "horse_name": "フィエールシャンテ",
+      "score": -1.4705192714916226,
+      "horse_number": 5,
+      "odds": 11.0,
+      "win_prob": 0.0338
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103196",
+      "horse_name": "フクチャンブラック",
+      "score": -2.1018289106222445,
+      "horse_number": 6,
+      "odds": 52.3,
+      "win_prob": 0.018
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106832",
+      "horse_name": "パゴスピグイノス",
+      "score": -2.2974661846061424,
+      "horse_number": 11,
+      "odds": 53.0,
+      "win_prob": 0.0148
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106834",
+      "horse_name": "リコラピッド",
+      "score": -2.6448902483561025,
+      "horse_number": 8,
+      "odds": 55.3,
+      "win_prob": 0.0104
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023104947",
+      "horse_name": "カイユレ",
+      "score": -2.8311580689984224,
+      "horse_number": 1,
+      "odds": 116.6,
+      "win_prob": 0.0087
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103601",
+      "horse_name": "アイアムコロンブス",
+      "score": -2.998185515008604,
+      "horse_number": 7,
+      "odds": 72.5,
+      "win_prob": 0.0073
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T03:03:07.716351+00:00",
+  "generated_at_unix": 1787367787,
+  "expires_at_unix": 1787371687,
+  "run_id": "32547723569",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260815_133851",
+    "calibration_method": "softmax_temperature_holdout",
+    "model_sha256": "6ccd51006a71fc76"
+  },
+  "data": {
+    "snapshot_id": "0139e1a3937e555f",
+    "base_snapshot_id": "ff14ae5f9745c814",
+    "snapshot_created_at": "2026-08-22T03:00:23.216620+00:00"
+  }
+}
