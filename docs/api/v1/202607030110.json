@@ -1,0 +1,134 @@
+{
+  "race_id": "202607030110",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-22 17:20",
+  "race_time_unix": 1787386800,
+  "race_place": "中京",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103245",
+      "horse_name": "ゴンタ",
+      "score": 0.17929813900553027,
+      "horse_number": 1,
+      "odds": 2.8,
+      "win_prob": 0.1899
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104339",
+      "horse_name": "ルファーダ",
+      "score": 0.1459518771373548,
+      "horse_number": 9,
+      "odds": 5.1,
+      "win_prob": 0.1838
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104395",
+      "horse_name": "レッドホット",
+      "score": -0.10406717438886616,
+      "horse_number": 12,
+      "odds": 8.0,
+      "win_prob": 0.1436
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103180",
+      "horse_name": "メイショウソウテン",
+      "score": -0.10761160318639446,
+      "horse_number": 2,
+      "odds": 15.3,
+      "win_prob": 0.1431
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105387",
+      "horse_name": "マシン",
+      "score": -0.22034278178525385,
+      "horse_number": 3,
+      "odds": 6.1,
+      "win_prob": 0.128
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020106922",
+      "horse_name": "メイショウクモイ",
+      "score": -0.830056740061403,
+      "horse_number": 7,
+      "odds": 6.2,
+      "win_prob": 0.0702
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107017",
+      "horse_name": "アビラーシャ",
+      "score": -1.2065796526807377,
+      "horse_number": 10,
+      "odds": 13.1,
+      "win_prob": 0.0484
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105794",
+      "horse_name": "ラテライト",
+      "score": -1.3599875587562373,
+      "horse_number": 5,
+      "odds": 28.1,
+      "win_prob": 0.0416
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103053",
+      "horse_name": "ケイアイワイラーパ",
+      "score": -1.9502550544845731,
+      "horse_number": 11,
+      "odds": 44.5,
+      "win_prob": 0.0232
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103901",
+      "horse_name": "ウインドワンピース",
+      "score": -2.287988543113083,
+      "horse_number": 4,
+      "odds": 89.2,
+      "win_prob": 0.0167
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104177",
+      "horse_name": "シュガーハイ",
+      "score": -3.1318046551514347,
+      "horse_number": 6,
+      "odds": 25.6,
+      "win_prob": 0.0072
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106078",
+      "horse_name": "ブルーストレイル",
+      "score": -3.6600902716091173,
+      "horse_number": 8,
+      "odds": 113.0,
+      "win_prob": 0.0043
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T07:41:22.689293+00:00",
+  "generated_at_unix": 1787384482,
+  "expires_at_unix": 1787388382,
+  "run_id": "32560025432",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "3fb14a30ae0cf5d4",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-22T07:37:11.338144+00:00"
+  }
+}
