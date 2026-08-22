@@ -1,0 +1,161 @@
+{
+  "race_id": "202604030108",
+  "race_name": "岩室温泉特別",
+  "race_time": "2026-08-22 16:01",
+  "race_time_unix": 1787382060,
+  "race_place": "新潟",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102213",
+      "horse_name": "プルメリアリノ",
+      "score": 1.7938293365686775,
+      "horse_number": 10,
+      "odds": 1.3,
+      "win_prob": 0.336
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104801",
+      "horse_name": "ハッコウイチウ",
+      "score": 0.7673321839953964,
+      "horse_number": 7,
+      "odds": 21.2,
+      "win_prob": 0.1221
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102026",
+      "horse_name": "アクアマリーナ",
+      "score": 0.7646622626316347,
+      "horse_number": 13,
+      "odds": 15.1,
+      "win_prob": 0.1217
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021102276",
+      "horse_name": "マクミランテソーロ",
+      "score": 0.6669579230346374,
+      "horse_number": 14,
+      "odds": 16.6,
+      "win_prob": 0.1106
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022103577",
+      "horse_name": "リッキースタイル",
+      "score": 0.22084634196307,
+      "horse_number": 6,
+      "odds": 16.4,
+      "win_prob": 0.0712
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104852",
+      "horse_name": "レディサン",
+      "score": -0.20542926783282148,
+      "horse_number": 12,
+      "odds": 42.5,
+      "win_prob": 0.0468
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103195",
+      "horse_name": "ヴェントインコーダ",
+      "score": -0.25029588580095025,
+      "horse_number": 1,
+      "odds": 43.8,
+      "win_prob": 0.0447
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022106698",
+      "horse_name": "オカメノコイ",
+      "score": -0.4872389405446354,
+      "horse_number": 2,
+      "odds": 28.5,
+      "win_prob": 0.0354
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103706",
+      "horse_name": "アルジェンタージョ",
+      "score": -0.6216057188661576,
+      "horse_number": 4,
+      "odds": 63.7,
+      "win_prob": 0.031
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102754",
+      "horse_name": "ランスオブセヘル",
+      "score": -0.6702111446045813,
+      "horse_number": 15,
+      "odds": 11.0,
+      "win_prob": 0.0296
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104313",
+      "horse_name": "キミハスコール",
+      "score": -0.9228499724127984,
+      "horse_number": 8,
+      "odds": 50.4,
+      "win_prob": 0.023
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103931",
+      "horse_name": "ヴィクトリーロード",
+      "score": -1.5056997619612962,
+      "horse_number": 3,
+      "odds": 46.1,
+      "win_prob": 0.013
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106471",
+      "horse_name": "キタノライブリー",
+      "score": -2.0035735534786494,
+      "horse_number": 5,
+      "odds": 22.5,
+      "win_prob": 0.0079
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104676",
+      "horse_name": "マイレーヌ",
+      "score": -2.314540362314095,
+      "horse_number": 11,
+      "odds": 80.0,
+      "win_prob": 0.0058
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106562",
+      "horse_name": "バンブトンプロ",
+      "score": -3.8917716603888732,
+      "horse_number": 9,
+      "odds": 182.5,
+      "win_prob": 0.0012
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T06:55:28.001310+00:00",
+  "generated_at_unix": 1787381728,
+  "expires_at_unix": 1787385628,
+  "run_id": "32557968068",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "59092b48b3d67f28",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-22T06:50:57.211963+00:00"
+  }
+}

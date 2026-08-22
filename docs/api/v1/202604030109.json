@@ -1,0 +1,161 @@
+{
+  "race_id": "202604030109",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-22 16:35",
+  "race_time_unix": 1787384100,
+  "race_place": "新潟",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100485",
+      "horse_name": "キタノエピックアン",
+      "score": 0.2905321890801951,
+      "horse_number": 1,
+      "odds": 3.9,
+      "win_prob": 0.2014
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022103785",
+      "horse_name": "マタミカンサン",
+      "score": 0.09883859985685581,
+      "horse_number": 6,
+      "odds": 4.0,
+      "win_prob": 0.1667
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106936",
+      "horse_name": "オウケンハニー",
+      "score": -0.13381204810032069,
+      "horse_number": 13,
+      "odds": 10.4,
+      "win_prob": 0.1325
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104727",
+      "horse_name": "タマモチョコチップ",
+      "score": -0.41977016220100877,
+      "horse_number": 12,
+      "odds": 10.0,
+      "win_prob": 0.1
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106734",
+      "horse_name": "ガーネットテソーロ",
+      "score": -0.4760174086227901,
+      "horse_number": 8,
+      "odds": 8.6,
+      "win_prob": 0.0946
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105035",
+      "horse_name": "イージーブリージー",
+      "score": -0.7884604662511236,
+      "horse_number": 14,
+      "odds": 16.5,
+      "win_prob": 0.0695
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105217",
+      "horse_name": "ヴァイオパイシーズ",
+      "score": -1.2436827961583592,
+      "horse_number": 2,
+      "odds": 22.7,
+      "win_prob": 0.0443
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105516",
+      "horse_name": "メリーサウンド",
+      "score": -1.4747220377573835,
+      "horse_number": 7,
+      "odds": 17.5,
+      "win_prob": 0.0353
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105100",
+      "horse_name": "フォンデネージュ",
+      "score": -1.5108047001968965,
+      "horse_number": 11,
+      "odds": 11.4,
+      "win_prob": 0.0341
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100332",
+      "horse_name": "アスパラゴ",
+      "score": -1.6093693439300623,
+      "horse_number": 5,
+      "odds": 48.6,
+      "win_prob": 0.0309
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105813",
+      "horse_name": "ルージュミレネール",
+      "score": -1.8181600991179676,
+      "horse_number": 9,
+      "odds": 23.5,
+      "win_prob": 0.0252
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105095",
+      "horse_name": "ツァガーンサル",
+      "score": -1.8349367170118076,
+      "horse_number": 4,
+      "odds": 22.5,
+      "win_prob": 0.0247
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105123",
+      "horse_name": "グランコネクシオン",
+      "score": -2.002282591646249,
+      "horse_number": 15,
+      "odds": 20.0,
+      "win_prob": 0.021
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105001",
+      "horse_name": "グレヴィレア",
+      "score": -2.484104364233535,
+      "horse_number": 3,
+      "odds": 56.8,
+      "win_prob": 0.013
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102081",
+      "horse_name": "テンクウハット",
+      "score": -3.1613943325668403,
+      "horse_number": 10,
+      "odds": 57.5,
+      "win_prob": 0.0067
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T06:55:28.001310+00:00",
+  "generated_at_unix": 1787381728,
+  "expires_at_unix": 1787385628,
+  "run_id": "32557968068",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "59092b48b3d67f28",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-22T06:50:57.211963+00:00"
+  }
+}

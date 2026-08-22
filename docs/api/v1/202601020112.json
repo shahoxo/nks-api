@@ -1,0 +1,125 @@
+{
+  "race_id": "202601020112",
+  "race_name": "ニセコ特別",
+  "race_time": "2026-08-22 16:20",
+  "race_time_unix": 1787383200,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-22",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103451",
+      "horse_name": "ロングミックス",
+      "score": 1.2774957734451322,
+      "horse_number": 11,
+      "odds": 3.4,
+      "win_prob": 0.291
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103061",
+      "horse_name": "ゴールドブレイズ",
+      "score": 1.0243709715561573,
+      "horse_number": 1,
+      "odds": 5.1,
+      "win_prob": 0.2267
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105032",
+      "horse_name": "メイショウコシュウ",
+      "score": 0.6883123766597872,
+      "horse_number": 3,
+      "odds": 5.6,
+      "win_prob": 0.1628
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021104945",
+      "horse_name": "ポンピエ",
+      "score": 0.2522247613739326,
+      "horse_number": 8,
+      "odds": 9.5,
+      "win_prob": 0.1059
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104729",
+      "horse_name": "サマーナイト",
+      "score": 0.0800938491882704,
+      "horse_number": 4,
+      "odds": 3.5,
+      "win_prob": 0.0893
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100912",
+      "horse_name": "ココデイック",
+      "score": -0.3488781632558425,
+      "horse_number": 2,
+      "odds": 18.1,
+      "win_prob": 0.0585
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100303",
+      "horse_name": "ブリオメンテ",
+      "score": -1.0441543909752249,
+      "horse_number": 6,
+      "odds": 14.2,
+      "win_prob": 0.0295
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101938",
+      "horse_name": "グルーヴィーオン",
+      "score": -1.9799515909758,
+      "horse_number": 10,
+      "odds": 90.8,
+      "win_prob": 0.0117
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022101005",
+      "horse_name": "マロンカラノテガミ",
+      "score": -2.050330993811161,
+      "horse_number": 9,
+      "odds": 47.7,
+      "win_prob": 0.0109
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106912",
+      "horse_name": "ジュジュドール",
+      "score": -2.393639992278129,
+      "horse_number": 5,
+      "odds": 97.3,
+      "win_prob": 0.0078
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100557",
+      "horse_name": "ロードスカイブルー",
+      "score": -2.6714723155944897,
+      "horse_number": 7,
+      "odds": 33.9,
+      "win_prob": 0.0059
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-22T06:55:28.001310+00:00",
+  "generated_at_unix": 1787381728,
+  "expires_at_unix": 1787385628,
+  "run_id": "32557968068",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "59092b48b3d67f28",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-22T06:50:57.211963+00:00"
+  }
+}
