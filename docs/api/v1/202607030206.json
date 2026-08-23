@@ -1,0 +1,152 @@
+{
+  "race_id": "202607030206",
+  "race_name": "有松特別",
+  "race_time": "2026-08-23 15:01",
+  "race_time_unix": 1787464860,
+  "race_place": "中京",
+  "for_race_date": "2026-08-23",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103440",
+      "horse_name": "サーディンラン",
+      "score": 1.409889617536363,
+      "horse_number": 10,
+      "odds": 3.1,
+      "win_prob": 0.1867
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106619",
+      "horse_name": "コルドンブルー",
+      "score": 1.1046278773219973,
+      "horse_number": 11,
+      "odds": 8.6,
+      "win_prob": 0.1381
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103958",
+      "horse_name": "アロンソア",
+      "score": 1.0902516196097003,
+      "horse_number": 8,
+      "odds": 15.5,
+      "win_prob": 0.1362
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104715",
+      "horse_name": "ジーティーマン",
+      "score": 0.9633112120802744,
+      "horse_number": 3,
+      "odds": 5.4,
+      "win_prob": 0.1202
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100382",
+      "horse_name": "ビップディラン",
+      "score": 0.522691050272356,
+      "horse_number": 5,
+      "odds": 4.2,
+      "win_prob": 0.0778
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100080",
+      "horse_name": "リカントロポ",
+      "score": 0.5226135593714618,
+      "horse_number": 12,
+      "odds": 19.2,
+      "win_prob": 0.0778
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105810",
+      "horse_name": "オックスアイ",
+      "score": 0.4939284042191449,
+      "horse_number": 9,
+      "odds": 37.3,
+      "win_prob": 0.0756
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104879",
+      "horse_name": "テーオーシュタイン",
+      "score": 0.3305043823247798,
+      "horse_number": 2,
+      "odds": 28.6,
+      "win_prob": 0.0644
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105688",
+      "horse_name": "セブンマイスター",
+      "score": -0.12982605159660027,
+      "horse_number": 7,
+      "odds": 10.8,
+      "win_prob": 0.0409
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105765",
+      "horse_name": "ミッキースターダム",
+      "score": -0.315597076069205,
+      "horse_number": 4,
+      "odds": 17.7,
+      "win_prob": 0.034
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105590",
+      "horse_name": "ワンモアスマイル",
+      "score": -0.6904249177995079,
+      "horse_number": 14,
+      "odds": 36.5,
+      "win_prob": 0.0235
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102920",
+      "horse_name": "ギフテッド",
+      "score": -1.3583128999211336,
+      "horse_number": 1,
+      "odds": 62.2,
+      "win_prob": 0.0122
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019105793",
+      "horse_name": "アイキャンドウイッ",
+      "score": -1.3921657055744976,
+      "horse_number": 6,
+      "odds": 48.9,
+      "win_prob": 0.0118
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101427",
+      "horse_name": "ムーンウォーリア",
+      "score": -3.9968338574857505,
+      "horse_number": 13,
+      "odds": 224.3,
+      "win_prob": 0.0009
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-23T06:02:52.801381+00:00",
+  "generated_at_unix": 1787464972,
+  "expires_at_unix": 1787468872,
+  "run_id": "32621632104",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "1481039af5fe23ac",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-23T05:58:17.805251+00:00"
+  }
+}

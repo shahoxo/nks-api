@@ -1,0 +1,170 @@
+{
+  "race_id": "202607030207",
+  "race_name": "名古屋城S",
+  "race_time": "2026-08-23 15:35",
+  "race_time_unix": 1787466900,
+  "race_place": "中京",
+  "for_race_date": "2026-08-23",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2020105639",
+      "horse_name": "ハギノサステナブル",
+      "score": 1.312277615197309,
+      "horse_number": 5,
+      "odds": 8.1,
+      "win_prob": 0.206
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104928",
+      "horse_name": "トリポリタニア",
+      "score": 1.0493470979825639,
+      "horse_number": 1,
+      "odds": 3.6,
+      "win_prob": 0.1589
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021103987",
+      "horse_name": "スナークラファエロ",
+      "score": 0.6905058269266977,
+      "horse_number": 2,
+      "odds": 5.6,
+      "win_prob": 0.1115
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019100630",
+      "horse_name": "ハピ",
+      "score": 0.6590338069046031,
+      "horse_number": 13,
+      "odds": 7.2,
+      "win_prob": 0.1081
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102399",
+      "horse_name": "マーズオデッセイ",
+      "score": 0.4894862783790459,
+      "horse_number": 9,
+      "odds": 8.2,
+      "win_prob": 0.0915
+    },
+    {
+      "rank": 6,
+      "horse_id": "2020101579",
+      "horse_name": "レッドプロフェシー",
+      "score": 0.13513850634306546,
+      "horse_number": 15,
+      "odds": 15.2,
+      "win_prob": 0.0645
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105112",
+      "horse_name": "ミッキークレスト",
+      "score": -0.1609301600538049,
+      "horse_number": 10,
+      "odds": 20.2,
+      "win_prob": 0.0482
+    },
+    {
+      "rank": 8,
+      "horse_id": "2018102576",
+      "horse_name": "ロードプレジール",
+      "score": -0.39451308077925656,
+      "horse_number": 4,
+      "odds": 17.6,
+      "win_prob": 0.0382
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019106748",
+      "horse_name": "リチュアル",
+      "score": -0.6139443047971869,
+      "horse_number": 6,
+      "odds": 17.6,
+      "win_prob": 0.0308
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019105993",
+      "horse_name": "ラインオブソウル",
+      "score": -0.732000434300315,
+      "horse_number": 16,
+      "odds": 55.5,
+      "win_prob": 0.0274
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100761",
+      "horse_name": "マンマリアーレ",
+      "score": -0.7720099421925568,
+      "horse_number": 8,
+      "odds": 41.4,
+      "win_prob": 0.0264
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020102737",
+      "horse_name": "マリアナトレンチ",
+      "score": -0.8123917342431201,
+      "horse_number": 3,
+      "odds": 29.4,
+      "win_prob": 0.0253
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021106171",
+      "horse_name": "ブルーサン",
+      "score": -0.9075230449823712,
+      "horse_number": 12,
+      "odds": 46.0,
+      "win_prob": 0.0231
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101020",
+      "horse_name": "ペイシャモノノフ",
+      "score": -1.046335932107018,
+      "horse_number": 7,
+      "odds": 18.7,
+      "win_prob": 0.0201
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019104089",
+      "horse_name": "メイショウユズルハ",
+      "score": -1.3428460996689204,
+      "horse_number": 14,
+      "odds": 46.4,
+      "win_prob": 0.015
+    },
+    {
+      "rank": 16,
+      "horse_id": "2019101198",
+      "horse_name": "マリオロード",
+      "score": -2.459888516082264,
+      "horse_number": 11,
+      "odds": 54.8,
+      "win_prob": 0.005
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-23T06:02:52.801381+00:00",
+  "generated_at_unix": 1787464972,
+  "expires_at_unix": 1787468872,
+  "run_id": "32621632104",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "1481039af5fe23ac",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-23T05:58:17.805251+00:00"
+  }
+}

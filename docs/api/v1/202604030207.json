@@ -1,0 +1,116 @@
+{
+  "race_id": "202604030207",
+  "race_name": "新潟2歳S",
+  "race_time": "2026-08-23 15:25",
+  "race_time_unix": 1787466300,
+  "race_place": "新潟",
+  "for_race_date": "2026-08-23",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024106687",
+      "horse_name": "レッチュベルク",
+      "score": 1.879235391750085,
+      "horse_number": 2,
+      "odds": 3.5,
+      "win_prob": 0.3616
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024106282",
+      "horse_name": "インカルナータ",
+      "score": 1.4515552488183057,
+      "horse_number": 10,
+      "odds": 4.7,
+      "win_prob": 0.2371
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024106025",
+      "horse_name": "シャンデヴァーグ",
+      "score": 0.8483750912727653,
+      "horse_number": 1,
+      "odds": 4.0,
+      "win_prob": 0.1308
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024100521",
+      "horse_name": "トップチェッカー",
+      "score": 0.7397316896278773,
+      "horse_number": 3,
+      "odds": 7.6,
+      "win_prob": 0.1175
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024104696",
+      "horse_name": "トウシンマジック",
+      "score": 0.7185562256429612,
+      "horse_number": 7,
+      "odds": 4.0,
+      "win_prob": 0.1151
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024104483",
+      "horse_name": "スイートアリッサム",
+      "score": -1.3254012823079868,
+      "horse_number": 9,
+      "odds": 14.8,
+      "win_prob": 0.0153
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024102830",
+      "horse_name": "アイデアルカット",
+      "score": -1.6325828161558948,
+      "horse_number": 4,
+      "odds": 98.0,
+      "win_prob": 0.0113
+    },
+    {
+      "rank": 8,
+      "horse_id": "2024103226",
+      "horse_name": "2024103226",
+      "score": -2.2613335522614144,
+      "horse_number": 6,
+      "odds": 32.6,
+      "win_prob": 0.0061
+    },
+    {
+      "rank": 9,
+      "horse_id": "2024106831",
+      "horse_name": "エレスレイプニル",
+      "score": -2.8089384075271027,
+      "horse_number": 5,
+      "odds": 74.7,
+      "win_prob": 0.0035
+    },
+    {
+      "rank": 10,
+      "horse_id": "2024102852",
+      "horse_name": "マイホームパパ",
+      "score": -3.5430156905171777,
+      "horse_number": 8,
+      "odds": 93.3,
+      "win_prob": 0.0017
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-23T06:02:52.801381+00:00",
+  "generated_at_unix": 1787464972,
+  "expires_at_unix": 1787468872,
+  "run_id": "32621632104",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "1481039af5fe23ac",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-23T05:58:17.805251+00:00"
+  }
+}

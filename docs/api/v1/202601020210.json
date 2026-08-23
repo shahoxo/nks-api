@@ -1,0 +1,152 @@
+{
+  "race_id": "202601020210",
+  "race_name": "WASJ3",
+  "race_time": "2026-08-23 15:10",
+  "race_time_unix": 1787465400,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-23",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103176",
+      "horse_name": "セイントホース",
+      "score": 0.7683766365425675,
+      "horse_number": 4,
+      "odds": 8.1,
+      "win_prob": 0.1692
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022104419",
+      "horse_name": "ローズマイスター",
+      "score": 0.5312256442703375,
+      "horse_number": 1,
+      "odds": 4.7,
+      "win_prob": 0.1339
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102313",
+      "horse_name": "アオハルブルース",
+      "score": 0.1800532659362523,
+      "horse_number": 11,
+      "odds": 6.8,
+      "win_prob": 0.0947
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106924",
+      "horse_name": "ハイクオリティ",
+      "score": 0.15614427082692406,
+      "horse_number": 3,
+      "odds": 7.9,
+      "win_prob": 0.0925
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102200",
+      "horse_name": "レッドライトニング",
+      "score": 0.12557832296367594,
+      "horse_number": 7,
+      "odds": 8.8,
+      "win_prob": 0.0897
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102388",
+      "horse_name": "ヒミノエトワール",
+      "score": 0.03165551745789143,
+      "horse_number": 9,
+      "odds": 14.9,
+      "win_prob": 0.0818
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105973",
+      "horse_name": "ハヤブサオヒメサマ",
+      "score": 0.023409456001782323,
+      "horse_number": 8,
+      "odds": 7.6,
+      "win_prob": 0.0811
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103515",
+      "horse_name": "ユウェンタース",
+      "score": -0.024958035550042623,
+      "horse_number": 6,
+      "odds": 11.3,
+      "win_prob": 0.0774
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102263",
+      "horse_name": "カスバートテソーロ",
+      "score": -0.35228334571448766,
+      "horse_number": 10,
+      "odds": 10.0,
+      "win_prob": 0.056
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105610",
+      "horse_name": "ウインハルモニア",
+      "score": -0.42329690607348214,
+      "horse_number": 14,
+      "odds": 27.7,
+      "win_prob": 0.0522
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020100673",
+      "horse_name": "ヒルノピレネー",
+      "score": -0.7134940845310118,
+      "horse_number": 12,
+      "odds": 16.3,
+      "win_prob": 0.0392
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022109038",
+      "horse_name": "クリノラピダス",
+      "score": -1.9410484722365964,
+      "horse_number": 2,
+      "odds": 59.9,
+      "win_prob": 0.0117
+    },
+    {
+      "rank": 13,
+      "horse_id": "2019102186",
+      "horse_name": "オーロラアーク",
+      "score": -1.9599402936744734,
+      "horse_number": 5,
+      "odds": 103.5,
+      "win_prob": 0.0115
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104099",
+      "horse_name": "マーシヴィガラス",
+      "score": -2.1936001311988784,
+      "horse_number": 13,
+      "odds": 39.9,
+      "win_prob": 0.0091
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-23T06:02:52.801381+00:00",
+  "generated_at_unix": 1787464972,
+  "expires_at_unix": 1787468872,
+  "run_id": "32621632104",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "1481039af5fe23ac",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-23T05:58:17.805251+00:00"
+  }
+}
