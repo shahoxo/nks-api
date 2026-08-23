@@ -1,0 +1,143 @@
+{
+  "race_id": "202601020209",
+  "race_name": "ルスツ特別",
+  "race_time": "2026-08-23 14:35",
+  "race_time_unix": 1787463300,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-23",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102810",
+      "horse_name": "エチゴドラゴン",
+      "score": 1.1565063664876614,
+      "horse_number": 5,
+      "odds": 4.0,
+      "win_prob": 0.2219
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102708",
+      "horse_name": "アドミラルシップ",
+      "score": 0.7608545353504323,
+      "horse_number": 1,
+      "odds": 6.8,
+      "win_prob": 0.1502
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105521",
+      "horse_name": "エイシンインアウト",
+      "score": 0.6164067340407064,
+      "horse_number": 13,
+      "odds": 5.5,
+      "win_prob": 0.1302
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106866",
+      "horse_name": "サイン",
+      "score": 0.34432917138437735,
+      "horse_number": 9,
+      "odds": 12.2,
+      "win_prob": 0.0996
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104724",
+      "horse_name": "ハルフロンティア",
+      "score": 0.23309184299746347,
+      "horse_number": 2,
+      "odds": 9.7,
+      "win_prob": 0.0892
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105021",
+      "horse_name": "メイショウテンク",
+      "score": 0.07360166926212623,
+      "horse_number": 11,
+      "odds": 5.1,
+      "win_prob": 0.0762
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100615",
+      "horse_name": "ジャケットポケット",
+      "score": -0.06530515683782237,
+      "horse_number": 8,
+      "odds": 11.2,
+      "win_prob": 0.0665
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103470",
+      "horse_name": "ダノンシーホーク",
+      "score": -0.44744414676188443,
+      "horse_number": 12,
+      "odds": 27.1,
+      "win_prob": 0.0456
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021103520",
+      "horse_name": "デルシエロ",
+      "score": -0.5051223087829843,
+      "horse_number": 3,
+      "odds": 15.3,
+      "win_prob": 0.0431
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105766",
+      "horse_name": "ドーギッド",
+      "score": -0.887612736530039,
+      "horse_number": 7,
+      "odds": 37.2,
+      "win_prob": 0.0295
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106412",
+      "horse_name": "ユメシルベ",
+      "score": -1.187568474727864,
+      "horse_number": 10,
+      "odds": 46.5,
+      "win_prob": 0.022
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106439",
+      "horse_name": "マイネルマスター",
+      "score": -1.1917509949610574,
+      "horse_number": 6,
+      "odds": 26.2,
+      "win_prob": 0.0219
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106824",
+      "horse_name": "グランツローゼ",
+      "score": -2.9005190746028857,
+      "horse_number": 4,
+      "odds": 51.1,
+      "win_prob": 0.0041
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-23T05:09:08.087997+00:00",
+  "generated_at_unix": 1787461748,
+  "expires_at_unix": 1787465648,
+  "run_id": "32619395894",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "c418fe8d871a1e66",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-23T05:04:34.799050+00:00"
+  }
+}

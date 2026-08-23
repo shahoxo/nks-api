@@ -1,0 +1,161 @@
+{
+  "race_id": "202604030206",
+  "race_name": "古町S",
+  "race_time": "2026-08-23 14:50",
+  "race_time_unix": 1787464200,
+  "race_place": "新潟",
+  "for_race_date": "2026-08-23",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102965",
+      "horse_name": "ブレトワルダ",
+      "score": 1.239349551106348,
+      "horse_number": 7,
+      "odds": 3.5,
+      "win_prob": 0.2201
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021107192",
+      "horse_name": "アラレタバシル",
+      "score": 0.6654878490042448,
+      "horse_number": 14,
+      "odds": 4.1,
+      "win_prob": 0.1249
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102703",
+      "horse_name": "リバートゥルー",
+      "score": 0.3719175089525274,
+      "horse_number": 11,
+      "odds": 13.7,
+      "win_prob": 0.0935
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019104632",
+      "horse_name": "プルートマスター",
+      "score": 0.36145123933567597,
+      "horse_number": 8,
+      "odds": 11.5,
+      "win_prob": 0.0926
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105738",
+      "horse_name": "ロフティストーリー",
+      "score": 0.3498121191544193,
+      "horse_number": 13,
+      "odds": 8.7,
+      "win_prob": 0.0915
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019101864",
+      "horse_name": "クロニクル",
+      "score": 0.14382259790519136,
+      "horse_number": 1,
+      "odds": 9.9,
+      "win_prob": 0.0747
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021100292",
+      "horse_name": "パフ",
+      "score": 0.020900327793821238,
+      "horse_number": 5,
+      "odds": 13.2,
+      "win_prob": 0.0661
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105984",
+      "horse_name": "モモンウールー",
+      "score": -0.08743616744929365,
+      "horse_number": 15,
+      "odds": 16.4,
+      "win_prob": 0.0594
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021100300",
+      "horse_name": "エンセリオ",
+      "score": -0.6024273937312363,
+      "horse_number": 3,
+      "odds": 84.7,
+      "win_prob": 0.0358
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021104326",
+      "horse_name": "ユキノロイヤル",
+      "score": -0.6287027114804579,
+      "horse_number": 9,
+      "odds": 40.8,
+      "win_prob": 0.0349
+    },
+    {
+      "rank": 11,
+      "horse_id": "2018104646",
+      "horse_name": "オンザライン",
+      "score": -0.7435942013170169,
+      "horse_number": 4,
+      "odds": 18.9,
+      "win_prob": 0.0311
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020104567",
+      "horse_name": "ヴァナルガンド",
+      "score": -0.8587185105502584,
+      "horse_number": 10,
+      "odds": 26.6,
+      "win_prob": 0.0278
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021110012",
+      "horse_name": "アークドール",
+      "score": -0.8883742658391154,
+      "horse_number": 2,
+      "odds": 19.4,
+      "win_prob": 0.027
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020104297",
+      "horse_name": "ルクスビッグスター",
+      "score": -1.3916098352087767,
+      "horse_number": 12,
+      "odds": 31.2,
+      "win_prob": 0.0164
+    },
+    {
+      "rank": 15,
+      "horse_id": "2019102648",
+      "horse_name": "エスティメート",
+      "score": -2.7631945603020656,
+      "horse_number": 6,
+      "odds": 89.7,
+      "win_prob": 0.0042
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-23T05:09:08.087997+00:00",
+  "generated_at_unix": 1787461748,
+  "expires_at_unix": 1787465648,
+  "run_id": "32619395894",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "c418fe8d871a1e66",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-23T05:04:34.799050+00:00"
+  }
+}
