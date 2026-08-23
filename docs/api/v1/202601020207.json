@@ -1,0 +1,125 @@
+{
+  "race_id": "202601020207",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-23 13:25",
+  "race_time_unix": 1787459100,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-23",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106516",
+      "horse_name": "ミスターエメラルド",
+      "score": 0.0973857555828922,
+      "horse_number": 8,
+      "odds": 9.6,
+      "win_prob": 0.1899
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101484",
+      "horse_name": "リバーソニック",
+      "score": -0.08939391425720726,
+      "horse_number": 4,
+      "odds": 7.3,
+      "win_prob": 0.158
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022102300",
+      "horse_name": "アスクガンバーレ",
+      "score": -0.1340610188378919,
+      "horse_number": 7,
+      "odds": 3.7,
+      "win_prob": 0.1512
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106566",
+      "horse_name": "ダイシンレアレア",
+      "score": -0.14772959636873834,
+      "horse_number": 10,
+      "odds": 5.1,
+      "win_prob": 0.1491
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101255",
+      "horse_name": "ステイアンビシャス",
+      "score": -0.2632314346853318,
+      "horse_number": 9,
+      "odds": 6.2,
+      "win_prob": 0.1331
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104691",
+      "horse_name": "トライゴーニック",
+      "score": -1.104208679256648,
+      "horse_number": 6,
+      "odds": 7.7,
+      "win_prob": 0.058
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022103156",
+      "horse_name": "タイキフィアリーベ",
+      "score": -1.2333910404200263,
+      "horse_number": 3,
+      "odds": 18.2,
+      "win_prob": 0.0511
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102383",
+      "horse_name": "ニヒトツーゼーア",
+      "score": -1.4151860693639706,
+      "horse_number": 5,
+      "odds": 7.9,
+      "win_prob": 0.0427
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106180",
+      "horse_name": "シーリュウシー",
+      "score": -1.9222673451747359,
+      "horse_number": 1,
+      "odds": 27.9,
+      "win_prob": 0.0259
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105506",
+      "horse_name": "シドニーホバート",
+      "score": -2.0799907446186046,
+      "horse_number": 2,
+      "odds": 51.6,
+      "win_prob": 0.0222
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021102494",
+      "horse_name": "ブーケドグレイス",
+      "score": -2.2462168148093404,
+      "horse_number": 11,
+      "odds": 42.4,
+      "win_prob": 0.0188
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-23T04:14:49.938168+00:00",
+  "generated_at_unix": 1787458489,
+  "expires_at_unix": 1787462389,
+  "run_id": "32617201218",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "5ef26c8581c7c4eb",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-23T04:11:24.757196+00:00"
+  }
+}
