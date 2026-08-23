@@ -1,0 +1,170 @@
+{
+  "race_id": "202601020204",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-23 11:30",
+  "race_time_unix": 1787452200,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-23",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023110076",
+      "horse_name": "リアララ",
+      "score": 0.9866821995272211,
+      "horse_number": 8,
+      "odds": 2.3,
+      "win_prob": 0.2308
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105670",
+      "horse_name": "レッドアイスピア",
+      "score": 0.45303439781951516,
+      "horse_number": 12,
+      "odds": 8.4,
+      "win_prob": 0.1364
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106567",
+      "horse_name": "メイショウテンジン",
+      "score": 0.395252722947402,
+      "horse_number": 5,
+      "odds": 14.1,
+      "win_prob": 0.1288
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106879",
+      "horse_name": "アドマイヤパープル",
+      "score": 0.26235650683253725,
+      "horse_number": 16,
+      "odds": 11.4,
+      "win_prob": 0.113
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102408",
+      "horse_name": "リネアベルタ",
+      "score": 0.11185829521852221,
+      "horse_number": 10,
+      "odds": 18.1,
+      "win_prob": 0.0974
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104685",
+      "horse_name": "ロジスカヤ",
+      "score": -0.2045269186572065,
+      "horse_number": 3,
+      "odds": 17.6,
+      "win_prob": 0.0713
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100473",
+      "horse_name": "ファイティンアスク",
+      "score": -0.7225228598449001,
+      "horse_number": 6,
+      "odds": 25.6,
+      "win_prob": 0.0428
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023110026",
+      "horse_name": "スカイピア",
+      "score": -0.8260444458178141,
+      "horse_number": 4,
+      "odds": 10.2,
+      "win_prob": 0.0386
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101227",
+      "horse_name": "チャーミングアイ",
+      "score": -1.0826940112013332,
+      "horse_number": 14,
+      "odds": 25.9,
+      "win_prob": 0.03
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023104977",
+      "horse_name": "ニットウエース",
+      "score": -1.3439158666193536,
+      "horse_number": 11,
+      "odds": 96.4,
+      "win_prob": 0.0232
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100276",
+      "horse_name": "ヴェンデボヌール",
+      "score": -1.3645551508013507,
+      "horse_number": 9,
+      "odds": 13.4,
+      "win_prob": 0.0227
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023101092",
+      "horse_name": "ブレッティレディ",
+      "score": -1.5847351042040778,
+      "horse_number": 2,
+      "odds": 12.0,
+      "win_prob": 0.0183
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102611",
+      "horse_name": "ドンレミラピュセル",
+      "score": -1.7897765420074478,
+      "horse_number": 1,
+      "odds": 44.4,
+      "win_prob": 0.0149
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106990",
+      "horse_name": "ゲフィオン",
+      "score": -1.9617105288068235,
+      "horse_number": 13,
+      "odds": 30.0,
+      "win_prob": 0.0126
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102801",
+      "horse_name": "ユーベルジーク",
+      "score": -2.0578088486565593,
+      "horse_number": 7,
+      "odds": 53.0,
+      "win_prob": 0.0115
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023101867",
+      "horse_name": "ウォーターブビンガ",
+      "score": -2.4264284594745984,
+      "horse_number": 15,
+      "odds": 77.3,
+      "win_prob": 0.008
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-23T01:50:44.693411+00:00",
+  "generated_at_unix": 1787449844,
+  "expires_at_unix": 1787453744,
+  "run_id": "32611123826",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "e89533ce6820d2fa",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-23T01:47:02.071861+00:00"
+  }
+}

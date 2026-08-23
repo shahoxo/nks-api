@@ -1,0 +1,107 @@
+{
+  "race_id": "202607030203",
+  "race_name": "2歳新馬",
+  "race_time": "2026-08-23 10:50",
+  "race_time_unix": 1787449800,
+  "race_place": "中京",
+  "for_race_date": "2026-08-23",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024100451",
+      "horse_name": "2024100451",
+      "score": -1.2236918778255603,
+      "horse_number": 3,
+      "odds": 4.0,
+      "win_prob": 0.2083
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024106517",
+      "horse_name": "2024106517",
+      "score": -1.284604546865154,
+      "horse_number": 7,
+      "odds": 6.4,
+      "win_prob": 0.1962
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024108319",
+      "horse_name": "2024108319",
+      "score": -1.5058784430368752,
+      "horse_number": 9,
+      "odds": 3.4,
+      "win_prob": 0.1577
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024103478",
+      "horse_name": "2024103478",
+      "score": -1.8714752358543463,
+      "horse_number": 4,
+      "odds": 6.7,
+      "win_prob": 0.11
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024103392",
+      "horse_name": "2024103392",
+      "score": -1.8836114845089589,
+      "horse_number": 2,
+      "odds": 15.9,
+      "win_prob": 0.1087
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024104829",
+      "horse_name": "2024104829",
+      "score": -1.9865105083990249,
+      "horse_number": 5,
+      "odds": 15.5,
+      "win_prob": 0.0982
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024100632",
+      "horse_name": "2024100632",
+      "score": -2.428272006230381,
+      "horse_number": 8,
+      "odds": 15.8,
+      "win_prob": 0.0635
+    },
+    {
+      "rank": 8,
+      "horse_id": "2024102992",
+      "horse_name": "2024102992",
+      "score": -3.2207576933549995,
+      "horse_number": 6,
+      "odds": 9.0,
+      "win_prob": 0.0291
+    },
+    {
+      "rank": 9,
+      "horse_id": "2024105355",
+      "horse_name": "2024105355",
+      "score": -3.2417616031578436,
+      "horse_number": 1,
+      "odds": 9.1,
+      "win_prob": 0.0285
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-23T01:50:44.693411+00:00",
+  "generated_at_unix": 1787449844,
+  "expires_at_unix": 1787453744,
+  "run_id": "32611123826",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "e89533ce6820d2fa",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-23T01:47:02.071861+00:00"
+  }
+}
