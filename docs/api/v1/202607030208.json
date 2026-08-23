@@ -1,0 +1,170 @@
+{
+  "race_id": "202607030208",
+  "race_name": "豊川特別",
+  "race_time": "2026-08-23 16:10",
+  "race_time_unix": 1787469000,
+  "race_place": "中京",
+  "for_race_date": "2026-08-23",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106321",
+      "horse_name": "アパレイユ",
+      "score": 0.45237180996241544,
+      "horse_number": 16,
+      "odds": 4.9,
+      "win_prob": 0.1681
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104805",
+      "horse_name": "オプティモ",
+      "score": 0.39129053742888326,
+      "horse_number": 3,
+      "odds": 9.7,
+      "win_prob": 0.1582
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101115",
+      "horse_name": "カーリキュー",
+      "score": 0.3415889877976689,
+      "horse_number": 11,
+      "odds": 7.4,
+      "win_prob": 0.1507
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104050",
+      "horse_name": "ゼンノフォトン",
+      "score": 0.19554411521513815,
+      "horse_number": 10,
+      "odds": 13.8,
+      "win_prob": 0.1305
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106786",
+      "horse_name": "ヴェルジーネ",
+      "score": -0.4335079032148674,
+      "horse_number": 2,
+      "odds": 3.5,
+      "win_prob": 0.0701
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101396",
+      "horse_name": "サンライズブレイク",
+      "score": -0.7278599126650325,
+      "horse_number": 5,
+      "odds": 12.7,
+      "win_prob": 0.0525
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106582",
+      "horse_name": "ケイアイマウンガ",
+      "score": -0.7324994948730249,
+      "horse_number": 12,
+      "odds": 16.7,
+      "win_prob": 0.0522
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107517",
+      "horse_name": "ジャスパーメルチェ",
+      "score": -0.9631835677047239,
+      "horse_number": 7,
+      "odds": 24.3,
+      "win_prob": 0.0416
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023106086",
+      "horse_name": "コマチチャン",
+      "score": -1.1791000183820428,
+      "horse_number": 13,
+      "odds": 18.4,
+      "win_prob": 0.0336
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023100126",
+      "horse_name": "ラッキーバック",
+      "score": -1.2847182501501846,
+      "horse_number": 8,
+      "odds": 15.2,
+      "win_prob": 0.0303
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022110113",
+      "horse_name": "ジャスパーノベル",
+      "score": -1.391861666289998,
+      "horse_number": 14,
+      "odds": 40.4,
+      "win_prob": 0.0273
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020103256",
+      "horse_name": "カフジキアッキエレ",
+      "score": -1.4204335480726866,
+      "horse_number": 15,
+      "odds": 40.4,
+      "win_prob": 0.0265
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105077",
+      "horse_name": "ワイルドブッター",
+      "score": -1.4638159920569547,
+      "horse_number": 4,
+      "odds": 19.0,
+      "win_prob": 0.0254
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100366",
+      "horse_name": "リトムテール",
+      "score": -2.086026402844282,
+      "horse_number": 1,
+      "odds": 79.6,
+      "win_prob": 0.0137
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102726",
+      "horse_name": "ベルピルエット",
+      "score": -2.428196864936352,
+      "horse_number": 9,
+      "odds": 35.4,
+      "win_prob": 0.0098
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022102756",
+      "horse_name": "オドラニャソンソン",
+      "score": -2.455338780793125,
+      "horse_number": 6,
+      "odds": 71.8,
+      "win_prob": 0.0095
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-23T06:59:57.381392+00:00",
+  "generated_at_unix": 1787468397,
+  "expires_at_unix": 1787472297,
+  "run_id": "32624142990",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "510a6d9b8cb1443b",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-23T06:55:43.026241+00:00"
+  }
+}

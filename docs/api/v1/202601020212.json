@@ -1,0 +1,152 @@
+{
+  "race_id": "202601020212",
+  "race_name": "WASJ4",
+  "race_time": "2026-08-23 16:20",
+  "race_time_unix": 1787469600,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-23",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104784",
+      "horse_name": "ルクスジニア",
+      "score": 1.3739689566099358,
+      "horse_number": 9,
+      "odds": 5.1,
+      "win_prob": 0.2307
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105317",
+      "horse_name": "ミーントゥビー",
+      "score": 1.0067166180743916,
+      "horse_number": 1,
+      "odds": 5.1,
+      "win_prob": 0.1606
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023100627",
+      "horse_name": "テルヒコウ",
+      "score": 0.7093371453520346,
+      "horse_number": 10,
+      "odds": 5.8,
+      "win_prob": 0.1197
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100840",
+      "horse_name": "ミリオンクラウン",
+      "score": 0.6249945387619736,
+      "horse_number": 12,
+      "odds": 8.0,
+      "win_prob": 0.1102
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106231",
+      "horse_name": "ウインベラーノ",
+      "score": 0.27012715590604375,
+      "horse_number": 8,
+      "odds": 11.6,
+      "win_prob": 0.0776
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022102745",
+      "horse_name": "ベネスピラ",
+      "score": 0.0473959220830011,
+      "horse_number": 7,
+      "odds": 12.3,
+      "win_prob": 0.0623
+    },
+    {
+      "rank": 7,
+      "horse_id": "2018103560",
+      "horse_name": "ワザモノ",
+      "score": -0.08339244175441154,
+      "horse_number": 14,
+      "odds": 10.8,
+      "win_prob": 0.0548
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100772",
+      "horse_name": "ストームサンダー",
+      "score": -0.38568723731557036,
+      "horse_number": 4,
+      "odds": 17.0,
+      "win_prob": 0.0407
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106772",
+      "horse_name": "バセリーナ",
+      "score": -0.6166317447804809,
+      "horse_number": 3,
+      "odds": 16.0,
+      "win_prob": 0.0324
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020105809",
+      "horse_name": "マイネルフォルツァ",
+      "score": -0.6620767791857853,
+      "horse_number": 2,
+      "odds": 27.2,
+      "win_prob": 0.031
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104978",
+      "horse_name": "マルカオペラ",
+      "score": -0.8925172923034461,
+      "horse_number": 6,
+      "odds": 12.5,
+      "win_prob": 0.0247
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106826",
+      "horse_name": "レッセパッセ",
+      "score": -0.9848874222965375,
+      "horse_number": 5,
+      "odds": 30.1,
+      "win_prob": 0.0225
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104605",
+      "horse_name": "ショウナンヤッホー",
+      "score": -1.1006770614388952,
+      "horse_number": 11,
+      "odds": 39.0,
+      "win_prob": 0.0201
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020101261",
+      "horse_name": "コスモスプモーニ",
+      "score": -1.5520407760564627,
+      "horse_number": 13,
+      "odds": 97.1,
+      "win_prob": 0.0129
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-23T06:59:57.381392+00:00",
+  "generated_at_unix": 1787468397,
+  "expires_at_unix": 1787472297,
+  "run_id": "32624142990",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "510a6d9b8cb1443b",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-23T06:55:43.026241+00:00"
+  }
+}
