@@ -1,0 +1,134 @@
+{
+  "race_id": "202604030210",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-23 17:10",
+  "race_time_unix": 1787472600,
+  "race_place": "新潟",
+  "for_race_date": "2026-08-23",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105338",
+      "horse_name": "リポサンテ",
+      "score": 1.58650767627229,
+      "horse_number": 4,
+      "odds": 2.5,
+      "win_prob": 0.2933
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107032",
+      "horse_name": "イモータリス",
+      "score": 1.2060661252094618,
+      "horse_number": 11,
+      "odds": 15.0,
+      "win_prob": 0.2015
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104875",
+      "horse_name": "オルグジェシダ",
+      "score": 1.0429697909350606,
+      "horse_number": 3,
+      "odds": 4.4,
+      "win_prob": 0.1716
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103749",
+      "horse_name": "ルーリングクラス",
+      "score": 0.14064520546799886,
+      "horse_number": 6,
+      "odds": 10.8,
+      "win_prob": 0.0704
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105433",
+      "horse_name": "モウエエデショー",
+      "score": 0.11706869203645558,
+      "horse_number": 5,
+      "odds": 13.1,
+      "win_prob": 0.0688
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104684",
+      "horse_name": "ウィンスタンリー",
+      "score": -0.24734897139507045,
+      "horse_number": 7,
+      "odds": 11.8,
+      "win_prob": 0.048
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106811",
+      "horse_name": "マイネルモメンタム",
+      "score": -0.37561983314177977,
+      "horse_number": 10,
+      "odds": 9.4,
+      "win_prob": 0.0423
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107047",
+      "horse_name": "ラヴィニール",
+      "score": -0.3871329903400714,
+      "horse_number": 9,
+      "odds": 10.8,
+      "win_prob": 0.0419
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104362",
+      "horse_name": "キョウエイグッド",
+      "score": -0.7936852794008659,
+      "horse_number": 12,
+      "odds": 28.7,
+      "win_prob": 0.028
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105191",
+      "horse_name": "スペードギニー",
+      "score": -0.927364179665128,
+      "horse_number": 8,
+      "odds": 17.8,
+      "win_prob": 0.0246
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020102552",
+      "horse_name": "クラウドセイル",
+      "score": -2.2053814061644754,
+      "horse_number": 2,
+      "odds": 73.3,
+      "win_prob": 0.007
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022102141",
+      "horse_name": "モルゲンゾンネ",
+      "score": -3.182824898311646,
+      "horse_number": 1,
+      "odds": 83.3,
+      "win_prob": 0.0027
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-23T07:42:37.291652+00:00",
+  "generated_at_unix": 1787470957,
+  "expires_at_unix": 1787474857,
+  "run_id": "32626088237",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "09fa6f57bab020ac",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-23T07:39:18.211386+00:00"
+  }
+}

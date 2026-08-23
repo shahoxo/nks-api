@@ -1,0 +1,152 @@
+{
+  "race_id": "202607030210",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-08-23 17:20",
+  "race_time_unix": 1787473200,
+  "race_place": "中京",
+  "for_race_date": "2026-08-23",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103284",
+      "horse_name": "メイショウナナシロ",
+      "score": -0.31638384941627085,
+      "horse_number": 12,
+      "odds": 1.7,
+      "win_prob": 0.2383
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103904",
+      "horse_name": "アビル",
+      "score": -0.562573863320022,
+      "horse_number": 13,
+      "odds": 5.3,
+      "win_prob": 0.1869
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103248",
+      "horse_name": "ラミエルノムスコ",
+      "score": -0.8227832804641447,
+      "horse_number": 11,
+      "odds": 11.0,
+      "win_prob": 0.1446
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103395",
+      "horse_name": "ボクサークラブ",
+      "score": -1.2720446895819704,
+      "horse_number": 10,
+      "odds": 15.6,
+      "win_prob": 0.0928
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103419",
+      "horse_name": "ギレイ",
+      "score": -1.573772888771768,
+      "horse_number": 2,
+      "odds": 22.8,
+      "win_prob": 0.0689
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100430",
+      "horse_name": "ロードファイター",
+      "score": -1.6979770764895914,
+      "horse_number": 6,
+      "odds": 13.9,
+      "win_prob": 0.061
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103703",
+      "horse_name": "アルダ",
+      "score": -2.0292314906443276,
+      "horse_number": 3,
+      "odds": 17.9,
+      "win_prob": 0.044
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107528",
+      "horse_name": "ブクブクー",
+      "score": -2.2365366218721783,
+      "horse_number": 14,
+      "odds": 26.0,
+      "win_prob": 0.0359
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102561",
+      "horse_name": "サラサキングスター",
+      "score": -2.2800704439853385,
+      "horse_number": 9,
+      "odds": 72.4,
+      "win_prob": 0.0343
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105010",
+      "horse_name": "サトノディヴァイン",
+      "score": -2.409187574434747,
+      "horse_number": 4,
+      "odds": 22.4,
+      "win_prob": 0.0302
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023110009",
+      "horse_name": "エクスマウス",
+      "score": -2.6756355249690893,
+      "horse_number": 5,
+      "odds": 24.7,
+      "win_prob": 0.0232
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102898",
+      "horse_name": "ドリームゴーズオン",
+      "score": -2.8191710809282085,
+      "horse_number": 1,
+      "odds": 70.3,
+      "win_prob": 0.0202
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105030",
+      "horse_name": "セキゾウ",
+      "score": -2.9886791133470827,
+      "horse_number": 8,
+      "odds": 83.1,
+      "win_prob": 0.0171
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023101990",
+      "horse_name": "グランセンチュリ",
+      "score": -4.955162658231561,
+      "horse_number": 7,
+      "odds": 114.9,
+      "win_prob": 0.0025
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-23T07:42:37.291652+00:00",
+  "generated_at_unix": 1787470957,
+  "expires_at_unix": 1787474857,
+  "run_id": "32626088237",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260822_061606",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4902160e2cc782ba"
+  },
+  "data": {
+    "snapshot_id": "09fa6f57bab020ac",
+    "base_snapshot_id": "af5aa9d10bfec3e1",
+    "snapshot_created_at": "2026-08-23T07:39:18.211386+00:00"
+  }
+}
