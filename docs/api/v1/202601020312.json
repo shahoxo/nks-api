@@ -1,0 +1,134 @@
+{
+  "race_id": "202601020312",
+  "race_name": "千歳特別",
+  "race_time": "2026-08-29 16:01",
+  "race_time_unix": 1787986860,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-29",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023102455",
+      "horse_name": "オンザムービー",
+      "score": 1.6096572256407695,
+      "horse_number": 10,
+      "odds": 1.3,
+      "win_prob": 0.2419
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104324",
+      "horse_name": "タガノエルー",
+      "score": 1.3496437838854063,
+      "horse_number": 11,
+      "odds": 7.5,
+      "win_prob": 0.1863
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103696",
+      "horse_name": "マーゴットサンズ",
+      "score": 1.0757175509487498,
+      "horse_number": 9,
+      "odds": 7.2,
+      "win_prob": 0.1414
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022102905",
+      "horse_name": "ディアウス",
+      "score": 1.042570816106924,
+      "horse_number": 3,
+      "odds": 14.0,
+      "win_prob": 0.1368
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102409",
+      "horse_name": "ホレーショ",
+      "score": 0.8064268229515742,
+      "horse_number": 5,
+      "odds": 23.6,
+      "win_prob": 0.1079
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021103002",
+      "horse_name": "アラナコア",
+      "score": 0.12353091422141663,
+      "horse_number": 4,
+      "odds": 21.3,
+      "win_prob": 0.0543
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100321",
+      "horse_name": "リメンバーヒム",
+      "score": 0.004739457783453181,
+      "horse_number": 7,
+      "odds": 60.9,
+      "win_prob": 0.0482
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022107254",
+      "horse_name": "エンプレスフレーム",
+      "score": -0.574104576445027,
+      "horse_number": 1,
+      "odds": 97.9,
+      "win_prob": 0.0269
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105569",
+      "horse_name": "ルージュマローネ",
+      "score": -0.8790081742615873,
+      "horse_number": 2,
+      "odds": 61.6,
+      "win_prob": 0.0198
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102347",
+      "horse_name": "シャンハイナイト",
+      "score": -1.244404215998493,
+      "horse_number": 12,
+      "odds": 30.7,
+      "win_prob": 0.0137
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106851",
+      "horse_name": "レディゴディヴァ",
+      "score": -1.4194699453329742,
+      "horse_number": 6,
+      "odds": 109.9,
+      "win_prob": 0.0115
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103288",
+      "horse_name": "ヤコブセン",
+      "score": -1.4383660584827798,
+      "horse_number": 8,
+      "odds": 87.1,
+      "win_prob": 0.0113
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-29T06:44:48.743875+00:00",
+  "generated_at_unix": 1787985888,
+  "expires_at_unix": 1787989788,
+  "run_id": "33238976183",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260828_183446",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "b9d591c15738beb8"
+  },
+  "data": {
+    "snapshot_id": "c1c758ed3835c36b",
+    "base_snapshot_id": "466be6b86c618477",
+    "snapshot_created_at": "2026-08-29T06:40:24.338409+00:00"
+  }
+}

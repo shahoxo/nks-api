@@ -1,0 +1,143 @@
+{
+  "race_id": "202604030309",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-29 16:25",
+  "race_time_unix": 1787988300,
+  "race_place": "新潟",
+  "for_race_date": "2026-08-29",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023107013",
+      "horse_name": "ランブルスコ",
+      "score": 1.6738325611555682,
+      "horse_number": 11,
+      "odds": 4.3,
+      "win_prob": 0.3943
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107093",
+      "horse_name": "ゴンファロニエーレ",
+      "score": 0.6731362343449693,
+      "horse_number": 8,
+      "odds": 5.5,
+      "win_prob": 0.1442
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105365",
+      "horse_name": "オプレントジュエル",
+      "score": 0.5878629572083106,
+      "horse_number": 6,
+      "odds": 15.8,
+      "win_prob": 0.1323
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103471",
+      "horse_name": "プレイザリード",
+      "score": 0.3791846267011187,
+      "horse_number": 2,
+      "odds": 3.2,
+      "win_prob": 0.1073
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104485",
+      "horse_name": "マイネルリーヒム",
+      "score": 0.01918115627755051,
+      "horse_number": 13,
+      "odds": 8.0,
+      "win_prob": 0.0747
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103308",
+      "horse_name": "ミッドセンチュリー",
+      "score": -0.14009157013446719,
+      "horse_number": 7,
+      "odds": 11.0,
+      "win_prob": 0.0636
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019105490",
+      "horse_name": "ディーンズリスター",
+      "score": -0.5553272287323184,
+      "horse_number": 3,
+      "odds": 7.6,
+      "win_prob": 0.0419
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021101088",
+      "horse_name": "テイキットイージー",
+      "score": -1.3569486653640312,
+      "horse_number": 12,
+      "odds": 29.9,
+      "win_prob": 0.0187
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019105076",
+      "horse_name": "フォーグッド",
+      "score": -1.7944186057299192,
+      "horse_number": 10,
+      "odds": 23.0,
+      "win_prob": 0.0121
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102336",
+      "horse_name": "ダンシングアウェイ",
+      "score": -2.730851715805885,
+      "horse_number": 1,
+      "odds": 63.3,
+      "win_prob": 0.0047
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101495",
+      "horse_name": "シャインフリーリー",
+      "score": -2.830881908426384,
+      "horse_number": 4,
+      "odds": 122.5,
+      "win_prob": 0.0043
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021101166",
+      "horse_name": "ノーマジック",
+      "score": -4.038803498710715,
+      "horse_number": 5,
+      "odds": 118.5,
+      "win_prob": 0.0013
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105461",
+      "horse_name": "コウセイケンタロス",
+      "score": -4.561248413961064,
+      "horse_number": 9,
+      "odds": 82.7,
+      "win_prob": 0.0007
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-29T06:44:48.743875+00:00",
+  "generated_at_unix": 1787985888,
+  "expires_at_unix": 1787989788,
+  "run_id": "33238976183",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260828_183446",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "b9d591c15738beb8"
+  },
+  "data": {
+    "snapshot_id": "c1c758ed3835c36b",
+    "base_snapshot_id": "466be6b86c618477",
+    "snapshot_created_at": "2026-08-29T06:40:24.338409+00:00"
+  }
+}

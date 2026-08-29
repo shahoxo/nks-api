@@ -1,0 +1,152 @@
+{
+  "race_id": "202607030308",
+  "race_name": "桑名特別",
+  "race_time": "2026-08-29 16:10",
+  "race_time_unix": 1787987400,
+  "race_place": "中京",
+  "for_race_date": "2026-08-29",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106431",
+      "horse_name": "トライアンフパス",
+      "score": 1.321889650635713,
+      "horse_number": 6,
+      "odds": 6.0,
+      "win_prob": 0.1916
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102153",
+      "horse_name": "ダガーリング",
+      "score": 1.2538834127596015,
+      "horse_number": 14,
+      "odds": 2.7,
+      "win_prob": 0.1789
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104647",
+      "horse_name": "エーデルヴェーグ",
+      "score": 1.1800629532067937,
+      "horse_number": 9,
+      "odds": 6.6,
+      "win_prob": 0.1661
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104180",
+      "horse_name": "ワンコールアウェイ",
+      "score": 0.8262154298793976,
+      "horse_number": 10,
+      "odds": 12.2,
+      "win_prob": 0.1164
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100642",
+      "horse_name": "キャッスルレイク",
+      "score": 0.5342969708476283,
+      "horse_number": 8,
+      "odds": 10.1,
+      "win_prob": 0.0868
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105584",
+      "horse_name": "ツーネサーン",
+      "score": 0.4429374248183606,
+      "horse_number": 2,
+      "odds": 12.8,
+      "win_prob": 0.0792
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021105659",
+      "horse_name": "アムールリーベ",
+      "score": -0.20172391478905002,
+      "horse_number": 4,
+      "odds": 9.3,
+      "win_prob": 0.0414
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104121",
+      "horse_name": "カウンティフェア",
+      "score": -0.4134010805163775,
+      "horse_number": 1,
+      "odds": 24.5,
+      "win_prob": 0.0335
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022104597",
+      "horse_name": "モンテディアーナ",
+      "score": -0.622567565159819,
+      "horse_number": 13,
+      "odds": 47.5,
+      "win_prob": 0.0271
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020105299",
+      "horse_name": "リアライズ",
+      "score": -0.7143455474926719,
+      "horse_number": 7,
+      "odds": 14.6,
+      "win_prob": 0.0247
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021105540",
+      "horse_name": "サロニコス",
+      "score": -0.7211187586074119,
+      "horse_number": 3,
+      "odds": 29.1,
+      "win_prob": 0.0246
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019106280",
+      "horse_name": "サクラオーラ",
+      "score": -1.1220945436349512,
+      "horse_number": 5,
+      "odds": 48.0,
+      "win_prob": 0.0164
+    },
+    {
+      "rank": 13,
+      "horse_id": "2018104534",
+      "horse_name": "アスクキングコング",
+      "score": -1.6523582964733914,
+      "horse_number": 11,
+      "odds": 58.2,
+      "win_prob": 0.0096
+    },
+    {
+      "rank": 14,
+      "horse_id": "2018103473",
+      "horse_name": "サヴァビアン",
+      "score": -2.6250264101942724,
+      "horse_number": 12,
+      "odds": 147.5,
+      "win_prob": 0.0036
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-29T06:44:48.743875+00:00",
+  "generated_at_unix": 1787985888,
+  "expires_at_unix": 1787989788,
+  "run_id": "33238976183",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260828_183446",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "b9d591c15738beb8"
+  },
+  "data": {
+    "snapshot_id": "c1c758ed3835c36b",
+    "base_snapshot_id": "466be6b86c618477",
+    "snapshot_created_at": "2026-08-29T06:40:24.338409+00:00"
+  }
+}
