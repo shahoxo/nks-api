@@ -1,0 +1,161 @@
+{
+  "race_id": "202604030406",
+  "race_name": "両津湾特別",
+  "race_time": "2026-08-30 14:35",
+  "race_time_unix": 1788068100,
+  "race_place": "新潟",
+  "for_race_date": "2026-08-30",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106494",
+      "horse_name": "ビービーアジャイル",
+      "score": 2.6119085348978954,
+      "horse_number": 2,
+      "odds": 1.9,
+      "win_prob": 0.5134
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100704",
+      "horse_name": "スターシップ",
+      "score": 1.4342880418159163,
+      "horse_number": 8,
+      "odds": 11.0,
+      "win_prob": 0.1571
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103962",
+      "horse_name": "オクトーバーナイン",
+      "score": 1.0289369554023295,
+      "horse_number": 3,
+      "odds": 5.9,
+      "win_prob": 0.1045
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106427",
+      "horse_name": "ニシノケンタマン",
+      "score": 0.3326618433132147,
+      "horse_number": 4,
+      "odds": 8.1,
+      "win_prob": 0.0519
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106711",
+      "horse_name": "ヴァイヴァーイ",
+      "score": 0.12000816587710057,
+      "horse_number": 9,
+      "odds": 14.1,
+      "win_prob": 0.0419
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100526",
+      "horse_name": "コスモコンフェルマ",
+      "score": -0.3004922116821775,
+      "horse_number": 14,
+      "odds": 15.3,
+      "win_prob": 0.0274
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021101554",
+      "horse_name": "アルベリック",
+      "score": -0.43545699272998517,
+      "horse_number": 6,
+      "odds": 40.4,
+      "win_prob": 0.024
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101716",
+      "horse_name": "ピコシー",
+      "score": -0.584193678204993,
+      "horse_number": 1,
+      "odds": 28.1,
+      "win_prob": 0.0206
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102700",
+      "horse_name": "トゥーザムーン",
+      "score": -0.8614346102948421,
+      "horse_number": 7,
+      "odds": 17.8,
+      "win_prob": 0.0156
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021102219",
+      "horse_name": "コパノエビータ",
+      "score": -1.106165718164452,
+      "horse_number": 5,
+      "odds": 120.6,
+      "win_prob": 0.0122
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021101733",
+      "horse_name": "クロドラバール",
+      "score": -1.433315535256445,
+      "horse_number": 13,
+      "odds": 74.4,
+      "win_prob": 0.0088
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106618",
+      "horse_name": "マハナ",
+      "score": -1.6351364889019766,
+      "horse_number": 12,
+      "odds": 92.5,
+      "win_prob": 0.0072
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021105971",
+      "horse_name": "フラッシング",
+      "score": -1.6978518884915266,
+      "horse_number": 10,
+      "odds": 55.2,
+      "win_prob": 0.0067
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022101476",
+      "horse_name": "2022101476",
+      "score": -2.0110499250910485,
+      "horse_number": 11,
+      "odds": 69.3,
+      "win_prob": 0.0049
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020102711",
+      "horse_name": "ノルドヴェスト",
+      "score": -2.273499163370097,
+      "horse_number": 15,
+      "odds": 40.2,
+      "win_prob": 0.0038
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-30T04:56:57.972429+00:00",
+  "generated_at_unix": 1788065817,
+  "expires_at_unix": 1788069717,
+  "run_id": "33293433941",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260828_183446",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "b9d591c15738beb8"
+  },
+  "data": {
+    "snapshot_id": "e20c77d9f0ea97d6",
+    "base_snapshot_id": "466be6b86c618477",
+    "snapshot_created_at": "2026-08-30T04:52:59.615063+00:00"
+  }
+}

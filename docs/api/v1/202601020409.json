@@ -1,0 +1,125 @@
+{
+  "race_id": "202601020409",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-08-30 14:20",
+  "race_time_unix": 1788067200,
+  "race_place": "札幌",
+  "for_race_date": "2026-08-30",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101445",
+      "horse_name": "マテンロウカナロア",
+      "score": -0.2815623455109025,
+      "horse_number": 1,
+      "odds": 10.2,
+      "win_prob": 0.1902
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102263",
+      "horse_name": "ステラデルークス",
+      "score": -0.33188958502671684,
+      "horse_number": 4,
+      "odds": 7.8,
+      "win_prob": 0.1808
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021100303",
+      "horse_name": "ブリオメンテ",
+      "score": -0.5623553612656867,
+      "horse_number": 10,
+      "odds": 3.4,
+      "win_prob": 0.1434
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104603",
+      "horse_name": "チェイサー",
+      "score": -0.7183653297978229,
+      "horse_number": 9,
+      "odds": 4.0,
+      "win_prob": 0.1226
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104729",
+      "horse_name": "サマーナイト",
+      "score": -0.8465475434770247,
+      "horse_number": 8,
+      "odds": 4.1,
+      "win_prob": 0.1077
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105772",
+      "horse_name": "ホウオウバローロ",
+      "score": -1.3397971279605192,
+      "horse_number": 5,
+      "odds": 10.3,
+      "win_prob": 0.0656
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101713",
+      "horse_name": "イサギ",
+      "score": -1.438265118499881,
+      "horse_number": 7,
+      "odds": 31.5,
+      "win_prob": 0.0594
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105405",
+      "horse_name": "フクシマブリルハム",
+      "score": -1.6683401041283343,
+      "horse_number": 3,
+      "odds": 25.7,
+      "win_prob": 0.0472
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101362",
+      "horse_name": "デルマホダカ",
+      "score": -1.8693587650501255,
+      "horse_number": 6,
+      "odds": 52.5,
+      "win_prob": 0.0385
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102961",
+      "horse_name": "シックスパック",
+      "score": -1.9412365145880388,
+      "horse_number": 11,
+      "odds": 23.9,
+      "win_prob": 0.0358
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021104052",
+      "horse_name": "ウヌボレヤサン",
+      "score": -3.3426716863658115,
+      "horse_number": 2,
+      "odds": 38.2,
+      "win_prob": 0.0088
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-08-30T04:56:57.972429+00:00",
+  "generated_at_unix": 1788065817,
+  "expires_at_unix": 1788069717,
+  "run_id": "33293433941",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260828_183446",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "b9d591c15738beb8"
+  },
+  "data": {
+    "snapshot_id": "e20c77d9f0ea97d6",
+    "base_snapshot_id": "466be6b86c618477",
+    "snapshot_created_at": "2026-08-30T04:52:59.615063+00:00"
+  }
+}
