@@ -12,7 +12,7 @@
       "horse_name": "2024108315",
       "score": -1.2590373008519362,
       "horse_number": 10,
-      "odds": 2.1,
+      "odds": 1.6,
       "win_prob": 0.2036
     },
     {
@@ -21,7 +21,7 @@
       "horse_name": "2024100454",
       "score": -1.512316779300343,
       "horse_number": 5,
-      "odds": 8.2,
+      "odds": 6.0,
       "win_prob": 0.1578
     },
     {
@@ -30,7 +30,7 @@
       "horse_name": "2024102190",
       "score": -1.6626396898472218,
       "horse_number": 14,
-      "odds": 16.5,
+      "odds": 11.7,
       "win_prob": 0.1357
     },
     {
@@ -39,7 +39,7 @@
       "horse_name": "2024106196",
       "score": -2.120631359163414,
       "horse_number": 8,
-      "odds": 11.0,
+      "odds": 24.0,
       "win_prob": 0.0856
     },
     {
@@ -48,7 +48,7 @@
       "horse_name": "2024101356",
       "score": -2.2102697704481447,
       "horse_number": 6,
-      "odds": 37.6,
+      "odds": 62.6,
       "win_prob": 0.0782
     },
     {
@@ -57,7 +57,7 @@
       "horse_name": "2024100423",
       "score": -2.2247723319091928,
       "horse_number": 13,
-      "odds": 13.7,
+      "odds": 15.5,
       "win_prob": 0.0771
     },
     {
@@ -66,7 +66,7 @@
       "horse_name": "2024102784",
       "score": -2.6205616275853956,
       "horse_number": 7,
-      "odds": 27.5,
+      "odds": 59.2,
       "win_prob": 0.0518
     },
     {
@@ -75,7 +75,7 @@
       "horse_name": "2024104214",
       "score": -2.674450578908553,
       "horse_number": 4,
-      "odds": 74.0,
+      "odds": 152.8,
       "win_prob": 0.049
     },
     {
@@ -84,7 +84,7 @@
       "horse_name": "2024105970",
       "score": -2.760693138077577,
       "horse_number": 1,
-      "odds": 4.3,
+      "odds": 5.2,
       "win_prob": 0.045
     },
     {
@@ -93,7 +93,7 @@
       "horse_name": "2024105198",
       "score": -3.0264498565316327,
       "horse_number": 11,
-      "odds": 23.0,
+      "odds": 41.1,
       "win_prob": 0.0344
     },
     {
@@ -102,7 +102,7 @@
       "horse_name": "2024106780",
       "score": -3.445585710379779,
       "horse_number": 12,
-      "odds": 44.7,
+      "odds": 80.2,
       "win_prob": 0.0226
     },
     {
@@ -111,7 +111,7 @@
       "horse_name": "2024102462",
       "score": -3.4471719706359427,
       "horse_number": 3,
-      "odds": 73.5,
+      "odds": 113.6,
       "win_prob": 0.0225
     },
     {
@@ -120,7 +120,7 @@
       "horse_name": "2024103928",
       "score": -3.5251420464406684,
       "horse_number": 2,
-      "odds": 41.4,
+      "odds": 101.2,
       "win_prob": 0.0208
     },
     {
@@ -129,15 +129,15 @@
       "horse_name": "2024107136",
       "score": -3.7978685045012486,
       "horse_number": 9,
-      "odds": 41.2,
+      "odds": 80.1,
       "win_prob": 0.0158
     }
   ],
   "schema_version": 1,
-  "generated_at": "2026-09-05T03:39:17.629604+00:00",
-  "generated_at_unix": 1788579557,
-  "expires_at_unix": 1788583457,
-  "run_id": "33942153425",
+  "generated_at": "2026-09-05T04:00:48.729388+00:00",
+  "generated_at_unix": 1788580848,
+  "expires_at_unix": 1788584748,
+  "run_id": "33943175373",
   "model": {
     "bundle": "bundle_weekly",
     "trained_at": "20260904_110752",
@@ -145,8 +145,8 @@
     "model_sha256": "b9d591c15738beb8"
   },
   "data": {
-    "snapshot_id": "83b0b6949eacc8b2",
+    "snapshot_id": "5596f60111ee844f",
     "base_snapshot_id": "b355f0c25486416b",
-    "snapshot_created_at": "2026-09-05T03:34:37.169373+00:00"
+    "snapshot_created_at": "2026-09-05T03:57:16.802508+00:00"
   }
 }

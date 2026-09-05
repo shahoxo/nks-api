@@ -1,0 +1,143 @@
+{
+  "race_id": "202601020508",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-09-05 13:40",
+  "race_time_unix": 1788583200,
+  "race_place": "札幌",
+  "for_race_date": "2026-09-05",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103441",
+      "horse_name": "レッドフロイデ",
+      "score": 0.6087033956146721,
+      "horse_number": 3,
+      "odds": 5.9,
+      "win_prob": 0.2041
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105032",
+      "horse_name": "メイショウコシュウ",
+      "score": 0.39416810599991065,
+      "horse_number": 1,
+      "odds": 11.5,
+      "win_prob": 0.1645
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101684",
+      "horse_name": "ミスティマウンテン",
+      "score": 0.0948380803804954,
+      "horse_number": 11,
+      "odds": 4.9,
+      "win_prob": 0.1217
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105215",
+      "horse_name": "リテラシー",
+      "score": -0.10934654628952241,
+      "horse_number": 2,
+      "odds": 0.0,
+      "win_prob": 0.0991
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105381",
+      "horse_name": "ハイライトニング",
+      "score": -0.13357184851137083,
+      "horse_number": 4,
+      "odds": 4.5,
+      "win_prob": 0.0967
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107194",
+      "horse_name": "ブランヴァンダイク",
+      "score": -0.28480443796233335,
+      "horse_number": 13,
+      "odds": 20.9,
+      "win_prob": 0.0831
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100715",
+      "horse_name": "ピエナオルカ",
+      "score": -0.48303202002784595,
+      "horse_number": 10,
+      "odds": 14.6,
+      "win_prob": 0.0681
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103037",
+      "horse_name": "デリシュー",
+      "score": -0.7451430827372598,
+      "horse_number": 6,
+      "odds": 34.0,
+      "win_prob": 0.0523
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102378",
+      "horse_name": "ファンタイムギフト",
+      "score": -1.069654249807476,
+      "horse_number": 8,
+      "odds": 27.2,
+      "win_prob": 0.0377
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103594",
+      "horse_name": "ノースミソロジー",
+      "score": -1.3534464421023689,
+      "horse_number": 12,
+      "odds": 36.5,
+      "win_prob": 0.0284
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103168",
+      "horse_name": "ベルアズーロ",
+      "score": -1.3879728713020203,
+      "horse_number": 7,
+      "odds": 3.0,
+      "win_prob": 0.0274
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106595",
+      "horse_name": "アイムスティルミー",
+      "score": -2.3232933012696946,
+      "horse_number": 9,
+      "odds": 160.1,
+      "win_prob": 0.0107
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103235",
+      "horse_name": "カフェブーケット",
+      "score": -2.8615972153257583,
+      "horse_number": 5,
+      "odds": 38.0,
+      "win_prob": 0.0062
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-05T04:00:48.729388+00:00",
+  "generated_at_unix": 1788580848,
+  "expires_at_unix": 1788584748,
+  "run_id": "33943175373",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260904_110752",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "b9d591c15738beb8"
+  },
+  "data": {
+    "snapshot_id": "5596f60111ee844f",
+    "base_snapshot_id": "b355f0c25486416b",
+    "snapshot_created_at": "2026-09-05T03:57:16.802508+00:00"
+  }
+}
