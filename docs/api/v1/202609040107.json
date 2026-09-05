@@ -1,0 +1,170 @@
+{
+  "race_id": "202609040107",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-09-05 13:20",
+  "race_time_unix": 1788582000,
+  "race_place": "阪神",
+  "for_race_date": "2026-09-05",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103836",
+      "horse_name": "フロムレイブン",
+      "score": 1.4836883678607329,
+      "horse_number": 16,
+      "odds": 4.0,
+      "win_prob": 0.3322
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107269",
+      "horse_name": "ムーンリットアイル",
+      "score": 0.6512116970928127,
+      "horse_number": 4,
+      "odds": 5.3,
+      "win_prob": 0.1438
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101414",
+      "horse_name": "ベルファスト",
+      "score": 0.48672606123345685,
+      "horse_number": 7,
+      "odds": 5.0,
+      "win_prob": 0.1219
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104901",
+      "horse_name": "モルティフレーバー",
+      "score": 0.3098271047447663,
+      "horse_number": 2,
+      "odds": 9.8,
+      "win_prob": 0.102
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023101632",
+      "horse_name": "マーゴットミスト",
+      "score": 0.28849345382546504,
+      "horse_number": 14,
+      "odds": 10.7,
+      "win_prob": 0.0999
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104703",
+      "horse_name": "ニシノトリビュート",
+      "score": -0.3698601241378445,
+      "horse_number": 5,
+      "odds": 10.6,
+      "win_prob": 0.0515
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023100631",
+      "horse_name": "ワイドシュテルケ",
+      "score": -1.076837280414329,
+      "horse_number": 6,
+      "odds": 7.5,
+      "win_prob": 0.0253
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020103261",
+      "horse_name": "アウクソー",
+      "score": -1.2219305622694634,
+      "horse_number": 8,
+      "odds": 61.7,
+      "win_prob": 0.0219
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022110128",
+      "horse_name": "エコロヴァイス",
+      "score": -1.4135614963318788,
+      "horse_number": 12,
+      "odds": 41.0,
+      "win_prob": 0.018
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102122",
+      "horse_name": "モズレイラココナ",
+      "score": -1.4959153384193236,
+      "horse_number": 11,
+      "odds": 37.3,
+      "win_prob": 0.0166
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106985",
+      "horse_name": "クールフラン",
+      "score": -1.5992119025805331,
+      "horse_number": 9,
+      "odds": 22.6,
+      "win_prob": 0.015
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104806",
+      "horse_name": "レオナルドスター",
+      "score": -1.7299229705122516,
+      "horse_number": 1,
+      "odds": 35.6,
+      "win_prob": 0.0131
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021102151",
+      "horse_name": "モズイージス",
+      "score": -1.8070524570715683,
+      "horse_number": 10,
+      "odds": 39.4,
+      "win_prob": 0.0121
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021106586",
+      "horse_name": "ラブカムーン",
+      "score": -1.809119039407524,
+      "horse_number": 3,
+      "odds": 73.8,
+      "win_prob": 0.0121
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020106355",
+      "horse_name": "フェゲフォイア",
+      "score": -1.9156162756639747,
+      "horse_number": 15,
+      "odds": 110.8,
+      "win_prob": 0.0109
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103075",
+      "horse_name": "メイショウヤマモモ",
+      "score": -3.0342507033882846,
+      "horse_number": 13,
+      "odds": 90.2,
+      "win_prob": 0.0035
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-05T03:39:17.629604+00:00",
+  "generated_at_unix": 1788579557,
+  "expires_at_unix": 1788583457,
+  "run_id": "33942153425",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260904_110752",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "b9d591c15738beb8"
+  },
+  "data": {
+    "snapshot_id": "83b0b6949eacc8b2",
+    "base_snapshot_id": "b355f0c25486416b",
+    "snapshot_created_at": "2026-09-05T03:34:37.169373+00:00"
+  }
+}
