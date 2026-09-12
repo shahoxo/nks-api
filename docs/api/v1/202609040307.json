@@ -1,0 +1,170 @@
+{
+  "race_id": "202609040307",
+  "race_name": "3歳未勝利",
+  "race_time": "2026-09-12 13:25",
+  "race_time_unix": 1789187100,
+  "race_place": "阪神",
+  "for_race_date": "2026-09-12",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106223",
+      "horse_name": "ナムラロダン",
+      "score": 0.5848924532275516,
+      "horse_number": 4,
+      "odds": 10.6,
+      "win_prob": 0.1486
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106906",
+      "horse_name": "プペアンビスキュイ",
+      "score": 0.5028859679937383,
+      "horse_number": 15,
+      "odds": 6.4,
+      "win_prob": 0.1368
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106909",
+      "horse_name": "バルフルール",
+      "score": 0.18659959889217706,
+      "horse_number": 11,
+      "odds": 4.3,
+      "win_prob": 0.0995
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100910",
+      "horse_name": "ハピネスサンライズ",
+      "score": -0.0075057913507578875,
+      "horse_number": 16,
+      "odds": 16.8,
+      "win_prob": 0.0818
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105058",
+      "horse_name": "イッタレイッタレ",
+      "score": -0.02639651232418631,
+      "horse_number": 9,
+      "odds": 6.5,
+      "win_prob": 0.0802
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023101700",
+      "horse_name": "ユウトザイシン",
+      "score": -0.04933952449409046,
+      "horse_number": 13,
+      "odds": 13.0,
+      "win_prob": 0.0784
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103190",
+      "horse_name": "アスクハッピーマン",
+      "score": -0.05886671697327128,
+      "horse_number": 10,
+      "odds": 12.2,
+      "win_prob": 0.0777
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103250",
+      "horse_name": "マイベスティー",
+      "score": -0.1870285393532017,
+      "horse_number": 6,
+      "odds": 30.4,
+      "win_prob": 0.0682
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102643",
+      "horse_name": "シャインゴーツ",
+      "score": -0.3882158951562255,
+      "horse_number": 7,
+      "odds": 17.4,
+      "win_prob": 0.0557
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101105",
+      "horse_name": "タフクッキー",
+      "score": -0.47078934027636266,
+      "horse_number": 8,
+      "odds": 9.5,
+      "win_prob": 0.0513
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102968",
+      "horse_name": "キャスケード",
+      "score": -0.7767589553711373,
+      "horse_number": 1,
+      "odds": 19.5,
+      "win_prob": 0.0377
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102176",
+      "horse_name": "スノーガーネット",
+      "score": -0.7954697146847594,
+      "horse_number": 5,
+      "odds": 57.6,
+      "win_prob": 0.037
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102245",
+      "horse_name": "メイショウヒタカミ",
+      "score": -1.0716177947451073,
+      "horse_number": 3,
+      "odds": 28.3,
+      "win_prob": 0.028
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106358",
+      "horse_name": "ビーアイジーニー",
+      "score": -1.7374403512676175,
+      "horse_number": 12,
+      "odds": 39.4,
+      "win_prob": 0.0143
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023104334",
+      "horse_name": "ローレルアイビー",
+      "score": -3.438077470781979,
+      "horse_number": 14,
+      "odds": 25.3,
+      "win_prob": 0.0026
+    },
+    {
+      "rank": 16,
+      "horse_id": "2023106181",
+      "horse_name": "ファイナルコマンド",
+      "score": -3.558803602264887,
+      "horse_number": 2,
+      "odds": 29.9,
+      "win_prob": 0.0023
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-12T04:11:11.181292+00:00",
+  "generated_at_unix": 1789186271,
+  "expires_at_unix": 1789190171,
+  "run_id": "34672099504",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260911_110233",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4ec5225b2e207b1b"
+  },
+  "data": {
+    "snapshot_id": "596992b2ca0acc17",
+    "base_snapshot_id": "4f5bdc36f6a4bfa6",
+    "snapshot_created_at": "2026-09-12T04:06:28.664219+00:00"
+  }
+}

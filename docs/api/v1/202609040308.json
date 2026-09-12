@@ -1,0 +1,152 @@
+{
+  "race_id": "202609040308",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-09-12 13:55",
+  "race_time_unix": 1789188900,
+  "race_place": "阪神",
+  "for_race_date": "2026-09-12",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105247",
+      "horse_name": "サトノアグード",
+      "score": 1.8007352682734235,
+      "horse_number": 7,
+      "odds": 3.6,
+      "win_prob": 0.2183
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105965",
+      "horse_name": "コレオシークエンス",
+      "score": 1.6789930515369655,
+      "horse_number": 6,
+      "odds": 4.2,
+      "win_prob": 0.1931
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106785",
+      "horse_name": "マイリトルヒーロー",
+      "score": 1.3153669799305303,
+      "horse_number": 1,
+      "odds": 15.0,
+      "win_prob": 0.1338
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023100947",
+      "horse_name": "アクセス",
+      "score": 1.3051819437503898,
+      "horse_number": 4,
+      "odds": 3.1,
+      "win_prob": 0.1325
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023107041",
+      "horse_name": "ダノンテムズ",
+      "score": 0.8887946747391651,
+      "horse_number": 11,
+      "odds": 11.7,
+      "win_prob": 0.087
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105386",
+      "horse_name": "ピエタンツァ",
+      "score": 0.7993850006371355,
+      "horse_number": 10,
+      "odds": 17.1,
+      "win_prob": 0.0795
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105281",
+      "horse_name": "ダノンブギ",
+      "score": 0.4393783875074828,
+      "horse_number": 13,
+      "odds": 33.5,
+      "win_prob": 0.0553
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104390",
+      "horse_name": "エンジェルボイス",
+      "score": 0.2423659770047198,
+      "horse_number": 12,
+      "odds": 25.6,
+      "win_prob": 0.0454
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023100967",
+      "horse_name": "バークシャーシチー",
+      "score": -0.9926723758270172,
+      "horse_number": 3,
+      "odds": 15.0,
+      "win_prob": 0.0131
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022107106",
+      "horse_name": "デリュージョン",
+      "score": -1.1860633782938288,
+      "horse_number": 14,
+      "odds": 68.5,
+      "win_prob": 0.0107
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100415",
+      "horse_name": "スウィートリワード",
+      "score": -1.2393029503096997,
+      "horse_number": 8,
+      "odds": 58.1,
+      "win_prob": 0.0102
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022105936",
+      "horse_name": "ウィテカービート",
+      "score": -1.4339661195914983,
+      "horse_number": 9,
+      "odds": 65.8,
+      "win_prob": 0.0084
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101608",
+      "horse_name": "オーシンエス",
+      "score": -1.4937392042096933,
+      "horse_number": 2,
+      "odds": 59.0,
+      "win_prob": 0.0079
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105814",
+      "horse_name": "サイモンノーブル",
+      "score": -1.970693646960283,
+      "horse_number": 5,
+      "odds": 104.6,
+      "win_prob": 0.0049
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-12T04:11:11.181292+00:00",
+  "generated_at_unix": 1789186271,
+  "expires_at_unix": 1789190171,
+  "run_id": "34672099504",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260911_110233",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4ec5225b2e207b1b"
+  },
+  "data": {
+    "snapshot_id": "596992b2ca0acc17",
+    "base_snapshot_id": "4f5bdc36f6a4bfa6",
+    "snapshot_created_at": "2026-09-12T04:06:28.664219+00:00"
+  }
+}

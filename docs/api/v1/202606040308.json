@@ -1,0 +1,152 @@
+{
+  "race_id": "202606040308",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-09-12 13:40",
+  "race_time_unix": 1789188000,
+  "race_place": "中山",
+  "for_race_date": "2026-09-12",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104361",
+      "horse_name": "ヤマニンヘルシェ",
+      "score": 1.467412648934298,
+      "horse_number": 5,
+      "odds": 7.0,
+      "win_prob": 0.3058
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106744",
+      "horse_name": "ヴァルカンテソーロ",
+      "score": 1.3362122901896991,
+      "horse_number": 1,
+      "odds": 4.7,
+      "win_prob": 0.2679
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106811",
+      "horse_name": "マイネルアウルム",
+      "score": 0.5703351312604519,
+      "horse_number": 8,
+      "odds": 5.5,
+      "win_prob": 0.1237
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023107254",
+      "horse_name": "マーゴットドライ",
+      "score": 0.47513091895552007,
+      "horse_number": 11,
+      "odds": 11.7,
+      "win_prob": 0.1124
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105552",
+      "horse_name": "ベルトラッキ",
+      "score": -0.07264602049407023,
+      "horse_number": 13,
+      "odds": 9.1,
+      "win_prob": 0.0647
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106443",
+      "horse_name": "コスモナエマ",
+      "score": -0.2295040587535852,
+      "horse_number": 12,
+      "odds": 6.0,
+      "win_prob": 0.0552
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103799",
+      "horse_name": "フォンドルレール",
+      "score": -1.2125005824554944,
+      "horse_number": 14,
+      "odds": 23.5,
+      "win_prob": 0.0205
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023103521",
+      "horse_name": "ウインターブレス",
+      "score": -1.3275483119891605,
+      "horse_number": 7,
+      "odds": 12.1,
+      "win_prob": 0.0183
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020101916",
+      "horse_name": "ペネトレイトゴー",
+      "score": -1.5513144062349593,
+      "horse_number": 4,
+      "odds": 12.1,
+      "win_prob": 0.0146
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103539",
+      "horse_name": "パーリーブラック",
+      "score": -2.518066356312626,
+      "horse_number": 6,
+      "odds": 33.5,
+      "win_prob": 0.0055
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023107109",
+      "horse_name": "チャームドウイング",
+      "score": -2.8330761651159433,
+      "horse_number": 3,
+      "odds": 20.9,
+      "win_prob": 0.004
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105374",
+      "horse_name": "タイセイネクサス",
+      "score": -3.0997763791652306,
+      "horse_number": 9,
+      "odds": 79.7,
+      "win_prob": 0.0031
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021103504",
+      "horse_name": "スノーディーヴァ",
+      "score": -3.406595319403493,
+      "horse_number": 2,
+      "odds": 22.4,
+      "win_prob": 0.0022
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023106315",
+      "horse_name": "ホウライブラック",
+      "score": -3.455985225190069,
+      "horse_number": 10,
+      "odds": 65.6,
+      "win_prob": 0.0021
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-12T04:11:11.181292+00:00",
+  "generated_at_unix": 1789186271,
+  "expires_at_unix": 1789190171,
+  "run_id": "34672099504",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260911_110233",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4ec5225b2e207b1b"
+  },
+  "data": {
+    "snapshot_id": "596992b2ca0acc17",
+    "base_snapshot_id": "4f5bdc36f6a4bfa6",
+    "snapshot_created_at": "2026-09-12T04:06:28.664219+00:00"
+  }
+}
