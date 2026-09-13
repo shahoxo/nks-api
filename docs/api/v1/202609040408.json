@@ -1,0 +1,134 @@
+{
+  "race_id": "202609040408",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-09-13 13:40",
+  "race_time_unix": 1789274400,
+  "race_place": "阪神",
+  "for_race_date": "2026-09-13",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103180",
+      "horse_name": "メイショウソウテン",
+      "score": 0.5610474274858149,
+      "horse_number": 5,
+      "odds": 9.0,
+      "win_prob": 0.2406
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022102300",
+      "horse_name": "アスクガンバーレ",
+      "score": 0.16853731446053768,
+      "horse_number": 3,
+      "odds": 3.6,
+      "win_prob": 0.1619
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106129",
+      "horse_name": "サンライズオスカー",
+      "score": 0.07904868676500214,
+      "horse_number": 11,
+      "odds": 3.4,
+      "win_prob": 0.148
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023105041",
+      "horse_name": "ココロヅヨサ",
+      "score": -0.22911524827312543,
+      "horse_number": 2,
+      "odds": 5.6,
+      "win_prob": 0.1084
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023106948",
+      "horse_name": "ガイストライヒ",
+      "score": -0.318740182062815,
+      "horse_number": 1,
+      "odds": 13.4,
+      "win_prob": 0.0991
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023107017",
+      "horse_name": "アビラーシャ",
+      "score": -0.44965220157750047,
+      "horse_number": 8,
+      "odds": 9.6,
+      "win_prob": 0.0868
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104395",
+      "horse_name": "レッドホット",
+      "score": -0.6486350247153996,
+      "horse_number": 4,
+      "odds": 20.9,
+      "win_prob": 0.071
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102833",
+      "horse_name": "グランドスウェル",
+      "score": -1.56822350775288,
+      "horse_number": 6,
+      "odds": 26.9,
+      "win_prob": 0.0281
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020106922",
+      "horse_name": "メイショウクモイ",
+      "score": -1.9313529487988654,
+      "horse_number": 9,
+      "odds": 14.5,
+      "win_prob": 0.0195
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105209",
+      "horse_name": "ラッキーベイ",
+      "score": -2.167670935325007,
+      "horse_number": 10,
+      "odds": 34.0,
+      "win_prob": 0.0154
+    },
+    {
+      "rank": 11,
+      "horse_id": "2021100387",
+      "horse_name": "マーベリックシチー",
+      "score": -2.193636057550586,
+      "horse_number": 7,
+      "odds": 42.6,
+      "win_prob": 0.015
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021106078",
+      "horse_name": "ブルーストレイル",
+      "score": -3.0651973689198906,
+      "horse_number": 12,
+      "odds": 129.9,
+      "win_prob": 0.0062
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-13T04:22:20.458527+00:00",
+  "generated_at_unix": 1789273340,
+  "expires_at_unix": 1789277240,
+  "run_id": "34737523597",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260911_110233",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4ec5225b2e207b1b"
+  },
+  "data": {
+    "snapshot_id": "dbd9666792de477e",
+    "base_snapshot_id": "4f5bdc36f6a4bfa6",
+    "snapshot_created_at": "2026-09-13T04:17:47.190535+00:00"
+  }
+}

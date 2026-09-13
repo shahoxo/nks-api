@@ -1,0 +1,170 @@
+{
+  "race_id": "202606040407",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-09-13 13:25",
+  "race_time_unix": 1789273500,
+  "race_place": "中山",
+  "for_race_date": "2026-09-13",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103917",
+      "horse_name": "タイセイアストロ",
+      "score": 1.4551736722892974,
+      "horse_number": 15,
+      "odds": 5.7,
+      "win_prob": 0.2182
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106830",
+      "horse_name": "ダノンアスコルティ",
+      "score": 1.0661892137862277,
+      "horse_number": 5,
+      "odds": 5.2,
+      "win_prob": 0.1474
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103648",
+      "horse_name": "ファンクション",
+      "score": 0.7849413126953366,
+      "horse_number": 9,
+      "odds": 11.8,
+      "win_prob": 0.111
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106829",
+      "horse_name": "ベアサナエチャン",
+      "score": 0.7216009049177677,
+      "horse_number": 8,
+      "odds": 10.4,
+      "win_prob": 0.1042
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102619",
+      "horse_name": "ナハトナナレオン",
+      "score": 0.5061182315572805,
+      "horse_number": 11,
+      "odds": 9.7,
+      "win_prob": 0.0838
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100831",
+      "horse_name": "ミスターマーボー",
+      "score": 0.30560126743553456,
+      "horse_number": 6,
+      "odds": 8.0,
+      "win_prob": 0.0685
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022106150",
+      "horse_name": "スワローシチー",
+      "score": 0.2878748655172864,
+      "horse_number": 16,
+      "odds": 14.0,
+      "win_prob": 0.0673
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105473",
+      "horse_name": "ラヴスコール",
+      "score": -0.18317050364171608,
+      "horse_number": 1,
+      "odds": 23.1,
+      "win_prob": 0.0418
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107078",
+      "horse_name": "スマイルカーブ",
+      "score": -0.22540558843434105,
+      "horse_number": 2,
+      "odds": 18.8,
+      "win_prob": 0.0401
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106747",
+      "horse_name": "ダイヤテソーロ",
+      "score": -0.27061249121442676,
+      "horse_number": 7,
+      "odds": 12.2,
+      "win_prob": 0.0383
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022104179",
+      "horse_name": "ツインピークス",
+      "score": -0.8789792160676437,
+      "horse_number": 3,
+      "odds": 15.8,
+      "win_prob": 0.0207
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100776",
+      "horse_name": "シャオママル",
+      "score": -1.0181663133025618,
+      "horse_number": 10,
+      "odds": 21.8,
+      "win_prob": 0.018
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104275",
+      "horse_name": "ノーブルライナー",
+      "score": -1.4134234576409168,
+      "horse_number": 4,
+      "odds": 21.8,
+      "win_prob": 0.0121
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022105216",
+      "horse_name": "ソレエスピアージャ",
+      "score": -1.4432179156307796,
+      "horse_number": 13,
+      "odds": 33.2,
+      "win_prob": 0.0117
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022105191",
+      "horse_name": "スペードギニー",
+      "score": -1.6339399294458508,
+      "horse_number": 12,
+      "odds": 27.3,
+      "win_prob": 0.0097
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020103885",
+      "horse_name": "クリノゴッホ",
+      "score": -1.9365540664797143,
+      "horse_number": 14,
+      "odds": 106.7,
+      "win_prob": 0.0071
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-13T04:22:20.458527+00:00",
+  "generated_at_unix": 1789273340,
+  "expires_at_unix": 1789277240,
+  "run_id": "34737523597",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260911_110233",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4ec5225b2e207b1b"
+  },
+  "data": {
+    "snapshot_id": "dbd9666792de477e",
+    "base_snapshot_id": "4f5bdc36f6a4bfa6",
+    "snapshot_created_at": "2026-09-13T04:17:47.190535+00:00"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "race_id": "202606040408",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-09-13 13:55",
+  "race_time_unix": 1789275300,
+  "race_place": "中山",
+  "for_race_date": "2026-09-13",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104678",
+      "horse_name": "エルムラント",
+      "score": 0.09137270255890677,
+      "horse_number": 10,
+      "odds": 6.3,
+      "win_prob": 0.1543
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104174",
+      "horse_name": "ホウオウルクソール",
+      "score": 0.07119762673764983,
+      "horse_number": 1,
+      "odds": 7.3,
+      "win_prob": 0.1512
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104780",
+      "horse_name": "クラシオン",
+      "score": 0.03227606726739987,
+      "horse_number": 3,
+      "odds": 12.5,
+      "win_prob": 0.1454
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022100620",
+      "horse_name": "シルフレイ",
+      "score": -0.22520378932689475,
+      "horse_number": 14,
+      "odds": 8.3,
+      "win_prob": 0.1121
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104170",
+      "horse_name": "テンハートビート",
+      "score": -0.24342412570984812,
+      "horse_number": 2,
+      "odds": 12.8,
+      "win_prob": 0.1101
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021102192",
+      "horse_name": "グランルチャドール",
+      "score": -0.2931635905103802,
+      "horse_number": 16,
+      "odds": 4.6,
+      "win_prob": 0.1047
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102269",
+      "horse_name": "ラルフテソーロ",
+      "score": -0.8348166061705526,
+      "horse_number": 13,
+      "odds": 5.0,
+      "win_prob": 0.0606
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103283",
+      "horse_name": "ペロ",
+      "score": -1.0943591516397668,
+      "horse_number": 5,
+      "odds": 19.7,
+      "win_prob": 0.0467
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021107166",
+      "horse_name": "イラーナ",
+      "score": -1.1940827866356278,
+      "horse_number": 4,
+      "odds": 57.4,
+      "win_prob": 0.0422
+    },
+    {
+      "rank": 10,
+      "horse_id": "2020103939",
+      "horse_name": "ホウオウプレシャス",
+      "score": -2.0111606567371996,
+      "horse_number": 15,
+      "odds": 40.3,
+      "win_prob": 0.0185
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105067",
+      "horse_name": "トップマジシャン",
+      "score": -2.0203019562443307,
+      "horse_number": 11,
+      "odds": 34.3,
+      "win_prob": 0.0184
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103011",
+      "horse_name": "ブルーユンチェリー",
+      "score": -2.694374004940756,
+      "horse_number": 8,
+      "odds": 49.0,
+      "win_prob": 0.0093
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022103032",
+      "horse_name": "リラキトス",
+      "score": -2.868423566534286,
+      "horse_number": 6,
+      "odds": 11.3,
+      "win_prob": 0.0078
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021105875",
+      "horse_name": "レイフロレット",
+      "score": -2.8974325530190645,
+      "horse_number": 7,
+      "odds": 83.3,
+      "win_prob": 0.0076
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100948",
+      "horse_name": "ニシノヴィヴィ",
+      "score": -2.968676383433524,
+      "horse_number": 9,
+      "odds": 53.8,
+      "win_prob": 0.0071
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101383",
+      "horse_name": "コヴェナント",
+      "score": -3.535842565729,
+      "horse_number": 12,
+      "odds": 130.8,
+      "win_prob": 0.004
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-13T04:22:20.458527+00:00",
+  "generated_at_unix": 1789273340,
+  "expires_at_unix": 1789277240,
+  "run_id": "34737523597",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260911_110233",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "4ec5225b2e207b1b"
+  },
+  "data": {
+    "snapshot_id": "dbd9666792de477e",
+    "base_snapshot_id": "4f5bdc36f6a4bfa6",
+    "snapshot_created_at": "2026-09-13T04:17:47.190535+00:00"
+  }
+}
