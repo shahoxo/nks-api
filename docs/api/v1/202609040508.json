@@ -1,0 +1,80 @@
+{
+  "race_id": "202609040508",
+  "race_name": "野路菊S",
+  "race_time": "2026-09-19 13:40",
+  "race_time_unix": 1789792800,
+  "race_place": "阪神",
+  "for_race_date": "2026-09-19",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024106614",
+      "horse_name": "ジーティーサクラ",
+      "score": 1.4111376466840095,
+      "horse_number": 2,
+      "odds": 1.2,
+      "win_prob": 0.3739
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024101722",
+      "horse_name": "ブラッドバローズ",
+      "score": 0.9554866979933619,
+      "horse_number": 6,
+      "odds": 7.0,
+      "win_prob": 0.2364
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024104953",
+      "horse_name": "シティオブドリーム",
+      "score": 0.9104132005528298,
+      "horse_number": 1,
+      "odds": 8.6,
+      "win_prob": 0.2259
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024102272",
+      "horse_name": "メイショウセイクウ",
+      "score": 0.572351453795791,
+      "horse_number": 5,
+      "odds": 7.3,
+      "win_prob": 0.1608
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024102682",
+      "horse_name": "ベルメサージュ",
+      "score": -3.914699064970311,
+      "horse_number": 4,
+      "odds": 55.9,
+      "win_prob": 0.0018
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024105454",
+      "horse_name": "テングカゼ",
+      "score": -4.290211428415185,
+      "horse_number": 3,
+      "odds": 79.5,
+      "win_prob": 0.0012
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-19T04:12:20.147614+00:00",
+  "generated_at_unix": 1789791140,
+  "expires_at_unix": 1789795040,
+  "run_id": "35420416992",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260918_110215",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "fb2823b74929ba0d"
+  },
+  "data": {
+    "snapshot_id": "2d8aac258a0ba619",
+    "base_snapshot_id": "a263b35356cb8ce4",
+    "snapshot_created_at": "2026-09-19T04:07:44.457000+00:00"
+  }
+}

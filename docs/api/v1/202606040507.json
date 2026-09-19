@@ -1,0 +1,152 @@
+{
+  "race_id": "202606040507",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-09-19 13:25",
+  "race_time_unix": 1789791900,
+  "race_place": "中山",
+  "for_race_date": "2026-09-19",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106955",
+      "horse_name": "デールエルバハリ",
+      "score": 0.02109566916144885,
+      "horse_number": 14,
+      "odds": 3.6,
+      "win_prob": 0.2816
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105329",
+      "horse_name": "エクストラプッシュ",
+      "score": -0.5558699776926952,
+      "horse_number": 6,
+      "odds": 7.5,
+      "win_prob": 0.1576
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022101255",
+      "horse_name": "ステイアンビシャス",
+      "score": -0.6007197277721126,
+      "horse_number": 2,
+      "odds": 5.1,
+      "win_prob": 0.1507
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021100884",
+      "horse_name": "タケルゴールド",
+      "score": -1.0730049589869683,
+      "horse_number": 11,
+      "odds": 10.8,
+      "win_prob": 0.0937
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021104155",
+      "horse_name": "サトノリアン",
+      "score": -1.1965007487516848,
+      "horse_number": 5,
+      "odds": 7.5,
+      "win_prob": 0.0827
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100346",
+      "horse_name": "ブライトラン",
+      "score": -1.444678872995765,
+      "horse_number": 9,
+      "odds": 11.2,
+      "win_prob": 0.0645
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101586",
+      "horse_name": "リオンサーガ",
+      "score": -1.7132928224402348,
+      "horse_number": 12,
+      "odds": 15.5,
+      "win_prob": 0.0492
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102977",
+      "horse_name": "ダイシンパルス",
+      "score": -2.1562325505264694,
+      "horse_number": 1,
+      "odds": 20.8,
+      "win_prob": 0.0315
+    },
+    {
+      "rank": 9,
+      "horse_id": "2019103219",
+      "horse_name": "ブレイクザアイス",
+      "score": -2.3932340152978853,
+      "horse_number": 3,
+      "odds": 15.4,
+      "win_prob": 0.0248
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021105074",
+      "horse_name": "モヴレクス",
+      "score": -2.8206377728073515,
+      "horse_number": 13,
+      "odds": 40.4,
+      "win_prob": 0.0161
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104958",
+      "horse_name": "ターフクリスタル",
+      "score": -2.912729355195566,
+      "horse_number": 4,
+      "odds": 16.1,
+      "win_prob": 0.0147
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023106827",
+      "horse_name": "ラブトゥエニイワン",
+      "score": -3.072051735581199,
+      "horse_number": 7,
+      "odds": 39.0,
+      "win_prob": 0.0125
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023106531",
+      "horse_name": "ゴーントゥファー",
+      "score": -3.0914383167069825,
+      "horse_number": 10,
+      "odds": 46.2,
+      "win_prob": 0.0123
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021101166",
+      "horse_name": "ノーマジック",
+      "score": -3.525450399002671,
+      "horse_number": 8,
+      "odds": 43.6,
+      "win_prob": 0.0079
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-19T04:12:20.147614+00:00",
+  "generated_at_unix": 1789791140,
+  "expires_at_unix": 1789795040,
+  "run_id": "35420416992",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260918_110215",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "fb2823b74929ba0d"
+  },
+  "data": {
+    "snapshot_id": "2d8aac258a0ba619",
+    "base_snapshot_id": "a263b35356cb8ce4",
+    "snapshot_created_at": "2026-09-19T04:07:44.457000+00:00"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "race_id": "202609040507",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-09-19 13:10",
+  "race_time_unix": 1789791000,
+  "race_place": "阪神",
+  "for_race_date": "2026-09-19",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104624",
+      "horse_name": "アロマフェリス",
+      "score": 0.9037401055728106,
+      "horse_number": 2,
+      "odds": 4.0,
+      "win_prob": 0.2407
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104315",
+      "horse_name": "タガノアルトゥーラ",
+      "score": 0.18437878723933357,
+      "horse_number": 8,
+      "odds": 6.3,
+      "win_prob": 0.1167
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102376",
+      "horse_name": "ベルシュヴァル",
+      "score": 0.08562807018323476,
+      "horse_number": 4,
+      "odds": 9.6,
+      "win_prob": 0.1057
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104506",
+      "horse_name": "ゴールドアクセス",
+      "score": 0.0674248462461345,
+      "horse_number": 9,
+      "odds": 4.9,
+      "win_prob": 0.1038
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023105337",
+      "horse_name": "ボンドマティーニ",
+      "score": -0.10452482671657239,
+      "horse_number": 1,
+      "odds": 5.0,
+      "win_prob": 0.0873
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022103353",
+      "horse_name": "ストレートブラック",
+      "score": -0.16310623693872647,
+      "horse_number": 7,
+      "odds": 18.8,
+      "win_prob": 0.0823
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101404",
+      "horse_name": "パンチャマハブータ",
+      "score": -0.41439314495912244,
+      "horse_number": 3,
+      "odds": 18.5,
+      "win_prob": 0.0639
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100288",
+      "horse_name": "ロングホリデー",
+      "score": -0.5235721204777712,
+      "horse_number": 10,
+      "odds": 15.5,
+      "win_prob": 0.0573
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023107379",
+      "horse_name": "サトノビダーヤ",
+      "score": -0.5479499631968321,
+      "horse_number": 11,
+      "odds": 14.9,
+      "win_prob": 0.0559
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023107125",
+      "horse_name": "ディアーモルタル",
+      "score": -1.1265613986768275,
+      "horse_number": 12,
+      "odds": 45.1,
+      "win_prob": 0.0312
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023100868",
+      "horse_name": "フィエールシャンテ",
+      "score": -1.2428321856836795,
+      "horse_number": 6,
+      "odds": 16.4,
+      "win_prob": 0.0278
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105302",
+      "horse_name": "ラッキーシグネチャ",
+      "score": -1.2587669763433513,
+      "horse_number": 5,
+      "odds": 54.8,
+      "win_prob": 0.0273
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-19T04:12:20.147614+00:00",
+  "generated_at_unix": 1789791140,
+  "expires_at_unix": 1789795040,
+  "run_id": "35420416992",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260918_110215",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "fb2823b74929ba0d"
+  },
+  "data": {
+    "snapshot_id": "2d8aac258a0ba619",
+    "base_snapshot_id": "a263b35356cb8ce4",
+    "snapshot_created_at": "2026-09-19T04:07:44.457000+00:00"
+  }
+}
