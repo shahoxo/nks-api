@@ -1,0 +1,170 @@
+{
+  "race_id": "202606040608",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-09-20 13:55",
+  "race_time_unix": 1789880100,
+  "race_place": "中山",
+  "for_race_date": "2026-09-20",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103751",
+      "horse_name": "グラティアム",
+      "score": 1.9604103335708833,
+      "horse_number": 4,
+      "odds": 3.0,
+      "win_prob": 0.4745
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104150",
+      "horse_name": "カセノアステリア",
+      "score": 0.6413490255683948,
+      "horse_number": 10,
+      "odds": 7.6,
+      "win_prob": 0.1259
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105558",
+      "horse_name": "カンレイスター",
+      "score": 0.250172248776551,
+      "horse_number": 5,
+      "odds": 5.1,
+      "win_prob": 0.0849
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103127",
+      "horse_name": "ペイトー",
+      "score": -0.33784975906216064,
+      "horse_number": 15,
+      "odds": 16.0,
+      "win_prob": 0.047
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104609",
+      "horse_name": "フラッシュポイント",
+      "score": -0.43137656312502787,
+      "horse_number": 1,
+      "odds": 12.5,
+      "win_prob": 0.0428
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022101864",
+      "horse_name": "マオノクラッシュ",
+      "score": -0.51913428575148,
+      "horse_number": 8,
+      "odds": 14.9,
+      "win_prob": 0.0392
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103231",
+      "horse_name": "ミスチヴマリアンヌ",
+      "score": -0.5866566060361706,
+      "horse_number": 13,
+      "odds": 26.4,
+      "win_prob": 0.0366
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100872",
+      "horse_name": "シスター",
+      "score": -0.8044670360183824,
+      "horse_number": 12,
+      "odds": 17.5,
+      "win_prob": 0.0294
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021106724",
+      "horse_name": "チェルシー",
+      "score": -0.8472329016745235,
+      "horse_number": 11,
+      "odds": 12.0,
+      "win_prob": 0.0282
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102390",
+      "horse_name": "マジェステラ",
+      "score": -1.0528107489596599,
+      "horse_number": 9,
+      "odds": 17.1,
+      "win_prob": 0.0229
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023104232",
+      "horse_name": "タヤスロレンヌ",
+      "score": -1.378277595576855,
+      "horse_number": 14,
+      "odds": 17.5,
+      "win_prob": 0.0165
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103809",
+      "horse_name": "プレザントトーン",
+      "score": -1.5253611937898752,
+      "horse_number": 7,
+      "odds": 73.7,
+      "win_prob": 0.0142
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022106767",
+      "horse_name": "ミッシオーネ",
+      "score": -1.5302952302407726,
+      "horse_number": 6,
+      "odds": 33.0,
+      "win_prob": 0.0142
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022103011",
+      "horse_name": "ブルーユンチェリー",
+      "score": -1.771885173572053,
+      "horse_number": 16,
+      "odds": 41.5,
+      "win_prob": 0.0111
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022102791",
+      "horse_name": "ドルンレースツェン",
+      "score": -2.1631645065359004,
+      "horse_number": 2,
+      "odds": 74.3,
+      "win_prob": 0.0075
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022105761",
+      "horse_name": "シュヴァルム",
+      "score": -2.5267373710374543,
+      "horse_number": 3,
+      "odds": 60.7,
+      "win_prob": 0.0052
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-20T04:31:17.795181+00:00",
+  "generated_at_unix": 1789878677,
+  "expires_at_unix": 1789882577,
+  "run_id": "35489129186",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260918_110215",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "fb2823b74929ba0d"
+  },
+  "data": {
+    "snapshot_id": "93c639590219a294",
+    "base_snapshot_id": "a263b35356cb8ce4",
+    "snapshot_created_at": "2026-09-20T04:26:39.652846+00:00"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "race_id": "202609040608",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-09-20 13:40",
+  "race_time_unix": 1789879200,
+  "race_place": "阪神",
+  "for_race_date": "2026-09-20",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023104430",
+      "horse_name": "リアンマヒナ",
+      "score": 1.5181869793585636,
+      "horse_number": 11,
+      "odds": 2.9,
+      "win_prob": 0.2468
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023103376",
+      "horse_name": "フェルギナス",
+      "score": 1.2556087025168048,
+      "horse_number": 1,
+      "odds": 10.5,
+      "win_prob": 0.1895
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104373",
+      "horse_name": "グランドオーパス",
+      "score": 0.8955528285176765,
+      "horse_number": 10,
+      "odds": 7.3,
+      "win_prob": 0.1319
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104738",
+      "horse_name": "パスコード",
+      "score": 0.735749891074771,
+      "horse_number": 13,
+      "odds": 7.5,
+      "win_prob": 0.1123
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102997",
+      "horse_name": "ペイシャシス",
+      "score": 0.6815315448409623,
+      "horse_number": 2,
+      "odds": 6.7,
+      "win_prob": 0.1064
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102494",
+      "horse_name": "スリラーナイト",
+      "score": -0.15354799836882765,
+      "horse_number": 4,
+      "odds": 24.5,
+      "win_prob": 0.0459
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107140",
+      "horse_name": "ビーチェマーレ",
+      "score": -0.38558291312765813,
+      "horse_number": 7,
+      "odds": 18.0,
+      "win_prob": 0.0364
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022100200",
+      "horse_name": "ワンダーイロネ",
+      "score": -0.4024223295373015,
+      "horse_number": 9,
+      "odds": 26.0,
+      "win_prob": 0.0357
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022107012",
+      "horse_name": "ニシノイツキムスメ",
+      "score": -0.6790958061244674,
+      "horse_number": 8,
+      "odds": 10.2,
+      "win_prob": 0.0271
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102639",
+      "horse_name": "ランスオブラヴ",
+      "score": -1.016479649594958,
+      "horse_number": 14,
+      "odds": 56.4,
+      "win_prob": 0.0193
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103611",
+      "horse_name": "カモメガトンダ",
+      "score": -1.1464193587253502,
+      "horse_number": 3,
+      "odds": 14.3,
+      "win_prob": 0.0169
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023103615",
+      "horse_name": "エスティヴァリス",
+      "score": -1.2790244972652893,
+      "horse_number": 12,
+      "odds": 26.5,
+      "win_prob": 0.0148
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020101781",
+      "horse_name": "アウローラシエル",
+      "score": -1.9070738861467422,
+      "horse_number": 15,
+      "odds": 64.1,
+      "win_prob": 0.0079
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023105691",
+      "horse_name": "ハクサンミレイ",
+      "score": -2.4052508362816707,
+      "horse_number": 5,
+      "odds": 85.5,
+      "win_prob": 0.0048
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022104558",
+      "horse_name": "ヴェントステラーレ",
+      "score": -2.472861340513793,
+      "horse_number": 6,
+      "odds": 49.7,
+      "win_prob": 0.0045
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-20T04:31:17.795181+00:00",
+  "generated_at_unix": 1789878677,
+  "expires_at_unix": 1789882577,
+  "run_id": "35489129186",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260918_110215",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "fb2823b74929ba0d"
+  },
+  "data": {
+    "snapshot_id": "93c639590219a294",
+    "base_snapshot_id": "a263b35356cb8ce4",
+    "snapshot_created_at": "2026-09-20T04:26:39.652846+00:00"
+  }
+}
