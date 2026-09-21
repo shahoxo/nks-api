@@ -1,0 +1,134 @@
+{
+  "race_id": "202609040708",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-09-21 13:55",
+  "race_time_unix": 1789966500,
+  "race_place": "阪神",
+  "for_race_date": "2026-09-21",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022100637",
+      "horse_name": "ロードアルディート",
+      "score": 0.723540954266605,
+      "horse_number": 3,
+      "odds": 3.6,
+      "win_prob": 0.3513
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105340",
+      "horse_name": "レッドフレーザー",
+      "score": -0.175503947161835,
+      "horse_number": 7,
+      "odds": 2.8,
+      "win_prob": 0.1422
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105695",
+      "horse_name": "ディニテ",
+      "score": -0.22084121890942898,
+      "horse_number": 6,
+      "odds": 5.4,
+      "win_prob": 0.1359
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105006",
+      "horse_name": "アメリカンバー",
+      "score": -0.6847277467504069,
+      "horse_number": 4,
+      "odds": 8.2,
+      "win_prob": 0.0852
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022104841",
+      "horse_name": "オーレアミスト",
+      "score": -0.8229017402829255,
+      "horse_number": 8,
+      "odds": 20.9,
+      "win_prob": 0.0741
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105794",
+      "horse_name": "ラテライト",
+      "score": -0.825233873306726,
+      "horse_number": 11,
+      "odds": 13.7,
+      "win_prob": 0.074
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022107325",
+      "horse_name": "レーンアジリティ",
+      "score": -1.6867782961166247,
+      "horse_number": 2,
+      "odds": 24.0,
+      "win_prob": 0.0311
+    },
+    {
+      "rank": 8,
+      "horse_id": "2019103506",
+      "horse_name": "エアフォースワン",
+      "score": -1.8263916237890743,
+      "horse_number": 10,
+      "odds": 25.6,
+      "win_prob": 0.027
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104172",
+      "horse_name": "リリーサンダー",
+      "score": -1.9612983446036598,
+      "horse_number": 12,
+      "odds": 31.3,
+      "win_prob": 0.0236
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102839",
+      "horse_name": "メイショウカスガイ",
+      "score": -2.0718932226678852,
+      "horse_number": 5,
+      "odds": 17.3,
+      "win_prob": 0.0211
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102501",
+      "horse_name": "キタノサワヤカ",
+      "score": -2.1333892807485846,
+      "horse_number": 1,
+      "odds": 43.7,
+      "win_prob": 0.0198
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022107299",
+      "horse_name": "クレスコドルフィン",
+      "score": -2.4364107105197257,
+      "horse_number": 9,
+      "odds": 95.6,
+      "win_prob": 0.0146
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-21T04:29:38.670816+00:00",
+  "generated_at_unix": 1789964978,
+  "expires_at_unix": 1789968878,
+  "run_id": "35560833581",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260918_110215",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "fb2823b74929ba0d"
+  },
+  "data": {
+    "snapshot_id": "d3d94bac732c23a0",
+    "base_snapshot_id": "a263b35356cb8ce4",
+    "snapshot_created_at": "2026-09-21T04:24:51.644903+00:00"
+  }
+}
