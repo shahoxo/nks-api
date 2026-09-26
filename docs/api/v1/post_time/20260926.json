@@ -1,0 +1,242 @@
+[
+  {
+    "race_id": "202606040801",
+    "race_name": "2歳未勝利",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 9,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 09:45:00 +0900"
+  },
+  {
+    "race_id": "202606040802",
+    "race_name": "2歳未勝利",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 9,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 10:15:00 +0900"
+  },
+  {
+    "race_id": "202606040803",
+    "race_name": "2歳新馬",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 8,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 10:45:00 +0900"
+  },
+  {
+    "race_id": "202606040804",
+    "race_name": "清秋ジャンプ",
+    "distance": null,
+    "track_surface": null,
+    "race_place": "中山",
+    "race_grade": 4,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 11:20:00 +0900"
+  },
+  {
+    "race_id": "202606040805",
+    "race_name": "2歳新馬",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 8,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 12:10:00 +0900"
+  },
+  {
+    "race_id": "202606040806",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 7,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 12:40:00 +0900"
+  },
+  {
+    "race_id": "202606040807",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 7,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 13:10:00 +0900"
+  },
+  {
+    "race_id": "202606040808",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 7,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 13:40:00 +0900"
+  },
+  {
+    "race_id": "202606040809",
+    "race_name": "芙蓉S",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 4,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 14:10:00 +0900"
+  },
+  {
+    "race_id": "202606040810",
+    "race_name": "勝浦特別",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 6,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 14:50:00 +0900"
+  },
+  {
+    "race_id": "202606040811",
+    "race_name": "秋風S",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "中山",
+    "race_grade": 5,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 15:30:00 +0900"
+  },
+  {
+    "race_id": "202606040812",
+    "race_name": "3歳以上2勝クラス",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "中山",
+    "race_grade": 6,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 16:10:00 +0900"
+  },
+  {
+    "race_id": "202609040801",
+    "race_name": "2歳未勝利",
+    "distance": 1400,
+    "track_surface": 2,
+    "race_place": "阪神",
+    "race_grade": 9,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 10:01:00 +0900"
+  },
+  {
+    "race_id": "202609040802",
+    "race_name": "2歳未勝利",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "阪神",
+    "race_grade": 9,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 10:30:00 +0900"
+  },
+  {
+    "race_id": "202609040803",
+    "race_name": "2歳未勝利",
+    "distance": 1400,
+    "track_surface": 1,
+    "race_place": "阪神",
+    "race_grade": 9,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 11:00:00 +0900"
+  },
+  {
+    "race_id": "202609040804",
+    "race_name": "2歳新馬",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "阪神",
+    "race_grade": 8,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 11:35:00 +0900"
+  },
+  {
+    "race_id": "202609040805",
+    "race_name": "2歳新馬",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "阪神",
+    "race_grade": 8,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 12:25:00 +0900"
+  },
+  {
+    "race_id": "202609040806",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "阪神",
+    "race_grade": 7,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 12:55:00 +0900"
+  },
+  {
+    "race_id": "202609040807",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "阪神",
+    "race_grade": 7,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 13:25:00 +0900"
+  },
+  {
+    "race_id": "202609040808",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 2200,
+    "track_surface": 1,
+    "race_place": "阪神",
+    "race_grade": 7,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 13:55:00 +0900"
+  },
+  {
+    "race_id": "202609040809",
+    "race_name": "ヤマボウシ賞",
+    "distance": 1400,
+    "track_surface": 2,
+    "race_place": "阪神",
+    "race_grade": 7,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 14:25:00 +0900"
+  },
+  {
+    "race_id": "202609040810",
+    "race_name": "野分特別",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "阪神",
+    "race_grade": 6,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 15:05:00 +0900"
+  },
+  {
+    "race_id": "202609040811",
+    "race_name": "シリウスS",
+    "distance": 2000,
+    "track_surface": 2,
+    "race_place": "阪神",
+    "race_grade": 3,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 15:45:00 +0900"
+  },
+  {
+    "race_id": "202609040812",
+    "race_name": "3歳以上2勝クラス",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "阪神",
+    "race_grade": 6,
+    "race_date": "2026-09-26",
+    "race_time": "2026-09-26 16:30:00 +0900"
+  }
+]
