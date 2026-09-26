@@ -1,0 +1,98 @@
+{
+  "race_id": "202609040809",
+  "race_name": "ヤマボウシ賞",
+  "race_time": "2026-09-26 14:25",
+  "race_time_unix": 1790400300,
+  "race_place": "阪神",
+  "for_race_date": "2026-09-26",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024108321",
+      "horse_name": "リーチツモドライチ",
+      "score": 1.6131452676293574,
+      "horse_number": 2,
+      "odds": 3.4,
+      "win_prob": 0.2153
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024104312",
+      "horse_name": "エランヴィータ",
+      "score": 1.48493489571448,
+      "horse_number": 3,
+      "odds": 6.2,
+      "win_prob": 0.1891
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024105587",
+      "horse_name": "ナイトパイロット",
+      "score": 1.266658420437129,
+      "horse_number": 1,
+      "odds": 6.3,
+      "win_prob": 0.1517
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024101709",
+      "horse_name": "ユイノエスポワール",
+      "score": 0.8085910023238555,
+      "horse_number": 8,
+      "odds": 3.8,
+      "win_prob": 0.0956
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024103505",
+      "horse_name": "ヌーンベルク",
+      "score": 0.7944797807066731,
+      "horse_number": 5,
+      "odds": 18.9,
+      "win_prob": 0.0942
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024106458",
+      "horse_name": "ベルヴェール",
+      "score": 0.7786879506643255,
+      "horse_number": 4,
+      "odds": 15.1,
+      "win_prob": 0.0927
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024103349",
+      "horse_name": "ウンディーネ",
+      "score": 0.7361082982301826,
+      "horse_number": 6,
+      "odds": 8.3,
+      "win_prob": 0.0888
+    },
+    {
+      "rank": 8,
+      "horse_id": "2024101076",
+      "horse_name": "スマートポーション",
+      "score": 0.5348906174908723,
+      "horse_number": 7,
+      "odds": 6.9,
+      "win_prob": 0.0725
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-26T04:34:26.057983+00:00",
+  "generated_at_unix": 1790397266,
+  "expires_at_unix": 1790401166,
+  "run_id": "36217987770",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260925_113916",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "5a8c23a4fac30de0"
+  },
+  "data": {
+    "snapshot_id": "01691cb88ad8b045",
+    "base_snapshot_id": "610cc268c0a7a06c",
+    "snapshot_created_at": "2026-09-26T04:30:18.341176+00:00"
+  }
+}
