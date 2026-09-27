@@ -1,0 +1,89 @@
+{
+  "race_id": "202606040909",
+  "race_name": "サフラン賞",
+  "race_time": "2026-09-27 14:25",
+  "race_time_unix": 1790486700,
+  "race_place": "中山",
+  "for_race_date": "2026-09-27",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2024106301",
+      "horse_name": "リサナウト",
+      "score": 1.6127305639797225,
+      "horse_number": 7,
+      "odds": 1.5,
+      "win_prob": 0.2282
+    },
+    {
+      "rank": 2,
+      "horse_id": "2024106340",
+      "horse_name": "セプタードアイル",
+      "score": 1.3047128482743808,
+      "horse_number": 5,
+      "odds": 9.9,
+      "win_prob": 0.1672
+    },
+    {
+      "rank": 3,
+      "horse_id": "2024105822",
+      "horse_name": "リリカルフレア",
+      "score": 1.276823559847641,
+      "horse_number": 1,
+      "odds": 13.6,
+      "win_prob": 0.1626
+    },
+    {
+      "rank": 4,
+      "horse_id": "2024103198",
+      "horse_name": "シルクドマルス",
+      "score": 1.1165021775033313,
+      "horse_number": 2,
+      "odds": 8.8,
+      "win_prob": 0.1383
+    },
+    {
+      "rank": 5,
+      "horse_id": "2024106454",
+      "horse_name": "シルバーウィル",
+      "score": 0.984688843311647,
+      "horse_number": 3,
+      "odds": 5.7,
+      "win_prob": 0.1211
+    },
+    {
+      "rank": 6,
+      "horse_id": "2024106002",
+      "horse_name": "ユーダブルワン",
+      "score": 0.7704783032901359,
+      "horse_number": 6,
+      "odds": 20.9,
+      "win_prob": 0.0975
+    },
+    {
+      "rank": 7,
+      "horse_id": "2024106514",
+      "horse_name": "シュヴァルツペルレ",
+      "score": 0.6360321207583195,
+      "horse_number": 4,
+      "odds": 10.1,
+      "win_prob": 0.0851
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-09-27T04:53:14.169539+00:00",
+  "generated_at_unix": 1790484794,
+  "expires_at_unix": 1790488694,
+  "run_id": "36295350630",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20260925_113916",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "5a8c23a4fac30de0"
+  },
+  "data": {
+    "snapshot_id": "1e4ee0d596e26171",
+    "base_snapshot_id": "610cc268c0a7a06c",
+    "snapshot_created_at": "2026-09-27T04:48:38.028612+00:00"
+  }
+}
