@@ -1,0 +1,170 @@
+{
+  "race_id": "202605040108",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-10-03 14:01",
+  "race_time_unix": 1791003660,
+  "race_place": "東京",
+  "for_race_date": "2026-10-03",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103748",
+      "horse_name": "プレースメント",
+      "score": 2.5607600585059944,
+      "horse_number": 2,
+      "odds": 1.3,
+      "win_prob": 0.6243
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023105077",
+      "horse_name": "マサッチェハマー",
+      "score": 0.8817546144963602,
+      "horse_number": 3,
+      "odds": 18.1,
+      "win_prob": 0.1138
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106052",
+      "horse_name": "ジーティーブラック",
+      "score": 0.16124013253359587,
+      "horse_number": 10,
+      "odds": 15.5,
+      "win_prob": 0.0548
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105962",
+      "horse_name": "エドワードバローズ",
+      "score": 0.0029425786004223303,
+      "horse_number": 5,
+      "odds": 21.2,
+      "win_prob": 0.0467
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102378",
+      "horse_name": "ファンタイムギフト",
+      "score": -0.0919219442122883,
+      "horse_number": 15,
+      "odds": 17.2,
+      "win_prob": 0.0424
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022100320",
+      "horse_name": "タキノボリ",
+      "score": -0.7613365024867954,
+      "horse_number": 11,
+      "odds": 53.7,
+      "win_prob": 0.0215
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022102769",
+      "horse_name": "コーシューパンジャ",
+      "score": -0.8436726065633565,
+      "horse_number": 14,
+      "odds": 21.9,
+      "win_prob": 0.0198
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104967",
+      "horse_name": "サトノシャムロック",
+      "score": -1.1789375347741973,
+      "horse_number": 16,
+      "odds": 36.1,
+      "win_prob": 0.0141
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105730",
+      "horse_name": "コッレヴェッキオ",
+      "score": -1.2680180759818127,
+      "horse_number": 6,
+      "odds": 42.6,
+      "win_prob": 0.0129
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103422",
+      "horse_name": "ピースサイン",
+      "score": -1.340600720657435,
+      "horse_number": 8,
+      "odds": 29.0,
+      "win_prob": 0.012
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022105130",
+      "horse_name": "スターエンブレム",
+      "score": -1.3919240076842108,
+      "horse_number": 12,
+      "odds": 21.3,
+      "win_prob": 0.0113
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106545",
+      "horse_name": "カンレイスキー",
+      "score": -1.863936513581221,
+      "horse_number": 1,
+      "odds": 32.7,
+      "win_prob": 0.007
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023105779",
+      "horse_name": "カシノスパーク",
+      "score": -1.9041213448255323,
+      "horse_number": 9,
+      "odds": 130.6,
+      "win_prob": 0.0068
+    },
+    {
+      "rank": 14,
+      "horse_id": "2020103901",
+      "horse_name": "ウインドワンピース",
+      "score": -1.9156286970103453,
+      "horse_number": 4,
+      "odds": 119.0,
+      "win_prob": 0.0067
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021100506",
+      "horse_name": "キングクレオール",
+      "score": -2.3417863800181618,
+      "horse_number": 7,
+      "odds": 35.1,
+      "win_prob": 0.0043
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020100307",
+      "horse_name": "オブシディアン",
+      "score": -3.269171184708244,
+      "horse_number": 13,
+      "odds": 210.0,
+      "win_prob": 0.0017
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-03T04:53:17.034592+00:00",
+  "generated_at_unix": 1791003197,
+  "expires_at_unix": 1791007097,
+  "run_id": "37097755011",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "1c90cb90c2ceddbc",
+    "base_snapshot_id": "8e55bf435b3accef",
+    "snapshot_created_at": "2026-10-03T04:48:57.918360+00:00"
+  }
+}

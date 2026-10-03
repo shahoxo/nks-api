@@ -1,0 +1,134 @@
+{
+  "race_id": "202605040109",
+  "race_name": "八ヶ岳特別",
+  "race_time": "2026-10-03 14:35",
+  "race_time_unix": 1791005700,
+  "race_place": "東京",
+  "for_race_date": "2026-10-03",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022107186",
+      "horse_name": "フィールドノート",
+      "score": 2.335969061202737,
+      "horse_number": 4,
+      "odds": 2.3,
+      "win_prob": 0.379
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023101382",
+      "horse_name": "ドッグウッド",
+      "score": 1.4971815550307601,
+      "horse_number": 8,
+      "odds": 10.1,
+      "win_prob": 0.1619
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023105274",
+      "horse_name": "ミッキージャンプ",
+      "score": 1.382567961333367,
+      "horse_number": 7,
+      "odds": 9.0,
+      "win_prob": 0.1441
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102814",
+      "horse_name": "イージーライダー",
+      "score": 0.8991107034220378,
+      "horse_number": 2,
+      "odds": 8.6,
+      "win_prob": 0.0883
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105057",
+      "horse_name": "ノビリシマビジョン",
+      "score": 0.6424209860500786,
+      "horse_number": 10,
+      "odds": 7.0,
+      "win_prob": 0.0681
+    },
+    {
+      "rank": 6,
+      "horse_id": "2017104815",
+      "horse_name": "ディープキング",
+      "score": 0.028169450582132254,
+      "horse_number": 1,
+      "odds": 12.4,
+      "win_prob": 0.0365
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023104346",
+      "horse_name": "ステラスペース",
+      "score": -0.036702480082461554,
+      "horse_number": 3,
+      "odds": 18.4,
+      "win_prob": 0.0342
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021103533",
+      "horse_name": "ホウオウシンデレラ",
+      "score": -0.12437505955469413,
+      "horse_number": 11,
+      "odds": 28.3,
+      "win_prob": 0.0313
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022106817",
+      "horse_name": "マイネルアレス",
+      "score": -0.3989570947656656,
+      "horse_number": 12,
+      "odds": 38.6,
+      "win_prob": 0.0237
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106433",
+      "horse_name": "ファムクラジューズ",
+      "score": -0.42310260422336277,
+      "horse_number": 9,
+      "odds": 7.9,
+      "win_prob": 0.0231
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020106413",
+      "horse_name": "レッドバレンティア",
+      "score": -1.7048576504457276,
+      "horse_number": 6,
+      "odds": 48.2,
+      "win_prob": 0.0063
+    },
+    {
+      "rank": 12,
+      "horse_id": "2020101261",
+      "horse_name": "コスモスプモーニ",
+      "score": -2.2723054055626086,
+      "horse_number": 5,
+      "odds": 105.8,
+      "win_prob": 0.0035
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-03T04:53:17.034592+00:00",
+  "generated_at_unix": 1791003197,
+  "expires_at_unix": 1791007097,
+  "run_id": "37097755011",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "1c90cb90c2ceddbc",
+    "base_snapshot_id": "8e55bf435b3accef",
+    "snapshot_created_at": "2026-10-03T04:48:57.918360+00:00"
+  }
+}
