@@ -1,0 +1,161 @@
+{
+  "race_id": "202605040209",
+  "race_name": "tvk賞",
+  "race_time": "2026-10-04 14:35",
+  "race_time_unix": 1791092100,
+  "race_place": "東京",
+  "for_race_date": "2026-10-04",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103086",
+      "horse_name": "イヌボウノウタゴエ",
+      "score": 2.2519299884054127,
+      "horse_number": 3,
+      "odds": 6.6,
+      "win_prob": 0.2545
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107178",
+      "horse_name": "フェルミアーク",
+      "score": 2.015491458482502,
+      "horse_number": 9,
+      "odds": 2.9,
+      "win_prob": 0.2003
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107352",
+      "horse_name": "スペルーチェ",
+      "score": 1.634614972267997,
+      "horse_number": 10,
+      "odds": 4.1,
+      "win_prob": 0.1361
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105257",
+      "horse_name": "ウフドゥウフ",
+      "score": 1.3991965920201246,
+      "horse_number": 11,
+      "odds": 11.3,
+      "win_prob": 0.1072
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022101405",
+      "horse_name": "ララバニュルス",
+      "score": 0.9339991025194853,
+      "horse_number": 1,
+      "odds": 14.5,
+      "win_prob": 0.0669
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022107340",
+      "horse_name": "ラパンチュール",
+      "score": 0.784594177448037,
+      "horse_number": 15,
+      "odds": 11.1,
+      "win_prob": 0.0575
+    },
+    {
+      "rank": 7,
+      "horse_id": "2021106237",
+      "horse_name": "サーナーティオン",
+      "score": 0.6167274775209673,
+      "horse_number": 5,
+      "odds": 21.5,
+      "win_prob": 0.0485
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101464",
+      "horse_name": "レイユール",
+      "score": 0.013409260526431098,
+      "horse_number": 2,
+      "odds": 21.9,
+      "win_prob": 0.0263
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102052",
+      "horse_name": "セルズパワー",
+      "score": -0.06611957809820566,
+      "horse_number": 7,
+      "odds": 22.6,
+      "win_prob": 0.0243
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023103036",
+      "horse_name": "カガラプンツェル",
+      "score": -0.2782018064015201,
+      "horse_number": 14,
+      "odds": 57.6,
+      "win_prob": 0.0196
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101558",
+      "horse_name": "ルージュブリッツ",
+      "score": -0.29220021802038176,
+      "horse_number": 4,
+      "odds": 29.7,
+      "win_prob": 0.0193
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019104818",
+      "horse_name": "メイケイバートン",
+      "score": -0.510314473766235,
+      "horse_number": 8,
+      "odds": 29.0,
+      "win_prob": 0.0155
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021100879",
+      "horse_name": "ハクサンイーグル",
+      "score": -0.7560132614843452,
+      "horse_number": 13,
+      "odds": 57.3,
+      "win_prob": 0.0121
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022109145",
+      "horse_name": "エイヨーアメジスト",
+      "score": -1.2814498268870678,
+      "horse_number": 6,
+      "odds": 52.8,
+      "win_prob": 0.0071
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020104732",
+      "horse_name": "ハルオーブ",
+      "score": -1.6229065788813963,
+      "horse_number": 12,
+      "odds": 54.4,
+      "win_prob": 0.005
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-04T05:24:17.084902+00:00",
+  "generated_at_unix": 1791091457,
+  "expires_at_unix": 1791095357,
+  "run_id": "37179630785",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "f72a9302a9f1b9a4",
+    "base_snapshot_id": "8e55bf435b3accef",
+    "snapshot_created_at": "2026-10-04T05:21:33.587218+00:00"
+  }
+}

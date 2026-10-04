@@ -1,0 +1,170 @@
+{
+  "race_id": "202608040210",
+  "race_name": "藤森S",
+  "race_time": "2026-10-04 14:50",
+  "race_time_unix": 1791093000,
+  "race_place": "京都",
+  "for_race_date": "2026-10-04",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103716",
+      "horse_name": "メイショウホウレン",
+      "score": 1.1695009067446287,
+      "horse_number": 7,
+      "odds": 5.6,
+      "win_prob": 0.1461
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022107278",
+      "horse_name": "ゼットエール",
+      "score": 1.1277115167491505,
+      "horse_number": 14,
+      "odds": 3.4,
+      "win_prob": 0.1401
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021101737",
+      "horse_name": "エンヤラヴフェイス",
+      "score": 0.9459178538141039,
+      "horse_number": 9,
+      "odds": 13.8,
+      "win_prob": 0.1165
+    },
+    {
+      "rank": 4,
+      "horse_id": "2020106557",
+      "horse_name": "コンクイスタ",
+      "score": 0.9363700722280258,
+      "horse_number": 8,
+      "odds": 9.1,
+      "win_prob": 0.1154
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021100161",
+      "horse_name": "ロードフロンティア",
+      "score": 0.5132903713372355,
+      "horse_number": 5,
+      "odds": 11.6,
+      "win_prob": 0.0751
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105128",
+      "horse_name": "サトノカルナバル",
+      "score": 0.4152839811298995,
+      "horse_number": 12,
+      "odds": 10.8,
+      "win_prob": 0.068
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020101707",
+      "horse_name": "スマートフォルス",
+      "score": 0.41416657556394154,
+      "horse_number": 10,
+      "odds": 14.6,
+      "win_prob": 0.068
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020100162",
+      "horse_name": "ロードアウォード",
+      "score": 0.33945589568624335,
+      "horse_number": 4,
+      "odds": 16.1,
+      "win_prob": 0.063
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102434",
+      "horse_name": "ルージュラナキラ",
+      "score": 0.26780021609787,
+      "horse_number": 15,
+      "odds": 12.0,
+      "win_prob": 0.0586
+    },
+    {
+      "rank": 10,
+      "horse_id": "2019100553",
+      "horse_name": "ドンレパルス",
+      "score": -0.053374409233046746,
+      "horse_number": 13,
+      "odds": 26.1,
+      "win_prob": 0.0423
+    },
+    {
+      "rank": 11,
+      "horse_id": "2020104228",
+      "horse_name": "ケイアイアニラ",
+      "score": -0.6756688786136488,
+      "horse_number": 11,
+      "odds": 83.7,
+      "win_prob": 0.0225
+    },
+    {
+      "rank": 12,
+      "horse_id": "2019103605",
+      "horse_name": "ペプチドヤマト",
+      "score": -0.8318568385797207,
+      "horse_number": 6,
+      "odds": 22.5,
+      "win_prob": 0.0192
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021110104",
+      "horse_name": "エコロエイト",
+      "score": -0.8783298874812916,
+      "horse_number": 16,
+      "odds": 28.5,
+      "win_prob": 0.0183
+    },
+    {
+      "rank": 14,
+      "horse_id": "2021100653",
+      "horse_name": "アガシ",
+      "score": -0.8847800866203673,
+      "horse_number": 3,
+      "odds": 20.5,
+      "win_prob": 0.0182
+    },
+    {
+      "rank": 15,
+      "horse_id": "2020100168",
+      "horse_name": "ロードラディウス",
+      "score": -1.0534720017363501,
+      "horse_number": 1,
+      "odds": 58.4,
+      "win_prob": 0.0153
+    },
+    {
+      "rank": 16,
+      "horse_id": "2020101182",
+      "horse_name": "グッジョブ",
+      "score": -1.193705286286957,
+      "horse_number": 2,
+      "odds": 76.0,
+      "win_prob": 0.0133
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-04T05:24:17.084902+00:00",
+  "generated_at_unix": 1791091457,
+  "expires_at_unix": 1791095357,
+  "run_id": "37179630785",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "f72a9302a9f1b9a4",
+    "base_snapshot_id": "8e55bf435b3accef",
+    "snapshot_created_at": "2026-10-04T05:21:33.587218+00:00"
+  }
+}
