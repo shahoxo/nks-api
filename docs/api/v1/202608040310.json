@@ -1,0 +1,161 @@
+{
+  "race_id": "202608040310",
+  "race_name": "宇治川特別",
+  "race_time": "2026-10-10 14:50",
+  "race_time_unix": 1791611400,
+  "race_place": "京都",
+  "for_race_date": "2026-10-10",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104050",
+      "horse_name": "プチプラージュ",
+      "score": 1.918486285982384,
+      "horse_number": 4,
+      "odds": 89.4,
+      "win_prob": 0.2974
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023106665",
+      "horse_name": "ウチュウノセカイ",
+      "score": 0.9902564496610591,
+      "horse_number": 8,
+      "odds": 63.9,
+      "win_prob": 0.116
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102990",
+      "horse_name": "キングケープ",
+      "score": 0.9076191273424571,
+      "horse_number": 14,
+      "odds": 11.9,
+      "win_prob": 0.1067
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102661",
+      "horse_name": "タナスーペルノーバ",
+      "score": 0.8671355660946118,
+      "horse_number": 13,
+      "odds": 15.7,
+      "win_prob": 0.1024
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103889",
+      "horse_name": "マーゴットラヴミー",
+      "score": 0.346666598086712,
+      "horse_number": 11,
+      "odds": 3.7,
+      "win_prob": 0.0604
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105605",
+      "horse_name": "アイルドリアン",
+      "score": 0.2927262858674541,
+      "horse_number": 7,
+      "odds": 21.0,
+      "win_prob": 0.0572
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107169",
+      "horse_name": "エルハーベン",
+      "score": 0.1541369949840655,
+      "horse_number": 6,
+      "odds": 4.5,
+      "win_prob": 0.0497
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021106661",
+      "horse_name": "ヒーローインチーフ",
+      "score": 0.08965347481889234,
+      "horse_number": 9,
+      "odds": 20.0,
+      "win_prob": 0.0466
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103058",
+      "horse_name": "ノボリリア",
+      "score": 0.07060549813540662,
+      "horse_number": 2,
+      "odds": 4.9,
+      "win_prob": 0.0457
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104698",
+      "horse_name": "ブルーサンセット",
+      "score": -0.21354120290414322,
+      "horse_number": 3,
+      "odds": 56.2,
+      "win_prob": 0.0342
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022106605",
+      "horse_name": "ヤマニンレセディ",
+      "score": -0.4702541324888413,
+      "horse_number": 10,
+      "odds": 54.6,
+      "win_prob": 0.0264
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022104879",
+      "horse_name": "テーオーシュタイン",
+      "score": -0.5227650397995764,
+      "horse_number": 12,
+      "odds": 19.7,
+      "win_prob": 0.025
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022104180",
+      "horse_name": "ワンコールアウェイ",
+      "score": -0.8614338399586453,
+      "horse_number": 15,
+      "odds": 10.2,
+      "win_prob": 0.0178
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022106555",
+      "horse_name": "タガノアンファン",
+      "score": -1.2123626273978845,
+      "horse_number": 1,
+      "odds": 11.9,
+      "win_prob": 0.0124
+    },
+    {
+      "rank": 15,
+      "horse_id": "2022103704",
+      "horse_name": "アスゴッド",
+      "score": -2.9969738796661014,
+      "horse_number": 5,
+      "odds": 42.4,
+      "win_prob": 0.002
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-10T05:26:08.177124+00:00",
+  "generated_at_unix": 1791609968,
+  "expires_at_unix": 1791613868,
+  "run_id": "38027179684",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "f593a14f424f5269",
+    "base_snapshot_id": "66f89dfd92b5dde1",
+    "snapshot_created_at": "2026-10-10T05:21:10.528236+00:00"
+  }
+}

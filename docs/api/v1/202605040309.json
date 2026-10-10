@@ -1,0 +1,107 @@
+{
+  "race_id": "202605040309",
+  "race_name": "陣馬特別",
+  "race_time": "2026-10-10 14:35",
+  "race_time_unix": 1791610500,
+  "race_place": "東京",
+  "for_race_date": "2026-10-10",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105259",
+      "horse_name": "リュクスパトロール",
+      "score": 1.8984672521215036,
+      "horse_number": 1,
+      "odds": 10.8,
+      "win_prob": 0.6443
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105118",
+      "horse_name": "ノクターン",
+      "score": 0.36420811433427513,
+      "horse_number": 2,
+      "odds": 1.8,
+      "win_prob": 0.136
+    },
+    {
+      "rank": 3,
+      "horse_id": "2020102976",
+      "horse_name": "ノーブルクライ",
+      "score": 0.34474673472730133,
+      "horse_number": 9,
+      "odds": 25.7,
+      "win_prob": 0.1333
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105475",
+      "horse_name": "レイデラルース",
+      "score": -1.451616945778877,
+      "horse_number": 5,
+      "odds": 31.4,
+      "win_prob": 0.0216
+    },
+    {
+      "rank": 5,
+      "horse_id": "2020103208",
+      "horse_name": "ジュンツバメガエシ",
+      "score": -1.461728638732746,
+      "horse_number": 7,
+      "odds": 6.9,
+      "win_prob": 0.0214
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106563",
+      "horse_name": "イクリール",
+      "score": -1.637223655590017,
+      "horse_number": 8,
+      "odds": 11.0,
+      "win_prob": 0.0179
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022105633",
+      "horse_name": "ノラリクラリ",
+      "score": -1.699188313975242,
+      "horse_number": 3,
+      "odds": 5.1,
+      "win_prob": 0.0168
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022103510",
+      "horse_name": "キングズトゥルー",
+      "score": -2.689023981084459,
+      "horse_number": 6,
+      "odds": 14.5,
+      "win_prob": 0.0062
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021105763",
+      "horse_name": "ビップチェイス",
+      "score": -3.5308427202790313,
+      "horse_number": 4,
+      "odds": 27.5,
+      "win_prob": 0.0026
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-10T05:26:08.177124+00:00",
+  "generated_at_unix": 1791609968,
+  "expires_at_unix": 1791613868,
+  "run_id": "38027179684",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "f593a14f424f5269",
+    "base_snapshot_id": "66f89dfd92b5dde1",
+    "snapshot_created_at": "2026-10-10T05:21:10.528236+00:00"
+  }
+}

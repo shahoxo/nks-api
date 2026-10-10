@@ -1,0 +1,170 @@
+{
+  "race_id": "202605040310",
+  "race_name": "JRA電話",
+  "race_time": "2026-10-10 15:10",
+  "race_time_unix": 1791612600,
+  "race_place": "東京",
+  "for_race_date": "2026-10-10",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103701",
+      "horse_name": "マッドゲイル",
+      "score": 1.5245788874107211,
+      "horse_number": 4,
+      "odds": 17.3,
+      "win_prob": 0.2422
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105197",
+      "horse_name": "マウントバーノン",
+      "score": 1.064506989078562,
+      "horse_number": 1,
+      "odds": 20.2,
+      "win_prob": 0.1519
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106337",
+      "horse_name": "ダブルメッセージ",
+      "score": 0.786807191812851,
+      "horse_number": 8,
+      "odds": 55.9,
+      "win_prob": 0.1146
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022110118",
+      "horse_name": "ユウトザユウト",
+      "score": 0.5423725513044201,
+      "horse_number": 2,
+      "odds": 16.2,
+      "win_prob": 0.0895
+    },
+    {
+      "rank": 5,
+      "horse_id": "2018105086",
+      "horse_name": "シテフローラル",
+      "score": 0.32943682770490396,
+      "horse_number": 11,
+      "odds": 45.4,
+      "win_prob": 0.0721
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023106955",
+      "horse_name": "デールエルバハリ",
+      "score": 0.23707196388982169,
+      "horse_number": 10,
+      "odds": 31.0,
+      "win_prob": 0.0657
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107258",
+      "horse_name": "シャローファースト",
+      "score": 0.15201512059703307,
+      "horse_number": 16,
+      "odds": 9.9,
+      "win_prob": 0.0602
+    },
+    {
+      "rank": 8,
+      "horse_id": "2017106722",
+      "horse_name": "サイモンルモンド",
+      "score": -0.10257820906636182,
+      "horse_number": 6,
+      "odds": 121.6,
+      "win_prob": 0.0465
+    },
+    {
+      "rank": 9,
+      "horse_id": "2021102436",
+      "horse_name": "レッドリベルタ",
+      "score": -0.42941877614219454,
+      "horse_number": 9,
+      "odds": 15.3,
+      "win_prob": 0.0334
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104740",
+      "horse_name": "コズミックダンサー",
+      "score": -0.7791904883816655,
+      "horse_number": 7,
+      "odds": 6.6,
+      "win_prob": 0.0234
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023103714",
+      "horse_name": "インナーパッション",
+      "score": -0.8587079006294988,
+      "horse_number": 3,
+      "odds": 5.3,
+      "win_prob": 0.0216
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103149",
+      "horse_name": "タイキインドラ",
+      "score": -0.9103087139693228,
+      "horse_number": 12,
+      "odds": 24.6,
+      "win_prob": 0.0205
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023102553",
+      "horse_name": "ボクマダネムイヨ",
+      "score": -1.031868725292062,
+      "horse_number": 14,
+      "odds": 3.1,
+      "win_prob": 0.0181
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022104601",
+      "horse_name": "バタール",
+      "score": -1.207416311273616,
+      "horse_number": 5,
+      "odds": 15.4,
+      "win_prob": 0.0152
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023103152",
+      "horse_name": "メイショウジンライ",
+      "score": -1.3667238616835222,
+      "horse_number": 15,
+      "odds": 14.8,
+      "win_prob": 0.0129
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021105321",
+      "horse_name": "エーデル",
+      "score": -1.4327023761676818,
+      "horse_number": 13,
+      "odds": 104.0,
+      "win_prob": 0.0121
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-10T05:26:08.177124+00:00",
+  "generated_at_unix": 1791609968,
+  "expires_at_unix": 1791613868,
+  "run_id": "38027179684",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "f593a14f424f5269",
+    "base_snapshot_id": "66f89dfd92b5dde1",
+    "snapshot_created_at": "2026-10-10T05:21:10.528236+00:00"
+  }
+}
