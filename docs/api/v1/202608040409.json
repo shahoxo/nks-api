@@ -1,0 +1,170 @@
+{
+  "race_id": "202608040409",
+  "race_name": "円山特別",
+  "race_time": "2026-10-11 14:15",
+  "race_time_unix": 1791695700,
+  "race_place": "京都",
+  "for_race_date": "2026-10-11",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022102427",
+      "horse_name": "パールフロント",
+      "score": 2.434758040956367,
+      "horse_number": 15,
+      "odds": 25.1,
+      "win_prob": 0.3248
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022106169",
+      "horse_name": "カワキタマナレア",
+      "score": 1.7320860855616116,
+      "horse_number": 14,
+      "odds": 36.3,
+      "win_prob": 0.1593
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023102567",
+      "horse_name": "フェアリーライズ",
+      "score": 1.4276426150746209,
+      "horse_number": 9,
+      "odds": 105.1,
+      "win_prob": 0.117
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023104539",
+      "horse_name": "フレンズプラス",
+      "score": 1.1555918216158936,
+      "horse_number": 11,
+      "odds": 85.7,
+      "win_prob": 0.0888
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022107082",
+      "horse_name": "タイセイディアマン",
+      "score": 0.928041705678747,
+      "horse_number": 8,
+      "odds": 6.3,
+      "win_prob": 0.0705
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021101057",
+      "horse_name": "セールヴォラン",
+      "score": 0.46077157494899335,
+      "horse_number": 16,
+      "odds": 78.8,
+      "win_prob": 0.0439
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101900",
+      "horse_name": "レッドレベンディス",
+      "score": 0.18764000978277723,
+      "horse_number": 2,
+      "odds": 20.9,
+      "win_prob": 0.0333
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023100670",
+      "horse_name": "ルクスレイモンド",
+      "score": 0.1342993033550684,
+      "horse_number": 4,
+      "odds": 25.3,
+      "win_prob": 0.0315
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023101951",
+      "horse_name": "メイショウバルク",
+      "score": -0.04639990636705528,
+      "horse_number": 1,
+      "odds": 14.3,
+      "win_prob": 0.0263
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022106923",
+      "horse_name": "バッハアルプゼー",
+      "score": -0.11498325328615903,
+      "horse_number": 13,
+      "odds": 22.7,
+      "win_prob": 0.0245
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022102939",
+      "horse_name": "アオイレーギーナ",
+      "score": -0.263136877836802,
+      "horse_number": 12,
+      "odds": 10.3,
+      "win_prob": 0.0211
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022103857",
+      "horse_name": "クインズシフォン",
+      "score": -0.6234819452179237,
+      "horse_number": 5,
+      "odds": 79.4,
+      "win_prob": 0.0146
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022101536",
+      "horse_name": "ストラテージュ",
+      "score": -0.673319826321883,
+      "horse_number": 3,
+      "odds": 94.3,
+      "win_prob": 0.0139
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100654",
+      "horse_name": "セルヴァンス",
+      "score": -0.7235781827172779,
+      "horse_number": 6,
+      "odds": 66.9,
+      "win_prob": 0.0132
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023110103",
+      "horse_name": "タカスタカスタカス",
+      "score": -1.0917588591663132,
+      "horse_number": 7,
+      "odds": 1.5,
+      "win_prob": 0.0091
+    },
+    {
+      "rank": 16,
+      "horse_id": "2022101434",
+      "horse_name": "ダノンプリマ",
+      "score": -1.1974097716499041,
+      "horse_number": 10,
+      "odds": 35.7,
+      "win_prob": 0.0082
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-11T05:17:37.932398+00:00",
+  "generated_at_unix": 1791695857,
+  "expires_at_unix": 1791699757,
+  "run_id": "38114023334",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "30e5350ae07c515a",
+    "base_snapshot_id": "66f89dfd92b5dde1",
+    "snapshot_created_at": "2026-10-11T05:12:44.157101+00:00"
+  }
+}

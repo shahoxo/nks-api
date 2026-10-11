@@ -1,0 +1,134 @@
+{
+  "race_id": "202605040409",
+  "race_name": "鷹巣山特別",
+  "race_time": "2026-10-11 14:35",
+  "race_time_unix": 1791696900,
+  "race_place": "東京",
+  "for_race_date": "2026-10-11",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2021103145",
+      "horse_name": "レッドレナート",
+      "score": 2.234238929980495,
+      "horse_number": 8,
+      "odds": 30.0,
+      "win_prob": 0.4013
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021102106",
+      "horse_name": "ツルマウカタチ",
+      "score": 1.1110135965500505,
+      "horse_number": 1,
+      "odds": 32.3,
+      "win_prob": 0.1285
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023103980",
+      "horse_name": "ポペット",
+      "score": 0.8718042755127332,
+      "horse_number": 3,
+      "odds": 17.8,
+      "win_prob": 0.1008
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022104647",
+      "horse_name": "エーデルヴェーグ",
+      "score": 0.6932580119350238,
+      "horse_number": 4,
+      "odds": 5.8,
+      "win_prob": 0.0841
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021105871",
+      "horse_name": "ソニックライン",
+      "score": 0.4320706718465806,
+      "horse_number": 6,
+      "odds": 17.0,
+      "win_prob": 0.0645
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105252",
+      "horse_name": "シャンパンマーク",
+      "score": 0.1698055484073458,
+      "horse_number": 10,
+      "odds": 36.7,
+      "win_prob": 0.0495
+    },
+    {
+      "rank": 7,
+      "horse_id": "2017110086",
+      "horse_name": "ジッピーレーサー",
+      "score": 0.0794523196752544,
+      "horse_number": 2,
+      "odds": 118.9,
+      "win_prob": 0.0451
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023101566",
+      "horse_name": "フジガイフウ",
+      "score": -0.0019621459819812517,
+      "horse_number": 11,
+      "odds": 6.8,
+      "win_prob": 0.0416
+    },
+    {
+      "rank": 9,
+      "horse_id": "2020103218",
+      "horse_name": "フミサウンド",
+      "score": -0.15232138551953286,
+      "horse_number": 7,
+      "odds": 27.4,
+      "win_prob": 0.0357
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023110006",
+      "horse_name": "エラルディーク",
+      "score": -0.31271396483096686,
+      "horse_number": 12,
+      "odds": 4.5,
+      "win_prob": 0.0303
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106925",
+      "horse_name": "クレパスキュラー",
+      "score": -1.1909497347081084,
+      "horse_number": 9,
+      "odds": 2.6,
+      "win_prob": 0.0125
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100504",
+      "horse_name": "クールデイトナ",
+      "score": -1.8865683422585422,
+      "horse_number": 5,
+      "odds": 11.5,
+      "win_prob": 0.0062
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-11T05:17:37.932398+00:00",
+  "generated_at_unix": 1791695857,
+  "expires_at_unix": 1791699757,
+  "run_id": "38114023334",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "30e5350ae07c515a",
+    "base_snapshot_id": "66f89dfd92b5dde1",
+    "snapshot_created_at": "2026-10-11T05:12:44.157101+00:00"
+  }
+}
