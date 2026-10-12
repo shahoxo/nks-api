@@ -1,0 +1,134 @@
+{
+  "race_id": "202608040509",
+  "race_name": "蹴上特別",
+  "race_time": "2026-10-12 14:35",
+  "race_time_unix": 1791783300,
+  "race_place": "京都",
+  "for_race_date": "2026-10-12",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022110123",
+      "horse_name": "クロノスバレット",
+      "score": 1.9319429611703687,
+      "horse_number": 3,
+      "odds": 9.3,
+      "win_prob": 0.296
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100650",
+      "horse_name": "ロードソルスティス",
+      "score": 1.7554746229399985,
+      "horse_number": 2,
+      "odds": 23.2,
+      "win_prob": 0.2475
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101542",
+      "horse_name": "サザンウォリアー",
+      "score": 1.0128137227133274,
+      "horse_number": 9,
+      "odds": 133.5,
+      "win_prob": 0.1166
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022107301",
+      "horse_name": "イプシロンナンバー",
+      "score": 0.893886999189376,
+      "horse_number": 1,
+      "odds": 14.9,
+      "win_prob": 0.1033
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022110135",
+      "horse_name": "ゼンエスポワール",
+      "score": 0.5986529895812811,
+      "horse_number": 5,
+      "odds": 7.3,
+      "win_prob": 0.0766
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021106353",
+      "horse_name": "シグムンド",
+      "score": -0.06713983283757655,
+      "horse_number": 8,
+      "odds": 57.5,
+      "win_prob": 0.039
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023102075",
+      "horse_name": "ソルチェリア",
+      "score": -0.08857414719015383,
+      "horse_number": 4,
+      "odds": 5.4,
+      "win_prob": 0.0382
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105055",
+      "horse_name": "レッドボブ",
+      "score": -0.4671099820734004,
+      "horse_number": 11,
+      "odds": 25.5,
+      "win_prob": 0.026
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102700",
+      "horse_name": "トゥーザムーン",
+      "score": -0.5308531591476617,
+      "horse_number": 7,
+      "odds": 16.8,
+      "win_prob": 0.0244
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022104214",
+      "horse_name": "ニホンピロデヴィン",
+      "score": -0.8954444939724546,
+      "horse_number": 10,
+      "odds": 4.7,
+      "win_prob": 0.0168
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102576",
+      "horse_name": "テイエムサンレーヴ",
+      "score": -1.5833820908968885,
+      "horse_number": 12,
+      "odds": 3.1,
+      "win_prob": 0.0084
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023105387",
+      "horse_name": "マシン",
+      "score": -1.7075154193747206,
+      "horse_number": 6,
+      "odds": 15.7,
+      "win_prob": 0.0074
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-12T05:30:48.400899+00:00",
+  "generated_at_unix": 1791783048,
+  "expires_at_unix": 1791786948,
+  "run_id": "38207860770",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "ce44282251a56206",
+    "base_snapshot_id": "66f89dfd92b5dde1",
+    "snapshot_created_at": "2026-10-12T05:26:02.592892+00:00"
+  }
+}
