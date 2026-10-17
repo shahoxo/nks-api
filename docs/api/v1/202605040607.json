@@ -1,0 +1,125 @@
+{
+  "race_id": "202605040607",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-10-17 13:25",
+  "race_time_unix": 1792211100,
+  "race_place": "東京",
+  "for_race_date": "2026-10-17",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022101032",
+      "horse_name": "ワカミヤイリオス",
+      "score": 0.6323977874849355,
+      "horse_number": 8,
+      "odds": 32.8,
+      "win_prob": 0.2252
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021101448",
+      "horse_name": "タイセイリアル",
+      "score": 0.6129063098689771,
+      "horse_number": 5,
+      "odds": 3.3,
+      "win_prob": 0.2208
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023106749",
+      "horse_name": "アトラステソーロ",
+      "score": 0.5641270334360047,
+      "horse_number": 9,
+      "odds": 8.9,
+      "win_prob": 0.2101
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102958",
+      "horse_name": "スティールヴォーグ",
+      "score": -0.1868606171650276,
+      "horse_number": 6,
+      "odds": 32.9,
+      "win_prob": 0.0981
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100320",
+      "horse_name": "タキノボリ",
+      "score": -0.27828725247434566,
+      "horse_number": 7,
+      "odds": 26.8,
+      "win_prob": 0.0895
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023102352",
+      "horse_name": "タイセツナヒ",
+      "score": -0.42615615910733234,
+      "horse_number": 1,
+      "odds": 60.3,
+      "win_prob": 0.077
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022107021",
+      "horse_name": "ファミーユウルーズ",
+      "score": -1.422812219799461,
+      "horse_number": 2,
+      "odds": 85.5,
+      "win_prob": 0.028
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022104311",
+      "horse_name": "ヤングアメリカンズ",
+      "score": -1.8513005396548434,
+      "horse_number": 10,
+      "odds": 4.1,
+      "win_prob": 0.0182
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105753",
+      "horse_name": "アデルフィー",
+      "score": -1.9415080236388769,
+      "horse_number": 4,
+      "odds": 17.3,
+      "win_prob": 0.0166
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022105773",
+      "horse_name": "リアライズオーラム",
+      "score": -2.0749601240973865,
+      "horse_number": 3,
+      "odds": 10.2,
+      "win_prob": 0.0145
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023107251",
+      "horse_name": "モノポリオ",
+      "score": -4.007663842346815,
+      "horse_number": 11,
+      "odds": 3.1,
+      "win_prob": 0.002
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-17T03:59:25.618360+00:00",
+  "generated_at_unix": 1792209565,
+  "expires_at_unix": 1792213465,
+  "run_id": "39000533480",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "1a5220672c9370bb",
+    "base_snapshot_id": "d5d8ffd96ad1e928",
+    "snapshot_created_at": "2026-10-17T03:54:45.259897+00:00"
+  }
+}

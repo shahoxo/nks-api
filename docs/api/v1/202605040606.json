@@ -1,0 +1,188 @@
+{
+  "race_id": "202605040606",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-10-17 12:55",
+  "race_time_unix": 1792209300,
+  "race_place": "東京",
+  "for_race_date": "2026-10-17",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022105191",
+      "horse_name": "スペードギニー",
+      "score": 1.3286838809148498,
+      "horse_number": 8,
+      "odds": 33.7,
+      "win_prob": 0.1711
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105119",
+      "horse_name": "ベルヴィヴァン",
+      "score": 1.2064131538139884,
+      "horse_number": 10,
+      "odds": 50.8,
+      "win_prob": 0.1511
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104412",
+      "horse_name": "リラ",
+      "score": 0.9602196066538548,
+      "horse_number": 9,
+      "odds": 7.9,
+      "win_prob": 0.1178
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023102422",
+      "horse_name": "ミラビリオン",
+      "score": 0.8458418511980846,
+      "horse_number": 12,
+      "odds": 49.2,
+      "win_prob": 0.1049
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023102619",
+      "horse_name": "ナハトナナレオン",
+      "score": 0.21394872410949542,
+      "horse_number": 13,
+      "odds": 9.5,
+      "win_prob": 0.0553
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022105325",
+      "horse_name": "テルケンユミクイン",
+      "score": 0.15506336561315523,
+      "horse_number": 15,
+      "odds": 31.9,
+      "win_prob": 0.0521
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101171",
+      "horse_name": "シヴィータス",
+      "score": 0.1037996163812389,
+      "horse_number": 2,
+      "odds": 5.0,
+      "win_prob": 0.0494
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023102633",
+      "horse_name": "アイアンパイク",
+      "score": 0.10319816048558747,
+      "horse_number": 17,
+      "odds": 4.7,
+      "win_prob": 0.0494
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022102696",
+      "horse_name": "ラブリーガール",
+      "score": 0.08236379973932229,
+      "horse_number": 3,
+      "odds": 43.1,
+      "win_prob": 0.0484
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022101108",
+      "horse_name": "ホウオウショコラ",
+      "score": -0.17915668507980317,
+      "horse_number": 11,
+      "odds": 11.2,
+      "win_prob": 0.0371
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022100280",
+      "horse_name": "ベルシャイニー",
+      "score": -0.205360563032828,
+      "horse_number": 6,
+      "odds": 207.6,
+      "win_prob": 0.0361
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101383",
+      "horse_name": "コヴェナント",
+      "score": -0.5560857148745181,
+      "horse_number": 18,
+      "odds": 268.4,
+      "win_prob": 0.0253
+    },
+    {
+      "rank": 13,
+      "horse_id": "2020100707",
+      "horse_name": "クレセントウイング",
+      "score": -0.591870935140244,
+      "horse_number": 14,
+      "odds": 33.9,
+      "win_prob": 0.0244
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023100914",
+      "horse_name": "タイセイフレッサ",
+      "score": -0.6420693209453782,
+      "horse_number": 7,
+      "odds": 4.1,
+      "win_prob": 0.0232
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021106395",
+      "horse_name": "ハッピーサプライズ",
+      "score": -0.7100949558727591,
+      "horse_number": 16,
+      "odds": 134.4,
+      "win_prob": 0.0217
+    },
+    {
+      "rank": 16,
+      "horse_id": "2021103440",
+      "horse_name": "サトノセレナーデ",
+      "score": -0.7933598089504874,
+      "horse_number": 5,
+      "odds": 107.3,
+      "win_prob": 0.0199
+    },
+    {
+      "rank": 17,
+      "horse_id": "2023103032",
+      "horse_name": "ロンドンオービタル",
+      "score": -1.8103367356534765,
+      "horse_number": 4,
+      "odds": 10.7,
+      "win_prob": 0.0071
+    },
+    {
+      "rank": 18,
+      "horse_id": "2023100796",
+      "horse_name": "クラディスティーナ",
+      "score": -1.9965035869964038,
+      "horse_number": 1,
+      "odds": 113.7,
+      "win_prob": 0.0059
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-17T03:59:25.618360+00:00",
+  "generated_at_unix": 1792209565,
+  "expires_at_unix": 1792213465,
+  "run_id": "39000533480",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "1a5220672c9370bb",
+    "base_snapshot_id": "d5d8ffd96ad1e928",
+    "snapshot_created_at": "2026-10-17T03:54:45.259897+00:00"
+  }
+}
