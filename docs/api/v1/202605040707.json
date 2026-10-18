@@ -1,0 +1,134 @@
+{
+  "race_id": "202605040707",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-10-18 13:05",
+  "race_time_unix": 1792296300,
+  "race_place": "東京",
+  "for_race_date": "2026-10-18",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106150",
+      "horse_name": "スワローシチー",
+      "score": 0.6738681519359577,
+      "horse_number": 1,
+      "odds": 10.9,
+      "win_prob": 0.26
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023107330",
+      "horse_name": "ガーヴィ",
+      "score": 0.5897992917478719,
+      "horse_number": 12,
+      "odds": 2.3,
+      "win_prob": 0.2387
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022106800",
+      "horse_name": "コスモグラニット",
+      "score": -0.03694669813209291,
+      "horse_number": 9,
+      "odds": 57.5,
+      "win_prob": 0.1265
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023103584",
+      "horse_name": "トランスマーレ",
+      "score": -0.11624084362337715,
+      "horse_number": 8,
+      "odds": 10.5,
+      "win_prob": 0.1167
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022100700",
+      "horse_name": "ポッドロルフ",
+      "score": -0.8086059438817448,
+      "horse_number": 3,
+      "odds": 16.9,
+      "win_prob": 0.0578
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023103792",
+      "horse_name": "セットエトワール",
+      "score": -0.9267309505204742,
+      "horse_number": 2,
+      "odds": 12.2,
+      "win_prob": 0.0513
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023101855",
+      "horse_name": "ティラーノ",
+      "score": -0.9688802087335152,
+      "horse_number": 4,
+      "odds": 8.5,
+      "win_prob": 0.0492
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023106694",
+      "horse_name": "ノーウェアマン",
+      "score": -1.330597194344867,
+      "horse_number": 5,
+      "odds": 23.8,
+      "win_prob": 0.0341
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105559",
+      "horse_name": "サンヴィクトワール",
+      "score": -1.375085225836785,
+      "horse_number": 10,
+      "odds": 5.3,
+      "win_prob": 0.0326
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023105854",
+      "horse_name": "ウインポーシャ",
+      "score": -2.043666781544876,
+      "horse_number": 7,
+      "odds": 23.8,
+      "win_prob": 0.0165
+    },
+    {
+      "rank": 11,
+      "horse_id": "2022101425",
+      "horse_name": "エナジーショット",
+      "score": -2.4163860840759117,
+      "horse_number": 11,
+      "odds": 63.8,
+      "win_prob": 0.0113
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023107333",
+      "horse_name": "レッドアヴィオン",
+      "score": -3.1494867237709925,
+      "horse_number": 6,
+      "odds": 12.1,
+      "win_prob": 0.0054
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-18T04:05:24.143842+00:00",
+  "generated_at_unix": 1792296324,
+  "expires_at_unix": 1792300224,
+  "run_id": "39095541275",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "a06b53f18d24cb59",
+    "base_snapshot_id": "d5d8ffd96ad1e928",
+    "snapshot_created_at": "2026-10-18T04:00:27.464987+00:00"
+  }
+}

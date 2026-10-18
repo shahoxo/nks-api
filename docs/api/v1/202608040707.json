@@ -1,0 +1,107 @@
+{
+  "race_id": "202608040707",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-10-18 13:15",
+  "race_time_unix": 1792296900,
+  "race_place": "京都",
+  "for_race_date": "2026-10-18",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103315",
+      "horse_name": "ゴールドコット",
+      "score": 0.5792658799388478,
+      "horse_number": 5,
+      "odds": 9.6,
+      "win_prob": 0.3448
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023104315",
+      "horse_name": "タガノアルトゥーラ",
+      "score": 0.021933112768507845,
+      "horse_number": 7,
+      "odds": 10.2,
+      "win_prob": 0.1959
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104888",
+      "horse_name": "ジャカルタバオ",
+      "score": -0.34847489730313613,
+      "horse_number": 2,
+      "odds": 8.2,
+      "win_prob": 0.1346
+    },
+    {
+      "rank": 4,
+      "horse_id": "2019102986",
+      "horse_name": "シゲルオトヒメ",
+      "score": -0.5506363361132224,
+      "horse_number": 6,
+      "odds": 32.7,
+      "win_prob": 0.1096
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022102624",
+      "horse_name": "エイシンマールス",
+      "score": -0.6028850577465451,
+      "horse_number": 3,
+      "odds": 3.8,
+      "win_prob": 0.104
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104499",
+      "horse_name": "ビナハイバン",
+      "score": -1.0972368300518782,
+      "horse_number": 1,
+      "odds": 45.0,
+      "win_prob": 0.063
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023103245",
+      "horse_name": "ゴンタ",
+      "score": -2.0325415058712593,
+      "horse_number": 9,
+      "odds": 4.6,
+      "win_prob": 0.0244
+    },
+    {
+      "rank": 8,
+      "horse_id": "2020101756",
+      "horse_name": "アンクルブラック",
+      "score": -2.3691988708525717,
+      "horse_number": 4,
+      "odds": 7.4,
+      "win_prob": 0.0173
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023105354",
+      "horse_name": "バリオス",
+      "score": -3.3695969537441335,
+      "horse_number": 8,
+      "odds": 3.7,
+      "win_prob": 0.0063
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-18T04:05:24.143842+00:00",
+  "generated_at_unix": 1792296324,
+  "expires_at_unix": 1792300224,
+  "run_id": "39095541275",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "a06b53f18d24cb59",
+    "base_snapshot_id": "d5d8ffd96ad1e928",
+    "snapshot_created_at": "2026-10-18T04:00:27.464987+00:00"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "race_id": "202604040208",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-10-18 13:25",
+  "race_time_unix": 1792297500,
+  "race_place": "新潟",
+  "for_race_date": "2026-10-18",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023103862",
+      "horse_name": "ミヤラティーニ",
+      "score": 2.3293733361073303,
+      "horse_number": 9,
+      "odds": 13.1,
+      "win_prob": 0.6558
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021104101",
+      "horse_name": "タイセイブロウ",
+      "score": -0.07533575256030783,
+      "horse_number": 8,
+      "odds": 10.5,
+      "win_prob": 0.0573
+    },
+    {
+      "rank": 3,
+      "horse_id": "2021105868",
+      "horse_name": "バーケンティン",
+      "score": -0.3080126330540234,
+      "horse_number": 14,
+      "odds": 19.9,
+      "win_prob": 0.0452
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023101645",
+      "horse_name": "ヒナノムサシ",
+      "score": -0.46311990694826805,
+      "horse_number": 10,
+      "odds": 24.0,
+      "win_prob": 0.0386
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103068",
+      "horse_name": "トモジャオーリー",
+      "score": -0.6101941015177648,
+      "horse_number": 6,
+      "odds": 4.5,
+      "win_prob": 0.0333
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100676",
+      "horse_name": "ミスヘンリー",
+      "score": -0.6681618013781657,
+      "horse_number": 2,
+      "odds": 38.7,
+      "win_prob": 0.0314
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106076",
+      "horse_name": "ハノハノ",
+      "score": -0.8637070946684441,
+      "horse_number": 4,
+      "odds": 19.2,
+      "win_prob": 0.0257
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023107298",
+      "horse_name": "ファイブタンゴ",
+      "score": -0.8701683845470461,
+      "horse_number": 13,
+      "odds": 16.1,
+      "win_prob": 0.0256
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103218",
+      "horse_name": "グラスゴー",
+      "score": -1.1890847583051454,
+      "horse_number": 7,
+      "odds": 12.0,
+      "win_prob": 0.0185
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023102545",
+      "horse_name": "ミルトハーバー",
+      "score": -1.198718895977404,
+      "horse_number": 15,
+      "odds": 16.6,
+      "win_prob": 0.0183
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023101313",
+      "horse_name": "リピ",
+      "score": -1.2396290192001183,
+      "horse_number": 11,
+      "odds": 14.6,
+      "win_prob": 0.0176
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023102390",
+      "horse_name": "マジェステラ",
+      "score": -1.374098933225,
+      "horse_number": 3,
+      "odds": 32.4,
+      "win_prob": 0.0153
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103619",
+      "horse_name": "リゾートライン",
+      "score": -1.6917572482742935,
+      "horse_number": 5,
+      "odds": 10.5,
+      "win_prob": 0.0111
+    },
+    {
+      "rank": 14,
+      "horse_id": "2022100416",
+      "horse_name": "ヴァカンツァ",
+      "score": -2.8275878077798082,
+      "horse_number": 1,
+      "odds": 4.7,
+      "win_prob": 0.0035
+    },
+    {
+      "rank": 15,
+      "horse_id": "2021105862",
+      "horse_name": "フェリーニ",
+      "score": -3.0899200761166323,
+      "horse_number": 12,
+      "odds": 12.5,
+      "win_prob": 0.0027
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-18T04:05:24.143842+00:00",
+  "generated_at_unix": 1792296324,
+  "expires_at_unix": 1792300224,
+  "run_id": "39095541275",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "a06b53f18d24cb59",
+    "base_snapshot_id": "d5d8ffd96ad1e928",
+    "snapshot_created_at": "2026-10-18T04:00:27.464987+00:00"
+  }
+}
