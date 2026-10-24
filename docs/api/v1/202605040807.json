@@ -1,0 +1,134 @@
+{
+  "race_id": "202605040807",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-10-24 13:25",
+  "race_time_unix": 1792815900,
+  "race_place": "東京",
+  "for_race_date": "2026-10-24",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022104570",
+      "horse_name": "ラヴアンドライク",
+      "score": 0.018483369255364,
+      "horse_number": 4,
+      "odds": 2.9,
+      "win_prob": 0.1696
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022101141",
+      "horse_name": "ガンバレベアー",
+      "score": -0.03850599792661695,
+      "horse_number": 7,
+      "odds": 30.1,
+      "win_prob": 0.1601
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023101107",
+      "horse_name": "ブルーサーマル",
+      "score": -0.09380869375474325,
+      "horse_number": 12,
+      "odds": 7.4,
+      "win_prob": 0.1514
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105685",
+      "horse_name": "ディペンダブル",
+      "score": -0.4383567458547,
+      "horse_number": 9,
+      "odds": 6.4,
+      "win_prob": 0.1067
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023103780",
+      "horse_name": "サンクレゾン",
+      "score": -0.6346259031015208,
+      "horse_number": 8,
+      "odds": 9.1,
+      "win_prob": 0.0875
+    },
+    {
+      "rank": 6,
+      "horse_id": "2021105035",
+      "horse_name": "イージーブリージー",
+      "score": -0.6496584101792058,
+      "horse_number": 11,
+      "odds": 14.5,
+      "win_prob": 0.0862
+    },
+    {
+      "rank": 7,
+      "horse_id": "2019106938",
+      "horse_name": "ブエナディオサ",
+      "score": -0.8784925313726212,
+      "horse_number": 2,
+      "odds": 82.5,
+      "win_prob": 0.0683
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023105544",
+      "horse_name": "オーケーリアン",
+      "score": -1.0750399103206538,
+      "horse_number": 1,
+      "odds": 20.8,
+      "win_prob": 0.056
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023102891",
+      "horse_name": "グロリアス",
+      "score": -1.11624723106509,
+      "horse_number": 5,
+      "odds": 6.4,
+      "win_prob": 0.0537
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106521",
+      "horse_name": "タイヨウノユビワ",
+      "score": -1.536799862025902,
+      "horse_number": 6,
+      "odds": 76.2,
+      "win_prob": 0.035
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105097",
+      "horse_name": "サイモンセレーノ",
+      "score": -2.2274215210031643,
+      "horse_number": 3,
+      "odds": 6.9,
+      "win_prob": 0.0174
+    },
+    {
+      "rank": 12,
+      "horse_id": "2021104511",
+      "horse_name": "コルヴィル",
+      "score": -2.9733886594168766,
+      "horse_number": 10,
+      "odds": 27.9,
+      "win_prob": 0.0082
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-24T04:12:04.178542+00:00",
+  "generated_at_unix": 1792815124,
+  "expires_at_unix": 1792819024,
+  "run_id": "40061036411",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "1241e6c1e607744f",
+    "base_snapshot_id": "4a1c78aedaf41191",
+    "snapshot_created_at": "2026-10-24T04:07:21.987084+00:00"
+  }
+}

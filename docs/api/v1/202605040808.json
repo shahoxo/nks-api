@@ -1,0 +1,143 @@
+{
+  "race_id": "202605040808",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-10-24 13:55",
+  "race_time_unix": 1792817700,
+  "race_place": "東京",
+  "for_race_date": "2026-10-24",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023106964",
+      "horse_name": "アートバーゼル",
+      "score": 1.3887175167203798,
+      "horse_number": 5,
+      "odds": 1.9,
+      "win_prob": 0.2672
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023102434",
+      "horse_name": "グランフルス",
+      "score": 1.114915990421424,
+      "horse_number": 6,
+      "odds": 81.5,
+      "win_prob": 0.2024
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022103629",
+      "horse_name": "ウーバーストロング",
+      "score": 0.6736285884612153,
+      "horse_number": 2,
+      "odds": 105.9,
+      "win_prob": 0.1294
+    },
+    {
+      "rank": 4,
+      "horse_id": "2023106941",
+      "horse_name": "ノンブルドール",
+      "score": 0.6152968464684099,
+      "horse_number": 10,
+      "odds": 3.9,
+      "win_prob": 0.122
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022106792",
+      "horse_name": "コスモアチーブ",
+      "score": -0.043841976456509155,
+      "horse_number": 13,
+      "odds": 13.3,
+      "win_prob": 0.0625
+    },
+    {
+      "rank": 6,
+      "horse_id": "2022104684",
+      "horse_name": "ウィンスタンリー",
+      "score": -0.3357248336566926,
+      "horse_number": 7,
+      "odds": 25.4,
+      "win_prob": 0.0465
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023107041",
+      "horse_name": "ダノンテムズ",
+      "score": -0.42352990274168384,
+      "horse_number": 12,
+      "odds": 17.4,
+      "win_prob": 0.0425
+    },
+    {
+      "rank": 8,
+      "horse_id": "2023104713",
+      "horse_name": "ニシノマルガリート",
+      "score": -0.42960926673290506,
+      "horse_number": 3,
+      "odds": 25.6,
+      "win_prob": 0.0423
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023104920",
+      "horse_name": "バルドル",
+      "score": -0.8401081652556784,
+      "horse_number": 9,
+      "odds": 32.7,
+      "win_prob": 0.0279
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023101375",
+      "horse_name": "マテンロウオリジン",
+      "score": -1.1225985376521581,
+      "horse_number": 11,
+      "odds": 9.3,
+      "win_prob": 0.0209
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023105689",
+      "horse_name": "セイウンラピス",
+      "score": -1.5334565541337881,
+      "horse_number": 8,
+      "odds": 69.1,
+      "win_prob": 0.0138
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022106218",
+      "horse_name": "ウインファヴォリ",
+      "score": -1.5892721570310988,
+      "horse_number": 1,
+      "odds": 23.6,
+      "win_prob": 0.013
+    },
+    {
+      "rank": 13,
+      "horse_id": "2021104103",
+      "horse_name": "サンセットビュー",
+      "score": -1.915473129846205,
+      "horse_number": 4,
+      "odds": 21.4,
+      "win_prob": 0.0094
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-24T04:12:04.178542+00:00",
+  "generated_at_unix": 1792815124,
+  "expires_at_unix": 1792819024,
+  "run_id": "40061036411",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "1241e6c1e607744f",
+    "base_snapshot_id": "4a1c78aedaf41191",
+    "snapshot_created_at": "2026-10-24T04:07:21.987084+00:00"
+  }
+}

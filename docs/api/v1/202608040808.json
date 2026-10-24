@@ -1,0 +1,98 @@
+{
+  "race_id": "202608040808",
+  "race_name": "3歳以上2勝クラス",
+  "race_time": "2026-10-24 13:45",
+  "race_time_unix": 1792817100,
+  "race_place": "京都",
+  "for_race_date": "2026-10-24",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023100967",
+      "horse_name": "バークシャーシチー",
+      "score": 1.1022301517416195,
+      "horse_number": 2,
+      "odds": 7.4,
+      "win_prob": 0.3635
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022100381",
+      "horse_name": "オリバナム",
+      "score": 0.392877935404593,
+      "horse_number": 8,
+      "odds": 5.5,
+      "win_prob": 0.1771
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023107071",
+      "horse_name": "アーリーハーベスト",
+      "score": 0.3052868438194002,
+      "horse_number": 4,
+      "odds": 2.0,
+      "win_prob": 0.162
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022106224",
+      "horse_name": "ウインリベラシオン",
+      "score": -0.0030512472855577367,
+      "horse_number": 7,
+      "odds": 6.2,
+      "win_prob": 0.1185
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021102561",
+      "horse_name": "キーウェーブ",
+      "score": -0.5939056196298995,
+      "horse_number": 5,
+      "odds": 36.6,
+      "win_prob": 0.0651
+    },
+    {
+      "rank": 6,
+      "horse_id": "2019105277",
+      "horse_name": "リアド",
+      "score": -0.694907953857119,
+      "horse_number": 6,
+      "odds": 15.9,
+      "win_prob": 0.0588
+    },
+    {
+      "rank": 7,
+      "horse_id": "2020106399",
+      "horse_name": "ユメハハテシナク",
+      "score": -1.1938404451029694,
+      "horse_number": 3,
+      "odds": 11.7,
+      "win_prob": 0.0354
+    },
+    {
+      "rank": 8,
+      "horse_id": "2021105886",
+      "horse_name": "ホウオウトランプ",
+      "score": -1.7849778387715827,
+      "horse_number": 1,
+      "odds": 8.5,
+      "win_prob": 0.0195
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-24T04:12:04.178542+00:00",
+  "generated_at_unix": 1792815124,
+  "expires_at_unix": 1792819024,
+  "run_id": "40061036411",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "1241e6c1e607744f",
+    "base_snapshot_id": "4a1c78aedaf41191",
+    "snapshot_created_at": "2026-10-24T04:07:21.987084+00:00"
+  }
+}

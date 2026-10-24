@@ -1,0 +1,116 @@
+{
+  "race_id": "202604040308",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-10-24 13:35",
+  "race_time_unix": 1792816500,
+  "race_place": "新潟",
+  "for_race_date": "2026-10-24",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2022106099",
+      "horse_name": "ハルノアラシ",
+      "score": 0.28272662053674824,
+      "horse_number": 4,
+      "odds": 14.0,
+      "win_prob": 0.2363
+    },
+    {
+      "rank": 2,
+      "horse_id": "2021105418",
+      "horse_name": "クラッチプレイヤー",
+      "score": 0.04075593381675671,
+      "horse_number": 1,
+      "odds": 13.3,
+      "win_prob": 0.1849
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022104967",
+      "horse_name": "サトノシャムロック",
+      "score": -0.05515330964870473,
+      "horse_number": 2,
+      "odds": 12.2,
+      "win_prob": 0.1678
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022105773",
+      "horse_name": "リアライズオーラム",
+      "score": -0.3973112400017312,
+      "horse_number": 10,
+      "odds": 6.7,
+      "win_prob": 0.1186
+    },
+    {
+      "rank": 5,
+      "horse_id": "2022105448",
+      "horse_name": "エマージェンス",
+      "score": -0.47700900471804364,
+      "horse_number": 5,
+      "odds": 17.0,
+      "win_prob": 0.1094
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023105779",
+      "horse_name": "カシノスパーク",
+      "score": -0.6619015155408232,
+      "horse_number": 8,
+      "odds": 10.1,
+      "win_prob": 0.0907
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023105308",
+      "horse_name": "トルネードアイル",
+      "score": -1.3400162348107238,
+      "horse_number": 9,
+      "odds": 4.6,
+      "win_prob": 0.0456
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022102397",
+      "horse_name": "ビービーバザーク",
+      "score": -1.6269010431037239,
+      "horse_number": 3,
+      "odds": 3.4,
+      "win_prob": 0.0341
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022103986",
+      "horse_name": "タイセイデクスター",
+      "score": -3.0640261654406764,
+      "horse_number": 6,
+      "odds": 11.6,
+      "win_prob": 0.0079
+    },
+    {
+      "rank": 10,
+      "horse_id": "2023106573",
+      "horse_name": "アイビーチーキー",
+      "score": -3.595996210857356,
+      "horse_number": 7,
+      "odds": 7.8,
+      "win_prob": 0.0046
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-24T04:12:04.178542+00:00",
+  "generated_at_unix": 1792815124,
+  "expires_at_unix": 1792819024,
+  "run_id": "40061036411",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "1241e6c1e607744f",
+    "base_snapshot_id": "4a1c78aedaf41191",
+    "snapshot_created_at": "2026-10-24T04:07:21.987084+00:00"
+  }
+}
