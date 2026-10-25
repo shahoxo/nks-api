@@ -1,0 +1,161 @@
+{
+  "race_id": "202605040907",
+  "race_name": "3歳以上1勝クラス",
+  "race_time": "2026-10-25 13:10",
+  "race_time_unix": 1792901400,
+  "race_place": "東京",
+  "for_race_date": "2026-10-25",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023105405",
+      "horse_name": "フクシマブリルハム",
+      "score": 0.9267232451543322,
+      "horse_number": 7,
+      "odds": 11.2,
+      "win_prob": 0.2179
+    },
+    {
+      "rank": 2,
+      "horse_id": "2023100633",
+      "horse_name": "アイアンナックル",
+      "score": 0.5684928540629723,
+      "horse_number": 11,
+      "odds": 43.0,
+      "win_prob": 0.1516
+    },
+    {
+      "rank": 3,
+      "horse_id": "2022105162",
+      "horse_name": "ルージュナリッシュ",
+      "score": 0.12455875197132463,
+      "horse_number": 10,
+      "odds": 15.4,
+      "win_prob": 0.0966
+    },
+    {
+      "rank": 4,
+      "horse_id": "2022103482",
+      "horse_name": "ステラノヴァ",
+      "score": -0.03155432280993555,
+      "horse_number": 5,
+      "odds": 5.6,
+      "win_prob": 0.0825
+    },
+    {
+      "rank": 5,
+      "horse_id": "2023104053",
+      "horse_name": "マカイゾウ",
+      "score": -0.0621279273129174,
+      "horse_number": 8,
+      "odds": 48.0,
+      "win_prob": 0.08
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023100728",
+      "horse_name": "リネンタイリン",
+      "score": -0.1376670133053553,
+      "horse_number": 2,
+      "odds": 27.2,
+      "win_prob": 0.0741
+    },
+    {
+      "rank": 7,
+      "horse_id": "2022100613",
+      "horse_name": "ロードフロイデ",
+      "score": -0.2309865715929859,
+      "horse_number": 4,
+      "odds": 9.8,
+      "win_prob": 0.0674
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022101114",
+      "horse_name": "アイファージェット",
+      "score": -0.30224167158462384,
+      "horse_number": 13,
+      "odds": 311.3,
+      "win_prob": 0.0627
+    },
+    {
+      "rank": 9,
+      "horse_id": "2023103873",
+      "horse_name": "サーロー",
+      "score": -0.3210442380906853,
+      "horse_number": 12,
+      "odds": 97.6,
+      "win_prob": 0.0615
+    },
+    {
+      "rank": 10,
+      "horse_id": "2022102088",
+      "horse_name": "ユーティジャーニー",
+      "score": -0.8100800023903008,
+      "horse_number": 9,
+      "odds": 22.3,
+      "win_prob": 0.0375
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023106721",
+      "horse_name": "ヴァルボナ",
+      "score": -1.1616335400711804,
+      "horse_number": 1,
+      "odds": 54.5,
+      "win_prob": 0.0262
+    },
+    {
+      "rank": 12,
+      "horse_id": "2023100533",
+      "horse_name": "タイセイブルーム",
+      "score": -1.6188698395178236,
+      "horse_number": 14,
+      "odds": 39.1,
+      "win_prob": 0.0165
+    },
+    {
+      "rank": 13,
+      "horse_id": "2023103146",
+      "horse_name": "スタートレイン",
+      "score": -1.8954697226466826,
+      "horse_number": 3,
+      "odds": 25.7,
+      "win_prob": 0.0125
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103256",
+      "horse_name": "ユキノサイエンス",
+      "score": -2.2056309452872083,
+      "horse_number": 15,
+      "odds": 34.2,
+      "win_prob": 0.0091
+    },
+    {
+      "rank": 15,
+      "horse_id": "2023102592",
+      "horse_name": "ミヤエスケープ",
+      "score": -3.0218034974357977,
+      "horse_number": 6,
+      "odds": 1.7,
+      "win_prob": 0.004
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-25T04:12:14.582339+00:00",
+  "generated_at_unix": 1792901534,
+  "expires_at_unix": 1792905434,
+  "run_id": "40160813604",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "2d6a91cf2546ead1",
+    "base_snapshot_id": "4a1c78aedaf41191",
+    "snapshot_created_at": "2026-10-25T04:09:38.056366+00:00"
+  }
+}

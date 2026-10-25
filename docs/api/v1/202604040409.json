@@ -1,0 +1,152 @@
+{
+  "race_id": "202604040409",
+  "race_name": "柏崎特別",
+  "race_time": "2026-10-25 14:00",
+  "race_time_unix": 1792904400,
+  "race_place": "新潟",
+  "for_race_date": "2026-10-25",
+  "predictions": [
+    {
+      "rank": 1,
+      "horse_id": "2023101459",
+      "horse_name": "シャルムグリーン",
+      "score": 1.6161047078309947,
+      "horse_number": 5,
+      "odds": 21.4,
+      "win_prob": 0.4267
+    },
+    {
+      "rank": 2,
+      "horse_id": "2022105534",
+      "horse_name": "シャンパンライフ",
+      "score": 0.292197338629275,
+      "horse_number": 2,
+      "odds": 4.1,
+      "win_prob": 0.1115
+    },
+    {
+      "rank": 3,
+      "horse_id": "2023104678",
+      "horse_name": "コウギョク",
+      "score": 0.1518258944020572,
+      "horse_number": 6,
+      "odds": 6.6,
+      "win_prob": 0.0967
+    },
+    {
+      "rank": 4,
+      "horse_id": "2021105168",
+      "horse_name": "クイーンズワーフ",
+      "score": -0.177926902125007,
+      "horse_number": 14,
+      "odds": 25.9,
+      "win_prob": 0.0692
+    },
+    {
+      "rank": 5,
+      "horse_id": "2021103488",
+      "horse_name": "ジャンヌローサ",
+      "score": -0.19924217695056312,
+      "horse_number": 7,
+      "odds": 29.7,
+      "win_prob": 0.0677
+    },
+    {
+      "rank": 6,
+      "horse_id": "2023104355",
+      "horse_name": "テルヴィセクス",
+      "score": -0.2488089871293919,
+      "horse_number": 1,
+      "odds": 22.2,
+      "win_prob": 0.0644
+    },
+    {
+      "rank": 7,
+      "horse_id": "2023106913",
+      "horse_name": "ジュナベーラ",
+      "score": -0.39570979041416376,
+      "horse_number": 9,
+      "odds": 8.6,
+      "win_prob": 0.0555
+    },
+    {
+      "rank": 8,
+      "horse_id": "2022105122",
+      "horse_name": "ジェゼロ",
+      "score": -1.2683195040632633,
+      "horse_number": 11,
+      "odds": 15.2,
+      "win_prob": 0.0229
+    },
+    {
+      "rank": 9,
+      "horse_id": "2022105123",
+      "horse_name": "デビューフライト",
+      "score": -1.369051639346119,
+      "horse_number": 12,
+      "odds": 46.8,
+      "win_prob": 0.0207
+    },
+    {
+      "rank": 10,
+      "horse_id": "2021100081",
+      "horse_name": "ゴールドブレス",
+      "score": -1.4875882519971537,
+      "horse_number": 10,
+      "odds": 7.2,
+      "win_prob": 0.0183
+    },
+    {
+      "rank": 11,
+      "horse_id": "2023102083",
+      "horse_name": "ジーティーシンドウ",
+      "score": -1.5268683930864588,
+      "horse_number": 8,
+      "odds": 11.1,
+      "win_prob": 0.0176
+    },
+    {
+      "rank": 12,
+      "horse_id": "2022101498",
+      "horse_name": "クモヒトツナイ",
+      "score": -1.6213888309406088,
+      "horse_number": 4,
+      "odds": 29.9,
+      "win_prob": 0.016
+    },
+    {
+      "rank": 13,
+      "horse_id": "2022105334",
+      "horse_name": "ダノンブランニュー",
+      "score": -2.4694464869489905,
+      "horse_number": 3,
+      "odds": 7.9,
+      "win_prob": 0.0068
+    },
+    {
+      "rank": 14,
+      "horse_id": "2023103543",
+      "horse_name": "ルージュリリック",
+      "score": -2.5900460566957104,
+      "horse_number": 13,
+      "odds": 9.5,
+      "win_prob": 0.006
+    }
+  ],
+  "schema_version": 1,
+  "generated_at": "2026-10-25T04:12:14.582339+00:00",
+  "generated_at_unix": 1792901534,
+  "expires_at_unix": 1792905434,
+  "run_id": "40160813604",
+  "model": {
+    "bundle": "bundle_weekly",
+    "trained_at": "20261002_121948",
+    "calibration_method": "two_stage_scale_aligned",
+    "model_sha256": "d6aad8286f6c61e3"
+  },
+  "data": {
+    "snapshot_id": "2d6a91cf2546ead1",
+    "base_snapshot_id": "4a1c78aedaf41191",
+    "snapshot_created_at": "2026-10-25T04:09:38.056366+00:00"
+  }
+}
