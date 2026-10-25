@@ -1,0 +1,352 @@
+[
+  {
+    "race_id": "202605040901",
+    "race_name": "2歳未勝利",
+    "distance": 1600,
+    "track_surface": 2,
+    "race_place": "東京",
+    "race_grade": 9,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 09:50:00 +0900"
+  },
+  {
+    "race_id": "202605040902",
+    "race_name": "2歳未勝利",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "東京",
+    "race_grade": 9,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 10:20:00 +0900"
+  },
+  {
+    "race_id": "202605040903",
+    "race_name": "2歳未勝利",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "東京",
+    "race_grade": 9,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 10:50:00 +0900"
+  },
+  {
+    "race_id": "202605040905",
+    "race_name": "2歳新馬",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "東京",
+    "race_grade": 8,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 12:10:00 +0900"
+  },
+  {
+    "race_id": "202605040906",
+    "race_name": "2歳新馬",
+    "distance": 1400,
+    "track_surface": 1,
+    "race_place": "東京",
+    "race_grade": 8,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 12:40:00 +0900"
+  },
+  {
+    "race_id": "202605040907",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1400,
+    "track_surface": 2,
+    "race_place": "東京",
+    "race_grade": 7,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 13:10:00 +0900"
+  },
+  {
+    "race_id": "202605040908",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "東京",
+    "race_grade": 7,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 13:40:00 +0900"
+  },
+  {
+    "race_id": "202605040909",
+    "race_name": "三鷹特別",
+    "distance": 1600,
+    "track_surface": 2,
+    "race_place": "東京",
+    "race_grade": 6,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 14:10:00 +0900"
+  },
+  {
+    "race_id": "202605040910",
+    "race_name": "山中湖特別",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "東京",
+    "race_grade": 6,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 14:45:00 +0900"
+  },
+  {
+    "race_id": "202605040911",
+    "race_name": "神無月S",
+    "distance": 1400,
+    "track_surface": 2,
+    "race_place": "東京",
+    "race_grade": 4,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 15:20:00 +0900"
+  },
+  {
+    "race_id": "202605040912",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1600,
+    "track_surface": 2,
+    "race_place": "東京",
+    "race_grade": 7,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 16:10:00 +0900"
+  },
+  {
+    "race_id": "202608040901",
+    "race_name": "2歳未勝利",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "京都",
+    "race_grade": 9,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 10:01:00 +0900"
+  },
+  {
+    "race_id": "202608040902",
+    "race_name": "2歳未勝利",
+    "distance": 1400,
+    "track_surface": 2,
+    "race_place": "京都",
+    "race_grade": 9,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 10:30:00 +0900"
+  },
+  {
+    "race_id": "202608040903",
+    "race_name": "2歳未勝利",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "京都",
+    "race_grade": 9,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 11:00:00 +0900"
+  },
+  {
+    "race_id": "202608040904",
+    "race_name": "2歳新馬",
+    "distance": 1400,
+    "track_surface": 2,
+    "race_place": "京都",
+    "race_grade": 8,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 11:30:00 +0900"
+  },
+  {
+    "race_id": "202608040905",
+    "race_name": "2歳新馬",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "京都",
+    "race_grade": 8,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 12:20:00 +0900"
+  },
+  {
+    "race_id": "202608040906",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "京都",
+    "race_grade": 7,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 12:50:00 +0900"
+  },
+  {
+    "race_id": "202608040907",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "京都",
+    "race_grade": 7,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 13:20:00 +0900"
+  },
+  {
+    "race_id": "202608040908",
+    "race_name": "壬生特別",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "京都",
+    "race_grade": 6,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 13:50:00 +0900"
+  },
+  {
+    "race_id": "202608040909",
+    "race_name": "萩S",
+    "distance": 1800,
+    "track_surface": 1,
+    "race_place": "京都",
+    "race_grade": 11,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 14:25:00 +0900"
+  },
+  {
+    "race_id": "202608040910",
+    "race_name": "カノープスS",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "京都",
+    "race_grade": 4,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 15:01:00 +0900"
+  },
+  {
+    "race_id": "202608040911",
+    "race_name": "菊花賞",
+    "distance": 3000,
+    "track_surface": 1,
+    "race_place": "京都",
+    "race_grade": 1,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 15:40:00 +0900"
+  },
+  {
+    "race_id": "202608040912",
+    "race_name": "嵯峨野特別",
+    "distance": 1400,
+    "track_surface": 2,
+    "race_place": "京都",
+    "race_grade": 6,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 16:30:00 +0900"
+  },
+  {
+    "race_id": "202604040401",
+    "race_name": "2歳未勝利",
+    "distance": 1200,
+    "track_surface": 1,
+    "race_place": "新潟",
+    "race_grade": 9,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 09:40:00 +0900"
+  },
+  {
+    "race_id": "202604040402",
+    "race_name": "2歳未勝利",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "新潟",
+    "race_grade": 9,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 10:10:00 +0900"
+  },
+  {
+    "race_id": "202604040403",
+    "race_name": "2歳未勝利",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "新潟",
+    "race_grade": 9,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 10:40:00 +0900"
+  },
+  {
+    "race_id": "202604040404",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "新潟",
+    "race_grade": 7,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 11:10:00 +0900"
+  },
+  {
+    "race_id": "202604040405",
+    "race_name": "2歳新馬",
+    "distance": 1400,
+    "track_surface": 1,
+    "race_place": "新潟",
+    "race_grade": 8,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 12:00:00 +0900"
+  },
+  {
+    "race_id": "202604040406",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1800,
+    "track_surface": 2,
+    "race_place": "新潟",
+    "race_grade": 7,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 12:30:00 +0900"
+  },
+  {
+    "race_id": "202604040407",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "新潟",
+    "race_grade": 7,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 13:00:00 +0900"
+  },
+  {
+    "race_id": "202604040408",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 2500,
+    "track_surface": 2,
+    "race_place": "新潟",
+    "race_grade": 7,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 13:30:00 +0900"
+  },
+  {
+    "race_id": "202604040409",
+    "race_name": "柏崎特別",
+    "distance": 1600,
+    "track_surface": 1,
+    "race_place": "新潟",
+    "race_grade": 7,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 14:00:00 +0900"
+  },
+  {
+    "race_id": "202604040410",
+    "race_name": "村上特別",
+    "distance": 2000,
+    "track_surface": 1,
+    "race_place": "新潟",
+    "race_grade": 6,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 14:35:00 +0900"
+  },
+  {
+    "race_id": "202604040411",
+    "race_name": "ルミエAD",
+    "distance": 1000,
+    "track_surface": 1,
+    "race_place": "新潟",
+    "race_grade": 11,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 15:11:00 +0900"
+  },
+  {
+    "race_id": "202604040412",
+    "race_name": "3歳以上1勝クラス",
+    "distance": 1200,
+    "track_surface": 2,
+    "race_place": "新潟",
+    "race_grade": 7,
+    "race_date": "2026-10-25",
+    "race_time": "2026-10-25 16:01:00 +0900"
+  }
+]
